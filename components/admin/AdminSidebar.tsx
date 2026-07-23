@@ -1,15 +1,45 @@
 "use client";
 
+import React from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
+import {
+  Boxes,
+  Cpu,
+  ExternalLink,
+  FolderTree,
+  Inbox,
+  Layers,
+  LayoutDashboard,
+  LogOut,
+  Package,
+  ShieldCheck,
+} from "lucide-react";
+import { BrandLogo } from "@/components/common/BrandLogo/BrandLogo";
+import styles from "./AdminConsole.module.css";
 
-const links = [
-  { href: "/admin", label: "Dashboard", exact: true },
-  { href: "/admin/products", label: "Products" },
-  { href: "/admin/categories", label: "Categories" },
-  { href: "/admin/bundles", label: "Bundles" },
-  { href: "/admin/solutions", label: "Solutions" },
-  { href: "/admin/inquiries", label: "Inquiries" },
+const GROUPS = [
+  {
+    title: "OVERVIEW",
+    items: [
+      { href: "/admin", label: "Dashboard", icon: LayoutDashboard, exact: true },
+    ],
+  },
+  {
+    title: "CATALOG MANAGEMENT",
+    items: [
+      { href: "/admin/products", label: "Products Catalog", icon: Package, exact: false },
+      { href: "/admin/categories", label: "Categories", icon: FolderTree, exact: false },
+      { href: "/admin/bundles", label: "Hardware Bundles", icon: Boxes, exact: false },
+      { href: "/admin/solutions", label: "Industry Solutions", icon: Layers, exact: false },
+    ],
+  },
+  {
+    title: "LEADS & QUOTES",
+    items: [
+      { href: "/admin/inquiries", label: "Proposal Inquiries", icon: Inbox, exact: false },
+    ],
+  },
 ];
 
 export function AdminSidebar() {
@@ -23,44 +53,53 @@ export function AdminSidebar() {
   }
 
   return (
-    <aside className="flex w-full flex-col border-b border-slate-800 bg-slate-950 text-slate-200 md:min-h-screen md:w-60 md:border-b-0 md:border-r">
-      <div className="px-5 py-5">
-        <p className="text-xs uppercase tracking-[0.2em] text-cyan-400">Admin</p>
-        <p className="mt-1 font-display text-xl text-white">Jaxicloud</p>
-      </div>
-      <nav className="flex gap-1 overflow-x-auto px-3 pb-3 md:flex-col md:overflow-visible">
-        {links.map((link) => {
-          const active = link.exact
-            ? pathname === link.href
-            : pathname.startsWith(link.href);
-          return (
-            <Link
-              key={link.href}
-              href={link.href}
-              className={`whitespace-nowrap rounded-md px-3 py-2 text-sm transition ${
-                active
-                  ? "bg-cyan-500/20 text-cyan-200"
-                  : "text-slate-300 hover:bg-slate-800 hover:text-white"
-              }`}
-            >
-              {link.label}
-            </Link>
-          );
-        })}
-      </nav>
-      <div className="mt-auto flex gap-2 border-t border-slate-800 p-4">
-        <Link
-          href="/"
-          className="rounded-md px-3 py-2 text-sm text-slate-400 hover:text-white"
-        >
-          View site
+    <aside className={styles.sidebar}>
+      {/* Brand Header */}
+      <div className={styles.brandHeader}>
+        <Link href="/admin" className="flex items-center gap-2">
+          <BrandLogo size="sm" />
+          <span className={styles.systemBadge}>OS ADMIN</span>
         </Link>
-        <button
-          type="button"
-          onClick={logout}
-          className="rounded-md px-3 py-2 text-sm text-slate-400 hover:text-white"
-        >
-          Log out
+      </div>
+
+      {/* Grouped Navigation Links */}
+      {GROUPS.map((group) => (
+        <div key={group.title} className={styles.navGroup}>
+          <div className={styles.navGroupTitle}>{group.title}</div>
+          <div className={styles.navList}>
+            {group.items.map((link) => {
+              const IconComp = link.icon;
+              const active = link.exact
+                ? pathname === link.href
+                : pathname.startsWith(link.href);
+
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={`${styles.navItem} ${
+                    active ? styles.navItemActive : ""
+                  }`}
+                >
+                  <IconComp className={styles.navIcon} />
+                  <span>{link.label}</span>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      ))}
+
+      {/* Footer Profile & System Status */}
+      <div className={styles.sidebarFooter}>
+        <div className={styles.statusIndicator}>
+          <div className={styles.pulseGreen} />
+          <span>MongoDB Connected • Sync Active</span>
+        </div>
+
+        <button type="button" onClick={logout} className={styles.logoutBtn}>
+          <LogOut className="w-4 h-4" />
+          <span>Log Out</span>
         </button>
       </div>
     </aside>

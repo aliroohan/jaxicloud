@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { ArrowRight, Camera, Cpu, HardDrive, Layers, Navigation, ShieldCheck, Truck, Wrench } from "lucide-react";
+import { ArrowRight, Camera, Cpu, HardDrive, Layers, Navigation, ShieldCheck, Truck, Users, Wrench } from "lucide-react";
 import styles from "./Navbar.module.css";
 
 interface MegaDropdownProps {
@@ -65,47 +65,53 @@ const SOLUTIONS_DATA = {
 };
 
 const PRODUCTS_DATA = {
-  col1Title: "Hardware Categories",
+  col1Title: "Core Telematics Hardware",
   col1Items: [
     {
       href: "/products?category=dash-cameras",
       icon: Camera,
-      title: "AI Dash Cameras",
-      desc: "Dual 4K road & cabin vision with LTE cloud connectivity.",
+      title: "Dash Cameras & AI Vision",
+      desc: "Dual 4K vision dashcams with onboard ADAS & DMS fatigue alerts.",
     },
     {
-      href: "/products?category=gps-trackers",
-      icon: Navigation,
-      title: "GPS & CANbus Trackers",
-      desc: "OBD-II and wired vehicle trackers with remote engine kill.",
+      href: "/products?category=mdvr-computing",
+      icon: HardDrive,
+      title: "Mobile MDVR & AI Computing",
+      desc: "Multi-channel Mobile DVRs and edge computing hubs for heavy fleets.",
     },
     {
-      href: "/products?category=sensors",
+      href: "/products?category=driver-terminals",
       icon: Cpu,
-      title: "Wireless Sensor Arrays",
-      desc: "Bluetooth BLE temperature, door, and tire pressure sensors.",
+      title: "Driver Terminals & ELD",
+      desc: "Ruggedized Android displays for ELD logs, navigation, & dispatch.",
     },
   ],
-  col2Title: "Hardware Accessories",
+  col2Title: "Sensors & Mining Systems",
   col2Items: [
     {
-      href: "/products?category=tablets",
-      icon: HardDrive,
-      title: "Ruggedized Driver Tablets",
-      desc: "IP67 vehicle-mounted displays for ELD and dispatch.",
+      href: "/products?category=passenger-sensors",
+      icon: Users,
+      title: "Passenger & APC Sensors",
+      desc: "3D stereoscopic automated passenger counting & cabin sensors.",
     },
     {
-      href: "/bundles",
+      href: "/products?category=mining-machinery",
+      icon: Wrench,
+      title: "Mining & Heavy Machinery",
+      desc: "IP69K rugged cameras for open-pit haul trucks & extreme environments.",
+    },
+    {
+      href: "/products",
       icon: Layers,
-      title: "Pre-Configured Hardware Bundles",
-      desc: "Complete plug-and-play kits optimized by vehicle type.",
+      title: "Complete Hardware Catalog",
+      desc: "Explore all 31 Streamax enterprise hardware units and spec sheets.",
     },
   ],
   spotlight: {
-    tag: "FLAGSHIP HARDWARE",
-    title: "Jaxi-Cam Dual Vision AI Pro",
-    desc: "Quad-core neural processor with real-time lane departure and distracted driver prevention.",
-    href: "/products/dash-cameras",
+    tag: "FLAGSHIP TERMINAL",
+    title: "XPAD 5.0 Driver Terminal",
+    desc: "Octa-core 8-inch Android vehicle display with dual CANbus, NFC driver authentication, & IP65 ruggedization.",
+    href: "/products/driver-terminals/xpad-5-0",
   },
 };
 

@@ -1,0 +1,232 @@
+.footerSection {
+  position: relative;
+  width: 100%;
+  background-color: #fafbfd;
+  color: #101828;
+  padding: 6rem 0 3rem;
+  overflow: hidden;
+  user-select: none;
+  border-top: 1px solid #e6eaf0;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Luxury Soft Light Newsletter Card (Top Band) */
+.newsletterCard {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 28px;
+  padding: 3rem 2.5rem;
+  margin-bottom: 5rem;
+  box-shadow: 0 20px 40px -15px rgba(16, 24, 40, 0.05);
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+  .newsletterCard {
+    grid-template-columns: 6fr 6fr;
+  }
+}
+
+.newsletterTitle {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 700;
+  line-height: 1.2;
+  color: #0b1c2c;
+  margin-bottom: 0.5rem;
+}
+
+.newsletterDesc {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #667085;
+}
+
+.newsletterForm {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .newsletterForm {
+    flex-direction: row;
+  }
+}
+
+.emailInput {
+  flex: 1;
+  padding: 0.85rem 1.25rem;
+  background-color: #f8fafc;
+  border: 1px solid #cbd5e1;
+  border-radius: 16px;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.9rem;
+  color: #0b1c2c;
+  outline: none;
+  transition: border-color 0.25s ease, background-color 0.25s ease;
+}
+
+.emailInput:focus {
+  border-color: #0e7490;
+  background-color: #ffffff;
+}
+
+.subscribeBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #0e7490;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  box-shadow: 0 10px 25px -4px rgba(14, 116, 144, 0.4);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  white-space: nowrap;
+}
+
+.subscribeBtn:hover {
+  background-color: #0a5a6e;
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px -4px rgba(14, 116, 144, 0.5);
+}
+
+/* 5-Column Navigation Grid (Middle Band) */
+.navGrid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 3rem;
+  margin-bottom: 5rem;
+}
+
+@media (min-width: 640px) {
+  .navGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .navGrid {
+    grid-template-columns: 2.2fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+.brandCol {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.brandTagline {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #64748b;
+  max-width: 320px;
+}
+
+.brandContact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.85rem;
+  color: #475569;
+}
+
+.brandContactLink {
+  color: #0e7490;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.brandContactLink:hover {
+  color: #0b1c2c;
+}
+
+.colTitle {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #0e7490;
+  margin-bottom: 1.25rem;
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footerLink {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.875rem;
+  color: #64748b;
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+.footerLink:hover {
+  color: #0b1c2c;
+  transform: translateX(3px);
+}
+
+/* Bottom Operational Compliance Bar */
+.bottomBar {
+  padding-top: 2.5rem;
+  border-top: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+  .bottomBar {
+    flex-direction: row;
+  }
+}
+
+.complianceRow {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.complianceTag {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #94a3b8;
+  text-transform: uppercase;
+}
+
+.copyrightText {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.8rem;
+  color: #64748b;
+}

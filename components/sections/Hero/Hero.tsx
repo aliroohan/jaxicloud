@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from "react";
 import Link from "next/link";
 import gsap from "gsap";
-import { ArrowRight, ChevronDown, Layers, ShieldCheck } from "lucide-react";
+import { ArrowRight, Layers, ShieldCheck } from "lucide-react";
 import styles from "./Hero.module.css";
 
 export function Hero() {
@@ -41,7 +41,6 @@ export function Hero() {
 
   // GSAP Entrance Animation Timeline
   useEffect(() => {
-    const statusChip = statusChipRef.current;
     const line1 = line1Ref.current;
     const line2 = line2Ref.current;
     const subhead = subheadRef.current;
@@ -50,35 +49,22 @@ export function Hero() {
     const tl = gsap.timeline({ delay: 0.2 });
 
     // Initial Hidden State
-    gsap.set([statusChip, line1, line2, subhead, buttonGroup], {
+    gsap.set([line1, line2, subhead, buttonGroup], {
       opacity: 0,
       y: 30,
       filter: "blur(8px)",
     });
 
-    // 1. Status Chip Unmask
-    tl.to(statusChip, {
+    // 1. Line 1 Unmask
+    tl.to(line1, {
       opacity: 1,
       y: 0,
       filter: "blur(0px)",
-      duration: 0.6,
+      duration: 0.7,
       ease: "power3.out",
     });
 
-    // 2. Line 1 Unmask
-    tl.to(
-      line1,
-      {
-        opacity: 1,
-        y: 0,
-        filter: "blur(0px)",
-        duration: 0.7,
-        ease: "power3.out",
-      },
-      "-=0.4"
-    );
-
-    // 3. Line 2 Unmask with Cyan Highlight
+    // 2. Line 2 Unmask with Cyan Highlight
     tl.to(
       line2,
       {
@@ -91,7 +77,7 @@ export function Hero() {
       "-=0.5"
     );
 
-    // 4. Subheadline Reveal
+    // 3. Subheadline Reveal
     tl.to(
       subhead,
       {
@@ -104,7 +90,7 @@ export function Hero() {
       "-=0.4"
     );
 
-    // 5. CTAs Spring In
+    // 4. CTAs Spring In
     tl.to(
       buttonGroup,
       {
@@ -126,26 +112,23 @@ export function Hero() {
     <section ref={sectionRef} className={styles.heroSection}>
       {/* Background Visual Layer with Parallax tracking */}
       <div ref={bgMediaRef} className={styles.bgMediaWrapper}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src="https://images.unsplash.com/photo-1544620341-1ada2ff8c6ef?auto=format&fit=crop&w=2000&q=85"
-          alt="Commercial fleet connected with JaxiCloud telematics"
-          className={styles.bgImage}
+        <video
+          src="/semi1.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
+          className={styles.bgVideo}
         />
       </div>
 
       {/* Gradient & Technical Grid Overlays */}
       <div className={styles.gradientOverlay} />
       <div className={styles.lightGridOverlay} />
+      <div className={styles.bottomShadeMask} />
 
       {/* Main Editorial Hero Content Container */}
       <div className={styles.heroContainer}>
-        {/* Live Scale Status Chip */}
-        <div ref={statusChipRef} className={styles.statusChip}>
-          <div className={styles.statusDot} />
-          <span>500,000+ Vehicles Connected Across 45 Countries</span>
-        </div>
-
         {/* SplitText Headline Group */}
         <div className={styles.headlineGroup}>
           <div ref={line1Ref} className={styles.headlineMain}>
@@ -175,12 +158,6 @@ export function Hero() {
             <span>Browse Catalog</span>
           </Link>
         </div>
-      </div>
-
-      {/* Pulsing Scroll Cue */}
-      <div className={styles.scrollCue}>
-        <span>SCROLL TO DISCOVER</span>
-        <ChevronDown className={styles.scrollCueIcon} />
       </div>
     </section>
   );

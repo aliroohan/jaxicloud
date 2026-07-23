@@ -1,14 +1,16 @@
 .headerOuter {
-  position: sticky;
-  top: 0;
+  position: fixed;
+  top: 35px;
   z-index: 40;
   width: 100%;
   padding: 0.5rem 1rem;
-  transition: padding 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: padding 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+              top 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   pointer-events: none;
 }
 
 .headerOuterScrolled {
+  top: 0;
   padding: 0.75rem 1.25rem;
 }
 

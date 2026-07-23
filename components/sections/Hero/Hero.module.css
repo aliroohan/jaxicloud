@@ -20,7 +20,8 @@
   will-change: transform;
 }
 
-.bgImage {
+.bgImage,
+.bgVideo {
   position: absolute;
   inset: 0;
   width: 100%;
@@ -42,6 +43,24 @@
     rgba(14, 116, 144, 0.42) 100%
   );
   pointer-events: none;
+}
+
+.bottomShadeMask {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  background: linear-gradient(
+    to top,
+    #0b1c2c 15%,
+    rgba(11, 28, 44, 0.9) 55%,
+    transparent 100%
+  );
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  pointer-events: none;
+  z-index: 4;
 }
 
 .lightGridOverlay {

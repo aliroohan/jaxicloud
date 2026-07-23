@@ -1,4 +1,6 @@
+import { AdminHeader } from "@/components/admin/AdminHeader";
 import { AdminSidebar } from "@/components/admin/AdminSidebar";
+import styles from "@/components/admin/AdminConsole.module.css";
 
 export default function AdminCmsLayout({
   children,
@@ -6,9 +8,12 @@ export default function AdminCmsLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="min-h-screen bg-slate-100 text-slate-900 md:flex">
+    <div className={styles.pageWrapper}>
       <AdminSidebar />
-      <div className="flex-1 p-4 sm:p-8">{children}</div>
+      <div className={styles.mainStage}>
+        <AdminHeader />
+        <div className={styles.contentBody}>{children}</div>
+      </div>
     </div>
   );
 }
