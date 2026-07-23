@@ -43,8 +43,12 @@ export default function RootLayout({
     <html
       lang="en"
       className={`${dmSans.variable} ${fraunces.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col bg-[var(--background)] text-[var(--foreground)]">
+      <body
+        className="min-h-full flex flex-col bg-[var(--background)] text-[var(--foreground)]"
+        suppressHydrationWarning
+      >
         <Providers>{children}</Providers>
         {gaId ? (
           <>

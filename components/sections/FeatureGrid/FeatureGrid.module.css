@@ -1,0 +1,305 @@
+.featureSection {
+  position: relative;
+  width: 100%;
+  padding: 8rem 0;
+  background-color: #f5f7fa;
+  color: #101828;
+  overflow: hidden;
+  user-select: none;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.headerBlock {
+  max-width: 720px;
+  margin-bottom: 4rem;
+}
+
+.sectionTag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.9rem;
+  background-color: rgba(14, 116, 144, 0.08);
+  border: 1px solid rgba(14, 116, 144, 0.2);
+  border-radius: 999px;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.725rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #0e7490;
+  margin-bottom: 1.25rem;
+}
+
+.sectionTitle {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-size: clamp(2.25rem, 4vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+  color: #0b1c2c;
+  margin-bottom: 1rem;
+}
+
+.subheadline {
+  font-family: var(--font-dm-sans), system-ui, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #667085;
+}
+
+/* Asymmetrical 12-Column Grid Layout */
+.gridAsymmetrical {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+}
+
+@media (min-width: 1024px) {
+  .gridAsymmetrical {
+    grid-template-columns: 7fr 5fr;
+  }
+}
+
+/* Common Card Rules */
+.cardBase {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #e6eaf0;
+  border-radius: 28px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px -15px rgba(16, 24, 40, 0.05);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow, border-color;
+}
+
+/* Micro Light-Sweep Shimmer Top Border */
+.cardBase::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    #38bdf8 50%,
+    transparent 100%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.cardBase:hover {
+  transform: translateY(-6px);
+  border-color: rgba(14, 116, 144, 0.3);
+  box-shadow: 0 24px 50px -12px rgba(11, 28, 44, 0.12);
+}
+
+.cardBase:hover::after {
+  opacity: 1;
+  animation: lightSweep 0.8s ease-out forwards;
+}
+
+@keyframes lightSweep {
+  0% {
+    left: -60%;
+  }
+  100% {
+    left: 140%;
+  }
+}
+
+/* Lead Feature Hero Card (7 Cols) */
+.leadCard {
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 520px;
+}
+
+.leadHeader {
+  margin-bottom: 2rem;
+}
+
+.leadTitle {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-size: 1.85rem;
+  font-weight: 700;
+  color: #0b1c2c;
+  margin-bottom: 0.6rem;
+}
+
+.leadDesc {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #667085;
+  max-width: 580px;
+}
+
+.badgeRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.badge {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.25rem 0.65rem;
+  background-color: #f4f7fb;
+  border: 1px solid #d7e0ea;
+  border-radius: 8px;
+  color: #0e7490;
+}
+
+/* Lead Interactive Telemetry Widget */
+.widgetStage {
+  background: linear-gradient(145deg, #0b1c2c 0%, #1e3a5f 100%);
+  border-radius: 20px;
+  padding: 1.5rem;
+  color: #ffffff;
+  margin-top: auto;
+}
+
+.tabPillRow {
+  display: flex;
+  gap: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.08);
+  padding: 0.3rem;
+  border-radius: 12px;
+  margin-bottom: 1.25rem;
+}
+
+.tabPill {
+  flex: 1;
+  padding: 0.45rem 0.65rem;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.775rem;
+  font-weight: 600;
+  color: #94a3b8;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.tabPillActive {
+  color: #0b1c2c;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.telemetryOutput {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  font-family: var(--font-dm-sans), sans-serif;
+}
+
+.telemetryBox {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 0.85rem;
+}
+
+.telemetryLabel {
+  font-size: 0.675rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #94a3b8;
+  margin-bottom: 0.25rem;
+}
+
+.telemetryVal {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #38bdf8;
+}
+
+/* 4 Supporting Cards 2x2 Sub-Grid (5 Cols) */
+.supportingGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .supportingGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.supportingCard {
+  padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 245px;
+}
+
+.iconPod {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  background-color: #cffafe;
+  border: 1px solid rgba(14, 116, 144, 0.2);
+  color: #0e7490;
+  border-radius: 12px;
+  margin-bottom: 1.25rem;
+  transition: transform 0.3s ease;
+}
+
+.supportingCard:hover .iconPod {
+  transform: scale(1.1) rotate(4deg);
+}
+
+.cardTitle {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0b1c2c;
+  margin-bottom: 0.4rem;
+}
+
+.cardBody {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #667085;
+}
+
+.cardFooterLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 1.25rem;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #0e7490;
+  text-decoration: none;
+  transition: gap 0.2s ease;
+}
+
+.supportingCard:hover .cardFooterLink {
+  gap: 0.6rem;
+}
