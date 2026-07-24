@@ -3,159 +3,114 @@
 import React, { useEffect, useRef } from "react";
 import Link from "next/link";
 import gsap from "gsap";
-import { ArrowRight, Layers, ShieldCheck } from "lucide-react";
+import { ArrowRight, Layers } from "lucide-react";
 import styles from "./Hero.module.css";
 
 export function Hero() {
   const sectionRef = useRef<HTMLDivElement>(null);
-  const bgMediaRef = useRef<HTMLDivElement>(null);
-  const statusChipRef = useRef<HTMLDivElement>(null);
-  const line1Ref = useRef<HTMLDivElement>(null);
-  const line2Ref = useRef<HTMLDivElement>(null);
-  const subheadRef = useRef<HTMLParagraphElement>(null);
-  const buttonGroupRef = useRef<HTMLDivElement>(null);
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
+  const staggerItemsRef = useRef<(HTMLElement | null)[]>([]);
 
-  // Mouse Parallax Effect
+  textMasksRef.current = [];
+  const addToTextMasks = (el: HTMLSpanElement | null) => {
+    if (el) textMasksRef.current.push(el);
+  };
+
+  staggerItemsRef.current = [];
+  const addToStagger = (el: HTMLElement | null) => {
+    if (el) staggerItemsRef.current.push(el);
+  };
+
   useEffect(() => {
     const section = sectionRef.current;
-    const bgMedia = bgMediaRef.current;
-    if (!section || !bgMedia) return;
+    if (!section) return;
 
-    const handleMouseMove = (e: MouseEvent) => {
-      const { clientX, clientY } = e;
-      const { innerWidth, innerHeight } = window;
-      const xPos = (clientX / innerWidth - 0.5) * 30;
-      const yPos = (clientY / innerHeight - 0.5) * 20;
+    const tl = gsap.timeline();
 
-      gsap.to(bgMedia, {
-        x: xPos,
-        y: yPos,
-        duration: 1.2,
+    // 1. Video Fade & Scale In
+    if (videoRef.current) {
+      tl.to(videoRef.current, {
+        opacity: 1,
+        scale: 1,
+        duration: 2,
         ease: "power2.out",
       });
-    };
+    }
 
-    window.addEventListener("mousemove", handleMouseMove);
-    return () => window.removeEventListener("mousemove", handleMouseMove);
-  }, []);
+    // 2. Apple-style Text Mask Reveal for the Title
+    const textMasks = textMasksRef.current;
+    if (textMasks.length) {
+      gsap.set(textMasks, { y: "120%" });
+      tl.to(textMasks, {
+        y: "0%",
+        duration: 1.2,
+        stagger: 0.15,
+        ease: "power4.out",
+      }, "-=1.2"); // Overlap with video animation
+    }
 
-  // GSAP Entrance Animation Timeline
-  useEffect(() => {
-    const line1 = line1Ref.current;
-    const line2 = line2Ref.current;
-    const subhead = subheadRef.current;
-    const buttonGroup = buttonGroupRef.current;
-
-    const tl = gsap.timeline({ delay: 0.2 });
-
-    // Initial Hidden State
-    gsap.set([line1, line2, subhead, buttonGroup], {
-      opacity: 0,
-      y: 30,
-      filter: "blur(8px)",
-    });
-
-    // 1. Line 1 Unmask
-    tl.to(line1, {
-      opacity: 1,
-      y: 0,
-      filter: "blur(0px)",
-      duration: 0.7,
-      ease: "power3.out",
-    });
-
-    // 2. Line 2 Unmask with Cyan Highlight
-    tl.to(
-      line2,
-      {
+    // 3. Stagger subheadline and buttons
+    const staggerItems = staggerItemsRef.current;
+    if (staggerItems.length) {
+      gsap.set(staggerItems, { opacity: 0, y: 20 });
+      tl.to(staggerItems, {
         opacity: 1,
         y: 0,
-        filter: "blur(0px)",
-        duration: 0.7,
+        duration: 1,
+        stagger: 0.2,
         ease: "power3.out",
-      },
-      "-=0.5"
-    );
-
-    // 3. Subheadline Reveal
-    tl.to(
-      subhead,
-      {
-        opacity: 1,
-        y: 0,
-        filter: "blur(0px)",
-        duration: 0.6,
-        ease: "power3.out",
-      },
-      "-=0.4"
-    );
-
-    // 4. CTAs Spring In
-    tl.to(
-      buttonGroup,
-      {
-        opacity: 1,
-        y: 0,
-        filter: "blur(0px)",
-        duration: 0.6,
-        ease: "back.out(1.4)",
-      },
-      "-=0.4"
-    );
-
-    return () => {
-      tl.kill();
-    };
+      }, "-=0.8");
+    }
   }, []);
 
   return (
     <section ref={sectionRef} className={styles.heroSection}>
-      {/* Background Visual Layer with Parallax tracking */}
-      <div ref={bgMediaRef} className={styles.bgMediaWrapper}>
-        <video
-          src="/semi1.mp4"
-          autoPlay
-          loop
-          muted
-          playsInline
-          className={styles.bgVideo}
-        />
-      </div>
+      {/* Full-Bleed Background Video */}
+      <video
+        ref={videoRef}
+        src="/semi1.mp4"
+        autoPlay
+        muted
+        loop
+        playsInline
+        className={styles.videoBackground}
+      />
+      <div className={styles.videoOverlay} />
+      <div className={styles.bottomBlur} />
 
-      {/* Gradient & Technical Grid Overlays */}
-      <div className={styles.gradientOverlay} />
-      <div className={styles.lightGridOverlay} />
-      <div className={styles.bottomShadeMask} />
+      {/* Foreground Content */}
+      <div className={styles.contentWrapper}>
+        <h1 className={styles.headlineMain}>
+          <span className={styles.textMask}>
+            <span ref={addToTextMasks} className={styles.textMaskInner}>Connecting Every Fleet</span>
+          </span>
+          <span className={styles.textMask}>
+            <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.headlineHighlight}`}>with Intelligence.</span>
+          </span>
+        </h1>
 
-      {/* Main Editorial Hero Content Container */}
-      <div className={styles.heroContainer}>
-        {/* SplitText Headline Group */}
-        <div className={styles.headlineGroup}>
-          <div ref={line1Ref} className={styles.headlineMain}>
-            Connecting Every Fleet
+        <div className={styles.subheadline}>
+          <div className={styles.textMask}>
+            <span ref={addToTextMasks} className={styles.textMaskInner}>
+              Cameras, trackers, tablets, and sensors—curated for commercial fleets.
+            </span>
           </div>
-          <div ref={line2Ref} className={styles.headlineMain}>
-            <span className={styles.headlineHighlight}>
-              with Intelligence.
+          <div className={styles.textMask}>
+            <span ref={addToTextMasks} className={styles.textMaskInner}>
+              Re-engineered into one unified, intelligent telematics ecosystem.
             </span>
           </div>
         </div>
 
-        {/* Subheadline */}
-        <p ref={subheadRef} className={styles.subheadline}>
-          Cameras, trackers, tablets, and sensors—curated for commercial fleets.
-          Re-engineered into one unified, intelligent telematics ecosystem.
-        </p>
-
-        {/* Commercial Action CTAs */}
-        <div ref={buttonGroupRef} className={styles.buttonGroup}>
+        <div ref={addToStagger} className={styles.buttonGroup}>
           <Link href="/solutions" className={styles.primaryButton}>
-            <span>Explore Solutions</span>
+            <span>Explore Platform</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
           <Link href="/products" className={styles.secondaryButton}>
-            <Layers className="w-4 h-4 text-cyan-400" />
-            <span>Browse Catalog</span>
+            <Layers className="w-4 h-4" />
+            <span>Hardware Catalog</span>
           </Link>
         </div>
       </div>

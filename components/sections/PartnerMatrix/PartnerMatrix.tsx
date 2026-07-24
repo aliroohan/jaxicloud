@@ -28,34 +28,73 @@ const ECOSYSTEM_PARTNERS = [
 
 export function PartnerMatrix() {
   const sectionRef = useRef<HTMLDivElement>(null);
-  const cardsRef = useRef<(HTMLDivElement | null)[]>([]);
+  const tagRef = useRef<HTMLDivElement>(null);
+  const subheadlineRef = useRef<HTMLParagraphElement>(null);
+  const marqueeContainerRef = useRef<HTMLDivElement>(null);
+  const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
   const [activePartner, setActivePartner] = useState<string | null>(null);
+
+  textMasksRef.current = [];
+  const addToTextMasks = (el: HTMLSpanElement | null) => {
+    if (el) textMasksRef.current.push(el);
+  };
 
   useEffect(() => {
     const section = sectionRef.current;
-    const cards = cardsRef.current;
     if (!section) return;
 
-    gsap.fromTo(
-      cards,
-      { opacity: 0, y: 30, scale: 0.96 },
-      {
-        opacity: 1,
-        y: 0,
-        scale: 1,
-        duration: 0.65,
-        stagger: 0.08,
-        ease: "power3.out",
-        scrollTrigger: {
-          trigger: section,
-          start: "top 75%",
-          toggleActions: "play none none reverse",
-        },
-      }
-    );
+    const tl = gsap.timeline({
+      scrollTrigger: {
+        trigger: section,
+        start: "top 80%",
+        toggleActions: "play none none reverse",
+      },
+    });
+
+    // 1. Tag fade in
+    if (tagRef.current) {
+      tl.fromTo(
+        tagRef.current,
+        { opacity: 0, y: 15 },
+        { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }
+      );
+    }
+
+    // 2. Apple-style Text Mask Reveal for the Heading
+    const textMasks = textMasksRef.current;
+    if (textMasks.length) {
+      tl.fromTo(
+        textMasks,
+        { y: "120%" },
+        { y: "0%", duration: 0.8, stagger: 0.1, ease: "power4.out" },
+        "-=0.2"
+      );
+    }
+
+    // 3. Fade in subheadline
+    if (subheadlineRef.current) {
+      tl.fromTo(
+        subheadlineRef.current,
+        { opacity: 0, y: 20 },
+        { opacity: 1, y: 0, duration: 0.6, ease: "power3.out" },
+        "-=0.4"
+      );
+    }
+
+    // 4. Marquee pop-up
+    if (marqueeContainerRef.current) {
+      tl.fromTo(
+        marqueeContainerRef.current,
+        { opacity: 0, scale: 0.95, y: 40 },
+        { opacity: 1, scale: 1, y: 0, duration: 0.8, ease: "back.out(1.2)" },
+        "-=0.4"
+      );
+    }
 
     return () => {
-      ScrollTrigger.getAll().forEach((t) => t.kill());
+      ScrollTrigger.getAll().forEach((t) => {
+        if (t.vars.trigger === section) t.kill();
+      });
     };
   }, []);
 
@@ -64,50 +103,97 @@ export function PartnerMatrix() {
       <div className={styles.container}>
         {/* Section Header */}
         <div className={styles.headerBlock}>
-          <div className={styles.sectionTag}>
-            <ShieldCheck className="w-3.5 h-3.5 text-cyan-600" />
-            <span>ENTERPRISE ECOSYSTEM PARTNERS</span>
+          <div ref={tagRef} className={styles.sectionTag}>
+            ENTERPRISE ECOSYSTEM PARTNERS
           </div>
           <h2 className={styles.sectionTitle}>
-            Integrated Across Global Fleet Ecosystems.
+            <span className={styles.textMask}>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>Integrated Across Global Fleet</span>
+            </span>
+            <span className={styles.textMask}>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.highlight}`}>Ecosystems.</span>
+            </span>
           </h2>
-          <p className={styles.subheadline}>
+          <p ref={subheadlineRef} className={styles.subheadline}>
             Native out-of-the-box integration with vehicle OEMs, enterprise ERPs,
             cloud networks, and logistics management platforms.
           </p>
         </div>
 
-        {/* 4x3 Interactive Partner Matrix Grid */}
-        <div className={styles.matrixGrid}>
-          {ECOSYSTEM_PARTNERS.map((partner, idx) => (
-            <div
-              key={partner.id}
-              ref={(el) => {
-                cardsRef.current[idx] = el;
-              }}
-              onMouseEnter={() => setActivePartner(partner.id)}
-              onMouseLeave={() => setActivePartner(null)}
-              className={styles.partnerCard}
-            >
-              <div className={styles.partnerLogoName}>{partner.name}</div>
-              <div className={styles.partnerCategory}>{partner.category}</div>
+        {/* Infinite Partner Marquees - Highway Traffic! */}
+        <div ref={marqueeContainerRef} className={styles.marqueeContainer}>
+          
+          {/* Top Lane: Fast Highway (Right to Left) */}
+          <div className={`${styles.marqueeRow} ${styles.scrollLeftFast}`}>
+            {[...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS].map((partner, idx) => (
+              <div
+                key={`top-${idx}`}
+                onMouseEnter={() => setActivePartner(`top-${idx}`)}
+                onMouseLeave={() => setActivePartner(null)}
+                className={styles.truckCard}
+              >
+                <img src="/truck.png" alt="Truck" className={styles.truckImage} />
+                
+                {/* Partner Name painted on the trailer */}
+                <div className={styles.truckDecal}>
+                  <Layers className={styles.decalIcon} size={28} />
+                  <span>{partner.name}</span>
+                </div>
 
-              {/* Floating Glass Tooltip */}
-              <AnimatePresence>
-                {activePartner === partner.id && (
-                  <motion.div
-                    initial={{ opacity: 0, y: 6, scale: 0.92 }}
-                    animate={{ opacity: 1, y: 0, scale: 1 }}
-                    exit={{ opacity: 0, y: 4, scale: 0.92 }}
-                    transition={{ duration: 0.18 }}
-                    className={styles.tooltipBadge}
-                  >
-                    {partner.integration}
-                  </motion.div>
-                )}
-              </AnimatePresence>
-            </div>
-          ))}
+                {/* Floating Glass Tooltip */}
+                <AnimatePresence>
+                  {activePartner === `top-${idx}` && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                      animate={{ opacity: 1, y: -20, scale: 1 }}
+                      exit={{ opacity: 0, y: 5, scale: 0.95 }}
+                      transition={{ duration: 0.2 }}
+                      className={styles.tooltipBadge}
+                    >
+                      <span className={styles.integrationText}>{partner.integration}</span>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+            ))}
+          </div>
+
+          {/* Bottom Lane: Heavy Load (Right to Left, slightly slower) */}
+          <div className={`${styles.marqueeRow} ${styles.scrollLeftSlow}`}>
+            {/* Start from halfway through the list to randomize */}
+            {[...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6), ...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6)].map((partner, idx) => (
+              <div
+                key={`bottom-${idx}`}
+                onMouseEnter={() => setActivePartner(`bottom-${idx}`)}
+                onMouseLeave={() => setActivePartner(null)}
+                className={styles.truckCard}
+              >
+                <img src="/truck.png" alt="Truck" className={styles.truckImage} />
+                
+                {/* Partner Name painted on the trailer */}
+                <div className={styles.truckDecal}>
+                  <Layers className={styles.decalIcon} size={28} />
+                  <span>{partner.name}</span>
+                </div>
+
+                {/* Floating Glass Tooltip */}
+                <AnimatePresence>
+                  {activePartner === `bottom-${idx}` && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                      animate={{ opacity: 1, y: -20, scale: 1 }}
+                      exit={{ opacity: 0, y: 5, scale: 0.95 }}
+                      transition={{ duration: 0.2 }}
+                      className={styles.tooltipBadge}
+                    >
+                      <span className={styles.integrationText}>{partner.integration}</span>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+            ))}
+          </div>
+
         </div>
       </div>
     </section>

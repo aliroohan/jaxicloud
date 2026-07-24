@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence, Variants } from "framer-motion";
 import { ArrowRight, Camera, Cpu, HardDrive, Layers, Navigation, ShieldCheck, Truck, Users, Wrench } from "lucide-react";
 import styles from "./Navbar.module.css";
 
@@ -115,6 +115,11 @@ const PRODUCTS_DATA = {
   },
 };
 
+const itemVariants: Variants = {
+  hidden: { opacity: 0, y: 8 },
+  visible: { opacity: 1, y: 0, transition: { duration: 0.4, ease: [0.16, 1, 0.3, 1] as const } }
+};
+
 export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }: MegaDropdownProps) {
   const data = activeTab === "solutions" ? SOLUTIONS_DATA : activeTab === "products" ? PRODUCTS_DATA : null;
 
@@ -122,82 +127,102 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }:
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 10, scale: 0.98, x: 0 }}
-      animate={{ opacity: 1, y: 0, scale: 1, x: 0 }}
-      exit={{ opacity: 0, y: 8, scale: 0.98, x: 0 }}
-      transition={{ duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
+      layout
+      initial={{ opacity: 0, y: 10, scale: 0.98 }}
+      animate={{ opacity: 1, y: 0, scale: 1 }}
+      exit={{ opacity: 0, y: 8, scale: 0.98 }}
+      transition={{ layout: { type: "spring", bounce: 0, duration: 0.3 }, duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
       className={styles.megaMenuPanel}
     >
-      {/* Column 1 */}
-      <div>
-        <div className={styles.megaColumnTitle}>{data.col1Title}</div>
-        <div className={styles.megaItemList}>
-          {data.col1Items.map((item) => {
-            const Icon = item.icon;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={onClose}
-                className={styles.megaItemCard}
-              >
-                <div className={styles.megaIconPod}>
-                  <Icon className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className={styles.megaItemName}>{item.title}</div>
-                  <div className={styles.megaItemDesc}>{item.desc}</div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
-
-      {/* Column 2 */}
-      <div>
-        <div className={styles.megaColumnTitle}>{data.col2Title}</div>
-        <div className={styles.megaItemList}>
-          {data.col2Items.map((item) => {
-            const Icon = item.icon;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={onClose}
-                className={styles.megaItemCard}
-              >
-                <div className={styles.megaIconPod}>
-                  <Icon className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className={styles.megaItemName}>{item.title}</div>
-                  <div className={styles.megaItemDesc}>{item.desc}</div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
-
-      {/* Column 3: Featured Hardware / Solution Spotlight Card */}
-      <div className={styles.spotlightCard}>
-        <div>
-          <span className={styles.spotlightTag}>{data.spotlight.tag}</span>
-          <h4 className={styles.spotlightTitle}>{data.spotlight.title}</h4>
-          <p className={styles.spotlightDesc}>{data.spotlight.desc}</p>
-        </div>
-        <Link
-          href={data.spotlight.href}
-          onClick={onClose}
-          className={styles.spotlightLink}
+      <AnimatePresence mode="popLayout" initial={false}>
+        <motion.div
+          key={activeTab}
+          initial="hidden"
+          animate="visible"
+          exit="exit"
+          variants={{
+            hidden: { opacity: 0, x: activeTab === "products" ? -15 : 15 },
+            visible: {
+              opacity: 1,
+              x: 0,
+              transition: { duration: 0.3, ease: "easeOut", staggerChildren: 0.08, delayChildren: 0.05 }
+            },
+            exit: { opacity: 0, x: activeTab === "products" ? 15 : -15, transition: { duration: 0.15 } }
+          }}
+          className={styles.megaMenuGrid}
         >
-          <span>Explore Specifications</span>
-          <ArrowRight className="w-3.5 h-3.5" />
-        </Link>
-      </div>
+          {/* Column 1 */}
+          <motion.div variants={itemVariants}>
+            <div className={styles.megaColumnTitle}>{data.col1Title}</div>
+            <div className={styles.megaItemList}>
+              {data.col1Items.map((item) => {
+                const Icon = item.icon;
+                return (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    onClick={onClose}
+                    className={styles.megaItemCard}
+                  >
+                    <div className={styles.megaIconPod}>
+                      <Icon className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <div className={styles.megaItemName}>{item.title}</div>
+                      <div className={styles.megaItemDesc}>{item.desc}</div>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </motion.div>
+
+          {/* Column 2 */}
+          <motion.div variants={itemVariants}>
+            <div className={styles.megaColumnTitle}>{data.col2Title}</div>
+            <div className={styles.megaItemList}>
+              {data.col2Items.map((item) => {
+                const Icon = item.icon;
+                return (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    onClick={onClose}
+                    className={styles.megaItemCard}
+                  >
+                    <div className={styles.megaIconPod}>
+                      <Icon className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <div className={styles.megaItemName}>{item.title}</div>
+                      <div className={styles.megaItemDesc}>{item.desc}</div>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </motion.div>
+
+          {/* Column 3: Featured Hardware / Solution Spotlight Card */}
+          <motion.div variants={itemVariants} className={styles.spotlightCard}>
+            <div>
+              <span className={styles.spotlightTag}>{data.spotlight.tag}</span>
+              <h4 className={styles.spotlightTitle}>{data.spotlight.title}</h4>
+              <p className={styles.spotlightDesc}>{data.spotlight.desc}</p>
+            </div>
+            <Link
+              href={data.spotlight.href}
+              onClick={onClose}
+              className={styles.spotlightLink}
+            >
+              <span>Explore Specifications</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </Link>
+          </motion.div>
+        </motion.div>
+      </AnimatePresence>
     </motion.div>
   );
 }
