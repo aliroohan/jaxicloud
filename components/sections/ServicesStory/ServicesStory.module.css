@@ -1,0 +1,237 @@
+.sectionContainer {
+  position: relative;
+  width: 100%;
+  padding: 8rem 0;
+  background-color: #ffffff;
+  color: #0f172a;
+  overflow: hidden;
+}
+
+.innerContainer {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.header {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 5rem auto;
+}
+
+.tagline {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: #0ea5e9;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.mainTitle {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: clamp(2.5rem, 4vw, 4rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: #0f172a;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.highlight {
+  color: transparent;
+  background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtext {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: #475569;
+}
+
+/* Accordion Container */
+.accordionContainer {
+  display: flex;
+  flex-direction: row;
+  height: 600px;
+  gap: 1rem;
+  width: 100%;
+  position: relative;
+}
+
+@media (max-width: 900px) {
+  .accordionContainer {
+    flex-direction: column;
+    height: 900px;
+  }
+}
+
+/* Base Card */
+.accordionCard {
+  position: relative;
+  background-color: #f8fafc;
+  border-radius: 24px;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: flex-end; /* Push content to bottom */
+}
+
+/* Flex rules for expanding/collapsing */
+.cardActive {
+  flex: 4; /* Takes up 4 parts of the flex container */
+}
+
+.cardInactive {
+  flex: 1; /* Takes up 1 part of the flex container */
+}
+
+@media (max-width: 900px) {
+  .cardActive {
+    flex: 3;
+  }
+  .cardInactive {
+    flex: 1;
+  }
+}
+
+/* Background Image & Overlay */
+.cardImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cardActive .cardImage {
+  transform: scale(1.05); /* Slight zoom when active */
+}
+
+.cardInactive .cardImage {
+  transform: scale(1);
+}
+
+.imageOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(2, 6, 23, 0.95) 0%, rgba(2, 6, 23, 0.4) 50%, rgba(2, 6, 23, 0.1) 100%);
+  transition: opacity 0.5s ease;
+}
+
+.cardInactive .imageOverlay {
+  opacity: 0.8;
+  background: linear-gradient(to top, rgba(2, 6, 23, 0.95) 0%, rgba(2, 6, 23, 0.7) 100%);
+}
+
+/* Content Container */
+.cardContent {
+  position: relative;
+  z-index: 10;
+  padding: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .cardContent {
+    padding: 1.5rem;
+  }
+}
+
+.cardHeader {
+  margin-bottom: auto; /* push icon to top, text to bottom */
+}
+
+.iconPod {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48px;
+  height: 48px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  color: rgba(255, 255, 255, 0.7);
+  transition: all 0.4s ease;
+}
+
+.iconPodActive {
+  background: #0ea5e9;
+  border-color: #0ea5e9;
+  color: #ffffff;
+  box-shadow: 0 8px 16px -4px rgba(14, 165, 233, 0.4);
+}
+
+.cardTextContent {
+  width: 100%;
+}
+
+.cardTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+  font-weight: 700;
+  color: #ffffff;
+  white-space: nowrap; /* Prevent title from wrapping when squished */
+  margin-bottom: 0.5rem;
+}
+
+/* Inactive cards should have vertical text or rotated text if it doesn't fit?
+   Actually, hiding text overflow is cleaner */
+.cardInactive .cardTitle {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  margin-top: auto;
+  margin-bottom: 0;
+  white-space: nowrap;
+  font-size: 1.2rem;
+  letter-spacing: 0.05em;
+  color: rgba(255, 255, 255, 0.6);
+  transition: all 0.4s ease;
+}
+
+.cardActive .cardTitle {
+  writing-mode: horizontal-tb;
+  transform: rotate(0deg);
+}
+
+.cardDesc {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  /* Ensure text truncates beautifully inside framer-motion container */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.exploreLink {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #38bdf8;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.exploreLink:hover {
+  color: #ffffff;
+}

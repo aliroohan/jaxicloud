@@ -12,8 +12,14 @@ if (typeof window !== "undefined") {
 
 export function Counters() {
   const sectionRef = useRef<HTMLDivElement>(null);
-  const pathRef = useRef<SVGPathElement>(null);
+  const headerTagRef = useRef<HTMLDivElement>(null);
+  const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
   const cardsRef = useRef<(HTMLDivElement | null)[]>([]);
+
+  textMasksRef.current = [];
+  const addToTextMasks = (el: HTMLSpanElement | null) => {
+    if (el) textMasksRef.current.push(el);
+  };
 
   // State for interpolated numeric values
   const [vehiclesCount, setVehiclesCount] = useState(0);
@@ -23,31 +29,8 @@ export function Counters() {
 
   useEffect(() => {
     const section = sectionRef.current;
-    const path = pathRef.current;
     if (!section) return;
 
-    // SVG Energy Line Setup
-    if (path) {
-      const length = path.getTotalLength();
-      gsap.set(path, {
-        strokeDasharray: length,
-        strokeDashoffset: length,
-      });
-
-      // Animate SVG line on scroll into view
-      gsap.to(path, {
-        strokeDashoffset: 0,
-        ease: "power2.out",
-        scrollTrigger: {
-          trigger: section,
-          start: "top 75%",
-          end: "bottom 50%",
-          scrub: 1,
-        },
-      });
-    }
-
-    // GSAP ScrollTrigger for Cards Entrance & Kinetic Number Rolling
     const countObj = {
       vehicles: 0,
       countries: 0,
@@ -58,32 +41,63 @@ export function Counters() {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: section,
-        start: "top 70%",
+        start: "top 75%", // Start revealing when section enters the viewport
         toggleActions: "play none none reverse",
       },
     });
 
-    // 1. Cards Stagger Reveal
+    // 0. Small Tag fades in
     tl.fromTo(
-      cardsRef.current,
-      {
-        opacity: 0,
-        y: 45,
-        scale: 0.95,
-        filter: "blur(10px)",
-      },
-      {
-        opacity: 1,
-        y: 0,
-        scale: 1,
-        filter: "blur(0px)",
-        duration: 0.8,
-        stagger: 0.15,
-        ease: "power3.out",
-      }
+      headerTagRef.current,
+      { opacity: 0, y: 15 },
+      { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }
     );
 
-    // 2. Kinetic Number Interpolation Tween with GSAP power3.out Easing
+    // 0.5. Apple-style Text Mask Reveal for the Header Lines
+    const textMasks = textMasksRef.current;
+    if (textMasks.length) {
+      tl.fromTo(
+        textMasks,
+        { y: "120%" },
+        { y: "0%", duration: 0.8, stagger: 0.1, ease: "power4.out" },
+        "-=0.2" // overlap slightly with the tag fading in
+      );
+    }
+
+    // 1. Unique entry points for grid cells
+    const cards = cardsRef.current;
+    if (cards.length >= 4) {
+      const isMobile = window.innerWidth <= 768;
+
+      if (isMobile) {
+        // Simple slide up on mobile to prevent horizontal scroll/clipping
+        gsap.set(cards, { opacity: 0, y: 40 });
+      } else {
+        // Top Left comes from left
+        gsap.set(cards[0], { opacity: 0, x: -80, y: 0 });
+        // Top Right comes from right
+        gsap.set(cards[1], { opacity: 0, x: 80, y: 0 });
+        // Bottom two come from bottom
+        gsap.set(cards[2], { opacity: 0, x: 0, y: 80 });
+        gsap.set(cards[3], { opacity: 0, x: 0, y: 80 });
+      }
+
+      tl.to(
+        cards,
+        {
+          opacity: 1,
+          x: 0,
+          y: 0,
+          duration: 1.2,
+          stagger: 0.15,
+          ease: "power3.out",
+          clearProps: "transform" // Ensure hover scale works after animation completes
+        },
+        "-=0.4"
+      );
+    }
+
+    // 2. Numbers roll up simultaneously as cards appear
     tl.to(
       countObj,
       {
@@ -91,160 +105,109 @@ export function Counters() {
         countries: 45,
         uptime: 99.98,
         hardware: 120,
-        duration: 2.2,
-        ease: "power3.out",
-        onUpdate: function () {
+        duration: 2.5,
+        ease: "power2.out",
+        onUpdate: () => {
           setVehiclesCount(Math.floor(countObj.vehicles));
           setCountriesCount(Math.floor(countObj.countries));
           setUptimeCount(Number(countObj.uptime.toFixed(2)));
           setHardwareCount(Math.floor(countObj.hardware));
         },
       },
-      "-=0.6"
+      "<" // Start exactly at the same time as the previous animation (the cards popping up)
     );
 
     return () => {
-      ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
+      ScrollTrigger.getAll().forEach((t) => t.kill());
     };
   }, []);
 
+  const addToRefs = (el: HTMLDivElement | null) => {
+    if (el && !cardsRef.current.includes(el)) {
+      cardsRef.current.push(el);
+    }
+  };
+
   return (
     <section ref={sectionRef} className={styles.countersSection}>
-      {/* Background SVG Telematics Network Stage */}
-      <svg className={styles.bgSvgStage} viewBox="0 0 1400 600" fill="none">
-        {/* Animated Connecting Telemetry Energy Line */}
-        <path
-          ref={pathRef}
-          d="M 150 280 C 350 150, 500 400, 700 250 C 900 100, 1100 350, 1250 260"
-          stroke="url(#energyGradient)"
-          strokeWidth="3"
-          strokeLinecap="round"
-        />
-        <defs>
-          <linearGradient
-            id="energyGradient"
-            x1="0%"
-            y1="0%"
-            x2="100%"
-            y2="0%"
-          >
-            <stop offset="0%" stopColor="#0E7490" stopOpacity="0.2" />
-            <stop offset="50%" stopColor="#38BDF8" stopOpacity="0.9" />
-            <stop offset="100%" stopColor="#0E7490" stopOpacity="0.2" />
-          </linearGradient>
-        </defs>
-      </svg>
-
       <div className={styles.container}>
+
         {/* Header Block */}
         <div className={styles.headerBlock}>
-          <div className={styles.sectionTag}>
-            <TrendingUp className="w-3.5 h-3.5 text-cyan-600" />
+          <div ref={headerTagRef} className={styles.sectionTag}>
+            <TrendingUp className="w-3.5 h-3.5" />
             <span>GLOBAL INFRASTRUCTURE SCALE</span>
           </div>
           <h2 className={styles.sectionTitle}>
-            Engineered to Power Commercial Fleets{" "}
-            <span className={styles.sectionTitleHighlight}>
-              At Global Standard.
+            <span className={styles.textMask}>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>Engineered to Power Commercial Fleets</span>
+            </span>
+            <span className={styles.textMask}>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>
+                At Global Standard.
+              </span>
             </span>
           </h2>
         </div>
 
-        {/* 4-Column Asymmetrical Counter Cards Grid */}
         <div className={styles.grid}>
-          {/* Card 1: Active Vehicles */}
-          <div
-            ref={(el) => {
-              cardsRef.current[0] = el;
-            }}
-            className={styles.card}
-          >
-            <div className={styles.nodeGlow} />
-            <div className={styles.iconPod}>
-              <Truck className="w-5 h-5" />
-            </div>
-            <div>
+
+          {/* Card 1 */}
+          <div ref={addToRefs} className={`${styles.card} ${styles.borderBottom} ${styles.borderRight}`}>
+            <div className={styles.numberWrapper}>
+              <span className={styles.chevronAccent}>{'>'}</span>
               <div className={styles.numberDisplay}>
-                <span className={styles.numberGradient}>
-                  {vehiclesCount.toLocaleString()}+
-                </span>
+                <span className={styles.numberGradient}>{vehiclesCount.toLocaleString()}+</span>
               </div>
-              <div className={styles.cardLabel}>Connected Vehicles</div>
-              <div className={styles.cardDesc}>
-                Active commercial vehicles monitored continuously in real time.
-              </div>
+            </div>
+            <div className={styles.cardLabel}>Connected Vehicles</div>
+            <div className={styles.cardDesc}>
+              Active commercial vehicles monitored continuously in real time.
             </div>
           </div>
 
-          {/* Card 2: Countries Deployed */}
-          <div
-            ref={(el) => {
-              cardsRef.current[1] = el;
-            }}
-            className={styles.card}
-          >
-            <div className={styles.nodeGlow} />
-            <div className={styles.iconPod}>
-              <Globe className="w-5 h-5" />
-            </div>
-            <div>
+          {/* Card 2 */}
+          <div ref={addToRefs} className={`${styles.card} ${styles.borderBottom}`}>
+            <div className={styles.numberWrapper}>
+              <span className={styles.chevronAccent}>{'>'}</span>
               <div className={styles.numberDisplay}>
-                <span className={styles.numberGradient}>
-                  {countriesCount}+
-                </span>
+                <span className={styles.numberGradient}>{countriesCount}+</span>
               </div>
-              <div className={styles.cardLabel}>Countries Deployed</div>
-              <div className={styles.cardDesc}>
-                Global telematics operations across Americas, Europe, Asia & MEA.
-              </div>
+            </div>
+            <div className={styles.cardLabel}>Countries Deployed</div>
+            <div className={styles.cardDesc}>
+              Global telematics operations across Americas, Europe, Asia & MEA.
             </div>
           </div>
 
-          {/* Card 3: Platform Uptime */}
-          <div
-            ref={(el) => {
-              cardsRef.current[2] = el;
-            }}
-            className={styles.card}
-          >
-            <div className={styles.nodeGlow} />
-            <div className={styles.iconPod}>
-              <Activity className="w-5 h-5" />
-            </div>
-            <div>
+          {/* Card 3 */}
+          <div ref={addToRefs} className={`${styles.card} ${styles.borderRight}`}>
+            <div className={styles.numberWrapper}>
+              <span className={styles.chevronAccent}>{'>'}</span>
               <div className={styles.numberDisplay}>
                 <span className={styles.numberGradient}>{uptimeCount}%</span>
               </div>
-              <div className={styles.cardLabel}>Mission-Critical Uptime</div>
-              <div className={styles.cardDesc}>
-                Enterprise Cloud SLAs ensuring uninterrupted fleet connectivity.
-              </div>
+            </div>
+            <div className={styles.cardLabel}>Mission-Critical Uptime</div>
+            <div className={styles.cardDesc}>
+              Enterprise Cloud SLAs ensuring uninterrupted fleet connectivity.
             </div>
           </div>
 
-          {/* Card 4: Compatible Hardware */}
-          <div
-            ref={(el) => {
-              cardsRef.current[3] = el;
-            }}
-            className={styles.card}
-          >
-            <div className={styles.nodeGlow} />
-            <div className={styles.iconPod}>
-              <Cpu className="w-5 h-5" />
-            </div>
-            <div>
+          {/* Card 4 */}
+          <div ref={addToRefs} className={styles.card}>
+            <div className={styles.numberWrapper}>
+              <span className={styles.chevronAccent}>{'>'}</span>
               <div className={styles.numberDisplay}>
-                <span className={styles.numberGradient}>
-                  {hardwareCount}+
-                </span>
+                <span className={styles.numberGradient}>{hardwareCount}+</span>
               </div>
-              <div className={styles.cardLabel}>Compatible Hardware Models</div>
-              <div className={styles.cardDesc}>
-                Cameras, OBD trackers, CANbus interfaces & BLE sensors.
-              </div>
+            </div>
+            <div className={styles.cardLabel}>Hardware Models</div>
+            <div className={styles.cardDesc}>
+              Cameras, OBD trackers, CANbus interfaces & BLE sensors.
             </div>
           </div>
+
         </div>
       </div>
     </section>

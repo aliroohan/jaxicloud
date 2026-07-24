@@ -1,0 +1,152 @@
+.section {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-color: #020617; /* Fallback dark background */
+}
+
+/* --- Cinematic Background --- */
+.bgWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.bgImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  /* GSAP parallax scale applied via ref */
+}
+
+/* Heavy gradient overlays for text legibility and cinematic depth */
+.bgOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    linear-gradient(90deg, rgba(2, 6, 23, 0.95) 0%, rgba(2, 6, 23, 0.7) 40%, rgba(2, 6, 23, 0) 100%),
+    linear-gradient(0deg, rgba(2, 6, 23, 0.8) 0%, rgba(2, 6, 23, 0) 50%, rgba(2, 6, 23, 0.3) 100%);
+  z-index: 1;
+}
+
+/* --- Content Container --- */
+.container {
+  position: relative;
+  z-index: 10;
+  max-width: 1360px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contentWrapper {
+  max-width: 650px;
+  /* GSAP animation initial states */
+  opacity: 0;
+  transform: translateY(40px);
+}
+
+.title {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #f8fafc;
+  margin-bottom: 2rem;
+  letter-spacing: -0.02em;
+}
+
+.textMask {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.1em;
+}
+
+.textMaskInner {
+  display: inline-block;
+  will-change: transform;
+}
+
+.description {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: #cbd5e1;
+  margin-bottom: 3.5rem;
+  border-left: 2px solid rgba(14, 165, 233, 0.5);
+  padding-left: 1.5rem;
+}
+
+.ctaBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(59, 130, 246, 0.8);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #ffffff;
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 1.25rem 3rem;
+  border-radius: 99px;
+  text-transform: uppercase;
+  border: 1px solid rgba(147, 197, 253, 0.3);
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 30px -10px rgba(59, 130, 246, 0.5);
+  text-decoration: none;
+}
+
+.ctaBtn:hover {
+  background: rgba(59, 130, 246, 1);
+  transform: translateY(-2px);
+  box-shadow: 0 15px 40px -10px rgba(59, 130, 246, 0.7), 0 0 0 1px rgba(147, 197, 253, 0.5);
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .title {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    min-height: 80vh;
+  }
+  
+  .bgOverlay {
+    background: 
+      linear-gradient(90deg, rgba(2, 6, 23, 0.95) 0%, rgba(2, 6, 23, 0.85) 100%),
+      linear-gradient(0deg, rgba(2, 6, 23, 0.8) 0%, rgba(2, 6, 23, 0) 100%);
+  }
+
+  .contentWrapper {
+    max-width: 100%;
+  }
+
+  .title {
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 1.05rem;
+    padding-left: 1rem;
+    margin-bottom: 2.5rem;
+  }
+}

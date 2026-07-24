@@ -1,13 +1,15 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { Cpu, Search } from "lucide-react";
 import { getCategories, getPublishedProducts } from "@/lib/queries";
 import { ProductCard } from "@/components/public/ProductCard";
+import styles from "@/components/public/MinimalistProduct.module.css";
 
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: "Products",
-  description: "Browse Jaxicloud fleet cameras, trackers, tablets, and sensors.",
+  title: "Enterprise Fleet Telematics Hardware | JaxiCloud Catalog",
+  description: "Explore enterprise AI dashcams, MDVRs, driver terminals, and passenger sensors.",
 };
 
 type Props = {
@@ -25,83 +27,79 @@ export default async function ProductsPage({ searchParams }: Props) {
     getCategories(),
   ]);
 
-  const tags = Array.from(
-    new Set(products.flatMap((p) => p.tags || [])),
-  ).slice(0, 12);
-
   return (
-    <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
-      <h1 className="font-display text-4xl text-navy">Products</h1>
-      <p className="mt-2 text-muted">
-        Filter by category or tag. Request a quote from any product page.
-      </p>
+    <div className={styles.pageWrapper}>
+      <div className={styles.container}>
+        {/* Minimalist Editorial Header */}
+        <div className={styles.headerBlock}>
+          <div className={styles.sectionTag}>
+            <Cpu className="w-3.5 h-3.5 text-cyan-600" />
+            <span>ENTERPRISE HARDWARE CATALOG</span>
+          </div>
+          <h1 className={styles.pageTitle}>Commercial Fleet Telematics</h1>
+          <p className={styles.subheadline}>
+            Explore enterprise-grade 4K AI vision dashcams, multi-channel MDVRs,
+            rugged Android driver terminals, and passenger counting sensors.
+          </p>
+        </div>
 
-      <form className="mt-8 flex flex-wrap gap-3" method="get">
-        <input
-          name="q"
-          defaultValue={params.q || ""}
-          placeholder="Search products…"
-          className="min-w-[200px] flex-1 rounded-md border border-border bg-card px-3 py-2 text-sm"
-        />
-        <select
-          name="category"
-          defaultValue={params.category || ""}
-          className="rounded-md border border-border bg-card px-3 py-2 text-sm"
-        >
-          <option value="">All categories</option>
-          {categories.map((c) => (
-            <option key={c.id} value={c.slug}>
-              {c.name}
-            </option>
-          ))}
-        </select>
-        <button
-          type="submit"
-          className="rounded-md bg-accent px-4 py-2 text-sm font-medium text-white hover:bg-accent-dark"
-        >
-          Filter
-        </button>
-      </form>
+        {/* Filter Controls Row */}
+        <div className={styles.filterRow}>
+          <form className={styles.searchForm} method="get">
+            <input
+              name="q"
+              defaultValue={params.q || ""}
+              placeholder="Search by hardware name, model number, or spec tag..."
+              className={styles.searchInput}
+            />
+            {params.category && (
+              <input type="hidden" name="category" value={params.category} />
+            )}
+            <button type="submit" className={styles.filterBtn}>
+              Search Catalog
+            </button>
+          </form>
+        </div>
 
-      {tags.length > 0 ? (
-        <div className="mt-4 flex flex-wrap gap-2">
+        {/* Category Filter Tabs Bar */}
+        <div className={styles.categoryTabs}>
           <Link
-            href={`/products${params.category ? `?category=${params.category}` : ""}`}
-            className={`rounded-full px-3 py-1 text-xs font-medium ${
-              !params.tag ? "bg-accent text-white" : "bg-slate-100 text-steel"
+            href="/products"
+            className={`${styles.categoryTab} ${
+              !params.category ? styles.categoryTabActive : ""
             }`}
           >
-            All tags
+            All Hardware
           </Link>
-          {tags.map((tag) => {
-            const qs = new URLSearchParams();
-            if (params.category) qs.set("category", params.category);
-            qs.set("tag", tag);
-            return (
-              <Link
-                key={tag}
-                href={`/products?${qs.toString()}`}
-                className={`rounded-full px-3 py-1 text-xs font-medium ${
-                  params.tag === tag
-                    ? "bg-accent text-white"
-                    : "bg-slate-100 text-steel"
-                }`}
-              >
-                {tag}
-              </Link>
-            );
-          })}
+          {categories.map((c) => (
+            <Link
+              key={c.id}
+              href={`/products?category=${c.slug}`}
+              className={`${styles.categoryTab} ${
+                params.category === c.slug ? styles.categoryTabActive : ""
+              }`}
+            >
+              {c.name}
+            </Link>
+          ))}
         </div>
-      ) : null}
 
-      <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {products.map((product) => (
-          <ProductCard key={product.id} product={product} />
-        ))}
+        {/* Product Cards Grid */}
+        <div className={styles.productGrid}>
+          {products.map((product) => (
+            <ProductCard key={product.id} product={product} />
+          ))}
+        </div>
+
+        {products.length === 0 && (
+          <div className="py-20 text-center text-slate-500">
+            <p className="font-display text-xl text-navy">No products found</p>
+            <p className="mt-1 text-sm">
+              Try adjusting your search criteria or select another hardware category.
+            </p>
+          </div>
+        )}
       </div>
-      {products.length === 0 ? (
-        <p className="mt-10 text-muted">No products match these filters.</p>
-      ) : null}
     </div>
   );
 }

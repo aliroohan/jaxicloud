@@ -1,0 +1,264 @@
+.stageContainer {
+  position: relative;
+  width: 100%;
+  height: 300vh;
+  background-color: #ffffff;
+  color: #101828;
+  user-select: none;
+}
+
+.pinnedViewport {
+  position: sticky;
+  top: 0;
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.canvasStage {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-height: 0;
+}
+
+.canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+/* --- Robotic HUD Overlay --- */
+
+.hudOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.hotspotGroup {
+  position: absolute;
+  /* Top and Left will be set inline in TSX */
+  pointer-events: auto; /* Allow hovering */
+}
+
+.svgLine {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.svgLine path {
+  fill: none;
+  stroke: rgba(14, 165, 233, 0.6);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+  transition: stroke 0.3s ease, stroke-width 0.3s ease;
+}
+
+.hotspotGroup:hover .svgLine path {
+  stroke: rgba(14, 165, 233, 1);
+  stroke-width: 2.5;
+  filter: drop-shadow(0 0 6px rgba(14, 165, 233, 0.8));
+}
+
+.hudLabel {
+  position: absolute;
+  /* Anchor to the end of the SVG line */
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(14, 165, 233, 0.3);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+  min-width: max-content;
+}
+
+.hudLabel:hover {
+  background: rgba(15, 23, 42, 0.95);
+  border-color: rgba(14, 165, 233, 0.8);
+  transform: translateY(-2px);
+  box-shadow: 0 15px 40px -10px rgba(14, 165, 233, 0.2), 0 0 0 1px rgba(14, 165, 233, 0.5);
+}
+
+@media (max-width: 768px) {
+  .svgLine {
+    display: none; /* Hide complex SVG lines on mobile */
+  }
+  
+  .hudLabel {
+    /* Base for mobile labels */
+    top: -45px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    padding: 0.4rem 0.6rem;
+    text-align: center;
+    border-radius: 6px;
+  }
+
+  .hudLabel:hover {
+    transform: translateX(-50%) translateY(-2px) !important;
+  }
+
+  /* Stagger middle labels to prevent overlap */
+  
+  /* Agriculture (Dot 2) - Shift Up & Left */
+  .hotspotGroup:nth-child(2) .hudLabel {
+    top: -55px !important;
+    left: 0% !important;
+    transform: translateX(-65%) !important;
+  }
+  .hotspotGroup:nth-child(2) .hudLabel:hover {
+    transform: translateX(-65%) translateY(-2px) !important;
+  }
+
+  /* Construction (Dot 3) - Shift Below the dot */
+  .hotspotGroup:nth-child(3) .hudLabel {
+    top: 25px !important;
+  }
+  .hotspotGroup:nth-child(3) .hudLabel:hover {
+    transform: translateX(-50%) translateY(2px) !important;
+  }
+
+  /* Public Transport (Dot 4) - Shift Up & Right */
+  .hotspotGroup:nth-child(4) .hudLabel {
+    top: -55px !important;
+    left: 100% !important;
+    transform: translateX(-35%) !important;
+  }
+  .hotspotGroup:nth-child(4) .hudLabel:hover {
+    transform: translateX(-35%) translateY(-2px) !important;
+  }
+}
+
+.hudTitle {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #f8fafc;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.hudDesc {
+  font-family: var(--font-inter), monospace;
+  font-size: 0.7rem;
+  color: #0ea5e9;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 768px) {
+  .hudTitle {
+    font-size: 0.7rem;
+    white-space: nowrap;
+  }
+  .hudDesc {
+    display: none; /* Hide description on mobile to prevent overlapping */
+  }
+}
+
+.dotNode {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  background: #0ea5e9;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px 2px rgba(14, 165, 233, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.hotspotGroup:hover .dotNode {
+  transform: translate(-50%, -50%) scale(1.5);
+  box-shadow: 0 0 15px 4px rgba(14, 165, 233, 0.8);
+}
+
+/* --- Section Heading --- */
+.headingContainer {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  z-index: 20;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 4vh;
+  flex-shrink: 0;
+}
+
+.headingTag {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  color: #0ea5e9;
+  text-transform: uppercase;
+}
+
+.headingTitle {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.headingTitle span {
+  color: #0ea5e9;
+}
+
+.textMask {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.1em;
+}
+
+.textMaskInner {
+  display: inline-block;
+  will-change: transform;
+}
+
+@media (max-width: 768px) {
+  .headingContainer {
+    margin-top: 2vh;
+  }
+  .headingTitle {
+    font-size: 2.25rem;
+  }
+  .headingTag {
+    font-size: 0.75rem;
+  }
+  
+  /* Make the canvas stage smaller so the truck fits better on mobile */
+  .pinnedViewport {
+    padding: 1.5rem 1rem;
+  }
+}
