@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { AnimatePresence, motion, Variants } from "framer-motion";
-import { ArrowRight, ChevronRight, X, Layers, Network, Package, Phone, FileText } from "lucide-react";
+import { ArrowRight, ChevronRight, X, Layers, Network, Package, Phone, FileText, Briefcase } from "lucide-react";
 import { BrandLogo } from "@/components/common/BrandLogo/BrandLogo";
 
 interface MobileDrawerProps {
@@ -34,7 +34,8 @@ const MOBILE_NAV_LINKS = [
       { href: "/solutions/transit", label: "Public Transit" },
     ]
   },
-  { href: "/bundles", label: "Hardware Bundles", icon: <Package className="w-5 h-5" /> },
+  { href: "/applications", label: "Application", icon: <Package className="w-5 h-5" /> },
+  { href: "/services", label: "Services", icon: <Briefcase className="w-5 h-5" /> },
   { href: "/contact", label: "Contact Sales", icon: <Phone className="w-5 h-5" /> },
   { href: "/inquiry", label: "View Quote Inquiry", icon: <FileText className="w-5 h-5" /> },
 ];

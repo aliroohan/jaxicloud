@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { Cpu, Search } from "lucide-react";
 import { getCategories, getPublishedProducts } from "@/lib/queries";
-import { ProductCard } from "@/components/public/ProductCard";
+import { AnimatedProductGrid } from "@/components/public/AnimatedProductGrid";
 import styles from "@/components/public/MinimalistProduct.module.css";
 
 export const revalidate = 3600;
@@ -84,12 +84,8 @@ export default async function ProductsPage({ searchParams }: Props) {
           ))}
         </div>
 
-        {/* Product Cards Grid */}
-        <div className={styles.productGrid}>
-          {products.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
+        {/* Product Cards Grid with GSAP Scroll Animations */}
+        <AnimatedProductGrid products={products} className={styles.productGrid} />
 
         {products.length === 0 && (
           <div className="py-20 text-center text-slate-500">

@@ -1,7 +1,8 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { ArrowRight, Bus, HardHat, Layers, ShieldCheck, Snowflake, Truck, Users } from "lucide-react";
+import { Layers } from "lucide-react";
 import { getSolutions } from "@/lib/queries";
+import { AnimatedSolutionGrid } from "@/components/public/AnimatedSolutionGrid";
 import styles from "@/components/public/MinimalistSolution.module.css";
 
 export const revalidate = 3600;
@@ -11,14 +12,7 @@ export const metadata: Metadata = {
   description: "Explore commercial telematics architectures for freight, transit, cold-chain, and mining.",
 };
 
-const ICON_MAP: Record<string, React.ElementType> = {
-  truck: Truck,
-  bus: Bus,
-  snowflake: Snowflake,
-  hardhat: HardHat,
-  users: Users,
-  shield: ShieldCheck,
-};
+
 
 export default async function SolutionsPage() {
   const solutions = await getSolutions();
@@ -39,26 +33,8 @@ export default async function SolutionsPage() {
           </p>
         </div>
 
-        {/* Solutions Grid Cards */}
-        <div className={styles.solutionGrid}>
-          {solutions.map((s) => (
-            <Link key={s.id} href={`/solutions/${s.slug}`} className={styles.solutionCard}>
-              <div className={styles.iconPod}>
-                <Truck className="w-6 h-6" />
-              </div>
-
-              <h2 className={styles.solutionTitle}>{s.name}</h2>
-              <p className={styles.solutionDesc}>{s.description}</p>
-
-              <div className={styles.cardFooter}>
-                <div className={styles.viewDetailsLink}>
-                  <span>Explore Vertical Solution</span>
-                  <ArrowRight className="w-3.5 h-3.5" />
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
+        {/* Solutions Grid Cards with GSAP Scroll Animations */}
+        <AnimatedSolutionGrid solutions={solutions} className={styles.solutionGrid} />
       </div>
     </div>
   );

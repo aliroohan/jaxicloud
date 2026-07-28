@@ -1,0 +1,234 @@
+.storySection {
+  background-color: #ffffff; /* Light Theme */
+  position: relative;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+/* Left Column (Scrolling Text Story) */
+.leftCol {
+  width: 45%;
+  padding: 10vh 5% 0 5%;
+  z-index: 10;
+}
+
+.introHeader {
+  height: 80vh; /* Pad the initial scroll */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(3rem, 5vw, 4.5rem);
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.highlight {
+  color: #38bdf8; /* Brand Blue */
+}
+
+.subtitle {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.25rem;
+  color: #475569;
+  line-height: 1.6;
+  max-width: 500px;
+}
+
+/* Text Story Blocks */
+.textBlock {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  max-width: 500px;
+  opacity: 0.3;
+  transform: scale(0.95);
+}
+
+.textActive {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.iconWrapper {
+  width: 64px;
+  height: 64px;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.iconBlue { color: #38bdf8; }
+.iconGreen { color: #4ade80; }
+.iconYellow { color: #facc15; }
+
+.featureTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0 0 1rem 0;
+}
+
+.featureSubtitle {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.125rem;
+  color: #475569;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.conclusionBlock {
+  padding: 4rem 0;
+  border-top: 1px solid #e2e8f0;
+  margin-top: 4rem;
+  max-width: 500px;
+}
+
+.conclusionText {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #0284c7; /* Brand Blue */
+  line-height: 1.6;
+  margin: 0;
+}
+
+.spacer {
+  height: 50vh;
+}
+
+/* Right Column (Pinned Image) */
+.rightCol {
+  width: 55%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 2rem;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.excavatorImage {
+  object-fit: cover;
+  object-position: center;
+}
+
+.imageOverlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.0);
+  pointer-events: none;
+}
+
+/* Virtual Mouse Cursor */
+.virtualCursor {
+  position: absolute;
+  z-index: 20;
+  transition: left 0.6s cubic-bezier(0.16, 1, 0.3, 1), top 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.selectionBox {
+  position: relative;
+  width: 0px;
+  height: 0px;
+  border: 3px dashed transparent;
+  background-color: transparent;
+  animation: drawBox 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: 0.6s; /* Wait for the cursor to arrive */
+  box-shadow: 0 0 0 rgba(255,255,255,0);
+}
+
+@keyframes drawBox {
+  0% {
+    width: 0px;
+    height: 0px;
+    border-color: #38bdf8; /* Brighter Brand Blue */
+    background-color: rgba(56, 189, 248, 0.3); /* More visible tint */
+    box-shadow: 0 0 15px rgba(255,255,255,0.4);
+  }
+  100% {
+    width: 140px; /* Larger box */
+    height: 100px;
+    border-color: #38bdf8;
+    background-color: rgba(56, 189, 248, 0.3);
+    box-shadow: 0 0 15px rgba(255,255,255,0.4);
+  }
+}
+
+.cursorIcon {
+  position: absolute;
+  /* Attach to the bottom right of the selection box so it moves with it */
+  bottom: -24px;
+  right: -24px;
+  z-index: 30;
+  filter: drop-shadow(0 6px 8px rgba(0,0,0,0.5));
+}
+
+/* Connecting line visual */
+.connectionLine {
+  position: absolute;
+  top: 0;
+  right: 100%;
+  width: 0px;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(2,132,199,0) 0%, rgba(2,132,199,0.8) 100%);
+  animation: drawLine 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: 1.2s; /* Draw line after box is drawn */
+}
+
+@keyframes drawLine {
+  to {
+    width: 200px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    flex-direction: column;
+  }
+  .leftCol, .rightCol {
+    width: 100%;
+  }
+  .rightCol {
+    position: sticky;
+    top: 0;
+    height: 50vh;
+    padding: 1rem;
+    z-index: 0;
+  }
+  .leftCol {
+    padding-top: 50vh;
+    z-index: 10;
+  }
+  .textBlock {
+    height: 70vh;
+  }
+}

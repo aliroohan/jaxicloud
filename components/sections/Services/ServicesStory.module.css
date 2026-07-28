@@ -1,0 +1,152 @@
+.stackingSection {
+  background-color: #ffffff; /* Contrast with previous sections */
+  position: relative;
+  padding-top: 140px;
+  padding-bottom: 140px;
+  z-index: 10;
+}
+
+.introHeader {
+  text-align: center;
+  margin-bottom: 120px;
+  padding: 0 2rem;
+}
+
+.sectionTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  font-weight: 600;
+  color: #101828;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+}
+
+.highlight {
+  color: #0284c7; /* Brand Blue */
+}
+
+.sectionDesc {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 1.25rem;
+  color: #667085;
+  line-height: 1.6;
+}
+
+/* Stacking Cards Engine */
+.cardsWrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 10vh; /* Extra space at the bottom */
+}
+
+.cardContainer {
+  position: sticky;
+  top: 10vh; /* The stick point */
+  height: 110vh; /* The distance between cards */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* 
+ * We give the last card a smaller height so the page doesn't 
+ * have empty scroll space after the last card sticks.
+ */
+.cardContainer:last-child {
+  height: 80vh;
+}
+
+.cardInner {
+  width: 90vw;
+  max-width: 1300px;
+  height: 80vh;
+  background: #fafbfd; /* Master Rule: Soft White for cards */
+  border-radius: 32px; /* Master Rule */
+  border: 1px solid rgba(16, 24, 40, 0.05);
+  box-shadow: 
+    0 40px 80px -20px rgba(16, 24, 40, 0.15),
+    0 0 0 1px rgba(16, 24, 40, 0.05);
+  transform-origin: top center; /* Shrink towards the top */
+  display: flex;
+  overflow: hidden;
+  will-change: transform, opacity;
+}
+
+/* Left Content */
+.cardContent {
+  width: 45%;
+  height: 100%;
+  padding: 5rem 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.stepNumber {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #0284c7; /* Brand Blue */
+  margin-bottom: 2rem;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: rgba(2, 132, 199, 0.1);
+  border-radius: 99px;
+  width: max-content;
+}
+
+.cardTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  font-weight: 600;
+  color: #101828;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.5rem;
+}
+
+.cardText {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 1.125rem;
+  color: #667085;
+  line-height: 1.6;
+}
+
+/* Right Image */
+.cardImageWrapper {
+  width: 55%;
+  height: 100%;
+  position: relative;
+  background-color: #ffffff;
+  border-left: 1px solid rgba(16, 24, 40, 0.05);
+}
+
+.cardImage {
+  object-fit: cover;
+  object-position: left center;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .cardInner {
+    flex-direction: column;
+    height: auto;
+    min-height: 80vh;
+  }
+  
+  .cardContent {
+    width: 100%;
+    height: 50%;
+    padding: 3rem;
+  }
+  
+  .cardImageWrapper {
+    width: 100%;
+    height: 50%;
+    min-height: 300px;
+    border-left: none;
+    border-top: 1px solid rgba(16, 24, 40, 0.05);
+  }
+}

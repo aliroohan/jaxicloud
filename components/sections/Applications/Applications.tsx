@@ -64,13 +64,13 @@ export function Applications() {
     // They are randomly staggered and fly in from different depths and angles
     tl.fromTo(
       cardsRef.current,
-      { 
-        opacity: 0, 
+      {
+        opacity: 0,
         z: -500, // Deep in the screen
-        y: 150, 
-        rotationX: 45, 
+        y: 150,
+        rotationX: 45,
         rotationY: -45,
-        scale: 0.5 
+        scale: 0.5
       },
       {
         opacity: 1,
@@ -103,7 +103,7 @@ export function Applications() {
       <div className={styles.bgMesh} />
 
       <div className={styles.container}>
-        
+
         {/* Left Side: Storytelling Text */}
         <div ref={textContainerRef} className={styles.contentBlock}>
           <h2 className={styles.title}>
@@ -130,7 +130,7 @@ export function Applications() {
 
         {/* Right Side: The Glass Collage */}
         <div className={styles.collageCanvas}>
-          
+
           {/* Card 1: Click and connect */}
           <div ref={addToRefs} className={`${styles.glassCard} ${styles.card1}`}>
             <div className={styles.iconPod}>

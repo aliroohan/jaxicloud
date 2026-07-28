@@ -45,8 +45,8 @@ export function Footer() {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: sectionRef.current,
-        start: "top 80%",
-        toggleActions: "play none none reverse",
+        start: "top 95%",
+        toggleActions: "play none none none",
       }
     });
 
@@ -233,8 +233,8 @@ export function Footer() {
             <div className={styles.colTitle}>Platform Tech</div>
             <ul className={styles.linkList}>
               <li>
-                <Link href="/bundles" className={styles.footerLink}>
-                  Hardware Bundles
+                <Link href="/applications" className={styles.footerLink}>
+                  Application
                 </Link>
               </li>
               <li>

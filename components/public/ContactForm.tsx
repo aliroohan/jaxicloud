@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import gsap from "gsap";
 import {
   ArrowRight,
   CheckCircle2,
@@ -25,9 +26,51 @@ const REQUEST_TYPES = [
 export function ContactForm() {
   const [requestType, setRequestType] = useState("Get Price Quote");
   const [copiedField, setCopiedField] = useState<string | null>(null);
-
   const [status, setStatus] = useState<"idle" | "loading" | "ok" | "error">("idle");
   const [error, setError] = useState("");
+
+  const pageRef = useRef<HTMLDivElement>(null);
+  const headerRef = useRef<HTMLDivElement>(null);
+  const leftCardsRef = useRef<(HTMLDivElement | null)[]>([]);
+  const formCardRef = useRef<HTMLDivElement>(null);
+
+  leftCardsRef.current = [];
+  const addToLeftCards = (el: HTMLDivElement | null) => {
+    if (el && !leftCardsRef.current.includes(el)) {
+      leftCardsRef.current.push(el);
+    }
+  };
+
+  useEffect(() => {
+    if (!pageRef.current) return;
+    
+    // Initial states for animation
+    gsap.set(headerRef.current, { y: 40, opacity: 0 });
+    gsap.set(leftCardsRef.current, { y: 40, opacity: 0 });
+    gsap.set(formCardRef.current, { x: 40, opacity: 0 });
+
+    const tl = gsap.timeline({ delay: 0.1 });
+    
+    tl.to(headerRef.current, {
+      y: 0,
+      opacity: 1,
+      duration: 0.8,
+      ease: "power3.out"
+    })
+    .to(leftCardsRef.current, {
+      y: 0,
+      opacity: 1,
+      duration: 0.6,
+      stagger: 0.1,
+      ease: "power2.out"
+    }, "-=0.4")
+    .to(formCardRef.current, {
+      x: 0,
+      opacity: 1,
+      duration: 0.8,
+      ease: "power3.out"
+    }, "-=0.6");
+  }, []);
 
   const copyToClipboard = (text: string, label: string) => {
     navigator.clipboard.writeText(text);
@@ -72,19 +115,33 @@ export function ContactForm() {
   }
 
   return (
-    <div className={styles.contactGrid}>
-      {/* Left Column: Global Support Hub */}
-      <div className={styles.supportHub}>
-        {/* Animated Live Status Badge */}
-        <div className={styles.statusBadge}>
-          <div className={styles.pulseDot} />
-          <span>Solutions Engineers Online • Sub-15 Min SLA</span>
+    <div ref={pageRef}>
+      {/* Editorial Header Block */}
+      <div className={styles.headerBlock} ref={headerRef}>
+        <div className={styles.sectionTag}>
+          <Headphones className="w-3.5 h-3.5 text-cyan-600" />
+          <span>ENTERPRISE TELEMATICS CONSULTATION</span>
         </div>
+        <h1 className={styles.pageTitle}>Contact Sales Engineering</h1>
+        <p className={styles.subheadline}>
+          Speak directly with a senior telematics solutions architect. Request a live demo,
+          custom hardware pricing sheet, or technical CANbus SDK specs.
+        </p>
+      </div>
 
-        {/* Support Cards */}
-        <div className={styles.cardList}>
-          {/* Sales Hotline */}
-          <div className={styles.supportCard}>
+      <div className={styles.contactGrid}>
+        {/* Left Column: Global Support Hub */}
+        <div className={styles.supportHub}>
+          {/* Animated Live Status Badge */}
+          <div className={styles.statusBadge} ref={addToLeftCards}>
+            <div className={styles.pulseDot} />
+            <span>Solutions Engineers Online • Sub-15 Min SLA</span>
+          </div>
+
+          {/* Support Cards */}
+          <div className={styles.cardList}>
+            {/* Sales Hotline */}
+            <div className={styles.supportCard} ref={addToLeftCards}>
             <div className={styles.iconBox}>
               <Phone className="w-5 h-5" />
             </div>
@@ -102,7 +159,7 @@ export function ContactForm() {
           </div>
 
           {/* Solutions Email */}
-          <div className={styles.supportCard}>
+          <div className={styles.supportCard} ref={addToLeftCards}>
             <div className={styles.iconBox}>
               <Mail className="w-5 h-5" />
             </div>
@@ -120,7 +177,7 @@ export function ContactForm() {
           </div>
 
           {/* Global HQ Hubs */}
-          <div className={styles.supportCard}>
+          <div className={styles.supportCard} ref={addToLeftCards}>
             <div className={styles.iconBox}>
               <MapPin className="w-5 h-5" />
             </div>
@@ -132,7 +189,7 @@ export function ContactForm() {
         </div>
 
         {/* Support Topics Row */}
-        <div className={styles.topicSection}>
+        <div className={styles.topicSection} ref={addToLeftCards}>
           <div className={styles.topicLabel}>Direct Consultation Topics</div>
           <div className={styles.topicRow}>
             <span className={styles.topicBadge}>Hardware Pricing</span>
@@ -144,7 +201,7 @@ export function ContactForm() {
       </div>
 
       {/* Right Column: Animated Form Card */}
-      <div className={styles.formCard}>
+      <div className={styles.formCard} ref={formCardRef}>
         {status === "ok" ? (
           <div className={styles.successCard}>
             <CheckCircle2 className="w-16 h-16 text-emerald-500 mx-auto" />
@@ -259,5 +316,6 @@ export function ContactForm() {
         )}
       </div>
     </div>
+  </div>
   );
 }

@@ -158,8 +158,8 @@ export function PartnerMatrix() {
             ))}
           </div>
 
-          {/* Bottom Lane: Heavy Load (Right to Left, slightly slower) */}
-          <div className={`${styles.marqueeRow} ${styles.scrollLeftSlow}`}>
+          {/* Bottom Lane: Heavy Load (Left to Right) */}
+          <div className={`${styles.marqueeRow} ${styles.scrollRight}`}>
             {/* Start from halfway through the list to randomize */}
             {[...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6), ...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6)].map((partner, idx) => (
               <div
@@ -168,10 +168,10 @@ export function PartnerMatrix() {
                 onMouseLeave={() => setActivePartner(null)}
                 className={styles.truckCard}
               >
-                <img src="/truck.png" alt="Truck" className={styles.truckImage} />
+                <img src="/truck.png" alt="Truck" className={styles.truckImageRight} />
                 
                 {/* Partner Name painted on the trailer */}
-                <div className={styles.truckDecal}>
+                <div className={styles.truckDecalRight}>
                   <Layers className={styles.decalIcon} size={28} />
                   <span>{partner.name}</span>
                 </div>

@@ -93,7 +93,7 @@ export function Hero() {
         <div className={styles.subheadline}>
           <div className={styles.textMask}>
             <span ref={addToTextMasks} className={styles.textMaskInner}>
-              Cameras, trackers, tablets, and sensors—curated for commercial fleets.
+              Cameras, trackers, tablets, and sensors curated for commercial fleets.
             </span>
           </div>
           <div className={styles.textMask}>

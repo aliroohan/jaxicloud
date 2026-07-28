@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -16,6 +16,10 @@ export function BusinessImpact() {
   const contentWrapperRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
   const staggerItemsRef = useRef<(HTMLElement | null)[]>([]);
+  const pathsRef = useRef<(SVGPathElement | null)[]>([]);
+  const keywordsRef = useRef<(HTMLAnchorElement | null)[]>([]);
+
+  const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
 
   textMasksRef.current = [];
   const addToTextMasks = (el: HTMLSpanElement | null) => {
@@ -25,6 +29,16 @@ export function BusinessImpact() {
   staggerItemsRef.current = [];
   const addToStagger = (el: HTMLElement | null) => {
     if (el) staggerItemsRef.current.push(el);
+  };
+
+  pathsRef.current = [];
+  const addToPaths = (el: SVGPathElement | null) => {
+    if (el) pathsRef.current.push(el);
+  };
+
+  keywordsRef.current = [];
+  const addToKeywords = (el: HTMLAnchorElement | null) => {
+    if (el) keywordsRef.current.push(el);
   };
 
   useEffect(() => {
@@ -60,12 +74,62 @@ export function BusinessImpact() {
       );
     }
 
+    // Energy Links & Robotic Text Reveal
+    const paths = pathsRef.current;
+    const keywords = keywordsRef.current;
+    
+    if (paths.length && keywords.length) {
+      const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%&*";
+      
+      paths.forEach((path, index) => {
+        if (!path) return;
+        const length = path.getTotalLength();
+        gsap.set(path, { strokeDasharray: length, strokeDashoffset: length, opacity: 1 });
+        
+        const pathDelay = index * 0.2; // Stagger the lines
+        
+        // 1. Draw the line (starts with heading animation)
+        tl.to(path, {
+          strokeDashoffset: 0,
+          duration: 1.2,
+          ease: "power2.inOut",
+        }, `<${pathDelay}`);
+
+        // 2. Scramble Text Reveal (starts when line is almost finished drawing)
+        const kw = keywords[index];
+        const finalWord = kw?.getAttribute("data-word") || "";
+        const scrambleObj = { progress: 0 };
+        
+        if (kw) {
+          tl.to(scrambleObj, {
+            progress: 1,
+            duration: 1,
+            ease: "none",
+            onUpdate: () => {
+              let res = "";
+              const revealCount = Math.floor(scrambleObj.progress * finalWord.length);
+              for (let i = 0; i < finalWord.length; i++) {
+                if (i < revealCount) {
+                  res += finalWord[i];
+                } else {
+                  res += chars[Math.floor(Math.random() * chars.length)];
+                }
+              }
+              kw.innerText = res;
+              kw.style.opacity = "1";
+              kw.style.textShadow = `0 0 ${10 - (scrambleObj.progress * 10)}px #38bdf8`;
+            }
+          }, "<0.8"); // Trigger slightly before the line finishes
+        }
+      });
+    }
+
     // Subtle parallax zoom on the background image as you scroll through the section
     gsap.fromTo(
       bgImageRef.current,
-      { scale: 1.0 },
+      { scale: 1.05 },
       {
-        scale: 1.15,
+        scale: 1.20,
         ease: "none",
         scrollTrigger: {
           trigger: sectionRef.current,
@@ -85,15 +149,15 @@ export function BusinessImpact() {
 
   return (
     <section ref={sectionRef} className={styles.section}>
-      
+
       {/* Cinematic AI Vision Background */}
       <div className={styles.bgWrapper}>
         <div className={styles.bgOverlay} />
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img 
+        <img
           ref={bgImageRef}
-          src="/ai-vision-bg.png" 
-          alt="AI Vision Tracking Highway" 
+          src="/advanced-fleet-bg.png"
+          alt="Advanced AI Fleet Management"
           className={styles.bgImage}
         />
       </div>
@@ -111,12 +175,81 @@ export function BusinessImpact() {
           <p ref={addToStagger} className={styles.description}>
             Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.
           </p>
-          
+
           <div ref={addToStagger}>
             <Link href="/solutions" className={styles.ctaBtn}>
-              Learn More
+              <span className={styles.btnText}>Learn More</span>
+              <div className={styles.btnGlow} />
             </Link>
           </div>
+        </div>
+
+        {/* Neural Network Energy Links */}
+        <div className={styles.networkContainer}>
+          <svg className={styles.networkSvg} viewBox="0 0 500 500" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="energyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stopColor="rgba(56, 189, 248, 0)" />
+                <stop offset="50%" stopColor="rgba(56, 189, 248, 0.5)" />
+                <stop offset="100%" stopColor="rgba(56, 189, 248, 1)" />
+              </linearGradient>
+              <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+                <feGaussianBlur stdDeviation="4" result="blur" />
+                <feMerge>
+                  <feMergeNode in="blur" />
+                  <feMergeNode in="SourceGraphic" />
+                </feMerge>
+              </filter>
+            </defs>
+            
+            {/* Smooth branching paths - shortened to prevent text overflow */}
+            <path ref={addToPaths} className={`${styles.networkPath} ${hoveredIndex === 0 ? styles.pathHovered : ""}`} d="M 0,250 C 100,250 150,50 280,50" />
+            <path ref={addToPaths} className={`${styles.networkPath} ${hoveredIndex === 1 ? styles.pathHovered : ""}`} d="M 0,250 C 100,250 150,150 320,150" />
+            <path ref={addToPaths} className={`${styles.networkPath} ${hoveredIndex === 2 ? styles.pathHovered : ""}`} d="M 0,250 C 120,245 180,255 350,250" />
+            <path ref={addToPaths} className={`${styles.networkPath} ${hoveredIndex === 3 ? styles.pathHovered : ""}`} d="M 0,250 C 100,250 150,350 320,350" />
+            <path ref={addToPaths} className={`${styles.networkPath} ${hoveredIndex === 4 ? styles.pathHovered : ""}`} d="M 0,250 C 100,250 150,450 280,450" />
+          </svg>
+          
+          <Link 
+            href="/solutions"
+            ref={addToKeywords} 
+            className={`${styles.keyword} ${styles.kw1} ${hoveredIndex === 0 ? styles.keywordHovered : ""}`} 
+            data-word="Solutions"
+            onMouseEnter={() => setHoveredIndex(0)}
+            onMouseLeave={() => setHoveredIndex(null)}
+          />
+          <Link 
+            href="/solutions/security"
+            ref={addToKeywords} 
+            className={`${styles.keyword} ${styles.kw2} ${hoveredIndex === 1 ? styles.keywordHovered : ""}`} 
+            data-word="Security"
+            onMouseEnter={() => setHoveredIndex(1)}
+            onMouseLeave={() => setHoveredIndex(null)}
+          />
+          <Link 
+            href="/solutions/efficiency"
+            ref={addToKeywords} 
+            className={`${styles.keyword} ${styles.kw3} ${hoveredIndex === 2 ? styles.keywordHovered : ""}`} 
+            data-word="Efficiency"
+            onMouseEnter={() => setHoveredIndex(2)}
+            onMouseLeave={() => setHoveredIndex(null)}
+          />
+          <Link 
+            href="/solutions/service-quality"
+            ref={addToKeywords} 
+            className={`${styles.keyword} ${styles.kw4} ${hoveredIndex === 3 ? styles.keywordHovered : ""}`} 
+            data-word="Service Quality"
+            onMouseEnter={() => setHoveredIndex(3)}
+            onMouseLeave={() => setHoveredIndex(null)}
+          />
+          <Link 
+            href="/solutions/satisfaction"
+            ref={addToKeywords} 
+            className={`${styles.keyword} ${styles.kw5} ${hoveredIndex === 4 ? styles.keywordHovered : ""}`} 
+            data-word="Satisfaction"
+            onMouseEnter={() => setHoveredIndex(4)}
+            onMouseLeave={() => setHoveredIndex(null)}
+          />
         </div>
       </div>
 

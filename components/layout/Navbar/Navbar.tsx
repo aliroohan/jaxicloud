@@ -22,9 +22,42 @@ const LANGUAGES = [
 const NAV_ITEMS = [
   { id: "products", label: "Products", href: "/products", hasMega: true },
   { id: "solutions", label: "Solutions", href: "/solutions", hasMega: true },
-  { id: "bundles", label: "Bundles", href: "/bundles", hasMega: false },
+  { id: "applications", label: "Application", href: "/applications", hasMega: true },
+  { id: "services", label: "Services", href: "/services", hasMega: false },
   { id: "contact", label: "Contact", href: "/contact", hasMega: false },
 ];
+
+const MagneticButton = ({ children, className, href }: { children: React.ReactNode; className?: string; href: string }) => {
+  const ref = useRef<HTMLAnchorElement>(null);
+  const [position, setPosition] = useState({ x: 0, y: 0 });
+
+  const handleMouse = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    if (!ref.current) return;
+    const { clientX, clientY } = e;
+    const { height, width, left, top } = ref.current.getBoundingClientRect();
+    const middleX = clientX - (left + width / 2);
+    const middleY = clientY - (top + height / 2);
+    setPosition({ x: middleX * 0.25, y: middleY * 0.25 });
+  };
+
+  const reset = () => {
+    setPosition({ x: 0, y: 0 });
+  };
+
+  return (
+    <motion.a
+      ref={ref}
+      href={href}
+      className={className}
+      onMouseMove={handleMouse}
+      onMouseLeave={reset}
+      animate={{ x: position.x, y: position.y }}
+      transition={{ type: "spring", stiffness: 150, damping: 15, mass: 0.1 }}
+    >
+      {children}
+    </motion.a>
+  );
+};
 
 export function Navbar() {
   const { isScrolled } = useScrollPosition(40);
@@ -294,10 +327,10 @@ export function Navbar() {
               </AnimatePresence>
             </div>
 
-            {/* Primary CTA */}
-            <Link href="/contact" className={`${styles.primaryCta} ${styles.hideOnMobile}`}>
+            {/* Primary CTA (Magnetic Effect) */}
+            <MagneticButton href="/contact" className={`${styles.primaryCta} ${styles.hideOnMobile}`}>
               <span>Contact Sales</span>
-            </Link>
+            </MagneticButton>
 
             {/* Mobile Navigation Toggle */}
             <button

@@ -4,9 +4,9 @@
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background-color: #fafbfd;
+  background-color: #fafbfc; /* Extremely subtle cool off-white */
   color: #101828;
-  padding: 4rem 0 8rem;
+  padding: 9rem 0 8rem; /* Increased top padding to clear fixed navbar */
   user-select: none;
 }
 
@@ -185,18 +185,18 @@
   }
 }
 
-/* Minimalist Product Card */
+/* Minimalist Product Card - Luxury Light Theme */
 .productCard {
   position: relative;
   background-color: #ffffff;
-  border: 1px solid #e6eaf0;
+  border: 1px solid rgba(226, 232, 240, 0.8);
   border-radius: 24px;
   overflow: hidden;
-  box-shadow: 0 15px 35px -10px rgba(16, 24, 40, 0.05);
+  box-shadow: 0 10px 30px -10px rgba(16, 24, 40, 0.08), inset 0 2px 5px rgba(255, 255, 255, 1);
   display: flex;
   flex-direction: column;
-  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-  will-change: transform, background-color, border-color, box-shadow;
+  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow, border-color, background;
   z-index: 1;
 }
 
@@ -400,15 +400,15 @@
 .mainPhotoStage {
   position: relative;
   width: 100%;
-  height: 440px;
-  background-color: #ffffff;
-  border: 1px solid #e6eaf0;
-  border-radius: 28px;
+  height: 480px;
+  background: linear-gradient(145deg, #ffffff 0%, #f1f5f9 100%);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  border-radius: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  box-shadow: 0 20px 45px -12px rgba(16, 24, 40, 0.06);
+  box-shadow: 0 10px 40px -10px rgba(16, 24, 40, 0.05), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
 }
 
 .mainPhotoImg {
@@ -430,20 +430,23 @@
   height: 80px;
   border-radius: 16px;
   background-color: #ffffff;
-  border: 2px solid #e2e8f0;
+  border: 2px solid transparent;
   padding: 0.4rem;
   cursor: pointer;
   overflow: hidden;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 12px rgba(16, 24, 40, 0.04);
 }
 
 .thumbnailBtn:hover {
-  border-color: #0e7490;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(16, 24, 40, 0.08);
 }
 
 .thumbnailBtnActive {
-  border-color: #0e7490;
-  box-shadow: 0 4px 14px rgba(14, 116, 144, 0.3);
+  border-color: #0ea5e9;
+  box-shadow: 0 8px 20px rgba(14, 165, 233, 0.15), inset 0 0 0 1px rgba(14, 165, 233, 0.1);
+  transform: translateY(-2px);
 }
 
 .thumbnailImg {
@@ -506,54 +509,56 @@
   display: inline-flex;
   align-items: center;
   gap: 0.6rem;
-  padding: 0.95rem 2rem;
+  padding: 1rem 2.25rem;
   font-family: var(--font-dm-sans), sans-serif;
   font-size: 0.95rem;
-  font-weight: 600;
+  font-weight: 700;
   color: #ffffff;
-  background-color: #0e7490;
+  background: linear-gradient(135deg, #0e7490 0%, #0284c7 100%);
   border: none;
-  border-radius: 16px;
+  border-radius: 99px;
   cursor: pointer;
-  box-shadow: 0 10px 25px -4px rgba(14, 116, 144, 0.4);
-  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 10px 25px -4px rgba(14, 165, 233, 0.3);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   text-decoration: none;
 }
 
 .primaryQuoteBtn:hover {
-  background-color: #0a5a6e;
-  transform: translateY(-2px);
-  box-shadow: 0 14px 28px -4px rgba(14, 116, 144, 0.5);
+  transform: translateY(-3px);
+  box-shadow: 0 15px 30px -4px rgba(14, 165, 233, 0.4);
 }
 
 .contactSalesBtn {
   display: inline-flex;
   align-items: center;
-  padding: 0.95rem 1.75rem;
+  padding: 1rem 2.25rem;
   font-family: var(--font-dm-sans), sans-serif;
   font-size: 0.95rem;
-  font-weight: 600;
-  color: #0b1c2c;
+  font-weight: 700;
+  color: #0f172a;
   background-color: #ffffff;
-  border: 1px solid #cbd5e1;
-  border-radius: 16px;
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  border-radius: 99px;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 12px rgba(16, 24, 40, 0.04);
 }
 
 .contactSalesBtn:hover {
-  border-color: #0e7490;
-  color: #0e7490;
+  border-color: rgba(14, 165, 233, 0.3);
+  color: #0ea5e9;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(16, 24, 40, 0.06);
 }
 
 /* Key Features Grid Section */
 .specSection {
-  margin-bottom: 4rem;
-  background-color: #ffffff;
-  border: 1px solid #e6eaf0;
-  border-radius: 28px;
-  padding: 3rem 2.5rem;
-  box-shadow: 0 15px 35px -10px rgba(16, 24, 40, 0.04);
+  margin-bottom: 5rem;
+  background: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid rgba(226, 232, 240, 0.6);
+  border-radius: 32px;
+  padding: 4rem 3rem;
+  box-shadow: 0 10px 40px -10px rgba(16, 24, 40, 0.03);
 }
 
 .specSectionTitle {
@@ -577,13 +582,20 @@
 }
 
 .featureCard {
-  background-color: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 18px;
-  padding: 1.25rem 1.5rem;
+  background-color: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.6);
+  border-radius: 20px;
+  padding: 1.5rem 1.75rem;
   display: flex;
   align-items: flex-start;
-  gap: 0.85rem;
+  gap: 1rem;
+  box-shadow: 0 4px 15px rgba(16, 24, 40, 0.02);
+  transition: all 0.3s ease;
+}
+
+.featureCard:hover {
+  border-color: rgba(14, 165, 233, 0.3);
+  box-shadow: 0 8px 25px rgba(14, 165, 233, 0.06);
 }
 
 .featureIcon {

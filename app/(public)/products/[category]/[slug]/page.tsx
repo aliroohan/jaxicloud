@@ -151,17 +151,17 @@ export default async function ProductDetailPage({ params }: Props) {
             <div className="space-y-6">
               {product.specifications.map((group) => (
                 <div key={group.groupName}>
-                  <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-cyan-700">
+                  <h3 className="mb-3 text-xs font-bold uppercase tracking-widest text-cyan-700">
                     {group.groupName}
                   </h3>
-                  <dl className="overflow-hidden rounded-2xl border border-slate-200 bg-white">
+                  <dl className="overflow-hidden rounded-3xl border border-slate-200/80 bg-white shadow-[0_4px_20px_-10px_rgba(16,24,40,0.03)]">
                     {group.items.map((item) => (
                       <div
                         key={item.label}
-                        className="grid grid-cols-2 gap-4 border-b border-slate-100 px-5 py-3.5 last:border-0"
+                        className="grid grid-cols-[1fr_2fr] gap-6 border-b border-slate-100 px-6 py-4 transition-colors hover:bg-slate-50/50 last:border-0"
                       >
-                        <dt className="text-sm font-medium text-slate-500">{item.label}</dt>
-                        <dd className="text-sm font-semibold text-navy">
+                        <dt className="text-sm font-semibold text-slate-500">{item.label}</dt>
+                        <dd className="text-sm font-medium text-slate-900">
                           {item.value}
                         </dd>
                       </div>
@@ -177,11 +177,11 @@ export default async function ProductDetailPage({ params }: Props) {
         {product.certifications && product.certifications.length > 0 && (
           <section className={styles.specSection}>
             <h2 className={styles.specSectionTitle}>Industry Certifications</h2>
-            <div className="flex flex-wrap gap-2.5">
+            <div className="flex flex-wrap gap-3">
               {product.certifications.map((c) => (
                 <span
                   key={c}
-                  className="rounded-xl border border-slate-300 bg-slate-50 px-4 py-2 text-xs font-bold uppercase tracking-wider text-slate-700"
+                  className="rounded-2xl border border-slate-200 bg-slate-50 px-5 py-2.5 text-xs font-bold uppercase tracking-widest text-slate-700 shadow-sm"
                 >
                   {c}
                 </span>
@@ -191,10 +191,10 @@ export default async function ProductDetailPage({ params }: Props) {
         )}
       </div>
 
-      {/* Floating Bottom Quote Bar */}
-      <div className="sticky bottom-4 z-30 mt-16 flex justify-center">
-        <div className="flex flex-wrap items-center gap-3 rounded-full border border-slate-200 bg-white/95 px-5 py-3 shadow-xl backdrop-blur-md">
-          <span className="hidden text-sm font-medium text-slate-600 sm:inline">
+      {/* Floating Bottom Quote Bar - Glassmorphic Luxury */}
+      <div className="sticky bottom-8 z-30 mt-20 flex justify-center px-4">
+        <div className="flex flex-wrap items-center gap-4 rounded-[32px] border border-white/60 bg-white/70 p-3 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.1)] backdrop-blur-2xl">
+          <span className="hidden px-4 text-sm font-bold text-slate-800 sm:inline">
             Specify {product.name} for your fleet?
           </span>
           <AddToInquiryButton
@@ -202,9 +202,9 @@ export default async function ProductDetailPage({ params }: Props) {
             name={product.name}
             slug={product.slug}
             href={`/products/${product.category?.slug}/${product.slug}`}
-            className="!rounded-full"
+            className="!rounded-full shadow-md hover:shadow-lg"
           />
-          <RequestQuoteLink className="!rounded-full" />
+          <RequestQuoteLink className="!rounded-full shadow-sm hover:shadow-md" />
         </div>
       </div>
     </div>

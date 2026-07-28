@@ -83,19 +83,19 @@
 }
 
 .scrollLeft {
-  animation: scrollLeft 40s linear infinite;
+  animation: scrollLeft 70s linear infinite;
 }
 
 .scrollLeftFast {
-  animation: scrollLeft 35s linear infinite;
+  animation: scrollLeft 75s linear infinite;
 }
 
 .scrollLeftSlow {
-  animation: scrollLeft 45s linear infinite;
+  animation: scrollLeft 80s linear infinite;
 }
 
 .scrollRight {
-  animation: scrollRight 40s linear infinite;
+  animation: scrollRight 50s linear infinite;
 }
 
 .marqueeRow:hover {
@@ -168,6 +168,40 @@
 }
 
 .truckCard:hover .truckDecal {
+  opacity: 1;
+}
+
+.truckImageRight {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* Faces right */
+  transform: scaleX(1);
+  filter: drop-shadow(0 10px 15px rgba(0,0,0,0.08));
+}
+
+.truckDecalRight {
+  position: absolute;
+  top: 38%;
+  left: 35%; /* Mirrored horizontally to sit on the trailer */
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #334155; 
+  z-index: 10;
+  white-space: nowrap;
+  letter-spacing: 0.05em;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.truckCard:hover .truckDecalRight {
   opacity: 1;
 }
 
