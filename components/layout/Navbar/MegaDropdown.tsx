@@ -2,8 +2,8 @@
 
 import React from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
-import { ArrowRight, Camera, Cpu, HardDrive, Layers, Navigation, ShieldCheck, Truck, Wrench } from "lucide-react";
+import { motion, AnimatePresence, Variants } from "framer-motion";
+import { Activity, AlertCircle, ArrowRight, Camera, Clock, Cpu, HardDrive, Layers, MapPin, Navigation, Power, ShieldCheck, Truck, Users, Wifi, Wrench } from "lucide-react";
 import styles from "./Navbar.module.css";
 
 interface MegaDropdownProps {
@@ -13,185 +13,296 @@ interface MegaDropdownProps {
   onMouseLeave?: () => void;
 }
 
-const SOLUTIONS_DATA = {
-  col1Title: "Core Fleet Solutions",
-  col1Items: [
-    {
-      href: "/solutions/fleet-tracking",
-      icon: Navigation,
-      title: "Real-Time Fleet Tracking",
-      desc: "Live GPS telemetry, route history, and geofencing.",
-    },
-    {
-      href: "/solutions/driver-safety",
-      icon: ShieldCheck,
-      title: "AI Driver Safety & ADAS",
-      desc: "Dual-camera vision systems detecting risky driving behavior.",
-    },
-    {
-      href: "/solutions/asset-monitoring",
-      icon: HardDrive,
-      title: "Equipment & Asset Monitoring",
-      desc: "Battery-powered trackers for trailers, heavy machinery, and containers.",
-    },
-  ],
-  col2Title: "Industry Vertical Solutions",
-  col2Items: [
-    {
-      href: "/solutions/logistics",
-      icon: Truck,
-      title: "Logistics & Commercial Freight",
-      desc: "High-capacity telematics for long-haul trucking fleets.",
-    },
-    {
-      href: "/solutions/public-transit",
-      icon: Layers,
-      title: "Public Transit & Municipalities",
-      desc: "Passenger counting, fare validation, and emergency response.",
-    },
-    {
-      href: "/solutions/construction",
-      icon: Wrench,
-      title: "Construction & Heavy Operations",
-      desc: "Ruggedized sensors monitoring engine hours and PTO status.",
-    },
-  ],
-  spotlight: {
-    tag: "FEATURED SOLUTION",
-    title: "AI Predictive Safety Ecosystem",
-    desc: "Reduce fleet accident risk by up to 40% with automated video coaching and edge AI alerts.",
-    href: "/solutions/driver-safety",
+const SOLUTIONS_4COL_DATA = [
+  {
+    image: "/images/route_optimization.png",
+    links: [
+      { label: "Constructor", href: "/solutions/construction"},
+      { label: "Lory", href: "/solutions/lory" },
+      { label: "Leasing-car rental", href: "/solutions/leasing-car-rental" },
+      { label: "Public transport", href: "/solutions/public-transport" },
+      { label: "Agriculture", href: "/solutions/agriculture" }
+    ]
   },
-};
+  {
+    image: "/images/fuel_control.png",
+    links: [
+      { label: "Cooling monitoring", href: "/solutions/cooling-monitoring" },
+      { label: "Logistics delivery system", href: "/solutions/logistics-delivery-system" },
+      { label: "Eco drive", href: "/solutions/eco-drive" },
+      { label: "Maintanace module", href: "/solutions/maintanace-module" },
+      { label: "WIA tag", href: "/solutions/wia-tag" }
+    ]
+  },
+  {
+    image: "/images/driver_safety.png",
+    links: [
+      { label: "Fuel management system", href: "/solutions/fuel-management-system" },
+      { label: "Tpms ebs cooling fuel monitoring", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
+      { label: "Dashcam", href: "/solutions/dashcam" },
+      { label: "Registration of truck door opening", href: "/solutions/registration-of-truck-door-opening" }
+    ]
+  },
+  {
+    image: "/images/compliance_reporting.png",
+    links: [
+      { label: "Temperature monitoring work", href: "/solutions/temperature-monitoring-work" },
+      { label: "Geolocation of construction tools", href: "/solutions/geolocation-of-construction-tools" },
+      { label: "Opening detection of truck side panels", href: "/solutions/opening-detection-of-truck-side-panels" },
+      { label: "E-drivers book", href: "/solutions/e-drivers-book" }
+    ]
+  }
+];
 
 const PRODUCTS_DATA = {
-  col1Title: "Hardware Categories",
+  col1Title: "Core Telematics Hardware",
   col1Items: [
     {
       href: "/products?category=dash-cameras",
       icon: Camera,
-      title: "AI Dash Cameras",
-      desc: "Dual 4K road & cabin vision with LTE cloud connectivity.",
+      title: "Dash Cameras & AI Vision",
+      desc: "Dual 4K vision dashcams with onboard ADAS & DMS fatigue alerts.",
     },
     {
-      href: "/products?category=gps-trackers",
-      icon: Navigation,
-      title: "GPS & CANbus Trackers",
-      desc: "OBD-II and wired vehicle trackers with remote engine kill.",
+      href: "/products?category=mdvr-computing",
+      icon: HardDrive,
+      title: "Mobile MDVR & AI Computing",
+      desc: "Multi-channel Mobile DVRs and edge computing hubs for heavy fleets.",
     },
     {
-      href: "/products?category=sensors",
+      href: "/products?category=driver-terminals",
       icon: Cpu,
-      title: "Wireless Sensor Arrays",
-      desc: "Bluetooth BLE temperature, door, and tire pressure sensors.",
+      title: "Driver Terminals & ELD",
+      desc: "Ruggedized Android displays for ELD logs, navigation, & dispatch.",
     },
   ],
-  col2Title: "Hardware Accessories",
+  col2Title: "Sensors & Mining Systems",
   col2Items: [
     {
-      href: "/products?category=tablets",
-      icon: HardDrive,
-      title: "Ruggedized Driver Tablets",
-      desc: "IP67 vehicle-mounted displays for ELD and dispatch.",
+      href: "/products?category=passenger-sensors",
+      icon: Users,
+      title: "Passenger & APC Sensors",
+      desc: "3D stereoscopic automated passenger counting & cabin sensors.",
     },
     {
-      href: "/bundles",
+      href: "/products?category=mining-machinery",
+      icon: Wrench,
+      title: "Mining & Heavy Machinery",
+      desc: "IP69K rugged cameras for open-pit haul trucks & extreme environments.",
+    },
+    {
+      href: "/products",
       icon: Layers,
-      title: "Pre-Configured Hardware Bundles",
-      desc: "Complete plug-and-play kits optimized by vehicle type.",
+      title: "Complete Hardware Catalog",
+      desc: "Explore all 31 Streamax enterprise hardware units and spec sheets.",
     },
   ],
   spotlight: {
-    tag: "FLAGSHIP HARDWARE",
-    title: "Jaxi-Cam Dual Vision AI Pro",
-    desc: "Quad-core neural processor with real-time lane departure and distracted driver prevention.",
-    href: "/products/dash-cameras",
+    tag: "FLAGSHIP TERMINAL",
+    title: "XPAD 5.0 Driver Terminal",
+    desc: "Octa-core 8-inch Android vehicle display with dual CANbus, NFC driver authentication, & IP65 ruggedization.",
+    href: "/products/driver-terminals/xpad-5-0",
   },
 };
 
-export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }: MegaDropdownProps) {
-  const data = activeTab === "solutions" ? SOLUTIONS_DATA : activeTab === "products" ? PRODUCTS_DATA : null;
+const APPLICATIONS_DATA = {
+  col1Title: "Connectivity & Maintenance",
+  col1Items: [
+    {
+      href: "/applications/click-and-connect",
+      icon: Wifi,
+      title: "Click & Connect",
+      desc: "Whether you're just starting out or an existing customer, the easiest way to register your devices.",
+    },
+    {
+      href: "/applications/tacho-simpel",
+      icon: Clock,
+      title: "Tacho Simple",
+      desc: "The complete solution for digital tachograph and driver time management to comply with EU regulations.",
+    },
+    {
+      href: "/applications/tpms",
+      icon: AlertCircle,
+      title: "TPMS Solutions",
+      desc: "Our highly developed devices deliver unsurpassed quality, lowest life cycle costs, longest product life.",
+    },
+  ],
+  col2Title: "Safety & Performance",
+  col2Items: [
+    {
+      href: "/applications/safe-start",
+      icon: Power,
+      title: "Safe Start",
+      desc: "A modern digital solution for vehicle inspections, designed to improve fleet safety, compliance, and transparency.",
+    },
+    {
+      href: "/applications/driver-behaviour",
+      icon: Activity,
+      title: "Driver Behaviour",
+      desc: "Monitor driver performance, eco-driving events, and safety indicators in one simple dashboard.",
+    },
+    {
+      href: "/applications/platform",
+      icon: MapPin,
+      title: "Jaxicloud Platform",
+      desc: "Global GPS tracking and fleet management solution for real-time monitoring and optimization across industries.",
+    },
+  ],
+  spotlight: {
+    tag: "FEATURED APPLICATION",
+    title: "JaxiCloud Platform",
+    desc: "A global GPS tracking and fleet management solution for real-time monitoring and optimization of vehicles, assets, and operations.",
+    href: "/applications/platform",
+  },
+};
 
-  if (!data) return null;
+const itemVariants: Variants = {
+  hidden: { opacity: 0, y: 8 },
+  visible: { opacity: 1, y: 0, transition: { duration: 0.4, ease: [0.16, 1, 0.3, 1] as const } }
+};
+
+export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }: MegaDropdownProps) {
+  const data = activeTab === "products" ? PRODUCTS_DATA : activeTab === "applications" ? APPLICATIONS_DATA : null;
+
+  if (!data && activeTab !== "solutions") return null;
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 10, scale: 0.98, x: 0 }}
-      animate={{ opacity: 1, y: 0, scale: 1, x: 0 }}
-      exit={{ opacity: 0, y: 8, scale: 0.98, x: 0 }}
-      transition={{ duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
+      layout
+      initial={{ opacity: 0, y: 10, scale: 0.98 }}
+      animate={{ opacity: 1, y: 0, scale: 1 }}
+      exit={{ opacity: 0, y: 8, scale: 0.98 }}
+      transition={{ layout: { type: "spring", bounce: 0, duration: 0.3 }, duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
       className={styles.megaMenuPanel}
     >
-      {/* Column 1 */}
-      <div>
-        <div className={styles.megaColumnTitle}>{data.col1Title}</div>
-        <div className={styles.megaItemList}>
-          {data.col1Items.map((item) => {
-            const Icon = item.icon;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={onClose}
-                className={styles.megaItemCard}
-              >
-                <div className={styles.megaIconPod}>
-                  <Icon className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className={styles.megaItemName}>{item.title}</div>
-                  <div className={styles.megaItemDesc}>{item.desc}</div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
+      <AnimatePresence mode="popLayout" initial={false}>
+        {activeTab === "solutions" ? (
+          <motion.div
+            key="solutions-layout"
+            initial="hidden"
+            animate="visible"
+            exit="exit"
+            variants={{
+              hidden: { opacity: 0, x: 15 },
+              visible: {
+                opacity: 1,
+                x: 0,
+                transition: { duration: 0.3, ease: "easeOut", staggerChildren: 0.08, delayChildren: 0.05 }
+              },
+              exit: { opacity: 0, x: -15, transition: { duration: 0.15 } }
+            }}
+            className={styles.megaSolutionsGrid}
+          >
+            {SOLUTIONS_4COL_DATA.map((col, idx) => (
+              <motion.div key={idx} variants={itemVariants} className={styles.megaSolutionsCol}>
+                <img src={col.image} alt={`Solution group ${idx + 1}`} className={styles.megaSolutionsImg} />
+                {col.links.map(link => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    onClick={onClose}
+                    className={styles.megaSolutionsLink}
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </motion.div>
+            ))}
+          </motion.div>
+        ) : (
+          <motion.div
+            key={activeTab}
+            initial="hidden"
+            animate="visible"
+            exit="exit"
+            variants={{
+              hidden: { opacity: 0, x: activeTab === "products" ? -15 : 15 },
+              visible: {
+                opacity: 1,
+                x: 0,
+                transition: { duration: 0.3, ease: "easeOut", staggerChildren: 0.08, delayChildren: 0.05 }
+              },
+              exit: { opacity: 0, x: activeTab === "products" ? 15 : -15, transition: { duration: 0.15 } }
+            }}
+            className={styles.megaMenuGrid}
+          >
+            {data && (
+              <>
+                {/* Column 1 */}
+                <motion.div variants={itemVariants}>
+                  <div className={styles.megaColumnTitle}>{data.col1Title}</div>
+                  <div className={styles.megaItemList}>
+                    {data.col1Items.map((item) => {
+                      const Icon = item.icon;
+                      return (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          onClick={onClose}
+                          className={styles.megaItemCard}
+                        >
+                          <div className={styles.megaIconPod}>
+                            <Icon className="w-4 h-4" />
+                          </div>
+                          <div>
+                            <div className={styles.megaItemName}>{item.title}</div>
+                            <div className={styles.megaItemDesc}>{item.desc}</div>
+                          </div>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </motion.div>
 
-      {/* Column 2 */}
-      <div>
-        <div className={styles.megaColumnTitle}>{data.col2Title}</div>
-        <div className={styles.megaItemList}>
-          {data.col2Items.map((item) => {
-            const Icon = item.icon;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={onClose}
-                className={styles.megaItemCard}
-              >
-                <div className={styles.megaIconPod}>
-                  <Icon className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className={styles.megaItemName}>{item.title}</div>
-                  <div className={styles.megaItemDesc}>{item.desc}</div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
+                {/* Column 2 */}
+                <motion.div variants={itemVariants}>
+                  <div className={styles.megaColumnTitle}>{data.col2Title}</div>
+                  <div className={styles.megaItemList}>
+                    {data.col2Items.map((item) => {
+                      const Icon = item.icon;
+                      return (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          onClick={onClose}
+                          className={styles.megaItemCard}
+                        >
+                          <div className={styles.megaIconPod}>
+                            <Icon className="w-4 h-4" />
+                          </div>
+                          <div>
+                            <div className={styles.megaItemName}>{item.title}</div>
+                            <div className={styles.megaItemDesc}>{item.desc}</div>
+                          </div>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </motion.div>
 
-      {/* Column 3: Featured Hardware / Solution Spotlight Card */}
-      <div className={styles.spotlightCard}>
-        <div>
-          <span className={styles.spotlightTag}>{data.spotlight.tag}</span>
-          <h4 className={styles.spotlightTitle}>{data.spotlight.title}</h4>
-          <p className={styles.spotlightDesc}>{data.spotlight.desc}</p>
-        </div>
-        <Link
-          href={data.spotlight.href}
-          onClick={onClose}
-          className={styles.spotlightLink}
-        >
-          <span>Explore Specifications</span>
-          <ArrowRight className="w-3.5 h-3.5" />
-        </Link>
-      </div>
+                {/* Column 3: Featured Hardware / Solution Spotlight Card */}
+                <motion.div variants={itemVariants} className={styles.spotlightCard}>
+                  <div>
+                    <span className={styles.spotlightTag}>{data.spotlight.tag}</span>
+                    <h4 className={styles.spotlightTitle}>{data.spotlight.title}</h4>
+                    <p className={styles.spotlightDesc}>{data.spotlight.desc}</p>
+                  </div>
+                  <Link
+                    href={data.spotlight.href}
+                    onClick={onClose}
+                    className={styles.spotlightLink}
+                  >
+                    <span>Explore Specifications</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </Link>
+                </motion.div>
+              </>
+            )}
+          </motion.div>
+        )}
+      </AnimatePresence>
     </motion.div>
   );
 }

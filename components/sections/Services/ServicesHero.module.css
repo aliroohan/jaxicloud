@@ -1,0 +1,170 @@
+.heroSection {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: #fafbfd; /* Master Rule: Soft White */
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.stickyContent {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+/* 1. Left Typography Column */
+.textColumn {
+  flex: 0 0 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 2rem;
+  z-index: 10;
+}
+
+.headline {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(3.5rem, 7vw, 6.5rem); /* Extremely large editorial text */
+  font-weight: 600;
+  color: #101828;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+  margin-bottom: 2rem;
+}
+
+.highlight {
+  color: #0284c7; /* Brand Blue */
+}
+
+.lineMask {
+  overflow: hidden;
+  padding-bottom: 0.1em; /* Prevent descender clipping */
+}
+
+.lineMask span {
+  display: inline-block;
+  will-change: transform;
+}
+
+.subtitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+  color: #667085;
+  font-weight: 400;
+  line-height: 1.6;
+  margin-bottom: 3rem;
+  max-width: 90%;
+}
+
+.ctaWrapper {
+  display: flex;
+}
+
+.primaryButton {
+  background-color: #0284c7; /* Brand Blue */
+  color: #ffffff;
+  font-size: 1.125rem;
+  font-weight: 500;
+  padding: 1rem 2.5rem;
+  border-radius: 18px; /* Master Rule: 18px for buttons */
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(2, 132, 199, 0.1), 0 2px 4px -1px rgba(2, 132, 199, 0.06);
+}
+
+.primaryButton:hover {
+  background-color: #0369a1; /* Darker blue hover */
+  transform: translateY(-2px) scale(1.03); /* Master Rule: Scale 1.03 */
+  box-shadow: 0 10px 15px -3px rgba(2, 132, 199, 0.2), 0 4px 6px -2px rgba(2, 132, 199, 0.1);
+}
+
+/* 2. Right Floating UI Column */
+.mockupColumn {
+  flex: 0 0 55%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 5;
+  perspective: 1200px;
+}
+
+.mockupWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 10;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.mockupInner {
+  position: absolute;
+  inset: 0;
+  background-color: #ffffff;
+  border-radius: 28px; /* Master Rule: 28px for cards */
+  overflow: hidden;
+  box-shadow: 
+    0 40px 80px -20px rgba(16, 24, 40, 0.15), 
+    0 0 0 1px rgba(16, 24, 40, 0.05),
+    inset 0 1px 0 rgba(255, 255, 255, 1); /* Soft premium shadow & border */
+  transform-style: preserve-3d;
+}
+
+.mockupImage {
+  object-fit: cover;
+  object-position: left top;
+}
+
+/* A soft shadow blob beneath the mockup to ground it */
+.mockupShadow {
+  position: absolute;
+  bottom: -40px;
+  left: 10%;
+  width: 80%;
+  height: 40px;
+  background: radial-gradient(ellipse at center, rgba(16, 24, 40, 0.15) 0%, transparent 70%);
+  filter: blur(10px);
+  pointer-events: none;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .stickyContent {
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10vh;
+  }
+  
+  .textColumn {
+    flex: 0 0 auto;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 4rem;
+    padding-right: 0;
+  }
+  
+  .headline {
+    font-size: clamp(3rem, 10vw, 4.5rem);
+  }
+  
+  .subtitle {
+    max-width: 100%;
+  }
+  
+  .mockupColumn {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 600px;
+  }
+}

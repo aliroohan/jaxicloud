@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { Product } from "@/lib/types";
+import styles from "./MinimalistProduct.module.css";
 
 export function ProductDetailClient({ product }: { product: Product }) {
   const images = product.images?.length
@@ -11,42 +12,45 @@ export function ProductDetailClient({ product }: { product: Product }) {
   const current = images[active] || images[0];
 
   return (
-    <div>
-      <div className="aspect-[4/3] overflow-hidden rounded-2xl border border-border bg-slate-100">
+    <div className={styles.galleryWrapper}>
+      {/* Main High-Res Render Stage */}
+      <div className={styles.mainPhotoStage}>
         {current?.url ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={current.url}
             alt={current.alt || product.name}
-            className="h-full w-full object-cover"
+            className={styles.mainPhotoImg}
           />
         ) : (
-          <div className="flex h-full items-center justify-center text-muted">
-            No image
+          <div className="text-sm font-medium text-slate-400">
+            Hardware Render Pending
           </div>
         )}
       </div>
-      {images.length > 1 ? (
-        <div className="mt-3 flex gap-2 overflow-x-auto">
+
+      {/* Thumbnail Selector Row */}
+      {images.length > 1 && (
+        <div className={styles.thumbnailRow}>
           {images.map((img, idx) => (
             <button
               key={`${img.url}-${idx}`}
               type="button"
               onClick={() => setActive(idx)}
-              className={`h-16 w-20 shrink-0 overflow-hidden rounded-md border ${
-                idx === active ? "border-accent" : "border-border"
+              className={`${styles.thumbnailBtn} ${
+                idx === active ? styles.thumbnailBtnActive : ""
               }`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={img.url}
                 alt={img.alt || ""}
-                className="h-full w-full object-cover"
+                className={styles.thumbnailImg}
               />
             </button>
           ))}
         </div>
-      ) : null}
+      )}
     </div>
   );
 }

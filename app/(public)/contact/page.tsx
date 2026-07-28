@@ -1,20 +1,17 @@
 import type { Metadata } from "next";
+import { Headphones } from "lucide-react";
 import { ContactForm } from "@/components/public/ContactForm";
+import styles from "@/components/public/ContactForm.module.css";
 
 export const metadata: Metadata = {
-  title: "Contact",
-  description: "Contact Jaxicloud Fleet sales for quotes and demos.",
+  title: "Contact Enterprise Sales Engineering | JaxiCloud",
+  description: "Consult with a senior telematics solutions engineer. Request live demos & hardware quotes.",
 };
 
 export default function ContactPage() {
   return (
-    <div className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-      <h1 className="font-display text-4xl text-navy">Contact Sales</h1>
-      <p className="mt-2 text-muted">
-        Tell us about your fleet. We&apos;ll follow up with a quote — no online
-        checkout.
-      </p>
-      <div className="mt-8 rounded-xl border border-border bg-card p-6">
+    <div className={styles.pageWrapper}>
+      <div className={styles.container}>
         <ContactForm />
       </div>
     </div>

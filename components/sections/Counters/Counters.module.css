@@ -2,164 +2,208 @@
   position: relative;
   width: 100%;
   padding: 8rem 0;
-  background-color: #ffffff;
-  color: #101828;
+  background-color: #f8fafc;
+  color: #0f172a;
   overflow: hidden;
-  user-select: none;
 }
 
-.bgSvgStage {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 1;
+@media (max-width: 768px) {
+  .countersSection {
+    padding: 5rem 0;
+  }
 }
 
 .container {
   position: relative;
-  z-index: 10;
-  max-width: 1400px;
+  max-width: 1360px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  z-index: 10;
 }
 
 .headerBlock {
   text-align: center;
-  max-width: 720px;
-  margin: 0 auto 5rem;
+  max-width: 800px;
+  margin: 0 auto 4rem;
+}
+
+@media (max-width: 768px) {
+  .headerBlock {
+    margin-bottom: 2.5rem;
+  }
 }
 
 .sectionTag {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.35rem 0.9rem;
-  background-color: rgba(14, 116, 144, 0.08);
-  border: 1px solid rgba(14, 116, 144, 0.2);
+  padding: 0.4rem 1rem;
+  background: rgba(14, 165, 233, 0.1);
+  border: 1px solid rgba(14, 165, 233, 0.2);
   border-radius: 999px;
-  font-family: var(--font-dm-sans), sans-serif;
-  font-size: 0.725rem;
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.75rem;
   font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: #0e7490;
-  margin-bottom: 1.25rem;
+  letter-spacing: 0.1em;
+  color: #0284c7;
+  margin-bottom: 1.5rem;
 }
 
 .sectionTitle {
-  font-family: var(--font-fraunces), Georgia, serif;
-  font-size: clamp(2rem, 4vw, 3.25rem);
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
   font-weight: 700;
-  line-height: 1.15;
-  letter-spacing: -0.025em;
-  color: #0b1c2c;
+  line-height: 1.1;
+  color: #0f172a;
+}
+
+.textMask {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.1em;
+}
+
+.textMaskInner {
+  display: inline-block;
+  will-change: transform;
 }
 
 .sectionTitleHighlight {
-  color: #0e7490;
-  background: linear-gradient(135deg, #0b1c2c 0%, #0e7490 60%, #0284c7 100%);
+  background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 1.75rem;
+  grid-template-columns: repeat(2, 1fr); /* Exactly 2x2 grid */
+  gap: 0; /* No gap, lines touch each other */
+  border: 1px solid rgba(14, 165, 233, 0.15); /* Outer border */
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 20px 40px -15px rgba(15, 23, 42, 0.05);
 }
 
-@media (min-width: 640px) {
+@media (max-width: 768px) {
   .grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
+    border-radius: 16px;
   }
 }
 
-@media (min-width: 1024px) {
-  .grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
+/* The Sleek Dashboard Card */
 .card {
   position: relative;
-  background-color: #ffffff;
-  border: 1px solid #e6eaf0;
-  border-radius: 24px;
-  padding: 2.25rem 1.75rem;
+  padding: 4.5rem 2rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  box-shadow: 0 20px 40px -15px rgba(16, 24, 40, 0.05);
-  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
-  will-change: transform, border-color, box-shadow;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, opacity, box-shadow;
+  opacity: 0; /* Handled by GSAP */
+  z-index: 1; /* Base layer */
 }
 
 .card:hover {
-  transform: translateY(-6px);
-  border-color: rgba(14, 116, 144, 0.3);
-  box-shadow: 0 24px 50px -12px rgba(11, 28, 44, 0.12);
+  background: rgba(255, 255, 255, 0.95);
+  transform: scale(1.05);
+  z-index: 10; /* Pop above other grid cells and borders */
+  box-shadow: 0 30px 60px -15px rgba(14, 165, 233, 0.15), 0 0 0 1px rgba(14, 165, 233, 0.3);
+  border-radius: 24px; /* Give it smooth corners when it lifts out of the grid */
 }
 
-.iconPod {
+/* Crosshair borders for desktop */
+@media (min-width: 769px) {
+  .borderRight {
+    border-right: 1px solid rgba(14, 165, 233, 0.15);
+  }
+  .borderBottom {
+    border-bottom: 1px solid rgba(14, 165, 233, 0.15);
+  }
+}
+
+/* Crosshair borders for mobile */
+@media (max-width: 768px) {
+  .borderRight {
+    border-right: none;
+  }
+  .borderBottom {
+    border-bottom: 1px solid rgba(14, 165, 233, 0.15);
+  }
+  /* On mobile, card 3 needs a border-bottom */
+  .card:nth-child(3) {
+    border-bottom: 1px solid rgba(14, 165, 233, 0.15);
+  }
+  
+  /* Reduce padding on mobile to fit the single-column layout better */
+  .card {
+    padding: 2.5rem 1.5rem;
+  }
+}
+
+.numberWrapper {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  width: 44px;
-  height: 44px;
-  background: #cffafe;
-  border: 1px solid rgba(14, 116, 144, 0.2);
-  color: #0e7490;
-  border-radius: 14px;
-  margin-bottom: 1.75rem;
-  transition: transform 0.3s ease, background-color 0.3s ease;
+  margin-bottom: 1rem;
 }
 
-.card:hover .iconPod {
-  transform: scale(1.08) rotate(3deg);
-  background: #bae6fd;
+.chevronAccent {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #0ea5e9;
+  margin-right: 0.5rem;
+  line-height: 1;
+  /* Animate the chevron slightly */
+  animation: pulseChevron 2s infinite alternate ease-in-out;
+}
+
+@keyframes pulseChevron {
+  0% { transform: translateX(0); opacity: 0.8; }
+  100% { transform: translateX(4px); opacity: 1; }
 }
 
 .numberDisplay {
-  font-family: var(--font-fraunces), Georgia, serif;
-  font-size: clamp(2.5rem, 4.5vw, 3.75rem);
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 4rem;
   font-weight: 700;
   line-height: 1;
+  color: #0f172a;
   letter-spacing: -0.03em;
-  color: #0b1c2c;
-  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 768px) {
+  .numberDisplay {
+    font-size: 3rem;
+  }
+  .chevronAccent {
+    font-size: 2rem;
+  }
 }
 
 .numberGradient {
-  background: linear-gradient(135deg, #0b1c2c 0%, #0e7490 60%, #0284c7 100%);
+  background: linear-gradient(135deg, #0f172a 0%, #334155 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .cardLabel {
-  font-family: var(--font-dm-sans), sans-serif;
-  font-size: 0.95rem;
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.9rem;
   font-weight: 700;
-  color: #0b1c2c;
-  margin-bottom: 0.35rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.75rem;
 }
 
 .cardDesc {
-  font-family: var(--font-dm-sans), sans-serif;
-  font-size: 0.8rem;
-  line-height: 1.5;
-  color: #667085;
-}
-
-.nodeGlow {
-  position: absolute;
-  top: 1.25rem;
-  right: 1.25rem;
-  width: 8px;
-  height: 8px;
-  background-color: #0e7490;
-  border-radius: 999px;
-  box-shadow: 0 0 10px rgba(14, 116, 144, 0.5);
-  opacity: 0.8;
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.9rem;
+  color: #475569;
+  line-height: 1.6;
 }

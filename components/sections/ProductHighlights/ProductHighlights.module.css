@@ -1,0 +1,209 @@
+.section {
+  position: relative;
+  padding: 8rem 1.5rem;
+  background-color: #f8fafc; /* Soft light background matching other sections */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.ambientOrb {
+  position: absolute;
+  top: -10%;
+  left: 50%;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(14, 165, 233, 0.08) 0%, rgba(14, 165, 233, 0) 70%);
+  transform: translateX(-50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+.titleContainer {
+  text-align: center;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  /* GSAP initial state */
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.titleBadge {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  color: #0ea5e9;
+  text-transform: uppercase;
+}
+
+.title {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: 3rem;
+  line-height: 1.2;
+  color: #0f172a;
+  letter-spacing: -0.01em;
+}
+
+.titleBold {
+  font-weight: 800;
+}
+
+.titleLight {
+  font-weight: 300;
+  color: #475569;
+}
+
+.highlight {
+  color: #0ea5e9;
+  background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+
+.textMask {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.1em;
+}
+
+.textMaskInner {
+  display: inline-block;
+  will-change: transform;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  width: 100%;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  padding: 3rem 2.5rem;
+  border-radius: 16px;
+  border: 1px solid rgba(14, 165, 233, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.4s ease, box-shadow 0.4s ease;
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+  /* GSAP initial state */
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.cardGlow {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 80%;
+  height: 100px;
+  background: radial-gradient(ellipse at top, rgba(14, 165, 233, 0.15), transparent 70%);
+  transform: translateX(-50%) translateY(-50%);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+}
+
+.iconWrapper {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(14, 165, 233, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(14, 165, 233, 0.2);
+  transition: all 0.4s ease;
+}
+
+.cardIcon {
+  width: 24px;
+  height: 24px;
+  color: #0ea5e9;
+  transition: all 0.4s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px) !important; /* Override GSAP transform after it plays */
+  border-color: rgba(14, 165, 233, 0.3);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08), 0 0 20px rgba(14, 165, 233, 0.05);
+}
+
+.card:hover .cardGlow {
+  opacity: 1;
+}
+
+.card:hover .iconWrapper {
+  background: rgba(14, 165, 233, 0.2);
+  transform: scale(1.1);
+}
+
+.cardTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+}
+
+.cardDesc {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #475569;
+  margin: 0;
+}
+
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 4rem 1.25rem;
+  }
+
+  .container {
+    gap: 2.5rem;
+  }
+
+  .title {
+    font-size: 2.25rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .card {
+    padding: 2rem 1.5rem;
+    gap: 1rem;
+  }
+}

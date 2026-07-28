@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Inquiry } from "@/lib/types";
+import styles from "@/components/admin/AdminConsole.module.css";
 
 const statuses = ["new", "contacted", "closed"] as const;
 
@@ -40,85 +41,133 @@ export default function AdminInquiriesPage() {
 
   return (
     <div>
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <div>
-          <h1 className="font-display text-3xl">Inquiries</h1>
-          <p className="mt-1 text-sm text-slate-600">
-            Quote requests from contact and inquiry forms.
-          </p>
+      {/* Filter Control Header */}
+      <div className="mb-6 flex items-center justify-between">
+        <div className="text-sm font-semibold text-slate-500">
+          Showing {inquiries.length} Proposal Requests
         </div>
+
         <select
           value={filter}
           onChange={(e) => setFilter(e.target.value)}
-          className="rounded-md border border-slate-300 bg-white px-3 py-2 text-sm"
+          className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm outline-none focus:border-cyan-600"
         >
-          <option value="">All statuses</option>
+          <option value="">All Lead Statuses</option>
           {statuses.map((s) => (
             <option key={s} value={s}>
-              {s}
+              {s.toUpperCase()}
             </option>
           ))}
         </select>
       </div>
 
-      <div className="mt-6 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
-        <div className="overflow-x-auto rounded-xl border border-slate-200 bg-white">
-          <table className="min-w-full text-left text-sm">
-            <thead className="border-b border-slate-200 bg-slate-50">
+      <div className="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
+        {/* Inquiries Table Card */}
+        <div className={styles.tableCard}>
+          <table className={styles.table}>
+            <thead>
               <tr>
-                <th className="px-4 py-3 font-medium">Name</th>
-                <th className="px-4 py-3 font-medium">Company</th>
-                <th className="px-4 py-3 font-medium">Status</th>
-                <th className="px-4 py-3 font-medium">Items</th>
+                <th>Lead Contact</th>
+                <th>Company</th>
+                <th>Status</th>
+                <th>Units</th>
               </tr>
             </thead>
             <tbody>
               {inquiries.map((inq) => (
                 <tr
                   key={inq.id}
-                  className="cursor-pointer border-b border-slate-100 hover:bg-slate-50"
+                  className="cursor-pointer"
                   onClick={() => setSelected(inq)}
                 >
-                  <td className="px-4 py-3">
-                    <div className="font-medium">{inq.name}</div>
-                    <div className="text-xs text-slate-500">{inq.email}</div>
+                  <td>
+                    <div className="font-bold text-navy">{inq.name}</div>
+                    <div className="text-xs text-slate-400">{inq.email}</div>
                   </td>
-                  <td className="px-4 py-3">{inq.company || "—"}</td>
-                  <td className="px-4 py-3">{inq.status}</td>
-                  <td className="px-4 py-3">{inq.items?.length || 0}</td>
+                  <td>{inq.company || "—"}</td>
+                  <td>
+                    <span
+                      className={`${styles.badgePill} ${
+                        inq.status === "new"
+                          ? styles.badgeGreen
+                          : inq.status === "contacted"
+                          ? styles.badgeCyan
+                          : styles.badgeGray
+                      }`}
+                    >
+                      {inq.status}
+                    </span>
+                  </td>
+                  <td className="font-semibold text-slate-700">
+                    {inq.items?.length || 0} items
+                  </td>
                 </tr>
               ))}
+
+              {inquiries.length === 0 && (
+                <tr>
+                  <td colSpan={4} className="py-10 text-center text-slate-500">
+                    No proposal inquiries match your selected status.
+                  </td>
+                </tr>
+              )}
             </tbody>
           </table>
         </div>
 
-        <div className="rounded-xl border border-slate-200 bg-white p-5">
+        {/* Selected Lead Detail Drawer Card */}
+        <div className={styles.tableCard} style={{ padding: "2rem" }}>
           {selected ? (
-            <div className="space-y-4">
-              <h2 className="text-lg font-semibold">{selected.name}</h2>
-              <p className="text-sm text-slate-600">
-                {selected.email}
-                {selected.phone ? ` · ${selected.phone}` : ""}
-              </p>
-              <p className="text-sm text-slate-600">
-                {selected.company || "No company"}
-              </p>
-              <p className="text-sm whitespace-pre-wrap">{selected.message}</p>
+            <div className="space-y-5">
               <div>
-                <h3 className="text-sm font-medium">Items</h3>
-                <ul className="mt-2 space-y-1 text-sm text-slate-700">
+                <div className="text-xs font-bold uppercase tracking-wider text-cyan-700">
+                  INQUIRY DETAILS
+                </div>
+                <h2 className="font-display text-2xl font-bold text-navy mt-1">
+                  {selected.name}
+                </h2>
+                <p className="text-sm font-medium text-slate-500">
+                  {selected.email} {selected.phone ? ` • ${selected.phone}` : ""}
+                </p>
+                <p className="text-sm font-semibold text-slate-700 mt-0.5">
+                  {selected.company || "Direct Commercial Operator"}
+                </p>
+              </div>
+
+              {selected.message && (
+                <div className="rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-700 whitespace-pre-wrap">
+                  {selected.message}
+                </div>
+              )}
+
+              <div>
+                <h3 className="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">
+                  Requested Hardware Items
+                </h3>
+                <ul className="space-y-2">
                   {(selected.items || []).map((item, idx) => (
-                    <li key={`${item.name}-${idx}`}>
-                      {item.quantity}× {item.name} ({item.type})
+                    <li
+                      key={`${item.name}-${idx}`}
+                      className="flex items-center justify-between rounded-lg border border-slate-100 bg-white p-3 text-sm"
+                    >
+                      <span className="font-semibold text-navy">{item.name}</span>
+                      <span className="text-xs font-bold text-cyan-700">
+                        Qty: {item.quantity}
+                      </span>
                     </li>
                   ))}
-                  {(selected.items || []).length === 0 ? (
-                    <li className="text-slate-500">No catalog items</li>
-                  ) : null}
+                  {(selected.items || []).length === 0 && (
+                    <li className="text-sm text-slate-400 italic">
+                      No specific catalog items attached. General proposal request.
+                    </li>
+                  )}
                 </ul>
               </div>
-              <label className="block text-sm">
-                <span className="mb-1 block font-medium">Status</span>
+
+              <div>
+                <label className="block text-xs font-bold uppercase tracking-wider text-slate-500 mb-1.5">
+                  Update Lead Status
+                </label>
                 <select
                   value={selected.status}
                   onChange={(e) =>
@@ -127,20 +176,21 @@ export default function AdminInquiriesPage() {
                       e.target.value as "new" | "contacted" | "closed",
                     )
                   }
-                  className="w-full rounded-md border border-slate-300 px-3 py-2"
+                  className="w-full rounded-xl border border-slate-300 bg-white p-2.5 text-sm font-semibold text-navy outline-none focus:border-cyan-600"
                 >
                   {statuses.map((s) => (
                     <option key={s} value={s}>
-                      {s}
+                      {s.toUpperCase()}
                     </option>
                   ))}
                 </select>
-              </label>
+              </div>
             </div>
           ) : (
-            <p className="text-sm text-slate-500">
-              Select an inquiry to view details.
-            </p>
+            <div className="py-16 text-center text-slate-400">
+              <p className="font-semibold">Select an inquiry from the list</p>
+              <p className="text-xs mt-1">Review contact details, selected units, and SLA status.</p>
+            </div>
           )}
         </div>
       </div>
