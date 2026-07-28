@@ -1,8 +1,8 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { Cpu, Search } from "lucide-react";
+import { Cpu } from "lucide-react";
 import { getCategories, getPublishedProducts } from "@/lib/queries";
-import { AnimatedProductGrid } from "@/components/public/AnimatedProductGrid";
+import { CategoryScrollSection } from "@/components/public/CategoryScrollSection";
 import styles from "@/components/public/MinimalistProduct.module.css";
 
 export const revalidate = 3600;
@@ -27,10 +27,15 @@ export default async function ProductsPage({ searchParams }: Props) {
     getCategories(),
   ]);
 
+  // Group products by category
+  const activeCategories = params.category 
+    ? categories.filter(c => c.slug === params.category)
+    : categories;
+
   return (
     <div className={styles.pageWrapper}>
+      {/* Page Header Area (Stays static at top) */}
       <div className={styles.container}>
-        {/* Minimalist Editorial Header */}
         <div className={styles.headerBlock}>
           <div className={styles.sectionTag}>
             <Cpu className="w-3.5 h-3.5 text-cyan-600" />
@@ -83,19 +88,34 @@ export default async function ProductsPage({ searchParams }: Props) {
             </Link>
           ))}
         </div>
-
-        {/* Product Cards Grid with GSAP Scroll Animations */}
-        <AnimatedProductGrid products={products} className={styles.productGrid} />
-
-        {products.length === 0 && (
-          <div className="py-20 text-center text-slate-500">
-            <p className="font-display text-xl text-navy">No products found</p>
-            <p className="mt-1 text-sm">
-              Try adjusting your search criteria or select another hardware category.
-            </p>
-          </div>
-        )}
       </div>
+
+      {/* Dynamic Pinned Horizontal Scroll Sections */}
+      <div className={styles.horizontalSectionsContainer}>
+        {activeCategories.map(category => {
+          // Filter products for this specific category
+          const categoryProducts = products.filter(p => p.category?.id === category.id);
+          
+          if (categoryProducts.length === 0) return null;
+          
+          return (
+            <CategoryScrollSection 
+              key={category.id} 
+              category={category} 
+              products={categoryProducts} 
+            />
+          );
+        })}
+      </div>
+
+      {products.length === 0 && (
+        <div className="py-20 text-center text-slate-500">
+          <p className="font-display text-xl text-navy">No products found</p>
+          <p className="mt-1 text-sm">
+            Try adjusting your search criteria or select another hardware category.
+          </p>
+        </div>
+      )}
     </div>
   );
 }

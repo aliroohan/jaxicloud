@@ -74,17 +74,24 @@ export async function getProductByCategorySlug(
   slug: string,
 ): Promise<ProductT | null> {
   try {
+    console.log(`[getProductByCategorySlug] called with categorySlug: "${categorySlug}", slug: "${slug}"`);
     const db = await connectDB();
     if (!db) return null;
     const category = await Category.findOne({ slug: categorySlug }).lean();
-    if (!category) return null;
+    if (!category) {
+      console.log(`[getProductByCategorySlug] Category not found for slug: "${categorySlug}"`);
+      return null;
+    }
 
     const product = await Product.findOne({
       slug,
       categoryId: category._id,
       status: "published",
     }).lean();
-    if (!product) return null;
+    if (!product) {
+      console.log(`[getProductByCategorySlug] Product not found for slug: "${slug}", categoryId: "${category._id}"`);
+      return null;
+    }
 
     const [solutions, bundles] = await Promise.all([
       Solution.find({ _id: { $in: product.solutionIds || [] } }).lean(),
