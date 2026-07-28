@@ -243,6 +243,34 @@
   transform: rotate(-35deg) scaleX(1);
 }
 
+.cardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 1.5rem 0;
+  position: relative;
+  z-index: 20;
+}
+
+.statusBadge {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 800;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+  letter-spacing: 0.1em;
+}
+
+.statusHot {
+  background-color: #ef4444;
+  color: white;
+}
+
+.statusNew {
+  background-color: #f59e0b;
+  color: white;
+}
+
 .cardImageStage {
   position: relative;
   width: 100%;
@@ -348,6 +376,77 @@
 }
 
 .productCard:hover .cardTagline {
+  color: #94a3b8;
+}
+
+/* Tech Spec Pills */
+.specPillContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.specPill {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #334155;
+  background-color: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  transition: all 0.4s ease;
+}
+
+.productCard:hover .specPill {
+  background-color: rgba(14, 116, 144, 0.2);
+  border-color: rgba(56, 189, 248, 0.4);
+  color: #e0f2fe;
+}
+
+/* Certifications */
+.certContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: auto;
+  border-top: 1px solid rgba(226, 232, 240, 0.8);
+  padding-top: 1.25rem;
+  transition: border-color 0.4s ease;
+}
+
+.productCard:hover .certContainer {
+  border-top-color: rgba(56, 189, 248, 0.2);
+}
+
+.certPill {
+  font-family: var(--font-dm-sans), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #4f46e5;
+  background-color: rgba(79, 70, 229, 0.1);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.4s ease;
+}
+
+.productCard:hover .certPill {
+  background-color: rgba(167, 139, 250, 0.15);
+  color: #c4b5fd;
+}
+
+.certMore {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  transition: color 0.4s ease;
+}
+
+.productCard:hover .certMore {
   color: #94a3b8;
 }
 

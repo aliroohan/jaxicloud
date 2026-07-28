@@ -1,0 +1,129 @@
+.scrollSection {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: #fafbfd;
+  overflow: hidden;
+}
+
+.stickyLayout {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+/* 1. Left Column: Category Info */
+.leftColumn {
+  flex: 0 0 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 3rem 0 5%;
+  z-index: 10;
+  height: 100%;
+  background-color: #fafbfd; /* Opaque background to hide cards sliding underneath */
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.categoryTitle {
+  font-family: var(--font-outfit), sans-serif;
+  font-size: clamp(2.5rem, 4vw, 4rem);
+  font-weight: 700;
+  color: #101828;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.5rem;
+}
+
+.categoryDesc {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.1rem;
+  color: #64748b;
+  line-height: 1.6;
+}
+
+/* 2. Right Column: Scrolling Track */
+.rightColumn {
+  flex: 0 0 70%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  padding-bottom: 1rem;
+}
+
+.rightColumn::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+.track {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  padding-left: 3rem;
+  height: 100%;
+}
+
+.trackItem {
+  flex: 0 0 auto;
+  width: 380px; /* Fixed width for standard product cards */
+}
+
+.trackSpacer {
+  flex: 0 0 10vw; /* Padding at the very end of the scroll */
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .leftColumn {
+    flex: 0 0 40%;
+  }
+  .rightColumn {
+    flex: 0 0 60%;
+  }
+}
+
+@media (max-width: 768px) {
+  .scrollSection {
+    height: auto;
+    overflow: visible;
+  }
+  
+  .stickyLayout {
+    position: relative;
+    height: auto;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .leftColumn {
+    width: 100%;
+    padding: 3rem 5% 1.5rem;
+    border-right: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+  
+  .rightColumn {
+    width: 100%;
+    overflow-x: auto; /* Fallback to native horizontal scroll on mobile */
+    -webkit-overflow-scrolling: touch;
+    padding: 2rem 0;
+  }
+  
+  .track {
+    padding: 0 5%;
+  }
+  
+  .trackItem {
+    width: 320px;
+  }
+}

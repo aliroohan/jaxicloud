@@ -9,15 +9,32 @@ export function ProductCard({ product }: { product: Product }) {
     ? `/products/${product.category.slug}/${product.slug}`
     : `/products`;
 
-  return (
-    <article className={styles.productCard}>
-      {/* Product Image Stage */}
-      <Link href={href} className={styles.cardImageStage}>
-        {/* Floating AI Badge (Revealed on Hover) */}
-        <div className={styles.aiFloatingBadge}>
-          <BrainCircuit className="w-4 h-4" />
-        </div>
+  // Grab the first 6 specs across all groups to show as pills
+  const specPills: string[] = [];
+  product.specifications?.forEach(group => {
+    group.items?.forEach(item => {
+      if (specPills.length < 6) specPills.push(item.value);
+    });
+  });
 
+  const isNewOrHot = product.tags?.find(t => t.toLowerCase() === 'new' || t.toLowerCase() === 'hot');
+
+  return (
+    <Link href={href} className={styles.productCard}>
+      {/* Top Header Row */}
+      <div className={styles.cardHeader}>
+        {product.category && (
+          <span className={styles.categoryTag}>{product.category.name}</span>
+        )}
+        {isNewOrHot && (
+          <span className={`${styles.statusBadge} ${isNewOrHot.toLowerCase() === 'hot' ? styles.statusHot : styles.statusNew}`}>
+            {isNewOrHot.toUpperCase()}
+          </span>
+        )}
+      </div>
+
+      {/* Product Image Stage */}
+      <div className={styles.cardImageStage}>
         {image?.url ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
@@ -30,25 +47,38 @@ export function ProductCard({ product }: { product: Product }) {
             Hardware Render Pending
           </div>
         )}
-      </Link>
+        {/* Glow effect behind image */}
+        <div className={styles.imageGlow}></div>
+      </div>
 
       {/* Card Content Area */}
-      <Link href={href} className={styles.cardContent}>
-        <div className={styles.tagLinks}>
-          {product.category && (
-            <span className={styles.categoryTag}>{product.category.name}</span>
-          )}
-          {product.tags?.[0] && (
-            <span className={styles.categoryTag}>{product.tags[0]}</span>
-          )}
-        </div>
-
+      <div className={styles.cardContent}>
         <h3 className={styles.cardTitle}>{product.name}</h3>
-
         {product.tagline && (
           <p className={styles.cardTagline}>{product.tagline}</p>
         )}
-      </Link>
-    </article>
+
+        {/* Tech Spec Pills */}
+        {specPills.length > 0 && (
+          <div className={styles.specPillContainer}>
+            {specPills.map((spec, i) => (
+              <span key={i} className={styles.specPill}>{spec}</span>
+            ))}
+          </div>
+        )}
+
+        {/* Certifications Row */}
+        {product.certifications && product.certifications.length > 0 && (
+          <div className={styles.certContainer}>
+            {product.certifications.slice(0, 4).map((cert, i) => (
+              <span key={i} className={styles.certPill}>{cert}</span>
+            ))}
+            {product.certifications.length > 4 && (
+              <span className={styles.certMore}>[+{product.certifications.length - 4} more]</span>
+            )}
+          </div>
+        )}
+      </div>
+    </Link>
   );
 }

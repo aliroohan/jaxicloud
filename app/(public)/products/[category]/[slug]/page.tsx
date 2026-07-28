@@ -10,7 +10,7 @@ import {
 import { ProductDetailClient } from "@/components/public/ProductDetailClient";
 import styles from "@/components/public/MinimalistProduct.module.css";
 
-export const revalidate = 3600;
+export const revalidate = 0;
 
 type Props = {
   params: Promise<{ category: string; slug: string }>;
