@@ -73,7 +73,6 @@ export function ServicesGrid() {
         start: "top top",
         end: () => `+=${getScrollAmount() * -1}`, // Scroll distance equals track width
         pin: true,
-        animation: undefined,
         scrub: 1,
         invalidateOnRefresh: true,
       }

@@ -15,7 +15,7 @@ export function ServicesHero() {
   const containerRef = useRef<HTMLElement>(null);
   const textLinesRef = useRef<(HTMLSpanElement | null)[]>([]);
   const subtitleRef = useRef<HTMLParagraphElement>(null);
-  const buttonRef = useRef<HTMLDivElement>(null);
+  const buttonRef = useRef<HTMLButtonElement>(null);
   const mockupWrapperRef = useRef<HTMLDivElement>(null);
   const mockupInnerRef = useRef<HTMLDivElement>(null);
   const mockupShadowRef = useRef<HTMLDivElement>(null);
@@ -113,10 +113,8 @@ export function ServicesHero() {
         rotationX: 0,
         rotationY: 0,
         rotationZ: 0,
-        width: "100vw",
-        height: "100vh",
-        maxWidth: "100vw",
-        x: "-45vw", // Shift left to center the 100vw element inside the 55vw right column
+        scale: 1.8,
+        x: "-25vw", // Shift left slightly to center
         duration: 2,
         ease: "power3.inOut"
       }, "-=1")
