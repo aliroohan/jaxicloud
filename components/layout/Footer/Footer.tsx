@@ -40,7 +40,7 @@ export function Footer() {
     if (typeof window !== "undefined") {
       gsap.registerPlugin(ScrollTrigger);
     }
-    
+
     if (!sectionRef.current) return;
     const tl = gsap.timeline({
       scrollTrigger: {
