@@ -231,7 +231,7 @@
   letter-spacing: -0.02em;
 }
 
-.headingTitle span {
+.headingTitle .highlight {
   color: #0ea5e9;
 }
 

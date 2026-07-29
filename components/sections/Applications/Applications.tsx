@@ -13,6 +13,7 @@ if (typeof window !== "undefined") {
 export function Applications() {
   const sectionRef = useRef<HTMLDivElement>(null);
   const textContainerRef = useRef<HTMLDivElement>(null);
+  const tagRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
   const staggerItemsRef = useRef<(HTMLElement | null)[]>([]);
   const cardsRef = useRef<(HTMLDivElement | null)[]>([]);
@@ -39,13 +40,23 @@ export function Applications() {
       },
     });
 
+    // 0. Tag Reveal
+    if (tagRef.current) {
+      tl.fromTo(
+        tagRef.current,
+        { opacity: 0, y: 15 },
+        { opacity: 1, y: 0, duration: 0.4, ease: "power2.out" }
+      );
+    }
+
     // 1. Title Mask Reveal
     const textMasks = textMasksRef.current;
     if (textMasks.length) {
       tl.fromTo(
         textMasks,
         { y: "120%" },
-        { y: "0%", duration: 0.8, stagger: 0.1, ease: "power4.out" }
+        { y: "0%", duration: 0.8, stagger: 0.1, ease: "power4.out" },
+        "-=0.2"
       );
     }
 
@@ -106,6 +117,9 @@ export function Applications() {
 
         {/* Left Side: Storytelling Text */}
         <div ref={textContainerRef} className={styles.contentBlock}>
+          <div ref={tagRef} className={styles.sectionTag}>
+            FLEET APPLICATIONS
+          </div>
           <h2 className={styles.title}>
             <span className={styles.textMask}>
               <span ref={addToTextMasks} className={styles.textMaskInner}>Applications to</span>
