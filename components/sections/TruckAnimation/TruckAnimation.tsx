@@ -219,7 +219,7 @@ export function TruckAnimation() {
             </span>
             <span className={styles.textMask}>
               <motion.span variants={{ hidden: { y: "120%" }, show: { y: "0%", transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] } } }} className={styles.textMaskInner}>
-                <span>Intelligence</span>
+                <span className={styles.highlight}>Intelligence</span>
               </motion.span>
             </span>
           </h2>
