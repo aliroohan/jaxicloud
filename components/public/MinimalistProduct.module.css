@@ -130,6 +130,7 @@
 .categoryTabs {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 0.65rem;
   overflow-x: auto;
   padding-bottom: 0.5rem;

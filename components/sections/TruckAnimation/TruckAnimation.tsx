@@ -2,6 +2,7 @@
 
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import Link from "next/link";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import styles from "./TruckAnimation.module.css";
@@ -38,7 +39,8 @@ const HOTSPOTS = [
     title: "Construction",
     desc: "Heavy Machinery",
     path: "M0,0 L30,-140 L100,-140",
-    labelPos: { top: "-165px", left: "110px" }
+    labelPos: { top: "-165px", left: "110px" },
+    href: "/solutions/construction"
   },
   {
     id: "public-transport",
@@ -270,8 +272,17 @@ export function TruckAnimation() {
                       exit={{ opacity: 0, scale: 0.9 }}
                       transition={{ duration: 0.2, delay: (i * 0.05) + 0.1 }}
                     >
-                      <span className={styles.hudTitle}>{spot.title}</span>
-                      <span className={styles.hudDesc}>{spot.desc}</span>
+                      {spot.href ? (
+                        <Link href={spot.href} className={styles.hudLabelInner} style={{ textDecoration: 'none' }}>
+                          <span className={styles.hudTitle}>{spot.title}</span>
+                          <span className={styles.hudDesc}>{spot.desc}</span>
+                        </Link>
+                      ) : (
+                        <div className={styles.hudLabelInner}>
+                          <span className={styles.hudTitle}>{spot.title}</span>
+                          <span className={styles.hudDesc}>{spot.desc}</span>
+                        </div>
+                      )}
                     </motion.div>
                   </div>
                 ))}

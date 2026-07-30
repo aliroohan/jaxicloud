@@ -6,6 +6,7 @@ import { ServicesStory } from "@/components/sections/ServicesStory/ServicesStory
 import { ProductHighlights } from "@/components/sections/ProductHighlights/ProductHighlights";
 import { BusinessImpact } from "@/components/sections/BusinessImpact/BusinessImpact";
 import { PartnerMatrix } from "@/components/sections/PartnerMatrix/PartnerMatrix";
+import { BlogSection } from "@/components/sections/BlogSection/BlogSection";
 
 export const revalidate = 3600;
 
@@ -20,6 +21,7 @@ export default async function HomePage() {
       <ProductHighlights />
       <BusinessImpact />
       <PartnerMatrix />
+      <BlogSection />
     </div>
   );
 }

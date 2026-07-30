@@ -38,6 +38,15 @@ export function ConnectorSVG() {
             <stop offset="100%" stopColor="#29A8FF" stopOpacity="0.2" />
           </linearGradient>
 
+          <filter id="pulseGlow" x="-100%" y="-100%" width="300%" height="300%">
+            <feGaussianBlur stdDeviation="6" result="blur" />
+            <feMerge>
+              <feMergeNode in="blur" />
+              <feMergeNode in="blur" />
+              <feMergeNode in="SourceGraphic" />
+            </feMerge>
+          </filter>
+
           <mask id="drawMask">
             {/* The main connecting zig-zag path that GSAP animates to reveal the mask */}
             <path
@@ -71,10 +80,11 @@ export function ConnectorSVG() {
         <circle
           ref={glowRef}
           className="connector-pulse"
-          r="4"
-          fill="#FFF"
-          stroke="#29A8FF"
-          strokeWidth="2"
+          r="8"
+          fill="#ffffff"
+          stroke="#0ea5e9"
+          strokeWidth="3"
+          filter="url(#pulseGlow)"
           style={{ opacity: 0 }}
         />
       </svg>

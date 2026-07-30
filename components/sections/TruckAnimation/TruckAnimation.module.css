@@ -82,26 +82,69 @@
 .hudLabel {
   position: absolute;
   /* Anchor to the end of the SVG line */
+  border-radius: 9px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  min-width: max-content;
+  
+  /* Animated border layout */
+  padding: 2px;
+  background: rgba(14, 165, 233, 0.3); /* Default static border */
+  overflow: hidden;
+  z-index: 10;
+}
+
+/* Moving light rope (hidden by default) */
+.hudLabel::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(
+    transparent 0%, 
+    transparent 60%, 
+    #38bdf8 80%, 
+    #ffffff 100%
+  );
+  animation: rotateLightRope 2.5s linear infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+  pointer-events: none;
+}
+
+@keyframes rotateLightRope {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.hudLabelInner {
   background: rgba(15, 23, 42, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(14, 165, 233, 0.3);
   padding: 0.75rem 1rem;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
-  cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
-  min-width: max-content;
+  transition: background 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  z-index: 2;
 }
 
 .hudLabel:hover {
-  background: rgba(15, 23, 42, 0.95);
-  border-color: rgba(14, 165, 233, 0.8);
   transform: translateY(-2px);
-  box-shadow: 0 15px 40px -10px rgba(14, 165, 233, 0.2), 0 0 0 1px rgba(14, 165, 233, 0.5);
+  box-shadow: 0 15px 40px -10px rgba(14, 165, 233, 0.2), 0 0 8px rgba(14, 165, 233, 0.3);
+}
+
+.hudLabel:hover::before {
+  opacity: 1;
+}
+
+.hudLabel:hover .hudLabelInner {
+  background: rgba(15, 23, 42, 0.95);
 }
 
 @media (max-width: 768px) {
@@ -114,9 +157,14 @@
     top: -45px !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
-    padding: 0.4rem 0.6rem;
+    padding: 1.5px !important;
+    border-radius: 7px !important;
+  }
+  
+  .hudLabelInner {
+    padding: 0.4rem 0.6rem !important;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 6px !important;
   }
 
   .hudLabel:hover {

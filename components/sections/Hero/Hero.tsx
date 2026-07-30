@@ -69,7 +69,7 @@ export function Hero() {
       {/* Full-Bleed Background Video */}
       <video
         ref={videoRef}
-        src="/semi1.mp4"
+        src="/video/semi1.mp4"
         autoPlay
         muted
         loop

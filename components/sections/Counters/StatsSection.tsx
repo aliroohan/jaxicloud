@@ -20,10 +20,10 @@ export function StatsSection() {
   const headerRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
-  
+
   // State to trigger the React counting hook once GSAP reveals the cards
   const [cardsRevealed, setCardsRevealed] = useState(false);
-  
+
   const prefersReducedMotion = typeof window !== 'undefined' ? window.matchMedia('(prefers-reduced-motion: reduce)').matches : false;
 
   textMasksRef.current = [];
@@ -33,7 +33,7 @@ export function StatsSection() {
 
   useEffect(() => {
     if (!sectionRef.current || !containerRef.current || !headerRef.current) return;
-    
+
     // Set initial GSAP states
     const cards = containerRef.current.querySelectorAll('.stat-card');
     const path = containerRef.current.querySelector('.connector-path');
@@ -104,7 +104,7 @@ export function StatsSection() {
           onComplete: () => {
             // Once the initial draw is complete, start an infinite energy pulse
             const pulseTl = gsap.timeline({ repeat: -1 });
-            
+
             pulseTl.addLabel("pulseStart", 0);
 
             // Fade pulse in
@@ -112,7 +112,7 @@ export function StatsSection() {
               opacity: 1,
               duration: 0.2
             }, "pulseStart");
-            
+
             // Travel along the path
             pulseTl.to(pulse, {
               motionPath: {
@@ -123,8 +123,8 @@ export function StatsSection() {
               },
               duration: 3.5, // Slightly slower so the scaling feels natural
               ease: "none" // Constant speed looks best for an energy flow
-            }, "pulseStart"); 
-            
+            }, "pulseStart");
+
             // Make each card scale up as the energy passes it
             // The timings are approximated based on the SVG path length distribution
             if (cards.length === 4) {
@@ -140,7 +140,7 @@ export function StatsSection() {
               opacity: 0,
               duration: 0.2
             }, "pulseStart+=3.3"); // fade out right before it reaches the absolute end
-            
+
             // Pause before repeating the energy wave
             pulseTl.to({}, { duration: 1.5 });
           }
@@ -152,15 +152,15 @@ export function StatsSection() {
         opacity: 1,
         y: 0,
         scale: 1,
-        duration: 0.7,
-        stagger: 0.18,
+        duration: 1.2,
+        stagger: 0.35,
         ease: "power3.out",
         onStart: () => {
           // Trigger the counter animations once cards start revealing
           setCardsRevealed(true);
         }
-      }, path ? "-=1.2" : "-=0.2"); // Start revealing while path is still drawing
-      
+      }, path ? "-=0.8" : "-=0.2"); // Start revealing slightly after path starts drawing
+
     }, sectionRef);
 
     return () => {
@@ -171,7 +171,7 @@ export function StatsSection() {
   return (
     <section ref={sectionRef} className={styles.sectionWrapper}>
       <div className={styles.radialGlow} />
-      
+
       <div className={styles.layoutContainer}>
         <div ref={headerRef} className={styles.headerBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
@@ -190,15 +190,15 @@ export function StatsSection() {
         <div ref={containerRef} className={styles.contentContainer}>
           {/* The SVG connector layer (only visible on desktop via CSS) */}
           <ConnectorSVG />
-          
+
           {/* The Cards Grid Layer */}
           <div className={styles.gridTimeline}>
             {STAT_DETAILS.map((detail, idx) => (
-              <StatCard 
-                key={detail.id} 
-                detail={detail} 
-                index={idx} 
-                inView={prefersReducedMotion ? true : cardsRevealed} 
+              <StatCard
+                key={detail.id}
+                detail={detail}
+                index={idx}
+                inView={prefersReducedMotion ? true : cardsRevealed}
               />
             ))}
           </div>

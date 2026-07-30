@@ -81,19 +81,19 @@ export function BusinessImpact() {
     if (paths.length && keywords.length) {
       const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%&*";
       
+      tl.addLabel("drawLines", "-=0.2");
+      
       paths.forEach((path, index) => {
         if (!path) return;
         const length = path.getTotalLength();
         gsap.set(path, { strokeDasharray: length, strokeDashoffset: length, opacity: 1 });
-        
-        const pathDelay = index * 0.2; // Stagger the lines
         
         // 1. Draw the line (starts with heading animation)
         tl.to(path, {
           strokeDashoffset: 0,
           duration: 1.2,
           ease: "power2.inOut",
-        }, `<${pathDelay}`);
+        }, "drawLines");
 
         // 2. Scramble Text Reveal (starts when line is almost finished drawing)
         const kw = keywords[index];
@@ -119,7 +119,7 @@ export function BusinessImpact() {
               kw.style.opacity = "1";
               kw.style.textShadow = `0 0 ${10 - (scrambleObj.progress * 10)}px #38bdf8`;
             }
-          }, "<0.8"); // Trigger slightly before the line finishes
+          }, "drawLines+=0.8"); // Trigger slightly before the line finishes
         }
       });
     }
