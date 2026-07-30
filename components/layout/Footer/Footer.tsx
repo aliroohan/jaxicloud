@@ -91,7 +91,13 @@ export function Footer() {
       );
     }
 
+    // Dynamic height calculation fix: refresh ScrollTrigger after images/canvas render
+    const t1 = setTimeout(() => ScrollTrigger.refresh(), 500);
+    const t2 = setTimeout(() => ScrollTrigger.refresh(), 1500);
+
     return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
       ScrollTrigger.getAll().forEach(t => {
         if (t.vars.trigger === sectionRef.current) t.kill();
       });

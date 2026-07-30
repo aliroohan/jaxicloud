@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
-import { Headphones } from "lucide-react";
 import { ContactForm } from "@/components/public/ContactForm";
-import styles from "@/components/public/ContactForm.module.css";
 
 export const metadata: Metadata = {
   title: "Contact Enterprise Sales Engineering | JaxiCloud",
@@ -9,11 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function ContactPage() {
-  return (
-    <div className={styles.pageWrapper}>
-      <div className={styles.container}>
-        <ContactForm />
-      </div>
-    </div>
-  );
+  return <ContactForm />;
 }

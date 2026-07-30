@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Smartphone, Shield, Gauge, Radio, ArrowRight } from "lucide-react";
@@ -17,6 +17,24 @@ export function Applications() {
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
   const staggerItemsRef = useRef<(HTMLElement | null)[]>([]);
   const cardsRef = useRef<(HTMLDivElement | null)[]>([]);
+
+  // State for auto-cycling hover effect
+  const [sequenceStep, setSequenceStep] = useState(0);
+  const [isHovered, setIsHovered] = useState(false);
+  const sequence = [0, 1, 3, 2]; // Custom circular order: 1st, 2nd, 4th, 3rd
+
+  // Auto-cycle the active index slightly faster, paused if hovered
+  useEffect(() => {
+    if (isHovered) return;
+    
+    const interval = setInterval(() => {
+      setSequenceStep((prev) => (prev + 1) % sequence.length);
+    }, 1400); // Faster speed
+    
+    return () => clearInterval(interval);
+  }, [isHovered]);
+
+  const activeIndex = sequence[sequenceStep];
 
   textMasksRef.current = [];
   const addToTextMasks = (el: HTMLSpanElement | null) => {
@@ -143,10 +161,14 @@ export function Applications() {
         </div>
 
         {/* Right Side: The Glass Collage */}
-        <div className={styles.collageCanvas}>
+        <div 
+          className={styles.collageCanvas}
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+        >
 
           {/* Card 1: Click and connect */}
-          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card1}`}>
+          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card1} ${activeIndex === 0 && !isHovered ? styles.activeHover : ""}`}>
             <div className={styles.iconPod}>
               <Smartphone className="w-8 h-8" />
             </div>
@@ -154,7 +176,7 @@ export function Applications() {
           </div>
 
           {/* Card 2: Safe start */}
-          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card2}`}>
+          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card2} ${activeIndex === 1 && !isHovered ? styles.activeHover : ""}`}>
             <div className={styles.iconPod}>
               <Shield className="w-8 h-8" />
             </div>
@@ -162,7 +184,7 @@ export function Applications() {
           </div>
 
           {/* Card 3: Tacho simple */}
-          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card3}`}>
+          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card3} ${activeIndex === 2 && !isHovered ? styles.activeHover : ""}`}>
             <div className={styles.iconPod}>
               <Gauge className="w-8 h-8" />
             </div>
@@ -170,7 +192,7 @@ export function Applications() {
           </div>
 
           {/* Card 4: TPMS */}
-          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card4}`}>
+          <div ref={addToRefs} className={`${styles.glassCard} ${styles.card4} ${activeIndex === 3 && !isHovered ? styles.activeHover : ""}`}>
             <div className={styles.iconPod}>
               <Radio className="w-8 h-8" />
             </div>

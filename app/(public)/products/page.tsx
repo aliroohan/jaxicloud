@@ -27,10 +27,8 @@ export default async function ProductsPage({ searchParams }: Props) {
     getCategories(),
   ]);
 
-  // Group products by category
-  const activeCategories = params.category 
-    ? categories.filter(c => c.slug === params.category)
-    : categories;
+  // We always render all categories now (Category Centric)
+  const activeCategories = categories;
 
   return (
     <div className={styles.pageWrapper}>
@@ -57,32 +55,25 @@ export default async function ProductsPage({ searchParams }: Props) {
               placeholder="Search by hardware name, model number, or spec tag..."
               className={styles.searchInput}
             />
-            {params.category && (
-              <input type="hidden" name="category" value={params.category} />
-            )}
             <button type="submit" className={styles.filterBtn}>
               Search Catalog
             </button>
           </form>
         </div>
 
-        {/* Category Filter Tabs Bar */}
+        {/* Category Filter Tabs Bar - Now used for smooth scrolling */}
         <div className={styles.categoryTabs}>
           <Link
-            href="/products"
-            className={`${styles.categoryTab} ${
-              !params.category ? styles.categoryTabActive : ""
-            }`}
+            href="#"
+            className={`${styles.categoryTab} ${styles.categoryTabActive}`}
           >
             All Hardware
           </Link>
           {categories.map((c) => (
             <Link
               key={c.id}
-              href={`/products?category=${c.slug}`}
-              className={`${styles.categoryTab} ${
-                params.category === c.slug ? styles.categoryTabActive : ""
-              }`}
+              href={`#category-${c.slug}`}
+              className={styles.categoryTab}
             >
               {c.name}
             </Link>
@@ -90,7 +81,6 @@ export default async function ProductsPage({ searchParams }: Props) {
         </div>
       </div>
 
-      {/* Dynamic Pinned Horizontal Scroll Sections */}
       <div className={styles.horizontalSectionsContainer}>
         {activeCategories.map(category => {
           // Filter products for this specific category
@@ -99,11 +89,9 @@ export default async function ProductsPage({ searchParams }: Props) {
           if (categoryProducts.length === 0) return null;
           
           return (
-            <CategoryScrollSection 
-              key={category.id} 
-              category={category} 
-              products={categoryProducts} 
-            />
+            <div key={category.id} id={`category-${category.slug}`} className="scroll-mt-32">
+              <CategoryScrollSection category={category} products={categoryProducts} />
+            </div>
           );
         })}
       </div>

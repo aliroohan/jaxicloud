@@ -188,7 +188,8 @@
 }
 
 /* Hover Interaction: Bring to front and scale */
-.glassCard:hover {
+.glassCard:hover,
+.glassCard.activeHover {
   z-index: 50 !important;
   transform: scale(1.1) translateZ(50px) !important;
   box-shadow: 0 40px 80px -20px rgba(14, 165, 233, 0.2), 0 0 0 1px rgba(255, 255, 255, 1);
@@ -209,7 +210,8 @@
   transition: all 0.4s ease;
 }
 
-.glassCard:hover .iconPod {
+.glassCard:hover .iconPod,
+.glassCard.activeHover .iconPod {
   background: #e0f2fe;
   color: #0ea5e9;
   transform: scale(1.1) rotate(5deg);
