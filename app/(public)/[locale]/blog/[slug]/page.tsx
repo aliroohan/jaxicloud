@@ -4,7 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import sanitizeHtml from "sanitize-html";
 import { ChevronRight } from "lucide-react";
-import { isLocale, withLocale, type Locale } from "@/lib/i18n/config";
+import { isLocale, LOCALES, withLocale, type Locale } from "@/lib/i18n/config";
 import { getBlogPostBySlug } from "@/lib/queries";
 import { BlogPostCard } from "@/components/sections/Blog/BlogPostCard";
 import styles from "../blog.module.css";
@@ -40,8 +40,9 @@ const SANITIZE_OPTIONS: sanitizeHtml.IOptions = {
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
-  const data = await getBlogPostBySlug(slug);
+  const { locale: localeParam, slug } = await params;
+  const locale = isLocale(localeParam) ? localeParam : "en";
+  const data = await getBlogPostBySlug(slug, locale);
   if (!data) return { title: "Post not found" };
   const { post } = data;
 
@@ -52,12 +53,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${title} | JaxiCloud Blog`,
     description,
-    alternates: post.canonicalUrl ? { canonical: post.canonicalUrl } : undefined,
+    alternates: {
+      canonical: post.canonicalUrl || undefined,
+      languages: Object.fromEntries(
+        LOCALES.map((l) => [l, withLocale(l, `/blog/${slug}`)]),
+      ),
+    },
     openGraph: {
       title,
       description,
       images: ogImage ? [ogImage] : undefined,
       type: "article",
+      locale,
     },
   };
 }
@@ -67,7 +74,7 @@ export default async function BlogPostDetailPage({ params }: Props) {
   if (!isLocale(localeParam)) notFound();
   const locale: Locale = localeParam;
 
-  const data = await getBlogPostBySlug(slug);
+  const data = await getBlogPostBySlug(slug, locale);
   if (!data) notFound();
   const { post, relatedPosts } = data;
 
@@ -81,6 +88,13 @@ export default async function BlogPostDetailPage({ params }: Props) {
           <ChevronRight className="w-3.5 h-3.5" />
           <span>{post.title}</span>
         </nav>
+
+        {post.usedTranslationFallback ? (
+          <p className={styles.fallbackNotice}>
+            This article isn&apos;t available in your language yet — showing another
+            language version.
+          </p>
+        ) : null}
 
         {post.tags && post.tags.length > 0 && (
           <div className={styles.detailTagRow}>

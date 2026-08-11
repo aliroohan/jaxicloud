@@ -38,7 +38,7 @@ export function BlogSection({ copy }: { copy: HomeCopy }) {
 
   useEffect(() => {
     let cancelled = false;
-    fetch("/api/blog?page=1")
+    fetch(`/api/blog?page=1&locale=${activeLocale}`)
       .then((res) => (res.ok ? res.json() : { posts: [] }))
       .then((data) => {
         if (!cancelled) setPosts((data.posts || []).slice(0, 3));
@@ -49,7 +49,7 @@ export function BlogSection({ copy }: { copy: HomeCopy }) {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [activeLocale]);
 
   const BLOG_POSTS = (posts || []).map((post) => ({
     id: post.id,

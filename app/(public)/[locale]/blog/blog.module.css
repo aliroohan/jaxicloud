@@ -209,6 +209,17 @@
   color: #0ea5e9;
 }
 
+.fallbackNotice {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 0.9rem;
+  color: #0369a1;
+  background: #f0f9ff;
+  border: 1px solid #bae6fd;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+}
+
 .detailTagRow {
   display: flex;
   flex-wrap: wrap;

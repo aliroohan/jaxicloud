@@ -1,14 +1,19 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { connectDB } from "@/lib/db";
 import { BlogPost } from "@/lib/models";
 import { serializeDoc } from "@/lib/api";
+import {
+  parseLocaleParam,
+  resolveBlogPostForLocale,
+} from "@/lib/blogTranslations";
 
 export const revalidate = 0;
 
 type Params = { params: Promise<{ slug: string }> };
 
-export async function GET(_request: Request, { params }: Params) {
+export async function GET(request: NextRequest, { params }: Params) {
   const { slug } = await params;
+  const locale = parseLocaleParam(request.nextUrl.searchParams.get("locale"));
   await connectDB();
 
   const now = new Date();
@@ -57,8 +62,16 @@ export async function GET(_request: Request, { params }: Params) {
     relatedDocs = [...relatedDocs, ...fallback];
   }
 
+  const resolved = resolveBlogPostForLocale(
+    serializeDoc(post as Record<string, unknown>),
+    locale,
+  );
+
   return NextResponse.json({
-    post: serializeDoc(post as Record<string, unknown>),
-    relatedPosts: relatedDocs.map((d) => serializeDoc(d as Record<string, unknown>)),
+    post: resolved,
+    relatedPosts: relatedDocs.map((d) =>
+      resolveBlogPostForLocale(serializeDoc(d as Record<string, unknown>), locale),
+    ),
+    locale,
   });
 }

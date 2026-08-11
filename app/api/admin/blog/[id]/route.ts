@@ -4,8 +4,17 @@ import { requireAdmin } from "@/lib/auth";
 import { BlogPost } from "@/lib/models";
 import { blogPostInputSchema } from "@/lib/validators";
 import { serializeDoc } from "@/lib/api";
-import { slugify } from "@/lib/slugify";
-import { computeReadingTimeMinutes } from "@/lib/readingTime";
+import {
+  buildTranslationsFromInput,
+  denormalizePrimaryTranslation,
+  publishedAtFromInput,
+  resolveSlugFromInput,
+} from "@/lib/blogAdmin";
+import {
+  normalizeBlogTranslations,
+  resolveBlogPostForLocale,
+} from "@/lib/blogTranslations";
+import { DEFAULT_LOCALE } from "@/lib/i18n/config";
 
 type Params = { params: Promise<{ id: string }> };
 
@@ -19,8 +28,12 @@ export async function GET(request: NextRequest, { params }: Params) {
   if (!post) {
     return NextResponse.json({ error: "Not found" }, { status: 404 });
   }
+  const serialized = serializeDoc(post as Record<string, unknown>);
   return NextResponse.json({
-    post: serializeDoc(post as Record<string, unknown>),
+    post: {
+      ...resolveBlogPostForLocale(serialized, DEFAULT_LOCALE),
+      translations: normalizeBlogTranslations(serialized),
+    },
   });
 }
 
@@ -41,24 +54,29 @@ export async function PUT(request: NextRequest, { params }: Params) {
 
     await connectDB();
     const data = parsed.data;
-    const slug = data.slug?.trim() || slugify(data.title);
+    const translations = buildTranslationsFromInput(data);
+    const slug = resolveSlugFromInput(data, translations);
+    const denorm = denormalizePrimaryTranslation(translations);
 
     const conflict = await BlogPost.findOne({ slug, _id: { $ne: id } });
     if (conflict) {
       return NextResponse.json({ error: "Slug already exists" }, { status: 409 });
     }
 
-    const readingTimeMinutes = computeReadingTimeMinutes(data.contentHtml);
-    const publishedAt =
-      data.status === "published" && !data.publishedAt
-        ? new Date()
-        : data.publishedAt
-          ? new Date(data.publishedAt)
-          : null;
+    const publishedAt = publishedAtFromInput(data);
 
     const post = await BlogPost.findByIdAndUpdate(
       id,
-      { ...data, slug, readingTimeMinutes, publishedAt },
+      {
+        slug,
+        coverImage: data.coverImage,
+        tags: data.tags,
+        author: data.author,
+        status: data.status,
+        publishedAt,
+        translations,
+        ...denorm,
+      },
       { new: true },
     ).lean();
 
@@ -66,8 +84,12 @@ export async function PUT(request: NextRequest, { params }: Params) {
       return NextResponse.json({ error: "Not found" }, { status: 404 });
     }
 
+    const serialized = serializeDoc(post as Record<string, unknown>);
     return NextResponse.json({
-      post: serializeDoc(post as Record<string, unknown>),
+      post: {
+        ...resolveBlogPostForLocale(serialized, DEFAULT_LOCALE),
+        translations: normalizeBlogTranslations(serialized),
+      },
     });
   } catch (err) {
     console.error("admin blog post update", err);

@@ -3,9 +3,21 @@
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { ChevronDown, ChevronUp } from "lucide-react";
-import type { BlogPost } from "@/lib/types";
+import type { BlogPost, BlogPostTranslation } from "@/lib/types";
 import { slugify } from "@/lib/slugify";
 import { RichTextEditor } from "@/components/admin/RichTextEditor";
+import {
+  DEFAULT_LOCALE,
+  LOCALES,
+  LOCALE_LABELS,
+  type Locale,
+} from "@/lib/i18n/config";
+import {
+  emptyBlogTranslation,
+  isBlankHtml,
+  isTranslationFilled,
+  normalizeBlogTranslations,
+} from "@/lib/blogTranslations";
 
 type Props = {
   initial?: Partial<BlogPost> | null;
@@ -28,23 +40,49 @@ function isoToDatetimeLocal(iso?: string | null) {
   return local.toISOString().slice(0, 16);
 }
 
+function initialTranslations(
+  initial?: Partial<BlogPost> | null,
+): Record<Locale, BlogPostTranslation> {
+  const normalized = normalizeBlogTranslations({
+    title: initial?.title,
+    excerpt: initial?.excerpt,
+    contentHtml: initial?.contentHtml,
+    readingTimeMinutes: initial?.readingTimeMinutes,
+    metaTitle: initial?.metaTitle,
+    metaDescription: initial?.metaDescription,
+    ogImage: initial?.ogImage,
+    canonicalUrl: initial?.canonicalUrl,
+    translations: initial?.translations,
+  });
+
+  const out = {} as Record<Locale, BlogPostTranslation>;
+  for (const locale of LOCALES) {
+    out[locale] = {
+      ...emptyBlogTranslation(),
+      ...(normalized[locale] || {}),
+    };
+  }
+  return out;
+}
+
 export function BlogPostForm({ initial, postId }: Props) {
   const router = useRouter();
   const [error, setError] = useState("");
   const [saving, setSaving] = useState(false);
   const [uploadingCover, setUploadingCover] = useState(false);
+  const [activeLocale, setActiveLocale] = useState<Locale>(DEFAULT_LOCALE);
   const [authorOpen, setAuthorOpen] = useState(
     Boolean(initial?.author?.name && initial.author.name !== "JaxiCloud Team") ||
       Boolean(initial?.author?.avatarUrl || initial?.author?.bio),
   );
 
-  const [title, setTitle] = useState(initial?.title || "");
+  const [translations, setTranslations] = useState(() =>
+    initialTranslations(initial),
+  );
   const [slug, setSlug] = useState(initial?.slug || "");
   const [slugTouched, setSlugTouched] = useState(Boolean(initial?.slug));
-  const [excerpt, setExcerpt] = useState(initial?.excerpt || "");
   const [coverUrl, setCoverUrl] = useState(initial?.coverImage?.url || "");
   const [coverAlt, setCoverAlt] = useState(initial?.coverImage?.alt || "");
-  const [contentHtml, setContentHtml] = useState(initial?.contentHtml || "");
   const [tags, setTags] = useState((initial?.tags || []).join("\n"));
   const [authorName, setAuthorName] = useState(
     initial?.author?.name || "JaxiCloud Team",
@@ -59,21 +97,26 @@ export function BlogPostForm({ initial, postId }: Props) {
   const [publishedAt, setPublishedAt] = useState(
     isoToDatetimeLocal(initial?.publishedAt),
   );
-  const [metaTitle, setMetaTitle] = useState(initial?.metaTitle || "");
-  const [metaDescription, setMetaDescription] = useState(
-    initial?.metaDescription || "",
-  );
-  const [ogImage, setOgImage] = useState(initial?.ogImage || "");
-  const [canonicalUrl, setCanonicalUrl] = useState(initial?.canonicalUrl || "");
 
   const heading = useMemo(
     () => (postId ? "Edit blog post" : "New blog post"),
     [postId],
   );
 
+  const active = translations[activeLocale];
+
+  function updateActive(patch: Partial<BlogPostTranslation>) {
+    setTranslations((prev) => ({
+      ...prev,
+      [activeLocale]: { ...prev[activeLocale], ...patch },
+    }));
+  }
+
   function onTitleChange(next: string) {
-    setTitle(next);
-    if (!slugTouched) setSlug(slugify(next));
+    updateActive({ title: next });
+    if (!slugTouched && activeLocale === DEFAULT_LOCALE) {
+      setSlug(slugify(next));
+    }
   }
 
   async function uploadFile(file: File) {
@@ -107,12 +150,32 @@ export function BlogPostForm({ initial, postId }: Props) {
     setSaving(true);
     setError("");
     try {
+      const payloadTranslations: Partial<Record<Locale, BlogPostTranslation>> = {};
+      for (const locale of LOCALES) {
+        const t = translations[locale];
+        if (
+          !t.title.trim() &&
+          isBlankHtml(t.contentHtml) &&
+          !(t.excerpt || "").trim() &&
+          !(t.metaTitle || "").trim() &&
+          !(t.metaDescription || "").trim()
+        ) {
+          continue;
+        }
+        payloadTranslations[locale] = {
+          title: t.title,
+          excerpt: t.excerpt || "",
+          contentHtml: isBlankHtml(t.contentHtml) ? "" : t.contentHtml,
+          metaTitle: t.metaTitle || "",
+          metaDescription: t.metaDescription || "",
+          ogImage: t.ogImage || "",
+          canonicalUrl: t.canonicalUrl || "",
+        };
+      }
+
       const payload = {
-        title,
         slug: slug || undefined,
-        excerpt,
         coverImage: coverUrl ? { url: coverUrl, alt: coverAlt } : null,
-        contentHtml,
         tags: linesToArray(tags),
         author: {
           name: authorName || "JaxiCloud Team",
@@ -121,10 +184,7 @@ export function BlogPostForm({ initial, postId }: Props) {
         },
         status,
         publishedAt: publishedAt ? new Date(publishedAt).toISOString() : undefined,
-        metaTitle,
-        metaDescription,
-        ogImage,
-        canonicalUrl,
+        translations: payloadTranslations,
       };
 
       const res = await fetch(
@@ -152,17 +212,8 @@ export function BlogPostForm({ initial, postId }: Props) {
       {error ? <p className="text-sm text-red-600">{error}</p> : null}
 
       <div className="grid gap-4 rounded-xl border border-slate-200 bg-white p-5 sm:grid-cols-2">
-        <label className="block text-sm sm:col-span-2">
-          <span className="mb-1 block font-medium">Title</span>
-          <input
-            required
-            value={title}
-            onChange={(e) => onTitleChange(e.target.value)}
-            className="w-full rounded-md border border-slate-300 px-3 py-2"
-          />
-        </label>
         <label className="block text-sm">
-          <span className="mb-1 block font-medium">Slug</span>
+          <span className="mb-1 block font-medium">Slug (shared across languages)</span>
           <input
             value={slug}
             onChange={(e) => {
@@ -171,6 +222,9 @@ export function BlogPostForm({ initial, postId }: Props) {
             }}
             className="w-full rounded-md border border-slate-300 px-3 py-2"
           />
+          <span className="mt-1 block text-xs text-slate-500">
+            Used in every locale URL: /{"{locale}"}/blog/{slug || "…"}
+          </span>
         </label>
         <label className="block text-sm">
           <span className="mb-1 block font-medium">Status</span>
@@ -199,15 +253,6 @@ export function BlogPostForm({ initial, postId }: Props) {
             />
           </label>
         ) : null}
-        <label className="block text-sm sm:col-span-2">
-          <span className="mb-1 block font-medium">Excerpt</span>
-          <textarea
-            rows={3}
-            value={excerpt}
-            onChange={(e) => setExcerpt(e.target.value)}
-            className="w-full rounded-md border border-slate-300 px-3 py-2"
-          />
-        </label>
 
         <label className="block text-sm sm:col-span-2">
           <span className="mb-1 block font-medium">Cover image</span>
@@ -244,11 +289,6 @@ export function BlogPostForm({ initial, postId }: Props) {
             onChange={(e) => setCoverAlt(e.target.value)}
             className="w-full rounded-md border border-slate-300 px-3 py-2"
           />
-        </label>
-
-        <label className="block text-sm sm:col-span-2">
-          <span className="mb-1 block font-medium">Body</span>
-          <RichTextEditor value={contentHtml} onChange={setContentHtml} />
         </label>
 
         <label className="block text-sm sm:col-span-2">
@@ -304,42 +344,119 @@ export function BlogPostForm({ initial, postId }: Props) {
             </div>
           ) : null}
         </div>
+      </div>
 
-        <div className="sm:col-span-2 border-t border-slate-200 pt-4">
-          <h2 className="mb-3 text-sm font-semibold text-slate-700">SEO</h2>
-          <div className="grid gap-4 sm:grid-cols-2">
-            <label className="block text-sm">
-              <span className="mb-1 block font-medium">Meta title</span>
-              <input
-                value={metaTitle}
-                onChange={(e) => setMetaTitle(e.target.value)}
-                className="w-full rounded-md border border-slate-300 px-3 py-2"
-              />
-            </label>
-            <label className="block text-sm">
-              <span className="mb-1 block font-medium">Meta description</span>
-              <input
-                value={metaDescription}
-                onChange={(e) => setMetaDescription(e.target.value)}
-                className="w-full rounded-md border border-slate-300 px-3 py-2"
-              />
-            </label>
-            <label className="block text-sm">
-              <span className="mb-1 block font-medium">OG image URL</span>
-              <input
-                value={ogImage}
-                onChange={(e) => setOgImage(e.target.value)}
-                className="w-full rounded-md border border-slate-300 px-3 py-2"
-              />
-            </label>
-            <label className="block text-sm">
-              <span className="mb-1 block font-medium">Canonical URL</span>
-              <input
-                value={canonicalUrl}
-                onChange={(e) => setCanonicalUrl(e.target.value)}
-                className="w-full rounded-md border border-slate-300 px-3 py-2"
-              />
-            </label>
+      <div className="rounded-xl border border-slate-200 bg-white p-5">
+        <div className="mb-4">
+          <h2 className="text-sm font-semibold text-slate-800">Translations</h2>
+          <p className="mt-1 text-xs text-slate-500">
+            Switch languages below. Filled locales show a green dot; empty show gray.
+            At least one language needs a title and body.
+          </p>
+        </div>
+
+        <div className="mb-5 flex flex-wrap gap-2">
+          {LOCALES.map((locale) => {
+            const filled = isTranslationFilled(translations[locale]);
+            const isActive = locale === activeLocale;
+            return (
+              <button
+                key={locale}
+                type="button"
+                onClick={() => setActiveLocale(locale)}
+                className={`inline-flex items-center gap-2 rounded-md border px-3 py-1.5 text-sm font-medium transition ${
+                  isActive
+                    ? "border-cyan-700 bg-cyan-50 text-cyan-900"
+                    : "border-slate-200 bg-white text-slate-700 hover:border-slate-300"
+                }`}
+              >
+                <span
+                  className={`h-2 w-2 rounded-full ${
+                    filled ? "bg-emerald-500" : "bg-slate-300"
+                  }`}
+                  aria-hidden
+                />
+                {LOCALE_LABELS[locale].code}
+              </button>
+            );
+          })}
+        </div>
+
+        <p className="mb-4 text-sm font-medium text-slate-700">
+          Editing: {LOCALE_LABELS[activeLocale].native} ({LOCALE_LABELS[activeLocale].label})
+        </p>
+
+        <div className="grid gap-4 sm:grid-cols-2">
+          <label className="block text-sm sm:col-span-2">
+            <span className="mb-1 block font-medium">Title</span>
+            <input
+              value={active.title}
+              onChange={(e) => onTitleChange(e.target.value)}
+              className="w-full rounded-md border border-slate-300 px-3 py-2"
+            />
+          </label>
+
+          <label className="block text-sm sm:col-span-2">
+            <span className="mb-1 block font-medium">Excerpt</span>
+            <textarea
+              rows={3}
+              value={active.excerpt || ""}
+              onChange={(e) => updateActive({ excerpt: e.target.value })}
+              className="w-full rounded-md border border-slate-300 px-3 py-2"
+            />
+          </label>
+
+          <label className="block text-sm sm:col-span-2">
+            <span className="mb-1 block font-medium">Body</span>
+            <RichTextEditor
+              key={activeLocale}
+              value={active.contentHtml || ""}
+              onChange={(html) => updateActive({ contentHtml: html })}
+            />
+          </label>
+
+          <div className="sm:col-span-2 border-t border-slate-200 pt-4">
+            <h3 className="mb-3 text-sm font-semibold text-slate-700">
+              SEO ({LOCALE_LABELS[activeLocale].code})
+            </h3>
+            <div className="grid gap-4 sm:grid-cols-2">
+              <label className="block text-sm">
+                <span className="mb-1 block font-medium">Meta title</span>
+                <input
+                  value={active.metaTitle || ""}
+                  onChange={(e) => updateActive({ metaTitle: e.target.value })}
+                  className="w-full rounded-md border border-slate-300 px-3 py-2"
+                />
+              </label>
+              <label className="block text-sm">
+                <span className="mb-1 block font-medium">Meta description</span>
+                <input
+                  value={active.metaDescription || ""}
+                  onChange={(e) =>
+                    updateActive({ metaDescription: e.target.value })
+                  }
+                  className="w-full rounded-md border border-slate-300 px-3 py-2"
+                />
+              </label>
+              <label className="block text-sm">
+                <span className="mb-1 block font-medium">OG image URL</span>
+                <input
+                  value={active.ogImage || ""}
+                  onChange={(e) => updateActive({ ogImage: e.target.value })}
+                  className="w-full rounded-md border border-slate-300 px-3 py-2"
+                />
+              </label>
+              <label className="block text-sm">
+                <span className="mb-1 block font-medium">Canonical URL</span>
+                <input
+                  value={active.canonicalUrl || ""}
+                  onChange={(e) =>
+                    updateActive({ canonicalUrl: e.target.value })
+                  }
+                  className="w-full rounded-md border border-slate-300 px-3 py-2"
+                />
+              </label>
+            </div>
           </div>
         </div>
       </div>

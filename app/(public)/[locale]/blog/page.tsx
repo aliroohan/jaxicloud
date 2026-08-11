@@ -34,7 +34,7 @@ export default async function BlogIndexPage({ params, searchParams }: Props) {
   const page = Math.max(1, Number(sp.page) || 1);
 
   const [{ posts, totalPages }, tags] = await Promise.all([
-    getPublishedBlogPosts({ page, q: sp.q, tag: sp.tag }),
+    getPublishedBlogPosts({ page, q: sp.q, tag: sp.tag, locale }),
     getBlogTags(),
   ]);
 

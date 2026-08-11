@@ -1,4 +1,50 @@
+import type { Locale } from "@/lib/content/blocks";
+
 export type ImageAsset = { url: string; alt?: string };
+
+export type BlogAuthor = {
+  name?: string;
+  avatarUrl?: string;
+  bio?: string;
+};
+
+/** Per-locale blog fields. Shared slug/cover/tags/status live on BlogPost. */
+export type BlogPostTranslation = {
+  title: string;
+  excerpt?: string;
+  contentHtml: string;
+  readingTimeMinutes?: number;
+  metaTitle?: string;
+  metaDescription?: string;
+  ogImage?: string;
+  canonicalUrl?: string;
+};
+
+export type BlogPost = {
+  id: string;
+  /** Canonical slug shared across all locales (`/[locale]/blog/[slug]`). */
+  slug: string;
+  coverImage?: ImageAsset | null;
+  tags?: string[];
+  author?: BlogAuthor;
+  status?: "draft" | "scheduled" | "published";
+  publishedAt?: string | null;
+  viewCount?: number;
+  translations?: Partial<Record<Locale, BlogPostTranslation>>;
+  /** Resolved for the request locale (public API / pages). */
+  title: string;
+  excerpt?: string;
+  contentHtml?: string;
+  readingTimeMinutes?: number;
+  metaTitle?: string;
+  metaDescription?: string;
+  ogImage?: string;
+  canonicalUrl?: string;
+  resolvedLocale?: Locale;
+  usedTranslationFallback?: boolean;
+  createdAt?: string;
+  updatedAt?: string;
+};
 
 export type KeyFeature = {
   icon?: string;
@@ -9,33 +55,6 @@ export type KeyFeature = {
 export type SpecGroup = {
   groupName: string;
   items: { label: string; value: string }[];
-};
-
-export type BlogAuthor = {
-  name?: string;
-  avatarUrl?: string;
-  bio?: string;
-};
-
-export type BlogPost = {
-  id: string;
-  title: string;
-  slug: string;
-  excerpt?: string;
-  coverImage?: ImageAsset | null;
-  contentHtml?: string;
-  tags?: string[];
-  author?: BlogAuthor;
-  status?: "draft" | "scheduled" | "published";
-  publishedAt?: string | null;
-  readingTimeMinutes?: number;
-  metaTitle?: string;
-  metaDescription?: string;
-  ogImage?: string;
-  canonicalUrl?: string;
-  viewCount?: number;
-  createdAt?: string;
-  updatedAt?: string;
 };
 
 export type Category = {

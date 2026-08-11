@@ -8,6 +8,12 @@ import type {
   Product as ProductT,
   Solution as SolutionT,
 } from "@/lib/types";
+import { buildPublicBlogSearchFilter } from "@/lib/blogAdmin";
+import {
+  parseLocaleParam,
+  resolveBlogPostForLocale,
+} from "@/lib/blogTranslations";
+import type { Locale } from "@/lib/i18n/config";
 
 const BLOG_PAGE_SIZE = 9;
 
@@ -15,8 +21,12 @@ export async function getPublishedBlogPosts(filters?: {
   page?: number;
   q?: string;
   tag?: string;
+  locale?: string | Locale;
 }): Promise<{ posts: BlogPostT[]; total: number; totalPages: number; page: number }> {
   const page = Math.max(1, filters?.page || 1);
+  const locale = parseLocaleParam(
+    typeof filters?.locale === "string" ? filters.locale : filters?.locale,
+  );
   try {
     const db = await connectDB();
     if (!db) return { posts: [], total: 0, totalPages: 1, page };
@@ -29,11 +39,11 @@ export async function getPublishedBlogPosts(filters?: {
 
     const filter: Record<string, unknown> = { status: "published" };
     if (filters?.tag) filter.tags = filters.tag;
-    if (filters?.q) filter.$text = { $search: filters.q };
+    if (filters?.q) Object.assign(filter, buildPublicBlogSearchFilter(filters.q));
 
     const [docs, total] = await Promise.all([
-      BlogPost.find(filter, filters?.q ? { score: { $meta: "textScore" } } : undefined)
-        .sort(filters?.q ? { score: { $meta: "textScore" } } : { publishedAt: -1 })
+      BlogPost.find(filter)
+        .sort({ publishedAt: -1 })
         .skip((page - 1) * BLOG_PAGE_SIZE)
         .limit(BLOG_PAGE_SIZE)
         .lean(),
@@ -41,7 +51,9 @@ export async function getPublishedBlogPosts(filters?: {
     ]);
 
     return {
-      posts: docs.map((d) => serializeDoc(d as Record<string, unknown>) as BlogPostT),
+      posts: docs.map((d) =>
+        resolveBlogPostForLocale(serializeDoc(d as Record<string, unknown>), locale),
+      ),
       total,
       totalPages: Math.max(1, Math.ceil(total / BLOG_PAGE_SIZE)),
       page,
@@ -66,7 +78,11 @@ export async function getBlogTags(): Promise<string[]> {
 
 export async function getBlogPostBySlug(
   slug: string,
+  locale?: string | Locale,
 ): Promise<{ post: BlogPostT; relatedPosts: BlogPostT[] } | null> {
+  const resolvedLocale = parseLocaleParam(
+    typeof locale === "string" ? locale : locale,
+  );
   try {
     const db = await connectDB();
     if (!db) return null;
@@ -111,9 +127,15 @@ export async function getBlogPostBySlug(
     }
 
     return {
-      post: serializeDoc(doc as Record<string, unknown>) as BlogPostT,
-      relatedPosts: relatedDocs.map(
-        (d) => serializeDoc(d as Record<string, unknown>) as BlogPostT,
+      post: resolveBlogPostForLocale(
+        serializeDoc(doc as Record<string, unknown>),
+        resolvedLocale,
+      ),
+      relatedPosts: relatedDocs.map((d) =>
+        resolveBlogPostForLocale(
+          serializeDoc(d as Record<string, unknown>),
+          resolvedLocale,
+        ),
       ),
     };
   } catch (err) {
