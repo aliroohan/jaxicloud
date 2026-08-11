@@ -1,0 +1,426 @@
+{
+  "id": 41,
+  "slug": "our-team",
+  "canonicalSlug": "our-team",
+  "locale": "en",
+  "title": "Our team",
+  "link": "https://www.jaxicloud.com/en/our-team/",
+  "pageKind": "marketing",
+  "translations": {
+    "en": 41,
+    "da": 2183,
+    "de": 2584,
+    "fr": 2830,
+    "nl": 3030,
+    "nb": 3230,
+    "sv": 3423,
+    "tr": 3612
+  },
+  "excerpt": "The team behind Jaxycloud Fleet Management​ together we show the way Preparation of budgets and financial strategies. Monitoring the company’s financial performance and reporting. Ensure compliance with legislation and regulation in the financial area. Management of investments and capital structure. Identify risks and opportunities for economic growth. Margit Andreasen CFO Preparation of budgets and financial [&hellip;]",
+  "seo": {
+    "title": "The team behind Jaxycloud Fleet Management​ - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:24:31",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "The team behind Jaxycloud Fleet Management​",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>together we show the way</p>",
+      "bodyText": "together we show the way",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Preparation of budgets and financial strategies.\n\nMonitoring the company's financial performance and reporting.\n\nEnsure compliance with legislation and regulation in the financial area.\n\nManagement of investments and capital structure.\n\nIdentify risks and opportunities for economic growth.</p><p class=\"eael-team-text eael-team-text-overlay\">Preparation of budgets and financial strategies.\n\nMonitoring the company's financial performance and reporting.\n\nEnsure compliance with legislation and regulation in the financial area.\n\nManagement of investments and capital structure.\n\nIdentify risks and opportunities for economic growth.</p>",
+      "bodyText": "Preparation of budgets and financial strategies. Monitoring the company's financial performance and reporting. Ensure compliance with legislation and regulation in the financial area. Management of investments and capital structure. Identify risks and opportunities for economic growth.Preparation of budgets and financial strategies. Monitoring the company's financial performance and reporting. Ensure compliance with legislation and regulation in the financial area. Management of investments and capital structure. Identify risks and opportunities for economic growth.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p><p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p>",
+      "bodyText": "Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Develop and implement sales strategies to achieve company goals.\n\nLead and motivate the sales team to ensure high performance.\n\nMonitor and analyze sales data and performance.\n\nIdentify new market opportunities and expand the customer base.\n\nEnsure strong relationships with customers and key partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Develop and implement sales strategies to achieve company goals.\n\nLead and motivate the sales team to ensure high performance.\n\nMonitor and analyze sales data and performance.\n\nIdentify new market opportunities and expand the customer base.\n\nEnsure strong relationships with customers and key partners.</p>",
+      "bodyText": "Develop and implement sales strategies to achieve company goals. Lead and motivate the sales team to ensure high performance. Monitor and analyze sales data and performance. Identify new market opportunities and expand the customer base. Ensure strong relationships with customers and key partners.Develop and implement sales strategies to achieve company goals. Lead and motivate the sales team to ensure high performance. Monitor and analyze sales data and performance. Identify new market opportunities and expand the customer base. Ensure strong relationships with customers and key partners.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's growth and operations.\n\nContribute capital and knowledge to ensure the company's success.\n\nShare the risk and reward of the company's financial performance.\n\nAs a Board Member:\n\nEnsure that the company's strategy supports the interests of the owners.\n\nMonitor the company's management and financial performance.\n\nContribute to the development of the company's vision, mission and long-term goals.\n\nEnsure that the company complies with relevant laws and regulations.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's growth and operations.\n\nContribute capital and knowledge to ensure the company's success.\n\nShare the risk and reward of the company's financial performance.\n\nAs a Board Member:\n\nEnsure that the company's strategy supports the interests of the owners.\n\nMonitor the company's management and financial performance.\n\nContribute to the development of the company's vision, mission and long-term goals.\n\nEnsure that the company complies with relevant laws and regulations.</p>",
+      "bodyText": "Participate in decisions that affect the company's growth and operations. Contribute capital and knowledge to ensure the company's success. Share the risk and reward of the company's financial performance. As a Board Member: Ensure that the company's strategy supports the interests of the owners. Monitor the company's management and financial performance. Contribute to the development of the company's vision, mission and long-term goals. Ensure that the company complies with relevant laws and regulations.Participate in decisions that affect the company's growth and operations. Contribute capital and knowledge to ensure the company's success. Share the risk and reward of the company's financial performance. As a Board Member: Ensure that the company's strategy supports the interests of the owners. Monitor the company's management and financial performance. Contribute to the development of the company's vision, mission and long-term goals. Ensure that the company complies with relevant laws and regulations.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's development and operations.\n\nContribute capital and resources to support growth.\n\nShare the risks and rewards of the company's performance.\n\nAs an Advisor:\n\nProvide strategic and operational advice to management.\n\nContribute expertise in specific areas, such as sales, finance, operations or marketing.\n\nSparring with management on decision-making and long-term planning.\n\nOffer solutions to challenges and identify new opportunities for growth.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's development and operations.\n\nContribute capital and resources to support growth.\n\nShare the risks and rewards of the company's performance.\n\nAs an Advisor:\n\nProvide strategic and operational advice to management.\n\nContribute expertise in specific areas, such as sales, finance, operations or marketing.\n\nSparring with management on decision-making and long-term planning.\n\nOffer solutions to challenges and identify new opportunities for growth.</p>",
+      "bodyText": "Participate in decisions that affect the company's development and operations. Contribute capital and resources to support growth. Share the risks and rewards of the company's performance. As an Advisor: Provide strategic and operational advice to management. Contribute expertise in specific areas, such as sales, finance, operations or marketing. Sparring with management on decision-making and long-term planning. Offer solutions to challenges and identify new opportunities for growth.Participate in decisions that affect the company's development and operations. Contribute capital and resources to support growth. Share the risks and rewards of the company's performance. As an Advisor: Provide strategic and operational advice to management. Contribute expertise in specific areas, such as sales, finance, operations or marketing. Sparring with management on decision-making and long-term planning. Offer solutions to challenges and identify new opportunities for growth.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions about the company's growth and operations.\n\nContribute capital and resources to support the company's development.\n\nShare the risk and return from the company's success.\n\nAs Chairman of the Board:\n\nLead board meetings and ensure effective discussions and decisions.\n\nBe a strategic sparring partner for the management and the owners\n\nEnsure that the board maintains focus on the company's long-term goals and strategies.\n\nMonitor the company's management and ensure compliance with laws and regulations.\n\nRepresent the board of directors to other owners, investors and other stakeholders.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions about the company's growth and operations.\n\nContribute capital and resources to support the company's development.\n\nShare the risk and return from the company's success.\n\nAs Chairman of the Board:\n\nLead board meetings and ensure effective discussions and decisions.\n\nBe a strategic sparring partner for the management and the owners\n\nEnsure that the board maintains focus on the company's long-term goals and strategies.\n\nMonitor the company's management and ensure compliance with laws and regulations.\n\nRepresent the board of directors to other owners, investors and other stakeholders.</p>",
+      "bodyText": "Participate in decisions about the company's growth and operations. Contribute capital and resources to support the company's development. Share the risk and return from the company's success. As Chairman of the Board: Lead board meetings and ensure effective discussions and decisions. Be a strategic sparring partner for the management and the owners Ensure that the board maintains focus on the company's long-term goals and strategies. Monitor the company's management and ensure compliance with laws and regulations. Represent the board of directors to other owners, investors and other stakeholders.Participate in decisions about the company's growth and operations. Contribute capital and resources to support the company's development. Share the risk and return from the company's success. As Chairman of the Board: Lead board meetings and ensure effective discussions and decisions. Be a strategic sparring partner for the management and the owners Ensure that the board maintains focus on the company's long-term goals and strategies. Monitor the company's management and ensure compliance with laws and regulations. Represent the board of directors to other owners, investors and other stakeholders.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p><p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p>",
+      "bodyText": "Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 44170
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "id": 214,
+  "slug": "home",
+  "canonicalSlug": "home-214",
+  "locale": "en",
+  "title": "Homepage",
+  "link": "https://www.jaxicloud.com/en/home/",
+  "pageKind": "marketing",
+  "translations": {
+    "en": 214
+  },
+  "excerpt": "Fleet management solution that empowers businesses worldwideThis solution empowers businesses globally to optimize operations and efficiency. JAXICLOUD FLEET MANAGEMENT is the ideal partner for those looking to improve their fleet management.Learn MoreWhat we do for your businessJaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading [&hellip;]",
+  "seo": {
+    "title": "Homepage - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-04T22:14:27",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "ccafdc3",
+      "widgetType": "slides.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ccafdc3",
+        "elementor--h-position-center",
+        "elementor--v-position-middle",
+        "elementor-widget",
+        "elementor-widget-slides"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-95a9c16",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "cbac29a",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbac29a",
+        "elementor-widget__width-auto",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "4125510",
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-17703f90",
+          "elementor-section-stretched",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default",
+          "elementor-invisible"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "5855e8f8",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5855e8f8",
+        "elementor-widget__width-auto",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "2700",
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-17703f90",
+          "elementor-section-stretched",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default",
+          "elementor-invisible"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "d005b96",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d005b96",
+        "elementor-widget__width-auto",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "160",
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-17703f90",
+          "elementor-section-stretched",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default",
+          "elementor-invisible"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "9bd2633",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd2633",
+        "elementor-widget__width-auto",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "3699",
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-17703f90",
+          "elementor-section-stretched",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default",
+          "elementor-invisible"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "3106b81d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3106b81d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Applications to make your business easier",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "36485dff",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-36485dff",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "58453b8",
+      "widgetType": "elementskit-dual-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-58453b8",
+        "elementor-widget__width-inherit",
+        "elementor-widget-elementskit-dual-button-start",
+        "elementor-widget-elementskit-dual-button-mobile-center",
+        "elementor-widget",
+        "elementor-widget-elementskit-dual-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "7eea4c27",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7eea4c27",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Application",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 2,
+      "elementorId": "38aa5e8",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-38aa5e8",
+        "e-transform",
+        "elementor-view-default",
+        "elementor-position-block-start",
+        "elementor-mobile-position-block-start",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "Click and connect",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/click-connect/"
+        },
+        {
+          "label": "Click and connect",
+          "href": "https://www.jaxicloud.com/en/click-connect/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 2,
+      "elementorId": "465e46b2",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-465e46b2",
+        "e-transform",
+        "elementor-view-default",
+        "elementor-position-block-start",
+        "elementor-mobile-position-block-start",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "Safe start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/click-connect/"
+        },
+        {
+          "label": "Safe start",
+          "href": "https://www.jaxicloud.com/en/click-connect/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 2,
+      "elementorId": "190dcae5",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-190dcae5",
+        "e-transform",
+        "elementor-view-default",
+        "elementor-position-block-start",
+        "elementor-mobile-position-block-start",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "Tacho simple",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 2,
+      "elementorId": "115e24da",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-115e24da",
+        "e-transform",
+        "elementor-view-default",
+        "elementor-position-block-start",
+        "elementor-mobile-position-block-start",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "TPMS",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-27c8de02",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "2c5de104",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2c5de104",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "Solutions",
+      "bodyHtml": "<p>Take a look on our solutions that already our clients use</p>",
+      "bodyText": "Take a look on our solutions that already our clients use",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-7054c59f",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "539c1180",
+      "widgetType": "elementskit-image-accordion.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-539c1180",
+        "elementor-widget__width-inherit",
+        "ekit-image-accordion-mobile-vertical",
+        "ekit-image-accordion-horizontal",
+        "ekit-image-accordion-click",
+        "elementor-widget",
+        "elementor-widget-elementskit-image-accordion"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-7054c59f",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "161e985f",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-161e985f",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "Sevices that Jaxicloud offers to you",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b45e6af",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "37b21e62",
+      "widgetType": "elementskit-testimonial.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-37b21e62",
+        "elementor-widget",
+        "elementor-widget-elementskit-testimonial"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "alt": "",
+          "width": 717,
+          "height": 398
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "alt": "",
+          "width": 717,
+          "height": 398
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "alt": "",
+          "width": 717,
+          "height": 398
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b45e6af",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "2e98cadd",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2e98cadd",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "JAXICLOUD FLEET MANAGEMENT product highlights and benefits",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5268b3e4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 5,
+      "elementorId": "16d7c9d8",
+      "widgetType": "elementskit-icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-16d7c9d8",
+        "ekit-equal-height-enable",
+        "elementor-widget",
+        "elementor-widget-elementskit-icon-box"
+      ],
+      "heading": "European languages",
+      "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.</p>",
+      "bodyText": "JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5268b3e4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "6d33f75a",
+      "widgetType": "elementskit-icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6d33f75a",
+        "ekit-equal-height-enable",
+        "elementor-widget",
+        "elementor-widget-elementskit-icon-box"
+      ],
+      "heading": "Seamless integrations",
+      "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications. </p>",
+      "bodyText": "JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5268b3e4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "51d1bb5b",
+      "widgetType": "elementskit-icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51d1bb5b",
+        "ekit-equal-height-enable",
+        "elementor-widget",
+        "elementor-widget-elementskit-icon-box"
+      ],
+      "heading": "Hardware-agnostic solution",
+      "bodyHtml": "<p>integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.</p>",
+      "bodyText": "integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5268b3e4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 6,
+      "elementorId": "318fd94c",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-318fd94c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "What we do for your business",
+      "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.</p>",
+      "bodyText": "Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-192d3525",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 6,
+      "elementorId": "8f9a401",
+      "widgetType": "elementskit-dual-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f9a401",
+        "elementor-widget__width-initial",
+        "elementor-widget-elementskit-dual-button-start",
+        "elementor-widget",
+        "elementor-widget-elementskit-dual-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-192d3525",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 7,
+      "elementorId": "22f082b7",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-22f082b7",
+        "elementor-widget-mobile__width-inherit",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "Take a look at our partners who choose us",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-41599785",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 7,
+      "elementorId": "254a2254",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-254a2254",
+        "elementor-widget-mobile__width-inherit",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Leading companies have found a solution to manage their business in the easiest way by hiring our company.</p>",
+      "bodyText": "Leading companies have found a solution to manage their business in the easiest way by hiring our company.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-41599785",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 7,
+      "elementorId": "1e944088",
+      "widgetType": "elementskit-client-logo.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e944088",
+        "elementor-widget",
+        "elementor-widget-elementskit-client-logo"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent2.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent3.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent4.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent5.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent6.jpg",
+          "alt": "",
+          "width": 87,
+          "height": 73
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-41599785",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 8,
+      "elementorId": "788b9034",
+      "widgetType": "elementskit-heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-788b9034",
+        "elementor-widget",
+        "elementor-widget-elementskit-heading"
+      ],
+      "heading": "Upcomming events and news",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-28cecb30",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-28",
+      "order": 27,
+      "sectionIndex": 8,
+      "elementorId": "5fe14bb5",
+      "widgetType": "elementskit-blog-posts.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5fe14bb5",
+        "elementor-widget",
+        "elementor-widget-elementskit-blog-posts"
+      ],
+      "heading": "Q2 Opdateringer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "alt": "Q2 Opdateringer",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "alt": "Q2 updates",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/05/Article-image-1024x615.png",
+          "alt": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+        },
+        {
+          "label": "News da",
+          "href": "https://www.jaxicloud.com/category/news-da/"
+        },
+        {
+          "label": "Q2 Opdateringer",
+          "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "News en",
+          "href": "https://www.jaxicloud.com/en/category/news-en/"
+        },
+        {
+          "label": "Q2 updates",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+        },
+        {
+          "label": "News tur",
+          "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+        },
+        {
+          "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+          "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-28cecb30",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-29",
+      "order": 28,
+      "sectionIndex": 9,
+      "elementorId": "3d46170b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3d46170b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ready to become your own rescue center?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5233def2",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-30",
+      "order": 29,
+      "sectionIndex": 9,
+      "elementorId": "167d98e2",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-167d98e2",
+        "elementor-widget__width-inherit",
+        "eael-fluentform-form-button-left",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5233def2",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 30,
+    "sectionCount": 10,
+    "htmlBytes": 1539715
+  }
+}

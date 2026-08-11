@@ -1,0 +1,879 @@
+{
+  "id": 2600,
+  "slug": "services-de",
+  "canonicalSlug": "services",
+  "locale": "de",
+  "title": "Services – DE",
+  "link": "https://www.jaxicloud.com/de/services-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2600,
+    "da": 2043,
+    "en": 17,
+    "fr": 2847,
+    "nl": 3047,
+    "nb": 3247,
+    "sv": 3440,
+    "tr": 3629
+  },
+  "excerpt": "JAXICLOUD-Dienste JAXICLOUD RESCUE EUROPE – Online-Services: Die Zukunft des Flottenmanagements: Werden Sie Ihre eigene 24/7-Leitstelle Aufgabenverwaltung Purpose of the concept Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe. Services Online digital Die [&hellip;]",
+  "seo": {
+    "title": "JAXICLOUD-Dienste - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:29:08",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "66c8a82",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66c8a82",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD-Dienste",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ec9aecf",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "c5f684f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5f684f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Online-Services: Die Zukunft des Flottenmanagements:</p><p>Werden Sie Ihre eigene 24/7-Leitstelle</p>",
+      "bodyText": "JAXICLOUD RESCUE EUROPE – Online-Services: Die Zukunft des Flottenmanagements:Werden Sie Ihre eigene 24/7-Leitstelle",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2d5ba94",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "534ac2f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-534ac2f",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Aufgabenverwaltung",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "1b56085",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b56085",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Purpose of the concept",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0e11e7",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0e11e7",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11b562d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11b562d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7e9a1edc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e9a1edc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Services Online digital Die Zukunft des Flottenmanagements: Werden Sie Ihr eigenes 24/7-Notfallzentrum",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "12acee8c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12acee8c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Zweck des Konzepts",
+      "bodyHtml": "<p>Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe.</p>",
+      "bodyText": "Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "51aad7e5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51aad7e5",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Aufgabenliste",
+      "bodyHtml": "<p>Die Aufgabenliste zeigt standardmäßig die Aufgaben für heute an. Um einen anderen Zeitraum auszuwählen oder Aufgaben nach anderen Kriterien zu suchen und zu filtern, folgen Sie den Anweisungen auf der Seite „Aufgabenverwaltung“.</p>",
+      "bodyText": "Die Aufgabenliste zeigt standardmäßig die Aufgaben für heute an. Um einen anderen Zeitraum auszuwählen oder Aufgaben nach anderen Kriterien zu suchen und zu filtern, folgen Sie den Anweisungen auf der Seite „Aufgabenverwaltung“.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "414ff94c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-414ff94c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD bietet:",
+      "bodyHtml": "<p>Installation der gesamten Hardware</p><p>Einrichtung von Jaxicloud-Aufgaben und -Alarmen<br>Support, Schulung und Einarbeitung</p>",
+      "bodyText": "Installation der gesamten HardwareEinrichtung von Jaxicloud-Aufgaben und -AlarmenSupport, Schulung und Einarbeitung",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "fbb4037",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbb4037",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Wie es funktioniert",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Echtzeitüberwachung Direkte Daten von Anhängern und Lkw (EBS, TPMS, Kühlaggregate, Dashcams, FMS/CAN) Alarme bei Fehlern, Pannen, Temperaturabweichungen oder Kraftstoffverbrauch</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS and status from the entire fleet</span></p>",
+      "bodyText": "Echtzeitüberwachung Direkte Daten von Anhängern und Lkw (EBS, TPMS, Kühlaggregate, Dashcams, FMS/CAN) Alarme bei Fehlern, Pannen, Temperaturabweichungen oder KraftstoffverbrauchLive GPS and status from the entire fleet",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ef10769",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ef10769",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "24/7-Kontrolle",
+      "bodyHtml": "<p>24/7-Kontrolle – ohne Kosten für ein externes Sicherheitszentrum<br>Kürzere Reaktionszeit – durch eigene Maßnahmen oder das eigene Netzwerk<br>Direkte Berichterstattung und Dokumentation</p><p>Niedrigere Kosten pro Aufgabe</p><p>Möglichkeit zur internen Abrechnung der Unterstützung (oder Weiterverrechnung)</p>",
+      "bodyText": "24/7-Kontrolle – ohne Kosten für ein externes SicherheitszentrumKürzere Reaktionszeit – durch eigene Maßnahmen oder das eigene NetzwerkDirekte Berichterstattung und DokumentationNiedrigere Kosten pro AufgabeMöglichkeit zur internen Abrechnung der Unterstützung (oder Weiterverrechnung)",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "95503a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95503a2",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD Rettungspartner",
+      "bodyHtml": "<p>Gemeinsames Netzwerk für Einsatzpartner</p><p>Rescue Plus: Jaxicloud nutzt sein eigenes 24/7-Netzwerk</p><p>RescueSelf: Vollständige Selbstversorgung mit eigenen Fahrzeugen</p>",
+      "bodyText": "Gemeinsames Netzwerk für EinsatzpartnerRescue Plus: Jaxicloud nutzt sein eigenes 24/7-NetzwerkRescueSelf: Vollständige Selbstversorgung mit eigenen Fahrzeugen",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "397025ba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-397025ba",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Praktische Aufgaben",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "1c52548a",
+      "widgetType": "eael-feature-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c52548a",
+        "elementor-widget",
+        "elementor-widget-eael-feature-list"
+      ],
+      "heading": "Alle notwendigen Informationen an einem Ort gesammelt",
+      "bodyHtml": "<p class=\"eael-feature-list-content\">Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.</p><p class=\"eael-feature-list-content\">Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.</p><p class=\"eael-feature-list-content\">Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen.</p>",
+      "bodyText": "Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Alle notwendigen Informationen an einem Ort gesammelt Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.",
+        "Verschiedene Interaktionsmöglichkeiten für Aufgaben Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.",
+        "Der Aufgabenverlauf ist jederzeit verfügbar. Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "5e03d5b6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e03d5b6",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "alt": "",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "3fd3c73",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fd3c73",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Testen Sie Tasks jetzt!",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "51eafcb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eafcb",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.</p>",
+      "bodyText": "Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "9a2fb98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9a2fb98",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Kontakt",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-221ead1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "1987d86",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1987d86",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-623af3b",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 8,
+    "htmlBytes": 34148
+  }
+}

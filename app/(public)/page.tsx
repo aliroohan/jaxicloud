@@ -7,21 +7,26 @@ import { ProductHighlights } from "@/components/sections/ProductHighlights/Produ
 import { BusinessImpact } from "@/components/sections/BusinessImpact/BusinessImpact";
 import { PartnerMatrix } from "@/components/sections/PartnerMatrix/PartnerMatrix";
 import { BlogSection } from "@/components/sections/BlogSection/BlogSection";
+import { DEFAULT_LOCALE } from "@/lib/i18n/config";
+import { getPageCopy } from "@/lib/i18n/pageCopy";
 
 export const revalidate = 3600;
 
+/** Bare `/` fallback (proxy redirects to `/{DEFAULT_LOCALE}`). */
 export default async function HomePage() {
+  const copy = getPageCopy("home", DEFAULT_LOCALE);
+
   return (
     <div>
-      <Hero />
-      <Counters />
-      <Applications />
-      <TruckAnimation />
-      <ServicesStory />
-      <ProductHighlights />
-      <BusinessImpact />
-      <PartnerMatrix />
-      <BlogSection />
+      <Hero copy={copy} />
+      <Counters copy={copy} />
+      <Applications copy={copy} />
+      <TruckAnimation copy={copy} />
+      <ServicesStory copy={copy} />
+      <ProductHighlights copy={copy} />
+      <BusinessImpact copy={copy} />
+      <PartnerMatrix copy={copy} />
+      <BlogSection copy={copy} />
     </div>
   );
 }

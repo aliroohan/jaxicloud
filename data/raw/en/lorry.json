@@ -1,0 +1,1160 @@
+{
+  "id": 31,
+  "slug": "lorry",
+  "canonicalSlug": "lorry",
+  "locale": "en",
+  "title": "Lorry",
+  "link": "https://www.jaxicloud.com/en/lorry/",
+  "pageKind": "solution",
+  "translations": {
+    "en": 31,
+    "da": 2163,
+    "de": 2562,
+    "fr": 2813,
+    "nl": 3013,
+    "nb": 3212,
+    "sv": 3406,
+    "tr": 3594
+  },
+  "excerpt": "Lorry JAXICLOUD FLEET MANAGEMENT 30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more. Fleet telematics in collaboration with [&hellip;]",
+  "seo": {
+    "title": "Lorry - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T00:51:17",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "3da8f75",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3da8f75",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Lorry",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e3e2b79",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8835285",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8835285",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD FLEET MANAGEMENT",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d70913b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "db23283",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db23283",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.\n\n</p>",
+      "bodyText": "30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d70913b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "f15d218",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f15d218",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_c148cc30c4c84d5e8a96c0e06cbd5f92mv2.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "4bf4109",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bf4109",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Fleet telematics in collaboration with the leasing company and fleet owner​",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "2b4a86b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2b4a86b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>By fusing the best of telecommunications and informatics, telematics offers unique ways to monitor a vehicle. From vans and utility vehicles to heavy trucks and lorries, from a single passenger car to large fleets – there is a solution for every customer. Telematics is the key to efficient resource management, cost optimization and safety across a range of industries.</p>",
+      "bodyText": "By fusing the best of telecommunications and informatics, telematics offers unique ways to monitor a vehicle. From vans and utility vehicles to heavy trucks and lorries, from a single passenger car to large fleets – there is a solution for every customer. Telematics is the key to efficient resource management, cost optimization and safety across a range of industries.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "032f87f",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-032f87f",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "See More",
+          "href": "/en/leasing-control/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "1e8b013",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e8b013",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Efficient fuel management with logitics delivery and planning tools",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "136dd32",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-136dd32",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Is one of the key success factors for businesses across a wide range of industries. Whether you run a small delivery service or manage a large fleet, effectively managing fuel consumption is essential to controlling costs, reducing environmental impact and remaining competitive.</span></span></p>",
+      "bodyText": "Is one of the key success factors for businesses across a wide range of industries. Whether you run a small delivery service or manage a large fleet, effectively managing fuel consumption is essential to controlling costs, reducing environmental impact and remaining competitive.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 2,
+      "elementorId": "b9ac2f6",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b9ac2f6",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "See More",
+          "href": "/en/logistics-delivery-system-2/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 2,
+      "elementorId": "a02047d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a02047d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Accurate fuel level monitoring with fleet maintenance",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 2,
+      "elementorId": "f97b278",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f97b278",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>As fuel costs rise, trucking companies are at a crossroads, forced to either raise prices or accept financial losses. When navigating this challenging scenario, a logical starting point is to prioritize fuel monitoring and optimization. There are several ways to reduce fuel-related costs and fleet</p><p>FUEL CONSUMPTION</p><p>Optimal functionality. Avoid unnecessary costs – continuous monitoring of vehicle data ensures timely detection of breakdowns. Detailed reporting – access comprehensive reports on fuel consumption and efficiency, enabling data-driven decisions to optimize fleet management strategies. Environmentally friendly operation – helps reduce the fleet’s carbon footprint by monitoring and optimizing fuel consumption in line with sustainability goals.</p>",
+      "bodyText": "As fuel costs rise, trucking companies are at a crossroads, forced to either raise prices or accept financial losses. When navigating this challenging scenario, a logical starting point is to prioritize fuel monitoring and optimization. There are several ways to reduce fuel-related costs and fleetFUEL CONSUMPTIONOptimal functionality. Avoid unnecessary costs – continuous monitoring of vehicle data ensures timely detection of breakdowns. Detailed reporting – access comprehensive reports on fuel consumption and efficiency, enabling data-driven decisions to optimize fleet management strategies. Environmentally friendly operation – helps reduce the fleet’s carbon footprint by monitoring and optimizing fuel consumption in line with sustainability goals.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 2,
+      "elementorId": "ae0739e",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ae0739e",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "See More",
+          "href": "/en/eco-drive/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 2,
+      "elementorId": "ff0ce6d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ff0ce6d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Challenge can be solved with eco driving with monitoring and driving behavior analysis",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 2,
+      "elementorId": "5a58551",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a58551",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Optimize fuel consumption, reduce costs and improve overall efficiency with fuel monitoring solutions. Prevent high-risk driver behavior –</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">JAXICLOUD FLEET MANAGEMENT</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">GPS devices constantly monitor driver behavior, reducing the risk of harsh acceleration and braking and ensuring optimal fuel consumption. Tailored solutions for every business need – we offer a variety of solutions so customers can choose the option that best suits their needs. Multiple usage scenarios provide customizable options</span></span></p>",
+      "bodyText": "Optimize fuel consumption, reduce costs and improve overall efficiency with fuel monitoring solutions. Prevent high-risk driver behavior –JAXICLOUD FLEET MANAGEMENTGPS devices constantly monitor driver behavior, reducing the risk of harsh acceleration and braking and ensuring optimal fuel consumption. Tailored solutions for every business need – we offer a variety of solutions so customers can choose the option that best suits their needs. Multiple usage scenarios provide customizable options",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 2,
+      "elementorId": "f934aeb",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f934aeb",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "See More",
+          "href": "/en/fleetrun-fleet-volunteer/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d72ebad",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "6a6d6b4",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6a6d6b4",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JaxiCloud – LX45 with BLE",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8226120",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "76f8cea",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-76f8cea",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "The LX45 is more than just a device",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">The LX45 is more than just a device\n \n</p>",
+      "bodyText": "The LX45 is more than just a device",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8226120",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "b536755",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b536755",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:\n\n</p>",
+      "bodyText": "It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8226120",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 4,
+      "elementorId": "db583d0",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db583d0",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Highlights",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b97f24",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 4,
+      "elementorId": "3fab414",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fab414",
+        "elementor-widget__width-initial",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Build highly customized telematics solutions",
+        "Bluetooth LE 5.4 for wireless connectivity and sensor coverage",
+        "Comprehensive power management",
+        "Optional battery and IP-rated sealing",
+        "More wiring and installation options",
+        "Remote management platform for device management, script management and configuration",
+        "JaxiCloud Fleet Management is the perfect solution for your company"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b97f24",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 4,
+      "elementorId": "bf10f9f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bf10f9f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Features",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b97f24",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 4,
+      "elementorId": "293faf5",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-293faf5",
+        "elementor-widget__width-initial",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Reliable LTE CatM1 connection ensures wide coverage of your fleet management needs.",
+        "Tachograph live data is read via K-Line, ALL-CAN, Tacho CAN or FMS connections for daily driver management and fleet efficiency.",
+        "Read J1939 data, which includes standard CAN FMS from heavy vehicles like trucks and raw J1939 data from specialty machines like construction cranes or electric buses.",
+        "2x RS232 and 1x RS485 serial communication interfaces for connecting external devices, such as thermographs, sensors, RFID readers and more."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2b97f24",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 5,
+      "elementorId": "3f1afd6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3f1afd6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solutions for our partners",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4a2aa9f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 6,
+      "elementorId": "cb6be8c",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cb6be8c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/ppkzosdubnu7ygfvkiwo.jpg",
+          "alt": "",
+          "width": 256,
+          "height": 256
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e4307b6",
+          "elementor-section-content-middle",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 6,
+      "elementorId": "ee5573c",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ee5573c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.jpg",
+          "alt": "",
+          "width": 225,
+          "height": 225
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e4307b6",
+          "elementor-section-content-middle",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 6,
+      "elementorId": "a34c086",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a34c086",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/onetomove.png",
+          "alt": "",
+          "width": 445,
+          "height": 113
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 2,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e4307b6",
+          "elementor-section-content-middle",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-28",
+      "order": 27,
+      "sectionIndex": 6,
+      "elementorId": "bba4fdd",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bba4fdd",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.png",
+          "alt": "",
+          "width": 220,
+          "height": 229
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 3,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e4307b6",
+          "elementor-section-content-middle",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-29",
+      "order": 28,
+      "sectionIndex": 6,
+      "elementorId": "3251c05",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3251c05",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/211_carrier_logo.jpg",
+          "alt": "",
+          "width": 866,
+          "height": 650
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 4,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e4307b6",
+          "elementor-section-content-middle",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 29,
+    "sectionCount": 7,
+    "htmlBytes": 32921
+  }
+}

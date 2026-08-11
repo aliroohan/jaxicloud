@@ -5,44 +5,45 @@ import { motion, AnimatePresence } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight, Map, Droplet, Shield, FileText } from "lucide-react";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ServicesStory.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const SERVICES_DATA = [
-  {
-    id: "route-optimization",
-    title: "Route Optimization",
-    description: "AI-driven pathing and real-time ETA predictions to ensure your fleet takes the most efficient route every time.",
-    image: "/images/route_optimization.png",
-    icon: Map,
-  },
-  {
-    id: "fuel-control",
-    title: "Fuel Control",
-    description: "Deep CANbus integration tracks fuel consumption patterns, prevents theft, and optimizes driving behavior.",
-    image: "/images/fuel_control.png",
-    icon: Droplet,
-  },
-  {
-    id: "driver-safety",
-    title: "Driver Safety",
-    description: "Advanced ADAS and DMS vision systems instantly detect forward collisions, lane departures, and driver fatigue.",
-    image: "/images/driver_safety.png",
-    icon: Shield,
-  },
-  {
-    id: "compliance",
-    title: "Compliance & Reporting",
-    description: "Automated ELD logging, digital vehicle inspection reports (DVIR), and instant reporting to keep your fleet perfectly compliant.",
-    image: "/images/compliance_reporting.png",
-    icon: FileText,
-  }
-];
+export function ServicesStory({ copy }: { copy: HomeCopy }) {
+  const SERVICES_DATA = [
+    {
+      id: "route-optimization",
+      title: copy.serviceRouteTitle,
+      description: copy.serviceRouteDesc,
+      image: "/images/route_optimization_light.png",
+      icon: Map,
+    },
+    {
+      id: "fuel-control",
+      title: copy.serviceFuelTitle,
+      description: copy.serviceFuelDesc,
+      image: "/images/fuel_control_light.png",
+      icon: Droplet,
+    },
+    {
+      id: "driver-safety",
+      title: copy.serviceSafetyTitle,
+      description: copy.serviceSafetyDesc,
+      image: "/images/driver_safety_light.png",
+      icon: Shield,
+    },
+    {
+      id: "compliance",
+      title: copy.serviceComplianceTitle,
+      description: copy.serviceComplianceDesc,
+      image: "/images/compliance_reporting_light.png",
+      icon: FileText,
+    }
+  ];
 
-export function ServicesStory() {
   const [activeId, setActiveId] = useState<string>(SERVICES_DATA[0].id);
   const containerRef = useRef<HTMLDivElement>(null);
   const headerRef = useRef<HTMLDivElement>(null);
@@ -98,12 +99,12 @@ export function ServicesStory() {
       <div className={styles.innerContainer}>
         
         <div ref={headerRef} className={styles.header}>
-          <div className={styles.tagline}>INTELLIGENT FLEET SERVICES</div>
+          <div className={styles.tagline}>{copy.servicesStoryTag}</div>
           <h2 className={styles.mainTitle}>
-            Software built for <span className={styles.highlight}>heavy operations.</span>
+            {copy.servicesStoryTitleBefore} <span className={styles.highlight}>{copy.servicesStoryTitleHighlight}</span>
           </h2>
           <p className={styles.subtext}>
-            Our comprehensive suite of telematics tools ensures maximum efficiency, safety, and compliance across your entire organization.
+            {copy.servicesStorySub}
           </p>
         </div>
 
@@ -149,7 +150,7 @@ export function ServicesStory() {
                         >
                           <p className={styles.cardDesc}>{service.description}</p>
                           <div className={styles.exploreLink}>
-                            <span>Explore Capability</span>
+                            <span>{copy.serviceExploreLink}</span>
                             <ArrowRight className="w-4 h-4 ml-2" />
                           </div>
                         </motion.div>

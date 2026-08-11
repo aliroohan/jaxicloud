@@ -2,6 +2,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { usePathname, useRouter } from "next/navigation";
 import { ChevronDown, Menu, Search, Globe, Check } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import gsap from "gsap";
@@ -10,14 +11,23 @@ import { MegaDropdown } from "@/components/layout/Navbar/MegaDropdown";
 import { MobileDrawer } from "@/components/layout/Navbar/MobileDrawer";
 import { InquiryBadge } from "@/components/public/InquiryBadge";
 import { useScrollPosition } from "@/lib/hooks/useScrollPosition";
+import {
+  DEFAULT_LOCALE,
+  LOCALE_LABELS,
+  LOCALES,
+  hasLocalizedRoute,
+  stripLocale,
+  swapLocale,
+  withLocale,
+  type Locale,
+} from "@/lib/i18n/config";
 import styles from "./Navbar.module.css";
 
-const LANGUAGES = [
-  { code: "EN", label: "English" },
-  { code: "ES", label: "Español" },
-  { code: "FR", label: "Français" },
-  { code: "DE", label: "Deutsch" },
-];
+const LANGUAGES = LOCALES.map((locale) => ({
+  locale,
+  code: LOCALE_LABELS[locale].code,
+  label: LOCALE_LABELS[locale].native,
+}));
 
 const NAV_ITEMS = [
   { id: "products", label: "Products", href: "/products", hasMega: true },
@@ -60,18 +70,42 @@ const MagneticButton = ({ children, className, href }: { children: React.ReactNo
 };
 
 export function Navbar() {
+  const pathname = usePathname() || "/";
+  const router = useRouter();
+  const { locale: pathLocale } = stripLocale(pathname);
+  const activeLocale: Locale = pathLocale || DEFAULT_LOCALE;
+
   const { isScrolled } = useScrollPosition(40);
   const [activeMegaTab, setActiveMegaTab] = useState<string | null>(null);
   const [hoveredTab, setHoveredTab] = useState<string | null>(null);
   const [isMobileOpen, setIsMobileOpen] = useState(false);
   const [isLangOpen, setIsLangOpen] = useState(false);
-  const [selectedLang, setSelectedLang] = useState("EN");
   const megaTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const langWrapperRef = useRef<HTMLDivElement>(null);
   const headerRef = useRef<HTMLElement>(null);
   const brandGroupRef = useRef<HTMLDivElement>(null);
   const navLinksRef = useRef<HTMLElement>(null);
   const actionsGroupRef = useRef<HTMLDivElement>(null);
+
+  const selectedLang = LOCALE_LABELS[activeLocale].code;
+
+  const localizedHref = (href: string) => {
+    if (hasLocalizedRoute(href)) {
+      return withLocale(activeLocale, href);
+    }
+    return href;
+  };
+
+  const switchLocale = (next: Locale) => {
+    setIsLangOpen(false);
+    const { path } = stripLocale(pathname);
+    // Stay on the current page when it has a localized route; otherwise fall back to solutions
+    if (hasLocalizedRoute(path)) {
+      router.push(swapLocale(pathname, next));
+      return;
+    }
+    router.push(withLocale(next, "/solutions"));
+  };
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -166,7 +200,7 @@ export function Navbar() {
         >
           {/* Left: Brand Logo */}
           <div ref={brandGroupRef} className={styles.brandGroup}>
-            <Link href="/" className="flex items-center">
+            <Link href={withLocale(activeLocale, "/")} className="flex items-center">
               <BrandLogo size="md" />
             </Link>
           </div>
@@ -232,7 +266,7 @@ export function Navbar() {
                   }}
                 >
                   <Link
-                    href={item.href}
+                    href={localizedHref(item.href)}
                     className={`${styles.navButton} ${activeMegaTab === item.id ? styles.navButtonActive : ""
                       }`}
                   >
@@ -253,6 +287,7 @@ export function Navbar() {
           {activeMegaTab && (
             <MegaDropdown
               activeTab={activeMegaTab}
+              locale={activeLocale}
               onClose={() => setActiveMegaTab(null)}
               onMouseEnter={() => {
                 if (megaTimeoutRef.current) clearTimeout(megaTimeoutRef.current);
@@ -307,12 +342,9 @@ export function Navbar() {
                   >
                     {LANGUAGES.map((lang) => (
                       <button
-                        key={lang.code}
+                        key={lang.locale}
                         type="button"
-                        onClick={() => {
-                          setSelectedLang(lang.code);
-                          setIsLangOpen(false);
-                        }}
+                        onClick={() => switchLocale(lang.locale)}
                         className={`${styles.langOption} ${selectedLang === lang.code ? styles.langOptionActive : ""
                           }`}
                       >
@@ -328,7 +360,7 @@ export function Navbar() {
             </div>
 
             {/* Primary CTA (Magnetic Effect) */}
-            <MagneticButton href="/contact" className={`${styles.primaryCta} ${styles.hideOnMobile}`}>
+            <MagneticButton href={localizedHref("/contact")} className={`${styles.primaryCta} ${styles.hideOnMobile}`}>
               <span>Contact Sales</span>
             </MagneticButton>
 

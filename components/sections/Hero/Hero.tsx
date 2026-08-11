@@ -4,9 +4,10 @@ import React, { useEffect, useRef } from "react";
 import Link from "next/link";
 import gsap from "gsap";
 import { ArrowRight, Layers } from "lucide-react";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./Hero.module.css";
 
-export function Hero() {
+export function Hero({ copy }: { copy: HomeCopy }) {
   const sectionRef = useRef<HTMLDivElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
@@ -70,10 +71,12 @@ export function Hero() {
       <video
         ref={videoRef}
         src="/video/semi1.mp4"
+        poster="/video/hero-poster.jpg"
         autoPlay
         muted
         loop
         playsInline
+        preload="auto"
         className={styles.videoBackground}
       />
       <div className={styles.videoOverlay} />
@@ -83,34 +86,34 @@ export function Hero() {
       <div className={styles.contentWrapper}>
         <h1 className={styles.headlineMain}>
           <span className={styles.textMask}>
-            <span ref={addToTextMasks} className={styles.textMaskInner}>Connecting Every Fleet</span>
+            <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.heroTitleLine1}</span>
           </span>
           <span className={styles.textMask}>
-            <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.headlineHighlight}`}>with Intelligence.</span>
+            <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.headlineHighlight}`}>{copy.heroTitleLine2}</span>
           </span>
         </h1>
 
         <div className={styles.subheadline}>
           <div className={styles.textMask}>
             <span ref={addToTextMasks} className={styles.textMaskInner}>
-              Cameras, trackers, tablets, and sensors curated for commercial fleets.
+              {copy.heroSubLine1}
             </span>
           </div>
           <div className={styles.textMask}>
             <span ref={addToTextMasks} className={styles.textMaskInner}>
-              Re-engineered into one unified, intelligent telematics ecosystem.
+              {copy.heroSubLine2}
             </span>
           </div>
         </div>
 
         <div ref={addToStagger} className={styles.buttonGroup}>
           <Link href="/solutions" className={styles.primaryButton}>
-            <span>Explore Platform</span>
+            <span>{copy.heroCtaPrimary}</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
           <Link href="/products" className={styles.secondaryButton}>
             <Layers className="w-4 h-4" />
-            <span>Hardware Catalog</span>
+            <span>{copy.heroCtaSecondary}</span>
           </Link>
         </div>
       </div>

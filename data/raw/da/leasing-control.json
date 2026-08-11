@@ -1,0 +1,762 @@
+{
+  "id": 2150,
+  "slug": "leasing-control-da",
+  "canonicalSlug": "leasing-control",
+  "locale": "da",
+  "title": "Leasing control DA",
+  "link": "https://www.jaxicloud.com/leasing-control-da/",
+  "pageKind": "solution",
+  "translations": {
+    "da": 2150,
+    "en": 35,
+    "de": 2549,
+    "fr": 2801,
+    "nl": 3003,
+    "nb": 3202,
+    "sv": 3395,
+    "tr": 3583
+  },
+  "excerpt": "Leasing – billeje GPS-sporingsløsning til billeasing- og bilfinansieringsselskaber En pålidelig software til billeasing til lokalisering og inddrivelse Bilfinansiering, billån og billeasing er et attraktivt, men meget risikabelt marked. Biltyveri, forsinkede betalinger, misligholdelser og dyre inddrivelsesprocedurer afskrækker bilforhandlere og finansieringsselskaber fra at vokse eller opretholde status quo. Det samme gør de upålidelige GPS-sporingsværktøjer, der bare ikke [&hellip;]",
+  "seo": {
+    "title": "Leasing kontrol - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:31:52",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Leasing - billeje",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "GPS-sporingsløsning til billeasing- og bilfinansieringsselskaber",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>En pålidelig software til billeasing til lokalisering og inddrivelse</p><p>Bilfinansiering, billån og billeasing er et attraktivt, men meget risikabelt marked. Biltyveri, forsinkede betalinger, misligholdelser og dyre inddrivelsesprocedurer afskrækker bilforhandlere og finansieringsselskaber fra at vokse eller opretholde status quo. Det samme gør de upålidelige GPS-sporingsværktøjer, der bare ikke hjælper.</p><p>Det er her, du ændrer landskabet med LeaseControl, en billeasingsoftware. Introducer dens telematik- og IoT-funktioner for at beskytte finansierede køretøjer, beskytte forhandlernes overskud og give dem reel forretningsværdi.</p>",
+      "bodyText": "En pålidelig software til billeasing til lokalisering og inddrivelseBilfinansiering, billån og billeasing er et attraktivt, men meget risikabelt marked. Biltyveri, forsinkede betalinger, misligholdelser og dyre inddrivelsesprocedurer afskrækker bilforhandlere og finansieringsselskaber fra at vokse eller opretholde status quo. Det samme gør de upålidelige GPS-sporingsværktøjer, der bare ikke hjælper.Det er her, du ændrer landskabet med LeaseControl, en billeasingsoftware. Introducer dens telematik- og IoT-funktioner for at beskytte finansierede køretøjer, beskytte forhandlernes overskud og give dem reel forretningsværdi.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "9bd7a6b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd7a6b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvorfor vælge Jaxicloud flådestyring",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "b3a9548",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b3a9548",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+      "bodyText": "See what Jaxicloud enables you to manage your business in the easiest way",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "0fd41ab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0fd41ab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Markedsekspansion i nye nicher",
+      "bodyHtml": "<p>Integrationsfunktioner<br>Nem integration med andre systemer ved hjælp af SDK</p><p><strong>For tjenesteudbydere:</strong><br>Bevist teknologi<br>Baseret på en pålidelig JaxiCloud-platform.</p><p><strong>Erfaren udbyder:</strong><br>Bakket op af to årtier inden for telematik og IoT.</p><p><strong>Ekspertfællesskab</strong><br>Adgang til et stort fællesskab af telematik- og IoT-eksperter.</p><p><strong>FLÅDESPORINGENS ALDER – NYD DET BRUGERVENLIGT</strong></p>",
+      "bodyText": "IntegrationsfunktionerNem integration med andre systemer ved hjælp af SDKFor tjenesteudbydere:Bevist teknologiBaseret på en pålidelig JaxiCloud-platform.Erfaren udbyder:Bakket op af to årtier inden for telematik og IoT.EkspertfællesskabAdgang til et stort fællesskab af telematik- og IoT-eksperter.FLÅDESPORINGENS ALDER – NYD DET BRUGERVENLIGT",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "14362b3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14362b3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Flådesporingens tidsalder, nyd det",
+      "bodyHtml": "<p><strong>Markedsdynamik:</strong><br>Vækst på markedet for billån trods udfordringer.</p><p><strong>JaxiClouds tilbud:</strong><br>En GPS-sporingsløsning designet til automatisk finansiering.</p><p><strong>Væsentlige elementer:</strong><br>Værktøjer til sporing og gendannelse af køretøjers placering.</p><p><strong>Brancherisici og løsninger:</strong><br>Håndtering af udfordringer, som billångivere står over for, med JaxiCloud.</p><p><strong>Detektering af risici:</strong><br>Brug af geofences og notifikationer til at forudse potentielle problemer.</p><p><strong>Hurtige svar:</strong><br>Fjernindstilling af motorstop. Dataindsigt: Få adgang til detaljerede data om køretøjsaktivitet og spor.</p>",
+      "bodyText": "Markedsdynamik:Vækst på markedet for billån trods udfordringer.JaxiClouds tilbud:En GPS-sporingsløsning designet til automatisk finansiering.Væsentlige elementer:Værktøjer til sporing og gendannelse af køretøjers placering.Brancherisici og løsninger:Håndtering af udfordringer, som billångivere står over for, med JaxiCloud.Detektering af risici:Brug af geofences og notifikationer til at forudse potentielle problemer.Hurtige svar:Fjernindstilling af motorstop. Dataindsigt: Få adgang til detaljerede data om køretøjsaktivitet og spor.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "f51d805",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f51d805",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Brugervenlig",
+      "bodyHtml": "<p><strong>Fjernbetjening:</strong><br>Start eller stop et køretøjs motor via fjernbetjening baseret på betalingsstatus.</p><p><strong>Brugerdefinerede geofences:</strong><br>Konfigurer geografiske grænser og få advarsler om overtrædelser.</p><p><strong>Forbindelsesovervågning:</strong><br>Modtag advarsler om tab af forbindelse.</p><p><strong>Fleksibilitet i notifikationer:</strong><br>Vælg notifikationsmetoder.</p>",
+      "bodyText": "Fjernbetjening:Start eller stop et køretøjs motor via fjernbetjening baseret på betalingsstatus.Brugerdefinerede geofences:Konfigurer geografiske grænser og få advarsler om overtrædelser.Forbindelsesovervågning:Modtag advarsler om tab af forbindelse.Fleksibilitet i notifikationer:Vælg notifikationsmetoder.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hovedfunktionerne i Jaxicloud flådestyring - Leasingkontrol",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Returnering af køretøjer",
+      "bodyHtml": "<p>Find køretøjer og deaktiver motorer eksternt</p>",
+      "bodyText": "Find køretøjer og deaktiver motorer eksternt",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stressfri restitution",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Forebygg tyveri og uautoriseret bevægelse af finansierede køretøjer.</p>",
+      "bodyText": "Forebygg tyveri og uautoriseret bevægelse af finansierede køretøjer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Skræddersyet løsning",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Specielt designet til administration af leasing af køretøjer.</p>",
+      "bodyText": "Specielt designet til administration af leasing af køretøjer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hurtig roi",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kraftfulde værktøjer, der beskytter bilforhandleres investeringer fra dag ét.</p>",
+      "bodyText": "Kraftfulde værktøjer, der beskytter bilforhandleres investeringer fra dag ét.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>En pålidelig software til billeasing til lokalisering og bjærgning|</p><p>I en verden, hvor billeasing og bilfinansiering er blevet både en velsignelse og en udfordring, står JaxiCloud som et fyrtårn for sikkerhed og pålidelighed. Denne banebrydende flådesporingsløsning er skræddersyet til leasing- og bilfinansieringsvirksomheder og sikrer, at aktiver altid er inden for rækkevidde. Med avanceret telematik, IoT-funktioner og sporingsfunktioner i realtid beskytter JaxiCloud ikke kun finansierede køretøjer, men giver også forhandlere mulighed for at mindske risiko, øge profitten og levere uovertruffen værdi. Træd ind i fremtiden for billeasingstyring med JaxiCloud.</p><p>Sikring af højrisikokontrakter</p><p>Udfordringer: Stjålne køretøjer og forsinkede betalinger på markedet for brugte og subprime billån.</p><p>Løsning: Jaxiclouds værktøjer til at spore, lokalisere og fjernstyre køretøjer.</p><p>Resultat: Reducerede risici og minimerede omkostninger forbundet med bjærgning af køretøjer.</p>",
+      "bodyText": "En pålidelig software til billeasing til lokalisering og bjærgning|I en verden, hvor billeasing og bilfinansiering er blevet både en velsignelse og en udfordring, står JaxiCloud som et fyrtårn for sikkerhed og pålidelighed. Denne banebrydende flådesporingsløsning er skræddersyet til leasing- og bilfinansieringsvirksomheder og sikrer, at aktiver altid er inden for rækkevidde. Med avanceret telematik, IoT-funktioner og sporingsfunktioner i realtid beskytter JaxiCloud ikke kun finansierede køretøjer, men giver også forhandlere mulighed for at mindske risiko, øge profitten og levere uovertruffen værdi. Træd ind i fremtiden for billeasingstyring med JaxiCloud.Sikring af højrisikokontrakterUdfordringer: Stjålne køretøjer og forsinkede betalinger på markedet for brugte og subprime billån.Løsning: Jaxiclouds værktøjer til at spore, lokalisere og fjernstyre køretøjer.Resultat: Reducerede risici og minimerede omkostninger forbundet med bjærgning af køretøjer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Fjernstyret mørtelstyring",
+      "bodyHtml": "<p>Bloker eller afmonter motorer eksternt.</p>",
+      "bodyText": "Bloker eller afmonter motorer eksternt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Detaljerede rapporter",
+      "bodyHtml": "<p>OMFATTENDE data om køretøjsaktiviteter.</p>",
+      "bodyText": "OMFATTENDE data om køretøjsaktiviteter.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Spor af køretøjer",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Få adgang til køretøjets kørselshistorik i op til 90 dage.</p>",
+      "bodyText": "Få adgang til køretøjets kørselshistorik i op til 90 dage.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hurtige udbetalinger",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Effektive kontrolværktøjer gør bilforhandlere rentable fra dag ét ved at reducere risikoen for at miste et køretøj eller forsinket betaling.</p>",
+      "bodyText": "Effektive kontrolværktøjer gør bilforhandlere rentable fra dag ét ved at reducere risikoen for at miste et køretøj eller forsinket betaling.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 4,
+    "htmlBytes": 24441
+  }
+}

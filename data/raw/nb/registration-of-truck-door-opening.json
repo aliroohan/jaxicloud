@@ -1,0 +1,807 @@
+{
+  "id": 3242,
+  "slug": "registration-of-truck-door-opening-no",
+  "canonicalSlug": "registration-of-truck-door-opening",
+  "locale": "nb",
+  "title": "Registration of truck door opening – NO",
+  "link": "https://www.jaxicloud.com/nb/registration-of-truck-door-opening-no/",
+  "pageKind": "solution",
+  "translations": {
+    "nb": 3242,
+    "da": 2199,
+    "en": 1232,
+    "de": 2594,
+    "fr": 2842,
+    "nl": 3042,
+    "sv": 3435,
+    "tr": 3624
+  },
+  "excerpt": "Registrering av lastebildøråpning Registrering av lastebildøråpning Integrer Jaxicloud Fleet Management Innovasjon trådløse magnetiske sensorer i dine tilkoblede transportløsninger for å oppdage åpning av lastebildører. Lastebildøråpningsdeteksjon, hva er det? Innen godstransport er sikkerhet et stort problem for både transportører og kundene deres. Hvert år blir det stjålet varer for rundt 8,2 milliarder euro i Europa. For [&hellip;]",
+  "seo": {
+    "title": "Registrering av lastebildøråpning - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-17T23:16:36",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "3df5b11",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3df5b11",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Registrering av lastebildøråpning",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ebb63e9",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "da362e6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-da362e6",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Registrering av lastebildøråpning Integrer Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-737b95e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "fd75a1d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fd75a1d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Innovasjon trådløse magnetiske sensorer i dine tilkoblede transportløsninger for å oppdage åpning av lastebildører.</p>",
+      "bodyText": "Innovasjon trådløse magnetiske sensorer i dine tilkoblede transportløsninger for å oppdage åpning av lastebildører.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-737b95e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "38af1c0",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-38af1c0",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Lastebildøråpningsdeteksjon, hva er det?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c8a52c6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c039dfc",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c039dfc",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Innen godstransport er sikkerhet et stort problem for både transportører og kundene deres.</p><p>Hvert år blir det stjålet varer for rundt 8,2 milliarder euro i Europa. For å øke sikkerheten til disse varene, utstyrer transportørene seg i økende grad med tilkoblede telematikkløsninger.</p><p>For å møte denne utfordringen og tilby en komplett løsning, anbefaler vi deg å integrere deteksjonen av lastebildøråpning i din IoT-løsning. Ved å bruke ELA Innovations trådløse magnetiske sensorer kan du enkelt oppdage når en lastebildør er åpen og varsle sjåføren i sanntid gjennom forretningsapplikasjonen din.</p>",
+      "bodyText": "Innen godstransport er sikkerhet et stort problem for både transportører og kundene deres.Hvert år blir det stjålet varer for rundt 8,2 milliarder euro i Europa. For å øke sikkerheten til disse varene, utstyrer transportørene seg i økende grad med tilkoblede telematikkløsninger.For å møte denne utfordringen og tilby en komplett løsning, anbefaler vi deg å integrere deteksjonen av lastebildøråpning i din IoT-løsning. Ved å bruke ELA Innovations trådløse magnetiske sensorer kan du enkelt oppdage når en lastebildør er åpen og varsle sjåføren i sanntid gjennom forretningsapplikasjonen din.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c8a52c6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "a74006d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a74006d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_25f064dc5b6a4fed9818c7c207f1e36amv2.jpg",
+          "alt": "",
+          "width": 481,
+          "height": 301
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c8a52c6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "2b478c3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2b478c3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_404acb6f1e474e83980d46c3dc8fb23cmv2.jpg",
+          "alt": "",
+          "width": 498,
+          "height": 332
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-271873a",
+          "elementor-section-content-middle",
+          "elementor-reverse-mobile",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": true
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "69a1cdf",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-69a1cdf",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvordan fungerer lastebildørdeteksjon egentlig?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-271873a",
+          "elementor-section-content-middle",
+          "elementor-reverse-mobile",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": true
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "bfb920c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bfb920c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">For å implementere en løsning for registrering av åpning av lastebildører , må du utstyre deg med magnetiske sensorer og industrielle magneter. Sensoren festes til innerdøren til tilhengeren og magneten festes til dørstolpen i umiddelbar nærhet av sensoren. Når lastebildørene åpnes, separeres magnetsensoren og magneten. Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus. Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens dører åpnes i et “uautorisert” område, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.</p>",
+      "bodyText": "For å implementere en løsning for registrering av åpning av lastebildører , må du utstyre deg med magnetiske sensorer og industrielle magneter. Sensoren festes til innerdøren til tilhengeren og magneten festes til dørstolpen i umiddelbar nærhet av sensoren. Når lastebildørene åpnes, separeres magnetsensoren og magneten. Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus. Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens dører åpnes i et “uautorisert” område, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-271873a",
+          "elementor-section-content-middle",
+          "elementor-reverse-mobile",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": true
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "5e1e836",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e1e836",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvorfor integrere magnetiske sensorer i telematikkløsningen din?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3215cb6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "b05ec00",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b05ec00",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">De industrielle magnetiske sensorene fra Jaxicloud Fleet Management Innovation er ideelle for å oppdage åpning av lastebildører:</span></p><p>100 % uavhengig</p><p>Deres batteridrevne drift gir opptil 14 års autonomi, noe som sikrer konkurransedyktige totale anskaffelseskostnader.</p><p>Kompatibel med telematikkbokser</p><p>Utstyrt med Bluetooth Low Energy-teknologi, er disse sensorene kompatible med de fleste innebygde telematikkbokser på markedet og krever ingen ekstra integrering.</p><p>Rask og enkel å installere</p><p>Enkel å installere takket være de forskjellige festemetodene (dobbeltsidig klistremerke med høy ytelse eller skrubar støtte), disse sensorene kan festes til alle typer overflater og krever ingen ledninger.</p><p>Industribokser</p><p>Disse sensorene er robuste og vanntette og er designet for å brukes under ekstreme forhold. De er derfor vanntette og motstandsdyktige mot støt og vibrasjoner.</p>",
+      "bodyText": "De industrielle magnetiske sensorene fra Jaxicloud Fleet Management Innovation er ideelle for å oppdage åpning av lastebildører:100 % uavhengigDeres batteridrevne drift gir opptil 14 års autonomi, noe som sikrer konkurransedyktige totale anskaffelseskostnader.Kompatibel med telematikkbokserUtstyrt med Bluetooth Low Energy-teknologi, er disse sensorene kompatible med de fleste innebygde telematikkbokser på markedet og krever ingen ekstra integrering.Rask og enkel å installereEnkel å installere takket være de forskjellige festemetodene (dobbeltsidig klistremerke med høy ytelse eller skrubar støtte), disse sensorene kan festes til alle typer overflater og krever ingen ledninger.IndustribokserDisse sensorene er robuste og vanntette og er designet for å brukes under ekstreme forhold. De er derfor vanntette og motstandsdyktige mot støt og vibrasjoner.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3215cb6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 5,
+      "elementorId": "3134475",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3134475",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvilke magnetiske sensorer skal brukes for å sikre varer?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-91867dc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "bd8ae75",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd8ae75",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Hvis du er en leverandør av IoT-løsninger og ønsker å integrere lastebildørdeteksjon i tilbudet ditt, her er Jaxicloud Fleet Management Innovation-produktene vi anbefaler:</p>",
+      "bodyText": "Hvis du er en leverandør av IoT-løsninger og ønsker å integrere lastebildørdeteksjon i tilbudet ditt, her er Jaxicloud Fleet Management Innovation-produktene vi anbefaler:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-91867dc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 6,
+      "elementorId": "04b10a1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-04b10a1",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "BLÅ MYNT MAG",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f737096",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "ea50e24",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ea50e24",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Bluetooth dørsensor</p><p>BLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer ved å oppdage åpning og lukking av lastebildører og ventiler. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.</p>",
+      "bodyText": "Bluetooth dørsensorBLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer ved å oppdage åpning og lukking av lastebildører og ventiler. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f737096",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "96032a8",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-96032a8",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3b145ba7c6674983a0a2cdfcb896bb71mv2.jpg",
+          "alt": "",
+          "width": 251,
+          "height": 157
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f737096",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 7,
+      "elementorId": "64ad7dc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-64ad7dc",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Blå PUCK MAG",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8ea165a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 7,
+      "elementorId": "2eeafc1",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2eeafc1",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Bluetooth dørsensor</p><p>BLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.</p>",
+      "bodyText": "Bluetooth dørsensorBLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8ea165a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 7,
+      "elementorId": "2627757",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2627757",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ae51618a0db346878ea7aa716b724671mv2.jpg",
+          "alt": "",
+          "width": 210,
+          "height": 132
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8ea165a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 8,
+    "htmlBytes": 21025
+  }
+}

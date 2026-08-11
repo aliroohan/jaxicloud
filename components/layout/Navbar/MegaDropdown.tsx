@@ -4,6 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { motion, AnimatePresence, Variants } from "framer-motion";
 import { Activity, AlertCircle, ArrowRight, Camera, Clock, Cpu, HardDrive, Layers, MapPin, Navigation, Power, ShieldCheck, Truck, Users, Wifi, Wrench } from "lucide-react";
+import { withLocale, type Locale } from "@/lib/i18n/config";
 import styles from "./Navbar.module.css";
 
 interface MegaDropdownProps {
@@ -11,44 +12,45 @@ interface MegaDropdownProps {
   onClose: () => void;
   onMouseEnter?: () => void;
   onMouseLeave?: () => void;
+  locale?: Locale;
 }
 
 const SOLUTIONS_4COL_DATA = [
   {
     image: "/images/route_optimization.png",
     links: [
-      { label: "Constructor", href: "/solutions/construction"},
-      { label: "Lory", href: "/solutions/lory" },
-      { label: "Leasing-car rental", href: "/solutions/leasing-car-rental" },
-      { label: "Public transport", href: "/solutions/public-transport" },
-      { label: "Agriculture", href: "/solutions/agriculture" }
+      { label: "Constructor", href: "/solutions/constractor" },
+      { label: "Lorry", href: "/solutions/lorry" },
+      { label: "Leasing control", href: "/solutions/leasing-control" },
+      { label: "Public transport", href: "/solutions/nimbus" },
+      { label: "Agriculture", href: "/solutions/hecterra-agriculture" }
     ]
   },
   {
     image: "/images/fuel_control.png",
     links: [
       { label: "Cooling monitoring", href: "/solutions/cooling-monitoring" },
-      { label: "Logistics delivery system", href: "/solutions/logistics-delivery-system" },
+      { label: "Logistics delivery", href: "/solutions/logistics-delivery-system" },
       { label: "Eco drive", href: "/solutions/eco-drive" },
-      { label: "Maintanace module", href: "/solutions/maintanace-module" },
+      { label: "Fleetrun", href: "/solutions/fleetrun-fleet-volunteer" },
       { label: "WIA tag", href: "/solutions/wia-tag" }
     ]
   },
   {
     image: "/images/driver_safety.png",
     links: [
-      { label: "Fuel management system", href: "/solutions/fuel-management-system" },
-      { label: "Tpms ebs cooling fuel monitoring", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
+      { label: "Fuel management", href: "/solutions/fuel-management-system" },
+      { label: "TPMS / EBS / Cooling", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
       { label: "Dashcam", href: "/solutions/dashcam" },
-      { label: "Registration of truck door opening", href: "/solutions/registration-of-truck-door-opening" }
+      { label: "Door opening", href: "/solutions/registration-of-truck-door-opening" }
     ]
   },
   {
     image: "/images/compliance_reporting.png",
     links: [
-      { label: "Temperature monitoring work", href: "/solutions/temperature-monitoring-work" },
-      { label: "Geolocation of construction tools", href: "/solutions/geolocation-of-construction-tools" },
-      { label: "Opening detection of truck side panels", href: "/solutions/opening-detection-of-truck-side-panels" },
+      { label: "Temperature monitoring", href: "/solutions/temperature-monitoring-work" },
+      { label: "Construction tools", href: "/solutions/geolocation-of-construction-tools" },
+      { label: "Side panel detection", href: "/solutions/opening-detection-of-truck-side-panels" },
       { label: "E-drivers book", href: "/solutions/e-drivers-book" }
     ]
   }
@@ -97,12 +99,6 @@ const PRODUCTS_DATA = {
       desc: "Explore all 31 Streamax enterprise hardware units and spec sheets.",
     },
   ],
-  spotlight: {
-    tag: "FLAGSHIP TERMINAL",
-    title: "XPAD 5.0 Driver Terminal",
-    desc: "Octa-core 8-inch Android vehicle display with dual CANbus, NFC driver authentication, & IP65 ruggedization.",
-    href: "/products/driver-terminals/xpad-5-0",
-  },
 };
 
 const APPLICATIONS_DATA = {
@@ -154,17 +150,36 @@ const APPLICATIONS_DATA = {
     desc: "A global GPS tracking and fleet management solution for real-time monitoring and optimization of vehicles, assets, and operations.",
     href: "/applications/platform",
   },
+} as const;
+
+type MegaSpotlight = {
+  tag: string;
+  title: string;
+  desc: string;
+  href: string;
 };
+
+function getMegaSpotlight(
+  data: typeof PRODUCTS_DATA | typeof APPLICATIONS_DATA | null,
+): MegaSpotlight | null {
+  if (!data || !("spotlight" in data)) return null;
+  return data.spotlight as MegaSpotlight;
+}
 
 const itemVariants: Variants = {
   hidden: { opacity: 0, y: 8 },
   visible: { opacity: 1, y: 0, transition: { duration: 0.4, ease: [0.16, 1, 0.3, 1] as const } }
 };
 
-export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }: MegaDropdownProps) {
+export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave, locale = "en" }: MegaDropdownProps) {
   const data = activeTab === "products" ? PRODUCTS_DATA : activeTab === "applications" ? APPLICATIONS_DATA : null;
 
   if (!data && activeTab !== "solutions") return null;
+
+  const spotlight = getMegaSpotlight(data);
+  const hasSpotlight = Boolean(spotlight);
+  const solutionHref = (href: string) =>
+    href.startsWith("/solutions") ? withLocale(locale, href) : href;
 
   return (
     <motion.div
@@ -175,7 +190,7 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }:
       transition={{ layout: { type: "spring", bounce: 0, duration: 0.3 }, duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
-      className={styles.megaMenuPanel}
+      className={`${styles.megaMenuPanel} ${!hasSpotlight && activeTab !== "solutions" ? styles.megaMenuPanel2Col : ""}`}
     >
       <AnimatePresence mode="popLayout" initial={false}>
         {activeTab === "solutions" ? (
@@ -201,7 +216,7 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }:
                 {col.links.map(link => (
                   <Link
                     key={link.href}
-                    href={link.href}
+                    href={solutionHref(link.href)}
                     onClick={onClose}
                     className={styles.megaSolutionsLink}
                   >
@@ -226,7 +241,7 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }:
               },
               exit: { opacity: 0, x: activeTab === "products" ? 15 : -15, transition: { duration: 0.15 } }
             }}
-            className={styles.megaMenuGrid}
+            className={`${styles.megaMenuGrid} ${!hasSpotlight ? styles.megaMenuGrid2Col : ""}`}
           >
             {data && (
               <>
@@ -283,21 +298,23 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave }:
                 </motion.div>
 
                 {/* Column 3: Featured Hardware / Solution Spotlight Card */}
-                <motion.div variants={itemVariants} className={styles.spotlightCard}>
-                  <div>
-                    <span className={styles.spotlightTag}>{data.spotlight.tag}</span>
-                    <h4 className={styles.spotlightTitle}>{data.spotlight.title}</h4>
-                    <p className={styles.spotlightDesc}>{data.spotlight.desc}</p>
-                  </div>
-                  <Link
-                    href={data.spotlight.href}
-                    onClick={onClose}
-                    className={styles.spotlightLink}
-                  >
-                    <span>Explore Specifications</span>
-                    <ArrowRight className="w-3.5 h-3.5" />
-                  </Link>
-                </motion.div>
+                {spotlight ? (
+                  <motion.div variants={itemVariants} className={styles.spotlightCard}>
+                    <div>
+                      <span className={styles.spotlightTag}>{spotlight.tag}</span>
+                      <h4 className={styles.spotlightTitle}>{spotlight.title}</h4>
+                      <p className={styles.spotlightDesc}>{spotlight.desc}</p>
+                    </div>
+                    <Link
+                      href={spotlight.href}
+                      onClick={onClose}
+                      className={styles.spotlightLink}
+                    >
+                      <span>Explore Specifications</span>
+                      <ArrowRight className="w-3.5 h-3.5" />
+                    </Link>
+                  </motion.div>
+                ) : null}
               </>
             )}
           </motion.div>

@@ -1,0 +1,452 @@
+{
+  "id": 88,
+  "slug": "click-connect",
+  "canonicalSlug": "click-connect",
+  "locale": "en",
+  "title": "CLICK & CONNECT",
+  "link": "https://www.jaxicloud.com/en/click-connect/",
+  "pageKind": "solution",
+  "translations": {
+    "en": 88,
+    "da": 2066,
+    "de": 2465,
+    "fr": 2722,
+    "nl": 2926,
+    "nb": 3119,
+    "sv": 3312,
+    "tr": 3507
+  },
+  "excerpt": "Click and connect Easy and instant device registration This innovative solution provides customers with a hassle-free way to register their tracking devices. Whether you are a new or existing customer, you can sign up and register your device at any time by simply entering the IMEI number. As soon as your device is “Connected”, you [&hellip;]",
+  "seo": {
+    "title": "Click and connect - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-01-16T09:59:44",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "196ca7c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-196ca7c",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Click and connect",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-83aef2f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "dd702d6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dd702d6",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Easy and instant device registration",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4eedee5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "3b7ca78",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b7ca78",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This innovative solution provides customers with a hassle-free way to register their tracking devices. Whether you are a new or existing customer, you can sign up and register your device at any time by simply entering the IMEI number. As soon as your device is “Connected”, you will have access to our comprehensive fleet management system.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Advantages of Klik and Connect:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Quick and easy registration:</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Save time and hassle with our automated registration process.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Available anytime:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Register your devices at your convenience, day or night.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Instant access to fleet management:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Get full control of your fleet as soon as your device is connected.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Ideal for both new and existing customers:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Whether you’re just starting out or an existing customer, Klik and Connect is the easiest way to register your devices. Experience the hassle-free way of registering your tracking devices with Klik and Connect. Get started today!</span></p>",
+      "bodyText": "This innovative solution provides customers with a hassle-free way to register their tracking devices. Whether you are a new or existing customer, you can sign up and register your device at any time by simply entering the IMEI number. As soon as your device is “Connected”, you will have access to our comprehensive fleet management system.Advantages of Klik and Connect:Quick and easy registration:Save time and hassle with our automated registration process.Available anytime:Register your devices at your convenience, day or night.Instant access to fleet management:Get full control of your fleet as soon as your device is connected.Ideal for both new and existing customers:Whether you’re just starting out or an existing customer, Klik and Connect is the easiest way to register your devices. Experience the hassle-free way of registering your tracking devices with Klik and Connect. Get started today!",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4eedee5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "429f336",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-429f336",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "New customer",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Select customer status: New customer or Existing customer.</span></p>",
+      "bodyText": "Select customer status: New customer or Existing customer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "5a4c7a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a4c7a2",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Select card",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Decide whether integration with Google Maps should be activated.</span></p>",
+      "bodyText": "Decide whether integration with Google Maps should be activated.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11632ae",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11632ae",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Company data",
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">1. Fill in personal information: Name, company and e-mail.</p>",
+      "bodyText": "1. Fill in personal information: Name, company and e-mail.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "79d4ee5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-79d4ee5",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Add your device",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">1.Enter IMEI number to add your device.</span></p>",
+      "bodyText": "1.Enter IMEI number to add your device.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "57def47",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-57def47",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Subscription",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Choose subscription type: ULTIMATE, PREMIUM or BASIC.</span></p>",
+      "bodyText": "Choose subscription type: ULTIMATE, PREMIUM or BASIC.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "24aad7e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-24aad7e",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Welcome email",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">After registration, a welcome email and manual will be sent to your email, </span><span class=\"wixui-rich-text__text\">so you can get started right away.</span></p>",
+      "bodyText": "After registration, a welcome email and manual will be sent to your email, so you can get started right away.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ee37da",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "2936a83",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2936a83",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Request for demo aplication",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ab2f658",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "bf9bb67",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bf9bb67",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2676ee7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 11,
+    "sectionCount": 6,
+    "htmlBytes": 20709
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": 43,
+  "slug": "faq",
+  "canonicalSlug": "faq",
+  "locale": "en",
+  "title": "FAQ",
+  "link": "https://www.jaxicloud.com/en/faq/",
+  "pageKind": "marketing",
+  "translations": {
+    "en": 43,
+    "da": 2117,
+    "de": 2510,
+    "fr": 2767,
+    "nl": 2972,
+    "nb": 3168,
+    "sv": 3362,
+    "tr": 3552
+  },
+  "excerpt": "Frequently asked questions Find quick answers to the most common questions about the JaxiCloud platform, features, and usage. What is JaxiCloud Fleet Management The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on the created Who can use [&hellip;]",
+  "seo": {
+    "title": "FAQ - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:45:05",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "130d4a6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-130d4a6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Frequently asked questions",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-dec2534",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "31860ef",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31860ef",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Find quick answers to the most common questions about the JaxiCloud platform, features, and usage.</p>",
+      "bodyText": "Find quick answers to the most common questions about the JaxiCloud platform, features, and usage.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "d2d2d8a",
+      "widgetType": "eael-adv-accordion.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d2d2d8a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-adv-accordion"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on the created</p><p>The platform is ideal for all companies that own and operate a fleet of vehicles, including transport and logistics companies, delivery companies, service companies and municipal authorities.</p><p>To get started, register on our website and choose the package that best suits your needs. After registration, you will receive instructions for installing our tracking devices and setting up your account.</p><p>You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.</p><p>Yes, JaxiCloud analyzes driving patterns and gives you insights into driving behavior such as speed, hard braking and acceleration patterns, helping to improve safety and reduce costs.</p><p>We use advanced security measures, including encryption and regular security audits, to protect your data.</p><p>You can contact our support team via email, phone or live chat. Support information can be found on our website.</p><p>Yes, we offer extensive training materials, including videos, manuals and webinars, to help you get the most out of JaxiCloud Fleet Management.</p><p>We offer several different packages designed to suit the needs and sizes of different businesses. Visit our pricing page for more information on the packages available.</p><p>You will be billed monthly or annually, depending on the subscription plan chosen. Invoicing is handled automatically via the payment method you have chosen when registering.</p><p>You need JaxiCloud GPS tracking devices to be installed in your vehicles. These devices come as part of your subscription package.</p><p>Yes, JaxiCloud offers a mobile app for both iOS and Android so you can manage your fleet and get real-time updates wherever you are.</p><p>Yes, you can upgrade or downgrade your subscription at any time from your account settings on the JaxiCloud website.</p>",
+      "bodyText": "The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on the createdThe platform is ideal for all companies that own and operate a fleet of vehicles, including transport and logistics companies, delivery companies, service companies and municipal authorities.To get started, register on our website and choose the package that best suits your needs. After registration, you will receive instructions for installing our tracking devices and setting up your account.You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.Yes, JaxiCloud analyzes driving patterns and gives you insights into driving behavior such as speed, hard braking and acceleration patterns, helping to improve safety and reduce costs.We use advanced security measures, including encryption and regular security audits, to protect your data.You can contact our support team via email, phone or live chat. Support information can be found on our website.Yes, we offer extensive training materials, including videos, manuals and webinars, to help you get the most out of JaxiCloud Fleet Management.We offer several different packages designed to suit the needs and sizes of different businesses. Visit our pricing page for more information on the packages available.You will be billed monthly or annually, depending on the subscription plan chosen. Invoicing is handled automatically via the payment method you have chosen when registering.You need JaxiCloud GPS tracking devices to be installed in your vehicles. These devices come as part of your subscription package.Yes, JaxiCloud offers a mobile app for both iOS and Android so you can manage your fleet and get real-time updates wherever you are.Yes, you can upgrade or downgrade your subscription at any time from your account settings on the JaxiCloud website.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Real-time tracking : Monitor the location of your vehicles in real-time.",
+        "Maintenance Scheduling : Plan and monitor vehicle maintenance to minimize downtime.",
+        "Fuel management : Monitor fuel consumption and identify opportunities for savings.",
+        "Driving behavior : Analyze driving patterns to improve safety and efficiency.",
+        "Reporting : Generate detailed reports on fleet performance and costs."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 22625
+  }
+}

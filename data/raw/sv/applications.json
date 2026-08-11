@@ -1,0 +1,109 @@
+{
+  "id": 3307,
+  "slug": "applications-sv",
+  "canonicalSlug": "applications",
+  "locale": "sv",
+  "title": "Applications – SV",
+  "link": "https://www.jaxicloud.com/sv/applications-sv/",
+  "pageKind": "marketing",
+  "translations": {
+    "sv": 3307,
+    "da": 2054,
+    "en": 1304,
+    "de": 2460,
+    "fr": 2717,
+    "nl": 2921,
+    "nb": 3114,
+    "tr": 3502
+  },
+  "excerpt": "Ansökningar Click & Connect Inloggning Tacho Simple Inloggning TPMS Inloggning Safe start Inloggning Driver Behaviour Inloggning Tacho Simple Driver Portal Inloggning Safe start Driver Portal Inloggning TPMS Driver Portal Inloggning Driver Behaviour Driver Portal Inloggning Jaxicloud Vision Inloggning",
+  "seo": {
+    "title": "Ansökningar - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-06-04T11:14:48",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "ddab10a",
+      "widgetType": "eael-login-register.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ddab10a",
+        "stax-condition-yes",
+        "stax-user_role_enabled-yes",
+        "elementor-widget",
+        "elementor-widget-eael-login-register"
+      ],
+      "heading": "Inloggningssida",
+      "bodyHtml": "<p>För att se sidans innehåll måste du vara inloggad.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Kom ihåg mig</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Glömt ditt lösenord?</a></p>",
+      "bodyText": "För att se sidans innehåll måste du vara inloggad. Kom ihåg mig Glömt ditt lösenord?",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Glömt ditt lösenord?",
+          "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-37f977f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 2,
+      "elementorId": "9bf1cfd",
+      "widgetType": "shortcode.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bf1cfd",
+        "elementor-widget",
+        "elementor-widget-shortcode"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2562351",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 2,
+    "sectionCount": 3,
+    "htmlBytes": 14441
+  }
+}

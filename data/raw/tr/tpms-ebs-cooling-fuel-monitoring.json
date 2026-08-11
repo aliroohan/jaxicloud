@@ -1,0 +1,339 @@
+{
+  "id": 3645,
+  "slug": "tpms-ebs-cooling-fuel-monitoring-tur",
+  "canonicalSlug": "tpms-ebs-cooling-fuel-monitoring",
+  "locale": "tr",
+  "title": "TPMS -EBS -COOLING-FUEL MONITORING – TUR",
+  "link": "https://www.jaxicloud.com/tr/tpms-ebs-cooling-fuel-monitoring-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3645,
+    "da": 2215,
+    "en": 102,
+    "de": 2615,
+    "fr": 2863,
+    "nl": 3063,
+    "nb": 3262,
+    "sv": 3455
+  },
+  "excerpt": "TPMS -EBS -SOĞUTMA-YAKIT İZLEME Treylerin durumunu takip edin. Yük taşıma limitlerini izin verilen yük ağırlığına göre yapılandırarak aşırı yük, devrilme stabilitesi, sert frenleme ve kilitlenmeyi önleyici frenleme olayları için uyarılar alın. Ayrıca, TPMS donanımlı römorklar için lastik sorunları konusunda uyarılar alın ve daha güvenli bir filo için lastiklerin doğru basınçta kalmasını sağlayın. 7/24 TPMS alarm [&hellip;]",
+  "seo": {
+    "title": "TPMS -EBS -SOĞUTMA-YAKIT İZLEME - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T15:41:15",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "7482049",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7482049",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "TPMS -EBS -SOĞUTMA-YAKIT İZLEME",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-13ee75e",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "3e80f09",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3e80f09",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Treylerin durumunu takip edin.",
+      "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Yük taşıma limitlerini izin verilen yük ağırlığına göre yapılandırarak aşırı yük, devrilme stabilitesi, sert frenleme ve kilitlenmeyi önleyici frenleme olayları için uyarılar alın. Ayrıca, TPMS donanımlı römorklar için lastik sorunları konusunda uyarılar alın ve daha güvenli bir filo için lastiklerin doğru basınçta kalmasını sağlayın.</p>",
+      "bodyText": "Yük taşıma limitlerini izin verilen yük ağırlığına göre yapılandırarak aşırı yük, devrilme stabilitesi, sert frenleme ve kilitlenmeyi önleyici frenleme olayları için uyarılar alın. Ayrıca, TPMS donanımlı römorklar için lastik sorunları konusunda uyarılar alın ve daha güvenli bir filo için lastiklerin doğru basınçta kalmasını sağlayın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9503f14",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "7e5884c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e5884c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "7/24 TPMS alarm izleme",
+      "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Lastik sorunlarını erken tespit ederek filonuzdaki arıza ve aksama riskini azaltın. TPMS donanımlı tüm treylerler için canlı ve geçmiş verilere erişin. Alarmlar anormal basınç veya sıcaklık konusunda uyarı verir.</p>",
+      "bodyText": "Lastik sorunlarını erken tespit ederek filonuzdaki arıza ve aksama riskini azaltın. TPMS donanımlı tüm treylerler için canlı ve geçmiş verilere erişin. Alarmlar anormal basınç veya sıcaklık konusunda uyarı verir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9503f14",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "22fbbab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-22fbbab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "EBPMS alarm raporlaması",
+      "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Elektronik Fren Performansı İzleme Sistemi (EBPMS), treyler fren performansını izleyen ve raporlayan bir sistemdir. Potansiyel fren sorunlarını kritik hale gelmeden önce belirleyerek güvenliği artırmak için tasarlanmıştır.</p>",
+      "bodyText": "Elektronik Fren Performansı İzleme Sistemi (EBPMS), treyler fren performansını izleyen ve raporlayan bir sistemdir. Potansiyel fren sorunlarını kritik hale gelmeden önce belirleyerek güvenliği artırmak için tasarlanmıştır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9503f14",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "e708b23",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e708b23",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JaxiCloud Filo Yönetimi ile Girişimcilik Eğitimleri",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8e2799a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "e7c31ae",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e7c31ae",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Entreprenör sektörü, özellikle makinelerin ve römorkların izlenmesi ve yönetilmesi söz konusu olduğunda, sık sık karmaşık lojistik zorluklarla karşı karşıya kalmaktadır. JaxiCloud Fleet Management, operasyonları optimize etmek, duruş sürelerini azaltmak ve verimliliği artırmak için özel olarak entreprenör römorklarına uyarlanabilen çözümler sunar. Gelişmiş sensör entegrasyonu sayesinde sistem, bilinçli kararlar almak için kritik öneme sahip gerçek zamanlı veriler sağlayabilir.</p><p>Entreprenör römorklarında sensör kullanımı</p><p>Yük ve ağırlık dağılımı izleme<br>Sensörler, römork üzerindeki ağırlığı ölçebilir, bu da doğru yük dağılımını ve ağırlık sınırlarına uyumu sağlamaya yardımcı olur. Böylece römork hasarı riski azalır ve taşıma güvenliği artar.</p><p>Hız ve sürüş davranışı<br>GPS takip cihazları ve ivme sensörleri, hız, sürüş tarzı ve güzergâhları izleyebilir. Tekrarlanan hız aşımı durumlarında sistem uyarılar verebilir veya ayarlamalar önerebilir; bu da güvenli sürüşü destekler ve yaptırımları önlemeye yardımcı olur.</p><p>Durum izleme<br>Sensörler, lastik hava basıncını (TPMS), titreşimleri ve diğer kritik parametreleri ölçerek bakım ihtiyaçlarını önceden tahmin edebilir. Bu sayede duruş süreleri azalır ve maliyetli onarımların önüne geçilir.</p><p>Çevresel izleme<br>Hava akış sensörleri, rölanti süresini ölçmek ve yakıt tüketimini optimize etmek için kullanılabilir. Bu, çevresel sürdürülebilirliği destekler ve JaxiCloud sisteminde raporlarla belgelenebilir.</p><p>Güvenlik ve izleme<br>Yerleştirilen araç kameraları (dashcam) veya 360 derece kameralar, kazalar veya hırsızlık durumlarında canlı görüntü akışı ve kayıt sağlayacak şekilde sisteme entegre edilebilir. Doğru alarm yönetimi sayesinde yanlış bildirimler önlenir ve entreprenör ekipmanları güvence altına alınır.</p>",
+      "bodyText": "Entreprenör sektörü, özellikle makinelerin ve römorkların izlenmesi ve yönetilmesi söz konusu olduğunda, sık sık karmaşık lojistik zorluklarla karşı karşıya kalmaktadır. JaxiCloud Fleet Management, operasyonları optimize etmek, duruş sürelerini azaltmak ve verimliliği artırmak için özel olarak entreprenör römorklarına uyarlanabilen çözümler sunar. Gelişmiş sensör entegrasyonu sayesinde sistem, bilinçli kararlar almak için kritik öneme sahip gerçek zamanlı veriler sağlayabilir.Entreprenör römorklarında sensör kullanımıYük ve ağırlık dağılımı izlemeSensörler, römork üzerindeki ağırlığı ölçebilir, bu da doğru yük dağılımını ve ağırlık sınırlarına uyumu sağlamaya yardımcı olur. Böylece römork hasarı riski azalır ve taşıma güvenliği artar.Hız ve sürüş davranışıGPS takip cihazları ve ivme sensörleri, hız, sürüş tarzı ve güzergâhları izleyebilir. Tekrarlanan hız aşımı durumlarında sistem uyarılar verebilir veya ayarlamalar önerebilir; bu da güvenli sürüşü destekler ve yaptırımları önlemeye yardımcı olur.Durum izlemeSensörler, lastik hava basıncını (TPMS), titreşimleri ve diğer kritik parametreleri ölçerek bakım ihtiyaçlarını önceden tahmin edebilir. Bu sayede duruş süreleri azalır ve maliyetli onarımların önüne geçilir.Çevresel izlemeHava akış sensörleri, rölanti süresini ölçmek ve yakıt tüketimini optimize etmek için kullanılabilir. Bu, çevresel sürdürülebilirliği destekler ve JaxiCloud sisteminde raporlarla belgelenebilir.Güvenlik ve izlemeYerleştirilen araç kameraları (dashcam) veya 360 derece kameralar, kazalar veya hırsızlık durumlarında canlı görüntü akışı ve kayıt sağlayacak şekilde sisteme entegre edilebilir. Doğru alarm yönetimi sayesinde yanlış bildirimler önlenir ve entreprenör ekipmanları güvence altına alınır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8e2799a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "0ea9524",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0ea9524",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Fordele for entreprenører",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e1e215d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "163fcfa",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-163fcfa",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Bedre stiring:</p><p>Platformdaki tüm römorkların merkezileştirilmesi.</p><p>Verimlilik: Gerçek veriler, maliyetlerin azaltılmasına ve maliyetlerin azaltılmasına yardımcı olur.</p><p>Aşırı Tutma:</p><p>Sistem, AB Krav’ı ve şube standartlarını kullanabilir.</p><p>Esneklik:</p><p>Kaybedilenler, sensör veya temel raporlama entegrasyonu gibi belirli davranışları aşabilir.</p><p>JaxiCloud Filo Yönetimi, dijitalleştirme ve girişimcilik için en iyi yönetim için benzersiz bir şekilde tasarlanmıştır. Teknoloji ve sensör entegrasyonunun birleştirilmesi, aşırı akım ve engellenmiş sürüklenme ve sabitlenme açısından çok faydalıdır ve derlenmiş olarak girişimcilere ve gelecek için konkurrensiyet sağlar.</p>",
+      "bodyText": "Bedre stiring:Platformdaki tüm römorkların merkezileştirilmesi.Verimlilik: Gerçek veriler, maliyetlerin azaltılmasına ve maliyetlerin azaltılmasına yardımcı olur.Aşırı Tutma:Sistem, AB Krav’ı ve şube standartlarını kullanabilir.Esneklik:Kaybedilenler, sensör veya temel raporlama entegrasyonu gibi belirli davranışları aşabilir.JaxiCloud Filo Yönetimi, dijitalleştirme ve girişimcilik için en iyi yönetim için benzersiz bir şekilde tasarlanmıştır. Teknoloji ve sensör entegrasyonunun birleştirilmesi, aşırı akım ve engellenmiş sürüklenme ve sabitlenme açısından çok faydalıdır ve derlenmiş olarak girişimcilere ve gelecek için konkurrensiyet sağlar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e1e215d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 8,
+    "sectionCount": 4,
+    "htmlBytes": 12026
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "id": 3522,
+  "slug": "cooling-monitoring-tur",
+  "canonicalSlug": "cooling-monitoring",
+  "locale": "tr",
+  "title": "COOLING MONITORING – TUR",
+  "link": "https://www.jaxicloud.com/tr/cooling-monitoring-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3522,
+    "da": 2081,
+    "en": 109,
+    "de": 2480,
+    "fr": 2737,
+    "nl": 2941,
+    "nb": 3135,
+    "sv": 3328
+  },
+  "excerpt": "Soğutma izleme Jaxicloud Filo Yönetimi ile sıcaklığı kontrol etmenin 3 yolu Soğutma ve Isıtmayı İzlemek için Benzersiz EBS Bluetooth Takip Cihazına Sahip Jaxicloud Filo Yönetim Çözümü Tüketim mallarının çoğu kara yoluyla taşınmaktadır. Ortaklarımız, yakıt kontrolünden sürüş davranışı ve takometre veri analizine kadar kara taşımacılığının tüm sürecine hakim oldu. Ancak bu yeterli görünmüyor; şirketler, sıcaklık koşullarının [&hellip;]",
+  "seo": {
+    "title": "Araç kiralama - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:53:28",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2bc4e04",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2bc4e04",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Soğutma izleme",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-da1126a",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "fea22ab",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fea22ab",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Filo Yönetimi ile sıcaklığı kontrol etmenin 3 yolu",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "c2172ff",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c2172ff",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Soğutma ve Isıtmayı İzlemek için Benzersiz EBS Bluetooth Takip Cihazına Sahip Jaxicloud Filo Yönetim Çözümü",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "327b94a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-327b94a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Tüketim mallarının çoğu kara yoluyla taşınmaktadır. Ortaklarımız, yakıt kontrolünden sürüş davranışı ve takometre veri analizine kadar kara taşımacılığının tüm sürecine hakim oldu. Ancak bu yeterli görünmüyor; şirketler, sıcaklık koşullarının kritik olduğu özel ürün kategorilerinin (kimyasal ürünler, ilaç, çiçekler ve çabuk bozulan gıdalar) giderek daha sık olarak frigorifik taşımacılığını gerçekleştiriyor.</p><p>Sıcaklık dalgalanmaları önemli kayıplara neden olabilir (süt ürünlerinde %15’e kadar). Geri ödeme, nakliye şirketlerine (eğer arıza tespit edilirse) veya sigorta şirketlerine (sigortayı gelecekte daha pahalı hale getirir) bağlıdır. Bazen soğutma sistemi, yakıt tasarrufu yapmak isteyen vicdansız sürücüler tarafından kapatılabilir. 60’tan fazla Jaxicloud Filo Yönetimi ortağı, devre dışı bırakılan bir buzdolabının treyler içinde 35+ °С sıcaklığa neden olabileceği sıcak ülkelerde faaliyet göstermektedir. Bu, bir saat içinde şımartıcı ürünlerle dolu bir kamyon alacağınız anlamına gelir. Maddi kayıpların yanı sıra, ürün güvenliği için çaba gösteren firmaların itibarını kaybetme ve geri kalma riskiyle karşı karşıya kalırsınız. Fabrikada takılan sıcaklık kontrolörleri, yükün durumunu baştan sona takip etmeyi mümkün kılar. Jaxicloud Filo Yönetimi ile birlikte özel buzdolabı kontrol sisteminin kullanılması, gerçek zamanlı sıcaklık kontrolü sağlar; böylece sıcaklık değişimleri, kapı açma/kapama ve soğutma ünitesi durumu hakkında farklı zamanlarda bilgilendirilebilirsiniz. Bundan sonra, bir uydu izleme sisteminin uygulanması ve sürdürülmesinin maliyeti, taşımacılık şirketlerinin toplam filo yönetim maliyetlerinin %1’inden azına tekabül edebilir ve taşınan malların daha yüksek güvenliğine olanak tanır. Çözümü uygulamanın farklı yöntemleri vardır: sıcaklık sensörlerinin kurulumu, sıcaklık kayıt cihazlarının kullanımı ve alternatif iOFreeze çözümü.</p><p>&nbsp;</p>",
+      "bodyText": "Tüketim mallarının çoğu kara yoluyla taşınmaktadır. Ortaklarımız, yakıt kontrolünden sürüş davranışı ve takometre veri analizine kadar kara taşımacılığının tüm sürecine hakim oldu. Ancak bu yeterli görünmüyor; şirketler, sıcaklık koşullarının kritik olduğu özel ürün kategorilerinin (kimyasal ürünler, ilaç, çiçekler ve çabuk bozulan gıdalar) giderek daha sık olarak frigorifik taşımacılığını gerçekleştiriyor.Sıcaklık dalgalanmaları önemli kayıplara neden olabilir (süt ürünlerinde %15’e kadar). Geri ödeme, nakliye şirketlerine (eğer arıza tespit edilirse) veya sigorta şirketlerine (sigortayı gelecekte daha pahalı hale getirir) bağlıdır. Bazen soğutma sistemi, yakıt tasarrufu yapmak isteyen vicdansız sürücüler tarafından kapatılabilir. 60’tan fazla Jaxicloud Filo Yönetimi ortağı, devre dışı bırakılan bir buzdolabının treyler içinde 35+ °С sıcaklığa neden olabileceği sıcak ülkelerde faaliyet göstermektedir. Bu, bir saat içinde şımartıcı ürünlerle dolu bir kamyon alacağınız anlamına gelir. Maddi kayıpların yanı sıra, ürün güvenliği için çaba gösteren firmaların itibarını kaybetme ve geri kalma riskiyle karşı karşıya kalırsınız. Fabrikada takılan sıcaklık kontrolörleri, yükün durumunu baştan sona takip etmeyi mümkün kılar. Jaxicloud Filo Yönetimi ile birlikte özel buzdolabı kontrol sisteminin kullanılması, gerçek zamanlı sıcaklık kontrolü sağlar; böylece sıcaklık değişimleri, kapı açma/kapama ve soğutma ünitesi durumu hakkında farklı zamanlarda bilgilendirilebilirsiniz. Bundan sonra, bir uydu izleme sisteminin uygulanması ve sürdürülmesinin maliyeti, taşımacılık şirketlerinin toplam filo yönetim maliyetlerinin %1’inden azına tekabül edebilir ve taşınan malların daha yüksek güvenliğine olanak tanır. Çözümü uygulamanın farklı yöntemleri vardır: sıcaklık sensörlerinin kurulumu, sıcaklık kayıt cihazlarının kullanımı ve alternatif iOFreeze çözümü.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "bd04e3a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd04e3a",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ek sensörler",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-25ed55e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "f6667dd",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f6667dd",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Soğutma ünitelerini kontrol etmek için sıcaklık ve nem verilerini toplayan sıcaklık sensörlerinin (kaydedicilerin) kurulması artık yaygın bir uygulamadır. Sıcaklık ihlallerinin nedenini belirlemeyi ve hırsızlığı önlemeyi mümkün kılan kapı açma sensörlerini kullanan AB merkezli şirket. Sensör değerlerinde ve olay konumlarında yapılan değişiklikler raporlarda görüntülenirken, uyarılar anında gönderilir. Sensör değerleri logger hafızasında saklanır ve özel ekranlara yansıtılır. Verilerin bir izleme sisteminde kullanılabilir hale getirilmesi için bellek modülünün bir bilgisayara bağlanması gerekir. Kapı açılması ile sıcaklık değişimleri arasındaki ilişkiyi tanımlamak için tüm parametrelerin tek bir zaman diliminde görüntülenmesi gerektiğinden, tüm sistemlerin büyük miktarda verinin analizini gerçekleştiremeyeceği unutulmamalıdır. Yaklaşımın ana dezavantajı kurulumun karmaşıklığıdır (römork ve kamyon boyunca uzun kabloların döşenmesi). Ayrıca her sensör bir noktada yalnızca bir parametreyi kaydeder. Tam bir resim oluşturmak için çok sayıda sensör gereklidir, bu da kurulum sürecini hem zaman alıcı hem de pahalı hale getirir. Dezavantajları önlemek için, sıcaklık izlemeyi daha erişilebilir hale getiren kablosuz sensörler uygulandı.</p>",
+      "bodyText": "Soğutma ünitelerini kontrol etmek için sıcaklık ve nem verilerini toplayan sıcaklık sensörlerinin (kaydedicilerin) kurulması artık yaygın bir uygulamadır. Sıcaklık ihlallerinin nedenini belirlemeyi ve hırsızlığı önlemeyi mümkün kılan kapı açma sensörlerini kullanan AB merkezli şirket. Sensör değerlerinde ve olay konumlarında yapılan değişiklikler raporlarda görüntülenirken, uyarılar anında gönderilir. Sensör değerleri logger hafızasında saklanır ve özel ekranlara yansıtılır. Verilerin bir izleme sisteminde kullanılabilir hale getirilmesi için bellek modülünün bir bilgisayara bağlanması gerekir. Kapı açılması ile sıcaklık değişimleri arasındaki ilişkiyi tanımlamak için tüm parametrelerin tek bir zaman diliminde görüntülenmesi gerektiğinden, tüm sistemlerin büyük miktarda verinin analizini gerçekleştiremeyeceği unutulmamalıdır. Yaklaşımın ana dezavantajı kurulumun karmaşıklığıdır (römork ve kamyon boyunca uzun kabloların döşenmesi). Ayrıca her sensör bir noktada yalnızca bir parametreyi kaydeder. Tam bir resim oluşturmak için çok sayıda sensör gereklidir, bu da kurulum sürecini hem zaman alıcı hem de pahalı hale getirir. Dezavantajları önlemek için, sıcaklık izlemeyi daha erişilebilir hale getiren kablosuz sensörler uygulandı.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-25ed55e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "a6d0585",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a6d0585",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "SOĞUTULMUŞ ÜRÜNLER HAKKINDA DAHA FAZLA BİLGİ EDİNİN",
+          "href": "/tr/registration-of-truck-door-opening-tur/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-05a7a1f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "66206ca",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66206ca",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Soğutma ünitesi alıcıları",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9be8780",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9be8780",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Bazı soğutmalı kamyonetlere kayıt cihazları (yeniden çevirmenler) eklenmiştir. Cihazlar, sıcaklık ve kapı açma sensörlerinden soğutma ünitesi verilerini topluyor ve kritik değişiklikleri tespit etmek ve tahmin etmek amacıyla verileri bir izleme sistemine iletmek için otomotiv kontrol cihazlarını kullanıyor. Kayıt cihazları önceden kurulabilir veya daha sonra satın alınabilir; Euroscan, DataCold ve i-Box en köklü olanlardır. Wialon sistemi, bir koordinatöre yolculuk boyunca çevresel değişiklikler hakkında kapsamlı bilgi sağlar.</p><p>Dış sıcaklık;</p><p>Belirtilen yük sıcaklığı (gerçek ve gerekli);</p><p>Çalışma modu (sürekli, otomatik, buz çözme);</p><p>Motor saatleri ve motor saatleri;</p><p>Yakın zamanda Jaxicloud Filo Yönetimi, Carrier soğutma üniteleri ve DataCold kayıt cihazlarının verimli bir kombinasyonunu sundu. Böylece kullanıcılar şu verileri elde eder: sıcaklık (herhangi bir zaman dilimine ait tablolar ve grafikler, çevrimiçi/SMS/e-posta mesajları, cihaz ipuçları);</p>",
+      "bodyText": "Bazı soğutmalı kamyonetlere kayıt cihazları (yeniden çevirmenler) eklenmiştir. Cihazlar, sıcaklık ve kapı açma sensörlerinden soğutma ünitesi verilerini topluyor ve kritik değişiklikleri tespit etmek ve tahmin etmek amacıyla verileri bir izleme sistemine iletmek için otomotiv kontrol cihazlarını kullanıyor. Kayıt cihazları önceden kurulabilir veya daha sonra satın alınabilir; Euroscan, DataCold ve i-Box en köklü olanlardır. Wialon sistemi, bir koordinatöre yolculuk boyunca çevresel değişiklikler hakkında kapsamlı bilgi sağlar.Dış sıcaklık;Belirtilen yük sıcaklığı (gerçek ve gerekli);Çalışma modu (sürekli, otomatik, buz çözme);Motor saatleri ve motor saatleri;Yakın zamanda Jaxicloud Filo Yönetimi, Carrier soğutma üniteleri ve DataCold kayıt cihazlarının verimli bir kombinasyonunu sundu. Böylece kullanıcılar şu verileri elde eder: sıcaklık (herhangi bir zaman dilimine ait tablolar ve grafikler, çevrimiçi/SMS/e-posta mesajları, cihaz ipuçları);",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c4e13b0",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c4e13b0",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0f31a90d570b4a38892d3b097095db7emv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 293
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "3845576",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3845576",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_fe3809fc491e41b3a37a2e6a615e8b67mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 791,
+          "height": 172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "8df800d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8df800d",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f65454bbd59f4ae3b248335e90ea827bmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 251
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "ff0c3dc",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ff0c3dc",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Çözümün temel avantajı, belirli verilerin yalnızca ayrı sensörlerle elde edilememesi nedeniyle elde edilen verilerin eksiksiz olmasıdır . İkincisi, zaman alıcı sensör kurulumu gerektirmez. Ancak çözüm oldukça pahalıdır ve tüm GPS izleyici türleri desteklenmez. Örneğin, JaxiCloud Filo Yönetimi cihazları, i-Box, DataCold, Euroscan kayıt cihazlarından (Thermo King, Carrier, Mitsubishi, Lumikko buzdolapları için) verileri okur; Jaxicloud Filo Yönetimi, i-Box ve Euroscan ile çalışır (ThermoKing, Optitemp ve Carrier buzdolapları için) ). Yani asıl dikkat edilmesi gereken şey ekipman seçimidir.</p>",
+      "bodyText": "Çözümün temel avantajı, belirli verilerin yalnızca ayrı sensörlerle elde edilememesi nedeniyle elde edilen verilerin eksiksiz olmasıdır . İkincisi, zaman alıcı sensör kurulumu gerektirmez. Ancak çözüm oldukça pahalıdır ve tüm GPS izleyici türleri desteklenmez. Örneğin, JaxiCloud Filo Yönetimi cihazları, i-Box, DataCold, Euroscan kayıt cihazlarından (Thermo King, Carrier, Mitsubishi, Lumikko buzdolapları için) verileri okur; Jaxicloud Filo Yönetimi, i-Box ve Euroscan ile çalışır (ThermoKing, Optitemp ve Carrier buzdolapları için) ). Yani asıl dikkat edilmesi gereken şey ekipman seçimidir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "3ee8ffd",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3ee8ffd",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "iQFreeze çözümü",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "a00f380",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a00f380",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Yakın zamanda Quarta Technologies, iQFreeze’i, temel bileşen olarak iQFreeze yerleşik adaptör kayıt cihazlarını içeren, soğutma ünitelerini yönetmek için yenilikçi bir çözüm olarak piyasaya sürdü. Bu bileşenin kullanılması, verilerin CAN ve RS-232 olmadan doğrudan soğutma ünitesi kontrolöründen sisteme aktarılmasını mümkün kılar. iQFreeze çözümü, Jaxicloud Filo Yönetim sistemi ile entegre olup göndericinin kargonun durumu hakkındaki bilgileri gerçek zamanlı olarak analiz etmesine olanak tanır:</p><p>Raporlar (gerçek ve gerekli sıcaklık, konum ve kapı açık kalma süresi);</p>",
+      "bodyText": "Yakın zamanda Quarta Technologies, iQFreeze’i, temel bileşen olarak iQFreeze yerleşik adaptör kayıt cihazlarını içeren, soğutma ünitelerini yönetmek için yenilikçi bir çözüm olarak piyasaya sürdü. Bu bileşenin kullanılması, verilerin CAN ve RS-232 olmadan doğrudan soğutma ünitesi kontrolöründen sisteme aktarılmasını mümkün kılar. iQFreeze çözümü, Jaxicloud Filo Yönetim sistemi ile entegre olup göndericinin kargonun durumu hakkındaki bilgileri gerçek zamanlı olarak analiz etmesine olanak tanır:Raporlar (gerçek ve gerekli sıcaklık, konum ve kapı açık kalma süresi);",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "ea57d2e",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ea57d2e",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_52ffa1f4bbd7431d853a66951ab55c45mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 785,
+          "height": 283
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "ba7173e",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ba7173e",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_951704b6fcdf4bf383afe15038089541mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 785,
+          "height": 348
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "55d64c0",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-55d64c0",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_87c666d992a0456b9ac8bd764c20f8e4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 536
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "0458f3d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0458f3d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Ayrıca iQFreeze, iQFreeze mobil uygulaması aracılığıyla sürücüleri sesli ve görsel mesajlarla uyarır . Şu anda, ThermoKing, Carrier ve Zanotti buzdolapları için iQFreeze ve Jaxicloud Filo Yönetimi kombinasyonu kullanılıyor ve kaydedicilerin/kaydedicilerin kurulumu ve bakımının daha ucuz olduğu, böylece soğutmalı nakliyeyi uygun maliyetli hale getirdiği kanıtlandı. Çoklu sıcaklık yönetimi yöntemleriyle Jaxicloud Filo Yönetim sisteminin ulaşımla ilgili tüm taraflara önemli faydalar sağlaması bekleniyor. Müşteriler her zaman kargonun eksiksiz ve zamanında teslim edileceğinden emin olurlar. Taşıyıcılar, nakliye koşullarının ihlallerini, soğutma ünitesinin yetkisiz kapatılmasını derhal ele alarak kargonun bozulma olasılığını en aza indirir. Son olarak, alıcılar yüksek kaliteli ürünlerin teslimatında hiçbir zaman kesinti yaşamazlar. İngilizce yerelleştirme çok yakında geliyor, dolayısıyla uluslararası bölgedeki ortaklarımız bu çözümden faydalanabilir! Her yaklaşımın kendine özgü avantajları ve dezavantajları vardır. Çoğu durumda seçim belirli amaçlara göre belirlenir. Sıcaklık kontrolüne olan ihtiyaç kanıtlanmıştır ve Jaxicloud Filo Yönetimi bunu kullanıma sunmaktadır.</p>",
+      "bodyText": "Ayrıca iQFreeze, iQFreeze mobil uygulaması aracılığıyla sürücüleri sesli ve görsel mesajlarla uyarır . Şu anda, ThermoKing, Carrier ve Zanotti buzdolapları için iQFreeze ve Jaxicloud Filo Yönetimi kombinasyonu kullanılıyor ve kaydedicilerin/kaydedicilerin kurulumu ve bakımının daha ucuz olduğu, böylece soğutmalı nakliyeyi uygun maliyetli hale getirdiği kanıtlandı. Çoklu sıcaklık yönetimi yöntemleriyle Jaxicloud Filo Yönetim sisteminin ulaşımla ilgili tüm taraflara önemli faydalar sağlaması bekleniyor. Müşteriler her zaman kargonun eksiksiz ve zamanında teslim edileceğinden emin olurlar. Taşıyıcılar, nakliye koşullarının ihlallerini, soğutma ünitesinin yetkisiz kapatılmasını derhal ele alarak kargonun bozulma olasılığını en aza indirir. Son olarak, alıcılar yüksek kaliteli ürünlerin teslimatında hiçbir zaman kesinti yaşamazlar. İngilizce yerelleştirme çok yakında geliyor, dolayısıyla uluslararası bölgedeki ortaklarımız bu çözümden faydalanabilir! Her yaklaşımın kendine özgü avantajları ve dezavantajları vardır. Çoğu durumda seçim belirli amaçlara göre belirlenir. Sıcaklık kontrolüne olan ihtiyaç kanıtlanmıştır ve Jaxicloud Filo Yönetimi bunu kullanıma sunmaktadır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 4,
+      "elementorId": "a9a7ee3",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9a7ee3",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "BECON'UN ULAŞIM SEÇENEKLERİNE BAKIN",
+          "href": "/tr/temperature-monitoring-work-tur/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-cb72313",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 5,
+    "htmlBytes": 24851
+  }
+}

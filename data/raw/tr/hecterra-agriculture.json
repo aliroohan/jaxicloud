@@ -1,0 +1,431 @@
+{
+  "id": 3572,
+  "slug": "hecterra-agriculture-tur",
+  "canonicalSlug": "hecterra-agriculture",
+  "locale": "tr",
+  "title": "Hecterra agriculture – TUR",
+  "link": "https://www.jaxicloud.com/tr/hecterra-agriculture-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3572,
+    "da": 2137,
+    "en": 39,
+    "de": 2532,
+    "fr": 2791,
+    "nl": 2993,
+    "nb": 3191,
+    "sv": 3382
+  },
+  "excerpt": "Hekterra tarımı Hecterra: tarımda GPS takibi için bir çözüm Bu, tarım endüstrisi için saha çalışmasının telematik verilere dayalı olarak kontrol edilmesini sağlayan basit ama etkili bir uygulamadır. Tarımsal GPS sistemi, tarım şirketlerindeki çalışanlara ve yöneticilere tarlalar, ürün rotasyonu ve tarla yönetimi hakkında şeffaf veriler sağlar. Mahsulleri kimin, ne zaman ve nasıl yetiştirdiği hakkında kesin bilgiye [&hellip;]",
+  "seo": {
+    "title": "Hekterra tarımı - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T01:46:41",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "9f71c92",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f71c92",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hekterra tarımı",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b75bf35",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "9ca3b12",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ca3b12",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra: tarımda GPS takibi için bir çözüm",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f4ae35",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f4ae35",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bu, tarım endüstrisi için saha çalışmasının telematik verilere dayalı olarak kontrol edilmesini sağlayan basit ama etkili bir uygulamadır. Tarımsal GPS sistemi, tarım şirketlerindeki çalışanlara ve yöneticilere tarlalar, ürün rotasyonu ve tarla yönetimi hakkında şeffaf veriler sağlar. Mahsulleri kimin, ne zaman ve nasıl yetiştirdiği hakkında kesin bilgiye sahip olan müşteriler, tarımsal işletme süreçlerini etkili bir şekilde planlayabilir ve geliştirebilir.</span></p>",
+      "bodyText": "Bu, tarım endüstrisi için saha çalışmasının telematik verilere dayalı olarak kontrol edilmesini sağlayan basit ama etkili bir uygulamadır. Tarımsal GPS sistemi, tarım şirketlerindeki çalışanlara ve yöneticilere tarlalar, ürün rotasyonu ve tarla yönetimi hakkında şeffaf veriler sağlar. Mahsulleri kimin, ne zaman ve nasıl yetiştirdiği hakkında kesin bilgiye sahip olan müşteriler, tarımsal işletme süreçlerini etkili bir şekilde planlayabilir ve geliştirebilir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "5a37128",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a37128",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c59794f",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c59794f",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Özel araç kontrolü",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Müşteriler, saha operasyonlarının kalitesi ve hacminin yanı sıra tarım araçlarının ve araç operatörlerinin eylemlerine ilişkin net verilere sahip oluyor.</span></p>",
+      "bodyText": "Müşteriler, saha operasyonlarının kalitesi ve hacminin yanı sıra tarım araçlarının ve araç operatörlerinin eylemlerine ilişkin net verilere sahip oluyor.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "4dce5dd",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4dce5dd",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Güvenilir veriler",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra hesaplıyor </span><span class=\"wixui-rich-text__text\">kompleksin saha tedavileri </span><span class=\"wixui-rich-text__text\">oluşturur ve ihmalleri alır, </span><span class=\"wixui-rich-text__text\">örtüşmeler ve ekilmemiş alanlar </span><span class=\"wixui-rich-text__text\">tarlalara.</span></p>",
+      "bodyText": "Hecterra hesaplıyor kompleksin saha tedavileri oluşturur ve ihmalleri alır, örtüşmeler ve ekilmemiş alanlar tarlalara.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "8828297",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8828297",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Otomatik hesaplamalar",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro uygulaması, ekilen tarla alanını, yakıt tüketimini, kilometreyi, hızı ve diğer parametreleri hesaplayarak çalışanların zamanından tasarruf etmesini sağlar.</span></p>",
+      "bodyText": "Agro uygulaması, ekilen tarla alanını, yakıt tüketimini, kilometreyi, hızı ve diğer parametreleri hesaplayarak çalışanların zamanından tasarruf etmesini sağlar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "0641184",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0641184",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "API entegrasyonu",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra’dan veri aktarın ve API’yi kullanan herhangi bir muhasebe sisteminde kullanın</span>&nbsp;.</p>",
+      "bodyText": "Hecterra’dan veri aktarın ve API’yi kullanan herhangi bir muhasebe sisteminde kullanın .",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9387f5b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9387f5b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tarımda GPS sistemi böyle çalışıyor",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "02f4bce",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-02f4bce",
+        "elementor-widget__width-initial",
+        "elementor-align-center",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Coğrafi sınırları alanlar olarak içe aktarın; Hecterra'da daha fazla kullanılmak üzere Wialon'da römorklar, sürücüler ve üniteler kurun",
+        "Mahsuller, operasyonlar ve mahsuller için katalogları tamamlayın",
+        "Tespit edilen toprak işlemelerini onaylayın veya reddedin",
+        "Saha operasyonlarına ilişkin kapsamlı raporlar oluşturun ve dışa aktarın"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 10,
+    "sectionCount": 4,
+    "htmlBytes": 16654
+  }
+}

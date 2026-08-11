@@ -1,0 +1,838 @@
+{
+  "id": 2737,
+  "slug": "cooling-monitoring-fr",
+  "canonicalSlug": "cooling-monitoring",
+  "locale": "fr",
+  "title": "Cooling monitoring FR",
+  "link": "https://www.jaxicloud.com/fr/cooling-monitoring-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2737,
+    "da": 2081,
+    "en": 109,
+    "de": 2480,
+    "nl": 2941,
+    "nb": 3135,
+    "sv": 3328,
+    "tr": 3522
+  },
+  "excerpt": "Surveillance du refroidissement 3 façons de contrôler la température avec Jaxicloud Fleet Management Solution de gestion de flotte Jaxicloud avec dispositif de suivi Bluetooth EBS unique pour la surveillance du refroidissement et du chauffage Nous avons développé une solution avancée basée sur notre dispositif de suivi Bluetooth EBS exclusif, permettant une surveillance efficace du chauffage [&hellip;]",
+  "seo": {
+    "title": "Location de voiture - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:43:36",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2bc4e04",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2bc4e04",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Surveillance du refroidissement",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-da1126a",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "fea22ab",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fea22ab",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "3 façons de contrôler la température avec Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "c2172ff",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c2172ff",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solution de gestion de flotte Jaxicloud avec dispositif de suivi Bluetooth EBS unique pour la surveillance du refroidissement et du chauffage",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "327b94a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-327b94a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Nous avons développé une solution avancée basée sur notre dispositif de suivi Bluetooth EBS exclusif, permettant une surveillance efficace du chauffage et du refroidissement. Ce dispositif est conçu pour surveiller avec précision les conditions de température en temps réel, garantissant un fonctionnement optimal et la prévention des problèmes potentiels.</p><p>Notre unité EBS utilise la technologie Bluetooth, ce qui la rend sans fil et facile à installer dans différents environnements. Elle est idéale pour la surveillance des installations frigorifiques, des systèmes de chauffage ou de toute autre application où le contrôle de la température est essentiel. Grâce à ses capacités intégrées de collecte et d’analyse des données, l’utilisateur accède à des rapports détaillés et à des alertes, permettant une réaction rapide aux anomalies.</p><p>De plus, le dispositif s’intègre facilement aux systèmes existants, garantissant une mise en œuvre sans problème et sans adaptations importantes. Notre solution est également évolutive : il est possible d’ajouter des dispositifs au système selon les besoins, offrant ainsi un contrôle total sur plusieurs sites.</p><p>En résumé, notre dispositif de suivi Bluetooth EBS constitue une solution fiable et innovante pour assurer un contrôle optimal de la température dans les applications de chauffage et de refroidissement, ce qui se traduit par une efficacité accrue et une réduction des risques d’interruptions de service.</p>",
+      "bodyText": "Nous avons développé une solution avancée basée sur notre dispositif de suivi Bluetooth EBS exclusif, permettant une surveillance efficace du chauffage et du refroidissement. Ce dispositif est conçu pour surveiller avec précision les conditions de température en temps réel, garantissant un fonctionnement optimal et la prévention des problèmes potentiels.Notre unité EBS utilise la technologie Bluetooth, ce qui la rend sans fil et facile à installer dans différents environnements. Elle est idéale pour la surveillance des installations frigorifiques, des systèmes de chauffage ou de toute autre application où le contrôle de la température est essentiel. Grâce à ses capacités intégrées de collecte et d’analyse des données, l’utilisateur accède à des rapports détaillés et à des alertes, permettant une réaction rapide aux anomalies.De plus, le dispositif s’intègre facilement aux systèmes existants, garantissant une mise en œuvre sans problème et sans adaptations importantes. Notre solution est également évolutive : il est possible d’ajouter des dispositifs au système selon les besoins, offrant ainsi un contrôle total sur plusieurs sites.En résumé, notre dispositif de suivi Bluetooth EBS constitue une solution fiable et innovante pour assurer un contrôle optimal de la température dans les applications de chauffage et de refroidissement, ce qui se traduit par une efficacité accrue et une réduction des risques d’interruptions de service.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-39c58da",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "bd04e3a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd04e3a",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Capteurs supplémentaires",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-25ed55e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "f6667dd",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f6667dd",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Il est désormais courant d’installer des capteurs de température (enregistreurs) qui collectent des données de température et d’humidité pour contrôler les groupes frigorifiques. Une entreprise européenne utilise des capteurs d’ouverture de porte permettant de déterminer la cause des écarts de température et de prévenir les vols. Les variations des valeurs des capteurs et les lieux des événements sont affichés dans des rapports, et des alertes sont envoyées immédiatement. Les valeurs des capteurs sont stockées dans la mémoire de l’enregistreur et affichées sur des écrans dédiés. Pour que les données soient disponibles dans un système de suivi, le module de mémoire doit être connecté à un ordinateur. Il convient de noter que tous les systèmes ne sont pas capables de traiter de grandes quantités de données, car pour définir la relation entre l’ouverture des portes et les variations de température, tous les paramètres doivent être affichés sur une même période. Le principal inconvénient de cette approche réside dans la complexité de l’installation (pose de longs câbles dans la remorque et le camion). De plus, chaque capteur n’enregistre qu’un seul paramètre à un seul endroit. Pour obtenir une image complète, un grand nombre de capteurs sont nécessaires, ce qui rend l’installation longue et coûteuse. Pour pallier ces inconvénients, des capteurs sans fil ont été mis en place, rendant la surveillance de la température plus accessible.</p>",
+      "bodyText": "Il est désormais courant d’installer des capteurs de température (enregistreurs) qui collectent des données de température et d’humidité pour contrôler les groupes frigorifiques. Une entreprise européenne utilise des capteurs d’ouverture de porte permettant de déterminer la cause des écarts de température et de prévenir les vols. Les variations des valeurs des capteurs et les lieux des événements sont affichés dans des rapports, et des alertes sont envoyées immédiatement. Les valeurs des capteurs sont stockées dans la mémoire de l’enregistreur et affichées sur des écrans dédiés. Pour que les données soient disponibles dans un système de suivi, le module de mémoire doit être connecté à un ordinateur. Il convient de noter que tous les systèmes ne sont pas capables de traiter de grandes quantités de données, car pour définir la relation entre l’ouverture des portes et les variations de température, tous les paramètres doivent être affichés sur une même période. Le principal inconvénient de cette approche réside dans la complexité de l’installation (pose de longs câbles dans la remorque et le camion). De plus, chaque capteur n’enregistre qu’un seul paramètre à un seul endroit. Pour obtenir une image complète, un grand nombre de capteurs sont nécessaires, ce qui rend l’installation longue et coûteuse. Pour pallier ces inconvénients, des capteurs sans fil ont été mis en place, rendant la surveillance de la température plus accessible.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-25ed55e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "a6d0585",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a6d0585",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "EN SAVOIR PLUS SUR LES PRODUITS RÉFRIGÉRÉS",
+          "href": "/fr/registration-of-truck-door-opening-fr/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-05a7a1f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "66206ca",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66206ca",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Enregistreurs d'unités de refroidissement",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9be8780",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9be8780",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Certains camions frigorifiques sont équipés d’enregistreurs (retransmetteurs). Ces dispositifs collectent des données sur les groupes frigorifiques grâce à des capteurs de température et d’ouverture de porte, et utilisent les contrôleurs du véhicule pour transmettre ces données à un système de suivi permettant de détecter et d’anticiper les variations critiques. Les enregistreurs peuvent être préinstallés ou achetés ultérieurement ; Euroscan, DataCold et i-Box sont parmi les plus répandus. Le système Wialon fournit au coordinateur des informations complètes sur les variations environnementales tout au long du trajet.</p><p>Température extérieure ;</p><p>Température de la charge spécifiée (réelle vs. requise) ;</p><p>Mode de fonctionnement (continu, automatique, dégivrage) ;</p><p>Heures moteur ; Données de diagnostic.</p><p>Récemment, Jaxicloud Fleet Management a présenté une solution combinant efficacement les groupes frigorifiques Carrier et les enregistreurs DataCold. Les utilisateurs obtiennent ainsi les données suivantes : température (tableaux et graphiques pour toute période, notifications en ligne/SMS/e-mail, infobulles sur l’appareil) ;</p>",
+      "bodyText": "Certains camions frigorifiques sont équipés d’enregistreurs (retransmetteurs). Ces dispositifs collectent des données sur les groupes frigorifiques grâce à des capteurs de température et d’ouverture de porte, et utilisent les contrôleurs du véhicule pour transmettre ces données à un système de suivi permettant de détecter et d’anticiper les variations critiques. Les enregistreurs peuvent être préinstallés ou achetés ultérieurement ; Euroscan, DataCold et i-Box sont parmi les plus répandus. Le système Wialon fournit au coordinateur des informations complètes sur les variations environnementales tout au long du trajet.Température extérieure ;Température de la charge spécifiée (réelle vs. requise) ;Mode de fonctionnement (continu, automatique, dégivrage) ;Heures moteur ; Données de diagnostic.Récemment, Jaxicloud Fleet Management a présenté une solution combinant efficacement les groupes frigorifiques Carrier et les enregistreurs DataCold. Les utilisateurs obtiennent ainsi les données suivantes : température (tableaux et graphiques pour toute période, notifications en ligne/SMS/e-mail, infobulles sur l’appareil) ;",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c4e13b0",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c4e13b0",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0f31a90d570b4a38892d3b097095db7emv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 293
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "3845576",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3845576",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_fe3809fc491e41b3a37a2e6a615e8b67mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 791,
+          "height": 172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "8df800d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8df800d",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f65454bbd59f4ae3b248335e90ea827bmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 251
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "ff0c3dc",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ff0c3dc",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le principal avantage de cette solution réside dans l’exhaustivité des données obtenues, certaines ne pouvant être acquises qu’avec des capteurs distincts. De plus, elle ne nécessite pas l’installation fastidieuse de capteurs. Cependant, cette solution est relativement onéreuse et n’est pas compatible avec tous les types de traceurs GPS. Par exemple, les appareils JaxiCloud Fleet Management lisent les données des enregistreurs i-Box, DataCold et Euroscan (pour les réfrigérateurs Thermo King, Carrier, Mitsubishi et Lumikko). JaxiCloud Fleet Management est également compatible avec les systèmes i-Box et Euroscan (pour les réfrigérateurs Thermo King, Optitemp et Carrier). Le choix du matériel est donc un élément crucial à prendre en compte.</p>",
+      "bodyText": "Le principal avantage de cette solution réside dans l’exhaustivité des données obtenues, certaines ne pouvant être acquises qu’avec des capteurs distincts. De plus, elle ne nécessite pas l’installation fastidieuse de capteurs. Cependant, cette solution est relativement onéreuse et n’est pas compatible avec tous les types de traceurs GPS. Par exemple, les appareils JaxiCloud Fleet Management lisent les données des enregistreurs i-Box, DataCold et Euroscan (pour les réfrigérateurs Thermo King, Carrier, Mitsubishi et Lumikko). JaxiCloud Fleet Management est également compatible avec les systèmes i-Box et Euroscan (pour les réfrigérateurs Thermo King, Optitemp et Carrier). Le choix du matériel est donc un élément crucial à prendre en compte.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-83baf3d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "3ee8ffd",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3ee8ffd",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solution iQFreeze",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "a00f380",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a00f380",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Quarta Technologies a récemment lancé iQFreeze, une solution innovante de contrôle des groupes frigorifiques. iQFreeze intègre des enregistreurs adaptateurs comme composant essentiel. Grâce à ce composant, les données sont transférées directement du contrôleur du groupe frigorifique vers le système, sans passer par les protocoles CAN et RS-232. La solution iQFreeze est intégrée au système de gestion de flotte Jaxicloud, permettant ainsi à l’expéditeur d’analyser en temps réel l’état de sa cargaison :</p><p>Rapports (température réelle vs température requise, localisation et durée d’ouverture des portes) ;</p>",
+      "bodyText": "Quarta Technologies a récemment lancé iQFreeze, une solution innovante de contrôle des groupes frigorifiques. iQFreeze intègre des enregistreurs adaptateurs comme composant essentiel. Grâce à ce composant, les données sont transférées directement du contrôleur du groupe frigorifique vers le système, sans passer par les protocoles CAN et RS-232. La solution iQFreeze est intégrée au système de gestion de flotte Jaxicloud, permettant ainsi à l’expéditeur d’analyser en temps réel l’état de sa cargaison :Rapports (température réelle vs température requise, localisation et durée d’ouverture des portes) ;",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "ea57d2e",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ea57d2e",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_52ffa1f4bbd7431d853a66951ab55c45mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 785,
+          "height": 283
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "ba7173e",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ba7173e",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_951704b6fcdf4bf383afe15038089541mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 785,
+          "height": 348
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "55d64c0",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-55d64c0",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_87c666d992a0456b9ac8bd764c20f8e4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 536
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "0458f3d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0458f3d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De plus, iQFreeze alerte les conducteurs par des notifications audio et visuelles via l’application mobile iQFreeze. Actuellement, l’association d’iQFreeze et de Jaxicloud Fleet Management est utilisée pour les réfrigérateurs ThermoKing, Carrier et Zanotti et s’est avérée plus économique à installer et à entretenir, rendant ainsi le transport frigorifique plus rentable. Grâce à ses multiples options de contrôle de la température, le système Jaxicloud Fleet Management devrait apporter des avantages considérables à tous les acteurs du transport. Les clients ont l’assurance que leur marchandise sera livrée intégralement et à temps. Les transporteurs interviennent immédiatement en cas de non-respect des conditions de transport ou d’arrêt non autorisé du groupe frigorifique, minimisant ainsi les risques de détérioration. Enfin, les acheteurs ne subissent aucune interruption de livraison de produits de haute qualité. La localisation en anglais est en cours de développement ; nos partenaires internationaux pourront donc très prochainement profiter de cette solution ! Chaque approche présente ses avantages et ses inconvénients. Le choix dépend généralement des besoins spécifiques. La nécessité du contrôle de la température est avérée, et Jaxicloud Fleet Management la rend accessible à tous.</p>",
+      "bodyText": "De plus, iQFreeze alerte les conducteurs par des notifications audio et visuelles via l’application mobile iQFreeze. Actuellement, l’association d’iQFreeze et de Jaxicloud Fleet Management est utilisée pour les réfrigérateurs ThermoKing, Carrier et Zanotti et s’est avérée plus économique à installer et à entretenir, rendant ainsi le transport frigorifique plus rentable. Grâce à ses multiples options de contrôle de la température, le système Jaxicloud Fleet Management devrait apporter des avantages considérables à tous les acteurs du transport. Les clients ont l’assurance que leur marchandise sera livrée intégralement et à temps. Les transporteurs interviennent immédiatement en cas de non-respect des conditions de transport ou d’arrêt non autorisé du groupe frigorifique, minimisant ainsi les risques de détérioration. Enfin, les acheteurs ne subissent aucune interruption de livraison de produits de haute qualité. La localisation en anglais est en cours de développement ; nos partenaires internationaux pourront donc très prochainement profiter de cette solution ! Chaque approche présente ses avantages et ses inconvénients. Le choix dépend généralement des besoins spécifiques. La nécessité du contrôle de la température est avérée, et Jaxicloud Fleet Management la rend accessible à tous.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f686a33",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 4,
+      "elementorId": "a9a7ee3",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9a7ee3",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-cb72313",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 5,
+    "htmlBytes": 25398
+  }
+}

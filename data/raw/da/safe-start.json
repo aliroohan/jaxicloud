@@ -1,0 +1,903 @@
+{
+  "id": 5812,
+  "slug": "safe-start-da",
+  "canonicalSlug": "safe-start",
+  "locale": "da",
+  "title": "Safe start  – DA",
+  "link": "https://www.jaxicloud.com/safe-start-da/",
+  "pageKind": "solution",
+  "translations": {
+    "da": 5812,
+    "en": 5846,
+    "de": 5851,
+    "fr": 5861,
+    "nl": 5866,
+    "nb": 5871,
+    "sv": 5877,
+    "tr": 5882
+  },
+  "excerpt": "Safe start Digital platform til køretøjsinspektion og flådesikkerhed Safe Start er en moderne digital løsning til køretøjsinspektioner, designet til at forbedre flådesikkerhed, overholdelse af regler og operationel gennemsigtighed.Platformen består af en mobilapplikation til chauffører og en webapplikation til flådeejere og -ledere, som arbejder problemfrit sammen. Smarte køretøjsinspektioner – hvor som helst, når som helst Med [&hellip;]",
+  "seo": {
+    "title": "Safe start - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-21T22:25:42",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "0d48661",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0d48661",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Safe start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-56b5ff1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f03419f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f03419f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Digital platform til køretøjsinspektion og flådesikkerhed",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "06820c7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-06820c7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start er en moderne digital løsning til køretøjsinspektioner, designet til at forbedre flådesikkerhed, overholdelse af regler og operationel gennemsigtighed.<br data-start=\"308\" data-end=\"311\">Platformen består af en mobilapplikation til chauffører og en webapplikation til flådeejere og -ledere, som arbejder problemfrit sammen.</p>",
+      "bodyText": "Safe Start er en moderne digital løsning til køretøjsinspektioner, designet til at forbedre flådesikkerhed, overholdelse af regler og operationel gennemsigtighed.Platformen består af en mobilapplikation til chauffører og en webapplikation til flådeejere og -ledere, som arbejder problemfrit sammen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0ed1f19",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0ed1f19",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png",
+          "alt": "",
+          "width": 800,
+          "height": 930
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "041f024",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-041f024",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png",
+          "alt": "",
+          "width": 800,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "8a1e6bb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8a1e6bb",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Smarte køretøjsinspektioner – hvor som helst, når som helst",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "dc4d2d3",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc4d2d3",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Med Safe Start-mobilappen kan chauffører hurtigt og nemt udføre køretøjsinspektioner direkte fra deres smartphone eller tablet.<br data-start=\"642\" data-end=\"645\">Inspektionschecklister er fuldt konfigurerbare og kan tilpasses kundespecifikke krav, køretøjstyper eller lovgivningsmæssige standarder.</p><p>Chauffører logger blot ind, vælger et køretøj og gennemfører inspektionen ved at besvare foruddefinerede spørgsmål, tilføje kommentarer og rapportere problemer i realtid.</p>",
+      "bodyText": "Med Safe Start-mobilappen kan chauffører hurtigt og nemt udføre køretøjsinspektioner direkte fra deres smartphone eller tablet.Inspektionschecklister er fuldt konfigurerbare og kan tilpasses kundespecifikke krav, køretøjstyper eller lovgivningsmæssige standarder.Chauffører logger blot ind, vælger et køretøj og gennemfører inspektionen ved at besvare foruddefinerede spørgsmål, tilføje kommentarer og rapportere problemer i realtid.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "db0b2a3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db0b2a3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png",
+          "alt": "",
+          "width": 1066,
+          "height": 1172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "3b79b10",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b79b10",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Fuldt tilpasselige inspektionschecklister",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "a49203f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a49203f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"955\" data-end=\"1193\">Hver flåde er forskellig. Safe Start gør det muligt at tilpasse inspektionsspørgsmål og arbejdsgange pr. kunde, så inspektionerne matcher interne procedurer, lovkrav eller branchestandarder.</p><p data-start=\"1195\" data-end=\"1243\">Denne fleksibilitet gør Safe Start velegnet til:</p><p data-start=\"1247\" data-end=\"1277\">Transport- og logistikflåder</p><p data-start=\"1280\" data-end=\"1311\">Bygge- og entreprenørmaskiner</p><p data-start=\"1314\" data-end=\"1346\">Servicekøretøjer og firmabiler</p><p data-start=\"1349\" data-end=\"1387\">Trailere, lastbiler og specialudstyr</p>",
+      "bodyText": "Hver flåde er forskellig. Safe Start gør det muligt at tilpasse inspektionsspørgsmål og arbejdsgange pr. kunde, så inspektionerne matcher interne procedurer, lovkrav eller branchestandarder.Denne fleksibilitet gør Safe Start velegnet til:Transport- og logistikflåderBygge- og entreprenørmaskinerServicekøretøjer og firmabilerTrailere, lastbiler og specialudstyr",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Transport- og logistikflåder",
+        "Bygge- og entreprenørmaskiner",
+        "Servicekøretøjer og firmabiler",
+        "Trailere, lastbiler og specialudstyr"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "82e9ec3",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82e9ec3",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Centraliseret webdashboard til flådestyring",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fc4808b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fc4808b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"1389\" data-end=\"1541\">Safe Start-webapplikationen giver flådeejere og -ledere fuldt overblik over alle køretøjsinspektioner.</p><p data-start=\"1543\" data-end=\"1566\">Fra dashboardet kan du:</p><p data-start=\"1570\" data-end=\"1609\">Se gennemførte inspektioner i realtid</p><p data-start=\"1612\" data-end=\"1660\">Spore køretøjers tilstand og rapporterede fejl</p><p data-start=\"1663\" data-end=\"1721\">Analysere inspektionshistorik pr. køretøj eller chauffør</p><p data-start=\"1724\" data-end=\"1777\">Overvåge overholdelse af regler og sikkerhedsydelse</p><p>&nbsp;</p><p data-start=\"1779\" data-end=\"1861\">Alle inspektionsdata gemmes sikkert og organiseres for nem adgang og rapportering.</p>",
+      "bodyText": "Safe Start-webapplikationen giver flådeejere og -ledere fuldt overblik over alle køretøjsinspektioner.Fra dashboardet kan du:Se gennemførte inspektioner i realtidSpore køretøjers tilstand og rapporterede fejlAnalysere inspektionshistorik pr. køretøj eller chaufførOvervåge overholdelse af regler og sikkerhedsydelse Alle inspektionsdata gemmes sikkert og organiseres for nem adgang og rapportering.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Se gennemførte inspektioner i realtid",
+        "Spore køretøjers tilstand og rapporterede fejl",
+        "Analysere inspektionshistorik pr. køretøj eller chauffør",
+        "Overvåge overholdelse af regler og sikkerhedsydelse"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "a996c0d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a996c0d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1205
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "f745bed",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f745bed",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "e03978d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e03978d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png",
+          "alt": "",
+          "width": 1186,
+          "height": 1418
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "93d1efd",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-93d1efd",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Professionelle rapporter og PDF-eksport",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "a29ea15",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a29ea15",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"1863\" data-end=\"2019\">Alle køretøjsinspektionsrapporter kan eksporteres til PDF direkte fra webapplikationen.<br data-start=\"1996\" data-end=\"1999\">Det gør det nemt at:</p><p data-start=\"2023\" data-end=\"2064\">Dele rapporter med ledelse eller kunder</p><p data-start=\"2067\" data-end=\"2118\">Opbevare dokumentation til revision og compliance</p><p data-start=\"2121\" data-end=\"2179\">Opretholde en klar inspektionshistorik for hvert køretøj</p><p data-start=\"2181\" data-end=\"2251\">Rapporterne er strukturerede, letlæselige og egnede til officiel brug.</p>",
+      "bodyText": "Alle køretøjsinspektionsrapporter kan eksporteres til PDF direkte fra webapplikationen.Det gør det nemt at:Dele rapporter med ledelse eller kunderOpbevare dokumentation til revision og complianceOpretholde en klar inspektionshistorik for hvert køretøjRapporterne er strukturerede, letlæselige og egnede til officiel brug.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Dele rapporter med ledelse eller kunder",
+        "Opbevare dokumentation til revision og compliance",
+        "Opretholde en klar inspektionshistorik for hvert køretøj"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "51eca48",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eca48",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Vigtigste fordele ved Safe Start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "bd4dd95",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd4dd95",
+        "elementor-widget__width-initial",
+        "elementor-align-start",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Digitale køretøjsinspektioner via mobilapp",
+        "Konfigurerbare inspektionsspørgsmål pr. kunde",
+        "Realtidsdata tilgængelig i webdashboardet",
+        "Centraliseret historik over flådeinspektioner",
+        "PDF-eksport af alle inspektionsrapporter",
+        "Forbedret sikkerhed, compliance og gennemsigtighed"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "e8b922c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e8b922c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Bygget til moderne flåder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "66cc38a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66cc38a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"2585\" data-end=\"2840\">Safe Start erstatter papirchecklister og manuelle processer med et pålideligt digitalt workflow, der hjælper flåder med at reducere risiko, forbedre ansvarlighed og vedligeholde køretøjer på en mere sikker og effektiv måde.</p>",
+      "bodyText": "Safe Start erstatter papirchecklister og manuelle processer med et pålideligt digitalt workflow, der hjælper flåder med at reducere risiko, forbedre ansvarlighed og vedligeholde køretøjer på en mere sikker og effektiv måde.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 6,
+    "htmlBytes": 32403
+  }
+}

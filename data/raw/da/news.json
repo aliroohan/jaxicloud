@@ -1,0 +1,272 @@
+{
+  "id": 2168,
+  "slug": "news-da",
+  "canonicalSlug": "news",
+  "locale": "da",
+  "title": "News – DA",
+  "link": "https://www.jaxicloud.com/news-da/",
+  "pageKind": "marketing",
+  "translations": {
+    "da": 2168,
+    "en": 27,
+    "de": 2569,
+    "fr": 2818,
+    "nl": 3018,
+    "nb": 3218,
+    "sv": 3411,
+    "tr": 3600
+  },
+  "excerpt": "Nyheder JaxiCloud news A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking… Read More JaxiCloud Fleet Management Flytter til nye lokaler Det er med stor glæde, at vi kan meddele, at JaxiCloud Fleet Management flytter til… Read More JaxiCloud Fleet management på TV DK 4! Vi er stolte af [&hellip;]",
+  "seo": {
+    "title": "Nyheder - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T10:27:06",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "6802fb1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6802fb1",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Nyheder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-188a7cc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "d94b652",
+      "widgetType": "eael-post-grid.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d94b652",
+        "elementor-grid-eael-col-3",
+        "elementor-grid-tablet-eael-col-3",
+        "elementor-grid-mobile-eael-col-1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-post-grid"
+      ],
+      "heading": "Q2 updates",
+      "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+      "bodyText": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350.png",
+          "alt": "",
+          "width": 1600,
+          "height": 700
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/05/Article-image.png",
+          "alt": "",
+          "width": 2048,
+          "height": 1229
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/1-1.png",
+          "alt": "",
+          "width": 1776,
+          "height": 1180
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/post.png",
+          "alt": "",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f53d79378d8e4fbd83ca57e03c5699f2mv2.jpg",
+          "alt": "",
+          "width": 740,
+          "height": 531
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/gitex.jpg",
+          "alt": "",
+          "width": 740,
+          "height": 531
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_54418700f5e44541b5e1fafca3d20569mv2.jpg",
+          "alt": "",
+          "width": 514,
+          "height": 386
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/jaxinews.jpg",
+          "alt": "",
+          "width": 740,
+          "height": 531
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/129284_4fd8c5a31bce4d91bc49ae39d3ca85f4mv2.jpg",
+          "alt": "",
+          "width": 514,
+          "height": 386
+        }
+      ],
+      "videos": [],
+      "links": [
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "Q2 updates",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+        },
+        {
+          "label": "Tracking is not enough: they want to change the game in fleet management",
+          "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+        },
+        {
+          "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+          "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+        },
+        {
+          "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+          "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+        },
+        {
+          "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+        },
+        {
+          "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+        },
+        {
+          "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+        },
+        {
+          "label": "JaxiCloud news",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+        },
+        {
+          "label": "",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+        },
+        {
+          "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+        },
+        {
+          "label": "Read More",
+          "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2051fe8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 2,
+    "sectionCount": 2,
+    "htmlBytes": 19895
+  }
+}

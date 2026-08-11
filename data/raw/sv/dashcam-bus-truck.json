@@ -1,0 +1,1074 @@
+{
+  "id": 3339,
+  "slug": "dashcam-bus-truck-sv",
+  "canonicalSlug": "dashcam-bus-truck",
+  "locale": "sv",
+  "title": "DASHCAM BUS TRUCK – SV",
+  "link": "https://www.jaxicloud.com/sv/dashcam-bus-truck-sv/",
+  "pageKind": "solution",
+  "translations": {
+    "sv": 3339,
+    "da": 2092,
+    "en": 151,
+    "de": 2490,
+    "fr": 2747,
+    "nl": 2951,
+    "nb": 3145,
+    "tr": 3532
+  },
+  "excerpt": "Dashcam buss lastbil Marknadens efterfrågan & utmaning Kollektivtrafiken är en viktig sektor i alla städer, men den står inför betydande utmaningar som rån, trängsel och trafikolyckor. För att lösa dessa problem kan ett övervakningssystem tillhandahålla tillförlitliga bevis för att hjälpa bussflottor att minska driftskostnaderna och förbättra säkerheten. Dessutom finns det betydande krav på busstjänstsystemet: Säkerställande [&hellip;]",
+  "seo": {
+    "title": "Dashcam buss lastbil - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:33:26",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "4223398",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4223398",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Dashcam buss lastbil",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-440a9d9",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "db30356",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db30356",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Marknadens efterfrågan & utmaning",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "1005720",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1005720",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Kollektivtrafiken är en viktig sektor i alla städer, men den står inför betydande utmaningar som rån, trängsel och trafikolyckor. För att lösa dessa problem kan ett övervakningssystem tillhandahålla tillförlitliga bevis för att hjälpa bussflottor att minska driftskostnaderna och förbättra säkerheten.</p>",
+      "bodyText": "Kollektivtrafiken är en viktig sektor i alla städer, men den står inför betydande utmaningar som rån, trängsel och trafikolyckor. För att lösa dessa problem kan ett övervakningssystem tillhandahålla tillförlitliga bevis för att hjälpa bussflottor att minska driftskostnaderna och förbättra säkerheten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "a9f9347",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9f9347",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skrmbillede2024-09-03201202-ezgif.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 460
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "4d5b748",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4d5b748",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Dessutom finns det betydande krav på busstjänstsystemet:",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "51f32b5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51f32b5",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Säkerställande av säkerhetsrutiner",
+      "bodyHtml": "<p>Implementera strikta säkerhetsprotokoll för att skydda passagerare, inklusive korrekt fordonsunderhåll, regelbunden förarutbildning och efterlevnad av trafiklagar. Detta hjälper till att minimera olyckor och garantera passagerarnas säkerhet.</p>",
+      "bodyText": "Implementera strikta säkerhetsprotokoll för att skydda passagerare, inklusive korrekt fordonsunderhåll, regelbunden förarutbildning och efterlevnad av trafiklagar. Detta hjälper till att minimera olyckor och garantera passagerarnas säkerhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "bc2355b",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bc2355b",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Avhjälpande av oseriösa stämningar",
+      "bodyHtml": "<p>Ett tillförlitligt övervakningssystem ger rättsklara bevis, avskräcker stämningar och minskar juridiska kostnader för bussflottans operatörer. Dessa bevis hjälper till att lösa tvister och skyddar transporttjänstens rykte.</p>",
+      "bodyText": "Ett tillförlitligt övervakningssystem ger rättsklara bevis, avskräcker stämningar och minskar juridiska kostnader för bussflottans operatörer. Dessa bevis hjälper till att lösa tvister och skyddar transporttjänstens rykte.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "44707cf",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-44707cf",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tydlig ljud- och videoinspelning",
+      "bodyHtml": "<p>Installera övervakningskameror inuti bussar för att spela in tydliga ljud- och videofilmer av interaktioner mellan förare och passagerare. Detta fungerar som värdefullt bevis vid tvister eller incidenter, främjar ansvarsskyldighet och löser konflikter effektivt.</p>",
+      "bodyText": "Installera övervakningskameror inuti bussar för att spela in tydliga ljud- och videofilmer av interaktioner mellan förare och passagerare. Detta fungerar som värdefullt bevis vid tvister eller incidenter, främjar ansvarsskyldighet och löser konflikter effektivt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "b10fe41",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b10fe41",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Ruttövervakning i realtid",
+      "bodyHtml": "<p>Använd övervakningssystem i realtid för att spåra bussplatser, övervaka rutter och identifiera eventuella avvikelser eller förseningar. Detta gör det möjligt för flottaoperatörer att vidta omedelbara åtgärder, optimera rutteffektiviteten och förbättra den övergripande servicetillförlitligheten</p>",
+      "bodyText": "Använd övervakningssystem i realtid för att spåra bussplatser, övervaka rutter och identifiera eventuella avvikelser eller förseningar. Detta gör det möjligt för flottaoperatörer att vidta omedelbara åtgärder, optimera rutteffektiviteten och förbättra den övergripande servicetillförlitligheten",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "2c05ef5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2c05ef5",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Fleet Management VSS-lösning för offentliga bussar",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "49dde55",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-49dde55",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 687,
+          "height": 285
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "55ffb32",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-55ffb32",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tillsyn",
+      "bodyHtml": "<p>Mobile DVR tillhandahåller flerkanals videoövervakning för bussar.</p>",
+      "bodyText": "Mobile DVR tillhandahåller flerkanals videoövervakning för bussar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "7f34b8e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7f34b8e",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tillägg",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Reklam, push to talk osv.</p>",
+      "bodyText": "Reklam, push to talk osv.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "5234a12",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5234a12",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Fakturering",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobil dataterminal) är en slags robust android industriplatta i fordonet. Busshanteringsapp kan installeras och använda RS232 för att integrera med RFID-validator för att realisera biljetthantering;</p>",
+      "bodyText": "MDT (mobil dataterminal) är en slags robust android industriplatta i fordonet. Busshanteringsapp kan installeras och använda RS232 för att integrera med RFID-validator för att realisera biljetthantering;",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "7cd3b26",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7cd3b26",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Människor räknas",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Uppräkningarnas poster kan överföras i realtid via RS232 till MDVR eller använda 3G/4G till CMS direkt. Om det finns MDVR kan du tagga videon när någon går förbi för senare uppspelning och manuell kontroll.</p>",
+      "bodyText": "Uppräkningarnas poster kan överföras i realtid via RS232 till MDVR eller använda 3G/4G till CMS direkt. Om det finns MDVR kan du tagga videon när någon går förbi för senare uppspelning och manuell kontroll.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "817de7b",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-817de7b",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "ADAS/DMS",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Den kan upptäcka trötthetskörning, osäkert körbeteende, ADAS-övervakning. Det kommer att skicka röstvarningar och rapportera till förvaltningsplattformen samtidigt. På så sätt kan det ge förarskydd så att antalet olyckor sänks.</p>",
+      "bodyText": "Den kan upptäcka trötthetskörning, osäkert körbeteende, ADAS-övervakning. Det kommer att skicka röstvarningar och rapportera till förvaltningsplattformen samtidigt. På så sätt kan det ge förarskydd så att antalet olyckor sänks.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "7cc0989",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7cc0989",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Vad vi gör för ditt företag",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-024b566",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "9c57a88",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9c57a88",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions tillhandahåller ett omfattande paket av säkerhet, säkerhet, driftseffektivitet och kostnadsbesparande fördelar, vilket i slutändan leder till förbättrad servicekvalitet och kundnöjdhet.</p>",
+      "bodyText": "Jaxicloud Fleet Management Bus Solutions tillhandahåller ett omfattande paket av säkerhet, säkerhet, driftseffektivitet och kostnadsbesparande fördelar, vilket i slutändan leder till förbättrad servicekvalitet och kundnöjdhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-024b566",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 5,
+      "elementorId": "aa98172",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aa98172",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Förbättrad säkerhet och säkerhet",
+      "bodyHtml": "<p>Jaxicloud Fleet Management-busslösningar inkluderar avancerade övervakningssystem inklusive högupplösta kameror, GPS-spårning och realtidsövervakning. Detta säkerställer passagerarnas säkerhet, avskräcker brottslig verksamhet och ger värdefulla bevis i händelse av incidenter.</p>",
+      "bodyText": "Jaxicloud Fleet Management-busslösningar inkluderar avancerade övervakningssystem inklusive högupplösta kameror, GPS-spårning och realtidsövervakning. Detta säkerställer passagerarnas säkerhet, avskräcker brottslig verksamhet och ger värdefulla bevis i händelse av incidenter.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "479b6ae",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-479b6ae",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kostnadsminskning",
+      "bodyHtml": "<p>Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, bränsleförbrukningsövervakning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.</p><p>&nbsp;</p>",
+      "bodyText": "Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, bränsleförbrukningsövervakning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "35c5ec0",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-35c5ec0",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Rättsskydd",
+      "bodyHtml": "<p>Närvaron av ett tillförlitligt övervakningssystem från Jaxicloud Fleet Management hjälper till att skydda bussflottans operatörer från falska påståenden och oseriösa stämningar. Den rättsklara bevisningen som samlas in av systemet kan användas för att försvara sig mot skadeståndsanspråk, vilket sparar rättegångskostnader.</p><p>&nbsp;</p>",
+      "bodyText": "Närvaron av ett tillförlitligt övervakningssystem från Jaxicloud Fleet Management hjälper till att skydda bussflottans operatörer från falska påståenden och oseriösa stämningar. Den rättsklara bevisningen som samlas in av systemet kan användas för att försvara sig mot skadeståndsanspråk, vilket sparar rättegångskostnader.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 5,
+      "elementorId": "447095d",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-447095d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Dataanalys och insikt",
+      "bodyHtml": "<p>Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.</p><p>&nbsp;</p>",
+      "bodyText": "Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 5,
+      "elementorId": "1e8d63d",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e8d63d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Förbättrad passagerarupplevelse",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med realtidsövervakning, exakta tidtabeller och förbättrade säkerhetsåtgärder bidrar Howens busslösningar till en bättre passagerarupplevelse. Passagerare kan känna sig trygga, njuta av pålitlig service och dra nytta av optimerade rutter och ankomster i tid.</p>",
+      "bodyText": "Med realtidsövervakning, exakta tidtabeller och förbättrade säkerhetsåtgärder bidrar Howens busslösningar till en bättre passagerarupplevelse. Passagerare kan känna sig trygga, njuta av pålitlig service och dra nytta av optimerade rutter och ankomster i tid.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 5,
+      "elementorId": "5783a69",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5783a69",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Dataanalys och insikt",
+      "bodyHtml": "<p>Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.</p><p>&nbsp;</p>",
+      "bodyText": "Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 6,
+      "elementorId": "ab2c737",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ab2c737",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Nyckelkunder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 6,
+      "elementorId": "5344e69",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5344e69",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Jaxicloud Fleet Management busslösning har fått förtroende hos ett brett spektrum av nyckelkunder inom transportbranschen. Våra avancerade övervakningssystem och innovativa teknologier har hjälpt till att förbättra säkerheten, optimera driften och förbättra den övergripande passagerarupplevelsen. Vi är stolta över att samarbeta med ledande bussoperatörer, kollektivtrafikföretag och fleet management-företag som förlitar sig på våra lösningar för att uppnå sina mål om effektivitet, pålitlighet och kundnöjdhet</p>",
+      "bodyText": "Jaxicloud Fleet Management busslösning har fått förtroende hos ett brett spektrum av nyckelkunder inom transportbranschen. Våra avancerade övervakningssystem och innovativa teknologier har hjälpt till att förbättra säkerheten, optimera driften och förbättra den övergripande passagerarupplevelsen. Vi är stolta över att samarbeta med ledande bussoperatörer, kollektivtrafikföretag och fleet management-företag som förlitar sig på våra lösningar för att uppnå sina mål om effektivitet, pålitlighet och kundnöjdhet",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 6,
+      "elementorId": "20cd1d5",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-20cd1d5",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Se mer om lösning",
+          "href": "https://www.jaxicloud.com/en/nimbus/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 27,
+    "sectionCount": 7,
+    "htmlBytes": 39300
+  }
+}

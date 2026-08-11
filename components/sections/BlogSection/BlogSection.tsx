@@ -7,43 +7,44 @@ import { motion } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight } from "lucide-react";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./BlogSection.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const BLOG_POSTS = [
-  {
-    id: 1,
-    title: "How AI Telematics is Transforming Fleet Efficiency in 2026",
-    excerpt: "Discover how advanced artificial intelligence and predictive algorithms are optimizing routes, reducing fuel consumption, and preventing breakdowns before they happen.",
-    category: "Insights",
-    date: "Aug 12, 2026",
-    image: "/blog-ai.png",
-    link: "#"
-  },
-  {
-    id: 2,
-    title: "The Transition to Sustainable Commercial EV Fleets",
-    excerpt: "Navigate the complexities of electrifying your fleet. From smart charging infrastructure to battery health monitoring, learn the best practices for a seamless transition.",
-    category: "Sustainability",
-    date: "Aug 05, 2026",
-    image: "/blog-ev.png",
-    link: "#"
-  },
-  {
-    id: 3,
-    title: "Predictive Maintenance: The Power of Edge Computing",
-    excerpt: "Edge computing in heavy vehicles is changing the game. Learn how real-time CANbus data processing prevents critical failures and maximizes vehicle uptime.",
-    category: "Technology",
-    date: "Jul 28, 2026",
-    image: "/blog-maintenance.png",
-    link: "#"
-  }
-];
+export function BlogSection({ copy }: { copy: HomeCopy }) {
+  const BLOG_POSTS = [
+    {
+      id: 1,
+      title: copy.blogPost1Title,
+      excerpt: copy.blogPost1Excerpt,
+      category: copy.blogPost1Category,
+      date: copy.blogPost1Date,
+      image: "/blog-ai.png",
+      link: "#"
+    },
+    {
+      id: 2,
+      title: copy.blogPost2Title,
+      excerpt: copy.blogPost2Excerpt,
+      category: copy.blogPost2Category,
+      date: copy.blogPost2Date,
+      image: "/blog-ev.png",
+      link: "#"
+    },
+    {
+      id: 3,
+      title: copy.blogPost3Title,
+      excerpt: copy.blogPost3Excerpt,
+      category: copy.blogPost3Category,
+      date: copy.blogPost3Date,
+      image: "/blog-maintenance.png",
+      link: "#"
+    }
+  ];
 
-export function BlogSection() {
   const sectionRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
@@ -117,14 +118,14 @@ export function BlogSection() {
         {/* Section Header */}
         <div className={styles.headerBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
-            NEWS & INSIGHTS
+            {copy.blogTag}
           </div>
           <h2 className={styles.sectionTitle}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>Latest from our</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.blogTitleLine1}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>Intelligence Hub</span>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>{copy.blogTitleLine2}</span>
             </span>
           </h2>
         </div>
@@ -171,7 +172,7 @@ export function BlogSection() {
                 <h3 className={styles.cardTitle}>{post.title}</h3>
                 <p className={styles.excerpt}>{post.excerpt}</p>
                 <div className={styles.readMore}>
-                  Read Article
+                  {copy.blogReadMore}
                   <motion.div
                     className={styles.arrow}
                     variants={{

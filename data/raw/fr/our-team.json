@@ -1,0 +1,426 @@
+{
+  "id": 2830,
+  "slug": "our-team-fr",
+  "canonicalSlug": "our-team",
+  "locale": "fr",
+  "title": "Our team – FR",
+  "link": "https://www.jaxicloud.com/fr/our-team-fr/",
+  "pageKind": "marketing",
+  "translations": {
+    "fr": 2830,
+    "da": 2183,
+    "en": 41,
+    "de": 2584,
+    "nl": 3030,
+    "nb": 3230,
+    "sv": 3423,
+    "tr": 3612
+  },
+  "excerpt": "L’équipe derrière Jaxycloud Fleet Management Ensemble, nous montrons la voie Élaboration des budgets et des stratégies financières. Suivi des performances financières et reporting de l’entreprise. Garantie de la conformité à la législation et à la réglementation en matière financière. Gestion des investissements et de la structure du capital. Identification des risques et des opportunités de [&hellip;]",
+  "seo": {
+    "title": "L'équipe derrière Jaxycloud Fleet Management - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:25:56",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "L'équipe derrière Jaxycloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Ensemble, nous montrons la voie</p>",
+      "bodyText": "Ensemble, nous montrons la voie",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Élaboration des budgets et des stratégies financières.\n\nSuivi des performances financières et reporting de l'entreprise.\n\nGarantie de la conformité à la législation et à la réglementation en matière financière.\n\nGestion des investissements et de la structure du capital.\n\nIdentification des risques et des opportunités de croissance économique.</p><p class=\"eael-team-text eael-team-text-overlay\">Élaboration des budgets et des stratégies financières.\n\nSuivi des performances financières et reporting de l'entreprise.\n\nGarantie de la conformité à la législation et à la réglementation en matière financière.\n\nGestion des investissements et de la structure du capital.\n\nIdentification des risques et des opportunités de croissance économique.</p>",
+      "bodyText": "Élaboration des budgets et des stratégies financières. Suivi des performances financières et reporting de l'entreprise. Garantie de la conformité à la législation et à la réglementation en matière financière. Gestion des investissements et de la structure du capital. Identification des risques et des opportunités de croissance économique.Élaboration des budgets et des stratégies financières. Suivi des performances financières et reporting de l'entreprise. Garantie de la conformité à la législation et à la réglementation en matière financière. Gestion des investissements et de la structure du capital. Identification des risques et des opportunités de croissance économique.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs.\n\nLe/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités.\n\n« Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »</p><p class=\"eael-team-text eael-team-text-overlay\">Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs.\n\nLe/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités.\n\n« Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »</p>",
+      "bodyText": "Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs. Le/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités. « Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs. Le/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités. « Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise.\n\nDiriger et motiver l'équipe commerciale pour garantir une performance optimale.\n\nSuivre et analyser les données et les performances des ventes.\n\nIdentifier de nouvelles opportunités de marché et développer la clientèle.\n\nEntretenir des relations solides avec les clients et les partenaires clés.</p><p class=\"eael-team-text eael-team-text-overlay\">Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise.\n\nDiriger et motiver l'équipe commerciale pour garantir une performance optimale.\n\nSuivre et analyser les données et les performances des ventes.\n\nIdentifier de nouvelles opportunités de marché et développer la clientèle.\n\nEntretenir des relations solides avec les clients et les partenaires clés.</p>",
+      "bodyText": "Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise. Diriger et motiver l'équipe commerciale pour garantir une performance optimale. Suivre et analyser les données et les performances des ventes. Identifier de nouvelles opportunités de marché et développer la clientèle. Entretenir des relations solides avec les clients et les partenaires clés.Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise. Diriger et motiver l'équipe commerciale pour garantir une performance optimale. Suivre et analyser les données et les performances des ventes. Identifier de nouvelles opportunités de marché et développer la clientèle. Entretenir des relations solides avec les clients et les partenaires clés.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui affectent la croissance et les opérations de l'entreprise.\n\nApporter des capitaux et des connaissances pour assurer le succès de l'entreprise.\n\nPartager les risques et les bénéfices liés à la performance financière de l'entreprise.\n\nEn tant que membre du conseil d'administration :\n\nVeiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires.\n\nSuivre la gestion et la performance financière de l'entreprise.\n\nContribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise.\n\nS'assurer que l'entreprise respecte les lois et réglementations en vigueur.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui affectent la croissance et les opérations de l'entreprise.\n\nApporter des capitaux et des connaissances pour assurer le succès de l'entreprise.\n\nPartager les risques et les bénéfices liés à la performance financière de l'entreprise.\n\nEn tant que membre du conseil d'administration :\n\nVeiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires.\n\nSuivre la gestion et la performance financière de l'entreprise.\n\nContribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise.\n\nS'assurer que l'entreprise respecte les lois et réglementations en vigueur.</p>",
+      "bodyText": "Participer aux décisions qui affectent la croissance et les opérations de l'entreprise. Apporter des capitaux et des connaissances pour assurer le succès de l'entreprise. Partager les risques et les bénéfices liés à la performance financière de l'entreprise. En tant que membre du conseil d'administration : Veiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires. Suivre la gestion et la performance financière de l'entreprise. Contribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise. S'assurer que l'entreprise respecte les lois et réglementations en vigueur.Participer aux décisions qui affectent la croissance et les opérations de l'entreprise. Apporter des capitaux et des connaissances pour assurer le succès de l'entreprise. Partager les risques et les bénéfices liés à la performance financière de l'entreprise. En tant que membre du conseil d'administration : Veiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires. Suivre la gestion et la performance financière de l'entreprise. Contribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise. S'assurer que l'entreprise respecte les lois et réglementations en vigueur.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui influencent le développement et les opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir la croissance.\n\nPartager les risques et les bénéfices liés à la performance de l'entreprise.\n\nEn tant que conseiller :\n\nFournir des conseils stratégiques et opérationnels à la direction.\n\nApporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing.\n\nContribuer à la prise de décision et à la planification à long terme en collaboration avec la direction.\n\nProposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui influencent le développement et les opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir la croissance.\n\nPartager les risques et les bénéfices liés à la performance de l'entreprise.\n\nEn tant que conseiller :\n\nFournir des conseils stratégiques et opérationnels à la direction.\n\nApporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing.\n\nContribuer à la prise de décision et à la planification à long terme en collaboration avec la direction.\n\nProposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.</p>",
+      "bodyText": "Participer aux décisions qui influencent le développement et les opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir la croissance. Partager les risques et les bénéfices liés à la performance de l'entreprise. En tant que conseiller : Fournir des conseils stratégiques et opérationnels à la direction. Apporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing. Contribuer à la prise de décision et à la planification à long terme en collaboration avec la direction. Proposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.Participer aux décisions qui influencent le développement et les opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir la croissance. Partager les risques et les bénéfices liés à la performance de l'entreprise. En tant que conseiller : Fournir des conseils stratégiques et opérationnels à la direction. Apporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing. Contribuer à la prise de décision et à la planification à long terme en collaboration avec la direction. Proposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions relatives à la croissance et aux opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir le développement de l'entreprise.\n\nPartager les risques et les bénéfices liés au succès de l'entreprise.\n\nEn tant que président du conseil d'administration :\n\nAnimer les réunions du conseil et veiller à l'efficacité des discussions et des décisions.\n\nÊtre un partenaire stratégique pour la direction et les actionnaires.\n\nS'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise.\n\nSuperviser la direction de l'entreprise et garantir le respect des lois et réglementations.\n\nReprésenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions relatives à la croissance et aux opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir le développement de l'entreprise.\n\nPartager les risques et les bénéfices liés au succès de l'entreprise.\n\nEn tant que président du conseil d'administration :\n\nAnimer les réunions du conseil et veiller à l'efficacité des discussions et des décisions.\n\nÊtre un partenaire stratégique pour la direction et les actionnaires.\n\nS'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise.\n\nSuperviser la direction de l'entreprise et garantir le respect des lois et réglementations.\n\nReprésenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.</p>",
+      "bodyText": "Participer aux décisions relatives à la croissance et aux opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir le développement de l'entreprise. Partager les risques et les bénéfices liés au succès de l'entreprise. En tant que président du conseil d'administration : Animer les réunions du conseil et veiller à l'efficacité des discussions et des décisions. Être un partenaire stratégique pour la direction et les actionnaires. S'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise. Superviser la direction de l'entreprise et garantir le respect des lois et réglementations. Représenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.Participer aux décisions relatives à la croissance et aux opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir le développement de l'entreprise. Partager les risques et les bénéfices liés au succès de l'entreprise. En tant que président du conseil d'administration : Animer les réunions du conseil et veiller à l'efficacité des discussions et des décisions. Être un partenaire stratégique pour la direction et les actionnaires. S'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise. Superviser la direction de l'entreprise et garantir le respect des lois et réglementations. Représenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Contrôle opérationnel en gestion de flotte\n\nLe contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.</p><p class=\"eael-team-text eael-team-text-overlay\">Contrôle opérationnel en gestion de flotte\n\nLe contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.</p>",
+      "bodyText": "Contrôle opérationnel en gestion de flotte Le contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.Contrôle opérationnel en gestion de flotte Le contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 46198
+  }
+}

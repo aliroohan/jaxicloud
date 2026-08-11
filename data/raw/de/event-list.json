@@ -1,0 +1,154 @@
+{
+  "id": 2630,
+  "slug": "upcoming-events-de",
+  "canonicalSlug": "event-list",
+  "locale": "de",
+  "title": "Upcoming Events – DE",
+  "link": "https://www.jaxicloud.com/de/upcoming-events-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2630,
+    "da": 2230,
+    "en": 45,
+    "fr": 2878,
+    "nl": 3078,
+    "nb": 3277,
+    "sv": 3471,
+    "tr": 3657
+  },
+  "excerpt": "Kommende Veranstaltungen October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May… Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct… Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner October 20, [&hellip;]",
+  "seo": {
+    "title": "Kommende Veranstaltungen - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:05:52",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "4aecf97",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4aecf97",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Kommende Veranstaltungen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ce416ce",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "6c6ad36",
+      "widgetType": "eael-post-timeline.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6c6ad36",
+        "elementor-widget",
+        "elementor-widget-eael-post-timeline"
+      ],
+      "heading": "Q2 Opdateringer",
+      "bodyHtml": "<p>Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026...</p><p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates...</p><p>Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki...</p><p>I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management...</p>",
+      "bodyText": "Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026...What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates...Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki...I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management...",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "July 27, 2026 Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026... Q2 Opdateringer",
+          "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+        },
+        {
+          "label": "July 27, 2026 What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates... Q2 updates",
+          "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+        },
+        {
+          "label": "May 3, 2026 Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki... Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+          "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+        },
+        {
+          "label": "May 3, 2026 I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management... Spårning räcker inte: de vill förändra spelet inom fordonsflottshantering",
+          "href": "https://www.jaxicloud.com/sv/2026/05/03/sparning-racker-inte-de-vill-forandra-spelet-inom-fordonsflottshantering/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-557ed53",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "75d29964",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-75d29964",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-557ed53",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 6380
+  }
+}

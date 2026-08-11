@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./TruckAnimation.module.css";
 
 if (typeof window !== "undefined") {
@@ -13,13 +14,18 @@ if (typeof window !== "undefined") {
 
 const TOTAL_FRAMES = 240;
 
-const HOTSPOTS = [
+const HOTSPOT_GEOMETRY: {
+  id: string;
+  top: string;
+  left: string;
+  path: string;
+  labelPos: { top: string; left: string };
+  href?: string;
+}[] = [
   {
     id: "dashcam",
     top: "35%",
     left: "28%",
-    title: "AI Dashcam",
-    desc: "ADAS & DMS Vision",
     path: "M0,0 L-40,-60 L-120,-60",
     labelPos: { top: "-85px", left: "-260px" }
   },
@@ -27,8 +33,6 @@ const HOTSPOTS = [
     id: "agriculture",
     top: "60%",
     left: "48%",
-    title: "Agriculture",
-    desc: "Tractor Telemetry",
     path: "M0,0 L0,-120 L-80,-120",
     labelPos: { top: "-145px", left: "-220px" }
   },
@@ -36,8 +40,6 @@ const HOTSPOTS = [
     id: "construction",
     top: "60%",
     left: "62%",
-    title: "Construction",
-    desc: "Heavy Machinery",
     path: "M0,0 L30,-140 L100,-140",
     labelPos: { top: "-165px", left: "110px" },
     href: "/solutions/construction"
@@ -46,8 +48,6 @@ const HOTSPOTS = [
     id: "public-transport",
     top: "60%",
     left: "72%",
-    title: "Public Transport",
-    desc: "Bus APC Counters",
     path: "M0,0 L60,-90 L120,-90",
     labelPos: { top: "-115px", left: "130px" }
   },
@@ -55,14 +55,40 @@ const HOTSPOTS = [
     id: "tpms",
     top: "85%",
     left: "38%",
-    title: "TPMS & Fuel",
-    desc: "EBS Cooling Monitoring",
     path: "M0,0 L-40,60 L-100,60",
     labelPos: { top: "35px", left: "-270px" }
   },
 ];
 
-export function TruckAnimation() {
+export function TruckAnimation({ copy }: { copy: HomeCopy }) {
+  const HOTSPOTS = [
+    {
+      ...HOTSPOT_GEOMETRY[0],
+      title: copy.hotspotDashcamTitle,
+      desc: copy.hotspotDashcamDesc,
+    },
+    {
+      ...HOTSPOT_GEOMETRY[1],
+      title: copy.hotspotAgricultureTitle,
+      desc: copy.hotspotAgricultureDesc,
+    },
+    {
+      ...HOTSPOT_GEOMETRY[2],
+      title: copy.hotspotConstructionTitle,
+      desc: copy.hotspotConstructionDesc,
+    },
+    {
+      ...HOTSPOT_GEOMETRY[3],
+      title: copy.hotspotPublicTransportTitle,
+      desc: copy.hotspotPublicTransportDesc,
+    },
+    {
+      ...HOTSPOT_GEOMETRY[4],
+      title: copy.hotspotTpmsTitle,
+      desc: copy.hotspotTpmsDesc,
+    },
+  ];
+
   const stageRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imagesRef = useRef<HTMLImageElement[]>([]);
@@ -211,17 +237,17 @@ export function TruckAnimation() {
             className={styles.headingTag}
             variants={{ hidden: { opacity: 0, y: -20 }, show: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } } }}
           >
-            Hardware Solutions
+            {copy.truckTag}
           </motion.div>
           <h2 className={styles.headingTitle}>
             <span className={styles.textMask}>
               <motion.span variants={{ hidden: { y: "120%" }, show: { y: "0%", transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] } } }} className={styles.textMaskInner}>
-                Unified Fleet 
+                {copy.truckTitleLine1}
               </motion.span>
             </span>
             <span className={styles.textMask}>
               <motion.span variants={{ hidden: { y: "120%" }, show: { y: "0%", transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] } } }} className={styles.textMaskInner}>
-                <span className={styles.highlight}>Intelligence</span>
+                <span className={styles.highlight}>{copy.truckTitleLine2}</span>
               </motion.span>
             </span>
           </h2>

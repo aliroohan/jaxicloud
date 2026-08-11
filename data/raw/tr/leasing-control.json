@@ -1,0 +1,762 @@
+{
+  "id": 3583,
+  "slug": "leasing-control-tur",
+  "canonicalSlug": "leasing-control",
+  "locale": "tr",
+  "title": "Leasing control – TUR",
+  "link": "https://www.jaxicloud.com/tr/leasing-control-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3583,
+    "da": 2150,
+    "en": 35,
+    "de": 2549,
+    "fr": 2801,
+    "nl": 3003,
+    "nb": 3202,
+    "sv": 3395
+  },
+  "excerpt": "Araç kiralama GPS tracking solution for car leasing and car finance companies Araç kiralama işlemlerinde güvenilir bir yazılım: Kayıp ve Bulunan Araçları Takip Etme ve Geri Alma Araç finansmanı, araç kredileri ve araç kiralama, cazip ancak çok riskli bir pazardır. Araç hırsızlığı, gecikmiş ödemeler, temerrütler ve pahalı geri alma prosedürleri, araç bayilerini ve finans şirketlerini [&hellip;]",
+  "seo": {
+    "title": "Kiralama kontrolü - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:51:59",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Araç kiralama",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "GPS tracking solution for car leasing and car finance companies",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Araç kiralama işlemlerinde güvenilir bir yazılım: Kayıp ve Bulunan Araçları Takip Etme ve Geri Alma</p><p>Araç finansmanı, araç kredileri ve araç kiralama, cazip ancak çok riskli bir pazardır. Araç hırsızlığı, gecikmiş ödemeler, temerrütler ve pahalı geri alma prosedürleri, araç bayilerini ve finans şirketlerini büyümekten veya mevcut durumu korumaktan caydırır. Ayrıca, işe yaramayan güvenilmez GPS takip araçları da aynı şekilde engel teşkil eder.</p><p>İşte burada, araç kiralama yazılımı LeaseControl ile durumu değiştirebilirsiniz. Finanse edilen araçları korumak, bayilerin karlarını güvence altına almak ve onlara gerçek iş değeri sağlamak için telematik ve IoT özelliklerini kullanın.</p>",
+      "bodyText": "Araç kiralama işlemlerinde güvenilir bir yazılım: Kayıp ve Bulunan Araçları Takip Etme ve Geri AlmaAraç finansmanı, araç kredileri ve araç kiralama, cazip ancak çok riskli bir pazardır. Araç hırsızlığı, gecikmiş ödemeler, temerrütler ve pahalı geri alma prosedürleri, araç bayilerini ve finans şirketlerini büyümekten veya mevcut durumu korumaktan caydırır. Ayrıca, işe yaramayan güvenilmez GPS takip araçları da aynı şekilde engel teşkil eder.İşte burada, araç kiralama yazılımı LeaseControl ile durumu değiştirebilirsiniz. Finanse edilen araçları korumak, bayilerin karlarını güvence altına almak ve onlara gerçek iş değeri sağlamak için telematik ve IoT özelliklerini kullanın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "9bd7a6b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd7a6b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Neden Jaxicloud filo yönetimini seçmelisiniz?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "b3a9548",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b3a9548",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.</p>",
+      "bodyText": "Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "0fd41ab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0fd41ab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Pazar genişlemesi, yeni nişlere giriş girişimi",
+      "bodyHtml": "<p>Entegrasyon Özellikleri<br>SDK kullanarak diğer sistemlerle kolayca entegre edin</p><p>Servis sağlayıcılar için:<br>Kanıtlanmış teknoloji<br>Güvenilir JaxiCloud platformuna dayanmaktadır.</p><p>Deneyimli sağlayıcı:<br>Telematik ve IoT alanında yirmi yıllık deneyimle desteklenmektedir.</p><p>Uzman topluluğu<br>Geniş bir telematik ve IoT uzmanları topluluğuna erişim.</p><p>FİLO TAKİP ÇAĞI, KULLANICI DOSTU İLE KEYFİNİ ÇIKARIN</p>",
+      "bodyText": "Entegrasyon ÖzellikleriSDK kullanarak diğer sistemlerle kolayca entegre edinServis sağlayıcılar için:Kanıtlanmış teknolojiGüvenilir JaxiCloud platformuna dayanmaktadır.Deneyimli sağlayıcı:Telematik ve IoT alanında yirmi yıllık deneyimle desteklenmektedir.Uzman topluluğuGeniş bir telematik ve IoT uzmanları topluluğuna erişim.FİLO TAKİP ÇAĞI, KULLANICI DOSTU İLE KEYFİNİ ÇIKARIN",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "14362b3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14362b3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Age of fleet tracking enjoy it",
+      "bodyHtml": "<p>Pazar Dinamikleri:<br>Zorluklara rağmen otomobil kredisi pazarında büyüme.</p><p>JaxiCloud’un Sunduğu Çözüm:<br>Otomatik finansman için tasarlanmış bir GPS takip çözümü.</p><p>Temel Özellikler:<br>Araç konumunu takip etme ve geri yükleme araçları.</p><p>Sektör Riskleri ve Çözümleri:<br>JaxiCloud ile otomobil kredisi verenlerin karşılaştığı zorlukların ele alınması.</p><p>Risk Tespiti:<br>Potansiyel sorunları önceden tahmin etmek için coğrafi sınırlar ve bildirimlerin kullanılması.</p><p>Hızlı Yanıtlar:<br>Uzaktan motor durdurma ayarı. Veri Analizi: Ayrıntılı araç aktivite verilerine ve izlerine erişim.</p>",
+      "bodyText": "Pazar Dinamikleri:Zorluklara rağmen otomobil kredisi pazarında büyüme.JaxiCloud’un Sunduğu Çözüm:Otomatik finansman için tasarlanmış bir GPS takip çözümü.Temel Özellikler:Araç konumunu takip etme ve geri yükleme araçları.Sektör Riskleri ve Çözümleri:JaxiCloud ile otomobil kredisi verenlerin karşılaştığı zorlukların ele alınması.Risk Tespiti:Potansiyel sorunları önceden tahmin etmek için coğrafi sınırlar ve bildirimlerin kullanılması.Hızlı Yanıtlar:Uzaktan motor durdurma ayarı. Veri Analizi: Ayrıntılı araç aktivite verilerine ve izlerine erişim.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "f51d805",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f51d805",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kullanıcı dostu",
+      "bodyHtml": "<p>Uzaktan kumanda:<br>Ödeme durumuna bağlı olarak aracın motorunu uzaktan çalıştırın veya durdurun.</p><p>Özel Coğrafi Sınırlar:<br>Coğrafi sınırları yapılandırın ve ihlaller hakkında uyarılar alın.</p><p>Bağlantı izleme:<br>Bağlantı kaybı hakkında uyarılar alın.</p><p>Bildirim esnekliği:<br>Bildirim yöntemlerini seçin.</p>",
+      "bodyText": "Uzaktan kumanda:Ödeme durumuna bağlı olarak aracın motorunu uzaktan çalıştırın veya durdurun.Özel Coğrafi Sınırlar:Coğrafi sınırları yapılandırın ve ihlaller hakkında uyarılar alın.Bağlantı izleme:Bağlantı kaybı hakkında uyarılar alın.Bildirim esnekliği:Bildirim yöntemlerini seçin.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud filo yönetiminin temel işlevleri - Kiralama kontrolü",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Araçların iadesi",
+      "bodyHtml": "<p>Araçların yerini tespit edin ve motorlarını uzaktan devre dışı bırakın.</p>",
+      "bodyText": "Araçların yerini tespit edin ve motorlarını uzaktan devre dışı bırakın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stressiz iyileşme",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Krediyle satın alınan araçların çalınmasını ve yetkisiz hareketini önleyin.</p>",
+      "bodyText": "Krediyle satın alınan araçların çalınmasını ve yetkisiz hareketini önleyin.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Özel çözüm",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Araç kiralama yönetimi için özel olarak tasarlanmıştır.</p>",
+      "bodyText": "Araç kiralama yönetimi için özel olarak tasarlanmıştır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hızlı yatırım getirisi",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Otomobil bayilerinin yatırımlarını ilk günden itibaren koruyan güçlü araçlar.</p>",
+      "bodyText": "Otomobil bayilerinin yatırımlarını ilk günden itibaren koruyan güçlü araçlar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Konum ve Kurtarma için Güvenilir Araç Kiralama Yazılımı |</p><p>Araç kiralama ve otomobil finansmanının hem bir nimet hem de bir zorluk haline geldiği bir dünyada, JaxiCloud güvenlik ve güvenilirliğin simgesi olarak öne çıkıyor. Bu son teknoloji filo takip çözümü, kiralama ve otomobil finansmanı şirketleri için özel olarak tasarlanmıştır ve varlıkların her zaman erişilebilir olmasını sağlar. Gelişmiş telematik, IoT yetenekleri ve gerçek zamanlı takip özellikleriyle JaxiCloud, yalnızca finanse edilen araçları korumakla kalmaz, aynı zamanda bayilerin riski azaltmasına, karlarını artırmasına ve eşsiz değer sunmasına olanak tanır. JaxiCloud ile araç kiralama yönetiminin geleceğine adım atın.</p><p>Yüksek Riskli Sözleşmelerin Güvenliği</p><p>Zorluklar: Kullanılmış ve düşük kredi notlu otomobil kredisi piyasasında çalınan araçlar ve gecikmiş ödemeler.</p><p>Çözüm: Araçları takip etmek, konumlandırmak ve uzaktan kontrol etmek için JaxiCloud’un araçları.</p><p>Sonuç: Araç kurtarma ile ilgili risklerin azaltılması ve maliyetlerin en aza indirilmesi.</p>",
+      "bodyText": "Konum ve Kurtarma için Güvenilir Araç Kiralama Yazılımı |Araç kiralama ve otomobil finansmanının hem bir nimet hem de bir zorluk haline geldiği bir dünyada, JaxiCloud güvenlik ve güvenilirliğin simgesi olarak öne çıkıyor. Bu son teknoloji filo takip çözümü, kiralama ve otomobil finansmanı şirketleri için özel olarak tasarlanmıştır ve varlıkların her zaman erişilebilir olmasını sağlar. Gelişmiş telematik, IoT yetenekleri ve gerçek zamanlı takip özellikleriyle JaxiCloud, yalnızca finanse edilen araçları korumakla kalmaz, aynı zamanda bayilerin riski azaltmasına, karlarını artırmasına ve eşsiz değer sunmasına olanak tanır. JaxiCloud ile araç kiralama yönetiminin geleceğine adım atın.Yüksek Riskli Sözleşmelerin GüvenliğiZorluklar: Kullanılmış ve düşük kredi notlu otomobil kredisi piyasasında çalınan araçlar ve gecikmiş ödemeler.Çözüm: Araçları takip etmek, konumlandırmak ve uzaktan kontrol etmek için JaxiCloud’un araçları.Sonuç: Araç kurtarma ile ilgili risklerin azaltılması ve maliyetlerin en aza indirilmesi.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Uzaktan kumandalı harç kontrolü",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Motorları dışarıdan bloke edin veya blokajını kaldırın.</p>",
+      "bodyText": "Motorları dışarıdan bloke edin veya blokajını kaldırın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Ayrıntılı raporlar",
+      "bodyHtml": "<p>Araç faaliyetlerine ilişkin KAPSAMLI veriler.</p>",
+      "bodyText": "Araç faaliyetlerine ilişkin KAPSAMLI veriler.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "araç izleri",
+      "bodyHtml": "<p>Aracın sürüş geçmişine 90 güne kadar erişin.</p>",
+      "bodyText": "Aracın sürüş geçmişine 90 güne kadar erişin.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hızlı ödemeler",
+      "bodyHtml": "<p>Etkin kontrol araçları, araç kaybetme veya ödeme gecikmesi riskini azaltarak otomobil bayilerinin ilk günden itibaren karlı olmasını sağlar.</p>",
+      "bodyText": "Etkin kontrol araçları, araç kaybetme veya ödeme gecikmesi riskini azaltarak otomobil bayilerinin ilk günden itibaren karlı olmasını sağlar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 4,
+    "htmlBytes": 24732
+  }
+}

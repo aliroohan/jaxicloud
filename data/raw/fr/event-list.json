@@ -1,0 +1,146 @@
+{
+  "id": 2878,
+  "slug": "upcoming-events-fr",
+  "canonicalSlug": "event-list",
+  "locale": "fr",
+  "title": "Upcoming Events – FR",
+  "link": "https://www.jaxicloud.com/fr/upcoming-events-fr/",
+  "pageKind": "marketing",
+  "translations": {
+    "fr": 2878,
+    "da": 2230,
+    "en": 45,
+    "de": 2630,
+    "nl": 3078,
+    "nb": 3277,
+    "sv": 3471,
+    "tr": 3657
+  },
+  "excerpt": null,
+  "seo": {
+    "title": "Upcoming Events - FR - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-04T23:53:45",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "4aecf97",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4aecf97",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Upcomming events",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ce416ce",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "6c6ad36",
+      "widgetType": "eael-post-timeline.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6c6ad36",
+        "elementor-widget",
+        "elementor-widget-eael-post-timeline"
+      ],
+      "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+      "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+      "bodyText": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+        },
+        {
+          "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+          "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-557ed53",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "75d29964",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-75d29964",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-557ed53",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 3921
+  }
+}

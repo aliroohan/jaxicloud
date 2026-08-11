@@ -4,32 +4,53 @@ import React, { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { 
-  Layers, ShieldCheck, Truck, Cloud, Server, Briefcase, 
-  Settings, Wifi, Box, Map, Cpu, Globe 
-} from "lucide-react";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./PartnerMatrix.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const ECOSYSTEM_PARTNERS = [
-  { id: "p1", name: "Volvo Trucks", category: "OEM VEHICLE GATEWAY", integration: "Direct J1939 CANbus Telemetry Sync", icon: Truck },
-  { id: "p2", name: "Daimler Truck", category: "OEM VEHICLE GATEWAY", integration: "Native Powertrain DTC Reading", icon: Settings },
-  { id: "p3", name: "AWS IoT Core", category: "CLOUD INFRASTRUCTURE", integration: "Sub-Second Telematics Stream Relay", icon: Cloud },
-  { id: "p4", name: "SAP S/4HANA", category: "ENTERPRISE ERP", integration: "Automated Fleet Billing & Dispatch API", icon: Server },
-  { id: "p5", name: "Salesforce", category: "FIELD SERVICE CRM", integration: "Real-Time Work Order & ETA Sync", icon: Briefcase },
-  { id: "p6", name: "Geotab OS", category: "TELEMATICS ECOSYSTEM", integration: "Cross-Platform Gateway Data Sync", icon: Layers },
-  { id: "p7", name: "DHL Logistics", category: "CARRIER NETWORK", integration: "Cold-Chain Thermal Alert Relay", icon: Box },
-  { id: "p8", name: "Amazon Freight", category: "LOGISTICS NETWORK", integration: "Autonomous Geofence ETA Tracking", icon: Map },
-  { id: "p9", name: "AT&T IoT LTE", category: "CARRIER CONNECTIVITY", integration: "Multi-Carrier Global 4G/5G LTE", icon: Wifi },
-  { id: "p10", name: "Verizon Connect", category: "CARRIER CONNECTIVITY", integration: "Dual-Band Gateway Fallback", icon: Globe },
-  { id: "p11", name: "Continental", category: "HARDWARE SENSORS", integration: "Wireless BLE Tire TPMS Sensor Pods", icon: Cpu },
-  { id: "p12", name: "Samsara OS", category: "TELEMATICS ECOSYSTEM", integration: "Unified Telematics REST API Sync", icon: ShieldCheck },
-];
+export function PartnerMatrix({ copy }: { copy: HomeCopy }) {
+  const ECOSYSTEM_PARTNERS = [
+    {
+      id: "p1",
+      name: copy.partnerCarrierName,
+      logo: "/partners/logoklijent.jpg",
+      integration: copy.partnerCarrierIntegration,
+    },
+    {
+      id: "p2",
+      name: copy.partnerHerlevName,
+      logo: "/partners/logoklijent2.jpg",
+      integration: copy.partnerHerlevIntegration,
+    },
+    {
+      id: "p3",
+      name: copy.partnerKobenhavnName,
+      logo: "/partners/logoklijent3.jpg",
+      integration: copy.partnerKobenhavnIntegration,
+    },
+    {
+      id: "p4",
+      name: copy.partnerOne2moveName,
+      logo: "/partners/logoklijent4.jpg",
+      integration: copy.partnerOne2moveIntegration,
+    },
+    {
+      id: "p5",
+      name: copy.partnerGenericName,
+      logo: "/partners/logoklijent5.jpg",
+      integration: copy.partnerGenericIntegration,
+    },
+    {
+      id: "p6",
+      name: copy.partnerEsecureName,
+      logo: "/partners/logoklijent6.jpg",
+      integration: copy.partnerEsecureIntegration,
+    },
+  ];
 
-export function PartnerMatrix() {
   const sectionRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
   const subheadlineRef = useRef<HTMLParagraphElement>(null);
@@ -54,7 +75,6 @@ export function PartnerMatrix() {
       },
     });
 
-    // 1. Tag fade in
     if (tagRef.current) {
       tl.fromTo(
         tagRef.current,
@@ -63,7 +83,6 @@ export function PartnerMatrix() {
       );
     }
 
-    // 2. Apple-style Text Mask Reveal for the Heading
     const textMasks = textMasksRef.current;
     if (textMasks.length) {
       tl.fromTo(
@@ -74,7 +93,6 @@ export function PartnerMatrix() {
       );
     }
 
-    // 3. Fade in subheadline
     if (subheadlineRef.current) {
       tl.fromTo(
         subheadlineRef.current,
@@ -84,7 +102,6 @@ export function PartnerMatrix() {
       );
     }
 
-    // 4. Marquee pop-up
     if (marqueeContainerRef.current) {
       tl.fromTo(
         marqueeContainerRef.current,
@@ -101,49 +118,57 @@ export function PartnerMatrix() {
     };
   }, []);
 
+  const topLane = [...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS];
+  const bottomLane = [
+    ...ECOSYSTEM_PARTNERS.slice(3),
+    ...ECOSYSTEM_PARTNERS.slice(0, 3),
+    ...ECOSYSTEM_PARTNERS.slice(3),
+    ...ECOSYSTEM_PARTNERS.slice(0, 3),
+  ];
+
   return (
     <section ref={sectionRef} className={styles.section}>
       <div className={styles.container}>
-        {/* Section Header */}
         <div className={styles.headerBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
-            ENTERPRISE ECOSYSTEM PARTNERS
+            {copy.partnersTag}
           </div>
           <h2 className={styles.sectionTitle}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>Integrated Across Global Fleet</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>
+                {copy.partnersTitleLine1}
+              </span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.highlight}`}>Ecosystems.</span>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.highlight}`}>
+                {copy.partnersTitleLine2}
+              </span>
             </span>
           </h2>
           <p ref={subheadlineRef} className={styles.subheadline}>
-            Native out-of-the-box integration with vehicle OEMs, enterprise ERPs,
-            cloud networks, and logistics management platforms.
+            {copy.partnersSub}
           </p>
         </div>
 
-        {/* Infinite Partner Marquees - Highway Traffic! */}
         <div ref={marqueeContainerRef} className={styles.marqueeContainer}>
-          
-          {/* Top Lane: Fast Highway (Right to Left) */}
           <div className={`${styles.marqueeRow} ${styles.scrollLeftFast}`}>
-            {[...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS, ...ECOSYSTEM_PARTNERS].map((partner, idx) => (
+            {topLane.map((partner, idx) => (
               <div
                 key={`top-${idx}`}
                 onMouseEnter={() => setActivePartner(`top-${idx}`)}
                 onMouseLeave={() => setActivePartner(null)}
                 className={styles.truckCard}
               >
-                <img src="/truck.png" alt="Truck" className={styles.truckImage} />
-                
-                {/* Partner Name painted on the trailer */}
+                <img src="/truck.png" alt="" className={styles.truckImage} />
+
                 <div className={styles.truckDecal}>
-                  <partner.icon className={styles.decalIcon} size={28} />
-                  <span>{partner.name}</span>
+                  <img
+                    src={partner.logo}
+                    alt={partner.name}
+                    className={styles.partnerLogo}
+                  />
                 </div>
 
-                {/* Floating Glass Tooltip */}
                 <AnimatePresence>
                   {activePartner === `top-${idx}` && (
                     <motion.div
@@ -161,25 +186,24 @@ export function PartnerMatrix() {
             ))}
           </div>
 
-          {/* Bottom Lane: Heavy Load (Left to Right) */}
           <div className={`${styles.marqueeRow} ${styles.scrollRight}`}>
-            {/* Start from halfway through the list to randomize */}
-            {[...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6), ...ECOSYSTEM_PARTNERS.slice(6), ...ECOSYSTEM_PARTNERS.slice(0, 6)].map((partner, idx) => (
+            {bottomLane.map((partner, idx) => (
               <div
                 key={`bottom-${idx}`}
                 onMouseEnter={() => setActivePartner(`bottom-${idx}`)}
                 onMouseLeave={() => setActivePartner(null)}
                 className={styles.truckCard}
               >
-                <img src="/truck.png" alt="Truck" className={styles.truckImageRight} />
-                
-                {/* Partner Name painted on the trailer */}
+                <img src="/truck.png" alt="" className={styles.truckImageRight} />
+
                 <div className={styles.truckDecalRight}>
-                  <partner.icon className={styles.decalIcon} size={28} />
-                  <span>{partner.name}</span>
+                  <img
+                    src={partner.logo}
+                    alt={partner.name}
+                    className={styles.partnerLogo}
+                  />
                 </div>
 
-                {/* Floating Glass Tooltip */}
                 <AnimatePresence>
                   {activePartner === `bottom-${idx}` && (
                     <motion.div
@@ -196,7 +220,6 @@ export function PartnerMatrix() {
               </div>
             ))}
           </div>
-
         </div>
       </div>
     </section>

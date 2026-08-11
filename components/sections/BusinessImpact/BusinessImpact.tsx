@@ -4,13 +4,14 @@ import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./BusinessImpact.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-export function BusinessImpact() {
+export function BusinessImpact({ copy }: { copy: HomeCopy }) {
   const sectionRef = useRef<HTMLElement>(null);
   const bgImageRef = useRef<HTMLImageElement>(null);
   const contentWrapperRef = useRef<HTMLDivElement>(null);
@@ -157,7 +158,7 @@ export function BusinessImpact() {
         <img
           ref={bgImageRef}
           src="/advanced-fleet-bg.png"
-          alt="Advanced AI Fleet Management"
+          alt={copy.impactBgAlt}
           className={styles.bgImage}
         />
       </div>
@@ -166,19 +167,19 @@ export function BusinessImpact() {
         <div ref={contentWrapperRef} className={styles.contentWrapper}>
           <h2 className={styles.title}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>What we do for</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.impactTitleLine1}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>your business</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.impactTitleLine2}</span>
             </span>
           </h2>
           <p ref={addToStagger} className={styles.description}>
-            Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.
+            {copy.impactDesc}
           </p>
 
           <div ref={addToStagger}>
             <Link href="/solutions" className={styles.ctaBtn}>
-              <span className={styles.btnText}>Learn More</span>
+              <span className={styles.btnText}>{copy.impactCta}</span>
               <div className={styles.btnGlow} />
             </Link>
           </div>
@@ -214,7 +215,7 @@ export function BusinessImpact() {
             href="/solutions"
             ref={addToKeywords} 
             className={`${styles.keyword} ${styles.kw1} ${hoveredIndex === 0 ? styles.keywordHovered : ""}`} 
-            data-word="Solutions"
+            data-word={copy.impactKeyword1}
             onMouseEnter={() => setHoveredIndex(0)}
             onMouseLeave={() => setHoveredIndex(null)}
           />
@@ -222,7 +223,7 @@ export function BusinessImpact() {
             href="/solutions/security"
             ref={addToKeywords} 
             className={`${styles.keyword} ${styles.kw2} ${hoveredIndex === 1 ? styles.keywordHovered : ""}`} 
-            data-word="Security"
+            data-word={copy.impactKeyword2}
             onMouseEnter={() => setHoveredIndex(1)}
             onMouseLeave={() => setHoveredIndex(null)}
           />
@@ -230,7 +231,7 @@ export function BusinessImpact() {
             href="/solutions/efficiency"
             ref={addToKeywords} 
             className={`${styles.keyword} ${styles.kw3} ${hoveredIndex === 2 ? styles.keywordHovered : ""}`} 
-            data-word="Efficiency"
+            data-word={copy.impactKeyword3}
             onMouseEnter={() => setHoveredIndex(2)}
             onMouseLeave={() => setHoveredIndex(null)}
           />
@@ -238,7 +239,7 @@ export function BusinessImpact() {
             href="/solutions/service-quality"
             ref={addToKeywords} 
             className={`${styles.keyword} ${styles.kw4} ${hoveredIndex === 3 ? styles.keywordHovered : ""}`} 
-            data-word="Service Quality"
+            data-word={copy.impactKeyword4}
             onMouseEnter={() => setHoveredIndex(3)}
             onMouseLeave={() => setHoveredIndex(null)}
           />
@@ -246,7 +247,7 @@ export function BusinessImpact() {
             href="/solutions/satisfaction"
             ref={addToKeywords} 
             className={`${styles.keyword} ${styles.kw5} ${hoveredIndex === 4 ? styles.keywordHovered : ""}`} 
-            data-word="Satisfaction"
+            data-word={copy.impactKeyword5}
             onMouseEnter={() => setHoveredIndex(4)}
             onMouseLeave={() => setHoveredIndex(null)}
           />

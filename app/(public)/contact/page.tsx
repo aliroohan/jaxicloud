@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
 import { ContactForm } from "@/components/public/ContactForm";
+import { DEFAULT_LOCALE } from "@/lib/i18n/config";
+import { getPageCopy } from "@/lib/i18n/pageCopy";
+
+const copy = getPageCopy("contact", DEFAULT_LOCALE);
 
 export const metadata: Metadata = {
-  title: "Contact Enterprise Sales Engineering | JaxiCloud",
-  description: "Consult with a senior telematics solutions engineer. Request live demos & hardware quotes.",
+  title: copy.seoTitle,
+  description: copy.seoDescription,
 };
 
 export default function ContactPage() {
-  return <ContactForm />;
+  return <ContactForm copy={copy} />;
 }

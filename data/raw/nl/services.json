@@ -1,0 +1,879 @@
+{
+  "id": 3047,
+  "slug": "services-hl",
+  "canonicalSlug": "services",
+  "locale": "nl",
+  "title": "Services – HL",
+  "link": "https://www.jaxicloud.com/nl/services-hl/",
+  "pageKind": "marketing",
+  "translations": {
+    "nl": 3047,
+    "da": 2043,
+    "en": 17,
+    "de": 2600,
+    "fr": 2847,
+    "nb": 3247,
+    "sv": 3440,
+    "tr": 3629
+  },
+  "excerpt": "JAXICLOUD services JAXICLOUD RESCUE EUROPE – Online digitale diensten De toekomst van wagenparkbeheer:Word uw eigen 24/7 controlecentrum Taakbeheer Purpose of the concept Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp. Diensten Online [&hellip;]",
+  "seo": {
+    "title": "JAXICLOUD services - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:29:03",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "66c8a82",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66c8a82",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD services",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ec9aecf",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "c5f684f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5f684f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Online digitale diensten De toekomst van wagenparkbeheer:<br>Word uw eigen 24/7 controlecentrum</p>",
+      "bodyText": "JAXICLOUD RESCUE EUROPE – Online digitale diensten De toekomst van wagenparkbeheer:Word uw eigen 24/7 controlecentrum",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2d5ba94",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "534ac2f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-534ac2f",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Taakbeheer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "1b56085",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b56085",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Purpose of the concept",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0e11e7",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0e11e7",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11b562d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11b562d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7e9a1edc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e9a1edc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Diensten Online digitaal De toekomst van wagenparkbeheer: Word uw eigen 24/7 alarmcentrale",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "12acee8c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12acee8c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Doel van het concept",
+      "bodyHtml": "<p>Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp.</p>",
+      "bodyText": "Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "51aad7e5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51aad7e5",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Takenlijst",
+      "bodyHtml": "<p>De takenlijst toont standaard de taken voor vandaag. Om een ​​andere periode te selecteren of taken te zoeken en filteren op andere criteria, volgt u de instructies op de pagina Taakbeheer.</p>",
+      "bodyText": "De takenlijst toont standaard de taken voor vandaag. Om een ​​andere periode te selecteren of taken te zoeken en filteren op andere criteria, volgt u de instructies op de pagina Taakbeheer.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "414ff94c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-414ff94c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD biedt:",
+      "bodyHtml": "<p>Installatie van alle hardware</p><p>Instellen van Jaxicloud-taken en -alarmen Ondersteuning, training en onboarding</p>",
+      "bodyText": "Installatie van alle hardwareInstellen van Jaxicloud-taken en -alarmen Ondersteuning, training en onboarding",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "fbb4037",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbb4037",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hoe het werkt",
+      "bodyHtml": "<p>Realtime monitoring Directe data van trailers en vrachtwagens (EBS, TPMS, koelmachines, dashcams, FMS/CAN) Alarmen voor fouten, storingen, temperatuurafwijkingen of brandstofverbruik</p><p>Live GPS en status van het gehele wagenpark</p>",
+      "bodyText": "Realtime monitoring Directe data van trailers en vrachtwagens (EBS, TPMS, koelmachines, dashcams, FMS/CAN) Alarmen voor fouten, storingen, temperatuurafwijkingen of brandstofverbruikLive GPS en status van het gehele wagenpark",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ef10769",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ef10769",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "24/7 controle",
+      "bodyHtml": "<p>24/7 controle – zonder te betalen voor een extern beveiligingscentrum<br>Kortere reactietijd – eigen reactie of netwerk<br>Directe rapportage en documentatie</p><p>Lagere kosten per taak</p><p>Mogelijkheid om de hulp intern te factureren (of door te factureren)</p>",
+      "bodyText": "24/7 controle – zonder te betalen voor een extern beveiligingscentrumKortere reactietijd – eigen reactie of netwerkDirecte rapportage en documentatieLagere kosten per taakMogelijkheid om de hulp intern te factureren (of door te factureren)",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "95503a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95503a2",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD Reddingspartner",
+      "bodyHtml": "<p>Gedeeld netwerk voor outreach-partners</p><p>Rescue Plus: Jaxicloud’s eigen 24/7 netwerk</p><p>RescueSelf: Volledige selfservice met eigen voertuigen</p>",
+      "bodyText": "Gedeeld netwerk voor outreach-partnersRescue Plus: Jaxicloud’s eigen 24/7 netwerkRescueSelf: Volledige selfservice met eigen voertuigen",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "397025ba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-397025ba",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Praktische taken",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "1c52548a",
+      "widgetType": "eael-feature-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c52548a",
+        "elementor-widget",
+        "elementor-widget-eael-feature-list"
+      ],
+      "heading": "Alle benodigde informatie op één plek verzameld",
+      "bodyHtml": "<p class=\"eael-feature-list-content\">Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.</p><p class=\"eael-feature-list-content\">Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.</p><p class=\"eael-feature-list-content\">Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen.</p>",
+      "bodyText": "Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Alle benodigde informatie op één plek verzameld Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.",
+        "Verschillende interactie-opties voor taken Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.",
+        "De taakgeschiedenis is op elk moment beschikbaar Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "5e03d5b6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e03d5b6",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "alt": "",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "3fd3c73",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fd3c73",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Probeer Taken nu!",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "51eafcb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eafcb",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.</p>",
+      "bodyText": "Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "9a2fb98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9a2fb98",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Contact",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-221ead1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "1987d86",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1987d86",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-623af3b",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 8,
+    "htmlBytes": 33785
+  }
+}

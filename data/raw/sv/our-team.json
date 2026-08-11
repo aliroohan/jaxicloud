@@ -1,0 +1,426 @@
+{
+  "id": 3423,
+  "slug": "our-team-sv",
+  "canonicalSlug": "our-team",
+  "locale": "sv",
+  "title": "Our team – SV",
+  "link": "https://www.jaxicloud.com/sv/our-team-sv/",
+  "pageKind": "marketing",
+  "translations": {
+    "sv": 3423,
+    "da": 2183,
+    "en": 41,
+    "de": 2584,
+    "fr": 2830,
+    "nl": 3030,
+    "nb": 3230,
+    "tr": 3612
+  },
+  "excerpt": "Teamet bakom Jaxycloud Fleet Management tillsammans visar vi vägen Upprättande av budgetar och finansiella strategier. Övervakning av företagets finansiella resultat och rapportering. Säkerställa efterlevnad av lagstiftning och regler inom det finansiella området. Hantering av investeringar och kapitalstruktur. Identifiera risker och möjligheter för ekonomisk tillväxt. Margit Andreasen CFO Upprättande av budgetar och finansiella strategier. Övervakning av [&hellip;]",
+  "seo": {
+    "title": "Teamet bakom Jaxycloud Fleet Management - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:28:15",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Teamet bakom Jaxycloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>tillsammans visar vi vägen</p>",
+      "bodyText": "tillsammans visar vi vägen",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Upprättande av budgetar och finansiella strategier.\n\nÖvervakning av företagets finansiella resultat och rapportering.\n\nSäkerställa efterlevnad av lagstiftning och regler inom det finansiella området.\n\nHantering av investeringar och kapitalstruktur.\n\nIdentifiera risker och möjligheter för ekonomisk tillväxt.</p><p class=\"eael-team-text eael-team-text-overlay\">Upprättande av budgetar och finansiella strategier.\n\nÖvervakning av företagets finansiella resultat och rapportering.\n\nSäkerställa efterlevnad av lagstiftning och regler inom det finansiella området.\n\nHantering av investeringar och kapitalstruktur.\n\nIdentifiera risker och möjligheter för ekonomisk tillväxt.</p>",
+      "bodyText": "Upprättande av budgetar och finansiella strategier. Övervakning av företagets finansiella resultat och rapportering. Säkerställa efterlevnad av lagstiftning och regler inom det finansiella området. Hantering av investeringar och kapitalstruktur. Identifiera risker och möjligheter för ekonomisk tillväxt.Upprättande av budgetar och finansiella strategier. Övervakning av företagets finansiella resultat och rapportering. Säkerställa efterlevnad av lagstiftning och regler inom det finansiella området. Hantering av investeringar och kapitalstruktur. Identifiera risker och möjligheter för ekonomisk tillväxt.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål.\n\nVD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter.\n\n\"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål.\n\nVD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter.\n\n\"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"</p>",
+      "bodyText": "Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål. VD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter. \"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål. VD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter. \"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Utveckla och implementera försäljningsstrategier för att uppnå företagets mål.\n\nLeda och motivera säljteamet för att säkerställa hög prestanda.\n\nÖvervaka och analysera försäljningsdata och prestanda.\n\nIdentifiera nya marknadsmöjligheter och utöka kundbasen.\n\nSäkerställa starka relationer med kunder och viktiga partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Utveckla och implementera försäljningsstrategier för att uppnå företagets mål.\n\nLeda och motivera säljteamet för att säkerställa hög prestanda.\n\nÖvervaka och analysera försäljningsdata och prestanda.\n\nIdentifiera nya marknadsmöjligheter och utöka kundbasen.\n\nSäkerställa starka relationer med kunder och viktiga partners.</p>",
+      "bodyText": "Utveckla och implementera försäljningsstrategier för att uppnå företagets mål. Leda och motivera säljteamet för att säkerställa hög prestanda. Övervaka och analysera försäljningsdata och prestanda. Identifiera nya marknadsmöjligheter och utöka kundbasen. Säkerställa starka relationer med kunder och viktiga partners.Utveckla och implementera försäljningsstrategier för att uppnå företagets mål. Leda och motivera säljteamet för att säkerställa hög prestanda. Övervaka och analysera försäljningsdata och prestanda. Identifiera nya marknadsmöjligheter och utöka kundbasen. Säkerställa starka relationer med kunder och viktiga partners.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets tillväxt och verksamhet.\n\nBidra med kapital och kunskap för att säkerställa företagets framgång.\n\nDela risk och belöning för företagets finansiella resultat.\n\nSom styrelseledamot:\n\nSäkerställa att företagets strategi stöder ägarnas intressen.\n\nÖvervaka företagets ledning och finansiella resultat.\n\nBidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål.\n\nSäkerställa att företaget följer relevanta lagar och förordningar.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets tillväxt och verksamhet.\n\nBidra med kapital och kunskap för att säkerställa företagets framgång.\n\nDela risk och belöning för företagets finansiella resultat.\n\nSom styrelseledamot:\n\nSäkerställa att företagets strategi stöder ägarnas intressen.\n\nÖvervaka företagets ledning och finansiella resultat.\n\nBidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål.\n\nSäkerställa att företaget följer relevanta lagar och förordningar.</p>",
+      "bodyText": "Delta i beslut som påverkar företagets tillväxt och verksamhet. Bidra med kapital och kunskap för att säkerställa företagets framgång. Dela risk och belöning för företagets finansiella resultat. Som styrelseledamot: Säkerställa att företagets strategi stöder ägarnas intressen. Övervaka företagets ledning och finansiella resultat. Bidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål. Säkerställa att företaget följer relevanta lagar och förordningar.Delta i beslut som påverkar företagets tillväxt och verksamhet. Bidra med kapital och kunskap för att säkerställa företagets framgång. Dela risk och belöning för företagets finansiella resultat. Som styrelseledamot: Säkerställa att företagets strategi stöder ägarnas intressen. Övervaka företagets ledning och finansiella resultat. Bidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål. Säkerställa att företaget följer relevanta lagar och förordningar.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets utveckling och verksamhet.\n\nBidra med kapital och resurser för att stödja tillväxt.\n\nDela risker och fördelar med företagets resultat.\n\nSom rådgivare:\n\nGe strategisk och operativ rådgivning till ledningen.\n\nBidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring.\n\nSparra med ledningen om beslutsfattande och långsiktig planering.\n\nErbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets utveckling och verksamhet.\n\nBidra med kapital och resurser för att stödja tillväxt.\n\nDela risker och fördelar med företagets resultat.\n\nSom rådgivare:\n\nGe strategisk och operativ rådgivning till ledningen.\n\nBidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring.\n\nSparra med ledningen om beslutsfattande och långsiktig planering.\n\nErbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.</p>",
+      "bodyText": "Delta i beslut som påverkar företagets utveckling och verksamhet. Bidra med kapital och resurser för att stödja tillväxt. Dela risker och fördelar med företagets resultat. Som rådgivare: Ge strategisk och operativ rådgivning till ledningen. Bidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring. Sparra med ledningen om beslutsfattande och långsiktig planering. Erbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.Delta i beslut som påverkar företagets utveckling och verksamhet. Bidra med kapital och resurser för att stödja tillväxt. Dela risker och fördelar med företagets resultat. Som rådgivare: Ge strategisk och operativ rådgivning till ledningen. Bidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring. Sparra med ledningen om beslutsfattande och långsiktig planering. Erbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut om företagets tillväxt och verksamhet.\n\nBidra med kapital och resurser för att stödja företagets utveckling.\n\nDela risken och avkastningen från företagets framgång.\n\nSom styrelseordförande:\n\nLeda styrelsemöten och säkerställa effektiva diskussioner och beslut.\n\nVara en strategisk sparringspartner för ledningen och ägarna.\n\nSäkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier.\n\nÖvervaka företagets ledning och säkerställa efterlevnad av lagar och regler.\n\nRepresentera styrelsen gentemot andra ägare, investerare och andra intressenter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut om företagets tillväxt och verksamhet.\n\nBidra med kapital och resurser för att stödja företagets utveckling.\n\nDela risken och avkastningen från företagets framgång.\n\nSom styrelseordförande:\n\nLeda styrelsemöten och säkerställa effektiva diskussioner och beslut.\n\nVara en strategisk sparringspartner för ledningen och ägarna.\n\nSäkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier.\n\nÖvervaka företagets ledning och säkerställa efterlevnad av lagar och regler.\n\nRepresentera styrelsen gentemot andra ägare, investerare och andra intressenter.</p>",
+      "bodyText": "Delta i beslut om företagets tillväxt och verksamhet. Bidra med kapital och resurser för att stödja företagets utveckling. Dela risken och avkastningen från företagets framgång. Som styrelseordförande: Leda styrelsemöten och säkerställa effektiva diskussioner och beslut. Vara en strategisk sparringspartner för ledningen och ägarna. Säkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier. Övervaka företagets ledning och säkerställa efterlevnad av lagar och regler. Representera styrelsen gentemot andra ägare, investerare och andra intressenter.Delta i beslut om företagets tillväxt och verksamhet. Bidra med kapital och resurser för att stödja företagets utveckling. Dela risken och avkastningen från företagets framgång. Som styrelseordförande: Leda styrelsemöten och säkerställa effektiva diskussioner och beslut. Vara en strategisk sparringspartner för ledningen och ägarna. Säkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier. Övervaka företagets ledning och säkerställa efterlevnad av lagar och regler. Representera styrelsen gentemot andra ägare, investerare och andra intressenter.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Driftstyrning inom flotthantering\n\nDriftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.</p><p class=\"eael-team-text eael-team-text-overlay\">Driftstyrning inom flotthantering\n\nDriftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.</p>",
+      "bodyText": "Driftstyrning inom flotthantering Driftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.Driftstyrning inom flotthantering Driftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 44419
+  }
+}

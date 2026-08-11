@@ -4,31 +4,32 @@ import React, { useEffect, useRef } from "react";
 import { Globe2, Puzzle, Cpu } from "lucide-react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ProductHighlights.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const HIGHLIGHTS_DATA = [
-  {
-    icon: <Globe2 className={styles.cardIcon} strokeWidth={1.5} />,
-    title: "European languages",
-    description: "JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various global industries with native localization."
-  },
-  {
-    icon: <Puzzle className={styles.cardIcon} strokeWidth={1.5} />,
-    title: "Seamless integrations",
-    description: "JAXICLOUD SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications."
-  },
-  {
-    icon: <Cpu className={styles.cardIcon} strokeWidth={1.5} />,
-    title: "Hardware-agnostic",
-    description: "Integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support."
-  }
-];
+export function ProductHighlights({ copy }: { copy: HomeCopy }) {
+  const HIGHLIGHTS_DATA = [
+    {
+      icon: <Globe2 className={styles.cardIcon} strokeWidth={1.5} />,
+      title: copy.highlightLangTitle,
+      description: copy.highlightLangDesc,
+    },
+    {
+      icon: <Puzzle className={styles.cardIcon} strokeWidth={1.5} />,
+      title: copy.highlightIntegrationsTitle,
+      description: copy.highlightIntegrationsDesc,
+    },
+    {
+      icon: <Cpu className={styles.cardIcon} strokeWidth={1.5} />,
+      title: copy.highlightHardwareTitle,
+      description: copy.highlightHardwareDesc,
+    }
+  ];
 
-export function ProductHighlights() {
   const containerRef = useRef<HTMLDivElement>(null);
   const titleRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
@@ -106,16 +107,19 @@ export function ProductHighlights() {
 
         {/* Animated Title */}
         <div ref={titleRef} className={styles.titleContainer}>
-          <div className={styles.titleBadge}>PLATFORM BENEFITS</div>
+          <div className={styles.titleBadge}>{copy.highlightsBadge}</div>
           <h2 className={styles.title}>
             <span className={styles.textMask}>
               <span ref={addToTextMasks} className={styles.textMaskInner}>
-                <span className={styles.titleBold}>JAXICLOUD FLEET <span className={styles.highlight}>MANAGEMENT</span></span>
+                <span className={styles.titleBold}>
+                  {copy.highlightsTitleBrand.split(copy.highlightsTitleBrandHighlight)[0]}
+                  <span className={styles.highlight}>{copy.highlightsTitleBrandHighlight}</span>
+                </span>
               </span>
             </span>
             <span className={styles.textMask}>
               <span ref={addToTextMasks} className={styles.textMaskInner}>
-                <span className={styles.titleLight}>Product Highlights</span>
+                <span className={styles.titleLight}>{copy.highlightsTitleSub}</span>
               </span>
             </span>
           </h2>

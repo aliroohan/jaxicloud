@@ -1,0 +1,879 @@
+{
+  "id": 3629,
+  "slug": "services-tur",
+  "canonicalSlug": "services",
+  "locale": "tr",
+  "title": "Services – TUR",
+  "link": "https://www.jaxicloud.com/tr/services-tur/",
+  "pageKind": "marketing",
+  "translations": {
+    "tr": 3629,
+    "da": 2043,
+    "en": 17,
+    "de": 2600,
+    "fr": 2847,
+    "nl": 3047,
+    "nb": 3247,
+    "sv": 3440
+  },
+  "excerpt": "JAXICLOUD hizmetleri JAXICLOUD RESCUE EUROPE – Çevrimiçi Hizmetler Dijital Filo Yönetiminin Geleceği:Kendi 7/24 kontrol merkeziniz olun Görev yönetimi Kavramın amacı Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur. [&hellip;]",
+  "seo": {
+    "title": "JAXICLOUD hizmetleri - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:28:57",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "66c8a82",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66c8a82",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD hizmetleri",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ec9aecf",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "c5f684f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5f684f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Çevrimiçi Hizmetler Dijital Filo Yönetiminin Geleceği:<br>Kendi 7/24 kontrol merkeziniz olun</p>",
+      "bodyText": "JAXICLOUD RESCUE EUROPE – Çevrimiçi Hizmetler Dijital Filo Yönetiminin Geleceği:Kendi 7/24 kontrol merkeziniz olun",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2d5ba94",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "534ac2f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-534ac2f",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Görev yönetimi",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "1b56085",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b56085",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Kavramın amacı",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0e11e7",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0e11e7",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11b562d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11b562d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7e9a1edc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e9a1edc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Çevrimiçi Hizmetler Dijital Filo yönetiminin geleceği: Kendi 7/24 acil durum merkeziniz olun",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "12acee8c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12acee8c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kavramın amacı",
+      "bodyHtml": "<p>Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur.</p>",
+      "bodyText": "Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "51aad7e5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51aad7e5",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Görev listesi",
+      "bodyHtml": "<p>Görev listesi varsayılan olarak bugüne ait görevleri gösterir. Farklı bir zaman aralığı seçmek veya görevleri diğer kriterlere göre aramak ve filtrelemek için Görev Yönetimi sayfasındaki yönergeleri izleyin.</p>",
+      "bodyText": "Görev listesi varsayılan olarak bugüne ait görevleri gösterir. Farklı bir zaman aralığı seçmek veya görevleri diğer kriterlere göre aramak ve filtrelemek için Görev Yönetimi sayfasındaki yönergeleri izleyin.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "414ff94c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-414ff94c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD şunları sunar:",
+      "bodyHtml": "<p>Tüm donanımın kurulumu</p><p>Jaxicloud görevlerinin ve alarmlarının ayarlanması Destek, eğitim ve oryantasyon</p>",
+      "bodyText": "Tüm donanımın kurulumuJaxicloud görevlerinin ve alarmlarının ayarlanması Destek, eğitim ve oryantasyon",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "fbb4037",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbb4037",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Nasıl çalışır?",
+      "bodyHtml": "<p>Gerçek zamanlı izleme: Treyler ve kamyonlardan doğrudan veri (EBS, TPMS, soğutma makineleri, araç içi kameralar, FMS/CAN), hata, arıza, sıcaklık sapmaları veya yakıt tüketimi için alarm.</p><p>Tüm filonun canlı GPS ve durum bilgileri.</p>",
+      "bodyText": "Gerçek zamanlı izleme: Treyler ve kamyonlardan doğrudan veri (EBS, TPMS, soğutma makineleri, araç içi kameralar, FMS/CAN), hata, arıza, sıcaklık sapmaları veya yakıt tüketimi için alarm.Tüm filonun canlı GPS ve durum bilgileri.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ef10769",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ef10769",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "7/24 kontrol",
+      "bodyHtml": "<p>7/24 kontrol – üçüncü taraf güvenlik merkezine ödeme yapmadan<br>Daha kısa yanıt süresi – kendi tepkiniz veya ağınız<br>Doğrudan raporlama ve dokümantasyon</p><p>Görev başına daha düşük maliyetler</p><p>Yardım için dahili fatura kesme (veya yeniden fatura kesme) imkanı</p>",
+      "bodyText": "7/24 kontrol – üçüncü taraf güvenlik merkezine ödeme yapmadanDaha kısa yanıt süresi – kendi tepkiniz veya ağınızDoğrudan raporlama ve dokümantasyonGörev başına daha düşük maliyetlerYardım için dahili fatura kesme (veya yeniden fatura kesme) imkanı",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "95503a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95503a2",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD Kurtarma Ortağı",
+      "bodyHtml": "<p>Yardım ortakları için paylaşımlı ağ</p><p>Rescue Plus: Jaxicloud’un kendi 7/24 ağını kullanması</p><p>RescueSelf: Kendi araçlarıyla tam kapsamlı self servis</p>",
+      "bodyText": "Yardım ortakları için paylaşımlı ağRescue Plus: Jaxicloud’un kendi 7/24 ağını kullanmasıRescueSelf: Kendi araçlarıyla tam kapsamlı self servis",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "397025ba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-397025ba",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Pratik görevler",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "1c52548a",
+      "widgetType": "eael-feature-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c52548a",
+        "elementor-widget",
+        "elementor-widget-eael-feature-list"
+      ],
+      "heading": "Gerekli tüm bilgiler tek bir yerde toplandı.",
+      "bodyHtml": "<p class=\"eael-feature-list-content\">Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.</p><p class=\"eael-feature-list-content\">Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.</p><p class=\"eael-feature-list-content\">Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar.</p>",
+      "bodyText": "Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Gerekli tüm bilgiler tek bir yerde toplandı. Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.",
+        "Görevler için farklı etkileşim seçenekleri Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.",
+        "Görev geçmişine her zaman erişilebilir. Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "5e03d5b6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e03d5b6",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "alt": "",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "3fd3c73",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fd3c73",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Görevleri şimdi deneyin!",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "51eafcb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eafcb",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.</p>",
+      "bodyText": "Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "9a2fb98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9a2fb98",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Temas etmek",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-221ead1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "1987d86",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1987d86",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-623af3b",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 8,
+    "htmlBytes": 34164
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "id": 3125,
+  "slug": "constractor-no",
+  "canonicalSlug": "constractor",
+  "locale": "nb",
+  "title": "Constractor – NO",
+  "link": "https://www.jaxicloud.com/nb/constractor-no/",
+  "pageKind": "solution",
+  "translations": {
+    "nb": 3125,
+    "da": 2071,
+    "en": 33,
+    "de": 2470,
+    "fr": 2727,
+    "nl": 2931,
+    "sv": 3318,
+    "tr": 3512
+  },
+  "excerpt": "Entreprenør Maskin- og utstyrsløsninger Smarter kontroll over maskinene dine på byggeplassen Å administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk. Ved å integrere ledende plattformer som Wialon og maskinvareløsninger [&hellip;]",
+  "seo": {
+    "title": "Entreprenør - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-04-29T21:53:37",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "c586fdf",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c586fdf",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Entreprenør",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d70eec6",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "0aa6202",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0aa6202",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Maskin- og utstyrsløsninger</p>",
+      "bodyText": "Maskin- og utstyrsløsninger",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c71289a",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "53ddaaa",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-53ddaaa",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Smarter kontroll over maskinene dine på byggeplassen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6eca062",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "082a9f9",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-082a9f9",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"750\" data-end=\"992\">Å administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.</p><p data-start=\"994\" data-end=\"1152\">Ved å integrere ledende plattformer som Wialon og maskinvareløsninger som Xirgo-enheter leverer vi et kraftig system skreddersydd spesielt for byggeplasser.</p><p data-start=\"1154\" data-end=\"1298\">Enten maskinene dine opererer på store infrastrukturprosjekter, i urbane områder eller i avsidesliggende terreng, har du alltid full kontroll.</p>",
+      "bodyText": "Å administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.Ved å integrere ledende plattformer som Wialon og maskinvareløsninger som Xirgo-enheter leverer vi et kraftig system skreddersydd spesielt for byggeplasser.Enten maskinene dine opererer på store infrastrukturprosjekter, i urbane områder eller i avsidesliggende terreng, har du alltid full kontroll.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6eca062",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "818b9af",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-818b9af",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/6cNVzdEvCkvObi0yaIW9W-LmKofRSuERcfPXAZ9o92cOzjiOOYKsCIGqxDG17P3o06Qwm3RnH7TiCY8LqcHVquv2bB3GZG4i5e97842nuC5W6xeR6GK9gjhctojYEp1zv81IDi0REAZNoiu8LioBi79k5kStmWAue3nWv1GNeBtdv5tYCYrMqO2qkFsLixcN-1024x681.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 532
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6eca062",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "c45d557",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c45d557",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_9257e5f8f3ce47a4bbc8ce184443fe85/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "5bd00bc9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5bd00bc9",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Iot-aktivert løsning for maskin og utstyr",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "622ef37b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-622ef37b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Mange typer maskiner og utstyr som lastere, gravemaskiner, dozere, dumpere, veivalser, blandere kan brukes i et byggeprosjekt. Som eiere, ledere eller operatører av byggefirmaer kan du velge å enten kjøpe eller leie utstyr eller maskiner for dine behov. Det vil uansett være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelig innvirkning på din avkastning, produktivitet og omdømme.</p>",
+      "bodyText": "Mange typer maskiner og utstyr som lastere, gravemaskiner, dozere, dumpere, veivalser, blandere kan brukes i et byggeprosjekt. Som eiere, ledere eller operatører av byggefirmaer kan du velge å enten kjøpe eller leie utstyr eller maskiner for dine behov. Det vil uansett være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelig innvirkning på din avkastning, produktivitet og omdømme.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "feab5a5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-feab5a5",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Utstyrsløsning",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "fbc5d90",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbc5d90",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Uansett vil det være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelige konsekvenser for avkastning på investeringen, produktivitet og omdømme.</p>",
+      "bodyText": "Uansett vil det være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelige konsekvenser for avkastning på investeringen, produktivitet og omdømme.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "5522332",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5522332",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_0ecf3f503fcc4b258bda60719423083e/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "435af67",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-435af67",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/YwveSPqwsc3so0cws-Z1sJzYDLjiQWEPiduSPhLn107SZuVGq5Eg7J8gSHH6nWxtTLZIiDuiDCHx8pi_VXZ8jm86f5OnfmOHIBSxpcbBwKCyrhQzxgazm5gg8ZH08_mhuE7uyLUbQQWM9hiDj8vIRu2usT-thcJlFAOb7AHqFSoq9DuGIvGeG1KaON09uWl4-1024x755.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 590
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-653466c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "e8f7e98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e8f7e98",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Fullstendig maskinovervåking i sanntid",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-653466c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "42dc212",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42dc212",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"2117\" data-end=\"2192\">Vi tilbyr avansert sporing og overvåking av alle kritiske maskinparametere:</p><p data-start=\"2716\" data-end=\"2802\"><br>Alle data er tilgjengelige i et sentralisert dashbord som gir deg innsikt i sanntid.</p>",
+      "bodyText": "Vi tilbyr avansert sporing og overvåking av alle kritiske maskinparametere:Alle data er tilgjengelige i et sentralisert dashbord som gir deg innsikt i sanntid.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "GPS-sporing og bevegelseshistorikk – Vit nøyaktig hvor maskinene dine er og hvordan de brukes",
+        "CAN-buss dataintegrasjon – Få tilgang til motordata, turtall (RPM), arbeidstimer og driftsstatus",
+        "Overvåking av drivstoffnivå (sonder) – Oppdag drivstofftyveri og sikre nøyaktig forbruksregistrering",
+        "Drivstofforbruk (flowmålere) – Mål faktisk forbruk med høy presisjon",
+        "Vektsensorer og lastovervåking – Følg produktivitet og unngå overbelastning",
+        "Tomgangstid og utnyttelsesanalyse – Optimaliser bruk og reduser nedetid"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-653466c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "e7ae24d",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e7ae24d",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/11062b_1bbeafb5adb44aa2b5f3d03dd00c45bf/1080p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-70610dd",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "32d8d0d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-32d8d0d",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Forbedre effektivitet og reduser kostnader",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c7355d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 6,
+      "elementorId": "01476d8",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-01476d8",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"3265\" data-end=\"3344\">Våre telematikkløsninger hjelper deg med å omgjøre data til reelle besparelser:</p><p data-start=\"3547\" data-end=\"3627\"><br>Med detaljerte analyser og rapporter kan du ta smartere beslutninger hver dag.</p>",
+      "bodyText": "Våre telematikkløsninger hjelper deg med å omgjøre data til reelle besparelser:Med detaljerte analyser og rapporter kan du ta smartere beslutninger hver dag.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Reduser drivstoffkostnader gjennom nøyaktig sporing",
+        "Forhindre tyveri og uautorisert bruk",
+        "Optimaliser vedlikeholdsplanlegging",
+        "Forleng maskinens levetid",
+        "Øk den totale produktiviteten i flåten"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c7355d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 6,
+      "elementorId": "827254b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-827254b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Your Partner in Telematics Integration",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c7355d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "aa41256",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aa41256",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"4049\" data-end=\"4099\">Din partner for telematikk-integrasjon</p><p data-start=\"4101\" data-end=\"4172\">Vi tilbyr ikke bare sporing — vi leverer komplette telematikkløsninger:</p><p data-start=\"4352\" data-end=\"4448\"><br>Fra én maskin til en hel flåte hjelper vi deg med å få full kontroll og oversikt over driften.</p>",
+      "bodyText": "Din partner for telematikk-integrasjonVi tilbyr ikke bare sporing — vi leverer komplette telematikkløsninger:Fra én maskin til en hel flåte hjelper vi deg med å få full kontroll og oversikt over driften.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Installasjon av maskinvare (trackere, sensorer, sonder)",
+        "Programvareintegrasjon og konfigurasjon",
+        "Tilpassede dashbord og rapporter",
+        "Løpende support og systemoptimalisering"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c7355d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "3783e15",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3783e15",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/8VbabwNYDubSBT5mMkGCOpbzvIJTyg35AW_9AwiCO9ZELLoSR7su4-99qu9U1xSIzK5DntxzwQXZ7J7PmY4as22br13svfZSWzgfATcBoBW883hW4rAfG979vgR8jYL6u-oYk3xaXBghMO3h_A7tLumFKKjcd1phS7Bnit-gnkRAARifw66D9lwj2dioKa6x-scaled.jpg",
+          "alt": "",
+          "width": 2560,
+          "height": 1707
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e0ec52",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 7,
+      "elementorId": "da2a6fb",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-da2a6fb",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"4946\" data-end=\"5016\">Byggeplasser er dynamiske, krevende og ofte uforutsigbare.</p><p data-start=\"5018\" data-end=\"5101\">Våre løsninger er spesielt utviklet for å fungere pålitelig under krevende forhold:</p><p data-start=\"5247\" data-end=\"5279\"><br>Med vårt system kan du overvåke:</p>",
+      "bodyText": "Byggeplasser er dynamiske, krevende og ofte uforutsigbare.Våre løsninger er spesielt utviklet for å fungere pålitelig under krevende forhold:Med vårt system kan du overvåke:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Støv, vibrasjoner og ekstreme temperaturer",
+        "Konstant bevegelse av maskiner over store områder",
+        "Flere operatører og skiftende arbeidsplaner",
+        "Arbeidstid kontra tomgangstid",
+        "Uautorisert bruk utenfor arbeidstid",
+        "Ineffektiv operatøratferd",
+        "Reell produktivitet per maskin"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e0ec52",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 8,
+    "htmlBytes": 25064
+  }
+}
