@@ -11,6 +11,33 @@ export type SpecGroup = {
   items: { label: string; value: string }[];
 };
 
+export type BlogAuthor = {
+  name?: string;
+  avatarUrl?: string;
+  bio?: string;
+};
+
+export type BlogPost = {
+  id: string;
+  title: string;
+  slug: string;
+  excerpt?: string;
+  coverImage?: ImageAsset | null;
+  contentHtml?: string;
+  tags?: string[];
+  author?: BlogAuthor;
+  status?: "draft" | "scheduled" | "published";
+  publishedAt?: string | null;
+  readingTimeMinutes?: number;
+  metaTitle?: string;
+  metaDescription?: string;
+  ogImage?: string;
+  canonicalUrl?: string;
+  viewCount?: number;
+  createdAt?: string;
+  updatedAt?: string;
+};
+
 export type Category = {
   id: string;
   name: string;

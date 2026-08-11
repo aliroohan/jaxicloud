@@ -1,49 +1,65 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
 import { motion } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight } from "lucide-react";
+import { usePathname } from "next/navigation";
 import type { HomeCopy } from "@/lib/i18n/pageCopy";
+import { DEFAULT_LOCALE, stripLocale, withLocale } from "@/lib/i18n/config";
+import type { BlogPost } from "@/lib/types";
 import styles from "./BlogSection.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
+function formatDate(dateStr?: string | null) {
+  if (!dateStr) return "";
+  try {
+    return new Date(dateStr).toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    });
+  } catch {
+    return "";
+  }
+}
+
 export function BlogSection({ copy }: { copy: HomeCopy }) {
-  const BLOG_POSTS = [
-    {
-      id: 1,
-      title: copy.blogPost1Title,
-      excerpt: copy.blogPost1Excerpt,
-      category: copy.blogPost1Category,
-      date: copy.blogPost1Date,
-      image: "/blog-ai.png",
-      link: "#"
-    },
-    {
-      id: 2,
-      title: copy.blogPost2Title,
-      excerpt: copy.blogPost2Excerpt,
-      category: copy.blogPost2Category,
-      date: copy.blogPost2Date,
-      image: "/blog-ev.png",
-      link: "#"
-    },
-    {
-      id: 3,
-      title: copy.blogPost3Title,
-      excerpt: copy.blogPost3Excerpt,
-      category: copy.blogPost3Category,
-      date: copy.blogPost3Date,
-      image: "/blog-maintenance.png",
-      link: "#"
-    }
-  ];
+  const pathname = usePathname() || "/";
+  const { locale: pathLocale } = stripLocale(pathname);
+  const activeLocale = pathLocale || DEFAULT_LOCALE;
+
+  const [posts, setPosts] = useState<BlogPost[] | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch("/api/blog?page=1")
+      .then((res) => (res.ok ? res.json() : { posts: [] }))
+      .then((data) => {
+        if (!cancelled) setPosts((data.posts || []).slice(0, 3));
+      })
+      .catch(() => {
+        if (!cancelled) setPosts([]);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const BLOG_POSTS = (posts || []).map((post) => ({
+    id: post.id,
+    title: post.title,
+    excerpt: post.excerpt || "",
+    category: post.tags?.[0] || "",
+    date: formatDate(post.publishedAt),
+    image: post.coverImage?.url || "/blog-ai.png",
+    link: withLocale(activeLocale, `/blog/${post.slug}`),
+  }));
 
   const sectionRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
@@ -109,7 +125,11 @@ export function BlogSection({ copy }: { copy: HomeCopy }) {
         if (t.vars.trigger === section) t.kill();
       });
     };
-  }, []);
+  }, [BLOG_POSTS.length]);
+
+  if (posts !== null && posts.length === 0) {
+    return null;
+  }
 
   return (
     <section ref={sectionRef} className={styles.section}>

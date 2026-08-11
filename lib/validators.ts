@@ -71,6 +71,30 @@ export const solutionInputSchema = z.object({
   metaDescription: z.string().optional().default(""),
 });
 
+export const blogAuthorSchema = z.object({
+  name: z.string().optional().default("JaxiCloud Team"),
+  avatarUrl: z.string().optional().default(""),
+  bio: z.string().optional().default(""),
+});
+
+export const blogPostInputSchema = z.object({
+  title: z.string().min(1),
+  slug: z.string().optional(),
+  excerpt: z.string().optional().default(""),
+  coverImage: imageSchema.nullable().optional().default(null),
+  contentHtml: z.string().min(1),
+  tags: z.array(z.string()).optional().default([]),
+  author: blogAuthorSchema
+    .optional()
+    .default({ name: "JaxiCloud Team", avatarUrl: "", bio: "" }),
+  status: z.enum(["draft", "scheduled", "published"]).optional().default("draft"),
+  publishedAt: z.string().datetime().optional().nullable(),
+  metaTitle: z.string().optional().default(""),
+  metaDescription: z.string().optional().default(""),
+  ogImage: z.string().optional().default(""),
+  canonicalUrl: z.string().optional().default(""),
+});
+
 export const inquiryInputSchema = z.object({
   name: z.string().min(1),
   email: z.string().email(),

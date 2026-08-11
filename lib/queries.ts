@@ -1,7 +1,126 @@
 import { connectDB } from "@/lib/db";
-import { Bundle, Category, Product, Solution } from "@/lib/models";
+import { Bundle, BlogPost, Category, Product, Solution } from "@/lib/models";
 import { serializeDoc, stripSupplierSource, toId } from "@/lib/api";
-import type { Bundle as BundleT, Category as CategoryT, Product as ProductT, Solution as SolutionT } from "@/lib/types";
+import type {
+  BlogPost as BlogPostT,
+  Bundle as BundleT,
+  Category as CategoryT,
+  Product as ProductT,
+  Solution as SolutionT,
+} from "@/lib/types";
+
+const BLOG_PAGE_SIZE = 9;
+
+export async function getPublishedBlogPosts(filters?: {
+  page?: number;
+  q?: string;
+  tag?: string;
+}): Promise<{ posts: BlogPostT[]; total: number; totalPages: number; page: number }> {
+  const page = Math.max(1, filters?.page || 1);
+  try {
+    const db = await connectDB();
+    if (!db) return { posts: [], total: 0, totalPages: 1, page };
+
+    const now = new Date();
+    await BlogPost.updateMany(
+      { status: "scheduled", publishedAt: { $lte: now } },
+      { $set: { status: "published" } },
+    );
+
+    const filter: Record<string, unknown> = { status: "published" };
+    if (filters?.tag) filter.tags = filters.tag;
+    if (filters?.q) filter.$text = { $search: filters.q };
+
+    const [docs, total] = await Promise.all([
+      BlogPost.find(filter, filters?.q ? { score: { $meta: "textScore" } } : undefined)
+        .sort(filters?.q ? { score: { $meta: "textScore" } } : { publishedAt: -1 })
+        .skip((page - 1) * BLOG_PAGE_SIZE)
+        .limit(BLOG_PAGE_SIZE)
+        .lean(),
+      BlogPost.countDocuments(filter),
+    ]);
+
+    return {
+      posts: docs.map((d) => serializeDoc(d as Record<string, unknown>) as BlogPostT),
+      total,
+      totalPages: Math.max(1, Math.ceil(total / BLOG_PAGE_SIZE)),
+      page,
+    };
+  } catch (err) {
+    console.warn("getPublishedBlogPosts skipped:", err);
+    return { posts: [], total: 0, totalPages: 1, page };
+  }
+}
+
+export async function getBlogTags(): Promise<string[]> {
+  try {
+    const db = await connectDB();
+    if (!db) return [];
+    const tags = await BlogPost.distinct("tags", { status: "published" });
+    return (tags as string[]).filter(Boolean).sort();
+  } catch (err) {
+    console.warn("getBlogTags skipped:", err);
+    return [];
+  }
+}
+
+export async function getBlogPostBySlug(
+  slug: string,
+): Promise<{ post: BlogPostT; relatedPosts: BlogPostT[] } | null> {
+  try {
+    const db = await connectDB();
+    if (!db) return null;
+
+    const now = new Date();
+    const doc = await BlogPost.findOne({ slug }).lean();
+    if (!doc) return null;
+
+    const isPublished = doc.status === "published";
+    const isDueScheduled =
+      doc.status === "scheduled" && doc.publishedAt && doc.publishedAt <= now;
+    if (!isPublished && !isDueScheduled) return null;
+
+    if (isDueScheduled) {
+      await BlogPost.updateOne({ _id: doc._id }, { $set: { status: "published" } });
+      doc.status = "published";
+    }
+    await BlogPost.updateOne({ _id: doc._id }, { $inc: { viewCount: 1 } });
+
+    const tags = doc.tags || [];
+    let relatedDocs = tags.length
+      ? await BlogPost.find({
+          _id: { $ne: doc._id },
+          status: "published",
+          tags: { $in: tags },
+        })
+          .sort({ publishedAt: -1 })
+          .limit(3)
+          .lean()
+      : [];
+
+    if (relatedDocs.length < 3) {
+      const excludeIds = [doc._id, ...relatedDocs.map((d) => d._id)];
+      const fallback = await BlogPost.find({
+        _id: { $nin: excludeIds },
+        status: "published",
+      })
+        .sort({ publishedAt: -1 })
+        .limit(3 - relatedDocs.length)
+        .lean();
+      relatedDocs = [...relatedDocs, ...fallback];
+    }
+
+    return {
+      post: serializeDoc(doc as Record<string, unknown>) as BlogPostT,
+      relatedPosts: relatedDocs.map(
+        (d) => serializeDoc(d as Record<string, unknown>) as BlogPostT,
+      ),
+    };
+  } catch (err) {
+    console.warn("getBlogPostBySlug error:", err);
+    return null;
+  }
+}
 
 export async function getCategories(): Promise<CategoryT[]> {
   try {

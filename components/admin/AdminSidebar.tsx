@@ -12,6 +12,7 @@ import {
   Layers,
   LayoutDashboard,
   LogOut,
+  Newspaper,
   Package,
   ShieldCheck,
 } from "lucide-react";
@@ -32,6 +33,12 @@ const GROUPS = [
       { href: "/admin/categories", label: "Categories", icon: FolderTree, exact: false },
       { href: "/admin/bundles", label: "Hardware Bundles", icon: Boxes, exact: false },
       { href: "/admin/solutions", label: "Industry Solutions", icon: Layers, exact: false },
+    ],
+  },
+  {
+    title: "CONTENT",
+    items: [
+      { href: "/admin/blog", label: "Blog Posts", icon: Newspaper, exact: false },
     ],
   },
   {

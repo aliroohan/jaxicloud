@@ -47,7 +47,7 @@ export function swapLocale(pathname: string, nextLocale: Locale): string {
 }
 
 /** Localized page roots that preserve path on language switch. */
-export const LOCALIZED_ROOTS = ["/", "/solutions", "/contact", "/services"] as const;
+export const LOCALIZED_ROOTS = ["/", "/solutions", "/contact", "/services", "/blog"] as const;
 
 export function hasLocalizedRoute(path: string): boolean {
   return LOCALIZED_ROOTS.some((root) =>

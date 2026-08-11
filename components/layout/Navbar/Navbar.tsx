@@ -34,6 +34,7 @@ const NAV_ITEMS = [
   { id: "solutions", label: "Solutions", href: "/solutions", hasMega: true },
   { id: "applications", label: "Application", href: "/applications", hasMega: true },
   { id: "services", label: "Services", href: "/services", hasMega: false },
+  { id: "blog", label: "Blog", href: "/blog", hasMega: false },
   { id: "contact", label: "Contact", href: "/contact", hasMega: false },
 ];
 
