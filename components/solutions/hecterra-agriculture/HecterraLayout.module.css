@@ -3,7 +3,7 @@
 .muted{color:#64748b}
 .accent{color:#3f6212}
 
-.hero{padding:clamp(3.5rem,8vw,6rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1fr 1fr;align-items:end}}
+.hero{padding:clamp(3.5rem,8vw,6rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1fr 1fr;align-items:start}}
 .title{font-size:clamp(2.4rem,5vw,3.8rem);max-width:18ch;color:#1a2e05}
 .shot{aspect-ratio:5/4;border-radius:1.5rem 0 1.5rem 0}
 .grid{display:grid;gap:1.5rem;padding:2rem 0 4rem}@media(min-width:800px){.grid{grid-template-columns:repeat(2,1fr)}}
