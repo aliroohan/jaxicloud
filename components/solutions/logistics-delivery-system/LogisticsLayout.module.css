@@ -190,6 +190,9 @@
   align-items: center;
   gap: 0.65rem;
   margin-bottom: 0.1rem;
+  width: 100%;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .benefitIndex {
@@ -198,10 +201,12 @@
   font-weight: 600;
   letter-spacing: 0.14em;
   color: color-mix(in srgb, var(--accent, #0f172a) 55%, #94a3b8);
+  flex-shrink: 0;
 }
 
 .benefitRule {
   flex: 1;
+  min-width: 0;
   height: 1px;
   background: color-mix(in srgb, var(--accent, #0f172a) 14%, #e2e8f0);
   max-width: 3.5rem;
@@ -339,6 +344,7 @@
   gap: 0.7rem;
   align-content: start;
   min-height: 100%;
+  min-width: 0;
   overflow: hidden;
   transition:
     transform 0.5s cubic-bezier(0.32, 0.72, 0, 1),
@@ -370,6 +376,9 @@
   display: flex;
   align-items: center;
   gap: 0.65rem;
+  width: 100%;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .featureIndex {
@@ -383,6 +392,7 @@
 
 .featureRule {
   flex: 1;
+  min-width: 0;
   height: 1px;
   background: color-mix(in srgb, var(--accent, #0f172a) 14%, #e2e8f0);
   transform-origin: left center;
@@ -398,6 +408,7 @@
   line-height: 1;
   color: color-mix(in srgb, var(--accent, #0f172a) 40%, #94a3b8);
   opacity: 0.55;
+  flex-shrink: 0;
   transform: translate(0, 0);
   transition:
     transform 0.45s cubic-bezier(0.32, 0.72, 0, 1),

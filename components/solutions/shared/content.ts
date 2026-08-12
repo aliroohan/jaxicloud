@@ -140,6 +140,37 @@ export function headingText(r: ResolvedBlock | null | undefined): string {
   return r?.text.heading?.trim() || "";
 }
 
+function normalize(s: string): string {
+  return s.toLowerCase().replace(/[\s–—-]+/g, "");
+}
+
+/**
+ * Split a rich-text block's body into lines (by <br> / paragraph breaks),
+ * dropping any line that just duplicates the given heading text.
+ * Handles CMS content where a label line was authored redundantly above
+ * the real paragraph (e.g. "Wia Tag" repeated right below an H1/H2).
+ */
+export function bodyLines(
+  r: ResolvedBlock | null | undefined,
+  dedupeAgainst?: string,
+): string[] {
+  if (!r) return [];
+  const html = r.text.bodyHtml;
+  const raw = html
+    ? html
+        .replace(/<\/p>\s*<p[^>]*>/gi, "\n")
+        .replace(/<br\s*\/?>/gi, "\n")
+        .replace(/<[^>]+>/g, "")
+    : r.text.body || "";
+  const lines = raw
+    .split("\n")
+    .map((l) => l.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+  if (!dedupeAgainst) return lines;
+  const target = normalize(dedupeAgainst);
+  return lines.filter((l) => normalize(l) !== target);
+}
+
 export function imageSrc(r: ResolvedBlock | null | undefined): string | null {
   if (!r) return null;
   return r.block.images[0]?.src || r.block.layout.image || null;

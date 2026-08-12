@@ -1,8 +1,7 @@
 import {
   bodyText,
   headingText,
-  resolveAll,
-  sectionize,
+  resolve,
 } from "@/components/solutions/shared/content";
 import {
   BlockMedia,
@@ -11,16 +10,26 @@ import {
   DemoCta,
   Eyebrow,
   SolutionShell,
-  StatItem,
   Wrap,
   primitiveStyles as p,
 } from "@/components/solutions/shared/primitives";
-import type { SolutionLayoutProps } from "@/components/solutions/shared/types";
+import type {
+  ResolvedBlock,
+  SolutionLayoutProps,
+} from "@/components/solutions/shared/types";
 import { Reveal } from "@/components/blocks/Motion";
 import { withLocale } from "@/lib/i18n/config";
 import styles from "./FuelManagementLayout.module.css";
 
-const ATMOSPHERE = "/images/solutions/fuel-hero-atmosphere.png";
+/** Resolve a block by stable `order` so layout mapping stays locale-agnostic. */
+function at(
+  blocks: SolutionLayoutProps["page"]["blocks"],
+  locale: SolutionLayoutProps["locale"],
+  order: number,
+): ResolvedBlock | null {
+  const block = blocks.find((b) => b.order === order);
+  return block ? resolve(block, locale) : null;
+}
 
 export function FuelManagementLayout({
   page,
@@ -31,48 +40,37 @@ export function FuelManagementLayout({
 }: SolutionLayoutProps) {
   const title = page.titles[locale] || page.titles.en || page.slug;
   const blocks = page.blocks;
-  const sections = sectionize(blocks, locale);
 
-  const heroSection = sections[0];
-  const heroHeading =
-    headingText(heroSection?.heading) ||
-    headingText(sections[1]?.heading) ||
-    title;
-  const heroBody =
-    bodyText(heroSection?.bodies[0]) ||
-    bodyText(sections[1]?.bodies[0]) ||
-    "";
+  // Live section map (block.order → role). Orders are stable across locales.
+  const pageTitle = at(blocks, locale, 0);
+  const subheading = at(blocks, locale, 1);
+  const introBody = at(blocks, locale, 2);
 
-  const stats = resolveAll(
-    blocks.filter((b) => b.type === "statCounter"),
-    locale,
-  );
+  const stats = [3, 4, 5]
+    .map((order) => at(blocks, locale, order))
+    .filter((b): b is ResolvedBlock => Boolean(b));
 
-  const monitoring =
-    sections.find((s) =>
-      headingText(s.heading).toLowerCase().includes("fuel"),
-    ) ||
-    sections[2] ||
-    sections[1];
+  const monitorHeading = at(blocks, locale, 6);
+  const monitorBody = at(blocks, locale, 7);
 
-  const narrativeBodies = sections
-    .flatMap((s) => s.bodies)
-    .filter((b) => bodyText(b).length > 40);
-  const images = resolveAll(
-    blocks.filter((b) => b.type === "image"),
-    locale,
-  );
+  const rowOneImages = [8, 10]
+    .map((order) => at(blocks, locale, order))
+    .filter((b): b is ResolvedBlock => Boolean(b));
+  const rowOneCaptions = [9, 11]
+    .map((order) => at(blocks, locale, order))
+    .filter((b): b is ResolvedBlock => Boolean(b));
 
-  const zigPairs = [
-    { body: narrativeBodies[1], image: images[0], flip: false },
-    { body: narrativeBodies[2], image: images[1], flip: true },
-    { body: narrativeBodies[3], image: images[2], flip: false },
-  ].filter((pair) => pair.body || pair.image);
+  const rowTwoImages = [12, 13]
+    .map((order) => at(blocks, locale, order))
+    .filter((b): b is ResolvedBlock => Boolean(b));
+  const rowTwoCaptions = [14, 15]
+    .map((order) => at(blocks, locale, order))
+    .filter((b): b is ResolvedBlock => Boolean(b));
 
-  const darkBodies = narrativeBodies.slice(4, 6);
-  const darkImages = images.slice(2, 4);
-  const closeBody = narrativeBodies[narrativeBodies.length - 1];
-  const closeImage = images[images.length - 1];
+  const closeBody = at(blocks, locale, 16);
+  const closeImage = at(blocks, locale, 17);
+
+  const heroTitle = headingText(pageTitle) || title;
 
   return (
     <SolutionShell className={styles.page}>
@@ -84,48 +82,55 @@ export function FuelManagementLayout({
         />
       </Wrap>
 
-      <section className={styles.hero}>
-        <div className={styles.heroBg}>
-          {/* Decorative art-direction asset; copy remains i18n from JSON */}
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={ATMOSPHERE}
-            alt=""
-            className={styles.heroBgImg}
-            style={{
-              width: "100%",
-              height: "100%",
-              position: "absolute",
-              inset: 0,
-              objectFit: "cover",
-              objectPosition: "70% center",
-            }}
-          />
-          <div className={styles.heroScrim} />
-        </div>
-        <Wrap>
-          <div className={styles.heroInner}>
-            <Eyebrow light>{eyebrow}</Eyebrow>
-            <h1 className={`${p.display} ${styles.heroTitle}`}>{heroHeading}</h1>
-            {heroBody ? <p className={styles.heroBody}>{heroBody}</p> : null}
-            <div className={styles.heroCta}>
-              <DemoCta
-                href={contactHref}
-                label={requestDemoLabel}
-                variant="onDark"
-              />
+      <Wrap>
+        <section className={styles.hero}>
+          <Reveal>
+            <Eyebrow>{eyebrow}</Eyebrow>
+          </Reveal>
+          <Reveal delay={0.04}>
+            <h1 className={`${p.display} ${styles.title}`}>{heroTitle}</h1>
+          </Reveal>
+
+          {(headingText(subheading) || introBody) && (
+            <div className={styles.introBlock}>
+              {headingText(subheading) ? (
+                <Reveal delay={0.08}>
+                  <h2 className={`${p.display} ${styles.subheading}`}>
+                    {headingText(subheading)}
+                  </h2>
+                </Reveal>
+              ) : null}
+              {introBody ? (
+                <Reveal delay={0.12} className={styles.introProse}>
+                  <BlockProse block={introBody} />
+                </Reveal>
+              ) : null}
+              <Reveal delay={0.16}>
+                <div className={styles.heroCta}>
+                  <DemoCta href={contactHref} label={requestDemoLabel} />
+                </div>
+              </Reveal>
             </div>
-          </div>
-        </Wrap>
-      </section>
+          )}
+        </section>
+      </Wrap>
 
       {stats.length > 0 ? (
         <section className={styles.stats}>
           <Wrap>
             <div className={styles.statsGrid}>
-              {stats.map((s) => (
-                <Reveal key={s.block.id} className={styles.statCell}>
-                  <StatItem block={s} />
+              {stats.map((s, i) => (
+                <Reveal
+                  key={s.block.id}
+                  delay={0.04 * i}
+                  className={`${styles.statCell}${i === 0 ? ` ${styles.statCellLead}` : ""}`}
+                >
+                  <span className={styles.statValue}>
+                    {s.block.statValue || "—"}
+                  </span>
+                  {headingText(s) ? (
+                    <span className={styles.statLabel}>{headingText(s)}</span>
+                  ) : null}
                 </Reveal>
               ))}
             </div>
@@ -133,125 +138,90 @@ export function FuelManagementLayout({
         </section>
       ) : null}
 
-      {sections[1]?.heading || sections[1]?.bodies[0] ? (
+      {(headingText(monitorHeading) || monitorBody) && (
         <Wrap>
-          <section className={styles.intro}>
-            <Reveal>
-              <h2 className={`${p.display} ${styles.introTitle}`}>
-                {headingText(sections[1]?.heading) || heroHeading}
-              </h2>
-            </Reveal>
-            <Reveal delay={0.08}>
-              {sections[1]?.bodies[0] ? (
-                <BlockProse block={sections[1].bodies[0]} />
-              ) : null}
-            </Reveal>
+          <section className={styles.monitorIntro}>
+            {headingText(monitorHeading) ? (
+              <Reveal>
+                <h2 className={`${p.display} ${styles.monitorTitle}`}>
+                  {headingText(monitorHeading)}
+                </h2>
+              </Reveal>
+            ) : null}
+            {monitorBody ? (
+              <Reveal delay={0.06} className={styles.monitorLead}>
+                <BlockProse block={monitorBody} />
+              </Reveal>
+            ) : null}
           </section>
         </Wrap>
-      ) : null}
+      )}
 
-      {monitoring ? (
+      {rowOneImages.length > 0 && (
         <Wrap>
-          <section className={styles.monitor}>
-            <div className={styles.monitorGrid}>
-              {images[0] ? (
-                <Reveal>
-                  <BlockMedia block={images[0]} className={styles.monitorMedia} />
+          <section className={styles.shotSection}>
+            <div className={styles.shotGrid}>
+              {rowOneImages.map((img, i) => (
+                <Reveal key={img.block.id} delay={0.04 * i} className={styles.shotCell}>
+                  <BlockMedia block={img} className={styles.shot} />
                 </Reveal>
-              ) : null}
-              <Reveal className={styles.monitorCopy} delay={0.06}>
-                {headingText(monitoring.heading) ? (
-                  <h2 className={p.display}>{headingText(monitoring.heading)}</h2>
-                ) : null}
-                {monitoring.bodies[0] ? (
-                  <div className={styles.lead}>
-                    <BlockProse block={monitoring.bodies[0]} />
-                  </div>
-                ) : null}
-              </Reveal>
+              ))}
             </div>
+            {rowOneCaptions.length > 0 ? (
+              <div className={styles.captionGrid}>
+                {rowOneCaptions.map((cap, i) => (
+                  <Reveal
+                    key={cap.block.id}
+                    delay={0.06 + 0.04 * i}
+                    className={styles.caption}
+                  >
+                    <BlockProse block={cap} />
+                  </Reveal>
+                ))}
+              </div>
+            ) : null}
           </section>
         </Wrap>
-      ) : null}
+      )}
 
-      {zigPairs.length > 0 ? (
+      {rowTwoImages.length > 0 && (
         <Wrap>
-          <section className={styles.zig}>
-            {zigPairs.map((pair, i) => (
-              <div
-                key={pair.body?.block.id || pair.image?.block.id || i}
-                className={`${styles.zigRow} ${pair.flip ? styles.zigRowFlip : ""}`}
-              >
-                {pair.image ? (
-                  <Reveal>
-                    <BlockMedia block={pair.image} className={styles.zigMedia} />
-                  </Reveal>
-                ) : (
-                  <div />
-                )}
-                <Reveal delay={0.05} className={styles.zigCopy}>
-                  {pair.body ? <BlockProse block={pair.body} /> : null}
+          <section className={styles.shotSection}>
+            <div className={styles.shotGrid}>
+              {rowTwoImages.map((img, i) => (
+                <Reveal key={img.block.id} delay={0.04 * i} className={styles.shotCell}>
+                  <BlockMedia block={img} className={styles.shot} />
                 </Reveal>
+              ))}
+            </div>
+            {rowTwoCaptions.length > 0 ? (
+              <div className={styles.captionGrid}>
+                {rowTwoCaptions.map((cap, i) => (
+                  <Reveal
+                    key={cap.block.id}
+                    delay={0.06 + 0.04 * i}
+                    className={styles.caption}
+                  >
+                    <BlockProse block={cap} />
+                  </Reveal>
+                ))}
               </div>
-            ))}
+            ) : null}
           </section>
         </Wrap>
-      ) : null}
-
-      {(darkBodies.length > 0 || darkImages.length > 0) && (
-        <section className={styles.darkBand}>
-          <Wrap>
-            {darkBodies[0] ? (
-              <>
-                <Reveal>
-                  <h2 className={`${p.display} ${styles.darkTitle}`}>
-                    {headingText(monitoring?.heading) || title}
-                  </h2>
-                </Reveal>
-                <Reveal delay={0.06}>
-                  <p className={styles.darkBody}>{bodyText(darkBodies[0])}</p>
-                </Reveal>
-              </>
-            ) : null}
-            {darkBodies[1] ? (
-              <Reveal delay={0.1}>
-                <p className={styles.darkBody} style={{ marginTop: "1rem" }}>
-                  {bodyText(darkBodies[1])}
-                </p>
-              </Reveal>
-            ) : null}
-            {darkImages.length > 0 ? (
-              <div className={styles.darkMedia}>
-                {darkImages[0] ? (
-                  <Reveal>
-                    <BlockMedia block={darkImages[0]} className={styles.darkShot} />
-                  </Reveal>
-                ) : null}
-                {darkImages[1] ? (
-                  <Reveal delay={0.08}>
-                    <BlockMedia
-                      block={darkImages[1]}
-                      className={styles.darkShotTall}
-                    />
-                  </Reveal>
-                ) : null}
-              </div>
-            ) : null}
-          </Wrap>
-        </section>
       )}
 
       {(closeBody || closeImage) && (
         <Wrap>
           <section className={styles.close}>
-            <Reveal>
+            <Reveal className={styles.closeCopy}>
               {closeBody ? <BlockProse block={closeBody} /> : null}
               <div className={styles.closeActions}>
-                <DemoCta href={contactHref} label={requestDemoLabel} />
+                <DemoCta href={contactHref} label={requestDemoLabel} variant="ghost" />
               </div>
             </Reveal>
             {closeImage ? (
-              <Reveal delay={0.06}>
+              <Reveal delay={0.06} className={styles.closeMediaWrap}>
                 <BlockMedia block={closeImage} className={styles.closeMedia} />
               </Reveal>
             ) : null}

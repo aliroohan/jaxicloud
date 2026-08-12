@@ -1,17 +1,15 @@
 import {
-  bodyText,
+  bodyLines,
   headingText,
   resolveAll,
   sectionize,
 } from "@/components/solutions/shared/content";
 import {
   BlockMedia,
-  BlockProse,
   Breadcrumb,
   DemoCta,
   Eyebrow,
   FeatureTile,
-  IconList,
   SolutionShell,
   Wrap,
   primitiveStyles as p,
@@ -31,9 +29,11 @@ export function WiaTagLayout({
   const sections = sectionize(page.blocks, locale);
   const images = resolveAll(page.blocks.filter((b) => b.type === "image" || b.type === "gallery"), locale);
   const features = resolveAll(page.blocks.filter((b) => b.type === "featureCard"), locale);
-  const lists = resolveAll(page.blocks.filter((b) => b.type === "iconList"), locale);
   const heroTitle = headingText(sections[0]?.heading) || title;
-  const heroBody = bodyText(sections[0]?.bodies[0]) || bodyText(sections[1]?.bodies[0]) || "";
+  const introHeading = headingText(sections[1]?.heading);
+  // Drop any line that just repeats the H1 (the CMS content authored it as a
+  // redundant label directly above the real paragraph).
+  const introLines = bodyLines(sections[1]?.bodies[0], heroTitle);
 
   return (
     <SolutionShell className={styles.page}>
@@ -46,18 +46,30 @@ export function WiaTagLayout({
       </Wrap>
 
       <Wrap>
+        <h1 className={`${p.display} ${styles.title}`}>{heroTitle}</h1>
+
         <section className={styles.hero}>
           <div>
             <Eyebrow>{eyebrow}</Eyebrow>
-            <h1 className={`${p.display} ${styles.title}`}>{heroTitle}</h1>
-            {heroBody ? <p className={p.body} style={{marginTop:"1.1rem"}}>{heroBody}</p> : null}
+            {introHeading ? (
+              <h2 className={`${p.display} ${styles.introHeading}`}>{introHeading}</h2>
+            ) : null}
+            {introLines.map((line, i) => (
+              <p key={i} className={p.body} style={i === 0 ? undefined : { marginTop: "0.5rem" }}>
+                {line}
+              </p>
+            ))}
             <div style={{marginTop:"1.5rem"}}><DemoCta href={contactHref} label={requestDemoLabel} /></div>
           </div>
           {images[0] ? <BlockMedia block={images[0]} className={styles.shot} priority /> : null}
         </section>
-        {sections[1]?.bodies[0] ? <div style={{marginBottom:"1.5rem"}}><BlockProse block={sections[1].bodies[0]} /></div> : null}
+
         <div className={styles.wall}>
-          {features.map((f) => <div key={f.block.id} className={styles.cell}><FeatureTile block={f} /></div>)}
+          {features.map((f) => (
+            <div key={f.block.id} className={styles.cell}>
+              <FeatureTile block={f} />
+            </div>
+          ))}
         </div>
       </Wrap>
 

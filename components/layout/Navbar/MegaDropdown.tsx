@@ -32,15 +32,15 @@ const SOLUTIONS_4COL_DATA = [
       { label: "Cooling monitoring", href: "/solutions/cooling-monitoring" },
       { label: "Logistics delivery", href: "/solutions/logistics-delivery-system" },
       { label: "Eco drive", href: "/solutions/eco-drive" },
-      { label: "Fleetrun", href: "/solutions/fleetrun-fleet-volunteer" },
+      { label: "Maintanace module", href: "/solutions/fleetrun-fleet-volunteer" },
       { label: "WIA tag", href: "/solutions/wia-tag" }
     ]
   },
   {
     image: "/images/driver_safety.png",
     links: [
-      { label: "Fuel management", href: "/solutions/fuel-management-system" },
-      { label: "TPMS / EBS / Cooling", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
+      { label: "Fuel management System", href: "/solutions/fuel-management-system" },
+      { label: "Tpms ebs cooling fuel monitoring", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
       { label: "Dashcam", href: "/solutions/dashcam" },
       { label: "Door opening", href: "/solutions/registration-of-truck-door-opening" }
     ]
