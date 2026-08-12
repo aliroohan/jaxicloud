@@ -1,14 +1,437 @@
-/* archetype: scorecard */
-.page{background:#ecfdf5;color:#0f172a}
-.muted{color:#64748b}
-.accent{color:#047857}
+/**
+ * Eco Drive — light navy B2B surface with cards.md editorial soft cards.
+ * Asymmetric benefit composition + numbered how-it-works steps.
+ */
 
-.page{background:#ecfdf5}
-.hero{padding:clamp(3rem,7vw,5rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1.1fr .9fr}}
-.title{font-size:clamp(2.4rem,5vw,3.75rem);max-width:12ch}
-.shot{aspect-ratio:16/11;border-radius:1.25rem}
-.scores{display:grid;gap:1px;background:#a7f3d0;margin:2rem 0;border-radius:1rem;overflow:hidden}
-@media(min-width:700px){.scores{grid-template-columns:repeat(3,1fr)}}
-.score{background:#ecfdf5;padding:1.5rem;min-height:140px}
-.more{padding:2rem 0 5rem}
+.page {
+  --accent: #0f172a;
+  background: #f7f8fa;
+  color: #1a1a1a;
+}
 
+/* —— Hero —— */
+.hero {
+  text-align: center;
+  padding: clamp(1rem, 2.5vw, 1.75rem) 0 clamp(1.25rem, 2.5vw, 1.85rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— Intro —— */
+.intro {
+  display: grid;
+  gap: clamp(1.5rem, 3.5vw, 2.5rem);
+  align-items: center;
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+@media (min-width: 900px) {
+  .intro {
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: clamp(2rem, 4vw, 3.25rem);
+  }
+}
+
+.introCopy {
+  display: grid;
+  gap: 0.95rem;
+  align-content: start;
+}
+
+.introHeading {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.6vw, 1.85rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+  max-width: 24ch;
+}
+
+.introProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.introProse :global(p) {
+  margin: 0;
+}
+
+.introProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+.introProse :global(span) {
+  color: inherit;
+}
+
+.introCta {
+  margin-top: 0.35rem;
+}
+
+.introMedia {
+  min-width: 0;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(160deg, #ffffff 0%, #eef2f7 55%, #e8eef6 100%);
+  aspect-ratio: 16 / 11;
+  border-radius: 1.1rem;
+  min-height: 12rem;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -26px rgba(15, 23, 42, 0.28);
+}
+
+.mediaFrame :global(img) {
+  object-fit: contain;
+}
+
+/* —— Shared editorial card chrome —— */
+.cardMeta {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.cardIndex {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: color-mix(in srgb, var(--accent, #0f172a) 55%, #94a3b8);
+  flex-shrink: 0;
+}
+
+.cardRule {
+  flex: 1;
+  height: 1px;
+  background: color-mix(in srgb, var(--accent, #0f172a) 14%, #e2e8f0);
+  transform-origin: left center;
+  transition: transform 0.55s cubic-bezier(0.32, 0.72, 0, 1);
+  max-width: 4rem;
+}
+
+.cardRuleWide {
+  display: block;
+  width: 2.75rem;
+  height: 2px;
+  background: var(--accent, #0f172a);
+  opacity: 0.85;
+}
+
+.cardArrow {
+  font-size: 0.85rem;
+  line-height: 1;
+  color: color-mix(in srgb, var(--accent, #0f172a) 40%, #94a3b8);
+  opacity: 0.55;
+  margin-left: auto;
+  transition:
+    transform 0.45s cubic-bezier(0.32, 0.72, 0, 1),
+    opacity 0.45s ease,
+    color 0.45s ease;
+}
+
+.cardTitle {
+  margin: 0;
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: clamp(1.05rem, 1.8vw, 1.22rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  color: #0f172a;
+  transition: transform 0.45s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.cardBody {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #64748b;
+}
+
+/* —— Benefits asymmetric grid —— */
+.benefits {
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+  display: grid;
+  gap: clamp(1.35rem, 2.8vw, 2rem);
+}
+
+.sectionTitle {
+  margin: 0 auto;
+  max-width: 28rem;
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+  text-align: center;
+}
+
+.sectionTitleLeft {
+  margin: 0;
+  max-width: 32rem;
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+  text-align: left;
+}
+
+.benefitGrid {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 720px) {
+  .benefitGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.15rem;
+  }
+
+  .card:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 1000px) {
+  .benefitGrid {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1.2rem;
+  }
+
+  .card:nth-child(1) {
+    grid-column: span 4;
+  }
+
+  .card:nth-child(2) {
+    grid-column: span 2;
+  }
+
+  .card:nth-child(3),
+  .card:nth-child(4),
+  .card:nth-child(5) {
+    grid-column: span 2;
+  }
+}
+
+.card {
+  position: relative;
+  background: #fff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 1.15rem;
+  padding: clamp(1.35rem, 2.6vw, 1.9rem);
+  display: grid;
+  gap: 0.7rem;
+  align-content: start;
+  min-height: 100%;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
+  transition:
+    transform 0.5s cubic-bezier(0.32, 0.72, 0, 1),
+    background 0.45s ease,
+    border-color 0.45s ease,
+    box-shadow 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.card:hover {
+  transform: translateY(-3px) scale(1.012);
+  border-color: rgba(15, 23, 42, 0.1);
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 22px 44px -24px rgba(15, 23, 42, 0.28);
+}
+
+.card:hover .cardTitle {
+  transform: translateX(2px);
+}
+
+.card:hover .cardArrow {
+  opacity: 1;
+  color: var(--accent, #0f172a);
+  transform: translate(3px, -2px);
+}
+
+.card:hover .cardRule {
+  transform: scaleX(1.2);
+  max-width: none;
+}
+
+.cardAnchor {
+  background:
+    linear-gradient(155deg, #ffffff 0%, #f1f5f9 55%, #ffffff 100%);
+  min-height: 11.5rem;
+  padding: clamp(1.6rem, 3vw, 2.25rem);
+}
+
+.cardAnchor .cardTitle {
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  max-width: 18ch;
+}
+
+.cardAnchor .cardBody {
+  max-width: 52ch;
+  font-size: 0.95rem;
+  color: #475569;
+}
+
+/* —— Parameters —— */
+.params {
+  padding: 0 0 clamp(2rem, 4vw, 2.75rem);
+}
+
+.paramsCopy {
+  display: grid;
+  gap: 0.85rem;
+  max-width: 42rem;
+}
+
+/* —— Analysis media + prose card —— */
+.analysis {
+  display: grid;
+  gap: clamp(1.25rem, 3vw, 2rem);
+  align-items: center;
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+@media (min-width: 900px) {
+  .analysis {
+    grid-template-columns: 1.05fr 0.95fr;
+  }
+}
+
+.analysisMedia {
+  min-width: 0;
+}
+
+.analysisCard {
+  background: #fff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 1.15rem;
+  padding: clamp(1.45rem, 2.8vw, 2rem);
+  display: grid;
+  gap: 0.85rem;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
+  transition:
+    transform 0.5s cubic-bezier(0.32, 0.72, 0, 1),
+    box-shadow 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.analysisCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 18px 36px -22px rgba(15, 23, 42, 0.24);
+}
+
+.analysisProse {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #475569;
+}
+
+.analysisProse :global(p) {
+  margin: 0;
+}
+
+.analysisProse :global(p + p) {
+  margin-top: 0.75rem;
+}
+
+.analysisProse :global(strong),
+.analysisProse :global(b) {
+  color: #0f172a;
+  font-weight: 700;
+}
+
+/* —— How-it-works steps —— */
+.steps {
+  padding: 0 0 clamp(3.5rem, 7vw, 5.5rem);
+  display: grid;
+  gap: clamp(1.5rem, 3vw, 2rem);
+}
+
+.stepGrid {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 720px) {
+  .stepGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.15rem;
+  }
+}
+
+@media (min-width: 1000px) {
+  .stepGrid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem;
+  }
+}
+
+.stepCard {
+  background: #fff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 1.15rem;
+  padding: clamp(1.35rem, 2.5vw, 1.75rem);
+  display: grid;
+  gap: 0.75rem;
+  align-content: start;
+  min-height: 100%;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
+  transition:
+    transform 0.5s cubic-bezier(0.32, 0.72, 0, 1),
+    border-color 0.45s ease,
+    box-shadow 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.stepCard:hover {
+  transform: translateY(-3px) scale(1.01);
+  border-color: rgba(15, 23, 42, 0.1);
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 20px 40px -24px rgba(15, 23, 42, 0.26);
+}
+
+.stepCard:hover .cardArrow {
+  opacity: 1;
+  color: var(--accent, #0f172a);
+  transform: translate(3px, -2px);
+}
+
+.stepCard:hover .cardRule {
+  transform: scaleX(1.2);
+  max-width: none;
+}
+
+.footerCta {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.35rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .card:hover,
+  .card:hover .cardTitle,
+  .card:hover .cardArrow,
+  .card:hover .cardRule,
+  .stepCard,
+  .stepCard:hover,
+  .stepCard:hover .cardArrow,
+  .stepCard:hover .cardRule,
+  .analysisCard,
+  .analysisCard:hover {
+    transition: none;
+    transform: none;
+  }
+}
