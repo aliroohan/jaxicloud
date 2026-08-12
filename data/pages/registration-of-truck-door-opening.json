@@ -1,0 +1,2048 @@
+{
+  "slug": "registration-of-truck-door-opening",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Registration of truck door opening – DA",
+    "en": "Registration of truck door opening",
+    "de": "Registration of truck door opening – DE",
+    "fr": "Registration of truck door opening – FR",
+    "nl": "Registration of truck door opening – HL",
+    "nb": "Registration of truck door opening – NO",
+    "sv": "Registration of truck door opening – SV",
+    "tr": "Registration of truck door opening – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Registrering af åbning af lastbildør - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Registration of truck door opening - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Registrierung der LKW-Türöffnung - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Enregistrement de l'ouverture de la porte du camion - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Registratie van het openen van de vrachtwagendeur - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Registrering av lastebildøråpning - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Registrering av öppning av lastbilsdörr - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Kamyon kapısı açılışının kaydı - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/registration-of-truck-door-opening-da/",
+    "en": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+    "de": "https://www.jaxicloud.com/de/registration-of-truck-door-opening-de/",
+    "fr": "https://www.jaxicloud.com/fr/registration-of-truck-door-opening-fr/",
+    "nl": "https://www.jaxicloud.com/nl/registration-of-truck-door-opening-hl/",
+    "nb": "https://www.jaxicloud.com/nb/registration-of-truck-door-opening-no/",
+    "sv": "https://www.jaxicloud.com/sv/registration-of-truck-door-opening-sv/",
+    "tr": "https://www.jaxicloud.com/tr/registration-of-truck-door-opening-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Registrering af åbning af lastbildør",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Registration of truck door opening",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Registrierung der LKW-Türöffnung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Enregistrement de l'ouverture de la porte du camion",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Registratie van het openen van de vrachtwagendeur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Registrering av lastebildøråpning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Registrering av öppning av lastbilsdörr",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon kapısı açılışının kaydı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Registrering af åbning af lastbildør Integrer Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Truck door opening detection Integrate Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Truck door opening detection Integrate Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Détection d'ouverture des portes de camions Intégration de Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Detectie van het openen van vrachtwagendeuren Integreer Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Registrering av lastebildøråpning Integrer Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Detektering av öppningsdetektering av lastbilsdörr, vad är det?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon kapısı açılma algılama özelliği, Jaxicloud Filo Yönetimi entegrasyonu.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Innovér trådløse magnetiske sensorer i dine forbundne transportløsninger for at registrere åbning af lastbildøre.",
+          "bodyHtml": "<p>Innovér trådløse magnetiske sensorer i dine forbundne transportløsninger for at registrere åbning af lastbildøre.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Innovate wireless magnetic sensors in your connected transportation solutions to detect the opening of truck doors.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Innovate wireless magnetic sensors in your connected transportation solutions to detect the opening of truck doors.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Integrieren Sie innovative drahtlose Magnetsensoren in Ihre vernetzten Transportlösungen, um das Öffnen von LKW-Türen zu erkennen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrieren Sie innovative drahtlose Magnetsensoren in Ihre vernetzten Transportlösungen, um das Öffnen von LKW-Türen zu erkennen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Innovez avec des capteurs magnétiques sans fil dans vos solutions de transport connecté pour détecter l’ouverture des portes de camions.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Innovez avec des capteurs magnétiques sans fil dans vos solutions de transport connecté pour détecter l’ouverture des portes de camions.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Innovatieve draadloze magnetische sensoren in uw connected transportoplossingen om het openen van vrachtwagendeuren te detecteren.",
+          "bodyHtml": "<p>Innovatieve draadloze magnetische sensoren in uw connected transportoplossingen om het openen van vrachtwagendeuren te detecteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Innovasjon trådløse magnetiske sensorer i dine tilkoblede transportløsninger for å oppdage åpning av lastebildører.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Innovasjon trådløse magnetiske sensorer i dine tilkoblede transportløsninger for å oppdage åpning av lastebildører.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Inom godstransporter är säkerhet en viktig fråga för både transportörer och deras kunder.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Inom godstransporter är säkerhet en viktig fråga för både transportörer och </span><span class=\"wixui-rich-text__text\">deras kunder.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bağlantılı ulaşım çözümlerinizde kamyon kapılarının açılmasını tespit etmek için kablosuz manyetik sensörlerde yenilikçi çözümler geliştirin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bağlantılı ulaşım çözümlerinizde kamyon kapılarının açılmasını tespit etmek için kablosuz manyetik sensörlerde yenilikçi çözümler geliştirin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "heading",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad er det for en registrering af åbning af en lastbildør?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Truck door opening detection, what is it?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Truck door opening detection, what is it?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Détection d'ouverture de porte de camion, qu'est-ce que c'est ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Detectie van het openen van een vrachtwagendeur, wat is dat?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Lastebildøråpningsdeteksjon, hva er det?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Varor till ett värde av cirka 8,2 miljarder euro stjäls i Europa varje år",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon kapısı açılma algılama sistemi nedir?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "richText",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Inden for godstransport er sikkerhed et stort problem for både transportører og deres kunder.Gods til en værdi af omkring 8,2 milliarder euro stjæles hvert år i Europa. For at øge sikkerheden for disse varer udstyrer transportører sig i stigende grad med forbundne telematikløsninger.For at imødegå denne udfordring og tilbyde en komplet løsning anbefaler vi, at du integrerer registrering af åbning af lastbildøre i din IoT-løsning. Ved hjælp af ELA Innovations trådløse magnetiske sensorer kan du nemt registrere, når en lastbildør er åben, og advare chaufføren i realtid via din virksomhedsapplikation.",
+          "bodyHtml": "<p>Inden for godstransport er sikkerhed et stort problem for både transportører og deres kunder.</p><p>Gods til en værdi af omkring 8,2 milliarder euro stjæles hvert år i Europa. For at øge sikkerheden for disse varer udstyrer transportører sig i stigende grad med forbundne telematikløsninger.</p><p>For at imødegå denne udfordring og tilbyde en komplet løsning anbefaler vi, at du integrerer registrering af åbning af lastbildøre i din IoT-løsning. Ved hjælp af ELA Innovations trådløse magnetiske sensorer kan du nemt registrere, når en lastbildør er åben, og advare chaufføren i realtid via din virksomhedsapplikation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Goods worth around €8.2 billion are stolen in Europe every year. To increase the security of these goods, transporters are increasingly equipping themselves with connected telematics solutions.To meet this challenge and offer a complete solution, we advise you to integrate truck door opening detection into your IoT solution. Using ELA Innovations wireless magnetic sensors, you can simply detect when a truck door is open and alert the driver in real time through your business application.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Goods worth around €8.2 billion are stolen&nbsp;in Europe every year. To increase the security of these goods, transporters are increasingly equipping themselves with connected telematics solutions.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">To meet this challenge and offer a complete solution, we advise you to integrate&nbsp;truck door opening&nbsp;detection into your IoT solution. Using ELA Innovations wireless magnetic sensors, you can simply detect when a truck door is open and&nbsp;alert the driver in real time&nbsp;through your business application.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Im Gütertransport ist Sicherheit ein zentrales Thema für Spediteure und ihre Kunden.Jährlich werden in Europa Waren im Wert von rund 8,2 Milliarden Euro gestohlen. Um die Sicherheit dieser Güter zu erhöhen, setzen Transportunternehmen verstärkt auf vernetzte Telematiklösungen.Um dieser Herausforderung zu begegnen und eine umfassende Lösung anzubieten, empfehlen wir Ihnen, die Erkennung geöffneter LKW-Türen in Ihre IoT-Lösung zu integrieren. Mit den drahtlosen Magnetsensoren von ELA Innovations erkennen Sie einfach, wenn eine LKW-Tür geöffnet ist, und benachrichtigen den Fahrer in Echtzeit über Ihre Geschäftsanwendung.",
+          "bodyHtml": "<p>Im Gütertransport ist Sicherheit ein zentrales Thema für Spediteure und ihre Kunden.</p><p>Jährlich werden in Europa Waren im Wert von rund 8,2 Milliarden Euro gestohlen. Um die Sicherheit dieser Güter zu erhöhen, setzen Transportunternehmen verstärkt auf vernetzte Telematiklösungen.</p><p>Um dieser Herausforderung zu begegnen und eine umfassende Lösung anzubieten, empfehlen wir Ihnen, die Erkennung geöffneter LKW-Türen in Ihre IoT-Lösung zu integrieren. Mit den drahtlosen Magnetsensoren von ELA Innovations erkennen Sie einfach, wenn eine LKW-Tür geöffnet ist, und benachrichtigen den Fahrer in Echtzeit über Ihre Geschäftsanwendung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Dans le transport de marchandises, la sécurité est un enjeu majeur tant pour les transporteurs que pour leurs clients.Chaque année en Europe, des marchandises d’une valeur d’environ 8,2 milliards d’euros sont volées. Afin d’améliorer la sécurité de ces biens, les transporteurs s’équipent de plus en plus de solutions télématiques connectées.Pour relever ce défi et proposer une solution complète, nous vous conseillons d’intégrer la détection d’ouverture des portes de camion à votre solution IoT. Grâce aux capteurs magnétiques sans fil d’ELA Innovations, vous pouvez facilement détecter l’ouverture d’une porte et alerter le conducteur en temps réel via votre application métier.",
+          "bodyHtml": "<p>Dans le transport de marchandises, la sécurité est un enjeu majeur tant pour les transporteurs que pour leurs clients.</p><p>Chaque année en Europe, des marchandises d’une valeur d’environ 8,2 milliards d’euros sont volées. Afin d’améliorer la sécurité de ces biens, les transporteurs s’équipent de plus en plus de solutions télématiques connectées.</p><p>Pour relever ce défi et proposer une solution complète, nous vous conseillons d’intégrer la détection d’ouverture des portes de camion à votre solution IoT. Grâce aux capteurs magnétiques sans fil d’ELA Innovations, vous pouvez facilement détecter l’ouverture d’une porte et alerter le conducteur en temps réel via votre application métier.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "In het goederenvervoer is veiligheid een belangrijk aandachtspunt voor zowel vervoerders als hun klanten.Jaarlijks worden er in Europa goederen met een waarde van ongeveer € 8,2 miljard gestolen. Om de veiligheid van deze goederen te vergroten, rusten transporteurs zich steeds vaker uit met connected telematicaoplossingen.Om deze uitdaging aan te gaan en een complete oplossing te bieden, adviseren wij u om detectie van het openen van vrachtwagendeuren te integreren in uw IoT-oplossing. Met de draadloze magneetsensoren van ELA Innovations kunt u eenvoudig detecteren wanneer een vrachtwagendeur openstaat en de chauffeur realtime waarschuwen via uw bedrijfsapplicatie.",
+          "bodyHtml": "<p>In het goederenvervoer is veiligheid een belangrijk aandachtspunt voor zowel vervoerders als hun klanten.</p><p>Jaarlijks worden er in Europa goederen met een waarde van ongeveer € 8,2 miljard gestolen. Om de veiligheid van deze goederen te vergroten, rusten transporteurs zich steeds vaker uit met connected telematicaoplossingen.</p><p>Om deze uitdaging aan te gaan en een complete oplossing te bieden, adviseren wij u om detectie van het openen van vrachtwagendeuren te integreren in uw IoT-oplossing. Met de draadloze magneetsensoren van ELA Innovations kunt u eenvoudig detecteren wanneer een vrachtwagendeur openstaat en de chauffeur realtime waarschuwen via uw bedrijfsapplicatie.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Innen godstransport er sikkerhet et stort problem for både transportører og kundene deres.Hvert år blir det stjålet varer for rundt 8,2 milliarder euro i Europa. For å øke sikkerheten til disse varene, utstyrer transportørene seg i økende grad med tilkoblede telematikkløsninger.For å møte denne utfordringen og tilby en komplett løsning, anbefaler vi deg å integrere deteksjonen av lastebildøråpning i din IoT-løsning. Ved å bruke ELA Innovations trådløse magnetiske sensorer kan du enkelt oppdage når en lastebildør er åpen og varsle sjåføren i sanntid gjennom forretningsapplikasjonen din.",
+          "bodyHtml": "<p>Innen godstransport er sikkerhet et stort problem for både transportører og kundene deres.</p><p>Hvert år blir det stjålet varer for rundt 8,2 milliarder euro i Europa. For å øke sikkerheten til disse varene, utstyrer transportørene seg i økende grad med tilkoblede telematikkløsninger.</p><p>For å møte denne utfordringen og tilby en komplett løsning, anbefaler vi deg å integrere deteksjonen av lastebildøråpning i din IoT-løsning. Ved å bruke ELA Innovations trådløse magnetiske sensorer kan du enkelt oppdage når en lastebildør er åpen og varsle sjåføren i sanntid gjennom forretningsapplikasjonen din.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "För att öka säkerheten för dessa varor utrustar sig transportörer i allt större utsträckning med uppkopplade telematiklösningar.För att möta denna utmaning och erbjuda en komplett lösning rekommenderar vi att du integrerar detektering av lastbilsdörröppning i din IoT-lösning. Med hjälp av ELA Innovations trådlösa magnetiska sensorer kan du enkelt upptäcka när en lastbilsdörr är öppen och varna föraren i realtid via din affärsapplikation.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">För att öka säkerheten för dessa varor utrustar sig transportörer i allt större utsträckning med uppkopplade telematiklösningar.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">För att möta denna utmaning och erbjuda en komplett lösning rekommenderar vi att du integrerar detektering&nbsp;av lastbilsdörröppning&nbsp;i din IoT-lösning. Med hjälp av ELA Innovations trådlösa magnetiska sensorer kan du enkelt upptäcka när en lastbilsdörr är öppen och&nbsp;varna föraren i realtid&nbsp;via din affärsapplikation.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yük taşımacılığında güvenlik, hem taşıyıcılar hem de müşterileri için büyük önem taşımaktadır.Avrupa’da her yıl yaklaşık 8,2 milyar avro değerinde mal çalınmaktadır. Bu malların güvenliğini artırmak için, taşıyıcılar giderek daha fazla bağlantılı telematik çözümlerle donanmaktadır.Bu zorluğun üstesinden gelmek ve eksiksiz bir çözüm sunmak için, kamyon kapısı açma algılama özelliğini IoT çözümünüze entegre etmenizi öneririz. ELA Innovations kablosuz manyetik sensörlerini kullanarak, bir kamyon kapısının açık olduğunu kolayca algılayabilir ve iş uygulamanız aracılığıyla sürücüyü gerçek zamanlı olarak uyarabilirsiniz.",
+          "bodyHtml": "<p>Yük taşımacılığında güvenlik, hem taşıyıcılar hem de müşterileri için büyük önem taşımaktadır.</p><p>Avrupa’da her yıl yaklaşık 8,2 milyar avro değerinde mal çalınmaktadır. Bu malların güvenliğini artırmak için, taşıyıcılar giderek daha fazla bağlantılı telematik çözümlerle donanmaktadır.</p><p>Bu zorluğun üstesinden gelmek ve eksiksiz bir çözüm sunmak için, kamyon kapısı açma algılama özelliğini IoT çözümünüze entegre etmenizi öneririz. ELA Innovations kablosuz manyetik sensörlerini kullanarak, bir kamyon kapısının açık olduğunu kolayca algılayabilir ve iş uygulamanız aracılığıyla sürücüyü gerçek zamanlı olarak uyarabilirsiniz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "image",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_25f064dc5b6a4fed9818c7c207f1e36amv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_25f064dc5b6a4fed9818c7c207f1e36amv2.jpg",
+          "width": 481,
+          "height": 301
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "image",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_404acb6f1e474e83980d46c3dc8fb23cmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_404acb6f1e474e83980d46c3dc8fb23cmv2.jpg",
+          "width": 498,
+          "height": 332
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "heading",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan fungerer detektion af lastbildøre egentlig?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How does truck door detection actually work?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wie funktioniert die LKW-Türerkennung genau?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment fonctionne concrètement la détection des portes de camion ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe werkt vrachtwagendeurdetectie eigenlijk?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan fungerer lastebildørdeteksjon egentlig?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur fungerar egentligen lastbilsdörrsdetektering?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon kapısı algılama sistemi aslında nasıl çalışıyor?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "richText",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "For at implementere en løsning til at detektere åbning af lastbildøre, skal du udstyre dig med magnetiske sensorer og industrimagneter. Sensoren er fastgjort til trailerens indvendige dør, og magneten vil være fastgjort til dørstolpen i nærheden af ​​sensoren. Når lastbildørene åbnes, adskilles den magnetiske sensor og magneten. Informationen om sensorens tilstandsændring transmitteres via Bluetooth til IoT-platformen af ​​den indbyggede telematikboks i lastbilens førerhus. Denne boks fungerer som en gateway og sender informationen via mobilnetværket (3G/4G) til forretningsapplikationen. Hvis lastbildørene åbnes i et “uautoriseret” område, sendes der en advarsel i realtid til chaufføren på dennes smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">For at implementere en løsning til at detektere åbning af lastbildøre, skal du udstyre dig med magnetiske sensorer og industrimagneter. Sensoren er fastgjort til trailerens indvendige dør, og magneten vil være fastgjort til dørstolpen i nærheden af ​​sensoren. Når lastbildørene åbnes, adskilles den magnetiske sensor og magneten. Informationen om sensorens tilstandsændring transmitteres via Bluetooth til IoT-platformen af ​​den indbyggede telematikboks i lastbilens førerhus. Denne boks fungerer som en gateway og sender informationen via mobilnetværket (3G/4G) til forretningsapplikationen. Hvis lastbildørene åbnes i et “uautoriseret” område, sendes der en advarsel i realtid til chaufføren på dennes smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "To implement a solution for detecting the opening of truck doors, you need to equip yourself with magnetic sensors and industrial magnets. The sensor is attached to the inner door of the trailer, and the magnet will be attached to the door pillar in close proximity to the sensor. When the truck doors are opened, the magnetic sensor and the magnet are separated. The information about the sensor’s state change is transmitted via Bluetooth to the IoT platform by the built-in telematics box in the truck’s cab. This box acts as a gateway and sends the information via the mobile network (3G/4G) to the business application. If the truck doors are opened in an “unauthorized” area, a real-time warning is sent to the driver on his smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">To implement a solution for&nbsp;detecting the opening of truck doors,&nbsp;you need to equip yourself with magnetic sensors and industrial magnets. The sensor is attached to the inner door of the trailer, and the magnet will be attached to the door pillar in close proximity to the sensor. When the truck doors are opened, the magnetic sensor and the magnet are separated. The information about&nbsp;the sensor’s state change is transmitted via Bluetooth to the IoT platform by the built-in telematics box in the truck’s cab. This box acts as a gateway and sends the information via the mobile network (3G/4G) to the business application. If the truck doors are opened in an “unauthorized” area, a real-time warning is sent to the driver on his smartphone.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Um eine Lösung zur Erkennung geöffneter LKW-Türen zu implementieren, benötigen Sie Magnetsensoren und Industriemagnete. Der Sensor wird an der Innentür des Anhängers angebracht, der Magnet in unmittelbarer Nähe des Sensors an der Türsäule. Beim Öffnen der LKW-Türen trennen sich Sensor und Magnet. Die Information über die Zustandsänderung des Sensors wird von der im Fahrerhaus integrierten Telematikbox per Bluetooth an die IoT-Plattform übertragen. Diese Box fungiert als Gateway und sendet die Informationen über das Mobilfunknetz (3G/4G) an die Geschäftsanwendung. Werden die LKW-Türen in einem nicht autorisierten Bereich geöffnet, erhält der Fahrer eine Echtzeitwarnung auf sein Smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Um eine Lösung zur Erkennung geöffneter LKW-Türen zu implementieren, benötigen Sie Magnetsensoren und Industriemagnete. Der Sensor wird an der Innentür des Anhängers angebracht, der Magnet in unmittelbarer Nähe des Sensors an der Türsäule. Beim Öffnen der LKW-Türen trennen sich Sensor und Magnet. Die Information über die Zustandsänderung des Sensors wird von der im Fahrerhaus integrierten Telematikbox per Bluetooth an die IoT-Plattform übertragen. Diese Box fungiert als Gateway und sendet die Informationen über das Mobilfunknetz (3G/4G) an die Geschäftsanwendung. Werden die LKW-Türen in einem nicht autorisierten Bereich geöffnet, erhält der Fahrer eine Echtzeitwarnung auf sein Smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Pour mettre en œuvre une solution de détection d’ouverture des portes de camion, il est nécessaire de se munir de capteurs magnétiques et d’aimants industriels. Le capteur est fixé à l’intérieur de la porte de la remorque, et l’aimant au montant de porte, à proximité immédiate du capteur. À l’ouverture des portes, le capteur et l’aimant se séparent. L’information relative à ce changement d’état est transmise par Bluetooth à la plateforme IoT par le boîtier télématique intégré dans la cabine du camion. Ce boîtier fait office de passerelle et envoie les informations via le réseau mobile (3G/4G) à l’application métier. Si les portes s’ouvrent dans une zone non autorisée, une alerte en temps réel est envoyée au conducteur sur son smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Pour mettre en œuvre une solution de détection d’ouverture des portes de camion, il est nécessaire de se munir de capteurs magnétiques et d’aimants industriels. Le capteur est fixé à l’intérieur de la porte de la remorque, et l’aimant au montant de porte, à proximité immédiate du capteur. À l’ouverture des portes, le capteur et l’aimant se séparent. L’information relative à ce changement d’état est transmise par Bluetooth à la plateforme IoT par le boîtier télématique intégré dans la cabine du camion. Ce boîtier fait office de passerelle et envoie les informations via le réseau mobile (3G/4G) à l’application métier. Si les portes s’ouvrent dans une zone non autorisée, une alerte en temps réel est envoyée au conducteur sur son smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Om een ​​oplossing te implementeren voor het detecteren van het openen van vrachtwagendeuren, moet u uzelf uitrusten met magnetische sensoren en industriële magneten. De sensor wordt bevestigd aan de binnendeur van de oplegger en de magneet wordt bevestigd aan de deurstijl in de buurt van de sensor. Wanneer de vrachtwagendeuren worden geopend, worden de magnetische sensor en de magneet gescheiden. De informatie over de statuswijziging van de sensor wordt via Bluetooth verzonden naar het IoT-platform door de ingebouwde telematicabox in de cabine van de vrachtwagen. Deze box fungeert als een gateway en stuurt de informatie via het mobiele netwerk (3G/4G) naar de bedrijfsapplicatie. Als de vrachtwagendeuren worden geopend in een “ongeautoriseerde” zone, wordt er een realtime waarschuwing naar de chauffeur gestuurd op zijn smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Om een ​​oplossing te implementeren voor het detecteren van het openen van vrachtwagendeuren, moet u uzelf uitrusten met magnetische sensoren en industriële magneten. De sensor wordt bevestigd aan de binnendeur van de oplegger en de magneet wordt bevestigd aan de deurstijl in de buurt van de sensor. Wanneer de vrachtwagendeuren worden geopend, worden de magnetische sensor en de magneet gescheiden. De informatie over de statuswijziging van de sensor wordt via Bluetooth verzonden naar het IoT-platform door de ingebouwde telematicabox in de cabine van de vrachtwagen. Deze box fungeert als een gateway en stuurt de informatie via het mobiele netwerk (3G/4G) naar de bedrijfsapplicatie. Als de vrachtwagendeuren worden geopend in een “ongeautoriseerde” zone, wordt er een realtime waarschuwing naar de chauffeur gestuurd op zijn smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "For å implementere en løsning for registrering av åpning av lastebildører , må du utstyre deg med magnetiske sensorer og industrielle magneter. Sensoren festes til innerdøren til tilhengeren og magneten festes til dørstolpen i umiddelbar nærhet av sensoren. Når lastebildørene åpnes, separeres magnetsensoren og magneten. Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus. Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens dører åpnes i et “uautorisert” område, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">For å implementere en løsning for registrering av åpning av lastebildører , må du utstyre deg med magnetiske sensorer og industrielle magneter. Sensoren festes til innerdøren til tilhengeren og magneten festes til dørstolpen i umiddelbar nærhet av sensoren. Når lastebildørene åpnes, separeres magnetsensoren og magneten. Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus. Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens dører åpnes i et “uautorisert” område, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "För att implementera en lösning för att detektera öppning av lastbilsdörrar behöver du utrusta dig med magnetiska sensorer och industrimagneter. Sensorn är fäst vid släpvagnens innerdörr, och magneten kommer att fästas vid dörrstolpen i nära anslutning till sensorn. När lastbilsdörrarna öppnas separeras den magnetiska sensorn och magneten. Informationen om sensorns tillståndsförändring överförs via Bluetooth till IoT-plattformen via den inbyggda telematikboxen i lastbilens hytt. Denna box fungerar som en gateway och skickar informationen via mobilnätet (3G/4G) till affärsapplikationen. Om lastbilsdörrarna öppnas i ett “obehörigt” område skickas en varning i realtid till föraren på dennes smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">För att implementera en lösning för&nbsp;<span class=\"wixui-rich-text__text\">att detektera öppning av lastbilsdörrar</span>&nbsp;behöver du utrusta dig med magnetiska sensorer och industrimagneter. Sensorn är fäst vid släpvagnens innerdörr, och magneten kommer att fästas vid dörrstolpen i nära anslutning till sensorn. När lastbilsdörrarna öppnas separeras den magnetiska sensorn och magneten. Informationen om&nbsp;<span class=\"wixui-rich-text__text\">sensorns tillståndsförändring överförs via Bluetooth till IoT-plattformen</span>&nbsp;via den inbyggda telematikboxen i lastbilens hytt. Denna box fungerar som en gateway och skickar informationen via mobilnätet (3G/4G) till affärsapplikationen. Om lastbilsdörrarna öppnas i ett “obehörigt” område skickas en varning i realtid till föraren på dennes smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kamyon kapılarının açılmasını tespit etmeye yönelik bir çözüm uygulamak için manyetik sensörlere ve endüstriyel mıknatıslara ihtiyacınız vardır. Sensör, treylerin iç kapısına, mıknatıs ise sensöre yakın bir konumdaki kapı direğine takılır. Kamyon kapıları açıldığında, manyetik sensör ve mıknatıs birbirinden ayrılır. Sensörün durum değişikliğine ilişkin bilgi, kamyon kabinindeki dahili telematik kutusu aracılığıyla Bluetooth üzerinden IoT platformuna iletilir. Bu kutu bir ağ geçidi görevi görür ve bilgiyi mobil ağ (3G/4G) üzerinden işletme uygulamasına gönderir. Kamyon kapıları “izinsiz” bir alanda açılırsa, sürücüye akıllı telefonuna gerçek zamanlı bir uyarı gönderilir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Kamyon kapılarının açılmasını tespit etmeye yönelik bir çözüm uygulamak için manyetik sensörlere ve endüstriyel mıknatıslara ihtiyacınız vardır. Sensör, treylerin iç kapısına, mıknatıs ise sensöre yakın bir konumdaki kapı direğine takılır. Kamyon kapıları açıldığında, manyetik sensör ve mıknatıs birbirinden ayrılır. Sensörün durum değişikliğine ilişkin bilgi, kamyon kabinindeki dahili telematik kutusu aracılığıyla Bluetooth üzerinden IoT platformuna iletilir. Bu kutu bir ağ geçidi görevi görür ve bilgiyi mobil ağ (3G/4G) üzerinden işletme uygulamasına gönderir. Kamyon kapıları “izinsiz” bir alanda açılırsa, sürücüye akıllı telefonuna gerçek zamanlı bir uyarı gönderilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvorfor integrere magnetiske sensorer i din telematikløsning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Why integrate magnetic sensors into your telematics solution?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Warum sollten Sie Magnetsensoren in Ihre Telematiklösung integrieren?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Pourquoi intégrer des capteurs magnétiques à votre solution télématique ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Waarom magnetische sensoren integreren in uw telematica-oplossing?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvorfor integrere magnetiske sensorer i telematikkløsningen din?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Varför integrera magnetiska sensorer i er telematiklösning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Telematik çözümünüze manyetik sensörleri neden entegre etmelisiniz?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "richText",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "De industrielle magnetiske sensorer fra Jaxicloud Fleet Management Innovation er ideelle til at detektere åbning af lastbildøre:100% uafhængigeDeres batteridrevne drift giver op til 14 års autonomi, hvilket sikrer konkurrencedygtige samlede ejeromkostninger.Kompatibel med telematikbokseUdstyret med Bluetooth Low Energy-teknologi er disse sensorer kompatible med de fleste indbyggede telematikbokse på markedet og kræver ingen yderligere integration.Hurtig og nem at installereNem at installere takket være de forskellige fastgørelsesmetoder (højtydende dobbeltsidet klistermærke eller skrueholder), disse sensorer kan fastgøres til enhver type overflade og kræver ingen ledningsføring.IndustribokseDisse sensorer er robuste og vandtætte og er designet til at blive brugt under ekstreme forhold. De er derfor vandtætte og modstandsdygtige over for stød og vibrationer.",
+          "bodyHtml": "<p>De industrielle magnetiske sensorer fra Jaxicloud Fleet Management Innovation er ideelle til at detektere åbning af lastbildøre:</p><p><strong>100% uafhængige</strong></p><p>Deres batteridrevne drift giver op til 14 års autonomi, hvilket sikrer konkurrencedygtige samlede ejeromkostninger.</p><p><strong>Kompatibel med telematikbokse</strong></p><p>Udstyret med Bluetooth Low Energy-teknologi er disse sensorer kompatible med de fleste indbyggede telematikbokse på markedet og kræver ingen yderligere integration.</p><p><strong>Hurtig og nem at installere</strong></p><p>Nem at installere takket være de forskellige fastgørelsesmetoder (højtydende dobbeltsidet klistermærke eller skrueholder), disse sensorer kan fastgøres til enhver type overflade og kræver ingen ledningsføring.</p><p><strong>Industribokse</strong></p><p>Disse sensorer er robuste og vandtætte og er designet til at blive brugt under ekstreme forhold. De er derfor vandtætte og modstandsdygtige over for stød og vibrationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:100% independentTheir battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.Compatible with telematics boxesEquipped with Bluetooth Low Energy technology, these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.Quick and easy to installEasy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can be attached to any type of surface and require no wiring.Industrial boxesThese sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore waterproof and resistant to shock and vibration.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">100% independent</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Their battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Compatible with telematics boxes</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Equipped with&nbsp;Bluetooth Low Energy technology,&nbsp;these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Quick and easy to install</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Easy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can&nbsp;be attached to any type of surface&nbsp;and require no wiring.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Industrial boxes</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">These sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore&nbsp;waterproof and resistant to shock and vibration.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:100% independentTheir battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.Compatible with telematics boxesEquipped with Bluetooth Low Energy technology, these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.Quick and easy to installEasy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can be attached to any type of surface and require no wiring.Industrial boxesThese sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore waterproof and resistant to shock and vibration.",
+          "bodyHtml": "<p>The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:</p><p><strong>100% independent</strong></p><p>Their battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.</p><p><strong>Compatible with telematics boxes</strong></p><p>Equipped with&nbsp;Bluetooth Low Energy technology,&nbsp;these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.</p><p><strong>Quick and easy to install</strong></p><p>Easy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can&nbsp;be attached to any type of surface&nbsp;and require no wiring.</p><p><strong>Industrial boxes</strong></p><p>These sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore&nbsp;waterproof and resistant to shock and vibration.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:100% independentTheir battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.Compatible with telematics boxesEquipped with Bluetooth Low Energy technology, these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.Quick and easy to installEasy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can be attached to any type of surface and require no wiring.Industrial boxesThese sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore waterproof and resistant to shock and vibration.",
+          "bodyHtml": "<p>The industrial magnetic sensors from Jaxicloud Fleet Management Innovation are ideal for detecting the opening of truck doors:</p><p>100% independent</p><p>Their battery-powered operation provides up to 14 years of autonomy, ensuring competitive total cost of ownership.</p><p>Compatible with telematics boxes</p><p>Equipped with&nbsp;Bluetooth Low Energy technology,&nbsp;these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.</p><p>Quick and easy to install</p><p>Easy to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these sensors can&nbsp;be attached to any type of surface&nbsp;and require no wiring.</p><p>Industrial boxes</p><p>These sensors are rugged and waterproof and are designed to be used in extreme conditions. They are therefore&nbsp;waterproof and resistant to shock and vibration.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De industriële magnetische sensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het detecteren van het openen van vrachtwagendeuren:100% onafhankelijkHun batterijgevoede werking biedt tot 14 jaar autonomie, wat zorgt voor concurrerende totale eigendomskosten.Compatibel met telematicaboxenUitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en vereisen ze geen extra integratie.Snel en eenvoudig te installerenEenvoudig te installeren dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging), kunnen deze sensoren op elk type oppervlak worden bevestigd en vereisen ze geen bedrading.Industriële boxenDeze sensoren zijn robuust en waterdicht en zijn ontworpen voor gebruik onder extreme omstandigheden. Ze zijn daarom waterdicht en bestand tegen schokken en trillingen.",
+          "bodyHtml": "<p>De industriële magnetische sensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het detecteren van het openen van vrachtwagendeuren:</p><p>100% onafhankelijk</p><p>Hun batterijgevoede werking biedt tot 14 jaar autonomie, wat zorgt voor concurrerende totale eigendomskosten.</p><p>Compatibel met telematicaboxen</p><p>Uitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en vereisen ze geen extra integratie.</p><p>Snel en eenvoudig te installeren</p><p>Eenvoudig te installeren dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging), kunnen deze sensoren op elk type oppervlak worden bevestigd en vereisen ze geen bedrading.</p><p>Industriële boxen</p><p>Deze sensoren zijn robuust en waterdicht en zijn ontworpen voor gebruik onder extreme omstandigheden. Ze zijn daarom waterdicht en bestand tegen schokken en trillingen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "De industrielle magnetiske sensorene fra Jaxicloud Fleet Management Innovation er ideelle for å oppdage åpning av lastebildører:100 % uavhengigDeres batteridrevne drift gir opptil 14 års autonomi, noe som sikrer konkurransedyktige totale anskaffelseskostnader.Kompatibel med telematikkbokserUtstyrt med Bluetooth Low Energy-teknologi, er disse sensorene kompatible med de fleste innebygde telematikkbokser på markedet og krever ingen ekstra integrering.Rask og enkel å installereEnkel å installere takket være de forskjellige festemetodene (dobbeltsidig klistremerke med høy ytelse eller skrubar støtte), disse sensorene kan festes til alle typer overflater og krever ingen ledninger.IndustribokserDisse sensorene er robuste og vanntette og er designet for å brukes under ekstreme forhold. De er derfor vanntette og motstandsdyktige mot støt og vibrasjoner.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">De industrielle magnetiske sensorene fra Jaxicloud Fleet Management Innovation er ideelle for å oppdage åpning av lastebildører:</span></p><p>100 % uavhengig</p><p>Deres batteridrevne drift gir opptil 14 års autonomi, noe som sikrer konkurransedyktige totale anskaffelseskostnader.</p><p>Kompatibel med telematikkbokser</p><p>Utstyrt med Bluetooth Low Energy-teknologi, er disse sensorene kompatible med de fleste innebygde telematikkbokser på markedet og krever ingen ekstra integrering.</p><p>Rask og enkel å installere</p><p>Enkel å installere takket være de forskjellige festemetodene (dobbeltsidig klistremerke med høy ytelse eller skrubar støtte), disse sensorene kan festes til alle typer overflater og krever ingen ledninger.</p><p>Industribokser</p><p>Disse sensorene er robuste og vanntette og er designet for å brukes under ekstreme forhold. De er derfor vanntette og motstandsdyktige mot støt og vibrasjoner.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "De industriella magnetiska sensorerna från Jaxicloud Fleet Management Innovation är idealiska för att detektera öppningen av lastbilsdörrar:100 % oberoendeDeras batteridrivna drift ger upp till 14 års autonomi, vilket säkerställer en konkurrenskraftig total ägandekostnad.Kompatibel med telematikboxarUtrustade med Bluetooth Low Energy-teknik är dessa sensorer kompatibla med de flesta inbyggda telematikboxar på marknaden och kräver ingen ytterligare integration.Snabb och enkel att installeraEnkla att installera tack vare olika fästmetoder (högpresterande dubbelsidig klistermärke eller skruvstöd), dessa sensorer kan fästas på alla typer av ytor och kräver ingen kabeldragning.Industriella lådorDessa sensorer är robusta och vattentäta och är utformade för att användas under extrema förhållanden. De är därför vattentäta och motståndskraftiga mot stötar och vibrationer.",
+          "bodyHtml": "<p>De industriella magnetiska sensorerna från Jaxicloud Fleet Management Innovation är idealiska för att detektera öppningen av lastbilsdörrar:</p><p><strong>100 % oberoende</strong></p><p>Deras batteridrivna drift ger upp till 14 års autonomi, vilket säkerställer en konkurrenskraftig total ägandekostnad.</p><p><strong>Kompatibel med telematikboxar</strong></p><p>Utrustade med Bluetooth Low Energy-teknik är dessa sensorer kompatibla med de flesta inbyggda telematikboxar på marknaden och kräver ingen ytterligare integration.</p><p><strong>Snabb och enkel att installera</strong></p><p>Enkla att installera tack vare olika fästmetoder (högpresterande dubbelsidig klistermärke eller skruvstöd), dessa sensorer kan fästas på alla typer av ytor och kräver ingen kabeldragning.</p><p><strong>Industriella lådor</strong></p><p>Dessa sensorer är robusta och vattentäta och är utformade för att användas under extrema förhållanden. De är därför vattentäta och motståndskraftiga mot stötar och vibrationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud Filo Yönetimi İnovasyonu’nun endüstriyel manyetik sensörleri, kamyon kapılarının açılmasını tespit etmek için idealdir:%100 bağımsızPil gücüyle çalışan bu sensörler, 14 yıla kadar özerklik sağlayarak rekabetçi toplam sahip olma maliyeti sunar.Telematik kutularıyla uyumluBluetooth Düşük Enerji teknolojisiyle donatılmış bu sensörler, piyasadaki çoğu dahili telematik kutusuyla uyumludur ve ek entegrasyon gerektirmez.Hızlı ve kolay kurulumFarklı bağlantı yöntemleri (yüksek performanslı çift taraflı yapışkan veya vidalı destek) sayesinde kurulumu kolay olan bu sensörler, her türlü yüzeye takılabilir ve kablolama gerektirmez.Endüstriyel kutularBu sensörler sağlam ve su geçirmezdir ve aşırı koşullarda kullanılmak üzere tasarlanmıştır. Bu nedenle su geçirmez ve darbe ve titreşime karşı dayanıklıdırlar.",
+          "bodyHtml": "<p>Jaxicloud Filo Yönetimi İnovasyonu’nun endüstriyel manyetik sensörleri, kamyon kapılarının açılmasını tespit etmek için idealdir:</p><p>%100 bağımsız</p><p>Pil gücüyle çalışan bu sensörler, 14 yıla kadar özerklik sağlayarak rekabetçi toplam sahip olma maliyeti sunar.</p><p>Telematik kutularıyla uyumlu</p><p>Bluetooth Düşük Enerji teknolojisiyle donatılmış bu sensörler, piyasadaki çoğu dahili telematik kutusuyla uyumludur ve ek entegrasyon gerektirmez.</p><p>Hızlı ve kolay kurulum</p><p>Farklı bağlantı yöntemleri (yüksek performanslı çift taraflı yapışkan veya vidalı destek) sayesinde kurulumu kolay olan bu sensörler, her türlü yüzeye takılabilir ve kablolama gerektirmez.</p><p>Endüstriyel kutular</p><p>Bu sensörler sağlam ve su geçirmezdir ve aşırı koşullarda kullanılmak üzere tasarlanmıştır. Bu nedenle su geçirmez ve darbe ve titreşime karşı dayanıklıdırlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "heading",
+      "order": 11,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvilke magnetiske sensorer skal bruges til at sikre varer?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Which magnetic sensors should be used to secure goods?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Welche Magnetsensoren sollten zur Sicherung von Waren verwendet werden?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Quels capteurs magnétiques faut-il utiliser pour sécuriser les marchandises ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Welke magneetsensoren kunnen worden gebruikt om goederen te beveiligen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvilke magnetiske sensorer skal brukes for å sikre varer?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vilka magnetiska sensorer bör användas för att säkra varor?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Malların güvenliğini sağlamak için hangi manyetik sensörler kullanılmalıdır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "richText",
+      "order": 12,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Hvis du er en IoT-løsningsudbyder og ønsker at integrere lastbildørsdetektering i dit tilbud, er her de Jaxicloud Fleet Management Innovation-produkter, vi anbefaler:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Hvis du er en IoT-løsningsudbyder og ønsker at integrere lastbildørsdetektering i dit tilbud, er her de Jaxicloud Fleet Management Innovation-produkter, vi anbefaler:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "If you are an IoT solution provider and you want to integrate truck door detection into your offering, here are the Jaxicloud Fleet Management Innovation products that we recommend:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">If you are an IoT solution provider and you want to integrate truck door detection into your offering, here are the Jaxicloud Fleet Management Innovation products that we recommend:</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wenn Sie ein Anbieter von IoT-Lösungen sind und die LKW-Türerkennung in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Jaxicloud Fleet Management Innovation-Produkte:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Wenn Sie ein Anbieter von IoT-Lösungen sind und die LKW-Türerkennung in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Jaxicloud Fleet Management Innovation-Produkte:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la détection des portes de camions à votre offre, voici les produits Jaxicloud Fleet Management Innovation que nous recommandons :",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la détection des portes de camions à votre offre, voici les produits Jaxicloud Fleet Management Innovation que nous recommandons :</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bent u een leverancier van IoT-oplossingen en wilt u vrachtwagendeurdetectie in uw aanbod integreren? Dan raden wij u de volgende Jaxicloud Fleet Management Innovation-producten aan:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bent u een leverancier van IoT-oplossingen en wilt u vrachtwagendeurdetectie in uw aanbod integreren? Dan raden wij u de volgende Jaxicloud Fleet Management Innovation-producten aan:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hvis du er en leverandør av IoT-løsninger og ønsker å integrere lastebildørdeteksjon i tilbudet ditt, her er Jaxicloud Fleet Management Innovation-produktene vi anbefaler:",
+          "bodyHtml": "<p>Hvis du er en leverandør av IoT-løsninger og ønsker å integrere lastebildørdeteksjon i tilbudet ditt, her er Jaxicloud Fleet Management Innovation-produktene vi anbefaler:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Om du är en leverantör av IoT-lösningar och vill integrera lastbilsdörrsdetektering i ditt erbjudande, rekommenderar vi följande Jaxicloud Fleet Management Innovation-produkter:",
+          "bodyHtml": "<p>Om du är en leverantör av IoT-lösningar och vill integrera lastbilsdörrsdetektering i ditt erbjudande, rekommenderar vi följande Jaxicloud Fleet Management Innovation-produkter:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Eğer bir IoT çözüm sağlayıcısıysanız ve kamyon kapısı algılama özelliğini ürün yelpazenize entegre etmek istiyorsanız, size önerdiğimiz Jaxicloud Filo Yönetimi İnovasyon ürünleri şunlardır:",
+          "bodyHtml": "<p>Eğer bir IoT çözüm sağlayıcısıysanız ve kamyon kapısı algılama özelliğini ürün yelpazenize entegre etmek istiyorsanız, size önerdiğimiz Jaxicloud Filo Yönetimi İnovasyon ürünleri şunlardır:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "BLÅ MØNT MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "BLUE COIN MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "BLUE MÜNZMAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "MAGAZINE DE PIÈCES BLEUES",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "BLAUWE MUNTMAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "BLÅ MYNT MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Blå mynt magasin",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "MAVİ PARA DERGİSİ",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "richText",
+      "order": 14,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Bluetooth-dørsensoren BLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. Denne magnetiske detektionssensor er 100 % autonom og robust og sikrer transport af varer ved at registrere åbning og lukning af lastbildøre og ventiler. Den er også ideel til smarte bygningsapplikationer, måling af pladsudnyttelse og indtrængen i trange rum. Produktet sælges med Magnet 05-tilbehør.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bluetooth-dørsensoren BLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. Denne magnetiske detektionssensor er 100 % autonom og robust og sikrer transport af varer ved at registrere åbning og lukning af lastbildøre og ventiler. Den er også ideel til smarte bygningsapplikationer, måling af pladsudnyttelse og indtrængen i trange rum. Produktet sælges med Magnet 05-tilbehør.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Bluetooth door sensor BLUE COIN MAG is an ultra-compact Bluetooth door sensor. 100% autonomous and robust, this magnetic detection sensor ensures the transport of goods by detecting the opening and closing of truck doors and valves. It is also ideal for smart building applications, measuring space utilization and intrusion into confined spaces. Product sold with Magnet 05 accessory.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bluetooth door sensor </span><span class=\"wixui-rich-text__text\">BLUE COIN MAG is an ultra-compact Bluetooth door sensor. 100% autonomous and robust, this magnetic detection sensor ensures the transport of goods by detecting the opening and closing of truck doors and valves. It is also ideal for smart building applications, measuring space utilization and intrusion into confined spaces. Product sold with Magnet 05 accessory.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Der Bluetooth-Türsensor BLUE COIN MAG ist ein ultrakompakter Bluetooth-Türsensor. Dieser 100 % autonome und robuste Magnetsensor gewährleistet den Warentransport durch die Erkennung des Öffnens und Schließens von LKW-Türen und Ventilen. Er eignet sich auch ideal für Smart-Building-Anwendungen zur Messung der Raumnutzung und des Eindringens in beengte Räume. Das Produkt wird inklusive Magnet 05 geliefert.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Der Bluetooth-Türsensor BLUE COIN MAG ist ein ultrakompakter Bluetooth-Türsensor. Dieser 100 % autonome und robuste Magnetsensor gewährleistet den Warentransport durch die Erkennung des Öffnens und Schließens von LKW-Türen und Ventilen. Er eignet sich auch ideal für Smart-Building-Anwendungen zur Messung der Raumnutzung und des Eindringens in beengte Räume. Das Produkt wird inklusive Magnet 05 geliefert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le capteur de porte Bluetooth BLUE COIN MAG est un capteur ultra-compact. 100 % autonome et robuste, ce capteur magnétique assure le transport de marchandises en détectant l’ouverture et la fermeture des portes de camions et des vannes. Il est également idéal pour les applications de bâtiments intelligents, permettant de mesurer l’utilisation de l’espace et de détecter les intrusions dans les espaces confinés. Produit vendu avec l’accessoire Magnet 05.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le capteur de porte Bluetooth BLUE COIN MAG est un capteur ultra-compact. 100 % autonome et robuste, ce capteur magnétique assure le transport de marchandises en détectant l’ouverture et la fermeture des portes de camions et des vannes. Il est également idéal pour les applications de bâtiments intelligents, permettant de mesurer l’utilisation de l’espace et de détecter les intrusions dans les espaces confinés. Produit vendu avec l’accessoire Magnet 05.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bluetooth-deursensor BLUE COIN MAG is een ultracompacte Bluetooth-deursensor. Deze 100% autonome en robuuste magnetische detectiesensor zorgt voor goederentransport door het openen en sluiten van vrachtwagendeuren en -kleppen te detecteren. Hij is ook ideaal voor slimme gebouwtoepassingen, het meten van ruimtegebruik en inbraak in besloten ruimtes. Het product wordt geleverd met accessoire Magnet 05.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bluetooth-deursensor BLUE COIN MAG is een ultracompacte Bluetooth-deursensor. Deze 100% autonome en robuuste magnetische detectiesensor zorgt voor goederentransport door het openen en sluiten van vrachtwagendeuren en -kleppen te detecteren. Hij is ook ideaal voor slimme gebouwtoepassingen, het meten van ruimtegebruik en inbraak in besloten ruimtes. Het product wordt geleverd met accessoire Magnet 05.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bluetooth dørsensorBLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer ved å oppdage åpning og lukking av lastebildører og ventiler. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.",
+          "bodyHtml": "<p>Bluetooth dørsensor</p><p>BLUE COIN MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer ved å oppdage åpning og lukking av lastebildører og ventiler. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Bluetooth-dörrsensorBLUE COIN MAG är en ultrakompakt Bluetooth-dörrsensor. Denna magnetiska detekteringssensor är 100 % autonom och robust och säkerställer transport av gods genom att detektera öppning och stängning av lastbilsdörrar och ventiler. Den är också idealisk för smarta byggnadsapplikationer, där den mäter utrymmesutnyttjande och intrång i trånga utrymmen. Produkten säljs med tillbehöret Magnet 05",
+          "bodyHtml": "<p>Bluetooth-dörrsensor</p><p>BLUE COIN MAG är en ultrakompakt Bluetooth-dörrsensor. Denna magnetiska detekteringssensor är 100 % autonom och robust och säkerställer transport av gods genom att detektera öppning och stängning av lastbilsdörrar och ventiler. Den är också idealisk för smarta byggnadsapplikationer, där den mäter utrymmesutnyttjande och intrång i trånga utrymmen. Produkten säljs med tillbehöret Magnet 05</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "BLUE COIN MAG Bluetooth kapı sensörü, ultra kompakt bir Bluetooth kapı sensörüdür. %100 otonom ve sağlam olan bu manyetik algılama sensörü, kamyon kapılarının ve vanalarının açılıp kapanmasını algılayarak malların taşınmasını güvence altına alır. Ayrıca, akıllı bina uygulamaları, alan kullanımının ölçülmesi ve kapalı alanlara izinsiz girişin tespit edilmesi için de idealdir. Ürün, Magnet 05 aksesuarı ile birlikte satılmaktadır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">BLUE COIN MAG Bluetooth kapı sensörü, ultra kompakt bir Bluetooth kapı sensörüdür. %100 otonom ve sağlam olan bu manyetik algılama sensörü, kamyon kapılarının ve vanalarının açılıp kapanmasını algılayarak malların taşınmasını güvence altına alır. Ayrıca, akıllı bina uygulamaları, alan kullanımının ölçülmesi ve kapalı alanlara izinsiz girişin tespit edilmesi için de idealdir. Ürün, Magnet 05 aksesuarı ile birlikte satılmaktadır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "image",
+      "order": 15,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3b145ba7c6674983a0a2cdfcb896bb71mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3b145ba7c6674983a0a2cdfcb896bb71mv2.jpg",
+          "width": 251,
+          "height": 157
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Blå PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Blue PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Blue PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Blue PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Blauwe PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Blå PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Blå puck mag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Mavi PUCK MAG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "richText",
+      "order": 17,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Bluetooth-dørsensoren BLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. Denne magnetiske detektionssensor er 100 % autonom og robust og sikrer transport af varer. Den er også ideel til intelligente bygningsapplikationer, måling af pladsudnyttelse og indtrængen i trange rum. Produktet sælges med Magnet 05-tilbehør.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bluetooth-dørsensoren BLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. Denne magnetiske detektionssensor er 100 % autonom og robust og sikrer transport af varer. Den er også ideel til intelligente bygningsapplikationer, måling af pladsudnyttelse og indtrængen i trange rum. Produktet sælges med Magnet 05-tilbehør.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Bluetooth door sensor BLUE PUCK MAG is an ultra-compact Bluetooth door sensor. 100% autonomous and robust, this magnetic detection sensor ensures the transport of goods. It is also ideal for smart building applications, measuring space utilization and intrusion into confined spaces. Product sold with Magnet 05 accessory.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bluetooth door sensor </span><span class=\"wixui-rich-text__text\">BLUE PUCK MAG is an ultra-compact Bluetooth door sensor. 100% autonomous and robust, this magnetic detection sensor ensures the transport of goods. It is also ideal for smart building applications, measuring space utilization and intrusion into confined spaces. Product sold with Magnet 05 accessory.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Der Bluetooth-Türsensor BLUE PUCK MAG ist ein ultrakompakter Bluetooth-Türsensor. Dieser 100 % autonome und robuste Magnetsensor gewährleistet den sicheren Warentransport. Er eignet sich ideal für Smart-Building-Anwendungen zur Messung der Raumnutzung und zur Erkennung von unbefugtem Zutritt zu geschlossenen Räumen. Das Produkt wird inklusive Magnet 05 geliefert.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Der Bluetooth-Türsensor BLUE PUCK MAG ist ein ultrakompakter Bluetooth-Türsensor. Dieser 100 % autonome und robuste Magnetsensor gewährleistet den sicheren Warentransport. Er eignet sich ideal für Smart-Building-Anwendungen zur Messung der Raumnutzung und zur Erkennung von unbefugtem Zutritt zu geschlossenen Räumen. Das Produkt wird inklusive Magnet 05 geliefert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le capteur de porte Bluetooth BLUE PUCK MAG est un capteur ultra-compact. 100 % autonome et robuste, ce capteur à détection magnétique sécurise le transport de marchandises. Il est également idéal pour les applications de bâtiments intelligents, permettant de mesurer l’utilisation de l’espace et de détecter les intrusions dans les espaces confinés. Produit vendu avec l’accessoire Magnet 05.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Le capteur de porte Bluetooth BLUE PUCK MAG est un capteur ultra-compact. 100 % autonome et robuste, ce capteur à détection magnétique sécurise le transport de marchandises. Il est également idéal pour les applications de bâtiments intelligents, permettant de mesurer l’utilisation de l’espace et de détecter les intrusions dans les espaces confinés. Produit vendu avec l’accessoire Magnet 05.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De Bluetooth deursensor BLUE PUCK MAG is een ultracompacte Bluetooth deursensor. Deze 100% autonome en robuuste magnetische detectiesensor zorgt voor goederentransport. Hij is ook ideaal voor slimme gebouwtoepassingen, het meten van ruimtegebruik en inbraak in besloten ruimtes. Het product wordt geleverd met accessoire Magnet 05.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">De Bluetooth deursensor BLUE PUCK MAG is een ultracompacte Bluetooth deursensor. Deze 100% autonome en robuuste magnetische detectiesensor zorgt voor goederentransport. Hij is ook ideaal voor slimme gebouwtoepassingen, het meten van ruimtegebruik en inbraak in besloten ruimtes. Het product wordt geleverd met accessoire Magnet 05.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bluetooth dørsensorBLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.",
+          "bodyHtml": "<p>Bluetooth dørsensor</p><p>BLUE PUCK MAG er en ultrakompakt Bluetooth-dørsensor. 100 % autonom og robust, denne magnetiske deteksjonssensoren sikrer transport av varer. Den er også ideell for smarte byggapplikasjoner, måling av plassutnyttelse og inntrengning i begrensede områder. Produktet selges med Magnet 05-tilbehør.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Bluetooth-dörrsensorBLUE PUCK MAG är en ultrakompakt Bluetooth-dörrsensor. Denna magnetiska detekteringssensor är 100 % autonom och robust och säkerställer transport av varor. Den är också idealisk för smarta byggnadsapplikationer, mätning av utrymmesutnyttjande och intrång i trånga utrymmen. Produkten säljs med tillbehöret Magnet 05.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bluetooth-dörrsensor</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">BLUE PUCK MAG är en ultrakompakt Bluetooth-dörrsensor. Denna magnetiska detekteringssensor är 100 % autonom och robust och säkerställer transport av varor. Den är också idealisk för smarta byggnadsapplikationer, mätning av utrymmesutnyttjande och intrång i trånga utrymmen. Produkten säljs med tillbehöret Magnet 05.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "BLUE PUCK MAG Bluetooth kapı sensörü, ultra kompakt bir Bluetooth kapı sensörüdür. %100 otonom ve sağlam olan bu manyetik algılama sensörü, malların taşınmasını güvence altına alır. Ayrıca, akıllı bina uygulamaları, alan kullanımının ölçülmesi ve kapalı alanlara izinsiz girişin tespit edilmesi için de idealdir. Ürün, Magnet 05 aksesuarı ile birlikte satılmaktadır.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">BLUE PUCK MAG Bluetooth kapı sensörü, ultra kompakt bir Bluetooth kapı sensörüdür. %100 otonom ve sağlam olan bu manyetik algılama sensörü, malların taşınmasını güvence altına alır. Ayrıca, akıllı bina uygulamaları, alan kullanımının ölçülmesi ve kapalı alanlara izinsiz girişin tespit edilmesi için de idealdir. Ürün, Magnet 05 aksesuarı ile birlikte satılmaktadır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "image",
+      "order": 18,
+      "sectionIndex": 7,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ae51618a0db346878ea7aa716b724671mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ae51618a0db346878ea7aa716b724671mv2.jpg",
+          "width": 210,
+          "height": 132
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

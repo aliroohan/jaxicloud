@@ -1,0 +1,174 @@
+/**
+ * Constructor — match live www.jaxicloud.com/en/constractor/
+ * Minimal centered hero, alternating zig-zag bands, full-bleed visual, dense two-col.
+ */
+
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.hero {
+  text-align: center;
+  /* Tighter product-page spacing under breadcrumb / before zig content */
+  padding: clamp(1.25rem, 3vw, 2rem) 0 clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+.subtitle {
+  margin: 1rem auto 0;
+  max-width: 42ch;
+  font-size: clamp(1rem, 1.6vw, 1.125rem);
+  line-height: 1.55;
+  color: #64748b;
+}
+
+.zig {
+  display: grid;
+  gap: clamp(3.5rem, 8vw, 6rem);
+  padding: clamp(0.75rem, 2vw, 1.5rem) 0 clamp(3.5rem, 7vw, 5.5rem);
+}
+
+.zigRow {
+  display: grid;
+  gap: clamp(1.75rem, 4vw, 3rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .zigRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* Default: text left, media right — DOM order copy then media */
+  .zigMediaRight .mediaSlot {
+    order: 2;
+  }
+
+  .zigMediaRight .copySlot {
+    order: 1;
+  }
+
+  /* Flip: media left, text right */
+  .zigMediaLeft .mediaSlot {
+    order: 1;
+  }
+
+  .zigMediaLeft .copySlot {
+    order: 2;
+  }
+}
+
+.heading {
+  font-size: clamp(1.5rem, 2.8vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  color: #0f172a;
+  margin: 0;
+}
+
+.copy {
+  display: grid;
+  gap: 1rem;
+}
+
+.copy :global(.proseHtml),
+.copy :global(p) {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 16 / 11;
+  border-radius: 0.25rem;
+}
+
+.mediaFrameTall {
+  aspect-ratio: 4 / 3;
+}
+
+.videoEl {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  background: #0f172a;
+}
+
+.bleed {
+  padding: 0 0 clamp(3rem, 6vw, 4.5rem);
+}
+
+.bleedMedia {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 21 / 9;
+  min-height: 14rem;
+  overflow: hidden;
+  background: #e2e8f0;
+}
+
+@media (max-width: 700px) {
+  .bleedMedia {
+    aspect-ratio: 16 / 10;
+  }
+}
+
+.dense {
+  padding: 0 0 clamp(4rem, 8vw, 6.5rem);
+}
+
+.denseGrid {
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 4rem);
+}
+
+@media (min-width: 860px) {
+  .denseGrid {
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(2.5rem, 5vw, 5rem);
+    align-items: start;
+  }
+}
+
+.denseCol {
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+}
+
+.denseCol .heading {
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+}
+
+.list {
+  list-style: disc;
+  margin: 0.25rem 0 0 1.15rem;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.list li {
+  font-size: 0.975rem;
+  line-height: 1.55;
+  color: #475569;
+  padding-left: 0.15rem;
+}
+
+.ctaRow {
+  margin-top: 0.5rem;
+}

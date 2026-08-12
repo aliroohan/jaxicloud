@@ -1,0 +1,14 @@
+/* archetype: scorecard */
+.page{background:#ecfdf5;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#047857}
+
+.page{background:#ecfdf5}
+.hero{padding:clamp(3rem,7vw,5rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1.1fr .9fr}}
+.title{font-size:clamp(2.4rem,5vw,3.75rem);max-width:12ch}
+.shot{aspect-ratio:16/11;border-radius:1.25rem}
+.scores{display:grid;gap:1px;background:#a7f3d0;margin:2rem 0;border-radius:1rem;overflow:hidden}
+@media(min-width:700px){.scores{grid-template-columns:repeat(3,1fr)}}
+.score{background:#ecfdf5;padding:1.5rem;min-height:140px}
+.more{padding:2rem 0 5rem}
+

@@ -1,0 +1,1051 @@
+{
+  "slug": "home-214",
+  "pageKind": "marketing",
+  "titles": {
+    "en": "Homepage"
+  },
+  "seo": {
+    "en": {
+      "title": "Homepage - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "en": "https://www.jaxicloud.com/en/home/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "slides",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "slides.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "statCounter",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "4125510",
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "statCounter",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "2700",
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "statCounter",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "160",
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "statCounter",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "3699",
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Applications to make your business easier",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "richText",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "dualCta",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "elementskit-dual-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Click and connect",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Click and connect",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Safe start",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Tacho simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Solutions",
+          "body": "Take a look on our solutions that already our clients use",
+          "bodyHtml": "<p>Take a look on our solutions that already our clients use</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "faqAccordion",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-image-accordion.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "heading",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Sevices that Jaxicloud offers to you",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "testimonial",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "elementskit-testimonial.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "width": 717,
+          "height": 398
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "width": 717,
+          "height": 398
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "width": 717,
+          "height": 398
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT product highlights and benefits",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "European languages",
+          "body": "JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "featureCard",
+      "order": 19,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Seamless integrations",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications. </p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "featureCard",
+      "order": 20,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Hardware-agnostic solution",
+          "body": "integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.",
+          "bodyHtml": "<p>integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "heading",
+      "order": 21,
+      "sectionIndex": 6,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "What we do for your business",
+          "body": "Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "dualCta",
+      "order": 22,
+      "sectionIndex": 6,
+      "widgetType": "elementskit-dual-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "heading",
+      "order": 23,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Take a look at our partners who choose us",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "heading",
+      "order": 24,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": "Leading companies have found a solution to manage their business in the easiest way by hiring our company.",
+          "bodyHtml": "<p>Leading companies have found a solution to manage their business in the easiest way by hiring our company.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "logoGrid",
+      "order": 25,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-client-logo.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent2.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent3.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent4.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent5.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent6.jpg",
+          "width": 87,
+          "height": 73
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "heading",
+      "order": 26,
+      "sectionIndex": 8,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Upcomming events and news",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "blogPosts",
+      "order": 27,
+      "sectionIndex": 8,
+      "widgetType": "elementskit-blog-posts.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/05/Article-image-1024x615.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "heading",
+      "order": 28,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Ready to become your own rescue center?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-30",
+      "type": "formEmbed",
+      "order": 29,
+      "sectionIndex": 9,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

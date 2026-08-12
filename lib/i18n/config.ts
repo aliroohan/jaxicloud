@@ -60,6 +60,7 @@ export const UI_COPY: Record<
   {
     solutions: string;
     allSolutions: string;
+    solutionsIndexLede: string;
     backToSolutions: string;
     requestDemo: string;
     learnMore: string;
@@ -69,6 +70,8 @@ export const UI_COPY: Record<
   en: {
     solutions: "Solutions",
     allSolutions: "All solutions",
+    solutionsIndexLede:
+      "Fleet, sensor, and telematics solutions shaped for how you operate.",
     backToSolutions: "Back to solutions",
     requestDemo: "Request a demo",
     learnMore: "Learn more",
@@ -77,6 +80,8 @@ export const UI_COPY: Record<
   da: {
     solutions: "Løsninger",
     allSolutions: "Alle løsninger",
+    solutionsIndexLede:
+      "Flåde-, sensor- og telematikløsninger tilpasset din drift.",
     backToSolutions: "Tilbage til løsninger",
     requestDemo: "Anmod om en demo",
     learnMore: "Læs mere",
@@ -85,6 +90,8 @@ export const UI_COPY: Record<
   de: {
     solutions: "Lösungen",
     allSolutions: "Alle Lösungen",
+    solutionsIndexLede:
+      "Flotten-, Sensor- und Telematiklösungen für Ihren Betrieb.",
     backToSolutions: "Zurück zu Lösungen",
     requestDemo: "Demo anfordern",
     learnMore: "Mehr erfahren",
@@ -93,6 +100,8 @@ export const UI_COPY: Record<
   fr: {
     solutions: "Solutions",
     allSolutions: "Toutes les solutions",
+    solutionsIndexLede:
+      "Solutions flotte, capteurs et télématique adaptées à votre activité.",
     backToSolutions: "Retour aux solutions",
     requestDemo: "Demander une démo",
     learnMore: "En savoir plus",
@@ -101,6 +110,8 @@ export const UI_COPY: Record<
   nl: {
     solutions: "Oplossingen",
     allSolutions: "Alle oplossingen",
+    solutionsIndexLede:
+      "Vloot-, sensor- en telematica-oplossingen afgestemd op uw operatie.",
     backToSolutions: "Terug naar oplossingen",
     requestDemo: "Demo aanvragen",
     learnMore: "Meer informatie",
@@ -109,6 +120,8 @@ export const UI_COPY: Record<
   nb: {
     solutions: "Løsninger",
     allSolutions: "Alle løsninger",
+    solutionsIndexLede:
+      "Flåte-, sensor- og telematikkløsninger tilpasset driften din.",
     backToSolutions: "Tilbake til løsninger",
     requestDemo: "Be om en demo",
     learnMore: "Les mer",
@@ -117,6 +130,8 @@ export const UI_COPY: Record<
   sv: {
     solutions: "Lösningar",
     allSolutions: "Alla lösningar",
+    solutionsIndexLede:
+      "Fordons-, sensor- och telematiklösningar anpassade för er drift.",
     backToSolutions: "Tillbaka till lösningar",
     requestDemo: "Begär en demo",
     learnMore: "Läs mer",
@@ -125,6 +140,8 @@ export const UI_COPY: Record<
   tr: {
     solutions: "Çözümler",
     allSolutions: "Tüm çözümler",
+    solutionsIndexLede:
+      "Operasyonunuza göre uyarlanmış filo, sensör ve telematik çözümleri.",
     backToSolutions: "Çözümlere dön",
     requestDemo: "Demo talep et",
     learnMore: "Daha fazla",

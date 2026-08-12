@@ -1,0 +1,14 @@
+/* archetype: bookFeatures */
+.page{background:#fffbeb;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#92400e}
+
+.page{background:#fffbeb}
+.hero{padding:clamp(3rem,7vw,5rem) 0;max-width:38rem}.title{font-size:clamp(2.4rem,5vw,3.6rem);color:#451a03}
+.spread{display:grid;gap:1.5rem;padding:1rem 0 3rem}@media(min-width:900px){.spread{grid-template-columns:1.1fr .9fr}}
+.shot{aspect-ratio:3/4;border-radius:1rem .25rem 1rem .25rem}
+.features{display:grid;gap:1rem;padding:0 0 4rem}@media(min-width:700px){.features{grid-template-columns:repeat(2,1fr)}}
+.feat{padding:1.5rem;background:#fff;border-radius:1rem}
+.gallery{display:grid;gap:.75rem;padding-bottom:5rem}@media(min-width:700px){.gallery{grid-template-columns:repeat(4,1fr)}}
+.gshot{aspect-ratio:1;border-radius:.5rem}
+

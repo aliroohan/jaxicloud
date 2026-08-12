@@ -1,0 +1,1020 @@
+{
+  "slug": "click-connect",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Click & Connect DA",
+    "en": "CLICK & CONNECT",
+    "de": "Click & Connect – DE",
+    "fr": "CLICK & CONNECT – FR",
+    "nl": "CLICK & CONNECT – HL",
+    "nb": "CLICK & CONNECT – NO",
+    "sv": "CLICK & CONNECT – SV",
+    "tr": "CLICK & CONNECT – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Klik og tilslut - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Click and connect - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Klicken und verbinden - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Cliquez et connectez-vous - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Klik en maak verbinding - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Klikk og koble til - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Klicka och anslut - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Tiklayin ve bağlanin - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/click-connect-da/",
+    "en": "https://www.jaxicloud.com/en/click-connect/",
+    "de": "https://www.jaxicloud.com/de/click-connect-de/",
+    "fr": "https://www.jaxicloud.com/fr/click-connect-fr/",
+    "nl": "https://www.jaxicloud.com/nl/click-connect-hl/",
+    "nb": "https://www.jaxicloud.com/nb/click-connect-no/",
+    "sv": "https://www.jaxicloud.com/sv/click-connect-sv/",
+    "tr": "https://www.jaxicloud.com/tr/click-connect-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Klik og tilslut",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Click and connect",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Klicken und verbinden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Cliquez et connectez-vous",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Klik en maak verbinding",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Klikk og koble til",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Klicka och anslut",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tiklayin ve bağlanin",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Nem og øjeblikkelig enhedsregistrering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Easy and instant device registration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Einfache und sofortige Geräteregistrierung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Enregistrement de l'appareil facile et instantané",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Eenvoudige en directe apparaatregistratie",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Enkel og umiddelbar enhetsregistrering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Enkel och omedelbar enhetsregistrering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "TIKLAYIN VE BAĞLANIN - Kolay ve anında cihaz kaydı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Denne innovative løsning giver kunderne en problemfri måde at registrere deres sporingsenheder på. Uanset om du er en ny eller eksisterende kunde, kan du til enhver tid tilmelde dig og registrere din enhed ved blot at indtaste IMEI-nummeret. Så snart din enhed er “Tilsluttet”, har du adgang til vores omfattende flådestyringssystem.Fordele ved Klik and Connect:Hurtig og nem registrering:Spar tid og besvær med vores automatiserede registreringsproces.Tilgængelig når som helst:Registrer dine enheder, når det passer dig, dag eller nat.Øjeblikkelig adgang til flådestyring:Få fuld kontrol over din flåde, så snart din enhed er tilsluttet.Ideel til både nye og eksisterende kunder:Uanset om du lige er startet eller en eksisterende kunde, er Klik and Connect den nemmeste måde at registrere dine enheder på. Oplev den problemfri måde at registrere dine sporingsenheder med Klik and Connect. Kom i gang i dag!",
+          "bodyHtml": "<p>Denne innovative løsning giver kunderne en problemfri måde at registrere deres sporingsenheder på. Uanset om du er en ny eller eksisterende kunde, kan du til enhver tid tilmelde dig og registrere din enhed ved blot at indtaste IMEI-nummeret. Så snart din enhed er “Tilsluttet”, har du adgang til vores omfattende flådestyringssystem.</p><p>Fordele ved Klik and Connect:</p><p>Hurtig og nem registrering:</p><p>Spar tid og besvær med vores automatiserede registreringsproces.</p><p>Tilgængelig når som helst:</p><p>Registrer dine enheder, når det passer dig, dag eller nat.</p><p>Øjeblikkelig adgang til flådestyring:</p><p>Få fuld kontrol over din flåde, så snart din enhed er tilsluttet.</p><p>Ideel til både nye og eksisterende kunder:</p><p>Uanset om du lige er startet eller en eksisterende kunde, er Klik and Connect den nemmeste måde at registrere dine enheder på. Oplev den problemfri måde at registrere dine sporingsenheder med Klik and Connect. Kom i gang i dag!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "This innovative solution provides customers with a hassle-free way to register their tracking devices. Whether you are a new or existing customer, you can sign up and register your device at any time by simply entering the IMEI number. As soon as your device is “Connected”, you will have access to our comprehensive fleet management system.Advantages of Klik and Connect:Quick and easy registration:Save time and hassle with our automated registration process.Available anytime:Register your devices at your convenience, day or night.Instant access to fleet management:Get full control of your fleet as soon as your device is connected.Ideal for both new and existing customers:Whether you’re just starting out or an existing customer, Klik and Connect is the easiest way to register your devices. Experience the hassle-free way of registering your tracking devices with Klik and Connect. Get started today!",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This innovative solution provides customers with a hassle-free way to register their tracking devices. Whether you are a new or existing customer, you can sign up and register your device at any time by simply entering the IMEI number. As soon as your device is “Connected”, you will have access to our comprehensive fleet management system.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Advantages of Klik and Connect:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Quick and easy registration:</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Save time and hassle with our automated registration process.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Available anytime:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Register your devices at your convenience, day or night.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Instant access to fleet management:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Get full control of your fleet as soon as your device is connected.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Ideal for both new and existing customers:</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Whether you’re just starting out or an existing customer, Klik and Connect is the easiest way to register your devices. Experience the hassle-free way of registering your tracking devices with Klik and Connect. Get started today!</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Diese innovative Lösung bietet Kunden eine unkomplizierte Möglichkeit, ihre Ortungsgeräte zu registrieren. Ob Neukunde oder Bestandskunde – Sie können sich jederzeit anmelden und Ihr Gerät registrieren, indem Sie einfach die IMEI-Nummer eingeben. Sobald Ihr Gerät verbunden ist, haben Sie Zugriff auf unser umfassendes Flottenmanagementsystem.Vorteile von Klik and Connect:Schnelle und einfache Registrierung:Sparen Sie Zeit und Aufwand mit unserem automatisierten Registrierungsprozess.Jederzeit verfügbar:Registrieren Sie Ihre Geräte, wann immer es Ihnen passt – Tag und Nacht.Sofortiger Zugriff auf das Flottenmanagement:Behalten Sie die volle Kontrolle über Ihre Flotte, sobald Ihr Gerät verbunden ist.Ideal für Neu- und Bestandskunden:Ob Sie gerade erst anfangen oder bereits Kunde sind – Klik and Connect ist der einfachste Weg, Ihre Geräte zu registrieren. Erleben Sie die unkomplizierte Registrierung Ihrer Ortungsgeräte mit Klik and Connect. Legen Sie noch heute los!",
+          "bodyHtml": "<p>Diese innovative Lösung bietet Kunden eine unkomplizierte Möglichkeit, ihre Ortungsgeräte zu registrieren. Ob Neukunde oder Bestandskunde – Sie können sich jederzeit anmelden und Ihr Gerät registrieren, indem Sie einfach die IMEI-Nummer eingeben. Sobald Ihr Gerät verbunden ist, haben Sie Zugriff auf unser umfassendes Flottenmanagementsystem.</p><p>Vorteile von Klik and Connect:</p><p>Schnelle und einfache Registrierung:</p><p>Sparen Sie Zeit und Aufwand mit unserem automatisierten Registrierungsprozess.</p><p>Jederzeit verfügbar:</p><p>Registrieren Sie Ihre Geräte, wann immer es Ihnen passt – Tag und Nacht.</p><p>Sofortiger Zugriff auf das Flottenmanagement:</p><p>Behalten Sie die volle Kontrolle über Ihre Flotte, sobald Ihr Gerät verbunden ist.</p><p>Ideal für Neu- und Bestandskunden:</p><p>Ob Sie gerade erst anfangen oder bereits Kunde sind – Klik and Connect ist der einfachste Weg, Ihre Geräte zu registrieren. Erleben Sie die unkomplizierte Registrierung Ihrer Ortungsgeräte mit Klik and Connect. Legen Sie noch heute los!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Cette solution innovante offre aux clients un moyen simple et rapide d’enregistrer leurs dispositifs de suivi. Que vous soyez un nouveau client ou un client existant, vous pouvez vous inscrire et enregistrer votre appareil à tout moment en saisissant simplement son numéro IMEI. Dès que votre appareil est connecté, vous accédez à notre système complet de gestion de flotte.Avantages de Klik and Connect :Inscription rapide et facile :Gagnez du temps et évitez les tracas grâce à notre processus d’inscription automatisé.Disponible à tout moment :Enregistrez vos appareils quand cela vous convient, de jour comme de nuit.Accès instantané à la gestion de flotte :Prenez le contrôle total de votre flotte dès que votre appareil est connecté.Idéal pour les nouveaux clients et les clients existants : Que vous soyez un nouveau client ou un client existant, Klik and Connect est la solution la plus simple pour enregistrer vos appareils. Découvrez la simplicité d’enregistrement de vos dispositifs de suivi avec Klik and Connect. Lancez-vous dès aujourd’hui !",
+          "bodyHtml": "<p>Cette solution innovante offre aux clients un moyen simple et rapide d’enregistrer leurs dispositifs de suivi. Que vous soyez un nouveau client ou un client existant, vous pouvez vous inscrire et enregistrer votre appareil à tout moment en saisissant simplement son numéro IMEI. Dès que votre appareil est connecté, vous accédez à notre système complet de gestion de flotte.</p><p><strong>Avantages de Klik and Connect :</strong></p><p>Inscription rapide et facile :</p><p>Gagnez du temps et évitez les tracas grâce à notre processus d’inscription automatisé.</p><p><strong>Disponible à tout moment :</strong></p><p>Enregistrez vos appareils quand cela vous convient, de jour comme de nuit.</p><p><strong>Accès instantané à la gestion de flotte :</strong></p><p>Prenez le contrôle total de votre flotte dès que votre appareil est connecté.</p><p><strong>Idéal pour les nouveaux clients et les clients existants : </strong>Que vous soyez un nouveau client ou un client existant, Klik and Connect est la solution la plus simple pour enregistrer vos appareils. Découvrez la simplicité d’enregistrement de vos dispositifs de suivi avec Klik and Connect. Lancez-vous dès aujourd’hui !</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Deze innovatieve oplossing biedt klanten een probleemloze manier om hun trackingapparaten te registreren. Of u nu een nieuwe of bestaande klant bent, u kunt zich op elk moment aanmelden en uw apparaat registreren door simpelweg het IMEI-nummer in te voeren. Zodra uw apparaat is “verbonden”, heeft u toegang tot ons uitgebreide wagenparkbeheersysteem.Voordelen van Klik en Connect:Snelle en eenvoudige registratie:Bespaar tijd en moeite met ons geautomatiseerde registratieproces.Altijd beschikbaar:Registreer uw apparaten wanneer het u uitkomt, dag en nacht.Directe toegang tot wagenparkbeheer:Krijg volledige controle over uw wagenpark zodra uw apparaat is verbonden.Ideaal voor zowel nieuwe als bestaande klanten:Of u nu net begint of al klant bent, Klik en Connect is de eenvoudigste manier om uw apparaten te registreren. Ervaar de probleemloze manier om uw trackingapparaten te registreren met Klik en Connect. Begin vandaag nog!",
+          "bodyHtml": "<p>Deze innovatieve oplossing biedt klanten een probleemloze manier om hun trackingapparaten te registreren. Of u nu een nieuwe of bestaande klant bent, u kunt zich op elk moment aanmelden en uw apparaat registreren door simpelweg het IMEI-nummer in te voeren. Zodra uw apparaat is “verbonden”, heeft u toegang tot ons uitgebreide wagenparkbeheersysteem.</p><p>Voordelen van Klik en Connect:</p><p>Snelle en eenvoudige registratie:</p><p>Bespaar tijd en moeite met ons geautomatiseerde registratieproces.</p><p>Altijd beschikbaar:</p><p>Registreer uw apparaten wanneer het u uitkomt, dag en nacht.</p><p>Directe toegang tot wagenparkbeheer:</p><p>Krijg volledige controle over uw wagenpark zodra uw apparaat is verbonden.</p><p>Ideaal voor zowel nieuwe als bestaande klanten:</p><p>Of u nu net begint of al klant bent, Klik en Connect is de eenvoudigste manier om uw apparaten te registreren. Ervaar de probleemloze manier om uw trackingapparaten te registreren met Klik en Connect. Begin vandaag nog!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Denne innovative løsningen gir kundene en problemfri måte å registrere sporingsenhetene sine på. Enten du er en ny eller eksisterende kunde, kan du registrere deg og registrere enheten din når som helst ved å ganske enkelt skrive inn IMEI-nummeret. Så snart enheten din er “Tilkoblet”, vil du ha tilgang til vårt omfattende flåtestyringssystem.Fordeler med Klikk og Koble til:Rask og enkel registrering:Spar tid og bryderi med vår automatiserte registreringsprosess.Tilgjengelig når som helst:Registrer enhetene dine når det passer deg, dag eller natt.Øyeblikkelig tilgang til flåtestyring:Få full kontroll over flåten din så snart enheten din er tilkoblet.Ideell for både nye og eksisterende kunder:Enten du akkurat har startet eller er en eksisterende kunde, er Klikk og Koble til den enkleste måten å registrere enhetene dine på. Opplev den problemfrie måten å registrere sporingsenhetene dine med Klikk og Koble til. Kom i gang i dag!",
+          "bodyHtml": "<p>Denne innovative løsningen gir kundene en problemfri måte å registrere sporingsenhetene sine på. Enten du er en ny eller eksisterende kunde, kan du registrere deg og registrere enheten din når som helst ved å ganske enkelt skrive inn IMEI-nummeret. Så snart enheten din er “Tilkoblet”, vil du ha tilgang til vårt omfattende flåtestyringssystem.</p><p>Fordeler med Klikk og Koble til:</p><p>Rask og enkel registrering:</p><p>Spar tid og bryderi med vår automatiserte registreringsprosess.</p><p>Tilgjengelig når som helst:</p><p>Registrer enhetene dine når det passer deg, dag eller natt.</p><p>Øyeblikkelig tilgang til flåtestyring:</p><p>Få full kontroll over flåten din så snart enheten din er tilkoblet.</p><p>Ideell for både nye og eksisterende kunder:</p><p>Enten du akkurat har startet eller er en eksisterende kunde, er Klikk og Koble til den enkleste måten å registrere enhetene dine på. Opplev den problemfrie måten å registrere sporingsenhetene dine med Klikk og Koble til. Kom i gang i dag!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Denna innovativa lösning ger kunderna ett problemfritt sätt att registrera sina spårningsenheter. Oavsett om du är en ny eller befintlig kund kan du registrera din enhet när som helst genom att helt enkelt ange IMEI-numret. Så snart din enhet är “Ansluten” har du tillgång till vårt omfattande system för vagnparkshantering.Fördelar med Klik and Connect:Snabb och enkel registrering:Spara tid och krångel med vår automatiserade registreringsprocess.Tillgänglig när som helst:Registrera dina enheter när det passar dig, dag som natt.Omedelbar åtkomst till vagnparkshantering:Få full kontroll över din vagnpark så snart din enhet är ansluten.Perfekt för både nya och befintliga kunder:Oavsett om du precis har börjat eller är en befintlig kund är Klik and Connect det enklaste sättet att registrera dina enheter. Upplev det problemfria sättet att registrera dina spårningsenheter med Klik and Connect. Kom igång idag!",
+          "bodyHtml": "<p>Denna innovativa lösning ger kunderna ett problemfritt sätt att registrera sina spårningsenheter. Oavsett om du är en ny eller befintlig kund kan du registrera din enhet när som helst genom att helt enkelt ange IMEI-numret. Så snart din enhet är “Ansluten” har du tillgång till vårt omfattande system för vagnparkshantering.</p><p>Fördelar med Klik and Connect:</p><p>Snabb och enkel registrering:</p><p>Spara tid och krångel med vår automatiserade registreringsprocess.</p><p>Tillgänglig när som helst:</p><p>Registrera dina enheter när det passar dig, dag som natt.</p><p>Omedelbar åtkomst till vagnparkshantering:</p><p>Få full kontroll över din vagnpark så snart din enhet är ansluten.</p><p>Perfekt för både nya och befintliga kunder:</p><p>Oavsett om du precis har börjat eller är en befintlig kund är Klik and Connect det enklaste sättet att registrera dina enheter. Upplev det problemfria sättet att registrera dina spårningsenheter med Klik and Connect. Kom igång idag!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bu yenilikçi çözüm, müşterilere takip cihazlarını kaydetmenin sorunsuz bir yolunu sunuyor. İster yeni ister mevcut müşteri olun, istediğiniz zaman sadece IMEI numarasını girerek kaydolabilir ve cihazınızı kaydedebilirsiniz. Cihazınız “Bağlanır” bağlanmaz kapsamlı filo yönetim sistemimize erişebileceksiniz.Clik & Connect’in Avantajları:Hızlı ve kolay kayıt:Otomatik kayıt sürecimizle zamandan ve zahmetten tasarruf edin.Her zaman kullanılabilir:Cihazlarınızı gündüz veya gece, size uygun zamanda kaydedin.Filo yönetimine anında erişim:Cihazınız bağlanır bağlanmaz filonuzun tam kontrolünü elinize alın.Hem yeni hem de mevcut müşteriler için idealdir:İster yeni başlıyor olun ister mevcut bir müşteri olun, Click and Connect, cihazlarınızı kaydetmenin en kolay yoludur Click and Connect ile izleme cihazlarınızı kaydetmenin sorunsuz yolunu deneyimleyin. Bugün başlayın!",
+          "bodyHtml": "<p>Bu yenilikçi çözüm, müşterilere takip cihazlarını kaydetmenin sorunsuz bir yolunu sunuyor. İster yeni ister mevcut müşteri olun, istediğiniz zaman sadece IMEI numarasını girerek kaydolabilir ve cihazınızı kaydedebilirsiniz. Cihazınız “Bağlanır” bağlanmaz kapsamlı filo yönetim sistemimize erişebileceksiniz.</p><p>Clik &amp; Connect’in Avantajları:</p><p>Hızlı ve kolay kayıt:</p><p>Otomatik kayıt sürecimizle zamandan ve zahmetten tasarruf edin.</p><p>Her zaman kullanılabilir:</p><p>Cihazlarınızı gündüz veya gece, size uygun zamanda kaydedin.</p><p>Filo yönetimine anında erişim:</p><p>Cihazınız bağlanır bağlanmaz filonuzun tam kontrolünü elinize alın.</p><p>Hem yeni hem de mevcut müşteriler için idealdir:</p><p>İster yeni başlıyor olun ister mevcut bir müşteri olun, Click and Connect, cihazlarınızı kaydetmenin en kolay yoludur Click and Connect ile izleme cihazlarınızı kaydetmenin sorunsuz yolunu deneyimleyin. Bugün başlayın!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "featureCard",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Ny kunde",
+          "body": "Vælg kundestatus: Ny kunde eller Eksisterende kunde.",
+          "bodyHtml": "<p>Vælg kundestatus: Ny kunde eller Eksisterende kunde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "New customer",
+          "body": "Select customer status: New customer or Existing customer.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Select customer status: New customer or Existing customer.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Neuer Kunde",
+          "body": "Kundenstatus auswählen: Neukunde oder Bestandskunde.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kundenstatus auswählen: Neukunde oder Bestandskunde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Nouveau client",
+          "body": "Sélectionnez le statut du client : Nouveau client ou Client existant.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Sélectionnez le statut du client : Nouveau client ou Client existant.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Nieuwe klant",
+          "body": "Selecteer de klantstatus: Nieuwe klant of Bestaande klant.",
+          "bodyHtml": "<p>Selecteer de klantstatus: Nieuwe klant of Bestaande klant.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Ny kunde",
+          "body": "Velg kundestatus: Ny kunde eller Eksisterende kunde.",
+          "bodyHtml": "<p>Velg kundestatus: Ny kunde eller Eksisterende kunde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "New customer",
+          "body": "Välj kundstatus: Ny kund eller Befintlig kund.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Välj kundstatus: Ny kund eller Befintlig kund.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "YENİ MÜŞTERİ",
+          "body": "Müşteri durumunu seçin: Yeni müşteri veya Mevcut müşteri",
+          "bodyHtml": "<p class=\"font_4 wixui-rich-text__text\">Müşteri durumunu seçin: Yeni müşteri veya Mevcut müşteri</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "featureCard",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Vælg kort",
+          "body": "Beslut om integration med Google Maps skal aktiveres.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Beslut om integration med Google Maps skal aktiveres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Select card",
+          "body": "Decide whether integration with Google Maps should be activated.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Decide whether integration with Google Maps should be activated.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Karte auswählen",
+          "body": "Entscheiden Sie, ob die Integration mit Google Maps aktiviert werden soll.",
+          "bodyHtml": "<p>Entscheiden Sie, ob die Integration mit Google Maps aktiviert werden soll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Sélectionnez la carte",
+          "body": "Décidez si l’intégration avec Google Maps doit être activée.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Décidez si l’intégration avec Google Maps doit être activée.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Selecteer kaart",
+          "body": "Bepaal of de integratie met Google Maps moet worden geactiveerd.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bepaal of de integratie met Google Maps moet worden geactiveerd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Velg kort",
+          "body": "Avgjør om integrasjon med Google Maps skal aktiveres.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Avgjør om integrasjon med Google Maps skal aktiveres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Välj kort",
+          "body": "Bestäm om integration med Google Maps ska aktiveras.",
+          "bodyHtml": "<p>Bestäm om integration med Google Maps ska aktiveras.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "KART SEÇİN",
+          "body": "Google Haritalar ile entegrasyonun etkinleştirilip etkinleştirilmeyeceğine karar verin.",
+          "bodyHtml": "<p>Google Haritalar ile entegrasyonun etkinleştirilip etkinleştirilmeyeceğine karar verin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Virksomhedsdata",
+          "body": "1. Udfyld personlige oplysninger: Navn, firma og e-mail.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">1. Udfyld personlige oplysninger: Navn, firma og e-mail.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Company data",
+          "body": "1. Fill in personal information: Name, company and e-mail.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">1. Fill in personal information: Name, company and e-mail.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Unternehmensdaten",
+          "body": "1. Bitte geben Sie Ihre persönlichen Daten an: Name, Firma und E-Mail-Adresse.",
+          "bodyHtml": "<p>1. Bitte geben Sie Ihre persönlichen Daten an: Name, Firma und E-Mail-Adresse.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Données de l'entreprise",
+          "body": "Remplissez les informations personnelles : nom, entreprise et adresse e-mail.",
+          "bodyHtml": "<p>Remplissez les informations personnelles : nom, entreprise et adresse e-mail.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Company data",
+          "body": "1. Vul uw persoonlijke gegevens in: naam, bedrijf en e-mailadres.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">1. Vul uw persoonlijke gegevens in: naam, bedrijf en e-mailadres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Bedriftsdata",
+          "body": "1. Fyll ut personlig informasjon: Navn, firma og e-post.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">1. Fyll ut personlig informasjon: Navn, firma og e-post.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Företagsdata",
+          "body": "Fyll i personuppgifter: Namn, företag och e-postadress.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Fyll i personuppgifter: Namn, företag och e-postadress.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "ŞİRKET VERİLERİ",
+          "body": "1. Kişisel bilgilerinizi girin: İsim, şirket ve e-posta.",
+          "bodyHtml": "<p class=\"font_4 wixui-rich-text__text\">1. Kişisel bilgilerinizi girin: İsim, şirket ve e-posta.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tilføj din enhed",
+          "body": "1. Indtast IMEI-nummeret for at tilføje din enhed.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">1. Indtast IMEI-nummeret for at tilføje din enhed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Add your device",
+          "body": "1.Enter IMEI number to add your device.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">1.Enter IMEI number to add your device.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Fügen Sie Ihr Gerät hinzu",
+          "body": "Geben Sie die IMEI-Nummer ein, um Ihr Gerät hinzuzufügen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Geben Sie die IMEI-Nummer ein, um Ihr Gerät hinzuzufügen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ajoutez votre appareil",
+          "body": "Saisissez le numéro IMEI pour ajouter votre appareil.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Saisissez le numéro IMEI pour ajouter votre appareil.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Voeg uw apparaat toe",
+          "body": "1. Voer het IMEI-nummer in om uw apparaat toe te voegen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">1. Voer het IMEI-nummer in om uw apparaat toe te voegen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Legg til enheten din",
+          "body": "1. Skriv inn IMEI-nummeret for å legge til enheten din.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">1. Skriv inn IMEI-nummeret for å legge til enheten din.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Lägg till din enhet",
+          "body": "Ange IMEI-numret för att lägga till din enhet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Ange IMEI-numret för att lägga till din enhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "CİHAZINIZI EKLEYİN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Abonnement",
+          "body": "Vælg abonnementstype: ULTIMATE, PREMIUM eller BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Vælg abonnementstype: ULTIMATE, PREMIUM eller BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Subscription",
+          "body": "Choose subscription type: ULTIMATE, PREMIUM or BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Choose subscription type: ULTIMATE, PREMIUM or BASIC.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Abonnement",
+          "body": "Wählen Sie Ihren Abonnementtyp: ULTIMATE, PREMIUM oder BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Wählen Sie Ihren Abonnementtyp: ULTIMATE, PREMIUM oder BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Abonnement",
+          "body": "Choisissez votre type d’abonnement : ULTIMATE, PREMIUM ou BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Choisissez votre type d’abonnement : ULTIMATE, PREMIUM ou BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Abonnement",
+          "body": "Kies het abonnementstype: ULTIMATE, PREMIUM of BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kies het abonnementstype: ULTIMATE, PREMIUM of BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Abonnement",
+          "body": "Velg abonnementstype: ULTIMATE, PREMIUM eller BASIC.",
+          "bodyHtml": "<p>Velg abonnementstype: ULTIMATE, PREMIUM eller BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Prenumeration",
+          "body": "Välj prenumerationstyp: ULTIMATE, PREMIUM eller BASIC.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Välj prenumerationstyp: ULTIMATE, PREMIUM eller BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "ABONELİK",
+          "body": "Abonelik türünü seçin: ULTIMATE, PREMIUM veya BASIC.",
+          "bodyHtml": "<p class=\"font_4 wixui-rich-text__text\">Abonelik türünü seçin: ULTIMATE, PREMIUM veya BASIC.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Velkomstmail",
+          "body": "Efter registreringen vil du modtage en velkomstmail og en manual til din e-mail, så du kan komme i gang med det samme.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Efter registreringen vil du modtage en velkomstmail og en manual til din e-mail, så du kan komme i gang med det samme.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Welcome email",
+          "body": "After registration, a welcome email and manual will be sent to your email, so you can get started right away.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">After registration, a welcome email and manual will be sent to your email, </span><span class=\"wixui-rich-text__text\">so you can get started right away.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Willkommens-E-Mail",
+          "body": "Nach der Registrierung erhalten Sie eine Begrüßungs-E-Mail und ein Handbuch per E-Mail, damit Sie sofort loslegen können.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Nach der Registrierung erhalten Sie eine Begrüßungs-E-Mail und ein Handbuch per E-Mail, damit Sie sofort loslegen können.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "E-mail de bienvenue",
+          "body": "Après votre inscription, un courriel de bienvenue et un manuel vous seront envoyés par courriel, vous permettant ainsi de démarrer immédiatement.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Après votre inscription, un courriel de bienvenue et un manuel vous seront envoyés par courriel, vous permettant ainsi de démarrer immédiatement.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Welkomstmail",
+          "body": "Na registratie ontvangt u een welkomstmail en een handleiding per e-mail, zodat u direct aan de slag kunt.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Na registratie ontvangt u een welkomstmail en een handleiding per e-mail, zodat u direct aan de slag kunt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Velkommen e-post",
+          "body": "Etter registrering vil du motta en velkomst-e-post og en manual til e-postadressen din, slik at du kan komme i gang med en gang.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Etter registrering vil du motta en velkomst-e-post og en manual til e-postadressen din, slik at du kan komme i gang med en gang.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Välkomstmail",
+          "body": "Efter registreringen skickas ett välkomstmejl och en manual till din e-postadress, så att du kan komma igång direkt.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Efter registreringen skickas ett välkomstmejl och en manual till din e-postadress, så att du kan komma igång direkt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "HOŞGELDİNİZ E-POSTA",
+          "body": "Kayıt olduktan sonra e-posta adresinize bir hoş geldiniz e-postası ve kılavuz gönderilecektir, böylece hemen başlayabilirsiniz. tion, a welcome email and manual will be sent to your email, so you can get started right away.",
+          "bodyHtml": "<p>Kayıt olduktan sonra e-posta adresinize bir hoş geldiniz e-postası ve kılavuz gönderilecektir, böylece hemen başlayabilirsiniz. <span class=\"wixui-rich-text__text\">tion, a welcome email and manual will be sent to your email, </span><span class=\"wixui-rich-text__text\">so you can get started right away.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Request for demo aplication",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "formEmbed",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

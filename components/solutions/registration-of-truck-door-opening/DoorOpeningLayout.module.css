@@ -1,0 +1,14 @@
+/* archetype: sensorStory */
+.page{background:#f1f5f9;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0f766e}
+
+.hero{padding:clamp(3rem,7vw,5rem) 0;max-width:40rem}
+.title{font-size:clamp(2.3rem,5vw,3.6rem);max-width:16ch}
+.story{display:grid;gap:clamp(2.5rem,6vw,4rem);padding-bottom:5rem}
+.block{display:grid;gap:1.5rem}
+@media(min-width:900px){.block{grid-template-columns:1fr 1fr;align-items:center}}
+.blockFlip{direction:rtl}
+.blockFlip > *{direction:ltr}
+.shot{aspect-ratio:16/11;border-radius:1rem;position:relative;overflow:hidden}
+.product{padding:2rem;background:#fff;border-radius:1.25rem;box-shadow:0 20px 50px rgba(15,23,42,.06)}

@@ -1,0 +1,300 @@
+{
+  "slug": "applications",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Applications DA",
+    "en": "Applications",
+    "de": "Applications DE",
+    "fr": "Applications – FR",
+    "nl": "Applications – HL",
+    "nb": "Applications – NO",
+    "sv": "Applications – SV",
+    "tr": "Applications – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Applikationer - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Applications - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Anwendungen - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Applications - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Aanvraag - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Aanvraag - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Ansökningar - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "UygulamalarApplications - TUR - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/applications-da/",
+    "en": "https://www.jaxicloud.com/en/applications/",
+    "de": "https://www.jaxicloud.com/de/applications-de/",
+    "fr": "https://www.jaxicloud.com/fr/applications-fr/",
+    "nl": "https://www.jaxicloud.com/nl/applications-hl/",
+    "nb": "https://www.jaxicloud.com/nb/applications-no/",
+    "sv": "https://www.jaxicloud.com/sv/applications-sv/",
+    "tr": "https://www.jaxicloud.com/tr/applications-sv-2/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "formEmbed",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "eael-login-register.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Login side",
+          "body": "For at se sidens indhold skal du være logget ind. Husk mig Har du glemt din adgangskode?",
+          "bodyHtml": "<p>For at se sidens indhold skal du være logget ind.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Husk mig</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Har du glemt din adgangskode?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Har du glemt din adgangskode?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Har du glemt din adgangskode?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Login page",
+          "body": "You must be logged in to see the content Remember Me Forgot Password?",
+          "bodyHtml": "<p>You must be logged in to see the content</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Remember Me</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Forgot Password?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Forgot Password?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Forgot Password?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Anmeldeseite",
+          "body": "Um den Seiteninhalt anzuzeigen, müssen Sie angemeldet sein. Erinnere dich an mich Passwort vergessen?",
+          "bodyHtml": "<p>Um den Seiteninhalt anzuzeigen, müssen Sie angemeldet sein.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Erinnere dich an mich</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Passwort vergessen?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Passwort vergessen?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Passwort vergessen?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Page de connexion",
+          "body": "Pour voir le contenu de la page, vous devez être connecté. Souviens-toi de moi Mot de passe oublié?",
+          "bodyHtml": "<p>Pour voir le contenu de la page, vous devez être connecté.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Souviens-toi de moi</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Mot de passe oublié?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mot de passe oublié?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Mot de passe oublié?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Inlogpagina",
+          "body": "Je moet ingelogd zijn om de inhoud te kunnen bekijken. Denk aan mij Wachtwoord vergeten?",
+          "bodyHtml": "<p>Je moet ingelogd zijn om de inhoud te kunnen bekijken.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Denk aan mij</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Wachtwoord vergeten?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Wachtwoord vergeten?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Wachtwoord vergeten?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Påloggingsside",
+          "body": "For å se innholdet på siden må du være logget inn. Husk meg Glemt passordet ditt?",
+          "bodyHtml": "<p>For å se innholdet på siden må du være logget inn.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Husk meg</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Glemt passordet ditt?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Glemt passordet ditt?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Glemt passordet ditt?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Inloggningssida",
+          "body": "För att se sidans innehåll måste du vara inloggad. Kom ihåg mig Glömt ditt lösenord?",
+          "bodyHtml": "<p>För att se sidans innehåll måste du vara inloggad.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Kom ihåg mig</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Glömt ditt lösenord?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Glömt ditt lösenord?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Glömt ditt lösenord?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Giriş sayfası",
+          "body": "Sayfa içeriğini görüntülemek için giriş yapmanız gerekmektedir. Beni Hatırla Şifrenizi mi unuttunuz?",
+          "bodyHtml": "<p>Sayfa içeriğini görüntülemek için giriş yapmanız gerekmektedir.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Beni Hatırla</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Şifrenizi mi unuttunuz?</a></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Şifrenizi mi unuttunuz?",
+              "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+            }
+          ],
+          "ctaLabel": "Şifrenizi mi unuttunuz?",
+          "ctaUrl": "https://www.jaxicloud.com/wp-login.php?action=lostpassword",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "unknown",
+      "order": 1,
+      "sectionIndex": 2,
+      "widgetType": "shortcode.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2320 @@
+{
+  "slug": "services",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Services DA",
+    "en": "Services",
+    "de": "Services – DE",
+    "fr": "Services – FR",
+    "nl": "Services – HL",
+    "nb": "Services – NO",
+    "sv": "Services – SV",
+    "tr": "Services – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "JAXICLOUD-tjenester - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "JAXICLOUD services - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "JAXICLOUD-Dienste - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "JAXICLOUD services - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "JAXICLOUD services - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "JAXICLOUD services - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "JAXICLOUD services - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "JAXICLOUD hizmetleri - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/services-da/",
+    "en": "https://www.jaxicloud.com/en/services/",
+    "de": "https://www.jaxicloud.com/de/services-de/",
+    "fr": "https://www.jaxicloud.com/fr/services-fr/",
+    "nl": "https://www.jaxicloud.com/nl/services-hl/",
+    "nb": "https://www.jaxicloud.com/nb/services-no/",
+    "sv": "https://www.jaxicloud.com/sv/services-sv/",
+    "tr": "https://www.jaxicloud.com/tr/services-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud-Kontrolcentral",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "JAXICLOUD services",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "JAXICLOUD-Dienste",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "JAXICLOUD services",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "JAXICLOUD services",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "JAXICLOUD services",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "JAXICLOUD services",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "JAXICLOUD hizmetleri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "richText",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Digitale onlinetjenester Fremtiden for flådestyring:Bliv dit eget døgnåbne kontrolcenter",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Digitale onlinetjenester Fremtiden for flådestyring:<br>Bliv dit eget døgnåbne kontrolcenter</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Services Online digital The future of Fleet Management:Become your own 24/7 control center",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JAXICLOUD RESCUE EUROPE – Services Online digital The future of Fleet Management:</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Become your own 24/7</span>&nbsp;<span class=\"wixui-rich-text__text\">control center</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Online-Services: Die Zukunft des Flottenmanagements:Werden Sie Ihre eigene 24/7-Leitstelle",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Online-Services: Die Zukunft des Flottenmanagements:</p><p>Werden Sie Ihre eigene 24/7-Leitstelle</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "AXICLOUD RESCUE EUROPE – Services numériques en ligne : L’avenir de la gestion de flotte :Devenez votre propre centre de contrôle disponible 24 h/24 et 7 j/7",
+          "bodyHtml": "<p>AXICLOUD RESCUE EUROPE – Services numériques en ligne : L’avenir de la gestion de flotte :<br>Devenez votre propre centre de contrôle disponible 24 h/24 et 7 j/7</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Online digitale diensten De toekomst van wagenparkbeheer:Word uw eigen 24/7 controlecentrum",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Online digitale diensten De toekomst van wagenparkbeheer:<br>Word uw eigen 24/7 controlecentrum</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Services Online digitale Flådestyringens fremtid:Bliv din egen 24/7 kontrol central",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Services Online digitale Flådestyringens fremtid:<br>Bliv din egen 24/7 kontrol central</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Digitala onlinetjänster Framtiden för flotthantering:Bli din egen kontrollcentral dygnet runt",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Digitala onlinetjänster Framtiden för flotthantering:<br>Bli din egen kontrollcentral dygnet runt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "JAXICLOUD RESCUE EUROPE – Çevrimiçi Hizmetler Dijital Filo Yönetiminin Geleceği:Kendi 7/24 kontrol merkeziniz olun",
+          "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Çevrimiçi Hizmetler Dijital Filo Yönetiminin Geleceği:<br>Kendi 7/24 kontrol merkeziniz olun</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Opgavestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Task management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Aufgabenverwaltung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion des tâches",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Taakbeheer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Administration af opgaver",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Uppgiftshantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Görev yönetimi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "heading",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Formålet med kontrolcentral",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Purpose of the concept",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Purpose of the concept",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Objectif du concept",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Purpose of the concept",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Formål med konceptet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Syftet med konceptet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kavramın amacı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "iconList",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "At give transportvirksomheder, vognmænd og flådeejere adgang til deres eget digitale overvågningscenter. Her kan de selv håndtere og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end med ekstern hjælp."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Offrir aux entreprises de transport, aux transporteurs routiers et aux gestionnaires de flottes un accès à leur propre centre de surveillance numérique. Ils pourront ainsi gérer et réagir eux-mêmes aux incidents, pannes et perturbations opérationnelles, plus rapidement et à moindre coût qu'avec une aide extérieure."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "At give transportvirksomheder, vognmænd og flådeejere adgang til deres egen digitale overvågningscentral. Her kan de selv styre og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end ved ekstern hjælp."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Att ge transportföretag, åkerier och vagnparksägare tillgång till en egen digital övervakningscentral. Här kan de själva hantera och reagera på incidenter, haverier och driftstörningar – snabbare och billigare än med extern hjälp."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "image",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Digitale onlinetjenester Fremtiden for flådestyring: Bliv din egen døgnåbne nødcentral",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Services Online digital The future of fleet management: Become your own 24/7 emergency center",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Services Online digital Die Zukunft des Flottenmanagements: Werden Sie Ihr eigenes 24/7-Notfallzentrum",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Services numériques en ligne : L’avenir de la gestion de flotte : Devenez votre propre centre d’urgence 24 h/24 et 7 j/7",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Diensten Online digitaal De toekomst van wagenparkbeheer: Word uw eigen 24/7 alarmcentrale",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "JAXICLOUD RESCUE EUROPE – Tjenester på nett Fremtiden for flåtestyring: Bli ditt eget døgnåpne nødsenter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "JAXICLOUD RESCUE EUROPE – Digitala onlinetjänster Framtiden för flotthantering: Bli din egen dygnet runt-jourcentral",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Çevrimiçi Hizmetler Dijital Filo yönetiminin geleceği: Kendi 7/24 acil durum merkeziniz olun",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Formålet med konceptet",
+          "body": "At give transportvirksomheder, vognmænd og flådeejere adgang til deres eget digitale overvågningscenter. Her kan de selv håndtere og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end med ekstern hjælp.",
+          "bodyHtml": "<p>At give transportvirksomheder, vognmænd og flådeejere adgang til deres eget digitale overvågningscenter. Her kan de selv håndtere og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end med ekstern hjælp.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Purpose of the concept",
+          "body": "To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.",
+          "bodyHtml": "<p>To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Zweck des Konzepts",
+          "body": "Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe.",
+          "bodyHtml": "<p>Transportunternehmen, Spediteure und Flottenbesitzer erhalten Zugang zu einem eigenen digitalen Überwachungszentrum. Hier können sie Vorfälle, Pannen und Betriebsstörungen selbst verwalten und darauf reagieren – schneller und kostengünstiger als mit externer Hilfe.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Objectif du concept",
+          "body": "Offrir aux entreprises de transport, aux transporteurs routiers et aux gestionnaires de flottes un accès à leur propre centre de surveillance numérique. Ils pourront ainsi gérer et réagir eux-mêmes aux incidents, pannes et perturbations opérationnelles, plus rapidement et à moindre coût qu’avec une aide extérieure.",
+          "bodyHtml": "<p>Offrir aux entreprises de transport, aux transporteurs routiers et aux gestionnaires de flottes un accès à leur propre centre de surveillance numérique. Ils pourront ainsi gérer et réagir eux-mêmes aux incidents, pannes et perturbations opérationnelles, plus rapidement et à moindre coût qu’avec une aide extérieure.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Doel van het concept",
+          "body": "Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp.",
+          "bodyHtml": "<p>Transportbedrijven, vervoerders en wagenparkbeheerders toegang geven tot een eigen digitaal controlecentrum. Hier kunnen ze incidenten, storingen en operationele verstoringen zelf beheren en aanpakken – sneller en goedkoper dan met externe hulp.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Formålet med konseptet",
+          "body": "Å gi transportselskaper, transportører og flåteeiere tilgang til sitt eget digitale overvåkingssenter. Her kan de håndtere og reagere på hendelser, havarier og driftsforstyrrelser selv – raskere og billigere enn med ekstern hjelp.",
+          "bodyHtml": "<p>Å gi transportselskaper, transportører og flåteeiere tilgang til sitt eget digitale overvåkingssenter. Her kan de håndtere og reagere på hendelser, havarier og driftsforstyrrelser selv – raskere og billigere enn med ekstern hjelp.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Syftet med konceptet",
+          "body": "Att ge transportföretag, åkerier och vagnparksägare tillgång till sin egen digitala övervakningscentral. Här kan de själva hantera och reagera på incidenter, haverier och driftstörningar – snabbare och billigare än med extern hjälp.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Att ge transportföretag, åkerier och vagnparksägare tillgång till sin egen digitala övervakningscentral. Här kan de själva hantera och reagera på incidenter, haverier och driftstörningar – snabbare och billigare än med extern hjälp.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Kavramın amacı",
+          "body": "Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur.",
+          "bodyHtml": "<p>Taşımacılık şirketlerine, nakliyecilere ve filo sahiplerine kendi dijital izleme merkezlerine erişim imkanı sağlamak. Burada, olayları, arızaları ve operasyonel aksaklıkları kendileri yönetebilir ve bunlara müdahale edebilirler; bu da dışarıdan yardım almaktan daha hızlı ve daha ucuzdur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Opgaveliste",
+          "body": "Opgavelisten viser som standard opgaver for i dag. Hvis du vil vælge en anden tidsperiode eller søge og filtrere opgaver efter andre kriterier, skal du følge instruktionerne på siden Opgavestyring.",
+          "bodyHtml": "<p>Opgavelisten viser som standard opgaver for i dag. Hvis du vil vælge en anden tidsperiode eller søge og filtrere opgaver efter andre kriterier, skal du følge instruktionerne på siden Opgavestyring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Task list",
+          "body": "The task list shows tasks for today by default. To select a different time period or search and filter tasks by other criteria, follow the instructions on the Task Management page.",
+          "bodyHtml": "<p>The task list shows tasks for today by default. To select a different time period or search and filter tasks by other criteria, follow the instructions on the Task Management page.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Aufgabenliste",
+          "body": "Die Aufgabenliste zeigt standardmäßig die Aufgaben für heute an. Um einen anderen Zeitraum auszuwählen oder Aufgaben nach anderen Kriterien zu suchen und zu filtern, folgen Sie den Anweisungen auf der Seite „Aufgabenverwaltung“.",
+          "bodyHtml": "<p>Die Aufgabenliste zeigt standardmäßig die Aufgaben für heute an. Um einen anderen Zeitraum auszuwählen oder Aufgaben nach anderen Kriterien zu suchen und zu filtern, folgen Sie den Anweisungen auf der Seite „Aufgabenverwaltung“.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Liste des tâches",
+          "body": "La liste des tâches affiche par défaut les tâches du jour. Pour sélectionner une autre période ou rechercher et filtrer les tâches selon d’autres critères, suivez les instructions de la page Gestion des tâches.",
+          "bodyHtml": "<p>La liste des tâches affiche par défaut les tâches du jour. Pour sélectionner une autre période ou rechercher et filtrer les tâches selon d’autres critères, suivez les instructions de la page Gestion des tâches.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Takenlijst",
+          "body": "De takenlijst toont standaard de taken voor vandaag. Om een ​​andere periode te selecteren of taken te zoeken en filteren op andere criteria, volgt u de instructies op de pagina Taakbeheer.",
+          "bodyHtml": "<p>De takenlijst toont standaard de taken voor vandaag. Om een ​​andere periode te selecteren of taken te zoeken en filteren op andere criteria, volgt u de instructies op de pagina Taakbeheer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Oppgaveliste",
+          "body": "Oppgavelisten viser som standard oppgaver for i dag. Hvis du vil velge en annen tidsperiode eller søke etter og filtrere oppgaver etter andre kriterier, følger du instruksjonene på siden Oppgavebehandling.",
+          "bodyHtml": "<p>Oppgavelisten viser som standard oppgaver for i dag. Hvis du vil velge en annen tidsperiode eller søke etter og filtrere oppgaver etter andre kriterier, følger du instruksjonene på siden Oppgavebehandling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Uppgiftslista",
+          "body": "Som standard visar uppgiftslistan dagens uppgifter. Om du vill välja en annan tidsperiod eller söka efter och filtrera uppgifter efter andra kriterier följer du instruktionerna på sidan Uppgiftshantering.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Som standard visar uppgiftslistan dagens uppgifter. Om du vill välja en annan tidsperiod eller söka efter och filtrera uppgifter efter andra kriterier följer du instruktionerna på sidan Uppgiftshantering.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Görev listesi",
+          "body": "Görev listesi varsayılan olarak bugüne ait görevleri gösterir. Farklı bir zaman aralığı seçmek veya görevleri diğer kriterlere göre aramak ve filtrelemek için Görev Yönetimi sayfasındaki yönergeleri izleyin.",
+          "bodyHtml": "<p>Görev listesi varsayılan olarak bugüne ait görevleri gösterir. Farklı bir zaman aralığı seçmek veya görevleri diğer kriterlere göre aramak ve filtrelemek için Görev Yönetimi sayfasındaki yönergeleri izleyin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "JAXICLOUD tilbyder:",
+          "body": "Installation af al hardwareOpsætning af Jaxicloud-opgaver og -alarmerSupport, træning og onboarding",
+          "bodyHtml": "<p>Installation af al hardware</p><p>Opsætning af Jaxicloud-opgaver og -alarmer<br>Support, træning og onboarding</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "JAXICLOUD offers:",
+          "body": "Installation of all hardwareSetting up Jaxicloud tasks and alarms Support, training and onboarding",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Installation of all hardware</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Setting up Jaxicloud tasks and alarms Support, training and onboarding</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "JAXICLOUD bietet:",
+          "body": "Installation der gesamten HardwareEinrichtung von Jaxicloud-Aufgaben und -AlarmenSupport, Schulung und Einarbeitung",
+          "bodyHtml": "<p>Installation der gesamten Hardware</p><p>Einrichtung von Jaxicloud-Aufgaben und -Alarmen<br>Support, Schulung und Einarbeitung</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "JAXICLOUD propose :",
+          "body": "Installation de tout le matérielConfiguration des tâches et alarmes JaxicloudAssistance, formation et intégration",
+          "bodyHtml": "<p>Installation de tout le matériel</p><p>Configuration des tâches et alarmes Jaxicloud<br>Assistance, formation et intégration</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "JAXICLOUD biedt:",
+          "body": "Installatie van alle hardwareInstellen van Jaxicloud-taken en -alarmen Ondersteuning, training en onboarding",
+          "bodyHtml": "<p>Installatie van alle hardware</p><p>Instellen van Jaxicloud-taken en -alarmen Ondersteuning, training en onboarding</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "JAXICLOUD tilbyr:",
+          "body": "Installasjon av all maskinvareKonfigurering av Jaxicloud-oppgaver og -alarmer Støtte, opplæring og onboarding",
+          "bodyHtml": "<p>Installasjon av all maskinvare</p><p>Konfigurering av Jaxicloud-oppgaver og -alarmer Støtte, opplæring og onboarding</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "JAXICLOUD erbjuder:",
+          "body": "Installation av all hårdvara Konfigurera Jaxicloud-uppgifter och larm Support, utbildning och onboarding",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Installation av all hårdvara </span><span class=\"wixui-rich-text__text\">Konfigurera Jaxicloud-uppgifter och larm Support, utbildning och onboarding</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "JAXICLOUD şunları sunar:",
+          "body": "Tüm donanımın kurulumuJaxicloud görevlerinin ve alarmlarının ayarlanması Destek, eğitim ve oryantasyon",
+          "bodyHtml": "<p>Tüm donanımın kurulumu</p><p>Jaxicloud görevlerinin ve alarmlarının ayarlanması Destek, eğitim ve oryantasyon</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan det virker",
+          "body": "Overvågning i realtid Direkte data fra trailere og lastbiler (EBS, TPMS, kølemaskiner, dashcams, FMS/CAN) Alarmer for fejl, nedbrud, temperaturafvigelser eller brændstofforbrug Live GPS og status fra hele flåden",
+          "bodyHtml": "<p>Overvågning i realtid Direkte data fra trailere og lastbiler (EBS, TPMS, kølemaskiner, dashcams, FMS/CAN) Alarmer for fejl, nedbrud, temperaturafvigelser eller brændstofforbrug Live GPS og status fra hele flåden</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "How it works",
+          "body": "Real-time monitoring Direct data from trailers and trucks (EBS, TPMS, refrigeration machines, dashcams, FMS/CAN)Alarms for errors, breakdowns, temperature deviations or fuel consumptionLive GPS and status from the entire fleet",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Real-time monitoring Direct data from trailers and trucks (EBS, TPMS, refrigeration machines, dashcams, FMS/CAN)Alarms for errors, breakdowns, temperature deviations or fuel consumption</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS and status from the entire fleet</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Wie es funktioniert",
+          "body": "Echtzeitüberwachung Direkte Daten von Anhängern und Lkw (EBS, TPMS, Kühlaggregate, Dashcams, FMS/CAN) Alarme bei Fehlern, Pannen, Temperaturabweichungen oder KraftstoffverbrauchLive GPS and status from the entire fleet",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Echtzeitüberwachung Direkte Daten von Anhängern und Lkw (EBS, TPMS, Kühlaggregate, Dashcams, FMS/CAN) Alarme bei Fehlern, Pannen, Temperaturabweichungen oder Kraftstoffverbrauch</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS and status from the entire fleet</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Comment ça marche",
+          "body": "Surveillance en temps réel : données directes des remorques et camions (EBS, TPMS, groupes frigorifiques, caméras embarquées, FMS/CAN). Alarmes en cas d’erreurs, de pannes, d’écarts de température ou de consommation de carburant anormale.GPS et statut en direct de l’ensemble de la flotte.",
+          "bodyHtml": "<p>Surveillance en temps réel : données directes des remorques et camions (EBS, TPMS, groupes frigorifiques, caméras embarquées, FMS/CAN). Alarmes en cas d’erreurs, de pannes, d’écarts de température ou de consommation de carburant anormale.</p><p>GPS et statut en direct de l’ensemble de la flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Hoe het werkt",
+          "body": "Realtime monitoring Directe data van trailers en vrachtwagens (EBS, TPMS, koelmachines, dashcams, FMS/CAN) Alarmen voor fouten, storingen, temperatuurafwijkingen of brandstofverbruikLive GPS en status van het gehele wagenpark",
+          "bodyHtml": "<p>Realtime monitoring Directe data van trailers en vrachtwagens (EBS, TPMS, koelmachines, dashcams, FMS/CAN) Alarmen voor fouten, storingen, temperatuurafwijkingen of brandstofverbruik</p><p>Live GPS en status van het gehele wagenpark</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Slik fungerer det:",
+          "body": "Sanntidsovervåking Direkte data fra tilhengere og lastebiler (EBS, TPMS, kjølemaskiner, dashbordkameraer, FMS/CAN) Alarmer for feil, havari, temperaturavvik eller drivstofforbrukLive GPS og status fra hele flåten",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sanntidsovervåking Direkte data fra tilhengere og lastebiler (EBS, TPMS, kjølemaskiner, dashbordkameraer, FMS/CAN) Alarmer for feil, havari, temperaturavvik eller drivstofforbruk</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS og status fra hele flåten</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Hur det fungerar:",
+          "body": "Realtidsövervakning Direktdata från släpvagnar och lastbilar (EBS, TPMS, kylmaskiner, dashcams, FMS/CAN) Larm för fel, haverier, temperaturavvikelser eller bränsleförbrukningLive-GPS och status från hela flottan",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Realtidsövervakning Direktdata från släpvagnar och lastbilar (EBS, TPMS, kylmaskiner, dashcams, FMS/CAN) Larm för fel, haverier, temperaturavvikelser eller bränsleförbrukning</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live-GPS och status från hela flottan</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Nasıl çalışır?",
+          "body": "Gerçek zamanlı izleme: Treyler ve kamyonlardan doğrudan veri (EBS, TPMS, soğutma makineleri, araç içi kameralar, FMS/CAN), hata, arıza, sıcaklık sapmaları veya yakıt tüketimi için alarm.Tüm filonun canlı GPS ve durum bilgileri.",
+          "bodyHtml": "<p>Gerçek zamanlı izleme: Treyler ve kamyonlardan doğrudan veri (EBS, TPMS, soğutma makineleri, araç içi kameralar, FMS/CAN), hata, arıza, sıcaklık sapmaları veya yakıt tüketimi için alarm.</p><p>Tüm filonun canlı GPS ve durum bilgileri.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "24/7 kontrol",
+          "body": "24/7 kontrol – uden at betale for et tredjeparts sikkerhedscenterKortere responstid – egen reaktion eller netværkDirekte rapportering og dokumentationLavere omkostninger pr. opgaveMulighed for at fakturere hjælpen internt (eller viderefakturere)",
+          "bodyHtml": "<p>24/7 kontrol – uden at betale for et tredjeparts sikkerhedscenter<br>Kortere responstid – egen reaktion eller netværk<br>Direkte rapportering og dokumentation</p><p>Lavere omkostninger pr. opgave</p><p>Mulighed for at fakturere hjælpen internt (eller viderefakturere)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "24/7 control",
+          "body": "24/7 control – without paying for a third-party security centerShorter response time – own reaction or networkDirect reporting and documentationLower costs per taskPossibility to invoice the help internally (or re-invoice)",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">24/7 control – without paying for a third-party security center<br></span><span class=\"wixui-rich-text__text\">Shorter response time – own reaction or network<br></span><span class=\"wixui-rich-text__text\">Direct reporting and documentation</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Lower costs per task</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Possibility to invoice the help internally (or re-invoice)</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "24/7-Kontrolle",
+          "body": "24/7-Kontrolle – ohne Kosten für ein externes SicherheitszentrumKürzere Reaktionszeit – durch eigene Maßnahmen oder das eigene NetzwerkDirekte Berichterstattung und DokumentationNiedrigere Kosten pro AufgabeMöglichkeit zur internen Abrechnung der Unterstützung (oder Weiterverrechnung)",
+          "bodyHtml": "<p>24/7-Kontrolle – ohne Kosten für ein externes Sicherheitszentrum<br>Kürzere Reaktionszeit – durch eigene Maßnahmen oder das eigene Netzwerk<br>Direkte Berichterstattung und Dokumentation</p><p>Niedrigere Kosten pro Aufgabe</p><p>Möglichkeit zur internen Abrechnung der Unterstützung (oder Weiterverrechnung)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Contrôle 24h/24 et 7j/7",
+          "body": "Contrôle 24h/24 et 7j/7 – sans frais de centre de sécurité tiersTemps de réponse plus court – intervention interne ou via le réseauRapports et documentation directsCoûts par tâche réduitsPossibilité de facturer l’assistance en interne (ou de refacturer)",
+          "bodyHtml": "<p>Contrôle 24h/24 et 7j/7 – sans frais de centre de sécurité tiers<br>Temps de réponse plus court – intervention interne ou via le réseau<br>Rapports et documentation directs</p><p>Coûts par tâche réduits</p><p>Possibilité de facturer l’assistance en interne (ou de refacturer)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "24/7 controle",
+          "body": "24/7 controle – zonder te betalen voor een extern beveiligingscentrumKortere reactietijd – eigen reactie of netwerkDirecte rapportage en documentatieLagere kosten per taakMogelijkheid om de hulp intern te factureren (of door te factureren)",
+          "bodyHtml": "<p>24/7 controle – zonder te betalen voor een extern beveiligingscentrum<br>Kortere reactietijd – eigen reactie of netwerk<br>Directe rapportage en documentatie</p><p>Lagere kosten per taak</p><p>Mogelijkheid om de hulp intern te factureren (of door te factureren)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Døgnkontroll – uten å betale for et tredjeparts sikkerhetssenter",
+          "body": "Kortere responstid – egen reaksjon eller nettverkDirekte rapportering og dokumentasjonLavere kostnader per oppgaveMulighet for å fakturere hjelpen internt (eller viderefakturere)",
+          "bodyHtml": "<p>Kortere responstid – egen reaksjon eller nettverk</p><p>Direkte rapportering og dokumentasjon</p><p>Lavere kostnader per oppgave</p><p>Mulighet for å fakturere hjelpen internt (eller viderefakturere)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Kontroll dygnet runt",
+          "body": "Utan att betala för ett säkerhetscenter från tredje part Kortare svarstid – egen reaktion eller nätverk Direktrapportering och dokumentation Lägre kostnader per uppgift Möjlighet att fakturera hjälpen internt (eller vidarefakturera)",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Utan att betala för ett säkerhetscenter från tredje part </span><span class=\"wixui-rich-text__text\">Kortare svarstid – egen reaktion eller nätverk </span><span class=\"wixui-rich-text__text\">Direktrapportering och dokumentation </span><span class=\"wixui-rich-text__text\">Lägre kostnader per uppgift </span><span class=\"wixui-rich-text__text\">Möjlighet att fakturera hjälpen internt (eller vidarefakturera)</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "7/24 kontrol",
+          "body": "7/24 kontrol – üçüncü taraf güvenlik merkezine ödeme yapmadanDaha kısa yanıt süresi – kendi tepkiniz veya ağınızDoğrudan raporlama ve dokümantasyonGörev başına daha düşük maliyetlerYardım için dahili fatura kesme (veya yeniden fatura kesme) imkanı",
+          "bodyHtml": "<p>7/24 kontrol – üçüncü taraf güvenlik merkezine ödeme yapmadan<br>Daha kısa yanıt süresi – kendi tepkiniz veya ağınız<br>Doğrudan raporlama ve dokümantasyon</p><p>Görev başına daha düşük maliyetler</p><p>Yardım için dahili fatura kesme (veya yeniden fatura kesme) imkanı</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "JAXICLOUD Redningspartner",
+          "body": "Delt netværk for opsøgende partnereRescue Plus: Jaxiclouds brug af sit eget 24/7 netværkRescueSelf: Komplet selvbetjening med egne køretøjer",
+          "bodyHtml": "<p>Delt netværk for opsøgende partnere</p><p>Rescue Plus: Jaxiclouds brug af sit eget 24/7 netværk</p><p>RescueSelf: Komplet selvbetjening med egne køretøjer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "JAXICLOUD Rescue Partner",
+          "body": "Shared network for outreach partnersRescue Plus: Jaxicloud’s use of its own 24/7 networkRescueSelf: Complete self-service with own vehicles",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Shared network for outreach partners</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Rescue Plus: Jaxicloud’s use of its own 24/7 network</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">RescueSelf: Complete self-service with own vehicles</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "JAXICLOUD Rettungspartner",
+          "body": "Gemeinsames Netzwerk für EinsatzpartnerRescue Plus: Jaxicloud nutzt sein eigenes 24/7-NetzwerkRescueSelf: Vollständige Selbstversorgung mit eigenen Fahrzeugen",
+          "bodyHtml": "<p>Gemeinsames Netzwerk für Einsatzpartner</p><p>Rescue Plus: Jaxicloud nutzt sein eigenes 24/7-Netzwerk</p><p>RescueSelf: Vollständige Selbstversorgung mit eigenen Fahrzeugen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Partenaire de sauvetage JAXICLOUD",
+          "body": "Réseau partagé pour les partenaires d’interventionRescue Plus : Utilisation par Jaxicloud de son propre réseau disponible 24 h/24 et 7 j/7RescueSelf : Service entièrement autonome avec véhicules propres",
+          "bodyHtml": "<p>Réseau partagé pour les partenaires d’intervention</p><p>Rescue Plus : Utilisation par Jaxicloud de son propre réseau disponible 24 h/24 et 7 j/7</p><p>RescueSelf : Service entièrement autonome avec véhicules propres</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "JAXICLOUD Reddingspartner",
+          "body": "Gedeeld netwerk voor outreach-partnersRescue Plus: Jaxicloud’s eigen 24/7 netwerkRescueSelf: Volledige selfservice met eigen voertuigen",
+          "bodyHtml": "<p>Gedeeld netwerk voor outreach-partners</p><p>Rescue Plus: Jaxicloud’s eigen 24/7 netwerk</p><p>RescueSelf: Volledige selfservice met eigen voertuigen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "JAXICLOUD redningspartner:",
+          "body": "Delt nettverk for oppsøkende partnereRescue Plus: Jaxiclouds bruk av sitt eget døgnåpne nettverkRescueSelf: Komplett selvbetjening med egne kjøretøy",
+          "bodyHtml": "<p>Delt nettverk for oppsøkende partnere</p><p>Rescue Plus: Jaxiclouds bruk av sitt eget døgnåpne nettverk</p><p>RescueSelf: Komplett selvbetjening med egne kjøretøy</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "JAXICLOUD Räddningspartner:",
+          "body": "Delat nätverk för uppsökande partners Rescue Plus: Jaxiclouds användning av sitt eget nätverk dygnet runt RescueSelf: Komplett självbetjäning med egna fordon",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Delat nätverk för uppsökande partners </span><span class=\"wixui-rich-text__text\">Rescue Plus: Jaxiclouds användning av sitt eget nätverk dygnet runt </span><span class=\"wixui-rich-text__text\">RescueSelf: Komplett självbetjäning med egna fordon</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "JAXICLOUD Kurtarma Ortağı",
+          "body": "Yardım ortakları için paylaşımlı ağRescue Plus: Jaxicloud’un kendi 7/24 ağını kullanmasıRescueSelf: Kendi araçlarıyla tam kapsamlı self servis",
+          "bodyHtml": "<p>Yardım ortakları için paylaşımlı ağ</p><p>Rescue Plus: Jaxicloud’un kendi 7/24 ağını kullanması</p><p>RescueSelf: Kendi araçlarıyla tam kapsamlı self servis</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Praktiske opgaver",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Practical tasks",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Praktische Aufgaben",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Tâches pratiques",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Praktische taken",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Praktiske oppgaver",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Praktiska uppgifter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Pratik görevler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "iconList",
+      "order": 14,
+      "sectionIndex": 4,
+      "widgetType": "eael-feature-list.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Alle nødvendige oplysninger samlet ét sted",
+          "body": "Når en hændelse opstår, vises den automatisk som en opgave i en dedikeret fane under Opgaver. Fanen viser vigtige oplysninger for hver opgave, herunder prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og det tilsvarende enhedsnavn. Brugere kan også åbne det linkede opgavekort for at se yderligere detaljer såsom placering, kommentarer, enheds- og chaufføroplysninger, geofences og andre data. Den intuitive og brugervenlige brugerflade sikrer, at dispatchere hurtigt kan få adgang til kritiske oplysninger, hvilket giver større overblik og kontrol over flådens aktiver.Brugere kan interagere direkte med opgaver i Jaxicloud, hvilket giver dem mulighed for at gennemgå og redigere vigtige oplysninger, tildele opgaver til kolleger, justere deres prioritet og status og efterlade kommentarer. Visse handlinger, såsom ændring af status eller tildelte opgaver, kan udføres i bulk, hvilket muliggør effektiv redigering af flere opgaver på én gang. Brugere kan også udføre kommandoer direkte fra opgavekortet eller straks kontakte chaufføren, hvis det er nødvendigt. Dette sikrer grundig sporing af hver opgave gennem hele dens livscyklus, indtil den er løst og lukket.Fanen indsamler og gemmer oplysninger om alle opgaver, inklusive nye og dem, der allerede er blevet løst eller afvist, og giver adgang til en fuld historik, når det er nødvendigt. Brugere kan sortere opgaver baseret på forskellige kriterier, såsom dato, status eller type, og gennemgå detaljerne for hver opgave, inklusive de udførte handlinger og resultaterne. Disse data giver værdifuld indsigt, der hjælper med at identificere mønstre, evaluere koordinatorernes ydeevne og implementere procesforbedringer.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Når en hændelse opstår, vises den automatisk som en opgave i en dedikeret fane under Opgaver. Fanen viser vigtige oplysninger for hver opgave, herunder prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og det tilsvarende enhedsnavn. Brugere kan også åbne det linkede opgavekort for at se yderligere detaljer såsom placering, kommentarer, enheds- og chaufføroplysninger, geofences og andre data. Den intuitive og brugervenlige brugerflade sikrer, at dispatchere hurtigt kan få adgang til kritiske oplysninger, hvilket giver større overblik og kontrol over flådens aktiver.</p><p class=\"eael-feature-list-content\">Brugere kan interagere direkte med opgaver i Jaxicloud, hvilket giver dem mulighed for at gennemgå og redigere vigtige oplysninger, tildele opgaver til kolleger, justere deres prioritet og status og efterlade kommentarer. Visse handlinger, såsom ændring af status eller tildelte opgaver, kan udføres i bulk, hvilket muliggør effektiv redigering af flere opgaver på én gang. Brugere kan også udføre kommandoer direkte fra opgavekortet eller straks kontakte chaufføren, hvis det er nødvendigt. Dette sikrer grundig sporing af hver opgave gennem hele dens livscyklus, indtil den er løst og lukket.</p><p class=\"eael-feature-list-content\">Fanen indsamler og gemmer oplysninger om alle opgaver, inklusive nye og dem, der allerede er blevet løst eller afvist, og giver adgang til en fuld historik, når det er nødvendigt. Brugere kan sortere opgaver baseret på forskellige kriterier, såsom dato, status eller type, og gennemgå detaljerne for hver opgave, inklusive de udførte handlinger og resultaterne. Disse data giver værdifuld indsigt, der hjælper med at identificere mønstre, evaluere koordinatorernes ydeevne og implementere procesforbedringer.</p>",
+          "listItems": [
+            "Alle nødvendige oplysninger samlet ét sted Når en hændelse opstår, vises den automatisk som en opgave i en dedikeret fane under Opgaver. Fanen viser vigtige oplysninger for hver opgave, herunder prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og det tilsvarende enhedsnavn. Brugere kan også åbne det linkede opgavekort for at se yderligere detaljer såsom placering, kommentarer, enheds- og chaufføroplysninger, geofences og andre data. Den intuitive og brugervenlige brugerflade sikrer, at dispatchere hurtigt kan få adgang til kritiske oplysninger, hvilket giver større overblik og kontrol over flådens aktiver.",
+            "Forskellige interaktionsmuligheder for opgaver Brugere kan interagere direkte med opgaver i Jaxicloud, hvilket giver dem mulighed for at gennemgå og redigere vigtige oplysninger, tildele opgaver til kolleger, justere deres prioritet og status og efterlade kommentarer. Visse handlinger, såsom ændring af status eller tildelte opgaver, kan udføres i bulk, hvilket muliggør effektiv redigering af flere opgaver på én gang. Brugere kan også udføre kommandoer direkte fra opgavekortet eller straks kontakte chaufføren, hvis det er nødvendigt. Dette sikrer grundig sporing af hver opgave gennem hele dens livscyklus, indtil den er løst og lukket.",
+            "Opgavehistorikken er tilgængelig når som helst Fanen indsamler og gemmer oplysninger om alle opgaver, inklusive nye og dem, der allerede er blevet løst eller afvist, og giver adgang til en fuld historik, når det er nødvendigt. Brugere kan sortere opgaver baseret på forskellige kriterier, såsom dato, status eller type, og gennemgå detaljerne for hver opgave, inklusive de udførte handlinger og resultaterne. Disse data giver værdifuld indsigt, der hjælper med at identificere mønstre, evaluere koordinatorernes ydeevne og implementere procesforbedringer."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "en": {
+          "heading": "All necessary information gathered in one place",
+          "body": "When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.</p><p class=\"eael-feature-list-content\">Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.</p><p class=\"eael-feature-list-content\">The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements.</p>",
+          "listItems": [
+            "All necessary information gathered in one place When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.",
+            "Different interaction options for tasks Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.",
+            "Task history is available at any time The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Alle notwendigen Informationen an einem Ort gesammelt",
+          "body": "Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.</p><p class=\"eael-feature-list-content\">Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.</p><p class=\"eael-feature-list-content\">Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen.</p>",
+          "listItems": [
+            "Alle notwendigen Informationen an einem Ort gesammelt Bei einem Vorfall erscheint dieser automatisch als Aufgabe in einem separaten Tab unter „Aufgaben“. Der Tab zeigt wichtige Informationen zu jeder Aufgabe an, darunter Priorität, Status, zuständige Person, Lösung, Zeit, Beschreibung und den zugehörigen Gerätenamen. Benutzer können außerdem die verknüpfte Aufgabenkarte öffnen, um zusätzliche Details wie Standort, Kommentare, Geräte- und Fahrerinformationen, Geofences und weitere Daten einzusehen. Die intuitive und benutzerfreundliche Oberfläche ermöglicht es Disponenten, schnell auf wichtige Informationen zuzugreifen und so die Transparenz und Kontrolle über ihre Flotte zu verbessern.",
+            "Verschiedene Interaktionsmöglichkeiten für Aufgaben Nutzer können direkt in Jaxicloud mit Aufgaben interagieren und so wichtige Informationen einsehen und bearbeiten, Aufgaben Kollegen zuweisen, Priorität und Status anpassen sowie Kommentare hinzufügen. Bestimmte Aktionen, wie das Ändern des Status oder der Bearbeiter, lassen sich in einem Schritt ausführen, wodurch mehrere Aufgaben gleichzeitig effizient bearbeitet werden können. Nutzer können außerdem direkt von der Aufgabenkarte aus Befehle ausführen oder bei Bedarf sofort den zuständigen Mitarbeiter kontaktieren. Dies gewährleistet die lückenlose Nachverfolgung jeder Aufgabe während ihres gesamten Lebenszyklus bis zu ihrer Erledigung und ihrem Abschluss.",
+            "Der Aufgabenverlauf ist jederzeit verfügbar. Dieser Tab erfasst und speichert Informationen zu allen Aufgaben, sowohl zu neuen als auch zu bereits erledigten oder abgelehnten, und bietet bei Bedarf Zugriff auf die vollständige Historie. Nutzer können Aufgaben nach verschiedenen Kriterien wie Datum, Status oder Typ sortieren und die Details jeder Aufgabe, einschließlich der durchgeführten Aktionen und Ergebnisse, einsehen. Diese Daten liefern wertvolle Erkenntnisse, die helfen, Muster zu erkennen, die Leistung der Disponenten zu bewerten und Prozessverbesserungen umzusetzen."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Toutes les informations nécessaires rassemblées en un seul endroit",
+          "body": "Lorsqu'un incident survient, il apparaît automatiquement comme une tâche dans un onglet dédié de la section « Tâches ». Cet onglet affiche les informations clés de chaque tâche : priorité, statut, personne responsable, résolution, durée, description et nom du périphérique concerné. Les utilisateurs peuvent également ouvrir la fiche de tâche associée pour consulter des détails supplémentaires tels que la localisation, les commentaires, les informations sur le périphérique et le conducteur, les zones géographiques et autres données. L'interface intuitive et facile à utiliser permet aux répartiteurs d'accéder rapidement aux informations essentielles, offrant ainsi une meilleure visibilité et un contrôle accru sur les ressources de la flotte.Dans Jaxicloud, les utilisateurs peuvent interagir directement avec les tâches, consulter et modifier les informations importantes, assigner des tâches à des collègues, ajuster leur priorité et leur statut, et laisser des commentaires. Certaines actions, comme la modification du statut ou des personnes assignées, peuvent être effectuées en masse, permettant ainsi de modifier efficacement plusieurs tâches simultanément. Les utilisateurs peuvent également exécuter des commandes directement depuis la fiche de tâche ou contacter immédiatement le responsable si nécessaire. Ceci garantit un suivi complet de chaque tâche tout au long de son cycle de vie, jusqu'à sa résolution et sa clôture.Cet onglet centralise et stocke les informations relatives à toutes les tâches, nouvelles et terminées ou refusées, et permet d'accéder à l'historique complet. Les utilisateurs peuvent trier les tâches selon différents critères, tels que la date, le statut ou le type, et consulter le détail de chaque tâche, notamment les actions entreprises et les résultats obtenus. Ces données fournissent des informations précieuses qui aident à identifier les tendances, à évaluer les performances du répartiteur et à optimiser les processus.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Lorsqu'un incident survient, il apparaît automatiquement comme une tâche dans un onglet dédié de la section « Tâches ». Cet onglet affiche les informations clés de chaque tâche : priorité, statut, personne responsable, résolution, durée, description et nom du périphérique concerné. Les utilisateurs peuvent également ouvrir la fiche de tâche associée pour consulter des détails supplémentaires tels que la localisation, les commentaires, les informations sur le périphérique et le conducteur, les zones géographiques et autres données. L'interface intuitive et facile à utiliser permet aux répartiteurs d'accéder rapidement aux informations essentielles, offrant ainsi une meilleure visibilité et un contrôle accru sur les ressources de la flotte.</p><p class=\"eael-feature-list-content\">Dans Jaxicloud, les utilisateurs peuvent interagir directement avec les tâches, consulter et modifier les informations importantes, assigner des tâches à des collègues, ajuster leur priorité et leur statut, et laisser des commentaires. Certaines actions, comme la modification du statut ou des personnes assignées, peuvent être effectuées en masse, permettant ainsi de modifier efficacement plusieurs tâches simultanément. Les utilisateurs peuvent également exécuter des commandes directement depuis la fiche de tâche ou contacter immédiatement le responsable si nécessaire. Ceci garantit un suivi complet de chaque tâche tout au long de son cycle de vie, jusqu'à sa résolution et sa clôture.</p><p class=\"eael-feature-list-content\">Cet onglet centralise et stocke les informations relatives à toutes les tâches, nouvelles et terminées ou refusées, et permet d'accéder à l'historique complet. Les utilisateurs peuvent trier les tâches selon différents critères, tels que la date, le statut ou le type, et consulter le détail de chaque tâche, notamment les actions entreprises et les résultats obtenus. Ces données fournissent des informations précieuses qui aident à identifier les tendances, à évaluer les performances du répartiteur et à optimiser les processus.</p>",
+          "listItems": [
+            "Toutes les informations nécessaires rassemblées en un seul endroit Lorsqu'un incident survient, il apparaît automatiquement comme une tâche dans un onglet dédié de la section « Tâches ». Cet onglet affiche les informations clés de chaque tâche : priorité, statut, personne responsable, résolution, durée, description et nom du périphérique concerné. Les utilisateurs peuvent également ouvrir la fiche de tâche associée pour consulter des détails supplémentaires tels que la localisation, les commentaires, les informations sur le périphérique et le conducteur, les zones géographiques et autres données. L'interface intuitive et facile à utiliser permet aux répartiteurs d'accéder rapidement aux informations essentielles, offrant ainsi une meilleure visibilité et un contrôle accru sur les ressources de la flotte.",
+            "Différentes options d'interaction pour les tâches Dans Jaxicloud, les utilisateurs peuvent interagir directement avec les tâches, consulter et modifier les informations importantes, assigner des tâches à des collègues, ajuster leur priorité et leur statut, et laisser des commentaires. Certaines actions, comme la modification du statut ou des personnes assignées, peuvent être effectuées en masse, permettant ainsi de modifier efficacement plusieurs tâches simultanément. Les utilisateurs peuvent également exécuter des commandes directement depuis la fiche de tâche ou contacter immédiatement le responsable si nécessaire. Ceci garantit un suivi complet de chaque tâche tout au long de son cycle de vie, jusqu'à sa résolution et sa clôture.",
+            "L'historique des tâches est disponible à tout moment. Cet onglet centralise et stocke les informations relatives à toutes les tâches, nouvelles et terminées ou refusées, et permet d'accéder à l'historique complet. Les utilisateurs peuvent trier les tâches selon différents critères, tels que la date, le statut ou le type, et consulter le détail de chaque tâche, notamment les actions entreprises et les résultats obtenus. Ces données fournissent des informations précieuses qui aident à identifier les tendances, à évaluer les performances du répartiteur et à optimiser les processus."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Alle benodigde informatie op één plek verzameld",
+          "body": "Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.</p><p class=\"eael-feature-list-content\">Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.</p><p class=\"eael-feature-list-content\">Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen.</p>",
+          "listItems": [
+            "Alle benodigde informatie op één plek verzameld Wanneer zich een incident voordoet, verschijnt het automatisch als taak op een speciaal tabblad onder Taken. Het tabblad toont belangrijke informatie voor elke taak, waaronder prioriteit, status, toegewezen persoon, oplossing, tijd, beschrijving en de bijbehorende apparaatnaam. Gebruikers kunnen ook de gekoppelde taakkaart openen om aanvullende details te bekijken, zoals locatie, opmerkingen, apparaat- en bestuurdersinformatie, geofences en andere gegevens. De intuïtieve en gebruiksvriendelijke interface zorgt ervoor dat dispatchers snel toegang hebben tot cruciale informatie, wat zorgt voor meer inzicht in en controle over de assets van het wagenpark.",
+            "Verschillende interactie-opties voor taken Gebruikers kunnen rechtstreeks met taken in Jaxicloud werken, waardoor ze belangrijke informatie kunnen bekijken en bewerken, taken aan collega's kunnen toewijzen, hun prioriteit en status kunnen aanpassen en opmerkingen kunnen achterlaten. Bepaalde acties, zoals het wijzigen van de status of toegewezen taken, kunnen in bulk worden uitgevoerd, waardoor meerdere taken efficiënt tegelijk kunnen worden bewerkt. Gebruikers kunnen ook opdrachten rechtstreeks vanuit de taakkaart uitvoeren of indien nodig direct contact opnemen met de driver. Dit zorgt voor een grondige opvolging van elke taak gedurende de gehele levenscyclus totdat deze is opgelost en afgesloten.",
+            "De taakgeschiedenis is op elk moment beschikbaar Het tabblad verzamelt en bewaart informatie over alle taken, inclusief nieuwe taken en taken die al zijn opgelost of afgewezen. Het biedt indien nodig toegang tot een volledige geschiedenis. Gebruikers kunnen taken sorteren op basis van verschillende criteria, zoals datum, status of type, en de details van elke taak bekijken, inclusief de uitgevoerde acties en de resultaten. Deze gegevens bieden waardevolle inzichten die helpen bij het identificeren van patronen, het evalueren van de prestaties van de dispatcher en het implementeren van procesverbeteringen."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "All nødvendig informasjon samlet på ett sted",
+          "body": "Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.</p><p class=\"eael-feature-list-content\">Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.</p><p class=\"eael-feature-list-content\">Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer.\n</p>",
+          "listItems": [
+            "All nødvendig informasjon samlet på ett sted Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.",
+            "Ulike interaksjonsalternativer for oppgaver Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.",
+            "Oppgavehistorikk er tilgjengelig når som helst Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "All nödvändig information samlad på ett ställe",
+          "body": "När en händelse inträffar visas den automatiskt som en uppgift på en dedikerad flik under Uppgifter. Fliken visar viktig information för varje uppgift, inklusive prioritet, status, tilldelad person, lösning, tid, beskrivning och motsvarande entitetsnamn. Användare kan också öppna det länkade aktivitetskortet för att visa ytterligare information som plats, kommentarer, enhets- och drivrutinsinformation, geofences och annan data. Det intuitiva och lättnavigerade användargränssnittet säkerställer att trafikledare snabbt kan komma åt viktig information, vilket ger större överblick och kontroll över flottans tillgångar.Användare kan interagera direkt med uppgifter i Jaxicloud, vilket gör att de kan granska och redigera viktig information, tilldela uppgifter till kollegor, justera deras prioritet och status och lämna kommentarer. Vissa åtgärder, som att ändra status eller tilldelade personer, kan utföras i bulk, vilket möjliggör effektiv redigering av flera uppgifter samtidigt. Användare kan också utföra kommandon direkt från uppgiftskortet eller omedelbart kontakta föraren vid behov. Detta säkerställer noggrann spårning av varje uppgift under hela dess livscykel tills den är löst och avslutad.Fliken samlar in och lagrar information om alla uppgifter, inklusive nya och de som redan har lösts eller avvisats, vilket ger tillgång till en fullständig historik vid behov. Användare kan sortera uppgifter baserat på olika kriterier, till exempel datum, status eller typ, och granska detaljerna för varje uppgift, inklusive utförda åtgärder och resultat. Denna data ger värdefulla insikter som hjälper till att identifiera mönster, utvärdera avsändares prestanda och implementera processförbättringar.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">När en händelse inträffar visas den automatiskt som en uppgift på en dedikerad flik under Uppgifter. Fliken visar viktig information för varje uppgift, inklusive prioritet, status, tilldelad person, lösning, tid, beskrivning och motsvarande entitetsnamn. Användare kan också öppna det länkade aktivitetskortet för att visa ytterligare information som plats, kommentarer, enhets- och drivrutinsinformation, geofences och annan data. Det intuitiva och lättnavigerade användargränssnittet säkerställer att trafikledare snabbt kan komma åt viktig information, vilket ger större överblick och kontroll över flottans tillgångar.</p><p class=\"eael-feature-list-content\">Användare kan interagera direkt med uppgifter i Jaxicloud, vilket gör att de kan granska och redigera viktig information, tilldela uppgifter till kollegor, justera deras prioritet och status och lämna kommentarer. Vissa åtgärder, som att ändra status eller tilldelade personer, kan utföras i bulk, vilket möjliggör effektiv redigering av flera uppgifter samtidigt. Användare kan också utföra kommandon direkt från uppgiftskortet eller omedelbart kontakta föraren vid behov. Detta säkerställer noggrann spårning av varje uppgift under hela dess livscykel tills den är löst och avslutad.</p><p class=\"eael-feature-list-content\">Fliken samlar in och lagrar information om alla uppgifter, inklusive nya och de som redan har lösts eller avvisats, vilket ger tillgång till en fullständig historik vid behov. Användare kan sortera uppgifter baserat på olika kriterier, till exempel datum, status eller typ, och granska detaljerna för varje uppgift, inklusive utförda åtgärder och resultat. Denna data ger värdefulla insikter som hjälper till att identifiera mönster, utvärdera avsändares prestanda och implementera processförbättringar.</p>",
+          "listItems": [
+            "All nödvändig information samlad på ett ställe När en händelse inträffar visas den automatiskt som en uppgift på en dedikerad flik under Uppgifter. Fliken visar viktig information för varje uppgift, inklusive prioritet, status, tilldelad person, lösning, tid, beskrivning och motsvarande entitetsnamn. Användare kan också öppna det länkade aktivitetskortet för att visa ytterligare information som plats, kommentarer, enhets- och drivrutinsinformation, geofences och annan data. Det intuitiva och lättnavigerade användargränssnittet säkerställer att trafikledare snabbt kan komma åt viktig information, vilket ger större överblick och kontroll över flottans tillgångar.",
+            "Olika interaktionsalternativ för uppgifter Användare kan interagera direkt med uppgifter i Jaxicloud, vilket gör att de kan granska och redigera viktig information, tilldela uppgifter till kollegor, justera deras prioritet och status och lämna kommentarer. Vissa åtgärder, som att ändra status eller tilldelade personer, kan utföras i bulk, vilket möjliggör effektiv redigering av flera uppgifter samtidigt. Användare kan också utföra kommandon direkt från uppgiftskortet eller omedelbart kontakta föraren vid behov. Detta säkerställer noggrann spårning av varje uppgift under hela dess livscykel tills den är löst och avslutad.",
+            "Uppgiftshistoriken är tillgänglig när som helst Fliken samlar in och lagrar information om alla uppgifter, inklusive nya och de som redan har lösts eller avvisats, vilket ger tillgång till en fullständig historik vid behov. Användare kan sortera uppgifter baserat på olika kriterier, till exempel datum, status eller typ, och granska detaljerna för varje uppgift, inklusive utförda åtgärder och resultat. Denna data ger värdefulla insikter som hjälper till att identifiera mönster, utvärdera avsändares prestanda och implementera processförbättringar."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Gerekli tüm bilgiler tek bir yerde toplandı.",
+          "body": "Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar.",
+          "bodyHtml": "<p class=\"eael-feature-list-content\">Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.</p><p class=\"eael-feature-list-content\">Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.</p><p class=\"eael-feature-list-content\">Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar.</p>",
+          "listItems": [
+            "Gerekli tüm bilgiler tek bir yerde toplandı. Bir olay meydana geldiğinde, otomatik olarak Görevler altında özel bir sekmede görev olarak görünür. Sekme, öncelik, durum, atanan kişi, çözüm, süre, açıklama ve ilgili cihaz adı dahil olmak üzere her görev için önemli bilgileri görüntüler. Kullanıcılar ayrıca, konum, yorumlar, cihaz ve sürücü bilgileri, coğrafi sınırlar ve diğer veriler gibi ek ayrıntıları görüntülemek için bağlantılı görev kartını açabilirler. Sezgisel ve kullanımı kolay arayüz, sevk görevlilerinin kritik bilgilere hızlı bir şekilde erişmesini sağlayarak filo varlıkları üzerinde daha fazla görünürlük ve kontrol sağlar.",
+            "Görevler için farklı etkileşim seçenekleri Kullanıcılar Jaxicloud'da görevlerle doğrudan etkileşim kurabilir, önemli bilgileri inceleyip düzenleyebilir, görevleri meslektaşlarına atayabilir, önceliklerini ve durumlarını ayarlayabilir ve yorum bırakabilirler. Durum veya atanan kişileri değiştirme gibi bazı işlemler toplu olarak gerçekleştirilebilir, bu da birden fazla görevin aynı anda verimli bir şekilde düzenlenmesini sağlar. Kullanıcılar ayrıca görev kartından doğrudan komutlar çalıştırabilir veya gerekirse sürücüyle hemen iletişime geçebilirler. Bu, her görevin yaşam döngüsü boyunca çözülüp kapatılana kadar kapsamlı bir şekilde izlenmesini sağlar.",
+            "Görev geçmişine her zaman erişilebilir. Bu sekme, yeni görevler ve daha önce çözülmüş veya reddedilmiş görevler de dahil olmak üzere tüm görevler hakkında bilgi toplar ve saklar; gerektiğinde tam bir geçmişe erişim sağlar. Kullanıcılar görevleri tarih, durum veya tür gibi çeşitli kriterlere göre sıralayabilir ve gerçekleştirilen eylemler ve sonuçlar da dahil olmak üzere her görevin ayrıntılarını inceleyebilir. Bu veriler, kalıpları belirlemeye, dağıtımcı performansını değerlendirmeye ve süreç iyileştirmeleri uygulamaya yardımcı olan değerli bilgiler sağlar."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "image",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Prøv Opgaver nu!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Try Tasks now!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Testen Sie Tasks jetzt!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Essayez Tasks dès maintenant !",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Probeer Taken nu!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Prøv Huskeliste nå!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Testa Uppgifter nu!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Görevleri şimdi deneyin!",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Opgaver repræsenterer et betydeligt skridt fremad i Jaxiclouds løbende bestræbelser på at levere mere effektive flådestyringsværktøjer, der hjælper virksomheder med at forblive effektive og organiserede. Flådeejere kan nu administrere og reagere på hændelser mere effektivt via en centraliseret grænseflade, hvilket sikrer, at alle relaterede opgaver tildeles, spores og løses korrekt. Muligheden for at gennemgå og analysere tidligere opgaver hjælper med at forbedre ydeevnen og indsamle statistiske data. Samtidig udvider det nye værktøj Jaxiclouds liste over kernefunktioner, hvilket gør det muligt for Jaxiclouds partnere bedre at imødekomme kundernes behov uden at udvikle eller integrere yderligere tredjepartsløsninger. Vi opfordrer vores partnere til at dele deres tanker om den nye funktionalitet via feedbackformularen på fanen Opgaver eller direkte med Wialons produktteam på info@jaxicloud.com. Dine input og forslag vil guide den fremtidige udvikling af denne funktion. Hvis du endnu ikke er Jaxicloud-partner, men gerne vil prøve Opgaver-funktionen og udforske de mange andre muligheder, som Wialon tilbyder, bedes du kontakte os på sales@jaxicloud.com - vi hjælper dig gerne.",
+          "body": "Opgaver repræsenterer et betydeligt skridt fremad i Jaxiclouds løbende bestræbelser på at levere mere effektive flådestyringsværktøjer, der hjælper virksomheder med at forblive effektive og organiserede. Flådeejere kan nu administrere og reagere på hændelser mere effektivt via en centraliseret grænseflade, hvilket sikrer, at alle relaterede opgaver tildeles, spores og løses korrekt. Muligheden for at gennemgå og analysere tidligere opgaver hjælper med at forbedre ydeevnen og indsamle statistiske data. Samtidig udvider det nye værktøj Jaxiclouds liste over kernefunktioner, hvilket gør det muligt for Jaxiclouds partnere bedre at imødekomme kundernes behov uden at udvikle eller integrere yderligere tredjepartsløsninger. Vi opfordrer vores partnere til at dele deres tanker om den nye funktionalitet via feedbackformularen på fanen Opgaver eller direkte med Wialons produktteam på info@jaxicloud.com. Dine input og forslag vil guide den fremtidige udvikling af denne funktion. Hvis du endnu ikke er Jaxicloud-partner, men gerne vil prøve Opgaver-funktionen og udforske de mange andre muligheder, som Wialon tilbyder, bedes du kontakte os på sales@jaxicloud.com - vi hjælper dig gerne.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Opgaver repræsenterer et betydeligt skridt fremad i Jaxiclouds løbende bestræbelser på at levere mere effektive flådestyringsværktøjer, der hjælper virksomheder med at forblive effektive og organiserede. Flådeejere kan nu administrere og reagere på hændelser mere effektivt via en centraliseret grænseflade, hvilket sikrer, at alle relaterede opgaver tildeles, spores og løses korrekt. Muligheden for at gennemgå og analysere tidligere opgaver hjælper med at forbedre ydeevnen og indsamle statistiske data. Samtidig udvider det nye værktøj Jaxiclouds liste over kernefunktioner, hvilket gør det muligt for Jaxiclouds partnere bedre at imødekomme kundernes behov uden at udvikle eller integrere yderligere tredjepartsløsninger. Vi opfordrer vores partnere til at dele deres tanker om den nye funktionalitet via feedbackformularen på fanen Opgaver eller direkte med Wialons produktteam på info@jaxicloud.com. Dine input og forslag vil guide den fremtidige udvikling af denne funktion. Hvis du endnu ikke er Jaxicloud-partner, men gerne vil prøve Opgaver-funktionen og udforske de mange andre muligheder, som Wialon tilbyder, bedes du kontakte os på sales@jaxicloud.com - vi hjælper dig gerne.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.",
+          "body": "Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.",
+          "body": "Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Die neue Aufgabenfunktion ist ein wichtiger Schritt in Jaxiclouds kontinuierlichen Bemühungen, effektivere Flottenmanagement-Tools bereitzustellen, die Unternehmen zu mehr Effizienz und Organisation verhelfen. Flottenbesitzer können nun Vorfälle über eine zentrale Schnittstelle effizienter verwalten und darauf reagieren. So wird sichergestellt, dass alle relevanten Aufgaben korrekt zugewiesen, verfolgt und gelöst werden. Die Möglichkeit, vergangene Aufgaben einzusehen und zu analysieren, trägt zur Leistungssteigerung bei und ermöglicht die Erfassung statistischer Daten. Gleichzeitig erweitert das neue Tool die Kernfunktionen von Jaxicloud und ermöglicht es Jaxicloud-Partnern, Kundenbedürfnisse besser zu erfüllen, ohne zusätzliche Drittanbieterlösungen entwickeln oder integrieren zu müssen. Wir bitten unsere Partner, uns ihre Meinung zur neuen Funktion über das Feedback-Formular auf der Registerkarte „Aufgaben“ oder direkt an das Wialon-Produktteam unter info@jaxicloud.com mitzuteilen. Ihr Feedback und Ihre Vorschläge fließen in die Weiterentwicklung dieser Funktion ein. Wenn Sie noch kein Jaxicloud-Partner sind, aber die Aufgabenfunktion testen und die vielen weiteren Optionen von Wialon kennenlernen möchten, kontaktieren Sie uns bitte unter sales@jaxicloud.com – wir helfen Ihnen gerne weiter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "La fonctionnalité Tâches représente une avancée majeure dans les efforts continus de Jaxicloud pour fournir des outils de gestion de flotte plus performants, permettant aux entreprises d'optimiser leur efficacité et leur organisation. Les gestionnaires de flotte peuvent désormais gérer et traiter les incidents plus efficacement grâce à une interface centralisée, garantissant ainsi l'attribution, le suivi et la résolution correcte de toutes les tâches associées. La possibilité de consulter et d'analyser les tâches passées contribue à améliorer les performances et à collecter des données statistiques. Parallèlement, ce nouvel outil enrichit la gamme de fonctionnalités de base de Jaxicloud, permettant à ses partenaires de mieux répondre aux besoins de leurs clients sans avoir à développer ni à intégrer de solutions tierces supplémentaires. Nous invitons nos partenaires à nous faire part de leurs impressions sur cette nouvelle fonctionnalité via le formulaire de commentaires de l'onglet Tâches ou directement auprès de l'équipe produit Wialon à l'adresse info@jaxicloud.com. Vos commentaires et suggestions orienteront le développement futur de cette fonctionnalité. Si vous n'êtes pas encore partenaire Jaxicloud, mais souhaitez tester la fonctionnalité Tâches et découvrir les nombreuses autres options offertes par Wialon, n'hésitez pas à nous contacter à l'adresse sales@jaxicloud.com ; nous serons ravis de vous aider.",
+          "body": "La fonctionnalité Tâches représente une avancée majeure dans les efforts continus de Jaxicloud pour fournir des outils de gestion de flotte plus performants, permettant aux entreprises d'optimiser leur efficacité et leur organisation. Les gestionnaires de flotte peuvent désormais gérer et traiter les incidents plus efficacement grâce à une interface centralisée, garantissant ainsi l'attribution, le suivi et la résolution correcte de toutes les tâches associées. La possibilité de consulter et d'analyser les tâches passées contribue à améliorer les performances et à collecter des données statistiques. Parallèlement, ce nouvel outil enrichit la gamme de fonctionnalités de base de Jaxicloud, permettant à ses partenaires de mieux répondre aux besoins de leurs clients sans avoir à développer ni à intégrer de solutions tierces supplémentaires. Nous invitons nos partenaires à nous faire part de leurs impressions sur cette nouvelle fonctionnalité via le formulaire de commentaires de l'onglet Tâches ou directement auprès de l'équipe produit Wialon à l'adresse info@jaxicloud.com. Vos commentaires et suggestions orienteront le développement futur de cette fonctionnalité. Si vous n'êtes pas encore partenaire Jaxicloud, mais souhaitez tester la fonctionnalité Tâches et découvrir les nombreuses autres options offertes par Wialon, n'hésitez pas à nous contacter à l'adresse sales@jaxicloud.com ; nous serons ravis de vous aider.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">La fonctionnalité Tâches représente une avancée majeure dans les efforts continus de Jaxicloud pour fournir des outils de gestion de flotte plus performants, permettant aux entreprises d'optimiser leur efficacité et leur organisation. Les gestionnaires de flotte peuvent désormais gérer et traiter les incidents plus efficacement grâce à une interface centralisée, garantissant ainsi l'attribution, le suivi et la résolution correcte de toutes les tâches associées. La possibilité de consulter et d'analyser les tâches passées contribue à améliorer les performances et à collecter des données statistiques. Parallèlement, ce nouvel outil enrichit la gamme de fonctionnalités de base de Jaxicloud, permettant à ses partenaires de mieux répondre aux besoins de leurs clients sans avoir à développer ni à intégrer de solutions tierces supplémentaires. Nous invitons nos partenaires à nous faire part de leurs impressions sur cette nouvelle fonctionnalité via le formulaire de commentaires de l'onglet Tâches ou directement auprès de l'équipe produit Wialon à l'adresse info@jaxicloud.com. Vos commentaires et suggestions orienteront le développement futur de cette fonctionnalité. Si vous n'êtes pas encore partenaire Jaxicloud, mais souhaitez tester la fonctionnalité Tâches et découvrir les nombreuses autres options offertes par Wialon, n'hésitez pas à nous contacter à l'adresse sales@jaxicloud.com ; nous serons ravis de vous aider.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.",
+          "body": "Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Taken vormen een belangrijke stap voorwaarts in Jaxiclouds voortdurende inspanningen om effectievere tools voor wagenparkbeheer te leveren die bedrijven helpen efficiënt en georganiseerd te blijven. Wagenparkeigenaren kunnen incidenten nu efficiënter beheren en erop reageren via een gecentraliseerde interface, waardoor alle gerelateerde taken correct worden toegewezen, gevolgd en opgelost. De mogelijkheid om eerdere taken te bekijken en te analyseren helpt de prestaties te verbeteren en statistische gegevens te verzamelen. Tegelijkertijd breidt de nieuwe tool de lijst met kernfuncties van Jaxicloud uit, waardoor partners van Jaxicloud beter kunnen voldoen aan de behoeften van klanten zonder aanvullende oplossingen van derden te ontwikkelen of te integreren. We moedigen onze partners aan om hun mening over de nieuwe functionaliteit te delen via het feedbackformulier op het tabblad Taken of rechtstreeks met het Wialon-productteam via info@jaxicloud.com. Uw input en suggesties zullen de toekomstige ontwikkeling van deze functie sturen. Bent u nog geen Jaxicloud-partner, maar wilt u de Taken-functie uitproberen en de vele andere opties van Wialon verkennen? Neem dan contact met ons op via sales@jaxicloud.com — we helpen u graag verder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.",
+          "body": "Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.\n\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tasks representerar ett betydande steg framåt i Jaxiclouds pågående arbete med att leverera mer effektiva verktyg för flotthantering som hjälper företag att hålla sig effektiva och organiserade. Flottägare kan nu hantera och reagera på incidenter mer effektivt via ett centraliserat gränssnitt, vilket säkerställer att alla relaterade uppgifter tilldelas, spåras och löses korrekt. Möjligheten att granska och analysera tidigare uppgifter hjälper till att förbättra prestanda och samla in statistiska data. Samtidigt utökar det nya verktyget Jaxiclouds lista över kärnfunktioner, vilket gör det möjligt för Jaxiclouds partners att bättre möta kundernas behov utan att utveckla eller integrera ytterligare tredjepartslösningar. Vi uppmuntrar våra partners att dela sina tankar om den nya funktionaliteten via feedbackformuläret på fliken Uppgifter eller direkt med Wialons produktteam på info@jaxicloud.com. Era synpunkter och förslag kommer att vägleda den framtida utvecklingen av den här funktionen. Om du ännu inte är Jaxicloud-partner, men vill prova Tasks-funktionen och utforska de många andra alternativen som Wialon erbjuder, vänligen kontakta oss på sales@jaxicloud.com — vi hjälper dig gärna.",
+          "body": "Tasks representerar ett betydande steg framåt i Jaxiclouds pågående arbete med att leverera mer effektiva verktyg för flotthantering som hjälper företag att hålla sig effektiva och organiserade. Flottägare kan nu hantera och reagera på incidenter mer effektivt via ett centraliserat gränssnitt, vilket säkerställer att alla relaterade uppgifter tilldelas, spåras och löses korrekt. Möjligheten att granska och analysera tidigare uppgifter hjälper till att förbättra prestanda och samla in statistiska data. Samtidigt utökar det nya verktyget Jaxiclouds lista över kärnfunktioner, vilket gör det möjligt för Jaxiclouds partners att bättre möta kundernas behov utan att utveckla eller integrera ytterligare tredjepartslösningar. Vi uppmuntrar våra partners att dela sina tankar om den nya funktionaliteten via feedbackformuläret på fliken Uppgifter eller direkt med Wialons produktteam på info@jaxicloud.com. Era synpunkter och förslag kommer att vägleda den framtida utvecklingen av den här funktionen. Om du ännu inte är Jaxicloud-partner, men vill prova Tasks-funktionen och utforska de många andra alternativen som Wialon erbjuder, vänligen kontakta oss på sales@jaxicloud.com — vi hjälper dig gärna.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Tasks representerar ett betydande steg framåt i Jaxiclouds pågående arbete med att leverera mer effektiva verktyg för flotthantering som hjälper företag att hålla sig effektiva och organiserade. Flottägare kan nu hantera och reagera på incidenter mer effektivt via ett centraliserat gränssnitt, vilket säkerställer att alla relaterade uppgifter tilldelas, spåras och löses korrekt. Möjligheten att granska och analysera tidigare uppgifter hjälper till att förbättra prestanda och samla in statistiska data. Samtidigt utökar det nya verktyget Jaxiclouds lista över kärnfunktioner, vilket gör det möjligt för Jaxiclouds partners att bättre möta kundernas behov utan att utveckla eller integrera ytterligare tredjepartslösningar. Vi uppmuntrar våra partners att dela sina tankar om den nya funktionaliteten via feedbackformuläret på fliken Uppgifter eller direkt med Wialons produktteam på info@jaxicloud.com. Era synpunkter och förslag kommer att vägleda den framtida utvecklingen av den här funktionen. Om du ännu inte är Jaxicloud-partner, men vill prova Tasks-funktionen och utforska de många andra alternativen som Wialon erbjuder, vänligen kontakta oss på sales@jaxicloud.com — vi hjälper dig gärna.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.",
+          "body": "Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Görevler özelliği, Jaxicloud'un işletmelerin verimli ve düzenli kalmasına yardımcı olan daha etkili filo yönetim araçları sunma çabalarında önemli bir ilerlemeyi temsil ediyor. Filo sahipleri artık merkezi bir arayüz aracılığıyla olayları daha verimli bir şekilde yönetebilir ve bunlara yanıt verebilir, böylece ilgili tüm görevlerin doğru şekilde atanmasını, izlenmesini ve çözülmesini sağlayabilirler. Geçmiş görevleri inceleme ve analiz etme yeteneği, performansı iyileştirmeye ve istatistiksel veriler toplamaya yardımcı olur. Aynı zamanda, yeni araç Jaxicloud'un temel özellikler listesini genişleterek, Jaxicloud ortaklarının ek üçüncü taraf çözümler geliştirmeden veya entegre etmeden müşteri ihtiyaçlarını daha iyi karşılamasını sağlar. Ortaklarımızı, Görevler sekmesindeki geri bildirim formu aracılığıyla veya doğrudan info@jaxicloud.com adresinden Wialon ürün ekibiyle yeni işlevsellik hakkındaki düşüncelerini paylaşmaya teşvik ediyoruz. Girdileriniz ve önerileriniz, bu özelliğin gelecekteki gelişimine yön verecektir. Henüz bir Jaxicloud ortağı değilseniz ancak Görevler özelliğini denemek ve Wialon'un sunduğu diğer birçok seçeneği keşfetmek istiyorsanız, lütfen sales@jaxicloud.com adresinden bizimle iletişime geçin; size yardımcı olmaktan memnuniyet duyarız.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "heading",
+      "order": 18,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kontakte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Contact",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kontakt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Contact",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Contact",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kontakt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kontakta",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Temas etmek",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "formEmbed",
+      "order": 19,
+      "sectionIndex": 7,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

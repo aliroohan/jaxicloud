@@ -1,0 +1,11 @@
+/* archetype: dualPanel */
+.page{background:#fff;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0e7490}
+
+.hero{padding:clamp(3rem,7vw,5rem) 0;max-width:40rem}.title{font-size:clamp(2.3rem,5vw,3.5rem)}
+.panels{display:grid;gap:1.5rem;padding:1rem 0 4rem}@media(min-width:900px){.panels{grid-template-columns:1fr 1fr}}
+.panel{padding:clamp(1.75rem,3vw,2.5rem);background:#f8fafc;border-radius:1.25rem;display:grid;gap:1rem}
+.shot{aspect-ratio:16/11;border-radius:.75rem}
+.ctaRow{padding:0 0 5rem}
+

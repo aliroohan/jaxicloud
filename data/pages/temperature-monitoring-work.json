@@ -1,0 +1,1688 @@
+{
+  "slug": "temperature-monitoring-work",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Temperature monitoring work – DA",
+    "en": "Temperature monitoring work",
+    "de": "Temperature monitoring work – DE",
+    "fr": "Temperature monitoring work – FR",
+    "nl": "Temperature monitoring work – HL",
+    "nb": "Temperature monitoring work – NO",
+    "sv": "Temperature monitoring work – SV",
+    "tr": "Temperature monitoring work – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Temperaturovervågningsarbejde - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Temperature monitoring workTemperature monitoring work - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Arbeiten zur Temperaturüberwachung - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Travaux de surveillance de la température - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Temperatuurbewakingswerkzaamheden - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Temperaturovervåkingsarbeid - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Temperaturövervakningsarbete - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Sıcaklık izleme çalışması - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/temperature-monitoring-work-da/",
+    "en": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+    "de": "https://www.jaxicloud.com/de/temperature-monitoring-work-de/",
+    "fr": "https://www.jaxicloud.com/fr/temperature-monitoring-work-fr/",
+    "nl": "https://www.jaxicloud.com/nl/temperature-monitoring-work-hl/",
+    "nb": "https://www.jaxicloud.com/nb/temperature-monitoring-work-no/",
+    "sv": "https://www.jaxicloud.com/sv/temperature-monitoring-work-sv/",
+    "tr": "https://www.jaxicloud.com/tr/temperature-monitoring-work-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Temperaturovervågningsarbejde",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Temperature monitoring work",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Arbeiten zur Temperaturüberwachung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Travaux de surveillance de la température",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Temperatuur monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Temperaturovervåking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Temperaturkontrolle",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sıcaklık izleme çalışması",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad er fjerntemperaturovervågning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What is remote temperature monitoring?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Was ist Ferntemperaturüberwachung?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Qu'est-ce que la surveillance de température à distance ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Wat is temperatuurbewaking op afstand?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva er fjerntemperaturovervåking?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad är fjärrövervakning av temperatur?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Uzaktan sıcaklık izleme nedir?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "I transportsektoren er overholdelse af kølekæden et stort problem, både af folkesundhedsmæssige og økonomiske årsager. Transport af varmefølsomme varer er underlagt adskillige standarder og regler (f.eks. EN12830- og EN13486-standarderne), hvilket presser branchens aktører til at udstyre sig med innovative, forbundne telematikløsninger. Faktisk kan et brud i kølekæden have alvorlige konsekvenser og skal kontrolleres præcist og meget regelmæssigt.For at imødegå denne udfordring og gøre det muligt for transportører at sikre de varer, de er ansvarlige for, anbefaler vi, at du integrerer fjerntemperaturovervågning i din IoT-løsning takket være Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.",
+          "bodyHtml": "<p>I transportsektoren er overholdelse af kølekæden et stort problem, både af folkesundhedsmæssige og økonomiske årsager. Transport af varmefølsomme varer er underlagt adskillige standarder og regler (f.eks. EN12830- og EN13486-standarderne), hvilket presser branchens aktører til at udstyre sig med innovative, forbundne telematikløsninger. Faktisk kan et brud i kølekæden have alvorlige konsekvenser og skal kontrolleres præcist og meget regelmæssigt.</p><p>For at imødegå denne udfordring og gøre det muligt for transportører at sikre de varer, de er ansvarlige for, anbefaler vi, at du integrerer fjerntemperaturovervågning i din IoT-løsning takket være Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "In the transport sector, compliance with the cold chain is a major issue, both for public health and economic reasons . The transport of heat-sensitive goods is subject to numerous standards and regulations (e.g. EN12830 and EN13486 standards), which pushes industry players to equip themselves with innovative connected telematics solutions. In fact, a break in the cold chain can have serious consequences and must be controlled precisely and very regularly.To meet this challenge and enable carriers to secure the goods for which they are responsible, we advise you to integrate remote temperature monitoring into your IoT solution thanks to Jaxicloud Fleet Management Innovation Bluetooth Low Energy sensors.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In the transport sector, compliance with the cold chain is a major issue, both for&nbsp;public health&nbsp;and&nbsp;economic reasons&nbsp;. The transport of heat-sensitive goods is subject to numerous standards and regulations&nbsp;(e.g. EN12830 and EN13486&nbsp;standards),&nbsp;which pushes industry players to equip themselves with innovative connected telematics solutions. In fact,&nbsp;a break in the cold chain can have serious&nbsp;consequences&nbsp;and must be controlled precisely and very regularly.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">To meet this challenge and enable carriers to secure the goods for which they are responsible, we advise you to integrate remote temperature monitoring into your IoT solution thanks to Jaxicloud Fleet Management Innovation Bluetooth Low Energy sensors.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Im Transportsektor ist die Einhaltung der Kühlkette aus Gründen des Gesundheitsschutzes und der Wirtschaft von zentraler Bedeutung. Der Transport wärmeempfindlicher Güter unterliegt zahlreichen Normen und Vorschriften (z. B. EN 12830 und EN 13486), was die Akteure der Branche dazu veranlasst, innovative vernetzte Telematiklösungen einzusetzen. Ein Bruch der Kühlkette kann schwerwiegende Folgen haben und muss daher präzise und regelmäßig überwacht werden.Um dieser Herausforderung zu begegnen und Transportunternehmen die Sicherheit ihrer Güter zu gewährleisten, empfehlen wir Ihnen, die Ferntemperaturüberwachung mithilfe der Bluetooth-Low-Energy-Sensoren von Jaxicloud Fleet Management Innovation in Ihre IoT-Lösung zu integrieren.",
+          "bodyHtml": "<p>Im Transportsektor ist die Einhaltung der Kühlkette aus Gründen des Gesundheitsschutzes und der Wirtschaft von zentraler Bedeutung. Der Transport wärmeempfindlicher Güter unterliegt zahlreichen Normen und Vorschriften (z. B. EN 12830 und EN 13486), was die Akteure der Branche dazu veranlasst, innovative vernetzte Telematiklösungen einzusetzen. Ein Bruch der Kühlkette kann schwerwiegende Folgen haben und muss daher präzise und regelmäßig überwacht werden.</p><p>Um dieser Herausforderung zu begegnen und Transportunternehmen die Sicherheit ihrer Güter zu gewährleisten, empfehlen wir Ihnen, die Ferntemperaturüberwachung mithilfe der Bluetooth-Low-Energy-Sensoren von Jaxicloud Fleet Management Innovation in Ihre IoT-Lösung zu integrieren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Dans le secteur des transports, le respect de la chaîne du froid est un enjeu majeur, tant pour des raisons de santé publique qu’économiques. Le transport de marchandises thermosensibles est soumis à de nombreuses normes et réglementations (par exemple, les normes EN12830 et EN13486), ce qui incite les acteurs du secteur à se doter de solutions télématiques connectées et innovantes. En effet, une rupture de la chaîne du froid peut avoir de graves conséquences et doit être contrôlée avec précision et régularité.Pour relever ce défi et permettre aux transporteurs de garantir la sécurité des marchandises dont ils sont responsables, nous vous conseillons d’intégrer la surveillance à distance de la température à votre solution IoT grâce aux capteurs Bluetooth Low Energy de Jaxicloud Fleet Management Innovation.",
+          "bodyHtml": "<p>Dans le secteur des transports, le respect de la chaîne du froid est un enjeu majeur, tant pour des raisons de santé publique qu’économiques. Le transport de marchandises thermosensibles est soumis à de nombreuses normes et réglementations (par exemple, les normes EN12830 et EN13486), ce qui incite les acteurs du secteur à se doter de solutions télématiques connectées et innovantes. En effet, une rupture de la chaîne du froid peut avoir de graves conséquences et doit être contrôlée avec précision et régularité.</p><p>Pour relever ce défi et permettre aux transporteurs de garantir la sécurité des marchandises dont ils sont responsables, nous vous conseillons d’intégrer la surveillance à distance de la température à votre solution IoT grâce aux capteurs Bluetooth Low Energy de Jaxicloud Fleet Management Innovation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "In de transportsector is naleving van de koelketen een belangrijk probleem, zowel om volksgezondheids- als economische redenen. Het transport van warmtegevoelige goederen is onderworpen aan talrijke normen en voorschriften (bijv. EN12830 en EN13486), waardoor spelers in de sector zich moeten uitrusten met innovatieve, connected telematica-oplossingen. Een onderbreking in de koelketen kan namelijk ernstige gevolgen hebben en moet nauwkeurig en zeer regelmatig worden gecontroleerd.Om deze uitdaging aan te gaan en vervoerders in staat te stellen de goederen waarvoor zij verantwoordelijk zijn te beveiligen, adviseren wij u om temperatuurbewaking op afstand te integreren in uw IoT-oplossing dankzij Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensoren.",
+          "bodyHtml": "<p>In de transportsector is naleving van de koelketen een belangrijk probleem, zowel om volksgezondheids- als economische redenen. Het transport van warmtegevoelige goederen is onderworpen aan talrijke normen en voorschriften (bijv. EN12830 en EN13486), waardoor spelers in de sector zich moeten uitrusten met innovatieve, connected telematica-oplossingen. Een onderbreking in de koelketen kan namelijk ernstige gevolgen hebben en moet nauwkeurig en zeer regelmatig worden gecontroleerd.</p><p>Om deze uitdaging aan te gaan en vervoerders in staat te stellen de goederen waarvoor zij verantwoordelijk zijn te beveiligen, adviseren wij u om temperatuurbewaking op afstand te integreren in uw IoT-oplossing dankzij Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensoren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "I transportsektoren er overholdelse av kjølekjeden et stort problem, både av folkehelsemessige og økonomiske årsaker. Transport av varmefølsomme varer er underlagt en rekke standarder og forskrifter (f.eks. EN12830- og EN13486-standardene), noe som presser aktørene i bransjen til å utstyre seg med innovative tilkoblede telematikkløsninger. Faktisk kan et brudd i kjølekjeden få alvorlige konsekvenser og må kontrolleres presist og svært regelmessig.For å møte denne utfordringen og gjøre det mulig for transportører å sikre varene de er ansvarlige for, anbefaler vi at du integrerer fjerntemperaturovervåking i din IoT-løsning takket være Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.",
+          "bodyHtml": "<p>I transportsektoren er overholdelse av kjølekjeden et stort problem, både av folkehelsemessige og økonomiske årsaker. Transport av varmefølsomme varer er underlagt en rekke standarder og forskrifter (f.eks. EN12830- og EN13486-standardene), noe som presser aktørene i bransjen til å utstyre seg med innovative tilkoblede telematikkløsninger. Faktisk kan et brudd i kjølekjeden få alvorlige konsekvenser og må kontrolleres presist og svært regelmessig.</p><p>For å møte denne utfordringen og gjøre det mulig for transportører å sikre varene de er ansvarlige for, anbefaler vi at du integrerer fjerntemperaturovervåking i din IoT-løsning takket være Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Inom transportsektorn är efterlevnaden av kylkedjan en viktig fråga, både av folkhälso- och ekonomiska skäl. Transport av värmekänsliga varor omfattas av ett flertal standarder och föreskrifter (t.ex. EN12830 och EN13486), vilket driver branschens aktörer att utrusta sig med innovativa uppkopplade telematiklösningar. Faktum är att ett avbrott i kylkedjan kan få allvarliga konsekvenser och måste kontrolleras exakt och mycket regelbundet.För att möta denna utmaning och göra det möjligt för transportörer att säkra de varor de ansvarar för, rekommenderar vi att du integrerar fjärrtemperaturövervakning i din IoT-lösning tack vare Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.",
+          "bodyHtml": "<p>Inom transportsektorn är efterlevnaden av kylkedjan en viktig fråga, både av folkhälso- och ekonomiska skäl. Transport av värmekänsliga varor omfattas av ett flertal standarder och föreskrifter (t.ex. EN12830 och EN13486), vilket driver branschens aktörer att utrusta sig med innovativa uppkopplade telematiklösningar. Faktum är att ett avbrott i kylkedjan kan få allvarliga konsekvenser och måste kontrolleras exakt och mycket regelbundet.</p><p>För att möta denna utmaning och göra det möjligt för transportörer att säkra de varor de ansvarar för, rekommenderar vi att du integrerar fjärrtemperaturövervakning i din IoT-lösning tack vare Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensorer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Taşımacılık sektöründe, soğuk zincire uyum hem halk sağlığı hem de ekonomik nedenlerle büyük önem taşımaktadır. Isıya duyarlı malların taşınması, çok sayıda standart ve düzenlemeye (örneğin EN12830 ve EN13486 standartları) tabidir ve bu da sektör oyuncularını yenilikçi bağlantılı telematik çözümlerle donanmaya itmektedir. Gerçekte, soğuk zincirde bir kopma ciddi sonuçlar doğurabilir ve hassas bir şekilde ve çok düzenli olarak kontrol edilmelidir.Bu zorluğun üstesinden gelmek ve taşıyıcıların sorumlu oldukları malların güvenliğini sağlamalarını sağlamak için, Jaxicloud Filo Yönetimi İnovasyonu Bluetooth Düşük Enerji sensörleri sayesinde uzaktan sıcaklık izlemeyi IoT çözümünüze entegre etmenizi öneririz.",
+          "bodyHtml": "<p>Taşımacılık sektöründe, soğuk zincire uyum hem halk sağlığı hem de ekonomik nedenlerle büyük önem taşımaktadır. Isıya duyarlı malların taşınması, çok sayıda standart ve düzenlemeye (örneğin EN12830 ve EN13486 standartları) tabidir ve bu da sektör oyuncularını yenilikçi bağlantılı telematik çözümlerle donanmaya itmektedir. Gerçekte, soğuk zincirde bir kopma ciddi sonuçlar doğurabilir ve hassas bir şekilde ve çok düzenli olarak kontrol edilmelidir.</p><p>Bu zorluğun üstesinden gelmek ve taşıyıcıların sorumlu oldukları malların güvenliğini sağlamalarını sağlamak için, Jaxicloud Filo Yönetimi İnovasyonu Bluetooth Düşük Enerji sensörleri sayesinde uzaktan sıcaklık izlemeyi IoT çözümünüze entegre etmenizi öneririz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_de426acbdd9c46ed94c6612d0d861201mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_de426acbdd9c46ed94c6612d0d861201mv2.jpg",
+          "width": 474,
+          "height": 474
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": true,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ea186e658be24056a4321d95caf43dfcmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ea186e658be24056a4321d95caf43dfcmv2.jpg",
+          "width": 429,
+          "height": 429
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": true,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan fungerer fjerntemperaturovervågning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How does remote temperature monitoring work?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wie funktioniert die Fernüberwachung der Temperatur?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment fonctionne la surveillance de température à distance ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe werkt temperatuurbewaking op afstand?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan fungerer fjerntemperaturovervåking?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur fungerar fjärrövervakning av temperatur?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Uzaktan sıcaklık izleme nasıl çalışır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "richText",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": true,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Temperatursensorerne kan monteres forskellige steder: i en kølelastbil, i en isotermisk transportboks eller i et køleskab. Da sensorerne er 100 % autonome, måler og registrerer de temperaturen med jævne mellemrum (som kan konfigureres). Historikken (datalogger) overføres af sensoren til den indbyggede telematikboks via Bluetooth Low Energy. Boksen fungerer derefter som en gateway og overfører informationen til din IoT-platform via 3G/4G-mobilnetværket.Brugeren kan derefter visualisere historikken over variationerne i form af grafer og rapporter på din platform. Kunden kan også indstille alarmtærskler via din tilsluttede platform. I dette tilfælde sendes der en alarm i realtid til chaufføren på sin smartphone, når temperaturen overstiger den foruddefinerede tærskel.",
+          "bodyHtml": "<p>Temperatursensorerne kan monteres forskellige steder: i en kølelastbil, i en isotermisk transportboks eller i et køleskab. Da sensorerne er 100 % autonome, måler og registrerer de temperaturen med jævne mellemrum (som kan konfigureres). Historikken (datalogger) overføres af sensoren til den indbyggede telematikboks via Bluetooth Low Energy. Boksen fungerer derefter som en gateway og overfører informationen til din IoT-platform via 3G/4G-mobilnetværket.</p><p>Brugeren kan derefter visualisere historikken over variationerne i form af grafer og rapporter på din platform. Kunden kan også indstille alarmtærskler via din tilsluttede platform. I dette tilfælde sendes der en alarm i realtid til chaufføren på sin smartphone, når temperaturen overstiger den foruddefinerede tærskel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The temperature sensors can be fixed in different places: in a refrigerated truck, in an isothermal transport box or in a refrigerator. Since the sensors are 100% autonomous, they will measure and record the temperature at regular intervals (which can be configured). The history (data logger) will be transmitted by the sensor to the built-in telematics box via Bluetooth Low Energy. The box will then act as a gateway and transfer the information to your IoT platform via the 3G/4G mobile network.The user will then be able to visualize the history of the variations in the form of graphs and reports on your platform. The customer will also be able to set alarm thresholds via your connected platform. In this case, when the temperature exceeds the predefined threshold, an alert will be sent in real time to the driver on his smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The temperature sensors can be fixed in different places: in a refrigerated truck, in an isothermal transport box or in a refrigerator. Since the sensors are 100% autonomous, they will measure and record the temperature at&nbsp;regular intervals&nbsp;(which can be configured). The history (data logger) will be transmitted by the sensor to the built-in telematics box via Bluetooth Low Energy. The box will then act as a gateway and transfer the information to your IoT platform via the 3G/4G mobile network.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The user will then be able to visualize&nbsp;the history of the variations in the form of&nbsp;graphs and reports on your platform.&nbsp;The customer will also be able to set&nbsp;alarm thresholds&nbsp;via your connected platform. In this case, when the temperature exceeds the predefined threshold, an alert will be sent in real time to the driver on his smartphone.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Temperatursensoren lassen sich an verschiedenen Stellen anbringen: in einem Kühlwagen, einer isothermischen Transportbox oder einem Kühlschrank. Da die Sensoren vollautomatisch arbeiten, messen und protokollieren sie die Temperatur in regelmäßigen (konfigurierbaren) Abständen. Die Messwerte werden vom Sensor per Bluetooth Low Energy an die integrierte Telematikbox übertragen. Diese fungiert als Gateway und leitet die Informationen über das 3G/4G-Mobilfunknetz an Ihre IoT-Plattform weiter.Der Benutzer kann die Temperaturverläufe anschließend in Form von Diagrammen und Berichten auf Ihrer Plattform visualisieren. Über die Plattform lassen sich zudem Alarmschwellenwerte festlegen. Wird ein vordefinierter Schwellenwert überschritten, erhält der Fahrer in Echtzeit eine Benachrichtigung auf sein Smartphone.",
+          "bodyHtml": "<p>Die Temperatursensoren lassen sich an verschiedenen Stellen anbringen: in einem Kühlwagen, einer isothermischen Transportbox oder einem Kühlschrank. Da die Sensoren vollautomatisch arbeiten, messen und protokollieren sie die Temperatur in regelmäßigen (konfigurierbaren) Abständen. Die Messwerte werden vom Sensor per Bluetooth Low Energy an die integrierte Telematikbox übertragen. Diese fungiert als Gateway und leitet die Informationen über das 3G/4G-Mobilfunknetz an Ihre IoT-Plattform weiter.</p><p>Der Benutzer kann die Temperaturverläufe anschließend in Form von Diagrammen und Berichten auf Ihrer Plattform visualisieren. Über die Plattform lassen sich zudem Alarmschwellenwerte festlegen. Wird ein vordefinierter Schwellenwert überschritten, erhält der Fahrer in Echtzeit eine Benachrichtigung auf sein Smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les capteurs de température peuvent être installés à différents endroits : dans un camion frigorifique, une caisse isotherme ou un réfrigérateur. Entièrement autonomes, ils mesurent et enregistrent la température à intervalles réguliers (configurables). L’historique des données est transmis par le capteur au boîtier télématique intégré via Bluetooth Low Energy. Ce boîtier sert ensuite de passerelle et transfère les informations vers votre plateforme IoT via le réseau mobile 3G/4G.L’utilisateur peut alors visualiser l’historique des variations sous forme de graphiques et de rapports sur votre plateforme. Il peut également définir des seuils d’alarme via votre plateforme connectée. Dans ce cas, si la température dépasse le seuil prédéfini, une alerte est envoyée en temps réel au conducteur sur son smartphone.",
+          "bodyHtml": "<p>Les capteurs de température peuvent être installés à différents endroits : dans un camion frigorifique, une caisse isotherme ou un réfrigérateur. Entièrement autonomes, ils mesurent et enregistrent la température à intervalles réguliers (configurables). L’historique des données est transmis par le capteur au boîtier télématique intégré via Bluetooth Low Energy. Ce boîtier sert ensuite de passerelle et transfère les informations vers votre plateforme IoT via le réseau mobile 3G/4G.</p><p>L’utilisateur peut alors visualiser l’historique des variations sous forme de graphiques et de rapports sur votre plateforme. Il peut également définir des seuils d’alarme via votre plateforme connectée. Dans ce cas, si la température dépasse le seuil prédéfini, une alerte est envoyée en temps réel au conducteur sur son smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De temperatuursensoren kunnen op verschillende plaatsen worden bevestigd: in een koelwagen, in een isothermische transportbox of in een koelkast. Omdat de sensoren 100% autonoom zijn, meten en registreren ze de temperatuur met regelmatige (instelbare) tussenpozen. De historie (datalogger) wordt door de sensor via Bluetooth Low Energy naar de ingebouwde telematicabox verzonden. De box fungeert vervolgens als gateway en stuurt de informatie via het mobiele 3G/4G-netwerk naar uw IoT-platform.De gebruiker kan vervolgens de historie van de variaties visualiseren in de vorm van grafieken en rapporten op uw platform. De klant kan ook alarmdrempels instellen via uw verbonden platform. In dat geval wordt er, wanneer de temperatuur de vooraf gedefinieerde drempel overschrijdt, in realtime een waarschuwing naar de chauffeur op zijn smartphone gestuurd.",
+          "bodyHtml": "<p>De temperatuursensoren kunnen op verschillende plaatsen worden bevestigd: in een koelwagen, in een isothermische transportbox of in een koelkast. Omdat de sensoren 100% autonoom zijn, meten en registreren ze de temperatuur met regelmatige (instelbare) tussenpozen. De historie (datalogger) wordt door de sensor via Bluetooth Low Energy naar de ingebouwde telematicabox verzonden. De box fungeert vervolgens als gateway en stuurt de informatie via het mobiele 3G/4G-netwerk naar uw IoT-platform.</p><p>De gebruiker kan vervolgens de historie van de variaties visualiseren in de vorm van grafieken en rapporten op uw platform. De klant kan ook alarmdrempels instellen via uw verbonden platform. In dat geval wordt er, wanneer de temperatuur de vooraf gedefinieerde drempel overschrijdt, in realtime een waarschuwing naar de chauffeur op zijn smartphone gestuurd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Temperatursensorene kan festes på forskjellige steder: i en kjølebil, i en isotermisk transportboks eller i et kjøleskap. Siden sensorene er 100 % autonome, vil de måle og registrere temperaturen med jevne mellomrom (som kan konfigureres). Historikken (datalogger) vil bli overført av sensoren til den innebygde telematikkboksen via Bluetooth Low Energy. Boksen vil deretter fungere som en gateway og overføre informasjonen til IoT-plattformen din via 3G/4G-mobilnettverket.Brukeren vil da kunne visualisere historikken til variasjonene i form av grafer og rapporter på plattformen din. Kunden vil også kunne sette alarmterskler via den tilkoblede plattformen din. I dette tilfellet, når temperaturen overstiger den forhåndsdefinerte terskelen, vil et varsel sendes i sanntid til sjåføren på smarttelefonen hans.",
+          "bodyHtml": "<p>Temperatursensorene kan festes på forskjellige steder: i en kjølebil, i en isotermisk transportboks eller i et kjøleskap. Siden sensorene er 100 % autonome, vil de måle og registrere temperaturen med jevne mellomrom (som kan konfigureres). Historikken (datalogger) vil bli overført av sensoren til den innebygde telematikkboksen via Bluetooth Low Energy. Boksen vil deretter fungere som en gateway og overføre informasjonen til IoT-plattformen din via 3G/4G-mobilnettverket.</p><p>Brukeren vil da kunne visualisere historikken til variasjonene i form av grafer og rapporter på plattformen din. Kunden vil også kunne sette alarmterskler via den tilkoblede plattformen din. I dette tilfellet, når temperaturen overstiger den forhåndsdefinerte terskelen, vil et varsel sendes i sanntid til sjåføren på smarttelefonen hans.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Temperatursensorerna kan monteras på olika platser: i en kylbil, i en isotermisk transportlåda eller i ett kylskåp. Eftersom sensorerna är 100 % autonoma mäter och registrerar de temperaturen med regelbundna intervall (vilket kan konfigureras). Historiken (datalogger) överförs av sensorn till den inbyggda telematikboxen via Bluetooth Low Energy. Boxen fungerar sedan som en gateway och överför informationen till din IoT-plattform via 3G/4G-mobilnätet.Användaren kan sedan visualisera historiken över variationerna i form av grafer och rapporter på din plattform. Kunden kan också ställa in larmtrösklar via din anslutna plattform. I detta fall, när temperaturen överstiger det fördefinierade tröskelvärdet, skickas en varning i realtid till föraren på dennes smartphone.",
+          "bodyHtml": "<p>Temperatursensorerna kan monteras på olika platser: i en kylbil, i en isotermisk transportlåda eller i ett kylskåp. Eftersom sensorerna är 100 % autonoma mäter och registrerar de temperaturen med regelbundna intervall (vilket kan konfigureras). Historiken (datalogger) överförs av sensorn till den inbyggda telematikboxen via Bluetooth Low Energy. Boxen fungerar sedan som en gateway och överför informationen till din IoT-plattform via 3G/4G-mobilnätet.</p><p>Användaren kan sedan visualisera historiken över variationerna i form av grafer och rapporter på din plattform. Kunden kan också ställa in larmtrösklar via din anslutna plattform. I detta fall, när temperaturen överstiger det fördefinierade tröskelvärdet, skickas en varning i realtid till föraren på dennes smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sıcaklık sensörleri farklı yerlere yerleştirilebilir: soğutmalı bir kamyona, izotermal bir taşıma kutusuna veya bir buzdolabına. Sensörler %100 otonom olduğundan, sıcaklığı düzenli aralıklarla (yapılandırılabilir) ölçer ve kaydederler. Veri kaydı (veri kaydedici), sensör tarafından Bluetooth Düşük Enerji aracılığıyla yerleşik telematik kutusuna iletilir. Kutu daha sonra bir ağ geçidi görevi görür ve bilgileri 3G/4G mobil ağ üzerinden IoT platformunuza aktarır.Kullanıcı daha sonra platformunuzda grafikler ve raporlar şeklinde değişimlerin geçmişini görselleştirebilir. Müşteri ayrıca bağlı platformunuz üzerinden alarm eşiklerini de ayarlayabilir. Bu durumda, sıcaklık önceden tanımlanmış eşiği aştığında, sürücüye akıllı telefonuna gerçek zamanlı olarak bir uyarı gönderilir.",
+          "bodyHtml": "<p>Sıcaklık sensörleri farklı yerlere yerleştirilebilir: soğutmalı bir kamyona, izotermal bir taşıma kutusuna veya bir buzdolabına. Sensörler %100 otonom olduğundan, sıcaklığı düzenli aralıklarla (yapılandırılabilir) ölçer ve kaydederler. Veri kaydı (veri kaydedici), sensör tarafından Bluetooth Düşük Enerji aracılığıyla yerleşik telematik kutusuna iletilir. Kutu daha sonra bir ağ geçidi görevi görür ve bilgileri 3G/4G mobil ağ üzerinden IoT platformunuza aktarır.</p><p>Kullanıcı daha sonra platformunuzda grafikler ve raporlar şeklinde değişimlerin geçmişini görselleştirebilir. Müşteri ayrıca bağlı platformunuz üzerinden alarm eşiklerini de ayarlayabilir. Bu durumda, sıcaklık önceden tanımlanmış eşiği aştığında, sürücüye akıllı telefonuna gerçek zamanlı olarak bir uyarı gönderilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "ctaButton",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": true,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "/cooling-monitoring-da/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "/cooling-monitoring-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/cooling-monitoring/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/cooling-monitoring/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Sehr Mere",
+              "href": "/de/cooling-monitoring-de/"
+            }
+          ],
+          "ctaLabel": "Sehr Mere",
+          "ctaUrl": "/de/cooling-monitoring-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/cooling-monitoring-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/cooling-monitoring-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/cooling-monitoring-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/cooling-monitoring-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/cooling-monitoring-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/cooling-monitoring-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/cooling-monitoring-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/cooling-monitoring-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/cooling-monitoring-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/cooling-monitoring-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "richText",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "“Vi transporterer blomster og mange andre kølevarer over hele Europa, så takket være temperatursensorerne kan vi kontrollere vores leverancer. Vi giver vores kunder adgang til temperaturdiagrammer, som kan spore vores leverancer i realtid ved at spore deres position og vedligeholde kølekæden. Dette gør det muligt for os at overholde de chartre og regler, der gælder for transport af farmaceutiske produkter.”",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">“Vi transporterer blomster og mange andre kølevarer over hele Europa, så takket være temperatursensorerne kan vi kontrollere vores leverancer. Vi giver vores kunder adgang til temperaturdiagrammer, som kan spore vores leverancer i realtid ved at spore deres position og vedligeholde kølekæden. Dette gør det muligt for os at overholde de chartre og regler, der gælder for transport af farmaceutiske produkter.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "“We transport flowers and many other refrigerated goods all over Europe, so thanks to the temperature sensors, we can control our deliveries. We provide access to temperature charts to our customers, who can track our deliveries in real time by tracking their position and maintaining the cold chain. This allows us to remain compliant with the charters and regulations governing the transport of pharmaceutical products.”",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">“We transport flowers and many other refrigerated goods all over Europe, so thanks to the temperature sensors, we can control our deliveries. We provide access to temperature charts to our customers, who can track our deliveries in real time by tracking their position and maintaining the cold chain. This allows us to remain compliant with the charters and regulations governing the transport of pharmaceutical products.”</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "„Wir transportieren Blumen und viele andere Kühlwaren in ganz Europa. Dank der Temperatursensoren können wir unsere Lieferungen kontrollieren. Wir stellen unseren Kunden Temperaturdiagramme zur Verfügung, mit denen sie unsere Lieferungen in Echtzeit verfolgen und so die Kühlkette aufrechterhalten können. Dadurch erfüllen wir die gesetzlichen Bestimmungen und Vorschriften für den Transport von Arzneimitteln.“",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">„Wir transportieren Blumen und viele andere Kühlwaren in ganz Europa. Dank der Temperatursensoren können wir unsere Lieferungen kontrollieren. Wir stellen unseren Kunden Temperaturdiagramme zur Verfügung, mit denen sie unsere Lieferungen in Echtzeit verfolgen und so die Kühlkette aufrechterhalten können. Dadurch erfüllen wir die gesetzlichen Bestimmungen und Vorschriften für den Transport von Arzneimitteln.“</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "« Nous transportons des fleurs et de nombreux autres produits réfrigérés dans toute l’Europe. Grâce aux capteurs de température, nous maîtrisons nos livraisons. Nous mettons à la disposition de nos clients des graphiques de température, leur permettant de suivre leurs livraisons en temps réel et de garantir le maintien de la chaîne du froid. Cela nous permet de respecter les chartes et réglementations régissant le transport des produits pharmaceutiques. »",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">« Nous transportons des fleurs et de nombreux autres produits réfrigérés dans toute l’Europe. Grâce aux capteurs de température, nous maîtrisons nos livraisons. Nous mettons à la disposition de nos clients des graphiques de température, leur permettant de suivre leurs livraisons en temps réel et de garantir le maintien de la chaîne du froid. Cela nous permet de respecter les chartes et réglementations régissant le transport des produits pharmaceutiques. »</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "We vervoeren bloemen en vele andere gekoelde goederen door heel Europa, dus dankzij de temperatuursensoren kunnen we onze leveringen controleren. We bieden onze klanten toegang tot temperatuurgrafieken, zodat ze onze leveringen in realtime kunnen volgen door hun positie te volgen en de koelketen te beheren. Zo kunnen we voldoen aan de charters en regelgeving voor het vervoer van farmaceutische producten.",
+          "bodyHtml": "<p>We vervoeren bloemen en vele andere gekoelde goederen door heel Europa, dus dankzij de temperatuursensoren kunnen we onze leveringen controleren. We bieden onze klanten toegang tot temperatuurgrafieken, zodat ze onze leveringen in realtime kunnen volgen door hun positie te volgen en de koelketen te beheren. Zo kunnen we voldoen aan de charters en regelgeving voor het vervoer van farmaceutische producten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "«Vi transporterer blomster og mange andre kjølevarer over hele Europa, så takket være temperatursensorene kan vi kontrollere leveransene våre. Vi gir kundene våre tilgang til temperaturdiagrammer, som kan spore leveransene våre i sanntid ved å spore posisjonen sin og opprettholde kjølekjeden. Dette gjør at vi kan overholde charterene og forskriftene som gjelder for transport av farmasøytiske produkter.»",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">«Vi transporterer blomster og mange andre kjølevarer over hele Europa, så takket være temperatursensorene kan vi kontrollere leveransene våre. Vi gir kundene våre tilgang til temperaturdiagrammer, som kan spore leveransene våre i sanntid ved å spore posisjonen sin og opprettholde kjølekjeden. Dette gjør at vi kan overholde charterene og forskriftene som gjelder for transport av farmasøytiske produkter.»</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "“Vi transporterar blommor och många andra kylvaror över hela Europa, så tack vare temperatursensorerna kan vi kontrollera våra leveranser. Vi ger våra kunder tillgång till temperaturdiagram, som kan spåra våra leveranser i realtid genom att spåra sin position och upprätthålla kylkedjan. Detta gör att vi kan följa de stadgar och regler som styr transport av läkemedelsprodukter.”",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">“Vi transporterar blommor och många andra kylvaror över hela Europa, så tack vare temperatursensorerna kan vi kontrollera våra leveranser. Vi ger våra kunder tillgång till temperaturdiagram, som kan spåra våra leveranser i realtid genom att spåra sin position och upprätthålla kylkedjan. Detta gör att vi kan följa de stadgar och regler som styr transport av läkemedelsprodukter.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "“Avrupa genelinde çiçek ve diğer birçok soğutulmuş ürünü taşıyoruz, bu nedenle sıcaklık sensörleri sayesinde teslimatlarımızı kontrol edebiliyoruz. Müşterilerimize sıcaklık grafiklerine erişim sağlıyoruz; böylece teslimatlarımızın konumunu takip ederek ve soğuk zinciri koruyarak gerçek zamanlı olarak takip edebiliyorlar. Bu, ilaç ürünlerinin taşınmasını düzenleyen tüzük ve yönetmeliklere uyumlu kalmamızı sağlıyor.”",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">“Avrupa genelinde çiçek ve diğer birçok soğutulmuş ürünü taşıyoruz, bu nedenle sıcaklık sensörleri sayesinde teslimatlarımızı kontrol edebiliyoruz. Müşterilerimize sıcaklık grafiklerine erişim sağlıyoruz; böylece teslimatlarımızın konumunu takip ederek ve soğuk zinciri koruyarak gerçek zamanlı olarak takip edebiliyorlar. Bu, ilaç ürünlerinin taşınmasını düzenleyen tüzük ve yönetmeliklere uyumlu kalmamızı sağlıyor.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvorfor integrere Jaxicloud Fleet Management Innovation temperatursensorer i din telematikløsning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Why integrate Jaxicloud Fleet Management Innovation temperature sensors into your telematics solution?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Warum sollten Sie die Temperatursensoren von Jaxicloud Fleet Management Innovation in Ihre Telematiklösung integrieren?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Pourquoi intégrer les capteurs de température Jaxicloud Fleet Management Innovation à votre solution télématique ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Waarom zou u Jaxicloud Fleet Management Innovation-temperatuursensoren integreren in uw telematica-oplossing?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvorfor integrere Jaxicloud Fleet Management Innovation temperatursensorer i din telematikkløsning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Varför integrera Jaxicloud Fleet Management Innovation temperatursensorer i er telematiklösning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi İnovasyonu sıcaklık sensörlerini telematik çözümünüze neden entegre etmelisiniz?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "richText",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "De industrielle temperatursensorer fra Jaxcicloud Fleet Management Innovation er ideelle til at opfylde behovet for fjerntemperaturovervågning af mange årsager:100% uafhængigDeres batteridrift giver op til 18 års autonomi, hvilket sikrer konkurrencedygtige samlede ejeromkostninger.Certificeret EN12830 – 2018Sensorerne er COFRAC-certificerede (EN12830 – 2018), hvilket bekræfter deres nøjagtighed og kalibrering i henhold til standarder, der overholder reglerne. Denne certificering er gyldig på internationalt plan, da COFRAC-organisationen er tilknyttet ILAC. ELA Innovation tilbyder også en kalibreringsservice til temperatursensorer for at garantere pålidelige data i hele produktets levetid.Bredt måleområde og realtidsdataMed et måleområde på -40 °C til +85 °C (og endda -80 °C til +200 °C for Blue PUCK T-PROBE) og en konfigurerbar transmissionsperiode kan disse sensorer dække de vigtigste anvendelsesscenarier inden for transport af temperaturfølsomme varer ved at transmittere de registrerede data i realtid.Kompatibel med telematikbokseUdstyret med Bluetooth Low Energy-teknologi er disse sensorer kompatible med de fleste indbyggede telematikbokse på markedet og kræver ingen yderligere integration.Hurtig og nem installationEkstremt nemme at installere takket være de forskellige fastgørelsesmidler (højtydende dobbeltsidet klistermærke eller skrueholder). Disse sensorer kan monteres på enhver type overflade og kræver ingen ledningsføring.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De industrielle temperatursensorer fra Jaxcicloud Fleet Management Innovation er ideelle til at opfylde behovet for fjerntemperaturovervågning af mange årsager:</p><p><strong>100% uafhængig</strong></p><p>Deres batteridrift giver op til 18 års autonomi, hvilket sikrer konkurrencedygtige samlede ejeromkostninger.</p><p><strong>Certificeret EN12830 – 2018</strong></p><p>Sensorerne er COFRAC-certificerede (EN12830 – 2018), hvilket bekræfter deres nøjagtighed og kalibrering i henhold til standarder, der overholder reglerne. Denne certificering er gyldig på internationalt plan, da COFRAC-organisationen er tilknyttet ILAC. ELA Innovation tilbyder også en kalibreringsservice til temperatursensorer for at garantere pålidelige data i hele produktets levetid.</p><p><strong>Bredt måleområde og realtidsdata</strong></p><p>Med et måleområde på -40 °C til +85 °C (og endda -80 °C til +200 °C for Blue PUCK T-PROBE) og en konfigurerbar transmissionsperiode kan disse sensorer dække de vigtigste anvendelsesscenarier inden for transport af temperaturfølsomme varer ved at transmittere de registrerede data i realtid.</p><p><strong>Kompatibel med telematikbokse</strong></p><p>Udstyret med Bluetooth Low Energy-teknologi er disse sensorer kompatible med de fleste indbyggede telematikbokse på markedet og kræver ingen yderligere integration.</p><p><strong>Hurtig og nem installation</strong></p><p>Ekstremt nemme at installere takket være de forskellige fastgørelsesmidler (højtydende dobbeltsidet klistermærke eller skrueholder). Disse sensorer kan monteres på enhver type overflade og kræver ingen ledningsføring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The industrial temperature sensors from Jaxcicloud Fleet Management Innovation are ideal for meeting the need for remote temperature monitoring for many reasons:100% independentTheir battery operation provides up to 18 years of autonomy , ensuring competitive total cost of ownership.Certified EN12830 – 2018The sensors are COFRAC certified (EN12830 – 2018), which attests to their accuracy and calibration according to standards that comply with the regulations. This certification is valid on an international scale, as the COFRAC organization is affiliated with ILAC. ELA Innovation also offers a calibration service for temperature sensors to guarantee reliable data throughout the product’s lifetime.Wide measurement range and real-time dataWith a measuring range of -40 °C to +85 °C (and even -80 °C to +200 °C for the Blue PUCK T-PROBE ) and a configurable transmission period, these sensors can cover the most important use cases in the transport of temperature-sensitive goods by transmitting the recorded data in real time.Compatible with telematics boxesEquipped with Bluetooth Low Energy technology, these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.Quick and easy installationExtremely easy to install thanks to the different fixing means (high-performance double-sided sticker or screw-on support), these sensors can be mounted on any type of surface and require no wiring.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The industrial temperature sensors from Jaxcicloud Fleet Management Innovation are ideal for meeting the need for remote temperature monitoring for many reasons:</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">100% independent</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Their battery operation provides up to&nbsp;18 years of autonomy&nbsp;, ensuring competitive total cost of ownership.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Certified EN12830 – 2018</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The sensors are COFRAC certified (EN12830 – 2018), which attests to their accuracy and calibration according to standards that comply with the regulations. This certification is valid on an international scale, as the COFRAC organization is affiliated with ILAC. ELA Innovation also offers a calibration service for temperature sensors to guarantee reliable data throughout the product’s lifetime.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Wide measurement range and real-time data</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">With a measuring range of&nbsp;-40 °C to +85 °C&nbsp;(and even -80 °C to +200 °C for&nbsp;the Blue PUCK T-PROBE&nbsp;) and a configurable transmission period, these sensors can cover the most important use cases in the transport of temperature-sensitive goods by transmitting the recorded data in real time.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Compatible with telematics boxes</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Equipped with&nbsp;Bluetooth Low Energy technology,&nbsp;these sensors are compatible with most built-in telematics boxes on the market and require no additional integration.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Quick and easy installation</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Extremely easy to install thanks to the different fixing means (high-performance double-sided sticker or screw-on support), these sensors can be mounted on any type of surface and require no wiring.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die industriellen Temperatursensoren von Jaxicloud Fleet Management Innovation sind aus vielen Gründen ideal für die Anforderungen an die Fernüberwachung von Temperaturdaten:100 % unabhängigDurch ihren Batteriebetrieb bieten sie eine Autonomie von bis zu 18 Jahren und gewährleisten damit äußerst geringe Gesamtbetriebskosten (TCO).Zertifiziert nach EN12830 – 2018Die Sensoren sind COFRAC-zertifiziert (EN12830 – 2018), was ihre Messgenauigkeit und Kalibrierung gemäß den geltenden Vorschriften bestätigt. Diese Zertifizierung ist international anerkannt, da COFRAC Mitglied der ILAC ist.Jaxicloud bietet zudem einen Kalibrierungsservice für Temperatursensoren an, um während der gesamten Lebensdauer des Produkts zuverlässige Daten sicherzustellen.Großer Messbereich & EchtzeitdatenMit einem Messbereich von -40 °C bis +85 °C (und sogar -80 °C bis +200 °C beim Blue PUCK T-PROBE) sowie einem konfigurierbaren Übertragungsintervall decken diese Sensoren sämtliche wichtigen Anwendungsfälle im Transport temperatur­empfindlicher Waren ab – und übertragen die erfassten Daten in Echtzeit.Kompatibel mit Telematik-BoxenAusgestattet mit Bluetooth Low Energy sind diese Sensoren mit den meisten auf dem Markt verfügbaren Telematik-Einheiten kompatibel und benötigen keinerlei zusätzliche Integration.Schnelle und einfache InstallationDank verschiedener Befestigungsmöglichkeiten (hochleistungsfähiges doppelseitiges Klebeband oder Schraubhalterung) lassen sich die Sensoren auf nahezu jeder Oberfläche installieren – völlig ohne Verkabelung.",
+          "bodyHtml": "<p>Die industriellen Temperatursensoren von Jaxicloud Fleet Management Innovation sind aus vielen Gründen ideal für die Anforderungen an die Fernüberwachung von Temperaturdaten:</p><p><strong>100 % unabhängig</strong></p><p>Durch ihren Batteriebetrieb bieten sie eine Autonomie von bis zu 18 Jahren und gewährleisten damit äußerst geringe Gesamtbetriebskosten (TCO).</p><p><strong>Zertifiziert nach EN12830 – 2018</strong></p><p>Die Sensoren sind COFRAC-zertifiziert (EN12830 – 2018), was ihre Messgenauigkeit und Kalibrierung gemäß den geltenden Vorschriften bestätigt. Diese Zertifizierung ist international anerkannt, da COFRAC Mitglied der ILAC ist.<br>Jaxicloud bietet zudem einen Kalibrierungsservice für Temperatursensoren an, um während der gesamten Lebensdauer des Produkts zuverlässige Daten sicherzustellen.</p><p><strong>Großer Messbereich &amp; Echtzeitdaten</strong></p><p>Mit einem Messbereich von -40 °C bis +85 °C (und sogar -80 °C bis +200 °C beim Blue PUCK T-PROBE) sowie einem konfigurierbaren Übertragungsintervall decken diese Sensoren sämtliche wichtigen Anwendungsfälle im Transport temperatur­empfindlicher Waren ab – und übertragen die erfassten Daten in Echtzeit.</p><p><strong>Kompatibel mit Telematik-Boxen</strong></p><p>Ausgestattet mit Bluetooth Low Energy sind diese Sensoren mit den meisten auf dem Markt verfügbaren Telematik-Einheiten kompatibel und benötigen keinerlei zusätzliche Integration.</p><p><strong>Schnelle und einfache Installation</strong></p><p>Dank verschiedener Befestigungsmöglichkeiten (hochleistungsfähiges doppelseitiges Klebeband oder Schraubhalterung) lassen sich die Sensoren auf nahezu jeder Oberfläche installieren – völlig ohne Verkabelung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les capteurs de température industriels de Jaxicloud Fleet Management Innovation sont idéaux pour répondre aux besoins de surveillance à distance de la température pour de nombreuses raisons :100 % autonomesLeur fonctionnement sur batterie leur assure jusqu’à 18 ans d’autonomie, garantissant un coût total de possession très compétitif.Certifiés EN12830 – 2018Les capteurs sont certifiés COFRAC (EN12830 – 2018), ce qui atteste de leur précision et de leur étalonnage conformément aux normes en vigueur.Cette certification est valable à l’échelle internationale, puisque l’organisme COFRAC est affilié à l’ILAC.ELA Innovation propose également un service d’étalonnage pour garantir la fiabilité des données tout au long de la durée de vie du produit.Large plage de mesure et données en temps réelAvec une plage de mesure de -40 °C à +85 °C (et même -80 °C à +200 °C pour le Blue PUCK T-PROBE) ainsi qu’une période de transmission configurable, ces capteurs couvrent les principaux cas d’usage dans le transport de marchandises sensibles à la température, en transmettant les données enregistrées en temps réel.Compatibles avec les boîtiers télématiquesÉquipés de la technologie Bluetooth Low Energy, ces capteurs sont compatibles avec la plupart des boîtiers télématiques intégrés disponibles sur le marché et ne nécessitent aucune intégration supplémentaire.Installation rapide et facileTrès simples à installer grâce aux différents moyens de fixation (adhésif double face haute performance ou support vissé), ces capteurs peuvent être montés sur tout type de surface et ne nécessitent aucun câblage.",
+          "bodyHtml": "<p>Les capteurs de température industriels de Jaxicloud Fleet Management Innovation sont idéaux pour répondre aux besoins de surveillance à distance de la température pour de nombreuses raisons :</p><p><strong>100 % autonomes</strong></p><p>Leur fonctionnement sur batterie leur assure jusqu’à 18 ans d’autonomie, garantissant un coût total de possession très compétitif.</p><p><strong>Certifiés EN12830 – 2018</strong></p><p>Les capteurs sont certifiés COFRAC (EN12830 – 2018), ce qui atteste de leur précision et de leur étalonnage conformément aux normes en vigueur.<br>Cette certification est valable à l’échelle internationale, puisque l’organisme COFRAC est affilié à l’ILAC.<br>ELA Innovation propose également un service d’étalonnage pour garantir la fiabilité des données tout au long de la durée de vie du produit.</p><p><strong>Large plage de mesure et données en temps réel</strong></p><p>Avec une plage de mesure de -40 °C à +85 °C (et même -80 °C à +200 °C pour le Blue PUCK T-PROBE) ainsi qu’une période de transmission configurable, ces capteurs couvrent les principaux cas d’usage dans le transport de marchandises sensibles à la température, en transmettant les données enregistrées en temps réel.</p><p><strong>Compatibles avec les boîtiers télématiques</strong></p><p>Équipés de la technologie Bluetooth Low Energy, ces capteurs sont compatibles avec la plupart des boîtiers télématiques intégrés disponibles sur le marché et ne nécessitent aucune intégration supplémentaire.</p><p><strong>Installation rapide et facile</strong></p><p>Très simples à installer grâce aux différents moyens de fixation (adhésif double face haute performance ou support vissé), ces capteurs peuvent être montés sur tout type de surface et ne nécessitent aucun câblage.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De industriële temperatuursensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het beantwoorden van de behoefte aan remote temperatuurmonitoring, om verschillende redenen:100% onafhankelijkDankzij hun werking op batterijen bieden ze tot 18 jaar autonomie, wat zorgt voor een competitieve totale eigendomskost.Gecertificeerd EN12830 – 2018De sensoren zijn COFRAC-gecertificeerd (EN12830 – 2018), wat hun nauwkeurigheid en kalibratie bevestigt volgens normen die voldoen aan de regelgeving. Deze certificering is internationaal geldig, aangezien COFRAC is aangesloten bij ILAC.ELA Innovation biedt bovendien een kalibratieservice voor temperatuursensoren om betrouwbare data gedurende de volledige levensduur van het product te garanderen.Breed meetbereik en real-time gegevensMet een meetbereik van -40 °C tot +85 °C (en zelfs -80 °C tot +200 °C voor de Blue PUCK T-PROBE) en een configureerbare transmissieperiode, kunnen deze sensoren de belangrijkste toepassingsscenario’s in het vervoer van temperatuurgevoelige goederen afdekken door de geregistreerde gegevens in real time te verzenden.Compatibel met telematicaboxenUitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en is geen extra integratie vereist.Snelle en eenvoudige installatieDe installatie is uiterst eenvoudig dankzij verschillende bevestigingsmethoden (hoogwaardige dubbelzijdige tape of montagebeugel). De sensoren kunnen op elk type oppervlak worden geplaatst en vereisen geen bekabeling.",
+          "bodyHtml": "<p>De industriële temperatuursensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het beantwoorden van de behoefte aan remote temperatuurmonitoring, om verschillende redenen:</p><p><strong>100% onafhankelijk</strong></p><p>Dankzij hun werking op batterijen bieden ze tot 18 jaar autonomie, wat zorgt voor een competitieve totale eigendomskost.</p><p><strong>Gecertificeerd EN12830 – 2018</strong></p><p>De sensoren zijn COFRAC-gecertificeerd (EN12830 – 2018), wat hun nauwkeurigheid en kalibratie bevestigt volgens normen die voldoen aan de regelgeving. Deze certificering is internationaal geldig, aangezien COFRAC is aangesloten bij ILAC.<br>ELA Innovation biedt bovendien een kalibratieservice voor temperatuursensoren om betrouwbare data gedurende de volledige levensduur van het product te garanderen.</p><p><strong>Breed meetbereik en real-time gegevens</strong></p><p>Met een meetbereik van -40 °C tot +85 °C (en zelfs -80 °C tot +200 °C voor de Blue PUCK T-PROBE) en een configureerbare transmissieperiode, kunnen deze sensoren de belangrijkste toepassingsscenario’s in het vervoer van temperatuurgevoelige goederen afdekken door de geregistreerde gegevens in real time te verzenden.</p><p><strong>Compatibel met telematicaboxen</strong></p><p>Uitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en is geen extra integratie vereist.</p><p><strong>Snelle en eenvoudige installatie</strong></p><p>De installatie is uiterst eenvoudig dankzij verschillende bevestigingsmethoden (hoogwaardige dubbelzijdige tape of montagebeugel). De sensoren kunnen op elk type oppervlak worden geplaatst en vereisen geen bekabeling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "De industrielle temperatursensorene fra Jaxicloud Fleet Management Innovation er ideelle for behovet for fjernovervåking av temperatur av flere grunner:100 % uavhengigeBatteridrift gir opptil 18 års autonomi, noe som sikrer en svært konkurransedyktig total eierkostnad.Sertifisert EN12830 – 2018Sensorene er COFRAC-sertifisert (EN12830 – 2018), noe som bekrefter deres nøyaktighet og kalibrering i henhold til standarder som oppfyller gjeldende regelverk. Denne sertifiseringen er gyldig internasjonalt, ettersom COFRAC er tilknyttet ILAC. ELA Innovation tilbyr også en kalibreringstjeneste for temperatursensorer for å sikre pålitelige data gjennom hele produktets levetid.Bredt måleområde og sanntidsdataMed et måleområde fra -40 °C til +85 °C (og til og med -80 °C til +200 °C for Blue PUCK T-PROBE) og en konfigurerbar overføringsfrekvens, kan disse sensorene dekke de viktigste bruksområdene innen transport av temperatursensitive varer ved å sende innsamlede data i sanntid.Kompatible med telematikksenheterUtstyrt med Bluetooth Low Energy-teknologi er sensorene kompatible med de fleste innebygde telematiksenheter på markedet og krever ingen ekstra integrasjon.Rask og enkel installasjonTakket være ulike festemuligheter (høytytende dobbeltsidig teip eller skrufeste) er installasjonen svært enkel. Sensorene kan monteres på alle typer overflater og krever ingen kabling.",
+          "bodyHtml": "<p>De industrielle temperatursensorene fra Jaxicloud Fleet Management Innovation er ideelle for behovet for fjernovervåking av temperatur av flere grunner:</p><p>100 % uavhengige<br>Batteridrift gir opptil 18 års autonomi, noe som sikrer en svært konkurransedyktig total eierkostnad.</p><p>Sertifisert EN12830 – 2018<br>Sensorene er COFRAC-sertifisert (EN12830 – 2018), noe som bekrefter deres nøyaktighet og kalibrering i henhold til standarder som oppfyller gjeldende regelverk. Denne sertifiseringen er gyldig internasjonalt, ettersom COFRAC er tilknyttet ILAC. ELA Innovation tilbyr også en kalibreringstjeneste for temperatursensorer for å sikre pålitelige data gjennom hele produktets levetid.</p><p>Bredt måleområde og sanntidsdata<br>Med et måleområde fra -40 °C til +85 °C (og til og med -80 °C til +200 °C for Blue PUCK T-PROBE) og en konfigurerbar overføringsfrekvens, kan disse sensorene dekke de viktigste bruksområdene innen transport av temperatursensitive varer ved å sende innsamlede data i sanntid.</p><p>Kompatible med telematikksenheter<br>Utstyrt med Bluetooth Low Energy-teknologi er sensorene kompatible med de fleste innebygde telematiksenheter på markedet og krever ingen ekstra integrasjon.</p><p>Rask og enkel installasjon<br>Takket være ulike festemuligheter (høytytende dobbeltsidig teip eller skrufeste) er installasjonen svært enkel. Sensorene kan monteres på alle typer overflater og krever ingen kabling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "De industriella temperatursensorerna från Jaxicloud Fleet Management Innovation är idealiska för behovet av fjärrövervakning av temperatur av flera skäl:100 % självständigaDeras batteridrift ger upp till 18 års autonomi, vilket säkerställer en mycket konkurrenskraftig total ägandekostnad.Certifierade enligt EN12830 – 2018Sensorerna är COFRAC-certifierade (EN12830 – 2018), vilket intygar deras noggrannhet och kalibrering enligt standarder som uppfyller gällande regelverk. Certifieringen är giltig internationellt eftersom COFRAC är anslutet till ILAC.ELA Innovation erbjuder dessutom kalibreringstjänster för temperatursensorer för att garantera tillförlitliga data under hela produktens livslängd.Brett mätningsområde och realtidsdataMed ett mätningsintervall från –40 °C till +85 °C (och till och med –80 °C till +200 °C för Blue PUCK T-PROBE) samt en konfigurerbar sändningsfrekvens kan dessa sensorer täcka de viktigaste användningsområdena vid transport av temperaturkänsliga varor genom att överföra insamlad data i realtid.Kompatibla med telematikenheterUtrustade med Bluetooth Low Energy-teknik är sensorerna kompatibla med de flesta inbyggda telematikenheter på marknaden och kräver ingen ytterligare integration.Snabb och enkel installationSensorerna är mycket enkla att installera tack vare olika monteringsalternativ (högpresterande dubbelhäftande tejp eller skruvfäste). De kan monteras på alla typer av ytor och kräver ingen kabeldragning.",
+          "bodyHtml": "<p>De industriella temperatursensorerna från Jaxicloud Fleet Management Innovation är idealiska för behovet av fjärrövervakning av temperatur av flera skäl:</p><p>100 % självständiga</p><p>Deras batteridrift ger upp till 18 års autonomi, vilket säkerställer en mycket konkurrenskraftig total ägandekostnad.</p><p>Certifierade enligt EN12830 – 2018</p><p>Sensorerna är COFRAC-certifierade (EN12830 – 2018), vilket intygar deras noggrannhet och kalibrering enligt standarder som uppfyller gällande regelverk. Certifieringen är giltig internationellt eftersom COFRAC är anslutet till ILAC.<br>ELA Innovation erbjuder dessutom kalibreringstjänster för temperatursensorer för att garantera tillförlitliga data under hela produktens livslängd.</p><p>Brett mätningsområde och realtidsdata</p><p>Med ett mätningsintervall från –40 °C till +85 °C (och till och med –80 °C till +200 °C för Blue PUCK T-PROBE) samt en konfigurerbar sändningsfrekvens kan dessa sensorer täcka de viktigaste användningsområdena vid transport av temperaturkänsliga varor genom att överföra insamlad data i realtid.</p><p>Kompatibla med telematikenheter</p><p>Utrustade med Bluetooth Low Energy-teknik är sensorerna kompatibla med de flesta inbyggda telematikenheter på marknaden och kräver ingen ytterligare integration.</p><p>Snabb och enkel installation</p><p>Sensorerna är mycket enkla att installera tack vare olika monteringsalternativ (högpresterande dubbelhäftande tejp eller skruvfäste). De kan monteras på alla typer av ytor och kräver ingen kabeldragning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management Innovation tarafından geliştirilen endüstriyel sıcaklık sensörleri, uzaktan sıcaklık izleme ihtiyacını karşılamak için birçok açıdan ideal bir çözümdür:%100 bağımsız çalışmaBatarya ile çalışmaları sayesinde 18 yıla kadar özerklik sunar ve toplam sahip olma maliyetinde önemli bir rekabet avantajı sağlar.EN12830 – 2018 sertifikalıSensörler, doğruluklarını ve ilgili düzenlemelere uygun olarak kalibre edildiğini gösteren COFRAC (EN12830 – 2018) sertifikasına sahiptir.Bu sertifika uluslararası ölçekte geçerlidir çünkü COFRAC, ILAC kuruluşuna bağlıdır.Ayrıca ELA Innovation, ürün ömrü boyunca güvenilir veri sağlamak amacıyla bu sıcaklık sensörleri için kalibrasyon hizmeti de sunmaktadır.Geniş ölçüm aralığı ve gerçek zamanlı veri-40 °C ile +85 °C arasında ölçüm aralığına sahip olan bu sensörler(Blue PUCK T-PROBE modeli için -80 °C ile +200 °C),konfigüre edilebilir veri iletim periyodu sayesinde sıcaklığa duyarlı ürünlerin taşınmasında en kritik kullanım senaryolarını gerçek zamanlı veri aktarımıyla destekler.Telematik cihazlarla uyumluBluetooth Low Energy teknolojisi ile donatılmış olan bu sensörler, piyasadaki çoğu yerleşik telematik cihazıyla uyumludur ve ek entegrasyon gerektirmez.Hızlı ve kolay montajYüksek performanslı çift taraflı yapıştırıcı veya vidalı montaj aparatı gibi farklı sabitleme çözümleri sayesinde kurulumu son derece kolaydır.Her tür yüzeye monte edilebilir ve kablolama gerektirmez.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Innovation tarafından geliştirilen endüstriyel sıcaklık sensörleri, uzaktan sıcaklık izleme ihtiyacını karşılamak için birçok açıdan ideal bir çözümdür:</p><p>%100 bağımsız çalışma</p><p>Batarya ile çalışmaları sayesinde 18 yıla kadar özerklik sunar ve toplam sahip olma maliyetinde önemli bir rekabet avantajı sağlar.</p><p>EN12830 – 2018 sertifikalı</p><p>Sensörler, doğruluklarını ve ilgili düzenlemelere uygun olarak kalibre edildiğini gösteren COFRAC (EN12830 – 2018) sertifikasına sahiptir.<br>Bu sertifika uluslararası ölçekte geçerlidir çünkü COFRAC, ILAC kuruluşuna bağlıdır.<br>Ayrıca ELA Innovation, ürün ömrü boyunca güvenilir veri sağlamak amacıyla bu sıcaklık sensörleri için kalibrasyon hizmeti de sunmaktadır.</p><p>Geniş ölçüm aralığı ve gerçek zamanlı veri</p><p>-40 °C ile +85 °C arasında ölçüm aralığına sahip olan bu sensörler<br>(Blue PUCK T-PROBE modeli için -80 °C ile +200 °C),<br>konfigüre edilebilir veri iletim periyodu sayesinde sıcaklığa duyarlı ürünlerin taşınmasında en kritik kullanım senaryolarını gerçek zamanlı veri aktarımıyla destekler.</p><p>Telematik cihazlarla uyumlu</p><p>Bluetooth Low Energy teknolojisi ile donatılmış olan bu sensörler, piyasadaki çoğu yerleşik telematik cihazıyla uyumludur ve ek entegrasyon gerektirmez.</p><p>Hızlı ve kolay montaj</p><p>Yüksek performanslı çift taraflı yapıştırıcı veya vidalı montaj aparatı gibi farklı sabitleme çözümleri sayesinde kurulumu son derece kolaydır.<br>Her tür yüzeye monte edilebilir ve kablolama gerektirmez.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "heading",
+      "order": 11,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvilke ELA Innovation temperatursensorer skal du bruge?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Which ELA Innovation temperature sensors should you use?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Welche Temperatursensoren von ELA Innovation sollten Sie verwenden?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Quels capteurs de température ELA Innovation devez-vous utiliser ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Welke ELA Innovation temperatuursensoren moet u gebruiken?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvilke ELA Innovation temperatursensorer bør du bruke?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vilka ELA Innovation temperatursensorer ska du använda?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hangi ELA Innovation sıcaklık sensörlerini kullanmalısınız?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "richText",
+      "order": 12,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Hvis du er en IoT-løsningsudbyder og ønsker at integrere fjerntemperaturovervågning i dit tilbud, er her de ELA Innovation-produkter, vi anbefaler:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Hvis du er en IoT-løsningsudbyder og ønsker at integrere fjerntemperaturovervågning i dit tilbud, er her de ELA Innovation-produkter, vi anbefaler:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "If you are an IoT solution provider and want to integrate remote temperature monitoring into your offering, here are the ELA Innovation products we recommend:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">If you are an IoT solution provider and want to integrate remote temperature monitoring into your offering, here are the ELA Innovation products we recommend:</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wenn Sie ein Anbieter von IoT-Lösungen sind und die Fernüberwachung der Temperatur in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Produkte von ELA Innovation:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Wenn Sie ein Anbieter von IoT-Lösungen sind und die Fernüberwachung der Temperatur in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Produkte von ELA Innovation:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la surveillance à distance de la température à votre offre, voici les produits ELA Innovation que nous recommandons :",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la surveillance à distance de la température à votre offre, voici les produits ELA Innovation que nous recommandons :</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bent u een leverancier van IoT-oplossingen en wilt u temperatuurbewaking op afstand integreren in uw aanbod? Dan raden wij u de volgende ELA Innovation-producten aan:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bent u een leverancier van IoT-oplossingen en wilt u temperatuurbewaking op afstand integreren in uw aanbod? Dan raden wij u de volgende ELA Innovation-producten aan:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hvis du er en leverandør av IoT-løsninger og ønsker å integrere fjerntemperaturovervåking i tilbudet ditt, anbefaler vi følgende ELA Innovation-produkter:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Hvis du er en leverandør av IoT-løsninger og ønsker å integrere fjerntemperaturovervåking i tilbudet ditt, anbefaler vi følgende ELA Innovation-produkter:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Om du är en leverantör av IoT-lösningar och vill integrera fjärrövervakning av temperatur i ditt erbjudande, rekommenderar vi följande ELA Innovation-produkter:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Om du är en leverantör av IoT-lösningar och vill integrera fjärrövervakning av temperatur i ditt erbjudande, rekommenderar vi följande ELA Innovation-produkter:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "IoT çözümleri sağlayıcısıysanız ve uzaktan sıcaklık izleme özelliğini ürün yelpazenize entegre etmek istiyorsanız, ELA Innovation’ın önerdiği ürünler şunlardır:",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">IoT çözümleri sağlayıcısıysanız ve uzaktan sıcaklık izleme özelliğini ürün yelpazenize entegre etmek istiyorsanız, ELA Innovation’ın önerdiği ürünler şunlardır:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_07f4811d76b846238e0d702f9c49e677mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_07f4811d76b846238e0d702f9c49e677mv2.jpg",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "image",
+      "order": 14,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3a856706029342119340e9a4080cb083mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3a856706029342119340e9a4080cb083mv2.jpg",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

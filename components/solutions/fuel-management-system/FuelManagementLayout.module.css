@@ -1,0 +1,258 @@
+/**
+ * Fuel management — immersive bleed hero, asymmetric stats, media zigzag, dark reports.
+ * Art-directed from imagegen section comps (hero / stats / monitor / reports).
+ */
+
+.page {
+  background: #ffffff;
+}
+
+.hero {
+  position: relative;
+  min-height: min(88dvh, 860px);
+  display: grid;
+  align-items: end;
+  color: #fff;
+  overflow: hidden;
+}
+
+.heroBg {
+  position: absolute;
+  inset: 0;
+}
+
+.heroBgImg {
+  object-fit: cover;
+  object-position: 70% center;
+}
+
+.heroScrim {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(8, 15, 28, 0.92) 0%, rgba(8, 15, 28, 0.55) 48%, rgba(8, 15, 28, 0.25) 100%),
+    linear-gradient(0deg, rgba(8, 15, 28, 0.75) 0%, transparent 45%);
+}
+
+.heroInner {
+  position: relative;
+  z-index: 1;
+  padding: clamp(5rem, 12vw, 8rem) 0 clamp(3rem, 6vw, 4.5rem);
+  max-width: 38rem;
+}
+
+.heroTitle {
+  margin-top: 1rem;
+  font-size: clamp(2.75rem, 7vw, 5rem);
+  max-width: 11ch;
+  color: #fff;
+}
+
+.heroBody {
+  margin-top: 1.25rem;
+  max-width: 42ch;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.heroCta {
+  margin-top: 1.75rem;
+}
+
+.stats {
+  position: relative;
+  background:
+    radial-gradient(700px 280px at 8% 0%, rgba(20, 184, 166, 0.1), transparent 60%),
+    #f8fafc;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.statsGrid {
+  display: grid;
+  gap: 2rem;
+  padding: clamp(3rem, 7vw, 5rem) 0;
+}
+
+@media (min-width: 800px) {
+  .statsGrid {
+    grid-template-columns: 1.2fr 1fr 1fr;
+    gap: 0;
+  }
+
+  .statCell {
+    padding: 0 2rem;
+    border-left: 1px solid rgba(15, 118, 110, 0.25);
+  }
+
+  .statCell:first-child {
+    padding-left: 0;
+    border-left: none;
+  }
+}
+
+.intro {
+  display: grid;
+  gap: clamp(2rem, 4vw, 3.5rem);
+  padding: clamp(4rem, 9vw, 7rem) 0;
+}
+
+@media (min-width: 960px) {
+  .intro {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    align-items: end;
+  }
+}
+
+.introTitle {
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  max-width: 14ch;
+}
+
+.monitor {
+  padding: clamp(2rem, 5vw, 4rem) 0 clamp(4rem, 8vw, 6rem);
+}
+
+.monitorGrid {
+  display: grid;
+  gap: clamp(1.75rem, 4vw, 3rem);
+  align-items: center;
+}
+
+@media (min-width: 960px) {
+  .monitorGrid {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  }
+}
+
+.monitorMedia {
+  aspect-ratio: 4 / 3;
+  border-radius: 1.25rem;
+  box-shadow:
+    0 0 0 1px rgba(15, 23, 42, 0.04),
+    0 24px 60px rgba(15, 23, 42, 0.1);
+}
+
+.monitorCopy h2 {
+  font-size: clamp(1.75rem, 3.2vw, 2.5rem);
+  max-width: 16ch;
+}
+
+.monitorCopy .lead {
+  margin-top: 1rem;
+}
+
+.zig {
+  display: grid;
+  gap: clamp(3rem, 7vw, 5rem);
+  padding: 0 0 clamp(4rem, 8vw, 6rem);
+}
+
+.zigRow {
+  display: grid;
+  gap: clamp(1.5rem, 3vw, 2.5rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .zigRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .zigRowFlip .zigMedia {
+    order: 2;
+  }
+
+  .zigRowFlip .zigCopy {
+    order: 1;
+  }
+}
+
+.zigMedia {
+  aspect-ratio: 16 / 11;
+  border-radius: 1rem;
+}
+
+.darkBand {
+  background:
+    radial-gradient(900px 400px at 70% 20%, rgba(20, 184, 166, 0.18), transparent 55%),
+    #0b1220;
+  color: #fff;
+  padding: clamp(4rem, 9vw, 7rem) 0;
+}
+
+.darkTitle {
+  font-size: clamp(2rem, 4.5vw, 3.5rem);
+  max-width: 18ch;
+  color: #fff;
+  text-align: center;
+  margin-inline: auto;
+}
+
+.darkBody {
+  margin: 1.25rem auto 0;
+  max-width: 54ch;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.darkMedia {
+  margin-top: clamp(2.5rem, 5vw, 3.5rem);
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 800px) {
+  .darkMedia {
+    grid-template-columns: 1.1fr 0.9fr;
+    align-items: end;
+  }
+}
+
+.darkShot {
+  aspect-ratio: 16 / 10;
+  border-radius: 1rem;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.35);
+}
+
+.darkShotTall {
+  aspect-ratio: 4 / 5;
+  border-radius: 1rem;
+  transform: translateY(1.5rem);
+}
+
+@media (max-width: 799px) {
+  .darkShotTall {
+    transform: none;
+    aspect-ratio: 16 / 10;
+  }
+}
+
+.close {
+  padding: clamp(4rem, 8vw, 6.5rem) 0;
+  display: grid;
+  gap: clamp(2rem, 4vw, 3rem);
+}
+
+@media (min-width: 960px) {
+  .close {
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+}
+
+.closeTitle {
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  max-width: 16ch;
+}
+
+.closeMedia {
+  aspect-ratio: 5 / 4;
+  border-radius: 1.25rem;
+}
+
+.closeActions {
+  margin-top: 1.75rem;
+}

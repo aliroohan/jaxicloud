@@ -1,0 +1,722 @@
+{
+  "slug": "fleetrun-fleet-volunteer",
+  "pageKind": "solution",
+  "titles": {
+    "da": "FLEETRUN FLEET VOLUNTEER — DA",
+    "en": "FLEETRUN FLEET VOLUNTEER",
+    "de": "FLEETRUN FLEET VOLUNTEER – DE",
+    "fr": "FLEETRUN FLEET VOLUNTEER – FR",
+    "nl": "FLEETRUN FLEET VOLUNTEER – HL",
+    "nb": "FLEETRUN FLEET VOLUNTEER – NO",
+    "sv": "FLEETRUN FLEET VOLUNTEER – SV",
+    "tr": "FLEETRUN FLEET VOLUNTEER – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Fleetrun flådefrivillig - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Fleetrun fleet volunteer - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Freiwilliger der Fleetrun-Flotte - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Bénévole de la flotte Fleetrun - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Fleetrun - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Fleetrun - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Fleetrun flottvolontär - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Fleetrun filo gönüllüsü - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/fleetrun-fleet-volunteer-da/",
+    "en": "https://www.jaxicloud.com/en/fleetrun-fleet-volunteer/",
+    "de": "https://www.jaxicloud.com/de/fleetrun-fleet-volunteer-de/",
+    "fr": "https://www.jaxicloud.com/fr/fleetrun-fleet-volunteer-fr/",
+    "nl": "https://www.jaxicloud.com/nl/fleetrun-fleet-volunteer-hl/",
+    "nb": "https://www.jaxicloud.com/nb/fleetrun-fleet-volunteer-no/",
+    "sv": "https://www.jaxicloud.com/sv/fleetrun-fleet-volunteer-sv/",
+    "tr": "https://www.jaxicloud.com/tr/fleetrun-fleet-volunteer-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fleetrun flådefrivillig",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fleetrun fleet volunteer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Freiwilliger der Fleetrun-Flotte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Bénévole de la flotte Fleetrun",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Fleetrun",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fleetrun",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fleetrun flottvolontär",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Fleetrun filo gönüllüsü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fleetrun: en løsning til styring af flådevedligeholdelse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "A solution for fleet maintenance management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Eine Lösung für das Flottenwartungsmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Une solution pour la gestion de la maintenance des flottes",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Fleetrun: een oplossing voor het beheer van wagenparkonderhoud",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "En løsning for administrasjon av flåtevedlikehold",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "En lösning för hantering av flottunderhåll",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Filo bakım yönetimi çözümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Web-applikation til sporing af flådevedligeholdelse: plan, kontrol og udgiftsregistrering. Vi udviklede Fleetrun til dem, der ønsker at reducere driftsomkostningerne, undgå kritiske nedbrud og reducere tidsforbruget på tankstationen. Med denne applikation kan du kontrollere alle slags tjenester og udgifter til individuelle reservedele, køretøjer og endda kilometerydelse. Fleetrun vil vise de tjenester, som flåden har brug for, deres intervaller og omkostninger.",
+          "bodyHtml": "<p>Web-applikation til sporing af flådevedligeholdelse: plan, kontrol og udgiftsregistrering. Vi udviklede Fleetrun til dem, der ønsker at reducere driftsomkostningerne, undgå kritiske nedbrud og reducere tidsforbruget på tankstationen. Med denne applikation kan du kontrollere alle slags tjenester og udgifter til individuelle reservedele, køretøjer og endda kilometerydelse. Fleetrun vil vise de tjenester, som flåden har brug for, deres intervaller og omkostninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Web application for tracking fleet maintenance: plan, control and expense recording. We developed Fleetrun for those who want to reduce operating costs, avoid critical breakdowns and reduce time spent at the service station. With this application you can control all kinds of services and expenses for individual spare parts, vehicles and even mileage. Fleetrun will show the services that the fleet needs, their intervals and costs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Web application for tracking fleet maintenance: plan, control and expense recording. We developed Fleetrun for those who want to reduce operating costs, avoid critical breakdowns and reduce time spent at the service station. With this application you can control all kinds of services and expenses for individual spare parts, vehicles and even mileage. Fleetrun will show the services that the fleet needs, their intervals and costs.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Webanwendung zur Flottenwartung: Planung, Steuerung und Kostenerfassung. Wir haben Fleetrun für alle entwickelt, die Betriebskosten senken, kritische Ausfälle vermeiden und die Zeit in der Werkstatt reduzieren möchten. Mit dieser Anwendung behalten Sie den Überblick über alle Serviceleistungen und Kosten für einzelne Ersatzteile, Fahrzeuge und sogar die gefahrenen Kilometer. Fleetrun zeigt Ihnen die benötigten Serviceleistungen Ihrer Flotte, deren Intervalle und Kosten an.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Webanwendung zur Flottenwartung: Planung, Steuerung und Kostenerfassung. Wir haben Fleetrun für alle entwickelt, die Betriebskosten senken, kritische Ausfälle vermeiden und die Zeit in der Werkstatt reduzieren möchten. Mit dieser Anwendung behalten Sie den Überblick über alle Serviceleistungen und Kosten für einzelne Ersatzteile, Fahrzeuge und sogar die gefahrenen Kilometer. Fleetrun zeigt Ihnen die benötigten Serviceleistungen Ihrer Flotte, deren Intervalle und Kosten an.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Application web de suivi de la maintenance de flotte : planification, contrôle et enregistrement des dépenses. Nous avons développé Fleetrun pour ceux qui souhaitent réduire leurs coûts d’exploitation, éviter les pannes critiques et minimiser le temps passé en atelier. Cette application permet de contrôler tous types d’interventions et de dépenses liées aux pièces détachées, aux véhicules et même au kilométrage. Fleetrun affiche les interventions nécessaires à la flotte, leurs intervalles et leurs coûts.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Application web de suivi de la maintenance de flotte : planification, contrôle et enregistrement des dépenses. Nous avons développé Fleetrun pour ceux qui souhaitent réduire leurs coûts d’exploitation, éviter les pannes critiques et minimiser le temps passé en atelier. Cette application permet de contrôler tous types d’interventions et de dépenses liées aux pièces détachées, aux véhicules et même au kilométrage. Fleetrun affiche les interventions nécessaires à la flotte, leurs intervalles et leurs coûts.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Webapplicatie voor het volgen van wagenparkonderhoud: planning, controle en onkostenregistratie. We hebben Fleetrun ontwikkeld voor degenen die de bedrijfskosten willen verlagen, kritieke storingen willen voorkomen en de tijd die bij het tankstation wordt doorgebracht willen verminderen. Met deze applicatie kunt u allerlei soorten diensten en uitgaven voor afzonderlijke reserveonderdelen, voertuigen en zelfs kilometerstanden controleren. Fleetrun toont de diensten die de vloot nodig heeft, hun intervallen en kosten.",
+          "bodyHtml": "<p>Webapplicatie voor het volgen van wagenparkonderhoud: planning, controle en onkostenregistratie. We hebben Fleetrun ontwikkeld voor degenen die de bedrijfskosten willen verlagen, kritieke storingen willen voorkomen en de tijd die bij het tankstation wordt doorgebracht willen verminderen. Met deze applicatie kunt u allerlei soorten diensten en uitgaven voor afzonderlijke reserveonderdelen, voertuigen en zelfs kilometerstanden controleren. Fleetrun toont de diensten die de vloot nodig heeft, hun intervallen en kosten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Webapplikasjon for sporing av flåtevedlikehold: plan, kontroll og utgiftsregistrering. Vi utviklet Fleetrun for de som ønsker å redusere driftskostnadene, unngå kritiske havarier og redusere tidsbruken på bensinstasjonen. Med denne applikasjonen kan du sjekke alle slags tjenester og utgifter for individuelle reservedeler, kjøretøy og til og med kjørelengde. Fleetrun vil vise tjenestene flåten trenger, deres intervaller og kostnader.",
+          "bodyHtml": "<p>Webapplikasjon for sporing av flåtevedlikehold: plan, kontroll og utgiftsregistrering. Vi utviklet Fleetrun for de som ønsker å redusere driftskostnadene, unngå kritiske havarier og redusere tidsbruken på bensinstasjonen. Med denne applikasjonen kan du sjekke alle slags tjenester og utgifter for individuelle reservedeler, kjøretøy og til og med kjørelengde. Fleetrun vil vise tjenestene flåten trenger, deres intervaller og kostnader.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Webbapplikation för spårning av flottans underhåll: planering, kontroll och kostnadsregistrering. Vi utvecklade Fleetrun för dig som vill minska driftskostnader, undvika kritiska haverier och minska tiden du spenderar på servicestationer. Med den här applikationen kan du kontrollera alla typer av tjänster och utgifter för enskilda reservdelar, fordon och till och med körsträcka. Fleetrun visar de tjänster som flottan behöver, deras intervall och kostnader.",
+          "bodyHtml": "<p>Webbapplikation för spårning av flottans underhåll: planering, kontroll och kostnadsregistrering. Vi utvecklade Fleetrun för dig som vill minska driftskostnader, undvika kritiska haverier och minska tiden du spenderar på servicestationer. Med den här applikationen kan du kontrollera alla typer av tjänster och utgifter för enskilda reservdelar, fordon och till och med körsträcka. Fleetrun visar de tjänster som flottan behöver, deras intervall och kostnader.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Filo bakım takibi web uygulaması: plan, kontrol ve gider kaydı. İşletme maliyetlerini azaltmak, kritik arızalardan kaçınmak ve benzin istasyonunda geçirilen süreyi azaltmak isteyenler için Fleetrun’u geliştirdik. Bu uygulama ile bireysel yedek parça, araç ve hatta kilometreye ilişkin her türlü hizmet ve harcamayı kontrol edebilirsiniz. Fleetrun, filonun ihtiyaç duyduğu hizmetleri, bunların aralıklarını ve maliyetlerini gösterecek.",
+          "bodyHtml": "<p>Filo bakım takibi web uygulaması: plan, kontrol ve gider kaydı. İşletme maliyetlerini azaltmak, kritik arızalardan kaçınmak ve benzin istasyonunda geçirilen süreyi azaltmak isteyenler için Fleetrun’u geliştirdik. Bu uygulama ile bireysel yedek parça, araç ve hatta kilometreye ilişkin her türlü hizmet ve harcamayı kontrol edebilirsiniz. Fleetrun, filonun ihtiyaç duyduğu hizmetleri, bunların aralıklarını ve maliyetlerini gösterecek.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0654fc7a119d4bf5b21116938f54475amv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0654fc7a119d4bf5b21116938f54475amv2.gif",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan flådevedligeholdelsesstyringssystemet fungerer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How the Fleet Maintenance Management System Works",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "So funktioniert das Flottenwartungsmanagementsystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Fonctionnement du système de gestion de la maintenance de la flotte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe het wagenparkonderhoudsbeheersysteem werkt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan flåtevedlikeholdsstyringssystemet fungerer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur flottunderhållssystemet fungerar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Filo bakım yönetim sistemi nasıl çalışır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "iconList",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Opret en liste over enheder",
+            "Angiv serviceinterval",
+            "værker og reservedele",
+            "Tilføj opgaver: værksted og reservedele"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Create a list of devices",
+            "Specify service interval",
+            "works and spare parts",
+            "Add tasks: workshop and spare parts"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Erstellen Sie eine Liste der Geräte",
+            "Serviceintervall angeben",
+            "Arbeiten und Ersatzteile",
+            "Aufgaben hinzufügen: Werkstatt und Ersatzteile"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Créer une liste d'appareils",
+            "Spécifier l'intervalle d'entretien",
+            "travaux et pièces détachées",
+            "Ajouter des tâches : atelier et pièces détachées"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Maak een lijst met apparaten",
+            "Geef het service-interval op",
+            "werken en reserveonderdelen",
+            "Taken toevoegen: werkplaats en reserveonderdelen"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Lag en liste over enheter",
+            "Angi serviceintervall",
+            "verk og reservedeler",
+            "Legg til oppgaver: verksted og reservedeler"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Skapa en lista över enheter",
+            "Ange serviceintervall",
+            "arbeten och reservdelar",
+            "Lägg till uppgifter: verkstad och reservdelar"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Cihazların bir listesini oluşturun",
+            "Servis aralığını belirtin",
+            "işler ve yedek parçalar",
+            "Görev ekle: atölye ve yedek parçalar"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2677 @@
+{
+  "slug": "dashcam-bus-truck",
+  "pageKind": "solution",
+  "titles": {
+    "da": "DASHCAM BUS TRUCK DA",
+    "en": "DASHCAM BUS TRUCK",
+    "de": "DASHCAM BUS TRUCK DE",
+    "fr": "DASHCAM BUS TRUCK – FR",
+    "nl": "DASHCAM BUS TRUCK  – HL",
+    "nb": "DASHCAM BUS TRUCK – NO",
+    "sv": "DASHCAM BUS TRUCK – SV",
+    "tr": "DASHCAM BUS TRUCK – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Dashcam bus lastbil - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Dashcam bus truck - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Dashcam Bus LKW - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Camion bus avec caméra embarquée - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Dashcam-buswagen - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Dashcam-buswagen - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Dashcam buss lastbil - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Araç kamerası otobüs kamyon - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/dashcam-bus-truck-da/",
+    "en": "https://www.jaxicloud.com/en/dashcam-bus-truck/",
+    "de": "https://www.jaxicloud.com/de/dashcam-bus-truck-de/",
+    "fr": "https://www.jaxicloud.com/fr/dashcam-bus-truck-fr/",
+    "nl": "https://www.jaxicloud.com/nl/dashcam-bus-truck-hl/",
+    "nb": "https://www.jaxicloud.com/nb/dashcam-bus-truck-no/",
+    "sv": "https://www.jaxicloud.com/sv/dashcam-bus-truck-sv/",
+    "tr": "https://www.jaxicloud.com/tr/dashcam-bus-truck-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Dashcam bus lastbil",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Dashcam bus truck",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Dashcam Bus LKW",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Camion bus avec caméra embarquée",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Dashcam-buswagen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Dashcam buss lastebil",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Dashcam buss lastbil",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Araç kamerası otobüs kamyon",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Markedets efterspørgsel & udfordring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Market demand & challenge",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Marktnachfrage und Herausforderung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Demande et défi du marché",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Vraag en uitdaging uit de markt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Markedsetterspørsel og utfordring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Marknadens efterfrågan & utmaning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Pazar talebi ve zorluklar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Offentlig transport er en vigtig sektor i enhver by, men den står over for betydelige udfordringer såsom røverier, overbelastning og trafikulykker. For at løse disse problemer kan et overvågningssystem give pålidelige beviser for at hjælpe busflåder med at reducere driftsomkostningerne og forbedre sikkerheden.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Offentlig transport er en vigtig sektor i enhver by, men den står over for betydelige udfordringer såsom røverier, overbelastning og trafikulykker. For at løse disse problemer kan et overvågningssystem give pålidelige beviser for at hjælpe busflåder med at reducere driftsomkostningerne og forbedre sikkerheden.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Public transport is an important sector in any city, but it faces significant challenges such as robberies, congestion and traffic accidents. To address these issues, a monitoring system can provide reliable evidence to help bus fleets reduce operating costs and improve safety.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Public transport is an important sector in any city, but it faces significant challenges such as robberies, congestion and traffic accidents. To address these issues, a monitoring system can provide reliable evidence to help bus fleets reduce operating costs and improve safety.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Der öffentliche Nahverkehr ist ein wichtiger Wirtschaftszweig in jeder Stadt, steht aber vor erheblichen Herausforderungen wie Raubüberfällen, Staus und Verkehrsunfällen. Um diese Probleme anzugehen, kann ein Überwachungssystem verlässliche Daten liefern, die Busflotten dabei helfen, Betriebskosten zu senken und die Sicherheit zu verbessern.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Der öffentliche Nahverkehr ist ein wichtiger Wirtschaftszweig in jeder Stadt, steht aber vor erheblichen Herausforderungen wie Raubüberfällen, Staus und Verkehrsunfällen. Um diese Probleme anzugehen, kann ein Überwachungssystem verlässliche Daten liefern, die Busflotten dabei helfen, Betriebskosten zu senken und die Sicherheit zu verbessern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les transports publics constituent un secteur essentiel dans toute ville, mais ils sont confrontés à des défis importants tels que les vols, les embouteillages et les accidents de la route. Pour remédier à ces problèmes, un système de surveillance peut fournir des données fiables permettant aux flottes de bus de réduire leurs coûts d’exploitation et d’améliorer la sécurité.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les transports publics constituent un secteur essentiel dans toute ville, mais ils sont confrontés à des défis importants tels que les vols, les embouteillages et les accidents de la route. Pour remédier à ces problèmes, un système de surveillance peut fournir des données fiables permettant aux flottes de bus de réduire leurs coûts d’exploitation et d’améliorer la sécurité.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Openbaar vervoer is een belangrijke sector in elke stad, maar kent aanzienlijke uitdagingen zoals overvallen, files en verkeersongevallen. Om deze problemen aan te pakken, kan een monitoringsysteem betrouwbare gegevens leveren om busvloten te helpen de bedrijfskosten te verlagen en de veiligheid te verbeteren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Openbaar vervoer is een belangrijke sector in elke stad, maar kent aanzienlijke uitdagingen zoals overvallen, files en verkeersongevallen. Om deze problemen aan te pakken, kan een monitoringsysteem betrouwbare gegevens leveren om busvloten te helpen de bedrijfskosten te verlagen en de veiligheid te verbeteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Kollektivtransport er en viktig sektor i enhver by, men den står overfor betydelige utfordringer som ran, trafikkork og trafikkulykker. For å håndtere disse problemene kan et overvåkingssystem gi pålitelig bevis som hjelper bussflåter med å redusere driftskostnader og forbedre sikkerheten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Kollektivtransport er en viktig sektor i enhver by, men den står overfor betydelige utfordringer som ran, trafikkork og trafikkulykker. For å håndtere disse problemene kan et overvåkingssystem gi pålitelig bevis som hjelper bussflåter med å redusere driftskostnader og forbedre sikkerheten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Kollektivtrafiken är en viktig sektor i alla städer, men den står inför betydande utmaningar som rån, trängsel och trafikolyckor. För att lösa dessa problem kan ett övervakningssystem tillhandahålla tillförlitliga bevis för att hjälpa bussflottor att minska driftskostnaderna och förbättra säkerheten.",
+          "bodyHtml": "<p>Kollektivtrafiken är en viktig sektor i alla städer, men den står inför betydande utmaningar som rån, trängsel och trafikolyckor. För att lösa dessa problem kan ett övervakningssystem tillhandahålla tillförlitliga bevis för att hjälpa bussflottor att minska driftskostnaderna och förbättra säkerheten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Toplu taşıma her şehirde önemli bir sektördür ancak soygun, tıkanıklık ve trafik kazaları gibi önemli zorluklarla karşı karşıyadır. Bu sorunları çözmek için bir izleme sistemi, otobüs filolarının işletme maliyetlerini azaltmasına ve güvenliği artırmasına yardımcı olacak güvenilir kanıtlar sağlayabilir.",
+          "bodyHtml": "<p>Toplu taşıma her şehirde önemli bir sektördür ancak soygun, tıkanıklık ve trafik kazaları gibi önemli zorluklarla karşı karşıyadır. Bu sorunları çözmek için bir izleme sistemi, otobüs filolarının işletme maliyetlerini azaltmasına ve güvenliği artırmasına yardımcı olacak güvenilir kanıtlar sağlayabilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skrmbillede2024-09-03201202-ezgif.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skrmbillede2024-09-03201202-ezgif.jpg",
+          "width": 800,
+          "height": 460
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Derudover er der betydelige krav til busvognservicesystemet:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Significant requirements for the bus service system",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wesentliche Anforderungen an das Busverkehrssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Exigences importantes pour le système de service d'autobus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Belangrijke eisen voor het busdienstsysteem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Vesentlige krav til busstjenestesystemet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Dessutom finns det betydande krav på busstjänstsystemet:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ayrıca otobüs servis sistemi için önemli gereksinimler vardır:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sikring af sikkerhedsprocedurer",
+          "body": "Implementer strenge sikkerhedsprotokoller for at beskytte passagerer, herunder korrekt vedligeholdelse af køretøjer, regelmæssig førertræning og overholdelse af trafikregler. Dette hjælper med at minimere ulykker og sikre passagerernes sikkerhed.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Implementer strenge sikkerhedsprotokoller for at beskytte passagerer, herunder korrekt vedligeholdelse af køretøjer, regelmæssig førertræning og overholdelse af trafikregler. Dette hjælper med at minimere ulykker og sikre passagerernes sikkerhed.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Ensuring security procedures",
+          "body": "Implement strict safety protocols to protect passengers, including proper vehicle maintenance, regular driver training and compliance with traffic laws. This helps minimize accidents and ensure passenger safety.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Implement strict safety protocols to protect passengers, including proper vehicle maintenance, regular driver training and compliance with traffic laws. This helps minimize accidents and ensure passenger safety.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Sicherstellung der Sicherheitsverfahren",
+          "body": "Um die Fahrgäste zu schützen, müssen strenge Sicherheitsvorkehrungen getroffen werden. Dazu gehören die ordnungsgemäße Wartung der Fahrzeuge, regelmäßige Fahrerschulungen und die Einhaltung der Verkehrsregeln. Dies trägt dazu bei, Unfälle zu minimieren und die Sicherheit der Fahrgäste zu gewährleisten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Um die Fahrgäste zu schützen, müssen strenge Sicherheitsvorkehrungen getroffen werden. Dazu gehören die ordnungsgemäße Wartung der Fahrzeuge, regelmäßige Fahrerschulungen und die Einhaltung der Verkehrsregeln. Dies trägt dazu bei, Unfälle zu minimieren und die Sicherheit der Fahrgäste zu gewährleisten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ensuring security procedures",
+          "body": "Mettre en œuvre des protocoles de sécurité stricts pour protéger les passagers, notamment un entretien régulier des véhicules, une formation continue des conducteurs et le respect du code de la route. Cela contribue à minimiser les accidents et à garantir la sécurité des passagers.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mettre en œuvre des protocoles de sécurité stricts pour protéger les passagers, notamment un entretien régulier des véhicules, une formation continue des conducteurs et le respect du code de la route. Cela contribue à minimiser les accidents et à garantir la sécurité des passagers.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Zorgen voor veiligheidsprocedures",
+          "body": "Implementeer strikte veiligheidsprotocollen om passagiers te beschermen, waaronder goed voertuigonderhoud, regelmatige rijtraining en naleving van de verkeersregels. Dit helpt ongevallen te minimaliseren en de veiligheid van passagiers te waarborgen.",
+          "bodyHtml": "<p>Implementeer strikte veiligheidsprotocollen om passagiers te beschermen, waaronder goed voertuigonderhoud, regelmatige rijtraining en naleving van de verkeersregels. Dit helpt ongevallen te minimaliseren en de veiligheid van passagiers te waarborgen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sikre sikkerhetsprosedyrer",
+          "body": "Implementer strenge sikkerhetsprotokoller for å beskytte passasjerer, inkludert riktig vedlikehold av kjøretøyet, regelmessig sjåføropplæring og overholdelse av trafikklovene. Dette bidrar til å minimere ulykker og sikre passasjerenes sikkerhet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Implementer strenge sikkerhetsprotokoller for å beskytte passasjerer, inkludert riktig vedlikehold av kjøretøyet, regelmessig sjåføropplæring og overholdelse av trafikklovene. Dette bidrar til å minimere ulykker og sikre passasjerenes sikkerhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Säkerställande av säkerhetsrutiner",
+          "body": "Implementera strikta säkerhetsprotokoll för att skydda passagerare, inklusive korrekt fordonsunderhåll, regelbunden förarutbildning och efterlevnad av trafiklagar. Detta hjälper till att minimera olyckor och garantera passagerarnas säkerhet.",
+          "bodyHtml": "<p>Implementera strikta säkerhetsprotokoll för att skydda passagerare, inklusive korrekt fordonsunderhåll, regelbunden förarutbildning och efterlevnad av trafiklagar. Detta hjälper till att minimera olyckor och garantera passagerarnas säkerhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Güvenlik prosedürlerinin sağlanması",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Afhjælpning af useriøse retssager",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Remedy of Frivolous Lawsuits",
+          "body": "A reliable monitoring system provides court-ready evidence, deters lawsuits and reduces legal costs for bus fleet operators. This evidence helps resolve disputes and protect the reputation of the transport service.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">A reliable monitoring system provides court-ready evidence, deters lawsuits and reduces legal costs for bus fleet operators. This evidence helps resolve disputes and protect the reputation of the transport service.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Rechtsbehelf gegen unbegründete Klagen",
+          "body": "Ein zuverlässiges Überwachungssystem liefert gerichtsverwertbare Beweise, beugt Klagen vor und senkt die Rechtskosten für Busflottenbetreiber. Diese Beweise tragen zur Beilegung von Streitigkeiten bei und schützen den Ruf des Transportunternehmens.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ein zuverlässiges Überwachungssystem liefert gerichtsverwertbare Beweise, beugt Klagen vor und senkt die Rechtskosten für Busflottenbetreiber. Diese Beweise tragen zur Beilegung von Streitigkeiten bei und schützen den Ruf des Transportunternehmens.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Remedy of Frivolous Lawsuits",
+          "body": "Un système de surveillance fiable fournit des preuves recevables devant les tribunaux, dissuade les poursuites et réduit les frais juridiques pour les exploitants de flottes d’autobus. Ces preuves contribuent à résoudre les litiges et à protéger la réputation du service de transport.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Un système de surveillance fiable fournit des preuves recevables devant les tribunaux, dissuade les poursuites et réduit les frais juridiques pour les exploitants de flottes d’autobus. Ces preuves contribuent à résoudre les litiges et à protéger la réputation du service de transport.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Rechtsmiddel tegen frivole rechtszaken",
+          "body": "Een betrouwbaar monitoringsysteem levert bewijsmateriaal op dat klaar is voor de rechtbank, voorkomt rechtszaken en verlaagt de juridische kosten voor busvervoerders. Dit bewijsmateriaal helpt bij het oplossen van geschillen en beschermt de reputatie van de vervoersdienst.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Een betrouwbaar monitoringsysteem levert bewijsmateriaal op dat klaar is voor de rechtbank, voorkomt rechtszaken en verlaagt de juridische kosten voor busvervoerders. Dit bewijsmateriaal helpt bij het oplossen van geschillen en beschermt de reputatie van de vervoersdienst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rettsmiddel mot useriøse søksmål",
+          "body": "Et pålitelig overvåkingssystem gir bevis som er klare for retten, avskrekker søksmål og reduserer saksomkostninger for bussflåteoperatører. Disse bevisene bidrar til å løse tvister og beskytte transporttjenestens omdømme.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Et pålitelig overvåkingssystem gir bevis som er klare for retten, avskrekker søksmål og reduserer saksomkostninger for bussflåteoperatører. Disse bevisene bidrar til å løse tvister og beskytte transporttjenestens omdømme.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Avhjälpande av oseriösa stämningar",
+          "body": "Ett tillförlitligt övervakningssystem ger rättsklara bevis, avskräcker stämningar och minskar juridiska kostnader för bussflottans operatörer. Dessa bevis hjälper till att lösa tvister och skyddar transporttjänstens rykte.",
+          "bodyHtml": "<p>Ett tillförlitligt övervakningssystem ger rättsklara bevis, avskräcker stämningar och minskar juridiska kostnader för bussflottans operatörer. Dessa bevis hjälper till att lösa tvister och skyddar transporttjänstens rykte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Anlamsız Davaların Çözümü",
+          "body": "Güvenilir bir izleme sistemi mahkemeye hazır kanıtlar sağlar, davaları caydırır ve otobüs filosu operatörleri için yasal maliyetleri azaltır. Bu kanıtlar anlaşmazlıkların çözülmesine ve taşımacılık hizmetinin itibarının korunmasına yardımcı olur.",
+          "bodyHtml": "<p>Güvenilir bir izleme sistemi mahkemeye hazır kanıtlar sağlar, davaları caydırır ve otobüs filosu operatörleri için yasal maliyetleri azaltır. Bu kanıtlar anlaşmazlıkların çözülmesine ve taşımacılık hizmetinin itibarının korunmasına yardımcı olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Klar lyd- og videooptagelse",
+          "body": "Installer overvågningskameraer inde i busser for at optage tydelige lyd- og videooptagelser af fører-passager-interaktioner. Dette tjener som værdifuldt bevis i tilfælde af tvister eller hændelser, fremmer ansvarlighed og løser konflikter effektivt.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Installer overvågningskameraer inde i busser for at optage tydelige lyd- og videooptagelser af fører-passager-interaktioner. Dette tjener som værdifuldt bevis i tilfælde af tvister eller hændelser, fremmer ansvarlighed og løser konflikter effektivt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Clear audio and video recording",
+          "body": "Install surveillance cameras inside buses to record clear audio and video footage of driver-passenger interactions. This serves as valuable evidence in case of disputes or incidents, promotes accountability and resolves conflicts effectively.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Install surveillance cameras inside buses to record clear audio and video footage of driver-passenger interactions. This serves as valuable evidence in case of disputes or incidents, promotes accountability and resolves conflicts effectively.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Klare Audio- und Videoaufnahmen",
+          "body": "Installieren Sie Überwachungskameras in Bussen, um klare Audio- und Videoaufnahmen der Interaktionen zwischen Fahrer und Fahrgästen zu erstellen. Dies dient als wertvolles Beweismaterial im Falle von Streitigkeiten oder Vorfällen, fördert die Verantwortlichkeit und trägt zu einer effektiven Konfliktlösung bei.",
+          "bodyHtml": "<p>Installieren Sie Überwachungskameras in Bussen, um klare Audio- und Videoaufnahmen der Interaktionen zwischen Fahrer und Fahrgästen zu erstellen. Dies dient als wertvolles Beweismaterial im Falle von Streitigkeiten oder Vorfällen, fördert die Verantwortlichkeit und trägt zu einer effektiven Konfliktlösung bei.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Enregistrement audio et vidéo clair",
+          "body": "Installez des caméras de surveillance à bord des bus afin d’enregistrer clairement les interactions entre le conducteur et les passagers, tant au niveau audio que vidéo. Ces enregistrements constituent des preuves précieuses en cas de litige ou d’incident, favorisent la responsabilisation et permettent de résoudre efficacement les conflits.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Installez des caméras de surveillance à bord des bus afin d’enregistrer clairement les interactions entre le conducteur et les passagers, tant au niveau audio que vidéo. Ces enregistrements constituent des preuves précieuses en cas de litige ou d’incident, favorisent la responsabilisation et permettent de résoudre efficacement les conflits.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Duidelijke audio- en video-opname",
+          "body": "Installeer bewakingscamera’s in bussen om duidelijke audio- en videobeelden van de interactie tussen chauffeur en passagier vast te leggen. Dit dient als waardevol bewijs in geval van geschillen of incidenten, bevordert de verantwoordingsplicht en lost conflicten effectief op.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Installeer bewakingscamera’s in bussen om duidelijke audio- en videobeelden van de interactie tussen chauffeur en passagier vast te leggen. Dit dient als waardevol bewijs in geval van geschillen of incidenten, bevordert de verantwoordingsplicht en lost conflicten effectief op.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Klar lyd- og videoopptak",
+          "body": "Installer overvåkingskameraer inne i busser for å ta opp tydelig lyd- og videoopptak av samhandling mellom sjåfør og passasjer. Dette fungerer som verdifullt bevis i tilfelle tvister eller hendelser, fremmer ansvarlighet og løser konflikter effektivt.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Installer overvåkingskameraer inne i busser for å ta opp tydelig lyd- og videoopptak av samhandling mellom sjåfør og passasjer. Dette fungerer som verdifullt bevis i tilfelle tvister eller hendelser, fremmer ansvarlighet og løser konflikter effektivt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tydlig ljud- och videoinspelning",
+          "body": "Installera övervakningskameror inuti bussar för att spela in tydliga ljud- och videofilmer av interaktioner mellan förare och passagerare. Detta fungerar som värdefullt bevis vid tvister eller incidenter, främjar ansvarsskyldighet och löser konflikter effektivt.",
+          "bodyHtml": "<p>Installera övervakningskameror inuti bussar för att spela in tydliga ljud- och videofilmer av interaktioner mellan förare och passagerare. Detta fungerar som värdefullt bevis vid tvister eller incidenter, främjar ansvarsskyldighet och löser konflikter effektivt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Net ses ve video kaydı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Real-time ruteovervågning",
+          "body": "Brug overvågningssystemer i realtid til at spore bussers placering, overvåge ruter og identificere eventuelle afvigelser eller forsinkelser. Dette gør det muligt for flådeoperatører at træffe øjeblikkelige handlinger, optimere ruteeffektiviteten og forbedre den overordnede servicepålidelighed",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Brug overvågningssystemer i realtid til at spore bussers placering, overvåge ruter og identificere eventuelle afvigelser eller forsinkelser. Dette gør det muligt for flådeoperatører at træffe øjeblikkelige handlinger, optimere ruteeffektiviteten og forbedre den overordnede servicepålidelighed</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Real-time route monitoring",
+          "body": "Use real-time monitoring systems to track bus locations, monitor routes and identify any deviations or delays. This enables fleet operators to take immediate action, optimize route efficiency and improve overall service reliability",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Use real-time monitoring systems to track bus locations, monitor routes and identify any deviations or delays. This enables fleet operators to take immediate action, optimize route efficiency and improve overall service reliability</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Echtzeit-Routenüberwachung",
+          "body": "Nutzen Sie Echtzeit-Überwachungssysteme, um Busstandorte zu verfolgen, Routen zu überwachen und Abweichungen oder Verspätungen zu erkennen. So können Flottenbetreiber sofort reagieren, die Routeneffizienz optimieren und die allgemeine Servicezuverlässigkeit verbessern.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Nutzen Sie Echtzeit-Überwachungssysteme, um Busstandorte zu verfolgen, Routen zu überwachen und Abweichungen oder Verspätungen zu erkennen. So können Flottenbetreiber sofort reagieren, die Routeneffizienz optimieren und die allgemeine Servicezuverlässigkeit verbessern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance d'itinéraire en temps réel",
+          "body": "Utilisez des systèmes de surveillance en temps réel pour suivre la position des bus, contrôler les itinéraires et identifier tout écart ou retard. Cela permet aux exploitants de flottes d’intervenir immédiatement, d’optimiser l’efficacité des itinéraires et d’améliorer la fiabilité globale du service.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Utilisez des systèmes de surveillance en temps réel pour suivre la position des bus, contrôler les itinéraires et identifier tout écart ou retard. Cela permet aux exploitants de flottes d’intervenir immédiatement, d’optimiser l’efficacité des itinéraires et d’améliorer la fiabilité globale du service.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Realtime routebewaking",
+          "body": "Gebruik realtime monitoringsystemen om buslocaties te volgen, routes te monitoren en afwijkingen of vertragingen te identificeren. Dit stelt wagenparkbeheerders in staat om direct actie te ondernemen, de route-efficiëntie te optimaliseren en de algehele betrouwbaarheid van de dienstverlening te verbeteren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Gebruik realtime monitoringsystemen om buslocaties te volgen, routes te monitoren en afwijkingen of vertragingen te identificeren. Dit stelt wagenparkbeheerders in staat om direct actie te ondernemen, de route-efficiëntie te optimaliseren en de algehele betrouwbaarheid van de dienstverlening te verbeteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Ruteovervåking i sanntid",
+          "body": "Bruk sanntidsovervåkingssystemer for å spore bussenes plasseringer, overvåke ruter og identifisere eventuelle avvik eller forsinkelser. Dette gjør det mulig for flåteoperatører å iverksette umiddelbare tiltak, optimalisere ruteeffektiviteten og forbedre den generelle tjenestepåliteligheten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bruk sanntidsovervåkingssystemer for å spore bussenes plasseringer, overvåke ruter og identifisere eventuelle avvik eller forsinkelser. Dette gjør det mulig for flåteoperatører å iverksette umiddelbare tiltak, optimalisere ruteeffektiviteten og forbedre den generelle tjenestepåliteligheten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Ruttövervakning i realtid",
+          "body": "Använd övervakningssystem i realtid för att spåra bussplatser, övervaka rutter och identifiera eventuella avvikelser eller förseningar. Detta gör det möjligt för flottaoperatörer att vidta omedelbara åtgärder, optimera rutteffektiviteten och förbättra den övergripande servicetillförlitligheten",
+          "bodyHtml": "<p>Använd övervakningssystem i realtid för att spåra bussplatser, övervaka rutter och identifiera eventuella avvikelser eller förseningar. Detta gör det möjligt för flottaoperatörer att vidta omedelbara åtgärder, optimera rutteffektiviteten och förbättra den övergripande servicetillförlitligheten</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Gerçek zamanlı rota izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud Fleet Management VSS-løsning til offentlig bus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Fleet Management VSS solution for public bus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Flottenmanagement-VSS-Lösung für öffentliche Busse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Jaxicloud Fleet Management VSS solution for public bus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud Fleet Management VSS-oplossing voor openbare bussen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud Fleet Management VSS-løsning for offentlig buss",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud Fleet Management VSS-lösning för offentliga bussar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Halk otobüsü için Jaxicloud Filo Yönetimi VSS çözümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "image",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 687,
+          "height": 285
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Overvågning",
+          "body": "Mobile DVR leverer multi-kanal videoovervågning til busser.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Mobile DVR leverer multi-kanal videoovervågning til busser.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Supervision",
+          "body": "Mobile DVR provides multi-channel video surveillance for buses.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Mobile DVR provides multi-channel video surveillance for buses.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Aufsicht",
+          "body": "Mobile DVRs bieten Mehrkanal-Videoüberwachung für Busse.",
+          "bodyHtml": "<p>Mobile DVRs bieten Mehrkanal-Videoüberwachung für Busse.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance",
+          "body": "Le DVR mobile assure une vidéosurveillance multicanaux pour les bus.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le DVR mobile assure une vidéosurveillance multicanaux pour les bus.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Overzicht",
+          "body": "Mobiele DVR biedt multikanaals videobewaking voor bussen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mobiele DVR biedt multikanaals videobewaking voor bussen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tilsyn",
+          "body": "Mobil DVR tilbyr flerkanals videoovervåking for busser.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mobil DVR tilbyr flerkanals videoovervåking for busser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tillsyn",
+          "body": "Mobile DVR tillhandahåller flerkanals videoövervakning för bussar.",
+          "bodyHtml": "<p>Mobile DVR tillhandahåller flerkanals videoövervakning för bussar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Nezaret",
+          "body": "Mobil DVR, otobüsler için çok kanallı video gözetimi sağlar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mobil DVR, otobüsler için çok kanallı video gözetimi sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Udvidelser",
+          "body": "Annoncering, push to talk osv.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Annoncering, push to talk osv.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Extensions",
+          "body": "Advertising, push to talk etc.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Advertising, push to talk etc.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Erweiterungen",
+          "body": "Werbung, Push-to-Talk usw.",
+          "bodyHtml": "<p>Werbung, Push-to-Talk usw.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Rallonges",
+          "body": "Publicité, techniques de communication vocale, etc.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Publicité, techniques de communication vocale, etc.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Extensies",
+          "body": "Reclame, push-to-talk etc.",
+          "bodyHtml": "<p>Reclame, push-to-talk etc.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Utvidelser",
+          "body": "Reklame, push-to-talk osv.",
+          "bodyHtml": "<p>Reklame, push-to-talk osv.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tillägg",
+          "body": "Reklam, push to talk osv.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Reklam, push to talk osv.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Uzantılar",
+          "body": "Reklam, bas-konuş vb.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Reklam, bas-konuş vb.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fakturering",
+          "body": "MDT (mobil dataterminal) er en slags robust android industriel tablet i køretøjet. Busstyringsapp kan installeres, og brug RS232 til at integrere med RFID-validator for at realisere billetstyring;",
+          "bodyHtml": "<p>MDT (mobil dataterminal) er en slags robust android industriel tablet i køretøjet. Busstyringsapp kan installeres, og brug RS232 til at integrere med RFID-validator for at realisere billetstyring;</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Billing",
+          "body": "MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Abrechnung",
+          "body": "Das MDT (Mobile Data Terminal) ist eine Art robustes Android-Industrie-Tablet im Fahrzeug. Eine Busmanagement-App kann installiert werden und über RS232 mit einem RFID-Validator integriert werden, um die Ticketverwaltung zu realisieren;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Das MDT (Mobile Data Terminal) ist eine Art robustes Android-Industrie-Tablet im Fahrzeug. Eine Busmanagement-App kann installiert werden und über RS232 mit einem RFID-Validator integriert werden, um die Ticketverwaltung zu realisieren;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Facturation",
+          "body": "MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Facturering",
+          "body": "MDT (Mobile Data Terminal) is een robuuste industriële Android-tablet voor in de auto. Er kan een busbeheerapp worden geïnstalleerd die RS232 gebruikt om te integreren met een RFID-validator voor ticketbeheer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (Mobile Data Terminal) is een robuuste industriële Android-tablet voor in de auto. Er kan een busbeheerapp worden geïnstalleerd die RS232 gebruikt om te integreren met een RFID-validator voor ticketbeheer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fakturering",
+          "body": "MDT (mobil dataterminal) er et robust industrielt Android-nettbrett i kjøretøyet. Bussadministrasjonsappen kan installeres og bruke RS232 for å integrere med RFID-validator for å realisere billetthåndtering;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobil dataterminal) er et robust industrielt Android-nettbrett i kjøretøyet. Bussadministrasjonsappen kan installeres og bruke RS232 for å integrere med RFID-validator for å realisere billetthåndtering;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fakturering",
+          "body": "MDT (mobil dataterminal) är en slags robust android industriplatta i fordonet. Busshanteringsapp kan installeras och använda RS232 för att integrera med RFID-validator för att realisera biljetthantering;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobil dataterminal) är en slags robust android industriplatta i fordonet. Busshanteringsapp kan installeras och använda RS232 för att integrera med RFID-validator för att realisera biljetthantering;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Faturalandırma",
+          "body": "MDT (mobil veri terminali), araçtaki bir tür sağlam android endüstriyel tablettir. Otobüs yönetimi uygulaması kurulabilir ve bilet yönetimini gerçekleştirmek için RFID doğrulayıcıyla entegre olmak üzere RS232 kullanılabilir;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobil veri terminali), araçtaki bir tür sağlam android endüstriyel tablettir. Otobüs yönetimi uygulaması kurulabilir ve bilet yönetimini gerçekleştirmek için RFID doğrulayıcıyla entegre olmak üzere RS232 kullanılabilir;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "featureCard",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Folk tæller",
+          "body": "Registreringerne af de optællende personer kan overføres i realtid via RS232 til MDVR eller bruge 3G/4G til CMS direkte. Hvis der er MDVR, kan du tagge videoen, når nogen passerer til senere afspilningshentning og manuelle kontroller.",
+          "bodyHtml": "<p>Registreringerne af de optællende personer kan overføres i realtid via RS232 til MDVR eller bruge 3G/4G til CMS direkte. Hvis der er MDVR, kan du tagge videoen, når nogen passerer til senere afspilningshentning og manuelle kontroller.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "People count",
+          "body": "The records of the enumerators can be transferred in real time via RS232 to MDVR or use 3G/4G to CMS directly. If there is MDVR, you can tag the video when someone passes by for later playback retrieval and manual checks.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The records of the enumerators can be transferred in real time via RS232 to MDVR or use 3G/4G to CMS directly. If there is MDVR, you can tag the video when someone passes by for later playback retrieval and manual checks.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Menschen zählen",
+          "body": "Die Aufzeichnungen der Zähler können in Echtzeit per RS232 an MDVR oder direkt per 3G/4G an CMS übertragen werden. Bei Vorhandensein von MDVR können Videos mit Tags versehen werden, sobald eine Person vorbeigeht, um sie später abzuspielen und manuell zu überprüfen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die Aufzeichnungen der Zähler können in Echtzeit per RS232 an MDVR oder direkt per 3G/4G an CMS übertragen werden. Bei Vorhandensein von MDVR können Videos mit Tags versehen werden, sobald eine Person vorbeigeht, um sie später abzuspielen und manuell zu überprüfen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Les gens comptent",
+          "body": "Les enregistrements des recenseurs peuvent être transférés en temps réel via RS232 vers un enregistreur vidéo numérique (MDVR) ou directement vers un système de gestion de contenu (CMS) via 3G/4G. En présence d’un MDVR, il est possible d’étiqueter la vidéo lors du passage d’une personne afin de la consulter ultérieurement et d’effectuer des vérifications manuelles.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les enregistrements des recenseurs peuvent être transférés en temps réel via RS232 vers un enregistreur vidéo numérique (MDVR) ou directement vers un système de gestion de contenu (CMS) via 3G/4G. En présence d’un MDVR, il est possible d’étiqueter la vidéo lors du passage d’une personne afin de la consulter ultérieurement et d’effectuer des vérifications manuelles.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Mensen tellen",
+          "body": "De gegevens van de tellers kunnen realtime via RS232 naar een MDVR worden verzonden of rechtstreeks via 3G/4G naar een CMS. Als er een MDVR beschikbaar is, kunt u de video taggen wanneer iemand langskomt, zodat u deze later kunt afspelen en handmatig kunt controleren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De gegevens van de tellers kunnen realtime via RS232 naar een MDVR worden verzonden of rechtstreeks via 3G/4G naar een CMS. Als er een MDVR beschikbaar is, kunt u de video taggen wanneer iemand langskomt, zodat u deze later kunt afspelen en handmatig kunt controleren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Folk teller",
+          "body": "Opptegnelsene til tellerne kan overføres i sanntid via RS232 til MDVR eller bruke 3G/4G direkte til CMS. Hvis det finnes MDVR, kan du merke videoen når noen går forbi for senere avspilling, henting og manuelle kontroller.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Opptegnelsene til tellerne kan overføres i sanntid via RS232 til MDVR eller bruke 3G/4G direkte til CMS. Hvis det finnes MDVR, kan du merke videoen når noen går forbi for senere avspilling, henting og manuelle kontroller.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Människor räknas",
+          "body": "Uppräkningarnas poster kan överföras i realtid via RS232 till MDVR eller använda 3G/4G till CMS direkt. Om det finns MDVR kan du tagga videon när någon går förbi för senare uppspelning och manuell kontroll.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Uppräkningarnas poster kan överföras i realtid via RS232 till MDVR eller använda 3G/4G till CMS direkt. Om det finns MDVR kan du tagga videon när någon går förbi för senare uppspelning och manuell kontroll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kişi sayısı",
+          "body": "Numaralandırıcıların kayıtları gerçek zamanlı olarak RS232 aracılığıyla MDVR’ye aktarılabilir veya 3G/4G kullanılarak doğrudan CMS’ye aktarılabilir. MDVR varsa, daha sonra oynatma erişimi ve manuel kontroller için birisi geçtiğinde videoyu etiketleyebilirsiniz.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Numaralandırıcıların kayıtları gerçek zamanlı olarak RS232 aracılığıyla MDVR’ye aktarılabilir veya 3G/4G kullanılarak doğrudan CMS’ye aktarılabilir. MDVR varsa, daha sonra oynatma erişimi ve manuel kontroller için birisi geçtiğinde videoyu etiketleyebilirsiniz.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "ADAS/DMS",
+          "body": "Den kan registrere træthedskørsel, usikker kørselsadfærd, ADAS-overvågning. Det vil sende stemmealarmer og rapportere til ledelsesplatformen på samme tid. På denne måde kan det give førerbeskyttelse, så antallet af ulykker sænkes.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Den kan registrere træthedskørsel, usikker kørselsadfærd, ADAS-overvågning. Det vil sende stemmealarmer og rapportere til ledelsesplatformen på samme tid. På denne måde kan det give førerbeskyttelse, så antallet af ulykker sænkes.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "ADAS/DMS",
+          "body": "It can detect fatigue driving, unsafe driving behavior, ADAS monitoring. It will send voice alerts and report to the management platform at the same time. In this way, it can provide driver protection so that the number of accidents is lowered.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">It can detect fatigue driving, unsafe driving behavior, ADAS monitoring. It will send voice alerts and report to the management platform at the same time. In this way, it can provide driver protection so that the number of accidents is lowered.</span></p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "ADAS/DMS",
+          "body": "Es erkennt Müdigkeit am Steuer, unsicheres Fahrverhalten und überwacht Fahrerassistenzsysteme. Gleichzeitig sendet es Sprachwarnungen und Berichte an die Managementplattform. So trägt es zum Schutz des Fahrers bei und senkt die Unfallzahl.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Es erkennt Müdigkeit am Steuer, unsicheres Fahrverhalten und überwacht Fahrerassistenzsysteme. Gleichzeitig sendet es Sprachwarnungen und Berichte an die Managementplattform. So trägt es zum Schutz des Fahrers bei und senkt die Unfallzahl.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "ADAS/DMS",
+          "body": "Ce système détecte la fatigue au volant, les comportements de conduite dangereux et assure la surveillance des systèmes avancés d’aide à la conduite (ADAS). Il envoie simultanément des alertes vocales et un rapport à la plateforme de gestion. Ainsi, il contribue à la protection du conducteur et à la réduction du nombre d’accidents.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ce système détecte la fatigue au volant, les comportements de conduite dangereux et assure la surveillance des systèmes avancés d’aide à la conduite (ADAS). Il envoie simultanément des alertes vocales et un rapport à la plateforme de gestion. Ainsi, il contribue à la protection du conducteur et à la réduction du nombre d’accidents.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "ADAS/DMS",
+          "body": "Het kan vermoeidheid bij het rijden en onveilig rijgedrag detecteren en ADAS-monitoring uitvoeren. Het stuurt gesproken meldingen en rapporteert deze tegelijkertijd aan het beheerplatform. Op deze manier kan het de bestuurder beschermen en het aantal ongevallen verminderen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Het kan vermoeidheid bij het rijden en onveilig rijgedrag detecteren en ADAS-monitoring uitvoeren. Het stuurt gesproken meldingen en rapporteert deze tegelijkertijd aan het beheerplatform. Op deze manier kan het de bestuurder beschermen en het aantal ongevallen verminderen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "ADAS/DMS",
+          "body": "Den kan oppdage tretthet ved kjøring, usikker kjøreatferd og ADAS-overvåking. Den sender talevarsler og rapporterer til administrasjonsplattformen samtidig. På denne måten kan den gi sjåførbeskyttelse slik at antallet ulykker reduseres.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Den kan oppdage tretthet ved kjøring, usikker kjøreatferd og ADAS-overvåking. Den sender talevarsler og rapporterer til administrasjonsplattformen samtidig. På denne måten kan den gi sjåførbeskyttelse slik at antallet ulykker reduseres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "ADAS/DMS",
+          "body": "Den kan upptäcka trötthetskörning, osäkert körbeteende, ADAS-övervakning. Det kommer att skicka röstvarningar och rapportera till förvaltningsplattformen samtidigt. På så sätt kan det ge förarskydd så att antalet olyckor sänks.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Den kan upptäcka trötthetskörning, osäkert körbeteende, ADAS-övervakning. Det kommer att skicka röstvarningar och rapportera till förvaltningsplattformen samtidigt. På så sätt kan det ge förarskydd så att antalet olyckor sänks.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "ADAS/DMS",
+          "body": "Yorgun sürüşü, güvensiz sürüş davranışını ve ADAS izlemeyi tespit edebilir. Aynı anda sesli uyarılar gönderecek ve yönetim platformuna rapor verecektir. Bu sayede sürücü koruması sağlanarak kaza sayısı azaltılabilir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Yorgun sürüşü, güvensiz sürüş davranışını ve ADAS izlemeyi tespit edebilir. Aynı anda sesli uyarılar gönderecek ve yönetim platformuna rapor verecektir. Bu sayede sürücü koruması sağlanarak kaza sayısı azaltılabilir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad vi gør for din virksomhed",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Fleet Management VSS solution for public bus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Was wir für Ihr Unternehmen tun",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ce que nous faisons pour votre entreprise",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Wat wij voor uw bedrijf doen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva vi gjør for din bedrift",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad vi gör för ditt företag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İşletmeniz için neler yapıyoruz",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "image",
+      "order": 17,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 687,
+          "height": 285
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Forbedret sikkerhed og sikkerhed ​",
+          "body": "Jaxicloud Fleet Management busløsninger omfatter avancerede overvågningssystemer, herunder high-definition kameraer, GPS-sporing og realtidsovervågning. Dette sikrer passagerernes sikkerhed, afskrækker kriminelle aktiviteter og giver værdifulde beviser i tilfælde af hændelser.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management&nbsp; busløsninger omfatter avancerede overvågningssystemer, herunder high-definition kameraer, GPS-sporing og realtidsovervågning. Dette sikrer passagerernes sikkerhed, afskrækker kriminelle aktiviteter og giver værdifulde beviser i tilfælde af hændelser.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Supervision",
+          "body": "Mobile DVR provides multi-channel video surveillance for buses.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Mobile DVR provides multi-channel video surveillance for buses.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Verbesserte Sicherheit",
+          "body": "Die Bus-Flottenmanagementlösungen von Jaxicloud umfassen fortschrittliche Überwachungssysteme mit hochauflösenden Kameras, GPS-Ortung und Echtzeitüberwachung. Dies gewährleistet die Sicherheit der Fahrgäste, schreckt kriminelle Aktivitäten ab und liefert im Falle von Zwischenfällen wertvolle Beweise.",
+          "bodyHtml": "<p>Die Bus-Flottenmanagementlösungen von Jaxicloud umfassen fortschrittliche Überwachungssysteme mit hochauflösenden Kameras, GPS-Ortung und Echtzeitüberwachung. Dies gewährleistet die Sicherheit der Fahrgäste, schreckt kriminelle Aktivitäten ab und liefert im Falle von Zwischenfällen wertvolle Beweise.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Amélioration de la sécurité",
+          "body": "Les solutions de gestion de flottes de bus de Jaxicloud intègrent des systèmes de surveillance avancés comprenant des caméras haute définition, le suivi GPS et la surveillance en temps réel. Ceci garantit la sécurité des passagers, dissuade les actes criminels et fournit des preuves précieuses en cas d’incident.",
+          "bodyHtml": "<p>Les solutions de gestion de flottes de bus de Jaxicloud intègrent des systèmes de surveillance avancés comprenant des caméras haute définition, le suivi GPS et la surveillance en temps réel. Ceci garantit la sécurité des passagers, dissuade les actes criminels et fournit des preuves précieuses en cas d’incident.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Verbeterde veiligheid en beveiliging",
+          "body": "Jaxicloud Fleet Management-busoplossingen omvatten geavanceerde bewakingssystemen, waaronder high-definition camera’s, gps-tracking en realtime monitoring. Dit waarborgt de veiligheid van passagiers, ontmoedigt criminele activiteiten en levert waardevol bewijsmateriaal op bij incidenten.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management-busoplossingen omvatten geavanceerde bewakingssystemen, waaronder high-definition camera’s, gps-tracking en realtime monitoring. Dit waarborgt de veiligheid van passagiers, ontmoedigt criminele activiteiten en levert waardevol bewijsmateriaal op bij incidenten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Forbedret sikkerhet og sikkerhet",
+          "body": "Jaxicloud Fleet Managements bussløsninger inkluderer avanserte overvåkingssystemer, inkludert HD-kameraer, GPS-sporing og sanntidsovervåking. Dette sikrer passasjerenes sikkerhet, avskrekker kriminell aktivitet og gir verdifull bevis i tilfelle hendelser.",
+          "bodyHtml": "<p>Jaxicloud Fleet Managements bussløsninger inkluderer avanserte overvåkingssystemer, inkludert HD-kameraer, GPS-sporing og sanntidsovervåking. Dette sikrer passasjerenes sikkerhet, avskrekker kriminell aktivitet og gir verdifull bevis i tilfelle hendelser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Förbättrad säkerhet och säkerhet",
+          "body": "Jaxicloud Fleet Management-busslösningar inkluderar avancerade övervakningssystem inklusive högupplösta kameror, GPS-spårning och realtidsövervakning. Detta säkerställer passagerarnas säkerhet, avskräcker brottslig verksamhet och ger värdefulla bevis i händelse av incidenter.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management-busslösningar inkluderar avancerade övervakningssystem inklusive högupplösta kameror, GPS-spårning och realtidsövervakning. Detta säkerställer passagerarnas säkerhet, avskräcker brottslig verksamhet och ger värdefulla bevis i händelse av incidenter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Geliştirilmiş emniyet ve güvenlik",
+          "body": "Jaxicloud Filo Yönetimi veri yolu çözümleri, yüksek çözünürlüklü kameralar, GPS takibi ve gerçek zamanlı izleme dahil olmak üzere gelişmiş gözetim sistemlerini içerir. Bu, yolcu güvenliğini sağlar, suç faaliyetlerini caydırır ve olay durumunda değerli kanıtlar sağlar.",
+          "bodyHtml": "<p>Jaxicloud Filo Yönetimi veri yolu çözümleri, yüksek çözünürlüklü kameralar, GPS takibi ve gerçek zamanlı izleme dahil olmak üzere gelişmiş gözetim sistemlerini içerir. Bu, yolcu güvenliğini sağlar, suç faaliyetlerini caydırır ve olay durumunda değerli kanıtlar sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "featureCard",
+      "order": 19,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Forbedre driver KPI-styring",
+          "body": "Jaxicloud Fleet Management busløsninger muliggør realtidsovervågning af busplaceringer, ruteafvigelser og passagertal. Dette hjælper flådeoperatører med at optimere ruter, allokere ressourcer effektivt og forbedre den samlede operationelle effektivitet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management&nbsp; busløsninger muliggør realtidsovervågning af busplaceringer, ruteafvigelser og passagertal. Dette hjælper flådeoperatører med at optimere ruter, allokere ressourcer effektivt og forbedre den samlede operationelle effektivitet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Extensions",
+          "body": "Advertising, push to talk etc.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Advertising, push to talk etc.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Verbesserung des Fahrer-KPI-Managements",
+          "body": "Die Busmanagement-Lösungen von Jaxicloud ermöglichen die Echtzeitüberwachung von Busstandorten, Routenabweichungen und Fahrgastzahlen. Dies unterstützt Flottenbetreiber bei der Optimierung von Routen, der effizienten Ressourcenzuweisung und der Verbesserung der gesamten betrieblichen Effizienz.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Die Busmanagement-Lösungen von Jaxicloud ermöglichen die Echtzeitüberwachung von Busstandorten, Routenabweichungen und Fahrgastzahlen. Dies unterstützt Flottenbetreiber bei der Optimierung von Routen, der effizienten Ressourcenzuweisung und der Verbesserung der gesamten betrieblichen Effizienz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Améliorer la gestion des indicateurs clés de performance des conducteurs",
+          "body": "Les solutions de gestion de flottes de bus de Jaxicloud permettent un suivi en temps réel de la localisation des bus, des écarts d’itinéraire et du nombre de passagers. Elles aident ainsi les exploitants de flottes à optimiser les itinéraires, à allouer efficacement les ressources et à améliorer l’efficacité opérationnelle globale.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Les solutions de gestion de flottes de bus de Jaxicloud permettent un suivi en temps réel de la localisation des bus, des écarts d’itinéraire et du nombre de passagers. Elles aident ainsi les exploitants de flottes à optimiser les itinéraires, à allouer efficacement les ressources et à améliorer l’efficacité opérationnelle globale.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Verbeter het KPI-beheer van chauffeurs",
+          "body": "Jaxicloud Fleet Management-busoplossingen maken realtime monitoring van buslocaties, routeafwijkingen en passagiersaantallen mogelijk. Dit helpt wagenparkbeheerders routes te optimaliseren, middelen efficiënt toe te wijzen en de algehele operationele efficiëntie te verbeteren.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management-busoplossingen maken realtime monitoring van buslocaties, routeafwijkingen en passagiersaantallen mogelijk. Dit helpt wagenparkbeheerders routes te optimaliseren, middelen efficiënt toe te wijzen en de algehele operationele efficiëntie te verbeteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Forbedre styringen av sjåførens KPI-er",
+          "body": "Jaxicloud Fleet Management-bussløsninger muliggjør sanntidsovervåking av bussplasseringer, ruteavvik og passasjertall. Dette hjelper flåteoperatører med å optimalisere ruter, fordele ressurser effektivt og forbedre den generelle driftseffektiviteten.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management-bussløsninger muliggjør sanntidsovervåking av bussplasseringer, ruteavvik og passasjertall. Dette hjelper flåteoperatører med å optimalisere ruter, fordele ressurser effektivt og forbedre den generelle driftseffektiviteten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kostnadsminskning",
+          "body": "Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, bränsleförbrukningsövervakning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.",
+          "bodyHtml": "<p>Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, bränsleförbrukningsövervakning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sürücü KPI yönetimini iyileştirin",
+          "body": "Jaxicloud Filo Yönetimi otobüs çözümleri, otobüs konumlarının, rota sapmalarının ve yolcu sayılarının gerçek zamanlı izlenmesini sağlar. Bu, filo operatörlerinin rotaları optimize etmesine, kaynakları verimli bir şekilde tahsis etmesine ve genel operasyonel verimliliği artırmasına yardımcı olur.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Filo Yönetimi otobüs çözümleri, otobüs konumlarının, rota sapmalarının ve yolcu sayılarının gerçek zamanlı izlenmesini sağlar. Bu, filo operatörlerinin rotaları optimize etmesine, kaynakları verimli bir şekilde tahsis etmesine ve genel operasyonel verimliliği artırmasına yardımcı olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "featureCard",
+      "order": 20,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Omkostningsreduktion",
+          "body": "Ved at udnytte Jaxicloud Fleet Management-busløsninger kan operatører reducere driftsomkostningerne gennem optimeret ruteplanlægning, brændstofforbrugsovervågning og forebyggende vedligeholdelsesplaner. Dette fører til forbedret omkostningsstyring og øget rentabilitet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Ved at udnytte Jaxicloud Fleet Management-busløsninger kan operatører reducere driftsomkostningerne gennem optimeret ruteplanlægning, brændstofforbrugsovervågning og forebyggende vedligeholdelsesplaner. Dette fører til forbedret omkostningsstyring og øget rentabilitet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Billing",
+          "body": "MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kostenreduzierung",
+          "body": "Durch den Einsatz der Busflottenmanagementlösungen von Jaxicloud können Betreiber ihre Betriebskosten durch optimierte Routenplanung, Überwachung des Kraftstoffverbrauchs und vorbeugende Wartungspläne senken. Dies führt zu einem verbesserten Kostenmanagement und einer höheren Rentabilität.",
+          "bodyHtml": "<p>Durch den Einsatz der Busflottenmanagementlösungen von Jaxicloud können Betreiber ihre Betriebskosten durch optimierte Routenplanung, Überwachung des Kraftstoffverbrauchs und vorbeugende Wartungspläne senken. Dies führt zu einem verbesserten Kostenmanagement und einer höheren Rentabilität.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Réduction des coûts",
+          "body": "En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.",
+          "bodyHtml": "<p>En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Kostenreductie",
+          "body": "Door gebruik te maken van Jaxicloud Fleet Management-busoplossingen kunnen exploitanten hun bedrijfskosten verlagen door middel van geoptimaliseerde routeplanning, brandstofverbruiksmonitoring en preventieve onderhoudsschema’s. Dit leidt tot beter kostenbeheer en een hogere winstgevendheid.",
+          "bodyHtml": "<p>Door gebruik te maken van Jaxicloud Fleet Management-busoplossingen kunnen exploitanten hun bedrijfskosten verlagen door middel van geoptimaliseerde routeplanning, brandstofverbruiksmonitoring en preventieve onderhoudsschema’s. Dit leidt tot beter kostenbeheer en een hogere winstgevendheid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kostnadsreduksjon",
+          "body": "Ved å utnytte Jaxicloud Fleet Management-bussløsninger kan operatører redusere driftskostnadene gjennom optimalisert ruteplanlegging, overvåking av drivstofforbruk og forebyggende vedlikeholdsplaner. Dette fører til forbedret kostnadsstyring og økt lønnsomhet.",
+          "bodyHtml": "<p>Ved å utnytte Jaxicloud Fleet Management-bussløsninger kan operatører redusere driftskostnadene gjennom optimalisert ruteplanlegging, overvåking av drivstofforbruk og forebyggende vedlikeholdsplaner. Dette fører til forbedret kostnadsstyring og økt lønnsomhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rättsskydd",
+          "body": "Närvaron av ett tillförlitligt övervakningssystem från Jaxicloud Fleet Management hjälper till att skydda bussflottans operatörer från falska påståenden och oseriösa stämningar. Den rättsklara bevisningen som samlas in av systemet kan användas för att försvara sig mot skadeståndsanspråk, vilket sparar rättegångskostnader.",
+          "bodyHtml": "<p>Närvaron av ett tillförlitligt övervakningssystem från Jaxicloud Fleet Management hjälper till att skydda bussflottans operatörer från falska påståenden och oseriösa stämningar. Den rättsklara bevisningen som samlas in av systemet kan användas för att försvara sig mot skadeståndsanspråk, vilket sparar rättegångskostnader.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Maliyet azaltma",
+          "body": "Operatörler, Jaxicloud Filo Yönetimi veri yolu çözümlerinden yararlanarak optimize edilmiş rota planlaması, yakıt tüketimi izleme ve önleyici bakım programları aracılığıyla işletme maliyetlerini azaltabilir. Bu, maliyet yönetiminin iyileştirilmesine ve kârlılığın artmasına yol açar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Operatörler, Jaxicloud Filo Yönetimi veri yolu çözümlerinden yararlanarak optimize edilmiş rota planlaması, yakıt tüketimi izleme ve önleyici bakım programları aracılığıyla işletme maliyetlerini azaltabilir. Bu, maliyet yönetiminin iyileştirilmesine ve kârlılığın artmasına yol açar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "featureCard",
+      "order": 21,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Retsbeskyttelse",
+          "body": "Tilstedeværelsen af ​​et pålideligt overvågningssystem leveret af Jaxicloud Fleet Management hjælper med at beskytte busflådeoperatører mod falske påstande og useriøse retssager. De retsklare beviser, der er opsamlet af systemet, kan bruges til at forsvare sig mod erstatningskrav, hvilket sparer sagsomkostninger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Tilstedeværelsen af ​​et pålideligt overvågningssystem leveret af Jaxicloud Fleet Management &nbsp;hjælper med at beskytte busflådeoperatører mod falske påstande og useriøse retssager. De retsklare beviser, der er opsamlet af systemet, kan bruges til at forsvare sig mod erstatningskrav, hvilket sparer sagsomkostninger.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "People count",
+          "body": "The records of the enumerators can be transferred in real time via RS232 to MDVR or use 3G/4G to CMS directly. If there is MDVR, you can tag the video when someone passes by for later playback retrieval and manual checks.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The records of the enumerators can be transferred in real time via RS232 to MDVR or use 3G/4G to CMS directly. If there is MDVR, you can tag the video when someone passes by for later playback retrieval and manual checks.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Rechtsschutz",
+          "body": "Das zuverlässige Überwachungssystem von Jaxicloud Fleet Management schützt Busflottenbetreiber vor unberechtigten Ansprüchen und unbegründeten Klagen. Die vom System erfassten, gerichtsverwertbaren Beweise können zur Abwehr von Schadensersatzforderungen genutzt werden und sparen so Anwaltskosten.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Das zuverlässige Überwachungssystem von Jaxicloud Fleet Management schützt Busflottenbetreiber vor unberechtigten Ansprüchen und unbegründeten Klagen. Die vom System erfassten, gerichtsverwertbaren Beweise können zur Abwehr von Schadensersatzforderungen genutzt werden und sparen so Anwaltskosten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Protection juridique",
+          "body": "La présence d’un système de surveillance fiable, tel que celui proposé par Jaxicloud Fleet Management, contribue à protéger les exploitants de flottes d’autobus contre les fausses déclarations et les poursuites abusives. Les preuves recevables recueillies par le système peuvent servir à se défendre contre les demandes d’indemnisation, permettant ainsi de réduire les frais juridiques.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">La présence d’un système de surveillance fiable, tel que celui proposé par Jaxicloud Fleet Management, contribue à protéger les exploitants de flottes d’autobus contre les fausses déclarations et les poursuites abusives. Les preuves recevables recueillies par le système peuvent servir à se défendre contre les demandes d’indemnisation, permettant ainsi de réduire les frais juridiques.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Juridische bescherming",
+          "body": "De aanwezigheid van een betrouwbaar monitoringsysteem, Jaxicloud Fleet Management, beschermt busvlootbeheerders tegen valse claims en lichtzinnige rechtszaken. Het door het systeem verzamelde, direct voor de rechtbank beschikbare bewijsmateriaal kan worden gebruikt ter verdediging tegen schadevergoedingen, wat juridische kosten bespaart.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">De aanwezigheid van een betrouwbaar monitoringsysteem, Jaxicloud Fleet Management, beschermt busvlootbeheerders tegen valse claims en lichtzinnige rechtszaken. Het door het systeem verzamelde, direct voor de rechtbank beschikbare bewijsmateriaal kan worden gebruikt ter verdediging tegen schadevergoedingen, wat juridische kosten bespaart.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rettsvern",
+          "body": "Jaxicloud Fleet Management tilbyr et pålitelig overvåkingssystem som bidrar til å beskytte bussflåteoperatører mot falske påstander og useriøse søksmål. De rettsklare bevisene som systemet samler inn, kan brukes til å forsvare seg mot erstatningskrav, noe som sparer saksomkostninger.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management tilbyr et pålitelig overvåkingssystem som bidrar til å beskytte bussflåteoperatører mot falske påstander og useriøse søksmål. De rettsklare bevisene som systemet samler inn, kan brukes til å forsvare seg mot erstatningskrav, noe som sparer saksomkostninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Dataanalys och insikt",
+          "body": "Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.",
+          "bodyHtml": "<p>Genom att utnyttja Jaxicloud Fleet Management-busslösningar kan operatörer minska driftskostnaderna genom optimerad ruttplanering, övervakning av bränsleförbrukning och förebyggande underhållsscheman. Detta leder till förbättrad kostnadshantering och ökad lönsamhet.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yasal koruma",
+          "body": "Jaxicloud Filo Yönetimi tarafından sağlanan güvenilir bir izleme sisteminin varlığı, otobüs filosu operatörlerinin asılsız iddialardan ve anlamsız davalardan korunmasına yardımcı olur. Sistem tarafından toplanan mahkemeye hazır deliller, tazminat taleplerine karşı savunma yapmak için kullanılabilir ve böylece yasal masraflardan tasarruf sağlanır.",
+          "bodyHtml": "<p>Jaxicloud Filo Yönetimi tarafından sağlanan güvenilir bir izleme sisteminin varlığı, otobüs filosu operatörlerinin asılsız iddialardan ve anlamsız davalardan korunmasına yardımcı olur. Sistem tarafından toplanan mahkemeye hazır deliller, tazminat taleplerine karşı savunma yapmak için kullanılabilir ve böylece yasal masraflardan tasarruf sağlanır.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "featureCard",
+      "order": 22,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Dataanalyse og indsigt",
+          "body": "Ved at udnytte Jaxicloud Fleet Management -busløsninger kan operatører reducere driftsomkostningerne gennem optimeret ruteplanlægning, brændstofforbrugsovervågning og forebyggende vedligeholdelsesplaner. Dette fører til forbedret omkostningsstyring og øget rentabilitet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Ved at udnytte Jaxicloud Fleet Management -busløsninger kan operatører reducere driftsomkostningerne gennem optimeret ruteplanlægning, brændstofforbrugsovervågning og forebyggende vedligeholdelsesplaner. Dette fører til forbedret omkostningsstyring og øget rentabilitet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "ADAS/DMS",
+          "body": "It can detect fatigue driving, unsafe driving behavior, ADAS monitoring. It will send voice alerts and report to the management platform at the same time. In this way, it can provide driver protection so that the number of accidents is lowered.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">It can detect fatigue driving, unsafe driving behavior, ADAS monitoring. It will send voice alerts and report to the management platform at the same time. In this way, it can provide driver protection so that the number of accidents is lowered.</span></p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Datenanalyse und Einblicke",
+          "body": "Durch den Einsatz der Busflottenmanagementlösungen von Jaxicloud können Betreiber ihre Betriebskosten durch optimierte Routenplanung, Überwachung des Kraftstoffverbrauchs und vorbeugende Wartungspläne senken. Dies führt zu einem verbesserten Kostenmanagement und einer höheren Rentabilität.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Durch den Einsatz der Busflottenmanagementlösungen von Jaxicloud können Betreiber ihre Betriebskosten durch optimierte Routenplanung, Überwachung des Kraftstoffverbrauchs und vorbeugende Wartungspläne senken. Dies führt zu einem verbesserten Kostenmanagement und einer höheren Rentabilität.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Analyse et aperçu des données",
+          "body": "En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Data-analyse en inzicht",
+          "body": "Door gebruik te maken van Jaxicloud Fleet Management-busoplossingen kunnen exploitanten hun bedrijfskosten verlagen door middel van geoptimaliseerde routeplanning, brandstofverbruiksmonitoring en preventieve onderhoudsschema’s. Dit leidt tot beter kostenbeheer en een hogere winstgevendheid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Door gebruik te maken van Jaxicloud Fleet Management-busoplossingen kunnen exploitanten hun bedrijfskosten verlagen door middel van geoptimaliseerde routeplanning, brandstofverbruiksmonitoring en preventieve onderhoudsschema’s. Dit leidt tot beter kostenbeheer en een hogere winstgevendheid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Dataanalyse og innsikt",
+          "body": "Ved å utnytte Jaxicloud Fleet Management-bussløsninger kan operatører redusere driftskostnadene gjennom optimalisert ruteplanlegging, overvåking av drivstofforbruk og forebyggende vedlikeholdsplaner. Dette fører til forbedret kostnadsstyring og økt lønnsomhet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ved å utnytte Jaxicloud Fleet Management-bussløsninger kan operatører redusere driftskostnadene gjennom optimalisert ruteplanlegging, overvåking av drivstofforbruk og forebyggende vedlikeholdsplaner. Dette fører til forbedret kostnadsstyring og økt lønnsomhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Förbättrad passagerarupplevelse",
+          "body": "Med realtidsövervakning, exakta tidtabeller och förbättrade säkerhetsåtgärder bidrar Howens busslösningar till en bättre passagerarupplevelse. Passagerare kan känna sig trygga, njuta av pålitlig service och dra nytta av optimerade rutter och ankomster i tid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med realtidsövervakning, exakta tidtabeller och förbättrade säkerhetsåtgärder bidrar Howens busslösningar till en bättre passagerarupplevelse. Passagerare kan känna sig trygga, njuta av pålitlig service och dra nytta av optimerade rutter och ankomster i tid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Veri analizi ve içgörü",
+          "body": "Operatörler, Jaxicloud Filo Yönetimi veri yolu çözümlerinden yararlanarak optimize edilmiş rota planlaması, yakıt tüketimi izleme ve önleyici bakım programları aracılığıyla işletme maliyetlerini azaltabilir. Bu, maliyet yönetiminin iyileştirilmesine ve kârlılığın artmasına yol açar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Operatörler, Jaxicloud Filo Yönetimi veri yolu çözümlerinden yararlanarak optimize edilmiş rota planlaması, yakıt tüketimi izleme ve önleyici bakım programları aracılığıyla işletme maliyetlerini azaltabilir. Bu, maliyet yönetiminin iyileştirilmesine ve kârlılığın artmasına yol açar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "heading",
+      "order": 23,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "What we do for your business",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "richText",
+      "order": 24,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "featureCard",
+      "order": 25,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Improved safety and security",
+          "body": "Jaxicloud Fleet Management bus solutions include advanced surveillance systems including high-definition cameras, GPS tracking and real-time monitoring. This ensures passenger safety, deters criminal activity and provides valuable evidence in the event of incidents.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management bus solutions include advanced surveillance systems including high-definition cameras, GPS tracking and real-time monitoring. This ensures passenger safety, deters criminal activity and provides valuable evidence in the event of incidents.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "featureCard",
+      "order": 26,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Improve driver KPI management",
+          "body": "Jaxicloud Fleet Management bus solutions enable real-time monitoring of bus locations, route deviations and passenger numbers. This helps fleet operators optimize routes, allocate resources efficiently and improve overall operational efficiency",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management bus solutions enable real-time monitoring of bus locations, route deviations and passenger numbers. This helps fleet operators optimize routes, allocate resources efficiently and improve overall operational efficiency</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "featureCard",
+      "order": 27,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Cost reduction",
+          "body": "By leveraging Jaxicloud Fleet Management bus solutions, operators can reduce operating costs through optimized route planning, fuel consumption monitoring and preventive maintenance schedules. This leads to improved cost management and increased profitability.",
+          "bodyHtml": "<p>By leveraging Jaxicloud Fleet Management bus solutions, operators can reduce operating costs through optimized route planning, fuel consumption monitoring and preventive maintenance schedules. This leads to improved cost management and increased profitability.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "featureCard",
+      "order": 28,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Legal protection",
+          "body": "The presence of a reliable monitoring system provided by Jaxicloud Fleet Management helps protect bus fleet operators from false claims and frivolous lawsuits. The court-ready evidence collected by the system can be used to defend against compensation claims, saving legal costs.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">The presence of a reliable monitoring system provided by Jaxicloud Fleet Management helps protect bus fleet operators from false claims and frivolous lawsuits. The court-ready evidence collected by the system can be used to defend against compensation claims, saving legal costs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-30",
+      "type": "featureCard",
+      "order": 29,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Data analysis and insight",
+          "body": "By leveraging Jaxicloud Fleet Management bus solutions, operators can reduce operating costs through optimized route planning, fuel consumption monitoring and preventive maintenance schedules. This leads to improved cost management and increased profitability.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">By leveraging Jaxicloud Fleet Management bus solutions, operators can reduce operating costs through optimized route planning, fuel consumption monitoring and preventive maintenance schedules. This leads to improved cost management and increased profitability.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-31",
+      "type": "featureCard",
+      "order": 30,
+      "sectionIndex": 6,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Improved passenger experience",
+          "body": "With real-time monitoring, precise timetables and improved security measures, Howen bus solutions contribute to a better passenger experience. Passengers can feel safe, enjoy reliable service and benefit from optimized routes and on-time arrivals.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">With real-time monitoring, precise timetables and improved security measures, Howen bus solutions contribute to a better passenger experience. Passengers can feel safe, enjoy reliable service and benefit from optimized routes and on-time arrivals.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-32",
+      "type": "heading",
+      "order": 31,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Key customers",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-33",
+      "type": "richText",
+      "order": 32,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management bus solution has gained the trust of a wide range of key customers in the transport industry. Our advanced surveillance systems and innovative technologies have helped improve safety, optimize operations and enhance the overall passenger experience. We are proud to partner with leading bus operators, public transport agencies and fleet management companies who rely on our solutions to achieve their goals of efficiency, reliability and customer satisfaction",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Fleet Management bus solution has gained the trust of a wide range of key customers in the transport industry. Our advanced surveillance systems and innovative technologies have helped improve safety, optimize operations and enhance the overall passenger experience. We are proud to partner with leading bus operators, public transport agencies and fleet management companies who rely on our solutions to achieve their goals of efficiency, reliability and customer satisfaction</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-34",
+      "type": "ctaButton",
+      "order": 33,
+      "sectionIndex": 7,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More about solution",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "See More about solution",
+          "ctaUrl": "https://www.jaxicloud.com/en/nimbus/",
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

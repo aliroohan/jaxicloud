@@ -1,0 +1,13 @@
+/* archetype: miniBleed */
+.page{background:#fff;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0f766e}
+
+.hero{position:relative;min-height:52dvh;display:grid;align-items:end;color:#fff;overflow:hidden;background:#0f172a}
+.heroInner{position:relative;z-index:1;padding:clamp(3rem,8vw,5rem) 0}
+.title{font-size:clamp(2.4rem,5.5vw,3.8rem);max-width:14ch;color:#fff}
+.body{max-width:42ch;color:rgba(255,255,255,.75);margin-top:1rem}
+.content{padding:clamp(3rem,7vw,5rem) 0 5rem;display:grid;gap:2rem}
+@media(min-width:900px){.content{grid-template-columns:1fr 1fr}}
+.shot{aspect-ratio:4/3;border-radius:1rem}
+

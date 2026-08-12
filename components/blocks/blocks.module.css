@@ -29,7 +29,8 @@
   flex-wrap: wrap;
   gap: 0.5rem;
   align-items: center;
-  padding: 1.5rem 0 0;
+  /* Clear fixed navbar: outer pad (1rem) + bar (64px) + gap */
+  padding: calc(1rem + 64px + 1.5rem) 0 0;
   font-size: 0.8125rem;
   color: var(--block-muted);
 }
@@ -423,18 +424,22 @@
   gap: 0.5rem;
   padding: 0.85rem 1.35rem;
   border-radius: 999px;
-  background: var(--block-ink);
+  background: var(--accent, #0f172a);
   color: #fff;
   font-size: 0.875rem;
   font-weight: 600;
   text-decoration: none;
+  box-shadow: 0 4px 14px -3px rgba(0, 0, 0, 0.2);
   transition:
     transform 0.2s cubic-bezier(0.16, 1, 0.3, 1),
-    background 0.2s ease;
+    background 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .ctaPrimary:hover {
-  background: var(--block-accent);
+  background: var(--accent-dark, #000000);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px -3px rgba(0, 0, 0, 0.3);
 }
 
 .ctaPrimary:active {

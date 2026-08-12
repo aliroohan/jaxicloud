@@ -1,0 +1,2459 @@
+{
+  "slug": "safe-start",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Safe start  – DA",
+    "en": "Safe start – EN",
+    "de": "Safe start – DE",
+    "fr": "Safe start – FR",
+    "nl": "Safe start – HL",
+    "nb": "Safe start – NO",
+    "sv": "Safe start – SW",
+    "tr": "Safe start – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Safe start - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/safe-start-da/",
+    "en": "https://www.jaxicloud.com/en/safe-start-en/",
+    "de": "https://www.jaxicloud.com/de/safe-start-de/",
+    "fr": "https://www.jaxicloud.com/fr/safe-start-fr/",
+    "nl": "https://www.jaxicloud.com/nl/safe-start-hl/",
+    "nb": "https://www.jaxicloud.com/nb/safe-start-no/",
+    "sv": "https://www.jaxicloud.com/sv/safe-start-sw/",
+    "tr": "https://www.jaxicloud.com/tr/safe-start-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Digital platform til køretøjsinspektion og flådesikkerhed",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Digital Vehicle Inspection & Fleet Safety Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Plateforme numérique d’inspection des véhicules et de sécurité des flottes",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Digitale Plattform für Fahrzeugprüfung und Flottensicherheit",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Digitaal voertuiginspectie- en vlootveiligheidsplatform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Digital plattform for kjøretøyinspeksjon og flåtesikkerhet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Digital plattform för fordonsinspektion och flot­säkerhet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Dijital Araç Muayene ve Filo Güvenliği Platformu",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Safe Start er en moderne digital løsning til køretøjsinspektioner, designet til at forbedre flådesikkerhed, overholdelse af regler og operationel gennemsigtighed.Platformen består af en mobilapplikation til chauffører og en webapplikation til flådeejere og -ledere, som arbejder problemfrit sammen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start er en moderne digital løsning til køretøjsinspektioner, designet til at forbedre flådesikkerhed, overholdelse af regler og operationel gennemsigtighed.<br data-start=\"308\" data-end=\"311\">Platformen består af en mobilapplikation til chauffører og en webapplikation til flådeejere og -ledere, som arbejder problemfrit sammen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Safe Start is a modern digital solution for vehicle inspections, designed to improve fleet safety, compliance, and operational transparency. The platform consists of a mobile application for drivers and a web application for fleet owners and managers, working seamlessly together.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start is a modern digital solution for vehicle inspections, designed to improve fleet safety, compliance, and operational transparency. The platform consists of a mobile application for drivers and a web application for fleet owners and managers, working seamlessly together.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Safe Start est une solution numérique moderne d’inspection des véhicules, conçue pour améliorer la sécurité des flottes, la conformité réglementaire et la transparence opérationnelle.La plateforme se compose d’une application mobile pour les conducteurs et d’une application web pour les propriétaires et gestionnaires de flotte, fonctionnant parfaitement ensemble.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start est une solution numérique moderne d’inspection des véhicules, conçue pour améliorer la sécurité des flottes, la conformité réglementaire et la transparence opérationnelle.<br data-start=\"6067\" data-end=\"6070\">La plateforme se compose d’une application mobile pour les conducteurs et d’une application web pour les propriétaires et gestionnaires de flotte, fonctionnant parfaitement ensemble.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Safe Start ist eine moderne digitale Lösung für Fahrzeugprüfungen, die entwickelt wurde, um die Flottensicherheit, die Einhaltung gesetzlicher Vorschriften und die betriebliche Transparenz zu verbessern.Die Plattform besteht aus einer mobilen App für Fahrer und einer Webanwendung für Flottenbesitzer und -manager, die nahtlos zusammenarbeiten.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start ist eine moderne digitale Lösung für Fahrzeugprüfungen, die entwickelt wurde, um die Flottensicherheit, die Einhaltung gesetzlicher Vorschriften und die betriebliche Transparenz zu verbessern.<br data-start=\"3138\" data-end=\"3141\">Die Plattform besteht aus einer mobilen App für Fahrer und einer Webanwendung für Flottenbesitzer und -manager, die nahtlos zusammenarbeiten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Safe Start is een moderne digitale oplossing voor voertuiginspecties, ontworpen om de veiligheid van wagenparken, naleving van regelgeving en operationele transparantie te verbeteren.Het platform bestaat uit een mobiele applicatie voor bestuurders en een webapplicatie voor wagenparkbeheerders en eigenaren, die naadloos samenwerken.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start is een moderne digitale oplossing voor voertuiginspecties, ontworpen om de veiligheid van wagenparken, naleving van regelgeving en operationele transparantie te verbeteren.<br data-start=\"9411\" data-end=\"9414\">Het platform bestaat uit een mobiele applicatie voor bestuurders en een webapplicatie voor wagenparkbeheerders en eigenaren, die naadloos samenwerken.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Safe Start er en moderne digital løsning for kjøretøyinspeksjoner, utviklet for å forbedre flåtesikkerhet, regelverksetterlevelse og operasjonell åpenhet.Plattformen består av en mobilapp for sjåfører og en webapplikasjon for flåteeiere og -ledere, som fungerer sømløst sammen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start er en moderne digital løsning for kjøretøyinspeksjoner, utviklet for å forbedre flåtesikkerhet, regelverksetterlevelse og operasjonell åpenhet.<br data-start=\"12395\" data-end=\"12398\">Plattformen består av en mobilapp for sjåfører og en webapplikasjon for flåteeiere og -ledere, som fungerer sømløst sammen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Safe Start är en modern digital lösning för fordonsinspektioner, utformad för att förbättra flott­säkerhet, regelefterlevnad och operativ transparens.Plattformen består av en mobilapplikation för förare och en webbapplikation för flotteägare och -ansvariga, som fungerar sömlöst tillsammans.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start är en modern digital lösning för fordonsinspektioner, utformad för att förbättra flott­säkerhet, regelefterlevnad och operativ transparens.<br data-start=\"15122\" data-end=\"15125\">Plattformen består av en mobilapplikation för förare och en webbapplikation för flotteägare och -ansvariga, som fungerar sömlöst tillsammans.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Safe Start, filo güvenliğini, mevzuata uyumu ve operasyonel şeffaflığı artırmak için tasarlanmış modern bir dijital araç muayene çözümüdür.Platform, sürücüler için bir mobil uygulama ve filo sahipleri ile yöneticileri için bir web uygulamasından oluşur ve sorunsuz bir şekilde birlikte çalışır.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start, filo güvenliğini, mevzuata uyumu ve operasyonel şeffaflığı artırmak için tasarlanmış modern bir dijital araç muayene çözümüdür.<br data-start=\"17846\" data-end=\"17849\">Platform, sürücüler için bir mobil uygulama ve filo sahipleri ile yöneticileri için bir web uygulamasından oluşur ve sorunsuz bir şekilde birlikte çalışır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png",
+          "width": 800,
+          "height": 930
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png",
+          "width": 800,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Smarte køretøjsinspektioner – hvor som helst, når som helst",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Smart Vehicle Inspections – Anywhere, Anytime",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Inspections intelligentes des véhicules – partout, à tout moment",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Intelligente Fahrzeugprüfungen – jederzeit und überall",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Slimme voertuiginspecties – altijd en overal",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Smarte kjøretøyinspeksjoner – når som helst, hvor som helst",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Smarta fordonsinspektioner – när som helst, var som helst",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Akıllı Araç Muayeneleri – Her Yerde, Her Zaman",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "richText",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Med Safe Start-mobilappen kan chauffører hurtigt og nemt udføre køretøjsinspektioner direkte fra deres smartphone eller tablet.Inspektionschecklister er fuldt konfigurerbare og kan tilpasses kundespecifikke krav, køretøjstyper eller lovgivningsmæssige standarder.Chauffører logger blot ind, vælger et køretøj og gennemfører inspektionen ved at besvare foruddefinerede spørgsmål, tilføje kommentarer og rapportere problemer i realtid.",
+          "bodyHtml": "<p>Med Safe Start-mobilappen kan chauffører hurtigt og nemt udføre køretøjsinspektioner direkte fra deres smartphone eller tablet.<br data-start=\"642\" data-end=\"645\">Inspektionschecklister er fuldt konfigurerbare og kan tilpasses kundespecifikke krav, køretøjstyper eller lovgivningsmæssige standarder.</p><p>Chauffører logger blot ind, vælger et køretøj og gennemfører inspektionen ved at besvare foruddefinerede spørgsmål, tilføje kommentarer og rapportere problemer i realtid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "With the Safe Start mobile app, drivers can quickly and easily perform vehicle inspections directly from their smartphone or tablet. Inspection checklists are fully configurable and can be adapted to customer-specific requirements, vehicle types, or regulatory standards.Drivers simply log in, select a vehicle, and complete the inspection by answering predefined questions, adding comments, and reporting issues in real time.",
+          "bodyHtml": "<p>With the Safe Start mobile app, drivers can quickly and easily perform vehicle inspections directly from their smartphone or tablet. Inspection checklists are fully configurable and can be adapted to customer-specific requirements, vehicle types, or regulatory standards.</p><p>Drivers simply log in, select a vehicle, and complete the inspection by answering predefined questions, adding comments, and reporting issues in real time.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Avec l’application mobile Safe Start, les conducteurs peuvent effectuer rapidement et facilement des inspections de véhicules directement depuis leur smartphone ou tablette.Les listes de contrôle sont entièrement configurables et peuvent être adaptées aux exigences spécifiques des clients, aux types de véhicules ou aux normes réglementaires.Les conducteurs se connectent simplement, sélectionnent un véhicule et réalisent l’inspection en répondant à des questions prédéfinies, en ajoutant des commentaires et en signalant les problèmes en temps réel.",
+          "bodyHtml": "<p data-start=\"6254\" data-end=\"6671\">Avec l’application mobile Safe Start, les conducteurs peuvent effectuer rapidement et facilement des inspections de véhicules directement depuis leur smartphone ou tablette.<br data-start=\"6498\" data-end=\"6501\">Les listes de contrôle sont entièrement configurables et peuvent être adaptées aux exigences spécifiques des clients, aux types de véhicules ou aux normes réglementaires.</p><p data-start=\"6673\" data-end=\"6882\">Les conducteurs se connectent simplement, sélectionnent un véhicule et réalisent l’inspection en répondant à des questions prédéfinies, en ajoutant des commentaires et en signalant les problèmes en temps réel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Mit der Safe Start Mobile App können Fahrer Fahrzeugprüfungen schnell und einfach direkt über ihr Smartphone oder Tablet durchführen.Die Prüflisten sind vollständig konfigurierbar und können an kundenspezifische Anforderungen, Fahrzeugtypen oder gesetzliche Standards angepasst werden.Fahrer melden sich einfach an, wählen ein Fahrzeug aus und führen die Prüfung durch, indem sie vordefinierte Fragen beantworten, Kommentare hinzufügen und Mängel in Echtzeit melden.",
+          "bodyHtml": "<p data-start=\"3284\" data-end=\"3633\">Mit der Safe Start Mobile App können Fahrer Fahrzeugprüfungen schnell und einfach direkt über ihr Smartphone oder Tablet durchführen.<br data-start=\"3478\" data-end=\"3481\">Die Prüflisten sind vollständig konfigurierbar und können an kundenspezifische Anforderungen, Fahrzeugtypen oder gesetzliche Standards angepasst werden.</p><p data-start=\"3635\" data-end=\"3816\">Fahrer melden sich einfach an, wählen ein Fahrzeug aus und führen die Prüfung durch, indem sie vordefinierte Fragen beantworten, Kommentare hinzufügen und Mängel in Echtzeit melden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Met de Safe Start mobiele app kunnen bestuurders snel en eenvoudig voertuiginspecties uitvoeren via hun smartphone of tablet.Inspectiechecklists zijn volledig configureerbaar en kunnen worden aangepast aan klantspecifieke eisen, voertuigtypen of wettelijke normen.Bestuurders loggen eenvoudig in, selecteren een voertuig en voltooien de inspectie door vooraf gedefinieerde vragen te beantwoorden, opmerkingen toe te voegen en problemen in realtime te melden.",
+          "bodyHtml": "<p data-start=\"9566\" data-end=\"9884\">Met de Safe Start mobiele app kunnen bestuurders snel en eenvoudig voertuiginspecties uitvoeren via hun smartphone of tablet.<br data-start=\"9742\" data-end=\"9745\">Inspectiechecklists zijn volledig configureerbaar en kunnen worden aangepast aan klantspecifieke eisen, voertuigtypen of wettelijke normen.</p><p data-start=\"9886\" data-end=\"10080\">Bestuurders loggen eenvoudig in, selecteren een voertuig en voltooien de inspectie door vooraf gedefinieerde vragen te beantwoorden, opmerkingen toe te voegen en problemen in realtime te melden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Med Safe Start-mobilappen kan sjåfører raskt og enkelt utføre kjøretøyinspeksjoner direkte fra smarttelefon eller nettbrett.Inspeksjonssjekklister er fullt konfigurerbare og kan tilpasses kundespesifikke krav, kjøretøytyper eller regulatoriske standarder.Sjåfører logger bare inn, velger et kjøretøy og fullfører inspeksjonen ved å svare på forhåndsdefinerte spørsmål, legge til kommentarer og rapportere feil i sanntid.",
+          "bodyHtml": "<p data-start=\"12523\" data-end=\"12847\">Med Safe Start-mobilappen kan sjåfører raskt og enkelt utføre kjøretøyinspeksjoner direkte fra smarttelefon eller nettbrett.<br data-start=\"12713\" data-end=\"12716\">Inspeksjonssjekklister er fullt konfigurerbare og kan tilpasses kundespesifikke krav, kjøretøytyper eller regulatoriske standarder.</p><p data-start=\"12849\" data-end=\"13014\">Sjåfører logger bare inn, velger et kjøretøy og fullfører inspeksjonen ved å svare på forhåndsdefinerte spørsmål, legge til kommentarer og rapportere feil i sanntid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Med Safe Start-mobilappen kan förare snabbt och enkelt utföra fordonsinspektioner direkt från sin smartphone eller surfplatta.Inspektionschecklistor är helt konfigurerbara och kan anpassas efter kundspecifika krav, fordonstyper eller regulatoriska standarder.Förare loggar helt enkelt in, väljer ett fordon och genomför inspektionen genom att svara på fördefinierade frågor, lägga till kommentarer och rapportera problem i realtid.",
+          "bodyHtml": "<p data-start=\"15268\" data-end=\"15594\">Med Safe Start-mobilappen kan förare snabbt och enkelt utföra fordonsinspektioner direkt från sin smartphone eller surfplatta.<br data-start=\"15458\" data-end=\"15461\">Inspektionschecklistor är helt konfigurerbara och kan anpassas efter kundspecifika krav, fordonstyper eller regulatoriska standarder.</p><p data-start=\"15596\" data-end=\"15768\">Förare loggar helt enkelt in, väljer ett fordon och genomför inspektionen genom att svara på fördefinierade frågor, lägga till kommentarer och rapportera problem i realtid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Safe Start mobil uygulaması ile sürücüler, araç muayenelerini doğrudan akıllı telefon veya tabletlerinden hızlı ve kolay bir şekilde gerçekleştirebilir.Muayene kontrol listeleri tamamen yapılandırılabilir olup, müşteri gereksinimlerine, araç türlerine veya yasal standartlara göre uyarlanabilir.Sürücüler yalnızca giriş yapar, bir araç seçer ve önceden tanımlanmış soruları yanıtlayarak, yorum ekleyerek ve sorunları gerçek zamanlı olarak bildirerek muayeneyi tamamlar.",
+          "bodyHtml": "<p data-start=\"18006\" data-end=\"18357\">Safe Start mobil uygulaması ile sürücüler, araç muayenelerini doğrudan akıllı telefon veya tabletlerinden hızlı ve kolay bir şekilde gerçekleştirebilir.<br data-start=\"18211\" data-end=\"18214\">Muayene kontrol listeleri tamamen yapılandırılabilir olup, müşteri gereksinimlerine, araç türlerine veya yasal standartlara göre uyarlanabilir.</p><p data-start=\"18359\" data-end=\"18533\">Sürücüler yalnızca giriş yapar, bir araç seçer ve önceden tanımlanmış soruları yanıtlayarak, yorum ekleyerek ve sorunları gerçek zamanlı olarak bildirerek muayeneyi tamamlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "image",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png",
+          "width": 1066,
+          "height": 1172
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fuldt tilpasselige inspektionschecklister",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fully Customizable Inspection Checklists",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Listes de contrôle entièrement personnalisables",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Vollständig anpassbare Prüflisten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Volledig aanpasbare inspectiechecklists",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fullt tilpassbare inspeksjonssjekklister",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Helt anpassningsbara inspektionschecklistor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tamamen Özelleştirilebilir Muayene Kontrol Listeleri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "richText",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Hver flåde er forskellig. Safe Start gør det muligt at tilpasse inspektionsspørgsmål og arbejdsgange pr. kunde, så inspektionerne matcher interne procedurer, lovkrav eller branchestandarder.Denne fleksibilitet gør Safe Start velegnet til:Transport- og logistikflåderBygge- og entreprenørmaskinerServicekøretøjer og firmabilerTrailere, lastbiler og specialudstyr",
+          "bodyHtml": "<p data-start=\"955\" data-end=\"1193\">Hver flåde er forskellig. Safe Start gør det muligt at tilpasse inspektionsspørgsmål og arbejdsgange pr. kunde, så inspektionerne matcher interne procedurer, lovkrav eller branchestandarder.</p><p data-start=\"1195\" data-end=\"1243\">Denne fleksibilitet gør Safe Start velegnet til:</p><p data-start=\"1247\" data-end=\"1277\">Transport- og logistikflåder</p><p data-start=\"1280\" data-end=\"1311\">Bygge- og entreprenørmaskiner</p><p data-start=\"1314\" data-end=\"1346\">Servicekøretøjer og firmabiler</p><p data-start=\"1349\" data-end=\"1387\">Trailere, lastbiler og specialudstyr</p>",
+          "listItems": [
+            "Transport- og logistikflåder",
+            "Bygge- og entreprenørmaskiner",
+            "Servicekøretøjer og firmabiler",
+            "Trailere, lastbiler og specialudstyr"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Every fleet is different. Safe Start allows inspection questions and workflows to be customized per customer, ensuring that inspections match internal procedures, legal requirements, or industry standards.This flexibility makes Safe Start suitable for:",
+          "bodyHtml": "<p data-start=\"955\" data-end=\"1193\">Every fleet is different. Safe Start allows inspection questions and workflows to be customized per customer, ensuring that inspections match internal procedures, legal requirements, or industry standards.</p><p data-start=\"955\" data-end=\"1193\">This flexibility makes Safe Start suitable for:</p>",
+          "listItems": [
+            "Transport and logistics fleets",
+            "Construction and heavy machinery",
+            "Service vehicles and company cars Trailers, trucks, and specialized equipment"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Chaque flotte est différente. Safe Start permet de personnaliser les questions d’inspection et les flux de travail par client, afin que les inspections correspondent aux procédures internes, aux exigences légales ou aux normes du secteur.Cette flexibilité rend Safe Start adapté à :Les flottes de transport et de logistiqueLa construction et les machines lourdesLes véhicules de service et voitures de sociétéLes remorques, camions et équipements spécialisés",
+          "bodyHtml": "<p data-start=\"6884\" data-end=\"7176\">Chaque flotte est différente. Safe Start permet de personnaliser les questions d’inspection et les flux de travail par client, afin que les inspections correspondent aux procédures internes, aux exigences légales ou aux normes du secteur.</p><p data-start=\"7178\" data-end=\"7222\">Cette flexibilité rend Safe Start adapté à :</p><p data-start=\"7226\" data-end=\"7269\">Les flottes de transport et de logistique</p><p data-start=\"7272\" data-end=\"7313\">La construction et les machines lourdes</p><p data-start=\"7316\" data-end=\"7365\">Les véhicules de service et voitures de société</p><p data-start=\"7368\" data-end=\"7419\">Les remorques, camions et équipements spécialisés</p>",
+          "listItems": [
+            "Les flottes de transport et de logistique",
+            "La construction et les machines lourdes",
+            "Les véhicules de service et voitures de société",
+            "Les remorques, camions et équipements spécialisés"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Jede Flotte ist unterschiedlich. Safe Start ermöglicht die Anpassung von Prüffragen und Arbeitsabläufen pro Kunde, sodass Inspektionen internen Prozessen, gesetzlichen Anforderungen oder Branchenstandards entsprechen.Diese Flexibilität macht Safe Start geeignet für:Transport- und LogistikflottenBauwesen und schwere MaschinenServicefahrzeuge und FirmenwagenAnhänger, Lkw und Spezialausrüstung",
+          "bodyHtml": "<p data-start=\"3818\" data-end=\"4075\">Jede Flotte ist unterschiedlich. Safe Start ermöglicht die Anpassung von Prüffragen und Arbeitsabläufen pro Kunde, sodass Inspektionen internen Prozessen, gesetzlichen Anforderungen oder Branchenstandards entsprechen.</p><p data-start=\"4077\" data-end=\"4126\">Diese Flexibilität macht Safe Start geeignet für:</p><p data-start=\"4130\" data-end=\"4162\">Transport- und Logistikflotten</p><p data-start=\"4165\" data-end=\"4197\">Bauwesen und schwere Maschinen</p><p data-start=\"4200\" data-end=\"4234\">Servicefahrzeuge und Firmenwagen</p><p data-start=\"4237\" data-end=\"4274\">Anhänger, Lkw und Spezialausrüstung</p>",
+          "listItems": [
+            "Transport- und Logistikflotten",
+            "Bauwesen und schwere Maschinen",
+            "Servicefahrzeuge und Firmenwagen",
+            "Anhänger, Lkw und Spezialausrüstung"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Elke vloot is anders. Safe Start maakt het mogelijk om inspectievragen en workflows per klant aan te passen, zodat inspecties aansluiten bij interne procedures, wettelijke vereisten of industriestandaarden.Deze flexibiliteit maakt Safe Start geschikt voor:Transport- en logistieke wagenparkenBouw en zwaar materieelServicevoertuigen en bedrijfswagensAanhangwagens, vrachtwagens en gespecialiseerd materieel",
+          "bodyHtml": "<p data-start=\"10082\" data-end=\"10334\">Elke vloot is anders. Safe Start maakt het mogelijk om inspectievragen en workflows per klant aan te passen, zodat inspecties aansluiten bij interne procedures, wettelijke vereisten of industriestandaarden.</p><p data-start=\"10336\" data-end=\"10386\">Deze flexibiliteit maakt Safe Start geschikt voor:</p><p data-start=\"10390\" data-end=\"10428\">Transport- en logistieke wagenparken</p><p data-start=\"10431\" data-end=\"10456\">Bouw en zwaar materieel</p><p data-start=\"10459\" data-end=\"10496\">Servicevoertuigen en bedrijfswagens</p><p data-start=\"10499\" data-end=\"10557\">Aanhangwagens, vrachtwagens en gespecialiseerd materieel</p>",
+          "listItems": [
+            "Transport- en logistieke wagenparken",
+            "Bouw en zwaar materieel",
+            "Servicevoertuigen en bedrijfswagens",
+            "Aanhangwagens, vrachtwagens en gespecialiseerd materieel"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hver flåte er unik. Safe Start gjør det mulig å tilpasse inspeksjonsspørsmål og arbeidsflyter per kunde, slik at inspeksjonene samsvarer med interne prosedyrer, lovkrav eller bransjestandarder.Denne fleksibiliteten gjør Safe Start egnet for:Transport- og logistikkflåterBygg og tunge maskinerServicekjøretøy og firmabilerTilhengere, lastebiler og spesialutstyr",
+          "bodyHtml": "<p data-start=\"13016\" data-end=\"13256\">Hver flåte er unik. Safe Start gjør det mulig å tilpasse inspeksjonsspørsmål og arbeidsflyter per kunde, slik at inspeksjonene samsvarer med interne prosedyrer, lovkrav eller bransjestandarder.</p><p data-start=\"13258\" data-end=\"13306\">Denne fleksibiliteten gjør Safe Start egnet for:</p><p data-start=\"13310\" data-end=\"13341\">Transport- og logistikkflåter</p><p data-start=\"13344\" data-end=\"13368\">Bygg og tunge maskiner</p><p data-start=\"13371\" data-end=\"13402\">Servicekjøretøy og firmabiler</p><p data-start=\"13405\" data-end=\"13446\">Tilhengere, lastebiler og spesialutstyr</p>",
+          "listItems": [
+            "Transport- og logistikkflåter",
+            "Bygg og tunge maskiner",
+            "Servicekjøretøy og firmabiler",
+            "Tilhengere, lastebiler og spesialutstyr"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Varje flotta är unik. Safe Start gör det möjligt att anpassa inspektionsfrågor och arbetsflöden per kund, så att inspektionerna matchar interna rutiner, lagkrav eller branschstandarder.Denna flexibilitet gör Safe Start lämpligt för:Transport- och logistikflottorBygg och tunga maskinerServicefordon och tjänstebilarSläp, lastbilar och specialutrustning",
+          "bodyHtml": "<p data-start=\"15770\" data-end=\"16005\">Varje flotta är unik. Safe Start gör det möjligt att anpassa inspektionsfrågor och arbetsflöden per kund, så att inspektionerna matchar interna rutiner, lagkrav eller branschstandarder.</p><p data-start=\"16007\" data-end=\"16054\">Denna flexibilitet gör Safe Start lämpligt för:</p><p data-start=\"16058\" data-end=\"16090\">Transport- och logistikflottor</p><p data-start=\"16093\" data-end=\"16118\">Bygg och tunga maskiner</p><p data-start=\"16121\" data-end=\"16153\">Servicefordon och tjänstebilar</p><p data-start=\"16156\" data-end=\"16195\">Släp, lastbilar och specialutrustning</p>",
+          "listItems": [
+            "Transport- och logistikflottor",
+            "Bygg och tunga maskiner",
+            "Servicefordon och tjänstebilar",
+            "Släp, lastbilar och specialutrustning"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Her filo farklıdır. Safe Start, müşteri bazında muayene sorularının ve iş akışlarının özelleştirilmesine olanak tanır; böylece muayeneler şirket içi prosedürlere, yasal gerekliliklere veya sektör standartlarına uygun hale gelir.Bu esneklik, Safe Start’ı şu alanlar için uygun kılar:Taşımacılık ve lojistik filolarıİnşaat ve ağır iş makineleriServis araçları ve şirket otomobilleriTreylerler, kamyonlar ve özel ekipmanlar",
+          "bodyHtml": "<p data-start=\"18535\" data-end=\"18822\">Her filo farklıdır. Safe Start, müşteri bazında muayene sorularının ve iş akışlarının özelleştirilmesine olanak tanır; böylece muayeneler şirket içi prosedürlere, yasal gerekliliklere veya sektör standartlarına uygun hale gelir.</p><p data-start=\"18824\" data-end=\"18878\">Bu esneklik, Safe Start’ı şu alanlar için uygun kılar:</p><p data-start=\"18882\" data-end=\"18916\">Taşımacılık ve lojistik filoları</p><p data-start=\"18919\" data-end=\"18949\">İnşaat ve ağır iş makineleri</p><p data-start=\"18952\" data-end=\"18992\">Servis araçları ve şirket otomobilleri</p><p data-start=\"18995\" data-end=\"19037\">Treylerler, kamyonlar ve özel ekipmanlar</p>",
+          "listItems": [
+            "Taşımacılık ve lojistik filoları",
+            "İnşaat ve ağır iş makineleri",
+            "Servis araçları ve şirket otomobilleri",
+            "Treylerler, kamyonlar ve özel ekipmanlar"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "heading",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Centraliseret webdashboard til flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Centralized Web Dashboard for Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Tableau de bord web centralisé pour la gestion de flotte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Zentrales Web-Dashboard für das Flottenmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gecentraliseerd webdashboard voor wagenparkbeheer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sentralisert webdashbord for flåtestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Centraliserad webbpanel för flott­hantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Filo Yönetimi için Merkezi Web Paneli",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "richText",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Safe Start-webapplikationen giver flådeejere og -ledere fuldt overblik over alle køretøjsinspektioner.Fra dashboardet kan du:Se gennemførte inspektioner i realtidSpore køretøjers tilstand og rapporterede fejlAnalysere inspektionshistorik pr. køretøj eller chaufførOvervåge overholdelse af regler og sikkerhedsydelse Alle inspektionsdata gemmes sikkert og organiseres for nem adgang og rapportering.",
+          "bodyHtml": "<p data-start=\"1389\" data-end=\"1541\">Safe Start-webapplikationen giver flådeejere og -ledere fuldt overblik over alle køretøjsinspektioner.</p><p data-start=\"1543\" data-end=\"1566\">Fra dashboardet kan du:</p><p data-start=\"1570\" data-end=\"1609\">Se gennemførte inspektioner i realtid</p><p data-start=\"1612\" data-end=\"1660\">Spore køretøjers tilstand og rapporterede fejl</p><p data-start=\"1663\" data-end=\"1721\">Analysere inspektionshistorik pr. køretøj eller chauffør</p><p data-start=\"1724\" data-end=\"1777\">Overvåge overholdelse af regler og sikkerhedsydelse</p><p>&nbsp;</p><p data-start=\"1779\" data-end=\"1861\">Alle inspektionsdata gemmes sikkert og organiseres for nem adgang og rapportering.</p>",
+          "listItems": [
+            "Se gennemførte inspektioner i realtid",
+            "Spore køretøjers tilstand og rapporterede fejl",
+            "Analysere inspektionshistorik pr. køretøj eller chauffør",
+            "Overvåge overholdelse af regler og sikkerhedsydelse"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The Safe Start web application gives fleet owners and managers full visibility into all vehicle inspections.From the dashboard you can:",
+          "bodyHtml": "<p data-start=\"1389\" data-end=\"1541\">The Safe Start web application gives fleet owners and managers full visibility into all vehicle inspections.</p><p>From the dashboard you can:</p>",
+          "listItems": [
+            "View completed inspections in real time Track vehicle condition and reported defects",
+            "Analyze inspection history per vehicle or driver",
+            "Monitor compliance and safety performance",
+            "All inspection data is stored securely and organized for easy access and reporting."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "L’application web Safe Start offre aux propriétaires et gestionnaires de flotte une visibilité complète sur toutes les inspections de véhicules.Depuis le tableau de bord, vous pouvez :Voir les inspections terminées en temps réelSuivre l’état des véhicules et les défauts signalésAnalyser l’historique des inspections par véhicule ou conducteurSurveiller la conformité et les performances en matière de sécuritéToutes les données d’inspection sont stockées de manière sécurisée et organisées pour un accès et des rapports faciles.",
+          "bodyHtml": "<p data-start=\"7421\" data-end=\"7628\">L’application web Safe Start offre aux propriétaires et gestionnaires de flotte une visibilité complète sur toutes les inspections de véhicules.</p><p data-start=\"7630\" data-end=\"7670\">Depuis le tableau de bord, vous pouvez :</p><p data-start=\"7674\" data-end=\"7720\">Voir les inspections terminées en temps réel</p><p data-start=\"7723\" data-end=\"7776\">Suivre l’état des véhicules et les défauts signalés</p><p data-start=\"7779\" data-end=\"7845\">Analyser l’historique des inspections par véhicule ou conducteur</p><p data-start=\"7848\" data-end=\"7917\">Surveiller la conformité et les performances en matière de sécurité</p><p data-start=\"7919\" data-end=\"8038\">Toutes les données d’inspection sont stockées de manière sécurisée et organisées pour un accès et des rapports faciles.</p>",
+          "listItems": [
+            "Voir les inspections terminées en temps réel",
+            "Suivre l’état des véhicules et les défauts signalés",
+            "Analyser l’historique des inspections par véhicule ou conducteur",
+            "Surveiller la conformité et les performances en matière de sécurité"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Die Safe Start Webanwendung bietet Flottenbesitzern und -managern vollständige Transparenz über alle Fahrzeugprüfungen.Über das Dashboard können Sie:Abgeschlossene Prüfungen in Echtzeit einsehenFahrzeugzustand und gemeldete Mängel verfolgenPrüfverläufe pro Fahrzeug oder Fahrer analysierenCompliance und Sicherheitsleistung überwachenAlle Prüfungsdaten werden sicher gespeichert und übersichtlich für einen einfachen Zugriff und Berichte organisiert.",
+          "bodyHtml": "<p data-start=\"4276\" data-end=\"4451\">Die Safe Start Webanwendung bietet Flottenbesitzern und -managern vollständige Transparenz über alle Fahrzeugprüfungen.</p><p data-start=\"4453\" data-end=\"4483\">Über das Dashboard können Sie:</p><p data-start=\"4487\" data-end=\"4534\">Abgeschlossene Prüfungen in Echtzeit einsehen</p><p data-start=\"4537\" data-end=\"4585\">Fahrzeugzustand und gemeldete Mängel verfolgen</p><p data-start=\"4588\" data-end=\"4639\">Prüfverläufe pro Fahrzeug oder Fahrer analysieren</p><p data-start=\"4642\" data-end=\"4689\">Compliance und Sicherheitsleistung überwachen</p><p data-start=\"4691\" data-end=\"4807\">Alle Prüfungsdaten werden sicher gespeichert und übersichtlich für einen einfachen Zugriff und Berichte organisiert.</p>",
+          "listItems": [
+            "Abgeschlossene Prüfungen in Echtzeit einsehen",
+            "Fahrzeugzustand und gemeldete Mängel verfolgen",
+            "Prüfverläufe pro Fahrzeug oder Fahrer analysieren",
+            "Compliance und Sicherheitsleistung überwachen"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De Safe Start webapplicatie biedt wagenparkeigenaren en -beheerders volledig inzicht in alle voertuiginspecties.Via het dashboard kunt u:Voltooide inspecties in realtime bekijkenDe voertuigconditie en gemelde defecten volgenInspectiegeschiedenis per voertuig of bestuurder analyserenNaleving en veiligheids prestaties monitorenAlle inspectiegegevens worden veilig opgeslagen en overzichtelijk georganiseerd voor eenvoudige toegang en rapportage.",
+          "bodyHtml": "<p data-start=\"10559\" data-end=\"10727\">De Safe Start webapplicatie biedt wagenparkeigenaren en -beheerders volledig inzicht in alle voertuiginspecties.</p><p data-start=\"10729\" data-end=\"10754\">Via het dashboard kunt u:</p><p data-start=\"10758\" data-end=\"10801\">Voltooide inspecties in realtime bekijken</p><p data-start=\"10804\" data-end=\"10852\">De voertuigconditie en gemelde defecten volgen</p><p data-start=\"10855\" data-end=\"10916\">Inspectiegeschiedenis per voertuig of bestuurder analyseren</p><p data-start=\"10919\" data-end=\"10965\">Naleving en veiligheids prestaties monitoren</p><p data-start=\"10967\" data-end=\"11085\">Alle inspectiegegevens worden veilig opgeslagen en overzichtelijk georganiseerd voor eenvoudige toegang en rapportage.</p>",
+          "listItems": [
+            "Voltooide inspecties in realtime bekijken",
+            "De voertuigconditie en gemelde defecten volgen",
+            "Inspectiegeschiedenis per voertuig of bestuurder analyseren",
+            "Naleving en veiligheids prestaties monitoren"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Safe Start webapplikasjon gir flåteeiere og -ledere full oversikt over alle kjøretøyinspeksjoner.Fra dashbordet kan du:Se fullførte inspeksjoner i sanntidFølge kjøretøyets tilstand og rapporterte feilAnalysere inspeksjonshistorikk per kjøretøy eller sjåførOvervåke etterlevelse og sikkerhetsytelseAlle inspeksjonsdata lagres sikkert og er organisert for enkel tilgang og rapportering.",
+          "bodyHtml": "<p data-start=\"13448\" data-end=\"13593\">Safe Start webapplikasjon gir flåteeiere og -ledere full oversikt over alle kjøretøyinspeksjoner.</p><p data-start=\"13595\" data-end=\"13617\">Fra dashbordet kan du:</p><p data-start=\"13621\" data-end=\"13658\">Se fullførte inspeksjoner i sanntid</p><p data-start=\"13661\" data-end=\"13709\">Følge kjøretøyets tilstand og rapporterte feil</p><p data-start=\"13712\" data-end=\"13770\">Analysere inspeksjonshistorikk per kjøretøy eller sjåfør</p><p data-start=\"13773\" data-end=\"13816\">Overvåke etterlevelse og sikkerhetsytelse</p><p data-start=\"13818\" data-end=\"13905\">Alle inspeksjonsdata lagres sikkert og er organisert for enkel tilgang og rapportering.</p>",
+          "listItems": [
+            "Se fullførte inspeksjoner i sanntid",
+            "Følge kjøretøyets tilstand og rapporterte feil",
+            "Analysere inspeksjonshistorikk per kjøretøy eller sjåfør",
+            "Overvåke etterlevelse og sikkerhetsytelse"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Safe Start-webbapplikationen ger flotteägare och -ansvariga full insyn i alla fordonsinspektioner.Via panelen kan du:Se genomförda inspektioner i realtidFölja fordonens skick och rapporterade felAnalysera inspektionshistorik per fordon eller förareÖvervaka efterlevnad och säkerhetsprestandaAll inspektionsdata lagras säkert och organiseras för enkel åtkomst och rapportering.",
+          "bodyHtml": "<p data-start=\"16197\" data-end=\"16345\">Safe Start-webbapplikationen ger flotteägare och -ansvariga full insyn i alla fordonsinspektioner.</p><p data-start=\"16347\" data-end=\"16366\">Via panelen kan du:</p><p data-start=\"16370\" data-end=\"16408\">Se genomförda inspektioner i realtid</p><p data-start=\"16411\" data-end=\"16455\">Följa fordonens skick och rapporterade fel</p><p data-start=\"16458\" data-end=\"16513\">Analysera inspektionshistorik per fordon eller förare</p><p data-start=\"16516\" data-end=\"16561\">Övervaka efterlevnad och säkerhetsprestanda</p><p data-start=\"16563\" data-end=\"16648\">All inspektionsdata lagras säkert och organiseras för enkel åtkomst och rapportering.</p>",
+          "listItems": [
+            "Se genomförda inspektioner i realtid",
+            "Följa fordonens skick och rapporterade fel",
+            "Analysera inspektionshistorik per fordon eller förare",
+            "Övervaka efterlevnad och säkerhetsprestanda"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Safe Start web uygulaması, filo sahipleri ve yöneticilerine tüm araç muayeneleri üzerinde tam görünürlük sağlar.Panel üzerinden şunları yapabilirsiniz:Tamamlanan muayeneleri gerçek zamanlı görüntülemekAraç durumunu ve bildirilen arızaları takip etmekAraç veya sürücü bazında muayene geçmişini analiz etmekUyum ve güvenlik performansını izlemekTüm muayene verileri güvenli bir şekilde saklanır ve kolay erişim ile raporlama için düzenlenir.",
+          "bodyHtml": "<p data-start=\"19039\" data-end=\"19195\">Safe Start web uygulaması, filo sahipleri ve yöneticilerine tüm araç muayeneleri üzerinde tam görünürlük sağlar.</p><p data-start=\"19197\" data-end=\"19236\">Panel üzerinden şunları yapabilirsiniz:</p><p data-start=\"19240\" data-end=\"19292\">Tamamlanan muayeneleri gerçek zamanlı görüntülemek</p><p data-start=\"19295\" data-end=\"19346\">Araç durumunu ve bildirilen arızaları takip etmek</p><p data-start=\"19349\" data-end=\"19406\">Araç veya sürücü bazında muayene geçmişini analiz etmek</p><p data-start=\"19409\" data-end=\"19449\">Uyum ve güvenlik performansını izlemek</p><p data-start=\"19451\" data-end=\"19547\">Tüm muayene verileri güvenli bir şekilde saklanır ve kolay erişim ile raporlama için düzenlenir.</p>",
+          "listItems": [
+            "Tamamlanan muayeneleri gerçek zamanlı görüntülemek",
+            "Araç durumunu ve bildirilen arızaları takip etmek",
+            "Araç veya sürücü bazında muayene geçmişini analiz etmek",
+            "Uyum ve güvenlik performansını izlemek"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png",
+          "width": 2560,
+          "height": 1205
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png",
+          "width": 2560,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "image",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png",
+          "width": 1186,
+          "height": 1418
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "heading",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Professionelle rapporter og PDF-eksport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Professional Reports & PDF Export",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Rapports professionnels et export PDF",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Professionelle Berichte & PDF-Export",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Professionele rapporten en PDF-export",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Profesjonelle rapporter og PDF-eksport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Professionella rapporter och PDF-export",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Profesyonel Raporlar ve PDF Dışa Aktarma",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "richText",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Alle køretøjsinspektionsrapporter kan eksporteres til PDF direkte fra webapplikationen.Det gør det nemt at:Dele rapporter med ledelse eller kunderOpbevare dokumentation til revision og complianceOpretholde en klar inspektionshistorik for hvert køretøjRapporterne er strukturerede, letlæselige og egnede til officiel brug.",
+          "bodyHtml": "<p data-start=\"1863\" data-end=\"2019\">Alle køretøjsinspektionsrapporter kan eksporteres til PDF direkte fra webapplikationen.<br data-start=\"1996\" data-end=\"1999\">Det gør det nemt at:</p><p data-start=\"2023\" data-end=\"2064\">Dele rapporter med ledelse eller kunder</p><p data-start=\"2067\" data-end=\"2118\">Opbevare dokumentation til revision og compliance</p><p data-start=\"2121\" data-end=\"2179\">Opretholde en klar inspektionshistorik for hvert køretøj</p><p data-start=\"2181\" data-end=\"2251\">Rapporterne er strukturerede, letlæselige og egnede til officiel brug.</p>",
+          "listItems": [
+            "Dele rapporter med ledelse eller kunder",
+            "Opbevare dokumentation til revision og compliance",
+            "Opretholde en klar inspektionshistorik for hvert køretøj"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "All vehicle inspection reports can be exported to PDF directly from the web application.This makes it easy to:Share reports with management or clientsStore documentation for audits and complianceMaintain a clear inspection history for each vehicleReports are structured, readable, and suitable for official use.",
+          "bodyHtml": "<p data-start=\"1941\" data-end=\"2054\">All vehicle inspection reports can be exported to PDF directly from the web application.<br data-start=\"2029\" data-end=\"2032\">This makes it easy to:</p><p data-start=\"2058\" data-end=\"2100\">Share reports with management or clients</p><p data-start=\"2103\" data-end=\"2150\">Store documentation for audits and compliance</p><p data-start=\"2153\" data-end=\"2207\">Maintain a clear inspection history for each vehicle</p><p data-start=\"2209\" data-end=\"2273\">Reports are structured, readable, and suitable for official use.</p>",
+          "listItems": [
+            "Share reports with management or clients",
+            "Store documentation for audits and compliance",
+            "Maintain a clear inspection history for each vehicle"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Tous les rapports d’inspection des véhicules peuvent être exportés en PDF directement depuis l’application web.Cela permet de :Partager les rapports avec la direction ou les clientsConserver la documentation pour les audits et la conformitéMaintenir un historique clair des inspections pour chaque véhiculeLes rapports sont structurés, lisibles et adaptés à un usage officiel.",
+          "bodyHtml": "<p data-start=\"8040\" data-end=\"8214\">Tous les rapports d’inspection des véhicules peuvent être exportés en PDF directement depuis l’application web.<br data-start=\"8195\" data-end=\"8198\">Cela permet de :</p><p data-start=\"8218\" data-end=\"8274\">Partager les rapports avec la direction ou les clients</p><p data-start=\"8277\" data-end=\"8338\">Conserver la documentation pour les audits et la conformité</p><p data-start=\"8341\" data-end=\"8409\">Maintenir un historique clair des inspections pour chaque véhicule</p><p data-start=\"8411\" data-end=\"8481\">Les rapports sont structurés, lisibles et adaptés à un usage officiel.</p>",
+          "listItems": [
+            "Partager les rapports avec la direction ou les clients",
+            "Conserver la documentation pour les audits et la conformité",
+            "Maintenir un historique clair des inspections pour chaque véhicule"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Alle Fahrzeugprüfberichte können direkt aus der Webanwendung als PDF exportiert werden.Dies erleichtert es:Berichte mit Management oder Kunden zu teilenDokumentationen für Audits und Compliance zu speichernEine klare Prüfhistorie für jedes Fahrzeug zu führenDie Berichte sind strukturiert, übersichtlich und für den offiziellen Gebrauch geeignet.",
+          "bodyHtml": "<p data-start=\"4809\" data-end=\"4962\">Alle Fahrzeugprüfberichte können direkt aus der Webanwendung als PDF exportiert werden.<br data-start=\"4939\" data-end=\"4942\">Dies erleichtert es:</p><p data-start=\"4966\" data-end=\"5013\">Berichte mit Management oder Kunden zu teilen</p><p data-start=\"5016\" data-end=\"5072\">Dokumentationen für Audits und Compliance zu speichern</p><p data-start=\"5075\" data-end=\"5129\">Eine klare Prüfhistorie für jedes Fahrzeug zu führen</p><p data-start=\"5131\" data-end=\"5219\">Die Berichte sind strukturiert, übersichtlich und für den offiziellen Gebrauch geeignet.</p>",
+          "listItems": [
+            "Berichte mit Management oder Kunden zu teilen",
+            "Dokumentationen für Audits und Compliance zu speichern",
+            "Eine klare Prüfhistorie für jedes Fahrzeug zu führen"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Alle voertuiginspectierapporten kunnen direct vanuit de webapplicatie naar PDF worden geëxporteerd.Dit maakt het eenvoudig om:Rapporten te delen met management of klantenDocumentatie op te slaan voor audits en nalevingEen duidelijke inspectiegeschiedenis per voertuig bij te houdenDe rapporten zijn gestructureerd, goed leesbaar en geschikt voor officieel gebruik.",
+          "bodyHtml": "<p data-start=\"11087\" data-end=\"11260\">Alle voertuiginspectierapporten kunnen direct vanuit de webapplicatie naar PDF worden geëxporteerd.<br data-start=\"11230\" data-end=\"11233\">Dit maakt het eenvoudig om:</p><p data-start=\"11264\" data-end=\"11310\">Rapporten te delen met management of klanten</p><p data-start=\"11313\" data-end=\"11363\">Documentatie op te slaan voor audits en naleving</p><p data-start=\"11366\" data-end=\"11431\">Een duidelijke inspectiegeschiedenis per voertuig bij te houden</p><p data-start=\"11433\" data-end=\"11516\">De rapporten zijn gestructureerd, goed leesbaar en geschikt voor officieel gebruik.</p>",
+          "listItems": [
+            "Rapporten te delen met management of klanten",
+            "Documentatie op te slaan voor audits en naleving",
+            "Een duidelijke inspectiegeschiedenis per voertuig bij te houden"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Alle kjøretøyinspeksjonsrapporter kan eksporteres til PDF direkte fra webapplikasjonen.Dette gjør det enkelt å:Dele rapporter med ledelse eller kunderLagre dokumentasjon for revisjon og etterlevelseOpprettholde en tydelig inspeksjonshistorikk for hvert kjøretøyRapportene er strukturerte, lettleste og egnet for offisiell bruk.",
+          "bodyHtml": "<p data-start=\"13907\" data-end=\"14066\">Alle kjøretøyinspeksjonsrapporter kan eksporteres til PDF direkte fra webapplikasjonen.<br data-start=\"14039\" data-end=\"14042\">Dette gjør det enkelt å:</p><p data-start=\"14070\" data-end=\"14111\">Dele rapporter med ledelse eller kunder</p><p data-start=\"14114\" data-end=\"14164\">Lagre dokumentasjon for revisjon og etterlevelse</p><p data-start=\"14167\" data-end=\"14232\">Opprettholde en tydelig inspeksjonshistorikk for hvert kjøretøy</p><p data-start=\"14234\" data-end=\"14300\">Rapportene er strukturerte, lettleste og egnet for offisiell bruk.</p>",
+          "listItems": [
+            "Dele rapporter med ledelse eller kunder",
+            "Lagre dokumentasjon for revisjon og etterlevelse",
+            "Opprettholde en tydelig inspeksjonshistorikk for hvert kjøretøy"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Alla fordonsinspektionsrapporter kan exporteras till PDF direkt från webbapplikationen.Detta gör det enkelt att:Dela rapporter med ledning eller kunderSpara dokumentation för revision och efterlevnadUpprätthålla en tydlig inspektionshistorik för varje fordonRapporterna är strukturerade, lättlästa och lämpliga för officiellt bruk.",
+          "bodyHtml": "<p data-start=\"16650\" data-end=\"16811\">Alla fordonsinspektionsrapporter kan exporteras till PDF direkt från webbapplikationen.<br data-start=\"16783\" data-end=\"16786\">Detta gör det enkelt att:</p><p data-start=\"16815\" data-end=\"16856\">Dela rapporter med ledning eller kunder</p><p data-start=\"16859\" data-end=\"16909\">Spara dokumentation för revision och efterlevnad</p><p data-start=\"16912\" data-end=\"16973\">Upprätthålla en tydlig inspektionshistorik för varje fordon</p><p data-start=\"16975\" data-end=\"17048\">Rapporterna är strukturerade, lättlästa och lämpliga för officiellt bruk.</p>",
+          "listItems": [
+            "Dela rapporter med ledning eller kunder",
+            "Spara dokumentation för revision och efterlevnad",
+            "Upprätthålla en tydlig inspektionshistorik för varje fordon"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Tüm araç muayene raporları web uygulaması üzerinden doğrudan PDF olarak dışa aktarılabilir.Bu sayede:Raporları yöneticiler veya müşterilerle paylaşmakDenetimler ve mevzuat uyumu için belgeleri saklamakHer araç için net bir muayene geçmişi tutmakkolaylaşır. Raporlar yapılandırılmış, okunabilir ve resmi kullanım için uygundur.",
+          "bodyHtml": "<p data-start=\"19549\" data-end=\"19700\">Tüm araç muayene raporları web uygulaması üzerinden doğrudan PDF olarak dışa aktarılabilir.<br data-start=\"19687\" data-end=\"19690\">Bu sayede:</p><p data-start=\"19704\" data-end=\"19755\">Raporları yöneticiler veya müşterilerle paylaşmak</p><p data-start=\"19758\" data-end=\"19811\">Denetimler ve mevzuat uyumu için belgeleri saklamak</p><p data-start=\"19814\" data-end=\"19860\">Her araç için net bir muayene geçmişi tutmak</p><p data-start=\"19862\" data-end=\"19943\">kolaylaşır. Raporlar yapılandırılmış, okunabilir ve resmi kullanım için uygundur.</p>",
+          "listItems": [
+            "Raporları yöneticiler veya müşterilerle paylaşmak",
+            "Denetimler ve mevzuat uyumu için belgeleri saklamak",
+            "Her araç için net bir muayene geçmişi tutmak"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Vigtigste fordele ved Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Key Benefits of Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Principaux avantages de Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Hauptvorteile von Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Belangrijkste voordelen van Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Viktige fordeler med Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Viktiga fördelar med Safe Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Safe Start’ın Temel Avantajları",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "iconList",
+      "order": 18,
+      "sectionIndex": 4,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digitale køretøjsinspektioner via mobilapp",
+            "Konfigurerbare inspektionsspørgsmål pr. kunde",
+            "Realtidsdata tilgængelig i webdashboardet",
+            "Centraliseret historik over flådeinspektioner",
+            "PDF-eksport af alle inspektionsrapporter",
+            "Forbedret sikkerhed, compliance og gennemsigtighed"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digital vehicle inspections via mobile app",
+            "Configurable inspection questions per customer",
+            "Real-time data available in the web dashboard",
+            "Centralized fleet inspection history",
+            "PDF export of all inspection reports",
+            "Improved safety, compliance, and transparency"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Inspections numériques des véhicules via application mobile",
+            "Questions d’inspection configurables par client",
+            "Données en temps réel disponibles dans le tableau de bord web",
+            "Historique centralisé des inspections de flotte",
+            "Export PDF de tous les rapports d’inspection",
+            "Sécurité, conformité et transparence améliorées"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digitale Fahrzeugprüfungen per Mobile App",
+            "Konfigurierbare Prüfungsfragen pro Kunde",
+            "Echtzeitdaten im Web-Dashboard",
+            "Zentrale Flotten-Prüfhistorie",
+            "PDF-Export aller Prüfberichte",
+            "Verbesserte Sicherheit, Compliance und Transparenz"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digitale voertuiginspecties via mobiele app",
+            "Configureerbare inspectievragen per klant",
+            "Realtime gegevens beschikbaar in het webdashboard",
+            "Gecentraliseerde inspectiegeschiedenis van het wagenpark",
+            "PDF-export van alle inspectierapporten",
+            "Verbeterde veiligheid, naleving en transparantie"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digitale kjøretøyinspeksjoner via mobilapp",
+            "Konfigurerbare inspeksjonsspørsmål per kunde",
+            "Sanntidsdata tilgjengelig i webdashbordet",
+            "Sentralisert inspeksjonshistorikk for flåten",
+            "PDF-eksport av alle inspeksjonsrapporter",
+            "Forbedret sikkerhet, etterlevelse og åpenhet"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Digitala fordonsinspektioner via mobilapp",
+            "Konfigurerbara inspektionsfrågor per kund",
+            "Realtidsdata tillgänglig i webbpanelen",
+            "Centraliserad inspektionshistorik för flottan",
+            "PDF-export av alla inspektionsrapporter",
+            "Förbättrad säkerhet, efterlevnad och transparens"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Mobil uygulama ile dijital araç muayeneleri",
+            "Müşteri bazında yapılandırılabilir muayene soruları",
+            "Web panelinde gerçek zamanlı veriler",
+            "Merkezi filo muayene geçmişi",
+            "Tüm muayene raporları için PDF dışa aktarma",
+            "Artırılmış güvenlik, mevzuata uyum ve şeffaflık"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "heading",
+      "order": 19,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Bygget til moderne flåder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Built for Modern Fleets",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Conçu pour les flottes modernes",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Entwickelt für moderne Flotten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Ontwikkeld voor moderne wagenparken",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Bygget for moderne flåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Byggd för moderna flottor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Modern Filolar için Tasarlandı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "richText",
+      "order": 20,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Safe Start erstatter papirchecklister og manuelle processer med et pålideligt digitalt workflow, der hjælper flåder med at reducere risiko, forbedre ansvarlighed og vedligeholde køretøjer på en mere sikker og effektiv måde.",
+          "bodyHtml": "<p data-start=\"2585\" data-end=\"2840\">Safe Start erstatter papirchecklister og manuelle processer med et pålideligt digitalt workflow, der hjælper flåder med at reducere risiko, forbedre ansvarlighed og vedligeholde køretøjer på en mere sikker og effektiv måde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Safe Start replaces paper checklists and manual processes with a reliable digital workflow, helping fleets reduce risk, improve accountability, and maintain vehicles in a safer and more efficient way.",
+          "bodyHtml": "<p data-start=\"2633\" data-end=\"2833\">Safe Start replaces paper checklists and manual processes with a reliable digital workflow, helping fleets reduce risk, improve accountability, and maintain vehicles in a safer and more efficient way.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Safe Start remplace les listes papier et les processus manuels par un flux de travail numérique fiable, aidant les flottes à réduire les risques, améliorer la responsabilité et maintenir les véhicules de manière plus sûre et plus efficace.",
+          "bodyHtml": "<p data-start=\"8859\" data-end=\"9136\">Safe Start remplace les listes papier et les processus manuels par un flux de travail numérique fiable, aidant les flottes à réduire les risques, améliorer la responsabilité et maintenir les véhicules de manière plus sûre et plus efficace.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Safe Start ersetzt Papierchecklisten und manuelle Prozesse durch einen zuverlässigen digitalen Workflow und hilft Flotten, Risiken zu reduzieren, Verantwortlichkeit zu verbessern und Fahrzeuge sicherer und effizienter zu betreiben.",
+          "bodyHtml": "<p data-start=\"5505\" data-end=\"5773\">Safe Start ersetzt Papierchecklisten und manuelle Prozesse durch einen zuverlässigen digitalen Workflow und hilft Flotten, Risiken zu reduzieren, Verantwortlichkeit zu verbessern und Fahrzeuge sicherer und effizienter zu betreiben.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Safe Start vervangt papieren checklists en handmatige processen door een betrouwbare digitale workflow, waardoor wagenparken risico’s verminderen, verantwoordelijkheid vergroten en voertuigen veiliger en efficiënter onderhouden.",
+          "bodyHtml": "<p data-start=\"11868\" data-end=\"12138\">Safe Start vervangt papieren checklists en handmatige processen door een betrouwbare digitale workflow, waardoor wagenparken risico’s verminderen, verantwoordelijkheid vergroten en voertuigen veiliger en efficiënter onderhouden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Safe Start erstatter papirsjekklister og manuelle prosesser med en pålitelig digital arbeidsflyt, og hjelper flåter med å redusere risiko, forbedre ansvarlighet og vedlikeholde kjøretøy på en tryggere og mer effektiv måte.",
+          "bodyHtml": "<p data-start=\"14625\" data-end=\"14879\">Safe Start erstatter papirsjekklister og manuelle prosesser med en pålitelig digital arbeidsflyt, og hjelper flåter med å redusere risiko, forbedre ansvarlighet og vedlikeholde kjøretøy på en tryggere og mer effektiv måte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Safe Start ersätter papperschecklistor och manuella processer med ett pålitligt digitalt arbetsflöde, vilket hjälper flottor att minska risker, öka ansvarstagande och underhålla fordon på ett säkrare och mer effektivt sätt.",
+          "bodyHtml": "<p data-start=\"17370\" data-end=\"17625\">Safe Start ersätter papperschecklistor och manuella processer med ett pålitligt digitalt arbetsflöde, vilket hjälper flottor att minska risker, öka ansvarstagande och underhålla fordon på ett säkrare och mer effektivt sätt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Safe Start, kağıt kontrol listelerini ve manuel süreçleri güvenilir bir dijital iş akışıyla değiştirerek filoların riski azaltmasına, hesap verebilirliği artırmasına ve araçları daha güvenli ve verimli bir şekilde yönetmesine yardımcı olur.",
+          "bodyHtml": "<p data-start=\"2633\" data-end=\"2833\">Safe Start, kağıt kontrol listelerini ve manuel süreçleri güvenilir bir dijital iş akışıyla değiştirerek filoların riski azaltmasına, hesap verebilirliği artırmasına ve araçları daha güvenli ve verimli bir şekilde yönetmesine yardımcı olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

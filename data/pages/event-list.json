@@ -1,0 +1,440 @@
+{
+  "slug": "event-list",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Upcoming Events – DA",
+    "en": "Upcoming Events",
+    "de": "Upcoming Events – DE",
+    "fr": "Upcoming Events – FR",
+    "nl": "Upcoming Events – HL",
+    "nb": "Upcomming events – NO",
+    "sv": "Upcoming Events – SV",
+    "tr": "Upcoming Events – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Upcoming Events - DA - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Upcoming Events - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Kommende Veranstaltungen - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Upcoming Events - FR - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Upcoming Events - HL - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Upcomming events - NO - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Upcoming Events - SV - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Upcoming Events – TUR - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/upcoming-events-da/",
+    "en": "https://www.jaxicloud.com/en/event-list/",
+    "de": "https://www.jaxicloud.com/de/upcoming-events-de/",
+    "fr": "https://www.jaxicloud.com/fr/upcoming-events-fr/",
+    "nl": "https://www.jaxicloud.com/nl/upcoming-events-hl/",
+    "nb": "https://www.jaxicloud.com/nb/upcomming-events-no/",
+    "sv": "https://www.jaxicloud.com/sv/upcoming-events-sv/",
+    "tr": "https://www.jaxicloud.com/tr/upcoming-events-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kommende begivenheder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kommende Veranstaltungen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Upcomming events",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "timeline",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "eael-post-timeline.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Q2 Opdateringer",
+          "body": "Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026...What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates...Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki...I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management...",
+          "bodyHtml": "<p>Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026...</p><p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates...</p><p>Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki...</p><p>I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "July 27, 2026 Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026... Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "July 27, 2026 What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates... Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "May 3, 2026 Lastbilmagasinet’te yayımlanan yeni bir makalede, Jaxicloud Fleet Management filo yönetimindeki... Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "May 3, 2026 I en ny artikel från Lastbilmagasinet sätter Jaxicloud Fleet Management... Spårning räcker inte: de vill förändra spelet inom fordonsflottshantering",
+              "href": "https://www.jaxicloud.com/sv/2026/05/03/sparning-racker-inte-de-vill-forandra-spelet-inom-fordonsflottshantering/"
+            }
+          ],
+          "ctaLabel": "July 27, 2026 Hvad er nyt i Jaxicloud Hosting i 2. kvartal 2026... Q2 Opdateringer",
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "body": "Time & Location 21 May 2025, 09:50 – 23 May...Time & Location 14 Oct 2024, 10:00 – 18 Oct...",
+          "bodyHtml": "<p>Time &amp; Location 21 May 2025, 09:50 – 23 May...</p><p>Time &amp; Location 14 Oct 2024, 10:00 – 18 Oct...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/"
+            },
+            {
+              "label": "October 28, 2025 Time & Location 14 Oct 2024, 10:00 – 18 Oct... Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/28/elementor-706/"
+            }
+          ],
+          "ctaLabel": "October 28, 2025 Time & Location 21 May 2025, 09:50 – 23 May... Jaxicloud Fleet Management participates in GITEX GLOBAL BERLIN 2025 together with our partner",
+          "ctaUrl": "https://www.jaxicloud.com/en/2025/10/28/jaxicloud-fleet-management-participates-in-gitex-global-berlin-2025-together-with-our-partner/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

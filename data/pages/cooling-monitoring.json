@@ -1,0 +1,2205 @@
+{
+  "slug": "cooling-monitoring",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Cooling monitoring DA",
+    "en": "COOLING MONITORING",
+    "de": "COOLING MONITORING DE",
+    "fr": "Cooling monitoring FR",
+    "nl": "COOLING MONITORING – HL",
+    "nb": "COOLING MONITORING – NO",
+    "sv": "COOLING MONITORING – SV",
+    "tr": "COOLING MONITORING – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Leasing - billeje - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Leasing-car rental - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Leasing-Autovermietung - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Location de voiture - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Leasing-autoverhuur - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Leasing-autoverhuur - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Leasing-biluthyrning - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Araç kiralama - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/cooling-monitoring-da/",
+    "en": "https://www.jaxicloud.com/en/cooling-monitoring/",
+    "de": "https://www.jaxicloud.com/de/cooling-monitoring-de/",
+    "fr": "https://www.jaxicloud.com/fr/cooling-monitoring-fr/",
+    "nl": "https://www.jaxicloud.com/nl/cooling-monitoring-hl/",
+    "nb": "https://www.jaxicloud.com/nb/cooling-monitoring-no/",
+    "sv": "https://www.jaxicloud.com/sv/cooling-monitoring-sv/",
+    "tr": "https://www.jaxicloud.com/tr/cooling-monitoring-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Køleovervågning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Cooling monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kühlungsüberwachung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance du refroidissement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Koelingsmonitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kjøleovervåking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Soğutma izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Soğutma izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "3 måder at kontrollere temperaturen med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "3 ways to control temperature with Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "3 Möglichkeiten zur Temperaturregelung mit Jaxicloud Flottenmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "3 façons de contrôler la température avec Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "3 manieren om de temperatuur te regelen met Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "3 måter å kontrollere temperaturen med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "3 sätt att kontrollera temperaturen med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi ile sıcaklığı kontrol etmenin 3 yolu",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud flådestyringsløsning med unik EBS Bluetooth-sporingsenhed til overvågning af køling og opvarmning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Fleet Management Solution with Unique EBS Bluetooth Tracking Device for Monitoring Cooling and Heating",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Flottenmanagementlösung mit einzigartigem EBS Bluetooth-Tracking-Gerät zur Überwachung von Kühlung und Heizung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution de gestion de flotte Jaxicloud avec dispositif de suivi Bluetooth EBS unique pour la surveillance du refroidissement et du chauffage",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud Fleet Management Solution met uniek EBS Bluetooth-trackingapparaat voor het bewaken van koeling en verwarming",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud flåtestyringsløsning med unik EBS Bluetooth-sporingsenhet for overvåking av kjøling og oppvarming",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud Fleet Management-lösning med unik EBS Bluetooth-spårningsenhet för övervakning av kyla och värme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Soğutma ve Isıtmayı İzlemek için Benzersiz EBS Bluetooth Takip Cihazına Sahip Jaxicloud Filo Yönetim Çözümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "richText",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Vi har udviklet en avanceret løsning baseret på vores unikke EBS Bluetooth-sporingsenhed, som muliggør effektiv overvågning af både køling og opvarmning. Denne enhed er designet til præcist at overvåge temperaturforhold i realtid, hvilket sikrer optimal drift og forebyggelse af potentielle problemer.Vores EBS-enhed bruger Bluetooth-teknologi, hvilket gør den trådløs og nem at installere i forskellige miljøer. Den er ideel til overvågning i køleanlæg, varmesystemer eller enhver anden applikation, hvor temperaturkontrol er kritisk. Med integrerede dataindsamlings- og analysefunktioner kan brugeren få adgang til detaljerede rapporter og advarsler, hvilket muliggør hurtig reaktion på uregelmæssigheder.Derudover kan enheden nemt integreres i eksisterende systemer, hvilket sikrer en problemfri implementering uden behov for omfattende tilpasninger. Vores løsning understøtter også skalerbarhed, hvilket betyder, at flere enheder kan tilføjes til systemet efter behov, hvilket giver fuld kontrol over flere steder.Sammenfattende giver vores EBS Bluetooth-sporingsenhed en pålidelig og innovativ måde at sikre optimal temperaturkontrol i både køle- og varmeapplikationer, hvilket resulterer i bedre effektivitet og reduceret risiko for driftsforstyrrelser.",
+          "bodyHtml": "<p>Vi har udviklet en avanceret løsning baseret på vores unikke EBS Bluetooth-sporingsenhed, som muliggør effektiv overvågning af både køling og opvarmning. Denne enhed er designet til præcist at overvåge temperaturforhold i realtid, hvilket sikrer optimal drift og forebyggelse af potentielle problemer.</p><p>Vores EBS-enhed bruger Bluetooth-teknologi, hvilket gør den trådløs og nem at installere i forskellige miljøer. Den er ideel til overvågning i køleanlæg, varmesystemer eller enhver anden applikation, hvor temperaturkontrol er kritisk. Med integrerede dataindsamlings- og analysefunktioner kan brugeren få adgang til detaljerede rapporter og advarsler, hvilket muliggør hurtig reaktion på uregelmæssigheder.</p><p>Derudover kan enheden nemt integreres i eksisterende systemer, hvilket sikrer en problemfri implementering uden behov for omfattende tilpasninger. Vores løsning understøtter også skalerbarhed, hvilket betyder, at flere enheder kan tilføjes til systemet efter behov, hvilket giver fuld kontrol over flere steder.</p><p>Sammenfattende giver vores EBS Bluetooth-sporingsenhed en pålidelig og innovativ måde at sikre optimal temperaturkontrol i både køle- og varmeapplikationer, hvilket resulterer i bedre effektivitet og reduceret risiko for driftsforstyrrelser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "We have developed an advanced solution based on our unique EBS Bluetooth tracking device, which enables efficient monitoring of both cooling and heating. This device is designed to accurately monitor temperature conditions in real time, ensuring optimal operation and prevention of potential problems.Our EBS unit uses Bluetooth technology, which makes it wireless and easy to install in different environments. It is ideal for monitoring in refrigeration plants, heating systems or any other application where temperature control is critical. With integrated data collection and analysis capabilities, the user can access detailed reports and alerts, enabling quick response to anomalies.In addition, the device can be easily integrated into existing systems, which ensures a problem-free implementation without the need for extensive adaptations. Our solution also supports scalability, meaning more devices can be added to the system as needed, giving full control over multiple locations.In summary, our EBS Bluetooth tracking device provides a reliable and innovative way to ensure optimal temperature control in both cooling and heating applications, resulting in better efficiency and reduced risk of operational disruptions.",
+          "bodyHtml": "<p>We have developed an advanced solution based on our unique EBS Bluetooth tracking device, which enables efficient monitoring of both cooling and heating. This device is designed to accurately monitor temperature conditions in real time, ensuring optimal operation and prevention of potential problems.</p><p>Our EBS unit uses Bluetooth technology, which makes it wireless and easy to install in different environments. It is ideal for monitoring in refrigeration plants, heating systems or any other application where temperature control is critical. With integrated data collection and analysis capabilities, the user can access detailed reports and alerts, enabling quick response to anomalies.</p><p>In addition, the device can be easily integrated into existing systems, which ensures a problem-free implementation without the need for extensive adaptations. Our solution also supports scalability, meaning more devices can be added to the system as needed, giving full control over multiple locations.</p><p>In summary, our EBS Bluetooth tracking device provides a reliable and innovative way to ensure optimal temperature control in both cooling and heating applications, resulting in better efficiency and reduced risk of operational disruptions.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wir haben eine fortschrittliche Lösung auf Basis unseres einzigartigen EBS-Bluetooth-Tracking-Geräts entwickelt, die eine effiziente Überwachung von Kühl- und Heizsystemen ermöglicht. Das Gerät überwacht die Temperaturbedingungen präzise in Echtzeit und gewährleistet so einen optimalen Betrieb sowie die Vorbeugung potenzieller Probleme.Unser EBS-Gerät nutzt Bluetooth-Technologie und ist daher kabellos und einfach in verschiedenen Umgebungen zu installieren. Es eignet sich ideal für die Überwachung in Kälteanlagen, Heizsystemen und allen anderen Anwendungen, in denen die Temperaturregelung entscheidend ist. Dank integrierter Datenerfassungs- und Analysefunktionen erhält der Benutzer Zugriff auf detaillierte Berichte und Warnmeldungen und kann so schnell auf Anomalien reagieren.Darüber hinaus lässt sich das Gerät problemlos in bestehende Systeme integrieren, was eine problemlose Implementierung ohne umfangreiche Anpassungen ermöglicht. Unsere Lösung ist zudem skalierbar, sodass bei Bedarf weitere Geräte hinzugefügt werden können und die volle Kontrolle über mehrere Standorte gewährleistet ist.Zusammenfassend bietet unser EBS-Bluetooth-Tracking-Gerät eine zuverlässige und innovative Möglichkeit zur optimalen Temperaturregelung in Kühl- und Heizanwendungen. Dies führt zu höherer Effizienz und einem geringeren Risiko von Betriebsstörungen.",
+          "bodyHtml": "<p>Wir haben eine fortschrittliche Lösung auf Basis unseres einzigartigen EBS-Bluetooth-Tracking-Geräts entwickelt, die eine effiziente Überwachung von Kühl- und Heizsystemen ermöglicht. Das Gerät überwacht die Temperaturbedingungen präzise in Echtzeit und gewährleistet so einen optimalen Betrieb sowie die Vorbeugung potenzieller Probleme.</p><p>Unser EBS-Gerät nutzt Bluetooth-Technologie und ist daher kabellos und einfach in verschiedenen Umgebungen zu installieren. Es eignet sich ideal für die Überwachung in Kälteanlagen, Heizsystemen und allen anderen Anwendungen, in denen die Temperaturregelung entscheidend ist. Dank integrierter Datenerfassungs- und Analysefunktionen erhält der Benutzer Zugriff auf detaillierte Berichte und Warnmeldungen und kann so schnell auf Anomalien reagieren.</p><p>Darüber hinaus lässt sich das Gerät problemlos in bestehende Systeme integrieren, was eine problemlose Implementierung ohne umfangreiche Anpassungen ermöglicht. Unsere Lösung ist zudem skalierbar, sodass bei Bedarf weitere Geräte hinzugefügt werden können und die volle Kontrolle über mehrere Standorte gewährleistet ist.</p><p>Zusammenfassend bietet unser EBS-Bluetooth-Tracking-Gerät eine zuverlässige und innovative Möglichkeit zur optimalen Temperaturregelung in Kühl- und Heizanwendungen. Dies führt zu höherer Effizienz und einem geringeren Risiko von Betriebsstörungen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Nous avons développé une solution avancée basée sur notre dispositif de suivi Bluetooth EBS exclusif, permettant une surveillance efficace du chauffage et du refroidissement. Ce dispositif est conçu pour surveiller avec précision les conditions de température en temps réel, garantissant un fonctionnement optimal et la prévention des problèmes potentiels.Notre unité EBS utilise la technologie Bluetooth, ce qui la rend sans fil et facile à installer dans différents environnements. Elle est idéale pour la surveillance des installations frigorifiques, des systèmes de chauffage ou de toute autre application où le contrôle de la température est essentiel. Grâce à ses capacités intégrées de collecte et d’analyse des données, l’utilisateur accède à des rapports détaillés et à des alertes, permettant une réaction rapide aux anomalies.De plus, le dispositif s’intègre facilement aux systèmes existants, garantissant une mise en œuvre sans problème et sans adaptations importantes. Notre solution est également évolutive : il est possible d’ajouter des dispositifs au système selon les besoins, offrant ainsi un contrôle total sur plusieurs sites.En résumé, notre dispositif de suivi Bluetooth EBS constitue une solution fiable et innovante pour assurer un contrôle optimal de la température dans les applications de chauffage et de refroidissement, ce qui se traduit par une efficacité accrue et une réduction des risques d’interruptions de service.",
+          "bodyHtml": "<p>Nous avons développé une solution avancée basée sur notre dispositif de suivi Bluetooth EBS exclusif, permettant une surveillance efficace du chauffage et du refroidissement. Ce dispositif est conçu pour surveiller avec précision les conditions de température en temps réel, garantissant un fonctionnement optimal et la prévention des problèmes potentiels.</p><p>Notre unité EBS utilise la technologie Bluetooth, ce qui la rend sans fil et facile à installer dans différents environnements. Elle est idéale pour la surveillance des installations frigorifiques, des systèmes de chauffage ou de toute autre application où le contrôle de la température est essentiel. Grâce à ses capacités intégrées de collecte et d’analyse des données, l’utilisateur accède à des rapports détaillés et à des alertes, permettant une réaction rapide aux anomalies.</p><p>De plus, le dispositif s’intègre facilement aux systèmes existants, garantissant une mise en œuvre sans problème et sans adaptations importantes. Notre solution est également évolutive : il est possible d’ajouter des dispositifs au système selon les besoins, offrant ainsi un contrôle total sur plusieurs sites.</p><p>En résumé, notre dispositif de suivi Bluetooth EBS constitue une solution fiable et innovante pour assurer un contrôle optimal de la température dans les applications de chauffage et de refroidissement, ce qui se traduit par une efficacité accrue et une réduction des risques d’interruptions de service.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "We hebben een geavanceerde oplossing ontwikkeld op basis van ons unieke EBS Bluetooth-trackingapparaat, waarmee zowel koeling als verwarming efficiënt kunnen worden gemonitord. Dit apparaat is ontworpen om de temperatuuromstandigheden nauwkeurig in realtime te bewaken, wat zorgt voor een optimale werking en het voorkomen van potentiële problemen.Onze EBS-unit maakt gebruik van Bluetooth-technologie, waardoor deze draadloos en eenvoudig te installeren is in verschillende omgevingen. Het is ideaal voor monitoring in koelinstallaties, verwarmingssystemen of andere toepassingen waar temperatuurregeling cruciaal is. Dankzij de geïntegreerde mogelijkheden voor gegevensverzameling en -analyse heeft de gebruiker toegang tot gedetailleerde rapporten en waarschuwingen, waardoor snel kan worden gereageerd op afwijkingen.Bovendien kan het apparaat eenvoudig worden geïntegreerd in bestaande systemen, wat zorgt voor een probleemloze implementatie zonder uitgebreide aanpassingen. Onze oplossing ondersteunt ook schaalbaarheid, wat betekent dat er indien nodig meer apparaten aan het systeem kunnen worden toegevoegd, waardoor volledige controle over meerdere locaties ontstaat.Kortom, ons EBS Bluetooth-trackingapparaat biedt een betrouwbare en innovatieve manier om optimale temperatuurregeling te garanderen in zowel koel- als verwarmingstoepassingen, wat resulteert in een betere efficiëntie en een verminderd risico op operationele verstoringen.",
+          "bodyHtml": "<p>We hebben een geavanceerde oplossing ontwikkeld op basis van ons unieke EBS Bluetooth-trackingapparaat, waarmee zowel koeling als verwarming efficiënt kunnen worden gemonitord. Dit apparaat is ontworpen om de temperatuuromstandigheden nauwkeurig in realtime te bewaken, wat zorgt voor een optimale werking en het voorkomen van potentiële problemen.</p><p>Onze EBS-unit maakt gebruik van Bluetooth-technologie, waardoor deze draadloos en eenvoudig te installeren is in verschillende omgevingen. Het is ideaal voor monitoring in koelinstallaties, verwarmingssystemen of andere toepassingen waar temperatuurregeling cruciaal is. Dankzij de geïntegreerde mogelijkheden voor gegevensverzameling en -analyse heeft de gebruiker toegang tot gedetailleerde rapporten en waarschuwingen, waardoor snel kan worden gereageerd op afwijkingen.</p><p>Bovendien kan het apparaat eenvoudig worden geïntegreerd in bestaande systemen, wat zorgt voor een probleemloze implementatie zonder uitgebreide aanpassingen. Onze oplossing ondersteunt ook schaalbaarheid, wat betekent dat er indien nodig meer apparaten aan het systeem kunnen worden toegevoegd, waardoor volledige controle over meerdere locaties ontstaat.</p><p>Kortom, ons EBS Bluetooth-trackingapparaat biedt een betrouwbare en innovatieve manier om optimale temperatuurregeling te garanderen in zowel koel- als verwarmingstoepassingen, wat resulteert in een betere efficiëntie en een verminderd risico op operationele verstoringen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Vi har utviklet en avansert løsning basert på vår unike EBS Bluetooth-sporingsenhet, som muliggjør effektiv overvåking av både kjøling og oppvarming. Denne enheten er designet for å overvåke temperaturforhold nøyaktig i sanntid, noe som sikrer optimal drift og forebygging av potensielle problemer.Vår EBS-enhet bruker Bluetooth-teknologi, som gjør den trådløs og enkel å installere i forskjellige miljøer. Den er ideell for overvåking i kjøleanlegg, varmesystemer eller andre applikasjoner der temperaturkontroll er kritisk. Med integrerte datainnsamlings- og analysefunksjoner kan brukeren få tilgang til detaljerte rapporter og varsler, noe som muliggjør rask respons på avvik.I tillegg kan enheten enkelt integreres i eksisterende systemer, noe som sikrer en problemfri implementering uten behov for omfattende tilpasninger. Løsningen vår støtter også skalerbarhet, noe som betyr at flere enheter kan legges til systemet etter behov, noe som gir full kontroll over flere steder.Oppsummert gir vår EBS Bluetooth-sporingsenhet en pålitelig og innovativ måte å sikre optimal temperaturkontroll i både kjøle- og oppvarmingsapplikasjoner, noe som resulterer i bedre effektivitet og redusert risiko for driftsforstyrrelser.",
+          "bodyHtml": "<p>Vi har utviklet en avansert løsning basert på vår unike EBS Bluetooth-sporingsenhet, som muliggjør effektiv overvåking av både kjøling og oppvarming. Denne enheten er designet for å overvåke temperaturforhold nøyaktig i sanntid, noe som sikrer optimal drift og forebygging av potensielle problemer.</p><p>Vår EBS-enhet bruker Bluetooth-teknologi, som gjør den trådløs og enkel å installere i forskjellige miljøer. Den er ideell for overvåking i kjøleanlegg, varmesystemer eller andre applikasjoner der temperaturkontroll er kritisk. Med integrerte datainnsamlings- og analysefunksjoner kan brukeren få tilgang til detaljerte rapporter og varsler, noe som muliggjør rask respons på avvik.</p><p>I tillegg kan enheten enkelt integreres i eksisterende systemer, noe som sikrer en problemfri implementering uten behov for omfattende tilpasninger. Løsningen vår støtter også skalerbarhet, noe som betyr at flere enheter kan legges til systemet etter behov, noe som gir full kontroll over flere steder.</p><p>Oppsummert gir vår EBS Bluetooth-sporingsenhet en pålitelig og innovativ måte å sikre optimal temperaturkontroll i både kjøle- og oppvarmingsapplikasjoner, noe som resulterer i bedre effektivitet og redusert risiko for driftsforstyrrelser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "De flesta konsumtionsvaror transporteras landvägen. Våra partners behärskar hela processen för landtransporter, från bränslekontroll till körbeteende och analys av färdskrivardata. Men det verkar som att detta inte räcker – företag utför i allt högre grad kyltransporter av speciella kategorier av varor där temperaturförhållandena är kritiska (kemiska produkter, läkemedel, blommor och lättfördärvliga livsmedel).Temperaturfluktuationer kan orsaka betydande förluster (upp till 15 % av mejeriprodukterna). Ersättningen sker upp till speditörer (om felet konstateras) eller försäkringsbolag (vilket gör försäkringen dyrare i framtiden). Ibland kan kylsystemet stängas av av skrupelfria förare som är villiga att spara bränsle. Mer än 60 Jaxicloud Fleet Management-partners är verksamma i varma länder, där ett avaktiverat kylskåp kan resultera i 35+ °C inuti trailern. Det innebär att du inom en timme får en full lastbil med förstörda varor. Förutom ekonomiska förluster riskerar du att bli misskrediterad och hamna efter de företag som strävar efter produktsäkerhet. Fabriksinstallerade temperaturregulatorer låter dig spåra lastens tillstånd hela vägen. Användningen av ett speciellt kylstyrningssystem i kombination med Jaxicloud Fleet Management säkerställer temperaturkontroll i realtid, så att du kan få meddelanden om temperaturförändringar, dörröppning/stängning och kylenhetens status vid olika tidpunkter. Därefter kan kostnaden för att implementera och underhålla ett satellitspårningssystem uppgå till <1 % av transportföretagens totala kostnader för flotthantering och möjliggör högre säkerhet för transporterade varor. Det finns olika metoder för att implementera lösningen: installation av temperatursensorer, användning av temperaturregistreringsenheter och en alternativ iOFreeze-lösning.",
+          "bodyHtml": "<p>De flesta konsumtionsvaror transporteras landvägen. Våra partners behärskar hela processen för landtransporter, från bränslekontroll till körbeteende och analys av färdskrivardata. Men det verkar som att detta inte räcker – företag utför i allt högre grad kyltransporter av speciella kategorier av varor där temperaturförhållandena är kritiska (kemiska produkter, läkemedel, blommor och lättfördärvliga livsmedel).</p><p>Temperaturfluktuationer kan orsaka betydande förluster (upp till 15 % av mejeriprodukterna). Ersättningen sker upp till speditörer (om felet konstateras) eller försäkringsbolag (vilket gör försäkringen dyrare i framtiden). Ibland kan kylsystemet stängas av av skrupelfria förare som är villiga att spara bränsle. Mer än 60 Jaxicloud Fleet Management-partners är verksamma i varma länder, där ett avaktiverat kylskåp kan resultera i 35+ °C inuti trailern. Det innebär att du inom en timme får en full lastbil med förstörda varor. Förutom ekonomiska förluster riskerar du att bli misskrediterad och hamna efter de företag som strävar efter produktsäkerhet. Fabriksinstallerade temperaturregulatorer låter dig spåra lastens tillstånd hela vägen. Användningen av ett speciellt kylstyrningssystem i kombination med Jaxicloud Fleet Management säkerställer temperaturkontroll i realtid, så att du kan få meddelanden om temperaturförändringar, dörröppning/stängning och kylenhetens status vid olika tidpunkter. Därefter kan kostnaden för att implementera och underhålla ett satellitspårningssystem uppgå till &lt;1 % av transportföretagens totala kostnader för flotthantering och möjliggör högre säkerhet för transporterade varor. Det finns olika metoder för att implementera lösningen: installation av temperatursensorer, användning av temperaturregistreringsenheter och en alternativ iOFreeze-lösning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Tüketim mallarının çoğu kara yoluyla taşınmaktadır. Ortaklarımız, yakıt kontrolünden sürüş davranışı ve takometre veri analizine kadar kara taşımacılığının tüm sürecine hakim oldu. Ancak bu yeterli görünmüyor; şirketler, sıcaklık koşullarının kritik olduğu özel ürün kategorilerinin (kimyasal ürünler, ilaç, çiçekler ve çabuk bozulan gıdalar) giderek daha sık olarak frigorifik taşımacılığını gerçekleştiriyor.Sıcaklık dalgalanmaları önemli kayıplara neden olabilir (süt ürünlerinde %15’e kadar). Geri ödeme, nakliye şirketlerine (eğer arıza tespit edilirse) veya sigorta şirketlerine (sigortayı gelecekte daha pahalı hale getirir) bağlıdır. Bazen soğutma sistemi, yakıt tasarrufu yapmak isteyen vicdansız sürücüler tarafından kapatılabilir. 60’tan fazla Jaxicloud Filo Yönetimi ortağı, devre dışı bırakılan bir buzdolabının treyler içinde 35+ °С sıcaklığa neden olabileceği sıcak ülkelerde faaliyet göstermektedir. Bu, bir saat içinde şımartıcı ürünlerle dolu bir kamyon alacağınız anlamına gelir. Maddi kayıpların yanı sıra, ürün güvenliği için çaba gösteren firmaların itibarını kaybetme ve geri kalma riskiyle karşı karşıya kalırsınız. Fabrikada takılan sıcaklık kontrolörleri, yükün durumunu baştan sona takip etmeyi mümkün kılar. Jaxicloud Filo Yönetimi ile birlikte özel buzdolabı kontrol sisteminin kullanılması, gerçek zamanlı sıcaklık kontrolü sağlar; böylece sıcaklık değişimleri, kapı açma/kapama ve soğutma ünitesi durumu hakkında farklı zamanlarda bilgilendirilebilirsiniz. Bundan sonra, bir uydu izleme sisteminin uygulanması ve sürdürülmesinin maliyeti, taşımacılık şirketlerinin toplam filo yönetim maliyetlerinin %1’inden azına tekabül edebilir ve taşınan malların daha yüksek güvenliğine olanak tanır. Çözümü uygulamanın farklı yöntemleri vardır: sıcaklık sensörlerinin kurulumu, sıcaklık kayıt cihazlarının kullanımı ve alternatif iOFreeze çözümü.",
+          "bodyHtml": "<p>Tüketim mallarının çoğu kara yoluyla taşınmaktadır. Ortaklarımız, yakıt kontrolünden sürüş davranışı ve takometre veri analizine kadar kara taşımacılığının tüm sürecine hakim oldu. Ancak bu yeterli görünmüyor; şirketler, sıcaklık koşullarının kritik olduğu özel ürün kategorilerinin (kimyasal ürünler, ilaç, çiçekler ve çabuk bozulan gıdalar) giderek daha sık olarak frigorifik taşımacılığını gerçekleştiriyor.</p><p>Sıcaklık dalgalanmaları önemli kayıplara neden olabilir (süt ürünlerinde %15’e kadar). Geri ödeme, nakliye şirketlerine (eğer arıza tespit edilirse) veya sigorta şirketlerine (sigortayı gelecekte daha pahalı hale getirir) bağlıdır. Bazen soğutma sistemi, yakıt tasarrufu yapmak isteyen vicdansız sürücüler tarafından kapatılabilir. 60’tan fazla Jaxicloud Filo Yönetimi ortağı, devre dışı bırakılan bir buzdolabının treyler içinde 35+ °С sıcaklığa neden olabileceği sıcak ülkelerde faaliyet göstermektedir. Bu, bir saat içinde şımartıcı ürünlerle dolu bir kamyon alacağınız anlamına gelir. Maddi kayıpların yanı sıra, ürün güvenliği için çaba gösteren firmaların itibarını kaybetme ve geri kalma riskiyle karşı karşıya kalırsınız. Fabrikada takılan sıcaklık kontrolörleri, yükün durumunu baştan sona takip etmeyi mümkün kılar. Jaxicloud Filo Yönetimi ile birlikte özel buzdolabı kontrol sisteminin kullanılması, gerçek zamanlı sıcaklık kontrolü sağlar; böylece sıcaklık değişimleri, kapı açma/kapama ve soğutma ünitesi durumu hakkında farklı zamanlarda bilgilendirilebilirsiniz. Bundan sonra, bir uydu izleme sisteminin uygulanması ve sürdürülmesinin maliyeti, taşımacılık şirketlerinin toplam filo yönetim maliyetlerinin %1’inden azına tekabül edebilir ve taşınan malların daha yüksek güvenliğine olanak tanır. Çözümü uygulamanın farklı yöntemleri vardır: sıcaklık sensörlerinin kurulumu, sıcaklık kayıt cihazlarının kullanımı ve alternatif iOFreeze çözümü.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Yderligere sensorer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Additional sensors",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Zusätzliche Sensoren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Capteurs supplémentaires",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Extra sensoren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Ekstra sensorer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Ytterligare sensorer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ek sensörler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Det er nu almindelig praksis at installere temperatursensorer (loggere), der indsamler data om temperatur og fugtighed for at styre køleenheder. EU-baseret virksomhed bruger døråbningssensorer, der gør det muligt at bestemme årsagen til temperaturovertrædelser og forhindre tyveri. Ændringer i sensorværdier og hændelsessteder vises i rapporter, mens advarsler sendes med det samme. Sensorværdier gemmes i loggerhukommelsen og afspejles på specielle displays. For at gøre data tilgængelige i et sporingssystem skal hukommelsesmodulet være tilsluttet en computer. Det skal bemærkes, at ikke alle systemer kan håndtere analyse af store mængder data, da alle parametre skal vises i en enkelt tidsperiode for at definere forholdet mellem døråbning og temperaturvariationer. Den største ulempe ved denne tilgang er installationens kompleksitet (installation af lange kabler i hele traileren og lastbilen). Derudover registrerer hver sensor kun én parameter ad gangen. For at opbygge et komplet billede kræves et stort antal sensorer, hvilket gør installationsprocessen både tidskrævende og dyr. For at undgå ulemperne er der implementeret trådløse sensorer, hvilket gør temperaturovervågning mere tilgængelig.",
+          "bodyHtml": "<p>Det er nu almindelig praksis at installere temperatursensorer (loggere), der indsamler data om temperatur og fugtighed for at styre køleenheder. EU-baseret virksomhed bruger døråbningssensorer, der gør det muligt at bestemme årsagen til temperaturovertrædelser og forhindre tyveri. Ændringer i sensorværdier og hændelsessteder vises i rapporter, mens advarsler sendes med det samme. Sensorværdier gemmes i loggerhukommelsen og afspejles på specielle displays. For at gøre data tilgængelige i et sporingssystem skal hukommelsesmodulet være tilsluttet en computer. Det skal bemærkes, at ikke alle systemer kan håndtere analyse af store mængder data, da alle parametre skal vises i en enkelt tidsperiode for at definere forholdet mellem døråbning og temperaturvariationer. Den største ulempe ved denne tilgang er installationens kompleksitet (installation af lange kabler i hele traileren og lastbilen). Derudover registrerer hver sensor kun én parameter ad gangen. For at opbygge et komplet billede kræves et stort antal sensorer, hvilket gør installationsprocessen både tidskrævende og dyr. For at undgå ulemperne er der implementeret trådløse sensorer, hvilket gør temperaturovervågning mere tilgængelig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "It is now common practice to install temperature sensors (loggers) that collect data on temperature and humidity to control refrigeration units. EU-based company using door opening sensors that allow determining the cause of temperature condition violations and preventing theft. Changes in sensor values and event locations are displayed in reports, while alerts are sent immediately. Sensor values are stored in the logger memory and reflected on special displays. To make data available in a tracking system, the memory module must be connected to a computer. It should be noted that not all systems can handle the analysis of large amounts of data, since in order to define the relationship between door opening and temperature variations, all parameters must be displayed in a single time period. The main disadvantage of the approach is the complexity of the installation (installation of long cables throughout the trailer and truck). In addition, each sensor records only one parameter at one point. To build a complete picture, a large number of sensors are required, which makes the installation process both time-consuming and expensive. To avoid the disadvantages, wireless sensors have been implemented, making temperature monitoring more accessible.",
+          "bodyHtml": "<p><span class=\"wixui-rich-text__text\">It is now common practice to install temperature sensors (loggers) that collect data on temperature and humidity to control refrigeration units. EU-based company using door opening sensors that allow determining the cause of temperature condition violations and preventing theft. Changes in sensor values and event locations are displayed in reports, while alerts are sent immediately. Sensor values are stored in the logger memory and reflected on special displays. To make data available in a tracking system, the memory module must be connected to a computer. It should be noted that not all systems can handle the analysis of large amounts of data, since in order to define the relationship between door opening and temperature variations, all parameters must be displayed in a single time period. The main disadvantage of the approach is the complexity of the installation (installation of long cables throughout the trailer and truck). In addition, each sensor records only one parameter at one point. To build a complete picture, a large number of sensors are required, which makes the installation process both time-consuming and expensive. To avoid the disadvantages, wireless sensors have been implemented, making temperature monitoring more accessible.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Installation von Temperatursensoren (Loggern) zur Erfassung von Temperatur- und Feuchtigkeitsdaten zur Steuerung von Kühlanlagen ist mittlerweile gängige Praxis. Ein in der EU ansässiges Unternehmen nutzt Türöffnungssensoren, um die Ursachen von Temperaturabweichungen zu ermitteln und Diebstahl vorzubeugen. Änderungen der Sensorwerte und Ereignisorte werden in Berichten angezeigt, und Warnmeldungen werden umgehend versendet. Die Sensorwerte werden im Speicher des Loggers gespeichert und auf speziellen Displays dargestellt. Um die Daten in einem Trackingsystem verfügbar zu machen, muss das Speichermodul an einen Computer angeschlossen werden. Es ist zu beachten, dass nicht alle Systeme die Analyse großer Datenmengen bewältigen können, da zur Bestimmung des Zusammenhangs zwischen Türöffnung und Temperaturschwankungen alle Parameter innerhalb eines einzigen Zeitraums erfasst werden müssen. Der Hauptnachteil dieses Ansatzes liegt in der komplexen Installation (Verlegung langer Kabel im gesamten Anhänger und Lkw). Zudem erfasst jeder Sensor nur einen Parameter an einem einzigen Punkt. Um ein vollständiges Bild zu erhalten, ist eine große Anzahl von Sensoren erforderlich, was die Installation zeitaufwändig und teuer macht. Um diese Nachteile zu vermeiden, wurden drahtlose Sensoren implementiert, die die Temperaturüberwachung deutlich vereinfachen.",
+          "bodyHtml": "<p>Die Installation von Temperatursensoren (Loggern) zur Erfassung von Temperatur- und Feuchtigkeitsdaten zur Steuerung von Kühlanlagen ist mittlerweile gängige Praxis. Ein in der EU ansässiges Unternehmen nutzt Türöffnungssensoren, um die Ursachen von Temperaturabweichungen zu ermitteln und Diebstahl vorzubeugen. Änderungen der Sensorwerte und Ereignisorte werden in Berichten angezeigt, und Warnmeldungen werden umgehend versendet. Die Sensorwerte werden im Speicher des Loggers gespeichert und auf speziellen Displays dargestellt. Um die Daten in einem Trackingsystem verfügbar zu machen, muss das Speichermodul an einen Computer angeschlossen werden. Es ist zu beachten, dass nicht alle Systeme die Analyse großer Datenmengen bewältigen können, da zur Bestimmung des Zusammenhangs zwischen Türöffnung und Temperaturschwankungen alle Parameter innerhalb eines einzigen Zeitraums erfasst werden müssen. Der Hauptnachteil dieses Ansatzes liegt in der komplexen Installation (Verlegung langer Kabel im gesamten Anhänger und Lkw). Zudem erfasst jeder Sensor nur einen Parameter an einem einzigen Punkt. Um ein vollständiges Bild zu erhalten, ist eine große Anzahl von Sensoren erforderlich, was die Installation zeitaufwändig und teuer macht. Um diese Nachteile zu vermeiden, wurden drahtlose Sensoren implementiert, die die Temperaturüberwachung deutlich vereinfachen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Il est désormais courant d’installer des capteurs de température (enregistreurs) qui collectent des données de température et d’humidité pour contrôler les groupes frigorifiques. Une entreprise européenne utilise des capteurs d’ouverture de porte permettant de déterminer la cause des écarts de température et de prévenir les vols. Les variations des valeurs des capteurs et les lieux des événements sont affichés dans des rapports, et des alertes sont envoyées immédiatement. Les valeurs des capteurs sont stockées dans la mémoire de l’enregistreur et affichées sur des écrans dédiés. Pour que les données soient disponibles dans un système de suivi, le module de mémoire doit être connecté à un ordinateur. Il convient de noter que tous les systèmes ne sont pas capables de traiter de grandes quantités de données, car pour définir la relation entre l’ouverture des portes et les variations de température, tous les paramètres doivent être affichés sur une même période. Le principal inconvénient de cette approche réside dans la complexité de l’installation (pose de longs câbles dans la remorque et le camion). De plus, chaque capteur n’enregistre qu’un seul paramètre à un seul endroit. Pour obtenir une image complète, un grand nombre de capteurs sont nécessaires, ce qui rend l’installation longue et coûteuse. Pour pallier ces inconvénients, des capteurs sans fil ont été mis en place, rendant la surveillance de la température plus accessible.",
+          "bodyHtml": "<p>Il est désormais courant d’installer des capteurs de température (enregistreurs) qui collectent des données de température et d’humidité pour contrôler les groupes frigorifiques. Une entreprise européenne utilise des capteurs d’ouverture de porte permettant de déterminer la cause des écarts de température et de prévenir les vols. Les variations des valeurs des capteurs et les lieux des événements sont affichés dans des rapports, et des alertes sont envoyées immédiatement. Les valeurs des capteurs sont stockées dans la mémoire de l’enregistreur et affichées sur des écrans dédiés. Pour que les données soient disponibles dans un système de suivi, le module de mémoire doit être connecté à un ordinateur. Il convient de noter que tous les systèmes ne sont pas capables de traiter de grandes quantités de données, car pour définir la relation entre l’ouverture des portes et les variations de température, tous les paramètres doivent être affichés sur une même période. Le principal inconvénient de cette approche réside dans la complexité de l’installation (pose de longs câbles dans la remorque et le camion). De plus, chaque capteur n’enregistre qu’un seul paramètre à un seul endroit. Pour obtenir une image complète, un grand nombre de capteurs sont nécessaires, ce qui rend l’installation longue et coûteuse. Pour pallier ces inconvénients, des capteurs sans fil ont été mis en place, rendant la surveillance de la température plus accessible.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het is tegenwoordig gebruikelijk om temperatuursensoren (loggers) te installeren die gegevens over temperatuur en vochtigheid verzamelen om koelunits te regelen. Een EU-bedrijf dat deuropeningssensoren gebruikt, maakt het mogelijk om de oorzaak van temperatuurschendingen te bepalen en diefstal te voorkomen. Veranderingen in sensorwaarden en gebeurtenislocaties worden weergegeven in rapporten, terwijl waarschuwingen direct worden verzonden. Sensorwaarden worden opgeslagen in het loggergeheugen en weergegeven op speciale displays. Om de gegevens beschikbaar te maken in een volgsysteem, moet de geheugenmodule worden aangesloten op een computer. Opgemerkt moet worden dat niet alle systemen de analyse van grote hoeveelheden gegevens aankunnen, aangezien om de relatie tussen deuropening en temperatuurvariaties te definiëren, alle parameters in één tijdsperiode moeten worden weergegeven. Het grootste nadeel van deze aanpak is de complexiteit van de installatie (installatie van lange kabels door de trailer en truck). Bovendien registreert elke sensor slechts één parameter op één punt. Om een ​​compleet beeld te krijgen, zijn een groot aantal sensoren nodig, wat het installatieproces zowel tijdrovend als duur maakt. Om deze nadelen te vermijden, zijn draadloze sensoren geïmplementeerd, waardoor temperatuurbewaking toegankelijker wordt.",
+          "bodyHtml": "<p>Het is tegenwoordig gebruikelijk om temperatuursensoren (loggers) te installeren die gegevens over temperatuur en vochtigheid verzamelen om koelunits te regelen. Een EU-bedrijf dat deuropeningssensoren gebruikt, maakt het mogelijk om de oorzaak van temperatuurschendingen te bepalen en diefstal te voorkomen. Veranderingen in sensorwaarden en gebeurtenislocaties worden weergegeven in rapporten, terwijl waarschuwingen direct worden verzonden. Sensorwaarden worden opgeslagen in het loggergeheugen en weergegeven op speciale displays. Om de gegevens beschikbaar te maken in een volgsysteem, moet de geheugenmodule worden aangesloten op een computer. Opgemerkt moet worden dat niet alle systemen de analyse van grote hoeveelheden gegevens aankunnen, aangezien om de relatie tussen deuropening en temperatuurvariaties te definiëren, alle parameters in één tijdsperiode moeten worden weergegeven. Het grootste nadeel van deze aanpak is de complexiteit van de installatie (installatie van lange kabels door de trailer en truck). Bovendien registreert elke sensor slechts één parameter op één punt. Om een ​​compleet beeld te krijgen, zijn een groot aantal sensoren nodig, wat het installatieproces zowel tijdrovend als duur maakt. Om deze nadelen te vermijden, zijn draadloze sensoren geïmplementeerd, waardoor temperatuurbewaking toegankelijker wordt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Det er nå vanlig praksis å installere temperatursensorer (loggere) som samler inn data om temperatur og fuktighet for å kontrollere kjøleenheter. EU-basert selskap bruker døråpningssensorer som gjør det mulig å bestemme årsaken til brudd på temperaturforholdene og forhindre tyveri. Endringer i sensorverdier og hendelsessteder vises i rapporter, mens varsler sendes umiddelbart. Sensorverdier lagres i loggerminnet og gjenspeiles på spesielle skjermer. For å gjøre data tilgjengelig i et sporingssystem, må minnemodulen være koblet til en datamaskin. Det skal bemerkes at ikke alle systemer kan håndtere analyse av store mengder data, siden alle parametere må vises i en enkelt tidsperiode for å definere forholdet mellom døråpning og temperaturvariasjoner. Den største ulempen med denne tilnærmingen er kompleksiteten i installasjonen (installasjon av lange kabler gjennom hele tilhengeren og lastebilen). I tillegg registrerer hver sensor bare én parameter om gangen. For å bygge et komplett bilde kreves et stort antall sensorer, noe som gjør installasjonsprosessen både tidkrevende og dyr. For å unngå ulempene er det implementert trådløse sensorer, noe som gjør temperaturovervåking mer tilgjengelig.",
+          "bodyHtml": "<p>Det er nå vanlig praksis å installere temperatursensorer (loggere) som samler inn data om temperatur og fuktighet for å kontrollere kjøleenheter. EU-basert selskap bruker døråpningssensorer som gjør det mulig å bestemme årsaken til brudd på temperaturforholdene og forhindre tyveri. Endringer i sensorverdier og hendelsessteder vises i rapporter, mens varsler sendes umiddelbart. Sensorverdier lagres i loggerminnet og gjenspeiles på spesielle skjermer. For å gjøre data tilgjengelig i et sporingssystem, må minnemodulen være koblet til en datamaskin. Det skal bemerkes at ikke alle systemer kan håndtere analyse av store mengder data, siden alle parametere må vises i en enkelt tidsperiode for å definere forholdet mellom døråpning og temperaturvariasjoner. Den største ulempen med denne tilnærmingen er kompleksiteten i installasjonen (installasjon av lange kabler gjennom hele tilhengeren og lastebilen). I tillegg registrerer hver sensor bare én parameter om gangen. For å bygge et komplett bilde kreves et stort antall sensorer, noe som gjør installasjonsprosessen både tidkrevende og dyr. For å unngå ulempene er det implementert trådløse sensorer, noe som gjør temperaturovervåking mer tilgjengelig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Det är numera vanligt att installera temperatursensorer (loggrar) som samlar in data om temperatur och fuktighet för att styra kylaggregat. EU-baserat företag använder dörröppningssensorer som gör det möjligt att fastställa orsaken till temperaturöverträdelser och förhindra stöld. Förändringar i sensorvärden och händelseplatser visas i rapporter, medan varningar skickas omedelbart. Sensorvärden lagras i loggminnet och visas på speciella skärmar. För att göra data tillgängliga i ett spårningssystem måste minnesmodulen vara ansluten till en dator. Det bör noteras att inte alla system kan hantera analys av stora mängder data, eftersom alla parametrar måste visas under en enda tidsperiod för att definiera sambandet mellan dörröppning och temperaturvariationer. Den största nackdelen med metoden är installationens komplexitet (installation av långa kablar i hela släpvagnen och lastbilen). Dessutom registrerar varje sensor bara en parameter åt gången. För att skapa en komplett bild krävs ett stort antal sensorer, vilket gör installationsprocessen både tidskrävande och dyr. För att undvika nackdelarna har trådlösa sensorer implementerats, vilket gör temperaturövervakning mer tillgänglig.",
+          "bodyHtml": "<p>Det är numera vanligt att installera temperatursensorer (loggrar) som samlar in data om temperatur och fuktighet för att styra kylaggregat. EU-baserat företag använder dörröppningssensorer som gör det möjligt att fastställa orsaken till temperaturöverträdelser och förhindra stöld. Förändringar i sensorvärden och händelseplatser visas i rapporter, medan varningar skickas omedelbart. Sensorvärden lagras i loggminnet och visas på speciella skärmar. För att göra data tillgängliga i ett spårningssystem måste minnesmodulen vara ansluten till en dator. Det bör noteras att inte alla system kan hantera analys av stora mängder data, eftersom alla parametrar måste visas under en enda tidsperiod för att definiera sambandet mellan dörröppning och temperaturvariationer. Den största nackdelen med metoden är installationens komplexitet (installation av långa kablar i hela släpvagnen och lastbilen). Dessutom registrerar varje sensor bara en parameter åt gången. För att skapa en komplett bild krävs ett stort antal sensorer, vilket gör installationsprocessen både tidskrävande och dyr. För att undvika nackdelarna har trådlösa sensorer implementerats, vilket gör temperaturövervakning mer tillgänglig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Soğutma ünitelerini kontrol etmek için sıcaklık ve nem verilerini toplayan sıcaklık sensörlerinin (kaydedicilerin) kurulması artık yaygın bir uygulamadır. Sıcaklık ihlallerinin nedenini belirlemeyi ve hırsızlığı önlemeyi mümkün kılan kapı açma sensörlerini kullanan AB merkezli şirket. Sensör değerlerinde ve olay konumlarında yapılan değişiklikler raporlarda görüntülenirken, uyarılar anında gönderilir. Sensör değerleri logger hafızasında saklanır ve özel ekranlara yansıtılır. Verilerin bir izleme sisteminde kullanılabilir hale getirilmesi için bellek modülünün bir bilgisayara bağlanması gerekir. Kapı açılması ile sıcaklık değişimleri arasındaki ilişkiyi tanımlamak için tüm parametrelerin tek bir zaman diliminde görüntülenmesi gerektiğinden, tüm sistemlerin büyük miktarda verinin analizini gerçekleştiremeyeceği unutulmamalıdır. Yaklaşımın ana dezavantajı kurulumun karmaşıklığıdır (römork ve kamyon boyunca uzun kabloların döşenmesi). Ayrıca her sensör bir noktada yalnızca bir parametreyi kaydeder. Tam bir resim oluşturmak için çok sayıda sensör gereklidir, bu da kurulum sürecini hem zaman alıcı hem de pahalı hale getirir. Dezavantajları önlemek için, sıcaklık izlemeyi daha erişilebilir hale getiren kablosuz sensörler uygulandı.",
+          "bodyHtml": "<p>Soğutma ünitelerini kontrol etmek için sıcaklık ve nem verilerini toplayan sıcaklık sensörlerinin (kaydedicilerin) kurulması artık yaygın bir uygulamadır. Sıcaklık ihlallerinin nedenini belirlemeyi ve hırsızlığı önlemeyi mümkün kılan kapı açma sensörlerini kullanan AB merkezli şirket. Sensör değerlerinde ve olay konumlarında yapılan değişiklikler raporlarda görüntülenirken, uyarılar anında gönderilir. Sensör değerleri logger hafızasında saklanır ve özel ekranlara yansıtılır. Verilerin bir izleme sisteminde kullanılabilir hale getirilmesi için bellek modülünün bir bilgisayara bağlanması gerekir. Kapı açılması ile sıcaklık değişimleri arasındaki ilişkiyi tanımlamak için tüm parametrelerin tek bir zaman diliminde görüntülenmesi gerektiğinden, tüm sistemlerin büyük miktarda verinin analizini gerçekleştiremeyeceği unutulmamalıdır. Yaklaşımın ana dezavantajı kurulumun karmaşıklığıdır (römork ve kamyon boyunca uzun kabloların döşenmesi). Ayrıca her sensör bir noktada yalnızca bir parametreyi kaydeder. Tam bir resim oluşturmak için çok sayıda sensör gereklidir, bu da kurulum sürecini hem zaman alıcı hem de pahalı hale getirir. Dezavantajları önlemek için, sıcaklık izlemeyi daha erişilebilir hale getiren kablosuz sensörler uygulandı.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "ctaButton",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MERE OM KØLESKAB",
+              "href": "/registration-of-truck-door-opening-da/"
+            }
+          ],
+          "ctaLabel": "SE MERE OM KØLESKAB",
+          "ctaUrl": "/registration-of-truck-door-opening-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SEE MORE ABOUT REFRIGERATED",
+              "href": "/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "SEE MORE ABOUT REFRIGERATED",
+          "ctaUrl": "/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "MEHR ÜBER GEKÜHLTE LEBENSMITTEL ERFAHREN",
+              "href": "/de/registration-of-truck-door-opening-de/"
+            }
+          ],
+          "ctaLabel": "MEHR ÜBER GEKÜHLTE LEBENSMITTEL ERFAHREN",
+          "ctaUrl": "/de/registration-of-truck-door-opening-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "EN SAVOIR PLUS SUR LES PRODUITS RÉFRIGÉRÉS",
+              "href": "/fr/registration-of-truck-door-opening-fr/"
+            }
+          ],
+          "ctaLabel": "EN SAVOIR PLUS SUR LES PRODUITS RÉFRIGÉRÉS",
+          "ctaUrl": "/fr/registration-of-truck-door-opening-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "MEER WETEN OVER GEKOELDE",
+              "href": "/nl/registration-of-truck-door-opening-hl/"
+            }
+          ],
+          "ctaLabel": "MEER WETEN OVER GEKOELDE",
+          "ctaUrl": "/nl/registration-of-truck-door-opening-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MER OM KJØLESKAP",
+              "href": "/nb/registration-of-truck-door-opening-no/"
+            }
+          ],
+          "ctaLabel": "SE MER OM KJØLESKAP",
+          "ctaUrl": "/nb/registration-of-truck-door-opening-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MER OM KYLFÖRSVARADE",
+              "href": "/sv/registration-of-truck-door-opening-sv/"
+            }
+          ],
+          "ctaLabel": "SE MER OM KYLFÖRSVARADE",
+          "ctaUrl": "/sv/registration-of-truck-door-opening-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SOĞUTULMUŞ ÜRÜNLER HAKKINDA DAHA FAZLA BİLGİ EDİNİN",
+              "href": "/tr/registration-of-truck-door-opening-tur/"
+            }
+          ],
+          "ctaLabel": "SOĞUTULMUŞ ÜRÜNLER HAKKINDA DAHA FAZLA BİLGİ EDİNİN",
+          "ctaUrl": "/tr/registration-of-truck-door-opening-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "heading",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Køleenhedsoptagere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Cooling unit recorders",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kühlaggregat-Schreiber",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Enregistreurs d'unités de refroidissement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Koelunitrecorders",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kjøleenhetsopptakere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kylaggregatsmottagare",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Soğutma ünitesi alıcıları",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "richText",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Nogle kølelastbiler suppleres med optagere (retranslatorer). Enhederne indsamler data om køleenheder fra temperatur- og døråbningssensorer og bruger køretøjets styreenheder til at overføre data til et sporingssystem for at registrere og forudsige kritiske variationer. Optagere kan enten forudinstalleres eller købes senere, hvor Euroscan, DataCold og i-Box er de mest veletablerede. Wialon-systemet giver en koordinator omfattende information om miljøændringer under hele turen.Udetemperatur;Specificeret lasttemperatur (faktisk vs. påkrævet);Driftstilstand (kontinuerlig, automatisk, afrimning);Motortimer og motortimer; Diagnostiske data.Jaxicloud Fleet Management præsenterede for nylig en effektiv kombination af Carrier-køleenheder og DataCold-optagere. Således får brugerne følgende data: temperatur (tabeller og diagrammer for enhver tidsperiode, online/SMS/e-mail-notifikationer, enhedsværktøjstips);",
+          "bodyHtml": "<p>Nogle kølelastbiler suppleres med optagere (retranslatorer). Enhederne indsamler data om køleenheder fra temperatur- og døråbningssensorer og bruger køretøjets styreenheder til at overføre data til et sporingssystem for at registrere og forudsige kritiske variationer. Optagere kan enten forudinstalleres eller købes senere, hvor Euroscan, DataCold og i-Box er de mest veletablerede. Wialon-systemet giver en koordinator omfattende information om miljøændringer under hele turen.</p><p>Udetemperatur;</p><p>Specificeret lasttemperatur (faktisk vs. påkrævet);</p><p>Driftstilstand (kontinuerlig, automatisk, afrimning);</p><p>Motortimer og motortimer; Diagnostiske data.</p><p>Jaxicloud Fleet Management præsenterede for nylig en effektiv kombination af Carrier-køleenheder og DataCold-optagere. Således får brugerne følgende data: temperatur (tabeller og diagrammer for enhver tidsperiode, online/SMS/e-mail-notifikationer, enhedsværktøjstips);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Some refrigerated trucks are supplemented with recorders (retranslators). The devices collect data on refrigeration units from temperature and door opening sensors and use vehicle controllers to transmit data to a tracking system to detect and predict critical variations. Recorders can either be pre-installed or purchased later, with Euroscan, DataCold and i-Box being the most well established. The Wialon system provides a coordinator with comprehensive information on environmental changes throughout the trip.Outside temperature;Specified load temperature (actual vs. required);Operating mode (continuous, automatic, defrost);Engine hours and engine hours; Diagnostic data.Recently, Jaxicloud Fleet Management presented an effective combination of Carrier refrigeration units and DataCold recorders. Thus, users acquire the following data: temperature (tables and charts for any time period, online/SMS/email notifications, device tooltips);",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Some refrigerated trucks are supplemented with recorders (retranslators). The devices collect data on refrigeration units from temperature and door opening sensors and use vehicle controllers to transmit data to a tracking system to detect and predict critical variations. Recorders can either be pre-installed or purchased later, with Euroscan, DataCold and i-Box being the most well established. The Wialon system provides a coordinator with comprehensive information on environmental changes throughout the trip.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Outside temperature;</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Specified load temperature (actual vs. required);</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Operating mode (continuous, automatic, defrost);</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Engine hours and engine hours; Diagnostic data.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Recently, Jaxicloud Fleet Management presented an effective combination of Carrier refrigeration units and DataCold recorders. Thus, users acquire the following data: temperature (tables and charts for any time period, online/SMS/email notifications, device tooltips);</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Einige Kühlfahrzeuge sind mit Datenloggern (Retranslatoren) ausgestattet. Diese Geräte erfassen Daten der Kühlaggregate mithilfe von Temperatur- und Türöffnungssensoren und übertragen diese über Fahrzeugsteuergeräte an ein Ortungssystem, um kritische Abweichungen zu erkennen und vorherzusagen. Die Datenlogger können entweder vorinstalliert oder nachträglich erworben werden. Euroscan, DataCold und i-Box gehören zu den etabliertesten Anbietern. Das Wialon-System liefert dem Koordinator umfassende Informationen zu den Umgebungsbedingungen während der gesamten Fahrt.Außentemperatur;Sollte die Ladungstemperatur (Ist- vs. Sollwert);Betriebsart (Dauerbetrieb, Automatikbetrieb, Abtauen);Motorbetriebsstunden; Diagnosedaten.Jaxicloud Fleet Management präsentierte kürzlich eine effektive Kombination aus Carrier-Kühlaggregaten und DataCold-Datenloggern. Dadurch erhalten die Nutzer folgende Daten: Temperatur (Tabellen und Diagramme für beliebige Zeiträume, Online-/SMS-/E-Mail-Benachrichtigungen, Geräte-Tooltips).",
+          "bodyHtml": "<p>Einige Kühlfahrzeuge sind mit Datenloggern (Retranslatoren) ausgestattet. Diese Geräte erfassen Daten der Kühlaggregate mithilfe von Temperatur- und Türöffnungssensoren und übertragen diese über Fahrzeugsteuergeräte an ein Ortungssystem, um kritische Abweichungen zu erkennen und vorherzusagen. Die Datenlogger können entweder vorinstalliert oder nachträglich erworben werden. Euroscan, DataCold und i-Box gehören zu den etabliertesten Anbietern. Das Wialon-System liefert dem Koordinator umfassende Informationen zu den Umgebungsbedingungen während der gesamten Fahrt.</p><p>Außentemperatur;</p><p>Sollte die Ladungstemperatur (Ist- vs. Sollwert);</p><p>Betriebsart (Dauerbetrieb, Automatikbetrieb, Abtauen);</p><p>Motorbetriebsstunden; Diagnosedaten.</p><p>Jaxicloud Fleet Management präsentierte kürzlich eine effektive Kombination aus Carrier-Kühlaggregaten und DataCold-Datenloggern. Dadurch erhalten die Nutzer folgende Daten: Temperatur (Tabellen und Diagramme für beliebige Zeiträume, Online-/SMS-/E-Mail-Benachrichtigungen, Geräte-Tooltips).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Certains camions frigorifiques sont équipés d’enregistreurs (retransmetteurs). Ces dispositifs collectent des données sur les groupes frigorifiques grâce à des capteurs de température et d’ouverture de porte, et utilisent les contrôleurs du véhicule pour transmettre ces données à un système de suivi permettant de détecter et d’anticiper les variations critiques. Les enregistreurs peuvent être préinstallés ou achetés ultérieurement ; Euroscan, DataCold et i-Box sont parmi les plus répandus. Le système Wialon fournit au coordinateur des informations complètes sur les variations environnementales tout au long du trajet.Température extérieure ;Température de la charge spécifiée (réelle vs. requise) ;Mode de fonctionnement (continu, automatique, dégivrage) ;Heures moteur ; Données de diagnostic.Récemment, Jaxicloud Fleet Management a présenté une solution combinant efficacement les groupes frigorifiques Carrier et les enregistreurs DataCold. Les utilisateurs obtiennent ainsi les données suivantes : température (tableaux et graphiques pour toute période, notifications en ligne/SMS/e-mail, infobulles sur l’appareil) ;",
+          "bodyHtml": "<p>Certains camions frigorifiques sont équipés d’enregistreurs (retransmetteurs). Ces dispositifs collectent des données sur les groupes frigorifiques grâce à des capteurs de température et d’ouverture de porte, et utilisent les contrôleurs du véhicule pour transmettre ces données à un système de suivi permettant de détecter et d’anticiper les variations critiques. Les enregistreurs peuvent être préinstallés ou achetés ultérieurement ; Euroscan, DataCold et i-Box sont parmi les plus répandus. Le système Wialon fournit au coordinateur des informations complètes sur les variations environnementales tout au long du trajet.</p><p>Température extérieure ;</p><p>Température de la charge spécifiée (réelle vs. requise) ;</p><p>Mode de fonctionnement (continu, automatique, dégivrage) ;</p><p>Heures moteur ; Données de diagnostic.</p><p>Récemment, Jaxicloud Fleet Management a présenté une solution combinant efficacement les groupes frigorifiques Carrier et les enregistreurs DataCold. Les utilisateurs obtiennent ainsi les données suivantes : température (tableaux et graphiques pour toute période, notifications en ligne/SMS/e-mail, infobulles sur l’appareil) ;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Sommige koelwagens zijn uitgerust met recorders (retranslators). Deze apparaten verzamelen gegevens over koelunits via temperatuur- en deuropeningssensoren en gebruiken voertuigcontrollers om gegevens door te sturen naar een volgsysteem om kritische schommelingen te detecteren en te voorspellen. Recorders kunnen vooraf worden geïnstalleerd of later worden aangeschaft; Euroscan, DataCold en i-Box zijn de bekendste. Het Wialon-systeem voorziet een coördinator van uitgebreide informatie over veranderingen in de omgeving gedurende de rit.Outside temperature;Specified load temperature (actual vs. required);Operating mode (continuous, automatic, defrost);Engine hours and engine hours; Diagnostic data.Recently, Jaxicloud Fleet Management presented an effective combination of Carrier refrigeration units and DataCold recorders. Thus, users acquire the following data: temperature (tables and charts for any time period, online/SMS/email notifications, device tooltips);",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sommige koelwagens zijn uitgerust met recorders (retranslators). Deze apparaten verzamelen gegevens over koelunits via temperatuur- en deuropeningssensoren en gebruiken voertuigcontrollers om gegevens door te sturen naar een volgsysteem om kritische schommelingen te detecteren en te voorspellen. Recorders kunnen vooraf worden geïnstalleerd of later worden aangeschaft; Euroscan, DataCold en i-Box zijn de bekendste. Het Wialon-systeem voorziet een coördinator van uitgebreide informatie over veranderingen in de omgeving gedurende de rit.</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Outside temperature;</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Specified load temperature (actual vs. required);</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Operating mode (continuous, automatic, defrost);</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Engine hours and engine hours; Diagnostic data.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Recently, Jaxicloud Fleet Management presented an effective combination of Carrier refrigeration units and DataCold recorders. Thus, users acquire the following data: temperature (tables and charts for any time period, online/SMS/email notifications, device tooltips);</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Noen kjølebiler er supplert med opptakere (omoversettere). Enhetene samler inn data om kjøleenheter fra temperatur- og døråpningssensorer og bruker kjøretøykontrollere til å overføre data til et sporingssystem for å oppdage og forutsi kritiske variasjoner. Opptakere kan enten forhåndsinstalleres eller kjøpes senere, med Euroscan, DataCold og i-Box som de mest veletablerte. Wialon-systemet gir en koordinator omfattende informasjon om miljøendringer gjennom hele turen.Utetemperatur;Spesifisert lastetemperatur (faktisk vs. nødvendig);Driftsmodus (kontinuerlig, automatisk, avriming);Motortimer og motortimer; Diagnostiske data.Nylig presenterte Jaxicloud Fleet Management en effektiv kombinasjon av Carrier-kjøleenheter og DataCold-opptakere. Dermed får brukerne følgende data: temperatur (tabeller og diagrammer for enhver tidsperiode, online/SMS/e-postvarsler, verktøytips for enheter);",
+          "bodyHtml": "<p>Noen kjølebiler er supplert med opptakere (omoversettere). Enhetene samler inn data om kjøleenheter fra temperatur- og døråpningssensorer og bruker kjøretøykontrollere til å overføre data til et sporingssystem for å oppdage og forutsi kritiske variasjoner. Opptakere kan enten forhåndsinstalleres eller kjøpes senere, med Euroscan, DataCold og i-Box som de mest veletablerte. Wialon-systemet gir en koordinator omfattende informasjon om miljøendringer gjennom hele turen.</p><p>Utetemperatur;</p><p>Spesifisert lastetemperatur (faktisk vs. nødvendig);</p><p>Driftsmodus (kontinuerlig, automatisk, avriming);</p><p>Motortimer og motortimer; Diagnostiske data.</p><p>Nylig presenterte Jaxicloud Fleet Management en effektiv kombinasjon av Carrier-kjøleenheter og DataCold-opptakere. Dermed får brukerne følgende data: temperatur (tabeller og diagrammer for enhver tidsperiode, online/SMS/e-postvarsler, verktøytips for enheter);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Vissa kylbilar kompletteras med brännare (omöversättare). Enheterna samlar in kylenhetsdata från temperatur- och dörröppningssensorer och använder fordonskontroller för att överföra data till ett spårningssystem för att upptäcka och förutsäga kritiska variationer. Inspelare kan antingen förinstalleras eller köpas senare, med Euroscan, DataCold och i-Box som de mest väletablerade. Wialon-systemet ger en koordinator omfattande information om miljöförändringar under hela resan.Utetemperatur;Angiven belastningstemperatur (faktisk kontra krävs);Driftsätt (kontinuerlig, automatisk, avfrostning);Motortimmar och motortimmar; Diagnostiska data. Nyligen presenterade Jaxicloud Fleet Management en effektiv kombination av Carrier-kylningsenheter och DataCold-inspelare. Således får användarna följande data: temperatur (tabeller och diagram för vilken tidsperiod som helst, online/SMS/e-postmeddelanden, enhetsverktygstips);",
+          "bodyHtml": "<p>Vissa kylbilar kompletteras med brännare (omöversättare). Enheterna samlar in kylenhetsdata från temperatur- och dörröppningssensorer och använder fordonskontroller för att överföra data till ett spårningssystem för att upptäcka och förutsäga kritiska variationer. Inspelare kan antingen förinstalleras eller köpas senare, med Euroscan, DataCold och i-Box som de mest väletablerade. Wialon-systemet ger en koordinator omfattande information om miljöförändringar under hela resan.</p><p>Utetemperatur;</p><p>Angiven belastningstemperatur (faktisk kontra krävs);</p><p>Driftsätt (kontinuerlig, automatisk, avfrostning);</p><p>Motortimmar och motortimmar; Diagnostiska data.</p><p>&nbsp;</p><p>Nyligen presenterade Jaxicloud Fleet Management en effektiv kombination av Carrier-kylningsenheter och DataCold-inspelare. Således får användarna följande data: temperatur (tabeller och diagram för vilken tidsperiod som helst, online/SMS/e-postmeddelanden, enhetsverktygstips);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bazı soğutmalı kamyonetlere kayıt cihazları (yeniden çevirmenler) eklenmiştir. Cihazlar, sıcaklık ve kapı açma sensörlerinden soğutma ünitesi verilerini topluyor ve kritik değişiklikleri tespit etmek ve tahmin etmek amacıyla verileri bir izleme sistemine iletmek için otomotiv kontrol cihazlarını kullanıyor. Kayıt cihazları önceden kurulabilir veya daha sonra satın alınabilir; Euroscan, DataCold ve i-Box en köklü olanlardır. Wialon sistemi, bir koordinatöre yolculuk boyunca çevresel değişiklikler hakkında kapsamlı bilgi sağlar.Dış sıcaklık;Belirtilen yük sıcaklığı (gerçek ve gerekli);Çalışma modu (sürekli, otomatik, buz çözme);Motor saatleri ve motor saatleri;Yakın zamanda Jaxicloud Filo Yönetimi, Carrier soğutma üniteleri ve DataCold kayıt cihazlarının verimli bir kombinasyonunu sundu. Böylece kullanıcılar şu verileri elde eder: sıcaklık (herhangi bir zaman dilimine ait tablolar ve grafikler, çevrimiçi/SMS/e-posta mesajları, cihaz ipuçları);",
+          "bodyHtml": "<p>Bazı soğutmalı kamyonetlere kayıt cihazları (yeniden çevirmenler) eklenmiştir. Cihazlar, sıcaklık ve kapı açma sensörlerinden soğutma ünitesi verilerini topluyor ve kritik değişiklikleri tespit etmek ve tahmin etmek amacıyla verileri bir izleme sistemine iletmek için otomotiv kontrol cihazlarını kullanıyor. Kayıt cihazları önceden kurulabilir veya daha sonra satın alınabilir; Euroscan, DataCold ve i-Box en köklü olanlardır. Wialon sistemi, bir koordinatöre yolculuk boyunca çevresel değişiklikler hakkında kapsamlı bilgi sağlar.</p><p>Dış sıcaklık;</p><p>Belirtilen yük sıcaklığı (gerçek ve gerekli);</p><p>Çalışma modu (sürekli, otomatik, buz çözme);</p><p>Motor saatleri ve motor saatleri;</p><p>Yakın zamanda Jaxicloud Filo Yönetimi, Carrier soğutma üniteleri ve DataCold kayıt cihazlarının verimli bir kombinasyonunu sundu. Böylece kullanıcılar şu verileri elde eder: sıcaklık (herhangi bir zaman dilimine ait tablolar ve grafikler, çevrimiçi/SMS/e-posta mesajları, cihaz ipuçları);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "image",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0f31a90d570b4a38892d3b097095db7emv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0f31a90d570b4a38892d3b097095db7emv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 720,
+          "height": 293
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "image",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_fe3809fc491e41b3a37a2e6a615e8b67mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_fe3809fc491e41b3a37a2e6a615e8b67mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 791,
+          "height": 172
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "image",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f65454bbd59f4ae3b248335e90ea827bmv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f65454bbd59f4ae3b248335e90ea827bmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 720,
+          "height": 251
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "richText",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Løsningens største fordel er fuldstændigheden af ​​de indsamlede data, da visse data ikke kan indsamles udelukkende med separate sensorer. For det andet kræver det ikke tidskrævende installation af sensorer. Løsningen er dog ret dyr, og ikke alle typer GPS-trackere understøttes. For eksempel læser JaxiCloud Fleet Management-enheder data fra i-Box, DataCold, Euroscan-optagere (til Thermo King, Carrier, Mitsubishi, Lumikko-køleskabe), mens Jaxicloud Fleet Management fungerer med i-Box og Euroscan (til ThermoKing, Optitemp og Carrier-køleskabe). Så det, der virkelig skal overvejes, er valget af udstyr.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Løsningens største fordel er fuldstændigheden af ​​de indsamlede data, da visse data ikke kan indsamles udelukkende med separate sensorer. For det andet kræver det ikke tidskrævende installation af sensorer. Løsningen er dog ret dyr, og ikke alle typer GPS-trackere understøttes. For eksempel læser JaxiCloud Fleet Management-enheder data fra i-Box, DataCold, Euroscan-optagere (til Thermo King, Carrier, Mitsubishi, Lumikko-køleskabe), mens Jaxicloud Fleet Management fungerer med i-Box og Euroscan (til ThermoKing, Optitemp og Carrier-køleskabe). Så det, der virkelig skal overvejes, er valget af udstyr.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The main advantage of the solution is the completeness of the data obtained, as certain data cannot be acquired only with separate sensors. Secondly, it does not require time-consuming installation of sensors. However, the solution is quite expensive, and not all types of GPS trackers are supported. For example, JaxiCloud Fleet Management devices read data from i-Box, DataCold, Euroscan recorders (for Thermo King, Carrier, Mitsubishi, Lumikko refrigerators), Jaxicloud Fleet Management works with i-Box and Euroscan (for ThermoKing, Optitemp and Carrier refrigerators). So what really needs to be considered is the choice of equipment.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">The main advantage of the solution is the completeness of the data obtained, as certain data cannot be acquired only with separate sensors. Secondly, it does not require time-consuming installation of sensors. However, the solution is quite expensive, and not all types of GPS trackers are supported. For example, JaxiCloud Fleet Management devices read data from i-Box, DataCold, Euroscan recorders (for Thermo King, Carrier, Mitsubishi, Lumikko refrigerators), Jaxicloud Fleet Management works with i-Box and Euroscan (for ThermoKing, Optitemp and Carrier refrigerators). So what really needs to be considered is the choice of equipment.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Der Hauptvorteil dieser Lösung liegt in der Vollständigkeit der erfassten Daten, da bestimmte Daten mit separaten Sensoren nicht erfasst werden können. Zudem entfällt die zeitaufwändige Installation von Sensoren. Allerdings ist die Lösung recht teuer und nicht alle GPS-Tracker-Typen werden unterstützt. Beispielsweise lesen JaxiCloud Fleet Management-Geräte Daten von i-Box-, DataCold- und Euroscan-Rekordern (für Kühlschränke von Thermo King, Carrier, Mitsubishi und Lumikko), während JaxiCloud Fleet Management mit i-Box und Euroscan (für Kühlschränke von Thermo King, Optitemp und Carrier) kompatibel ist. Daher ist die Wahl der passenden Geräte entscheidend.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Der Hauptvorteil dieser Lösung liegt in der Vollständigkeit der erfassten Daten, da bestimmte Daten mit separaten Sensoren nicht erfasst werden können. Zudem entfällt die zeitaufwändige Installation von Sensoren. Allerdings ist die Lösung recht teuer und nicht alle GPS-Tracker-Typen werden unterstützt. Beispielsweise lesen JaxiCloud Fleet Management-Geräte Daten von i-Box-, DataCold- und Euroscan-Rekordern (für Kühlschränke von Thermo King, Carrier, Mitsubishi und Lumikko), während JaxiCloud Fleet Management mit i-Box und Euroscan (für Kühlschränke von Thermo King, Optitemp und Carrier) kompatibel ist. Daher ist die Wahl der passenden Geräte entscheidend.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le principal avantage de cette solution réside dans l’exhaustivité des données obtenues, certaines ne pouvant être acquises qu’avec des capteurs distincts. De plus, elle ne nécessite pas l’installation fastidieuse de capteurs. Cependant, cette solution est relativement onéreuse et n’est pas compatible avec tous les types de traceurs GPS. Par exemple, les appareils JaxiCloud Fleet Management lisent les données des enregistreurs i-Box, DataCold et Euroscan (pour les réfrigérateurs Thermo King, Carrier, Mitsubishi et Lumikko). JaxiCloud Fleet Management est également compatible avec les systèmes i-Box et Euroscan (pour les réfrigérateurs Thermo King, Optitemp et Carrier). Le choix du matériel est donc un élément crucial à prendre en compte.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le principal avantage de cette solution réside dans l’exhaustivité des données obtenues, certaines ne pouvant être acquises qu’avec des capteurs distincts. De plus, elle ne nécessite pas l’installation fastidieuse de capteurs. Cependant, cette solution est relativement onéreuse et n’est pas compatible avec tous les types de traceurs GPS. Par exemple, les appareils JaxiCloud Fleet Management lisent les données des enregistreurs i-Box, DataCold et Euroscan (pour les réfrigérateurs Thermo King, Carrier, Mitsubishi et Lumikko). JaxiCloud Fleet Management est également compatible avec les systèmes i-Box et Euroscan (pour les réfrigérateurs Thermo King, Optitemp et Carrier). Le choix du matériel est donc un élément crucial à prendre en compte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het belangrijkste voordeel van de oplossing is de volledigheid van de verkregen gegevens, aangezien bepaalde gegevens niet alleen met afzonderlijke sensoren kunnen worden verzameld. Ten tweede is er geen tijdrovende installatie van sensoren nodig. De oplossing is echter vrij duur en niet alle typen gps-trackers worden ondersteund. Zo lezen JaxiCloud Fleet Management-apparaten gegevens uit van i-Box-, DataCold- en Euroscan-recorders (voor Thermo King-, Carrier-, Mitsubishi- en Lumikko-koelkasten). Jaxicloud Fleet Management werkt met i-Box en Euroscan (voor Thermo King-, Optitemp- en Carrier-koelkasten). Waar u dus echt rekening mee moet houden, is de keuze van de apparatuur.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Het belangrijkste voordeel van de oplossing is de volledigheid van de verkregen gegevens, aangezien bepaalde gegevens niet alleen met afzonderlijke sensoren kunnen worden verzameld. Ten tweede is er geen tijdrovende installatie van sensoren nodig. De oplossing is echter vrij duur en niet alle typen gps-trackers worden ondersteund. Zo lezen JaxiCloud Fleet Management-apparaten gegevens uit van i-Box-, DataCold- en Euroscan-recorders (voor Thermo King-, Carrier-, Mitsubishi- en Lumikko-koelkasten). Jaxicloud Fleet Management werkt met i-Box en Euroscan (voor Thermo King-, Optitemp- en Carrier-koelkasten). Waar u dus echt rekening mee moet houden, is de keuze van de apparatuur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hovedfordelen med løsningen er fullstendigheten av dataene som innhentes, ettersom visse data ikke kan innhentes kun med separate sensorer. For det andre krever det ikke tidkrevende installasjon av sensorer. Løsningen er imidlertid ganske dyr, og ikke alle typer GPS-trackere støttes. For eksempel leser JaxiCloud Fleet Management-enheter data fra i-Box, DataCold, Euroscan-opptakere (for Thermo King, Carrier, Mitsubishi, Lumikko-kjøleskap), Jaxicloud Fleet Management fungerer med i-Box og Euroscan (for ThermoKing, Optitemp og Carrier-kjøleskap). Så det som virkelig må vurderes er valg av utstyr.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Hovedfordelen med løsningen er fullstendigheten av dataene som innhentes, ettersom visse data ikke kan innhentes kun med separate sensorer. For det andre krever det ikke tidkrevende installasjon av sensorer. Løsningen er imidlertid ganske dyr, og ikke alle typer GPS-trackere støttes. For eksempel leser JaxiCloud Fleet Management-enheter data fra i-Box, DataCold, Euroscan-opptakere (for Thermo King, Carrier, Mitsubishi, Lumikko-kjøleskap), Jaxicloud Fleet Management fungerer med i-Box og Euroscan (for ThermoKing, Optitemp og Carrier-kjøleskap). Så det som virkelig må vurderes er valg av utstyr.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Lösningens största fördel är fullständigheten i de erhållna uppgifterna, eftersom vissa data inte kan samlas in endast med separata sensorer. För det andra kräver den inte tidskrävande installation av sensorer. Lösningen är dock ganska dyr, och inte alla typer av GPS-spårare stöds. Till exempel läser JaxiCloud Fleet Management-enheter data från i-Box, DataCold, Euroscan-inspelare (för Thermo King, Carrier, Mitsubishi, Lumikko-kylskåp), Jaxicloud Fleet Management fungerar med i-Box och Euroscan (för ThermoKing, Optitemp och Carrier-kylskåp). Så det som verkligen behöver beaktas är valet av utrustning.",
+          "bodyHtml": "<p>Lösningens största fördel är fullständigheten i de erhållna uppgifterna, eftersom vissa data inte kan samlas in endast med separata sensorer. För det andra kräver den inte tidskrävande installation av sensorer. Lösningen är dock ganska dyr, och inte alla typer av GPS-spårare stöds. Till exempel läser JaxiCloud Fleet Management-enheter data från i-Box, DataCold, Euroscan-inspelare (för Thermo King, Carrier, Mitsubishi, Lumikko-kylskåp), Jaxicloud Fleet Management fungerar med i-Box och Euroscan (för ThermoKing, Optitemp och Carrier-kylskåp). Så det som verkligen behöver beaktas är valet av utrustning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Çözümün temel avantajı, belirli verilerin yalnızca ayrı sensörlerle elde edilememesi nedeniyle elde edilen verilerin eksiksiz olmasıdır . İkincisi, zaman alıcı sensör kurulumu gerektirmez. Ancak çözüm oldukça pahalıdır ve tüm GPS izleyici türleri desteklenmez. Örneğin, JaxiCloud Filo Yönetimi cihazları, i-Box, DataCold, Euroscan kayıt cihazlarından (Thermo King, Carrier, Mitsubishi, Lumikko buzdolapları için) verileri okur; Jaxicloud Filo Yönetimi, i-Box ve Euroscan ile çalışır (ThermoKing, Optitemp ve Carrier buzdolapları için) ). Yani asıl dikkat edilmesi gereken şey ekipman seçimidir.",
+          "bodyHtml": "<p>Çözümün temel avantajı, belirli verilerin yalnızca ayrı sensörlerle elde edilememesi nedeniyle elde edilen verilerin eksiksiz olmasıdır . İkincisi, zaman alıcı sensör kurulumu gerektirmez. Ancak çözüm oldukça pahalıdır ve tüm GPS izleyici türleri desteklenmez. Örneğin, JaxiCloud Filo Yönetimi cihazları, i-Box, DataCold, Euroscan kayıt cihazlarından (Thermo King, Carrier, Mitsubishi, Lumikko buzdolapları için) verileri okur; Jaxicloud Filo Yönetimi, i-Box ve Euroscan ile çalışır (ThermoKing, Optitemp ve Carrier buzdolapları için) ). Yani asıl dikkat edilmesi gereken şey ekipman seçimidir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "iQFreeze-løsning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "iQFreeze solution",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "iQFreeze-Lösung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution iQFreeze",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "iQFreeze-løsning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "iQFreeze-lösning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "iQFreeze çözümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "richText",
+      "order": 14,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Quarta Technologies har for nylig udgivet iQFreeze som en innovativ løsning til styring af køleenheder, der inkluderer indbyggede iQFreeze-adapteroptagere som en kernekomponent. Brugen af ​​denne komponent gør det muligt at overføre data direkte til systemet fra køleenhedens styreenhed uden CAN og RS-232. iQFreeze-løsningen er integreret med Jaxicloud Fleet Management-systemet, som giver afsenderen mulighed for at analysere information om lastens tilstand i realtid:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Quarta Technologies har for nylig udgivet iQFreeze som en innovativ løsning til styring af køleenheder, der inkluderer indbyggede iQFreeze-adapteroptagere som en kernekomponent. Brugen af ​​denne komponent gør det muligt at overføre data direkte til systemet fra køleenhedens styreenhed uden CAN og RS-232. iQFreeze-løsningen er integreret med Jaxicloud Fleet Management-systemet, som giver afsenderen mulighed for at analysere information om lastens tilstand i realtid:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Recently, Quarta Technologies released iQFreeze as an innovative solution for controlling refrigeration units, which includes iQFreeze built-in adapter recorders as a core component. The use of this component allows data to be transferred to the system directly from the refrigeration unit controller, without CAN and RS-232. The iQFreeze solution is integrated with the Jaxicloud Fleet Management system, which allows the shipper to analyze information about the condition of the cargo in real time:Reports (actual vs. required temperature, location and door opening duration);",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Recently, Quarta Technologies released iQFreeze as an innovative solution for controlling refrigeration units, which includes iQFreeze built-in adapter recorders as a core component. The use of this component allows data to be transferred to the system directly from the refrigeration unit controller, without CAN and RS-232. The iQFreeze solution is integrated with the Jaxicloud Fleet Management system, which allows the shipper to analyze information about the condition of the cargo in real time:</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Reports (actual vs. required temperature, location and door opening duration);</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Quarta Technologies hat kürzlich iQFreeze als innovative Lösung zur Steuerung von Kühlaggregaten auf den Markt gebracht. Kernkomponente sind die integrierten Adapterrekorder von iQFreeze. Durch deren Einsatz können Daten direkt vom Steuergerät des Kühlaggregats an das System übertragen werden – ohne CAN- oder RS-232-Schnittstelle. Die iQFreeze-Lösung ist in das Flottenmanagementsystem Jaxicloud integriert, wodurch Verlader Informationen zum Zustand ihrer Ladung in Echtzeit analysieren können.Reports (actual vs. required temperature, location and door opening duration);",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Quarta Technologies hat kürzlich iQFreeze als innovative Lösung zur Steuerung von Kühlaggregaten auf den Markt gebracht. Kernkomponente sind die integrierten Adapterrekorder von iQFreeze. Durch deren Einsatz können Daten direkt vom Steuergerät des Kühlaggregats an das System übertragen werden – ohne CAN- oder RS-232-Schnittstelle. Die iQFreeze-Lösung ist in das Flottenmanagementsystem Jaxicloud integriert, wodurch Verlader Informationen zum Zustand ihrer Ladung in Echtzeit analysieren können.</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Reports (actual vs. required temperature, location and door opening duration);</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Quarta Technologies a récemment lancé iQFreeze, une solution innovante de contrôle des groupes frigorifiques. iQFreeze intègre des enregistreurs adaptateurs comme composant essentiel. Grâce à ce composant, les données sont transférées directement du contrôleur du groupe frigorifique vers le système, sans passer par les protocoles CAN et RS-232. La solution iQFreeze est intégrée au système de gestion de flotte Jaxicloud, permettant ainsi à l’expéditeur d’analyser en temps réel l’état de sa cargaison :Rapports (température réelle vs température requise, localisation et durée d’ouverture des portes) ;",
+          "bodyHtml": "<p>Quarta Technologies a récemment lancé iQFreeze, une solution innovante de contrôle des groupes frigorifiques. iQFreeze intègre des enregistreurs adaptateurs comme composant essentiel. Grâce à ce composant, les données sont transférées directement du contrôleur du groupe frigorifique vers le système, sans passer par les protocoles CAN et RS-232. La solution iQFreeze est intégrée au système de gestion de flotte Jaxicloud, permettant ainsi à l’expéditeur d’analyser en temps réel l’état de sa cargaison :</p><p>Rapports (température réelle vs température requise, localisation et durée d’ouverture des portes) ;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Quarta Technologies lanserte nylig iQFreeze som en innovativ løsning for styring av kjøleenheter, som inkluderer innebygde iQFreeze-adapteropptakere som en kjernekomponent. Bruken av denne komponenten gjør det mulig å overføre data til systemet direkte fra kjøleenhetens kontrollere, uten CAN og RS-232. iQFreeze-løsningen er integrert med Jaxicloud Fleet Management-systemet, som lar avsenderen analysere informasjon om lastens tilstand i sanntid:Rapporter (faktisk vs. nødvendig temperatur, plassering og døråpningsvarighet);",
+          "bodyHtml": "<p>Quarta Technologies lanserte nylig iQFreeze som en innovativ løsning for styring av kjøleenheter, som inkluderer innebygde iQFreeze-adapteropptakere som en kjernekomponent. Bruken av denne komponenten gjør det mulig å overføre data til systemet direkte fra kjøleenhetens kontrollere, uten CAN og RS-232. iQFreeze-løsningen er integrert med Jaxicloud Fleet Management-systemet, som lar avsenderen analysere informasjon om lastens tilstand i sanntid:</p><p>Rapporter (faktisk vs. nødvendig temperatur, plassering og døråpningsvarighet);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Nyligen släppte Quarta Technologies iQFreeze som en innovativ lösning för styrning av kylaggregat, vilken inkluderar iQFreeze inbyggda adapterinspelare som en kärnkomponent. Användningen av denna komponent gör det möjligt att överföra data till systemet direkt från kylaggregatets styrenhet, utan CAN och RS-232. iQFreeze-lösningen är integrerad med Jaxicloud Fleet Management-systemet, vilket gör det möjligt för avsändaren att analysera information om lastens tillstånd i realtid:Rapporter (faktisk kontra önskad temperatur, plats och dörröppningstid);",
+          "bodyHtml": "<p>Nyligen släppte Quarta Technologies iQFreeze som en innovativ lösning för styrning av kylaggregat, vilken inkluderar iQFreeze inbyggda adapterinspelare som en kärnkomponent. Användningen av denna komponent gör det möjligt att överföra data till systemet direkt från kylaggregatets styrenhet, utan CAN och RS-232. iQFreeze-lösningen är integrerad med Jaxicloud Fleet Management-systemet, vilket gör det möjligt för avsändaren att analysera information om lastens tillstånd i realtid:</p><p>Rapporter (faktisk kontra önskad temperatur, plats och dörröppningstid);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yakın zamanda Quarta Technologies, iQFreeze’i, temel bileşen olarak iQFreeze yerleşik adaptör kayıt cihazlarını içeren, soğutma ünitelerini yönetmek için yenilikçi bir çözüm olarak piyasaya sürdü. Bu bileşenin kullanılması, verilerin CAN ve RS-232 olmadan doğrudan soğutma ünitesi kontrolöründen sisteme aktarılmasını mümkün kılar. iQFreeze çözümü, Jaxicloud Filo Yönetim sistemi ile entegre olup göndericinin kargonun durumu hakkındaki bilgileri gerçek zamanlı olarak analiz etmesine olanak tanır:Raporlar (gerçek ve gerekli sıcaklık, konum ve kapı açık kalma süresi);",
+          "bodyHtml": "<p>Yakın zamanda Quarta Technologies, iQFreeze’i, temel bileşen olarak iQFreeze yerleşik adaptör kayıt cihazlarını içeren, soğutma ünitelerini yönetmek için yenilikçi bir çözüm olarak piyasaya sürdü. Bu bileşenin kullanılması, verilerin CAN ve RS-232 olmadan doğrudan soğutma ünitesi kontrolöründen sisteme aktarılmasını mümkün kılar. iQFreeze çözümü, Jaxicloud Filo Yönetim sistemi ile entegre olup göndericinin kargonun durumu hakkındaki bilgileri gerçek zamanlı olarak analiz etmesine olanak tanır:</p><p>Raporlar (gerçek ve gerekli sıcaklık, konum ve kapı açık kalma süresi);</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "image",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_52ffa1f4bbd7431d853a66951ab55c45mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_52ffa1f4bbd7431d853a66951ab55c45mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 785,
+          "height": 283
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "image",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_951704b6fcdf4bf383afe15038089541mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_951704b6fcdf4bf383afe15038089541mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 785,
+          "height": 348
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "image",
+      "order": 17,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_87c666d992a0456b9ac8bd764c20f8e4mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_87c666d992a0456b9ac8bd764c20f8e4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 720,
+          "height": 536
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "richText",
+      "order": 18,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Derudover advarer iQFreeze chauffører med lyd- og visuelle notifikationer via iQFreeze-mobilapplikationen. I øjeblikket bruges kombinationen af ​​iQFreeze og Jaxicloud Fleet Management til ThermoKing-, Carrier- og Zanotti-køleskabe og har vist sig at være billigere at installere og vedligeholde loggere/optagere, hvilket gør køletransport omkostningseffektiv. Med flere måder at kontrollere temperaturen på forventes Jaxicloud Fleet Management-systemet at give betydelige fordele for alle involverede parter i transporten. Kunderne er altid sikre på, at lasten leveres fuldt ud og til tiden. Transportører adresserer straks overtrædelser af transportbetingelser, uautoriseret nedlukning af køleenheden og minimerer sandsynligheden for, at lasten ødelægges. Endelig oplever købere aldrig afbrydelser i leverancer af produkter af høj kvalitet. Engelsk lokalisering er på vej, så vores partnere fra den internationale region kan meget snart drage fordel af løsningen! Hver tilgang har sine egne fordele og ulemper. I de fleste tilfælde bestemmes valget af specifikke formål. Nødvendigheden af ​​temperaturkontrol er bevist, og Jaxicloud Fleet Management gør det tilgængeligt.",
+          "bodyHtml": "<p>Derudover advarer iQFreeze chauffører med lyd- og visuelle notifikationer via iQFreeze-mobilapplikationen. I øjeblikket bruges kombinationen af ​​iQFreeze og Jaxicloud Fleet Management til ThermoKing-, Carrier- og Zanotti-køleskabe og har vist sig at være billigere at installere og vedligeholde loggere/optagere, hvilket gør køletransport omkostningseffektiv. Med flere måder at kontrollere temperaturen på forventes Jaxicloud Fleet Management-systemet at give betydelige fordele for alle involverede parter i transporten. Kunderne er altid sikre på, at lasten leveres fuldt ud og til tiden. Transportører adresserer straks overtrædelser af transportbetingelser, uautoriseret nedlukning af køleenheden og minimerer sandsynligheden for, at lasten ødelægges. Endelig oplever købere aldrig afbrydelser i leverancer af produkter af høj kvalitet. Engelsk lokalisering er på vej, så vores partnere fra den internationale region kan meget snart drage fordel af løsningen! Hver tilgang har sine egne fordele og ulemper. I de fleste tilfælde bestemmes valget af specifikke formål. Nødvendigheden af ​​temperaturkontrol er bevist, og Jaxicloud Fleet Management gør det tilgængeligt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "In addition, iQFreeze alerts drivers with audio and visual notifications via the iQFreeze mobile application. Currently, the combination of iQFreeze and Jaxicloud Fleet Management is used for ThermoKing, Carrier and Zanotti refrigerators and has proven to be cheaper to install and maintain loggers/recorders, making refrigerated transport cost-effective. With multiple ways of temperature control, the Jaxicloud Fleet Management system is expected to provide significant benefits for all parties involved in transport. Customers are always confident that the cargo will be delivered in full and on time. Carriers immediately address violations of transportation conditions, unauthorized shutdown of the refrigeration unit, minimizing the likelihood of cargo spoilage. Finally, buyers never experience interruptions in deliveries of high-quality products. English localization is coming, so very soon our partners from the international region can take advantage of the solution! Each approach has its own advantages and disadvantages. In most cases, the choice is determined by specific purposes. The necessity of temperature control is proven, and Jaxicloud Fleet Management makes it accessible.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In addition, iQFreeze alerts drivers with audio and visual notifications via the iQFreeze mobile application. Currently, the combination of iQFreeze and Jaxicloud Fleet Management is used for ThermoKing, Carrier and Zanotti refrigerators and has proven to be cheaper to install and maintain loggers/recorders, making refrigerated transport cost-effective. With multiple ways of temperature control, the Jaxicloud Fleet Management system is expected to provide significant benefits for all parties involved in transport. Customers are always confident that the cargo will be delivered in full and on time. Carriers immediately address violations of transportation conditions, unauthorized shutdown of the refrigeration unit, minimizing the likelihood of cargo spoilage. Finally, buyers never experience interruptions in deliveries of high-quality products. English localization is coming, so very soon our partners from the international region can take advantage of the solution! Each approach has its own advantages and disadvantages. In most cases, the choice is determined by specific purposes. The necessity of temperature control is proven, and Jaxicloud Fleet Management makes it accessible.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Darüber hinaus warnt iQFreeze Fahrer per Audio- und Videobenachrichtigung über die iQFreeze-App. Aktuell wird die Kombination aus iQFreeze und Jaxicloud Fleet Management für Kühlgeräte von ThermoKing, Carrier und Zanotti eingesetzt und hat sich als kostengünstiger in der Installation und Wartung von Datenloggern erwiesen, wodurch Kühltransporte wirtschaftlich werden. Dank vielfältiger Temperaturkontrollmöglichkeiten bietet das Jaxicloud Fleet Management-System allen am Transport Beteiligten erhebliche Vorteile. Kunden können sich darauf verlassen, dass ihre Ware vollständig und pünktlich geliefert wird. Spediteure reagieren umgehend auf Verstöße gegen die Transportbedingungen und unbefugte Abschaltungen der Kühlanlage, wodurch das Risiko von Warenverderb minimiert wird. Käufer erleben keine Unterbrechungen bei der Lieferung hochwertiger Produkte. Die englische Lokalisierung ist in Vorbereitung, sodass unsere internationalen Partner die Lösung schon bald nutzen können! Jeder Ansatz hat seine Vor- und Nachteile. In den meisten Fällen hängt die Wahl von den spezifischen Anforderungen ab. Die Notwendigkeit der Temperaturkontrolle ist erwiesen, und Jaxicloud Fleet Management macht sie zugänglich.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Darüber hinaus warnt iQFreeze Fahrer per Audio- und Videobenachrichtigung über die iQFreeze-App. Aktuell wird die Kombination aus iQFreeze und Jaxicloud Fleet Management für Kühlgeräte von ThermoKing, Carrier und Zanotti eingesetzt und hat sich als kostengünstiger in der Installation und Wartung von Datenloggern erwiesen, wodurch Kühltransporte wirtschaftlich werden. Dank vielfältiger Temperaturkontrollmöglichkeiten bietet das Jaxicloud Fleet Management-System allen am Transport Beteiligten erhebliche Vorteile. Kunden können sich darauf verlassen, dass ihre Ware vollständig und pünktlich geliefert wird. Spediteure reagieren umgehend auf Verstöße gegen die Transportbedingungen und unbefugte Abschaltungen der Kühlanlage, wodurch das Risiko von Warenverderb minimiert wird. Käufer erleben keine Unterbrechungen bei der Lieferung hochwertiger Produkte. Die englische Lokalisierung ist in Vorbereitung, sodass unsere internationalen Partner die Lösung schon bald nutzen können! Jeder Ansatz hat seine Vor- und Nachteile. In den meisten Fällen hängt die Wahl von den spezifischen Anforderungen ab. Die Notwendigkeit der Temperaturkontrolle ist erwiesen, und Jaxicloud Fleet Management macht sie zugänglich.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "De plus, iQFreeze alerte les conducteurs par des notifications audio et visuelles via l’application mobile iQFreeze. Actuellement, l’association d’iQFreeze et de Jaxicloud Fleet Management est utilisée pour les réfrigérateurs ThermoKing, Carrier et Zanotti et s’est avérée plus économique à installer et à entretenir, rendant ainsi le transport frigorifique plus rentable. Grâce à ses multiples options de contrôle de la température, le système Jaxicloud Fleet Management devrait apporter des avantages considérables à tous les acteurs du transport. Les clients ont l’assurance que leur marchandise sera livrée intégralement et à temps. Les transporteurs interviennent immédiatement en cas de non-respect des conditions de transport ou d’arrêt non autorisé du groupe frigorifique, minimisant ainsi les risques de détérioration. Enfin, les acheteurs ne subissent aucune interruption de livraison de produits de haute qualité. La localisation en anglais est en cours de développement ; nos partenaires internationaux pourront donc très prochainement profiter de cette solution ! Chaque approche présente ses avantages et ses inconvénients. Le choix dépend généralement des besoins spécifiques. La nécessité du contrôle de la température est avérée, et Jaxicloud Fleet Management la rend accessible à tous.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De plus, iQFreeze alerte les conducteurs par des notifications audio et visuelles via l’application mobile iQFreeze. Actuellement, l’association d’iQFreeze et de Jaxicloud Fleet Management est utilisée pour les réfrigérateurs ThermoKing, Carrier et Zanotti et s’est avérée plus économique à installer et à entretenir, rendant ainsi le transport frigorifique plus rentable. Grâce à ses multiples options de contrôle de la température, le système Jaxicloud Fleet Management devrait apporter des avantages considérables à tous les acteurs du transport. Les clients ont l’assurance que leur marchandise sera livrée intégralement et à temps. Les transporteurs interviennent immédiatement en cas de non-respect des conditions de transport ou d’arrêt non autorisé du groupe frigorifique, minimisant ainsi les risques de détérioration. Enfin, les acheteurs ne subissent aucune interruption de livraison de produits de haute qualité. La localisation en anglais est en cours de développement ; nos partenaires internationaux pourront donc très prochainement profiter de cette solution ! Chaque approche présente ses avantages et ses inconvénients. Le choix dépend généralement des besoins spécifiques. La nécessité du contrôle de la température est avérée, et Jaxicloud Fleet Management la rend accessible à tous.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "I tillegg varsler iQFreeze sjåfører med lyd- og visuelle varsler via iQFreeze-mobilapplikasjonen. For tiden brukes kombinasjonen av iQFreeze og Jaxicloud Fleet Management for kjøleskap fra ThermoKing, Carrier og Zanotti, og har vist seg å være billigere å installere og vedlikeholde loggere/opptakere, noe som gjør kjøletransport kostnadseffektiv. Med flere måter å kontrollere temperaturen på, forventes Jaxicloud Fleet Management-systemet å gi betydelige fordeler for alle involverte parter i transporten. Kundene er alltid trygge på at lasten blir levert i sin helhet og i tide. Transportører tar umiddelbart hånd om brudd på transportforhold, uautorisert nedstengning av kjøleenheten, og minimerer sannsynligheten for at lasten ødelegges. Til slutt opplever kjøpere aldri avbrudd i leveranser av produkter av høy kvalitet. Engelsk lokalisering kommer, så snart kan våre partnere fra den internasjonale regionen dra nytte av løsningen! Hver tilnærming har sine egne fordeler og ulemper. I de fleste tilfeller bestemmes valget av spesifikke formål. Nødvendigheten av temperaturkontroll er bevist, og Jaxicloud Fleet Management gjør det tilgjengelig.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">I tillegg varsler iQFreeze sjåfører med lyd- og visuelle varsler via iQFreeze-mobilapplikasjonen. For tiden brukes kombinasjonen av iQFreeze og Jaxicloud Fleet Management for kjøleskap fra ThermoKing, Carrier og Zanotti, og har vist seg å være billigere å installere og vedlikeholde loggere/opptakere, noe som gjør kjøletransport kostnadseffektiv. Med flere måter å kontrollere temperaturen på, forventes Jaxicloud Fleet Management-systemet å gi betydelige fordeler for alle involverte parter i transporten. Kundene er alltid trygge på at lasten blir levert i sin helhet og i tide. Transportører tar umiddelbart hånd om brudd på transportforhold, uautorisert nedstengning av kjøleenheten, og minimerer sannsynligheten for at lasten ødelegges. Til slutt opplever kjøpere aldri avbrudd i leveranser av produkter av høy kvalitet. Engelsk lokalisering kommer, så snart kan våre partnere fra den internasjonale regionen dra nytte av løsningen! Hver tilnærming har sine egne fordeler og ulemper. I de fleste tilfeller bestemmes valget av spesifikke formål. Nødvendigheten av temperaturkontroll er bevist, og Jaxicloud Fleet Management gjør det tilgjengelig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Dessutom varnar iQFreeze förare med ljud- och bildmeddelanden via iQFreeze mobilapplikation. För närvarande används kombinationen av iQFreeze och Jaxicloud Fleet Management för ThermoKing-, Carrier- och Zanotti-kylskåp och har visat sig vara billigare att installera och underhålla loggrar/inspelare, vilket gör kyltransporter kostnadseffektiva. Med flera sätt att kontrollera temperaturen förväntas Jaxicloud Fleet Management-systemet ge betydande fördelar för alla parter involverade i transporten. Kunderna kan alltid vara säkra på att lasten levereras i sin helhet och i tid. Transportörer åtgärdar omedelbart brott mot transportvillkor, obehörig avstängning av kylenheten, vilket minimerar sannolikheten för att lasten förstörs. Slutligen upplever köpare aldrig avbrott i leveranser av högkvalitativa produkter. Engelsk lokalisering är på väg, så snart kan våra partners från den internationella regionen dra nytta av lösningen! Varje tillvägagångssätt har sina egna fördelar och nackdelar. I de flesta fall bestäms valet av specifika syften. Nödvändigheten av temperaturkontroll är bevisad, och Jaxicloud Fleet Management gör det tillgängligt.",
+          "bodyHtml": "<p>Dessutom varnar iQFreeze förare med ljud- och bildmeddelanden via iQFreeze mobilapplikation. För närvarande används kombinationen av iQFreeze och Jaxicloud Fleet Management för ThermoKing-, Carrier- och Zanotti-kylskåp och har visat sig vara billigare att installera och underhålla loggrar/inspelare, vilket gör kyltransporter kostnadseffektiva. Med flera sätt att kontrollera temperaturen förväntas Jaxicloud Fleet Management-systemet ge betydande fördelar för alla parter involverade i transporten. Kunderna kan alltid vara säkra på att lasten levereras i sin helhet och i tid. Transportörer åtgärdar omedelbart brott mot transportvillkor, obehörig avstängning av kylenheten, vilket minimerar sannolikheten för att lasten förstörs. Slutligen upplever köpare aldrig avbrott i leveranser av högkvalitativa produkter. Engelsk lokalisering är på väg, så snart kan våra partners från den internationella regionen dra nytta av lösningen! Varje tillvägagångssätt har sina egna fördelar och nackdelar. I de flesta fall bestäms valet av specifika syften. Nödvändigheten av temperaturkontroll är bevisad, och Jaxicloud Fleet Management gör det tillgängligt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Ayrıca iQFreeze, iQFreeze mobil uygulaması aracılığıyla sürücüleri sesli ve görsel mesajlarla uyarır . Şu anda, ThermoKing, Carrier ve Zanotti buzdolapları için iQFreeze ve Jaxicloud Filo Yönetimi kombinasyonu kullanılıyor ve kaydedicilerin/kaydedicilerin kurulumu ve bakımının daha ucuz olduğu, böylece soğutmalı nakliyeyi uygun maliyetli hale getirdiği kanıtlandı. Çoklu sıcaklık yönetimi yöntemleriyle Jaxicloud Filo Yönetim sisteminin ulaşımla ilgili tüm taraflara önemli faydalar sağlaması bekleniyor. Müşteriler her zaman kargonun eksiksiz ve zamanında teslim edileceğinden emin olurlar. Taşıyıcılar, nakliye koşullarının ihlallerini, soğutma ünitesinin yetkisiz kapatılmasını derhal ele alarak kargonun bozulma olasılığını en aza indirir. Son olarak, alıcılar yüksek kaliteli ürünlerin teslimatında hiçbir zaman kesinti yaşamazlar. İngilizce yerelleştirme çok yakında geliyor, dolayısıyla uluslararası bölgedeki ortaklarımız bu çözümden faydalanabilir! Her yaklaşımın kendine özgü avantajları ve dezavantajları vardır. Çoğu durumda seçim belirli amaçlara göre belirlenir. Sıcaklık kontrolüne olan ihtiyaç kanıtlanmıştır ve Jaxicloud Filo Yönetimi bunu kullanıma sunmaktadır.",
+          "bodyHtml": "<p>Ayrıca iQFreeze, iQFreeze mobil uygulaması aracılığıyla sürücüleri sesli ve görsel mesajlarla uyarır . Şu anda, ThermoKing, Carrier ve Zanotti buzdolapları için iQFreeze ve Jaxicloud Filo Yönetimi kombinasyonu kullanılıyor ve kaydedicilerin/kaydedicilerin kurulumu ve bakımının daha ucuz olduğu, böylece soğutmalı nakliyeyi uygun maliyetli hale getirdiği kanıtlandı. Çoklu sıcaklık yönetimi yöntemleriyle Jaxicloud Filo Yönetim sisteminin ulaşımla ilgili tüm taraflara önemli faydalar sağlaması bekleniyor. Müşteriler her zaman kargonun eksiksiz ve zamanında teslim edileceğinden emin olurlar. Taşıyıcılar, nakliye koşullarının ihlallerini, soğutma ünitesinin yetkisiz kapatılmasını derhal ele alarak kargonun bozulma olasılığını en aza indirir. Son olarak, alıcılar yüksek kaliteli ürünlerin teslimatında hiçbir zaman kesinti yaşamazlar. İngilizce yerelleştirme çok yakında geliyor, dolayısıyla uluslararası bölgedeki ortaklarımız bu çözümden faydalanabilir! Her yaklaşımın kendine özgü avantajları ve dezavantajları vardır. Çoğu durumda seçim belirli amaçlara göre belirlenir. Sıcaklık kontrolüne olan ihtiyaç kanıtlanmıştır ve Jaxicloud Filo Yönetimi bunu kullanıma sunmaktadır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "ctaButton",
+      "order": 19,
+      "sectionIndex": 4,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE BECONS TRANSPORT",
+              "href": "/temperature-monitoring-work-da/"
+            }
+          ],
+          "ctaLabel": "SE BECONS TRANSPORT",
+          "ctaUrl": "/temperature-monitoring-work-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SEE BECON'S TRANSPORT",
+              "href": "/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "SEE BECON'S TRANSPORT",
+          "ctaUrl": "/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE BECONS TRANSPORT",
+              "href": "/nb/temperature-monitoring-work-no/"
+            }
+          ],
+          "ctaLabel": "SE BECONS TRANSPORT",
+          "ctaUrl": "/nb/temperature-monitoring-work-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE I BECONS TRANSPORT",
+              "href": "/sv/temperature-monitoring-work-sv/"
+            }
+          ],
+          "ctaLabel": "SE I BECONS TRANSPORT",
+          "ctaUrl": "/sv/temperature-monitoring-work-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "BECON'UN ULAŞIM SEÇENEKLERİNE BAKIN",
+              "href": "/tr/temperature-monitoring-work-tur/"
+            }
+          ],
+          "ctaLabel": "BECON'UN ULAŞIM SEÇENEKLERİNE BAKIN",
+          "ctaUrl": "/tr/temperature-monitoring-work-tur/",
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1966 @@
+{
+  "slug": "jaxicloud-platform",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Jaxicloud Platform – DA",
+    "en": "Jaxicloud Platform – EN",
+    "de": "Jaxicloud Platform – DE",
+    "fr": "Jaxicloud Platform – FR",
+    "nl": "Jaxicloud Platform – HL",
+    "nb": "Jaxicloud Platform – NO",
+    "sv": "Jaxicloud Platform – SV",
+    "tr": "Jaxicloud Platform – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Jaxicloud Platform - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/jaxicloud-platform-da/",
+    "en": "https://www.jaxicloud.com/en/jaxicloud-platform-en/",
+    "de": "https://www.jaxicloud.com/de/jaxicloud-platform-de/",
+    "fr": "https://www.jaxicloud.com/fr/jaxicloud-platform-fr/",
+    "nl": "https://www.jaxicloud.com/nl/jaxicloud-platform-hl/",
+    "nb": "https://www.jaxicloud.com/nb/jaxicloud-platform-no/",
+    "sv": "https://www.jaxicloud.com/sv/jaxicloud-platform-sv/",
+    "tr": "https://www.jaxicloud.com/tr/jaxicloud-platform-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Platform",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Én platform. Fuld kontrol over din flåde og dine aktiver.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "One Platform. Total Control Over Your Fleet and Assets.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Eine Plattform. Volle Kontrolle über Ihre Flotte und Assets.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Une seule plateforme. Un contrôle total de votre flotte et de vos actifs.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Eén platform. Volledige controle over uw wagenpark en assets.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Én plattform. Full kontroll over flåten og eiendelene dine.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "En plattform. Full kontroll över din fordonsflotta och dina tillgångar.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tek Platform. Filonuz ve Varlıklarınız Üzerinde Tam Kontrol.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "JaxiCloud-platformen er en omfattende GPS-sporings- og flådestyringsplatform fra JaxiCloud, der anvendes globalt til overvågning i realtid af køretøjer, udstyr, personer og aktiver.Platformen tilbyder funktioner som ruteoptimering, brændstofkontrol, analyse af køreadfærd, geofencing, sensorovervågning samt avanceret rapportering for en lang række brancher – fra logistik til landbrug – og giver serviceudbydere mulighed for at opbygge deres egne skræddersyede løsninger.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><strong data-start=\"167\" data-end=\"191\">JaxiCloud-platformen</strong> er en omfattende <strong data-start=\"209\" data-end=\"251\">GPS-sporings- og flådestyringsplatform</strong> fra JaxiCloud, der anvendes globalt til overvågning i realtid af <strong data-start=\"317\" data-end=\"359\">køretøjer, udstyr, personer og aktiver</strong>.<br data-start=\"360\" data-end=\"363\">Platformen tilbyder funktioner som <strong data-start=\"398\" data-end=\"488\">ruteoptimering, brændstofkontrol, analyse af køreadfærd, geofencing, sensorovervågning</strong> samt <strong data-start=\"494\" data-end=\"520\">avanceret rapportering</strong> for en lang række brancher – fra <strong data-start=\"554\" data-end=\"579\">logistik til landbrug</strong> – og giver serviceudbydere mulighed for at <strong data-start=\"623\" data-end=\"669\">opbygge deres egne skræddersyede løsninger</strong>.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Jaxicloud Platform is a comprehensive GPS tracking and fleet management platform by Jaxicloud, used globally to monitor vehicles, equipment, people, and assets in real-time, offering features like route optimization, fuel control, driver behavior analysis, geofencing, sensor monitoring, and advanced reporting for various industries, from logistics to agriculture, allowing service providers to build their own customized solutions.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Platform is a comprehensive GPS tracking and fleet management platform by Jaxicloud, used globally to monitor vehicles, equipment, people, and assets in real-time, offering features like route optimization, fuel control, driver behavior analysis, geofencing, sensor monitoring, and advanced reporting for various industries, from logistics to agriculture, allowing service providers to build their own customized solutions.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die JaxiCloud Plattform ist eine umfassende GPS-Tracking- und Flottenmanagement-Plattform von JaxiCloud, die weltweit zur Echtzeitüberwachung von Fahrzeugen, Maschinen, Personen und Assets eingesetzt wird.Sie bietet Funktionen wie Routenoptimierung, Kraftstoffkontrolle, Fahrerverhaltensanalyse, Geofencing, Sensorüberwachung sowie erweiterte Berichte für verschiedenste Branchen – von Logistik bis Landwirtschaft – und ermöglicht es Serviceanbietern, eigene maßgeschneiderte Lösungen zu entwickeln.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Die JaxiCloud Plattform ist eine umfassende GPS-Tracking- und Flottenmanagement-Plattform von JaxiCloud, die weltweit zur Echtzeitüberwachung von Fahrzeugen, Maschinen, Personen und Assets eingesetzt wird.<br>Sie bietet Funktionen wie Routenoptimierung, Kraftstoffkontrolle, Fahrerverhaltensanalyse, Geofencing, Sensorüberwachung sowie erweiterte Berichte für verschiedenste Branchen – von Logistik bis Landwirtschaft – und ermöglicht es Serviceanbietern, eigene maßgeschneiderte Lösungen zu entwickeln.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "La plateforme JaxiCloud est une solution complète de géolocalisation GPS et de gestion de flotte développée par JaxiCloud, utilisée à l’échelle mondiale pour surveiller en temps réel les véhicules, équipements, personnes et actifs.Elle offre des fonctionnalités telles que l’optimisation des itinéraires, le contrôle du carburant, l’analyse du comportement des conducteurs, le géorepérage, la surveillance des capteurs ainsi que des rapports avancés pour de nombreux secteurs, de la logistique à l’agriculture, tout en permettant aux prestataires de services de créer leurs propres solutions personnalisées.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">La <strong data-start=\"205\" data-end=\"229\">plateforme JaxiCloud</strong> est une solution complète de <strong data-start=\"259\" data-end=\"306\">géolocalisation GPS et de gestion de flotte</strong> développée par JaxiCloud, utilisée à l’échelle mondiale pour surveiller en temps réel les <strong data-start=\"397\" data-end=\"444\">véhicules, équipements, personnes et actifs</strong>.<br data-start=\"445\" data-end=\"448\">Elle offre des fonctionnalités telles que <strong data-start=\"490\" data-end=\"639\">l’optimisation des itinéraires, le contrôle du carburant, l’analyse du comportement des conducteurs, le géorepérage, la surveillance des capteurs</strong> ainsi que des <strong data-start=\"654\" data-end=\"674\">rapports avancés</strong> pour de nombreux secteurs, de la <strong data-start=\"708\" data-end=\"738\">logistique à l’agriculture</strong>, tout en permettant aux prestataires de services de <strong data-start=\"791\" data-end=\"839\">créer leurs propres solutions personnalisées</strong>.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het JaxiCloud-platform is een uitgebreid GPS-tracking- en fleetmanagementplatform van JaxiCloud dat wereldwijd wordt gebruikt om voertuigen, materieel, personen en assets in realtime te monitoren.Het platform biedt functies zoals route-optimalisatie, brandstofbeheer, analyse van rijgedrag, geofencing, sensormonitoring en geavanceerde rapportages voor diverse sectoren – van logistiek tot landbouw – en stelt serviceproviders in staat om hun eigen op maat gemaakte oplossingen te bouwen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Het JaxiCloud-platform is een uitgebreid GPS-tracking- en fleetmanagementplatform van JaxiCloud dat wereldwijd wordt gebruikt om voertuigen, materieel, personen en assets in realtime te monitoren.<br>Het platform biedt functies zoals route-optimalisatie, brandstofbeheer, analyse van rijgedrag, geofencing, sensormonitoring en geavanceerde rapportages voor diverse sectoren – van logistiek tot landbouw – en stelt serviceproviders in staat om hun eigen op maat gemaakte oplossingen te bouwen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "JaxiCloud-plattformen er en omfattende GPS-sporings- og flåtestyringsplattform fra JaxiCloud, brukt globalt for sanntidsovervåking av kjøretøy, utstyr, personer og eiendeler.Plattformen tilbyr funksjoner som ruteoptimalisering, drivstoffkontroll, analyse av kjøremønster, geofencing, sensormonitorering og avansert rapportering for en rekke bransjer – fra logistikk til landbruk – og gjør det mulig for tjenesteleverandører å bygge sine egne skreddersydde løsninger.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">JaxiCloud-plattformen er en omfattende GPS-sporings- og flåtestyringsplattform fra JaxiCloud, brukt globalt for sanntidsovervåking av kjøretøy, utstyr, personer og eiendeler.<br>Plattformen tilbyr funksjoner som ruteoptimalisering, drivstoffkontroll, analyse av kjøremønster, geofencing, sensormonitorering og avansert rapportering for en rekke bransjer – fra logistikk til landbruk – og gjør det mulig for tjenesteleverandører å bygge sine egne skreddersydde løsninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "JaxiCloud-plattformen är en heltäckande GPS-spårnings- och fleet management-plattform från JaxiCloud som används globalt för att övervaka fordon, utrustning, personer och tillgångar i realtid.Plattformen erbjuder funktioner som ruttoptimering, bränslekontroll, analys av förarbeteende, geofencing, sensorövervakning samt avancerad rapportering för ett brett spektrum av branscher – från logistik till jordbruk – och gör det möjligt för tjänsteleverantörer att bygga egna skräddarsydda lösningar.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><strong data-start=\"182\" data-end=\"207\">JaxiCloud-plattformen</strong> är en heltäckande <strong data-start=\"226\" data-end=\"275\">GPS-spårnings- och fleet management-plattform</strong> från JaxiCloud som används globalt för att övervaka <strong data-start=\"328\" data-end=\"375\">fordon, utrustning, personer och tillgångar</strong> i realtid.<br data-start=\"386\" data-end=\"389\">Plattformen erbjuder funktioner som <strong data-start=\"425\" data-end=\"516\">ruttoptimering, bränslekontroll, analys av förarbeteende, geofencing, sensorövervakning</strong> samt <strong data-start=\"522\" data-end=\"548\">avancerad rapportering</strong> för ett brett spektrum av branscher – från <strong data-start=\"592\" data-end=\"618\">logistik till jordbruk</strong> – och gör det möjligt för tjänsteleverantörer att <strong data-start=\"669\" data-end=\"707\">bygga egna skräddarsydda lösningar</strong>.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "JaxiCloud Platformu, JaxiCloud tarafından geliştirilen, dünya genelinde araçların, ekipmanların, kişilerin ve varlıkların gerçek zamanlı olarak izlenmesini sağlayan kapsamlı bir GPS takip ve filo yönetim platformudur.Platform; rota optimizasyonu, yakıt kontrolü, sürücü davranışı analizi, coğrafi sınırlandırma (geofencing), sensör izleme ve gelişmiş raporlama gibi özellikler sunar. Lojistikten tarıma kadar birçok sektöre hitap eder ve hizmet sağlayıcıların kendi özel çözümlerini oluşturmasına olanak tanır.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><strong data-start=\"170\" data-end=\"193\">JaxiCloud Platformu</strong>, JaxiCloud tarafından geliştirilen, dünya genelinde <strong data-start=\"246\" data-end=\"299\">araçların, ekipmanların, kişilerin ve varlıkların</strong> gerçek zamanlı olarak izlenmesini sağlayan kapsamlı bir <strong data-start=\"356\" data-end=\"398\">GPS takip ve filo yönetim platformudur</strong>.<br data-start=\"399\" data-end=\"402\">Platform; <strong data-start=\"412\" data-end=\"527\">rota optimizasyonu, yakıt kontrolü, sürücü davranışı analizi, coğrafi sınırlandırma (geofencing), sensör izleme</strong> ve <strong data-start=\"531\" data-end=\"553\">gelişmiş raporlama</strong> gibi özellikler sunar. <strong data-start=\"577\" data-end=\"599\">Lojistikten tarıma</strong> kadar birçok sektöre hitap eder ve hizmet sağlayıcıların <strong data-start=\"657\" data-end=\"697\">kendi özel çözümlerini oluşturmasına</strong> olanak tanır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.12-1024x554.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.12-1024x554.png",
+          "width": 800,
+          "height": 433
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Vigtige funktioner og muligheder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Key Features & Capabilities:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Zentrale Funktionen & Möglichkeiten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Fonctionnalités clés & capacités",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Belangrijkste functies & mogelijkheden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Viktige funksjoner og muligheter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Viktiga funktioner och möjligheter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Temel Özellikler ve Yetenekler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sporing i realtid",
+          "body": "Se enhedernes placering, hastighed og status på kortet",
+          "bodyHtml": "<p>Se enhedernes placering, hastighed og status på kortet</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Real-time Tracking",
+          "body": "See locations, speed, and status of units on a map.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">See locations, speed, and status of units on a map.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Echtzeit-Tracking",
+          "body": "Anzeige von Position, Geschwindigkeit und Status der Einheiten auf der Karte",
+          "bodyHtml": "<p>Anzeige von Position, Geschwindigkeit und Status der Einheiten auf der Karte</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Suivi en temps réel :",
+          "body": "Visualisation de la position, de la vitesse et du statut des unités sur la carte",
+          "bodyHtml": "<p>Visualisation de la position, de la vitesse et du statut des unités sur la carte</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Realtime tracking",
+          "body": "Bekijk locaties, snelheid en status van eenheden op de kaart",
+          "bodyHtml": "<p>Bekijk locaties, snelheid en status van eenheden op de kaart</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sanntidssporing",
+          "body": "Se posisjon, hastighet og status for enheter på kart",
+          "bodyHtml": "<p>Se posisjon, hastighet og status for enheter på kart</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Realtidsspårning",
+          "body": "Se position, hastighet och status för enheter på kartan",
+          "bodyHtml": "<p>Se position, hastighet och status för enheter på kartan</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Gerçek zamanlı takip",
+          "body": "Harita üzerinde birimlerin konumu, hızı ve durumu",
+          "bodyHtml": "<p>Harita üzerinde birimlerin konumu, hızı ve durumu</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Overvågning & analyse",
+          "body": "Følg brændstof, temperatur og andre sensordata; analysér tendenser med grafer",
+          "bodyHtml": "<p>Følg brændstof, temperatur og andre sensordata; analysér tendenser med grafer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Monitoring & Analytics",
+          "body": "Track fuel, temperature, and other sensor data; analyze trends with charts.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Track fuel, temperature, and other sensor data; analyze trends with charts.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Monitoring & Analysen",
+          "body": "Überwachung von Kraftstoff, Temperatur und weiteren Sensordaten; Trendanalysen mit Diagrammen",
+          "bodyHtml": "<p>Überwachung von Kraftstoff, Temperatur und weiteren Sensordaten; Trendanalysen mit Diagrammen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance & analyses",
+          "body": "Suivi du carburant, de la température et d’autres données issues des capteurs ; analyse des tendances via des graphiques",
+          "bodyHtml": "<p>Suivi du carburant, de la température et d’autres données issues des capteurs ; analyse des tendances via des graphiques</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Monitoring & analyse",
+          "body": "Volg brandstof-, temperatuur- en andere sensorgegevens; analyseer trends met grafieken",
+          "bodyHtml": "<p>Volg brandstof-, temperatuur- en andere sensorgegevens; analyseer trends met grafieken</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Overvåking og analyse",
+          "body": "Følg med på drivstoff, temperatur og andre sensordata; analyser trender med grafer",
+          "bodyHtml": "<p>Følg med på drivstoff, temperatur og andre sensordata; analyser trender med grafer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Övervakning & analys",
+          "body": "Följ bränsle-, temperatur- och andra sensordata; analysera trender med diagram",
+          "bodyHtml": "<p>Följ bränsle-, temperatur- och andra sensordata; analysera trender med diagram</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İzleme ve analiz",
+          "body": "Yakıt, sıcaklık ve diğer sensör verilerinin takibi; grafiklerle trend analizi",
+          "bodyHtml": "<p>Yakıt, sıcaklık ve diğer sensör verilerinin takibi; grafiklerle trend analizi</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Geofencing",
+          "body": "Definér virtuelle zoner og modtag alarmer ved ind- og udkørsel",
+          "bodyHtml": "<p>Definér virtuelle zoner og modtag alarmer ved ind- og udkørsel</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Geofencing",
+          "body": "Define virtual boundaries and get alerts for entry/exit.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Define virtual boundaries and get alerts for entry/exit.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Geofencing",
+          "body": "Definition virtueller Zonen mit automatischen Benachrichtigungen bei Ein- und Austritt",
+          "bodyHtml": "<p>Definition virtueller Zonen mit automatischen Benachrichtigungen bei Ein- und Austritt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Géorepérage",
+          "body": "Définition de zones virtuelles avec alertes automatiques lors des entrées et sorties",
+          "bodyHtml": "<p>Définition de zones virtuelles avec alertes automatiques lors des entrées et sorties</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Geofencing",
+          "body": "Definieer virtuele zones en ontvang meldingen bij in- en uitrijden",
+          "bodyHtml": "<p>Definieer virtuele zones en ontvang meldingen bij in- en uitrijden</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Geofencing",
+          "body": "Definer virtuelle soner og motta varsler ved inn- og utkjøring",
+          "bodyHtml": "<p>Definer virtuelle soner og motta varsler ved inn- og utkjøring</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rapportering",
+          "body": "Skapa detaljerade rapporter och diagram för analys",
+          "bodyHtml": "<p>Skapa detaljerade rapporter och diagram för analys</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Coğrafi sınırlandırma",
+          "body": "Sanal bölgeler tanımlama ve giriş/çıkış bildirimleri alma",
+          "bodyHtml": "<p>Sanal bölgeler tanımlama ve giriş/çıkış bildirimleri alma</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Rapportering",
+          "body": "Generér detaljerede rapporter og grafer til analyse",
+          "bodyHtml": "<p>Generér detaljerede rapporter og grafer til analyse</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Route Management",
+          "body": "Create, optimize, and control routes and tasks.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Create, optimize, and control routes and tasks.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Routenmanagement",
+          "body": "Erstellung, Optimierung und Kontrolle von Routen und Aufgaben",
+          "bodyHtml": "<p>Erstellung, Optimierung und Kontrolle von Routen und Aufgaben</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion des itinéraires",
+          "body": "Création, optimisation et contrôle des itinéraires et des missions",
+          "bodyHtml": "<p>Création, optimisation et contrôle des itinéraires et des missions</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Routemanagement",
+          "body": "Routes en taken aanmaken, optimaliseren en beheren",
+          "bodyHtml": "<p>Routes en taken aanmaken, optimaliseren en beheren</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rutestyring",
+          "body": "Opprett, optimaliser og kontroller ruter og oppgaver",
+          "bodyHtml": "<p>Opprett, optimaliser og kontroller ruter og oppgaver</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Geofencing",
+          "body": "Definiera virtuella zoner och få aviseringar vid in- och utpassering",
+          "bodyHtml": "<p>Definiera virtuella zoner och få aviseringar vid in- och utpassering</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Rota yönetimi",
+          "body": "Rotaların ve görevlerin oluşturulması, optimize edilmesi ve kontrolü",
+          "bodyHtml": "<p>Rotaların ve görevlerin oluşturulması, optimize edilmesi ve kontrolü</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Rute",
+          "body": "og opgavestyring: Opret, optimér og styr ruter og opgaver",
+          "bodyHtml": "<p>og opgavestyring: Opret, optimér og styr ruter og opgaver</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Driver Management",
+          "body": "Monitor driving behavior, send messages, manage shifts.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Monitor driving behavior, send messages, manage shifts.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Fahrermanagement",
+          "body": "Überwachung des Fahrverhaltens, Versand von Nachrichten, Schichtverwaltung",
+          "bodyHtml": "<p>Überwachung des Fahrverhaltens, Versand von Nachrichten, Schichtverwaltung</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion des conducteurs",
+          "body": "Surveillance du comportement de conduite, envoi de messages et gestion des horaires",
+          "bodyHtml": "<p>Surveillance du comportement de conduite, envoi de messages et gestion des horaires</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Chauffeursbeheer",
+          "body": "Rijgedrag monitoren, berichten versturen en diensten beheren",
+          "bodyHtml": "<p>Rijgedrag monitoren, berichten versturen en diensten beheren</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sjåføradministrasjon",
+          "body": "Overvåk kjøremønster, send meldinger og administrer skift",
+          "bodyHtml": "<p>Overvåk kjøremønster, send meldinger og administrer skift</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rutt",
+          "body": "och uppdragshantering: Skapa, optimera och hantera rutter och uppdrag",
+          "bodyHtml": "<p>och uppdragshantering: Skapa, optimera och hantera rutter och uppdrag</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sürücü yönetimi:",
+          "body": "Sürüş davranışlarının izlenmesi, mesaj gönderimi ve vardiya yönetimi",
+          "bodyHtml": "<p>Sürüş davranışlarının izlenmesi, mesaj gönderimi ve vardiya yönetimi</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Chaufførstyring",
+          "body": "Overvåg køreadfærd, send beskeder og administrér vagter",
+          "bodyHtml": "<p>Overvåg køreadfærd, send beskeder og administrér vagter</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Video Telematics",
+          "body": "View live video and camera feeds from units.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">View live video and camera feeds from units.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Video-Telematik",
+          "body": "Live-Video und Kameraübertragung direkt von den Einheiten",
+          "bodyHtml": "<p>Live-Video und Kameraübertragung direkt von den Einheiten</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Vidéotélématique",
+          "body": "Accès aux flux vidéo en direct et aux caméras embarquées",
+          "bodyHtml": "<p>Accès aux flux vidéo en direct et aux caméras embarquées</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Video-telematica",
+          "body": "Bekijk live video- en camerafeeds van voertuigen en units",
+          "bodyHtml": "<p>Bekijk live video- en camerafeeds van voertuigen en units</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Videotelematikk",
+          "body": "Se live video og kamerafeeder fra enhetene",
+          "bodyHtml": "<p>Se live video og kamerafeeder fra enhetene</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Förarhantering",
+          "body": "Övervaka körbeteende, skicka meddelanden och hantera arbetspass",
+          "bodyHtml": "<p>Övervaka körbeteende, skicka meddelanden och hantera arbetspass</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Video telematik",
+          "body": "Birimlerden canlı video ve kamera görüntülerini izleme",
+          "bodyHtml": "<p>Birimlerden canlı video ve kamera görüntülerini izleme</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Videotelematik",
+          "body": "Se livevideo og kamerafeeds fra enhederne",
+          "bodyHtml": "<p>Se livevideo og kamerafeeds fra enhederne</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Reporting",
+          "body": "Generate detailed reports and charts for analysis.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Generate detailed reports and charts for analysis.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Berichte & Auswertungen",
+          "body": "Erstellung detaillierter Berichte und Diagramme zur Analyse",
+          "bodyHtml": "<p>Erstellung detaillierter Berichte und Diagramme zur Analyse</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Rapports & analyses",
+          "body": "Génération de rapports détaillés et de graphiques pour l’analyse",
+          "bodyHtml": "<p>Génération de rapports détaillés et de graphiques pour l’analyse</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Rapportages",
+          "body": "Genereer gedetailleerde rapporten en grafieken voor analys",
+          "bodyHtml": "<p>Genereer gedetailleerde rapporten en grafieken voor analys</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rapportering",
+          "body": "Generer detaljerte rapporter og grafer for analyse",
+          "bodyHtml": "<p>Generer detaljerte rapporter og grafer for analyse</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Videotelematik",
+          "body": "Visa livevideo och kameraflöden från enheterna",
+          "bodyHtml": "<p>Visa livevideo och kameraflöden från enheterna</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Raporlama",
+          "body": "Analiz için detaylı raporlar ve grafikler oluşturma",
+          "bodyHtml": "<p>Analiz için detaylı raporlar ve grafikler oluşturma</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tilpasning",
+          "body": "No-code-platform for serviceudbydere til at skabe egne brandede løsninger (Wialon-platformen)",
+          "bodyHtml": "<p>No-code-platform for serviceudbydere til at skabe egne brandede løsninger (Wialon-platformen)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Customization",
+          "body": "A no-code platform for service providers to create branded solutions (Wialon Platform).",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">A no-code platform for service providers to create branded solutions (Wialon Platform).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Individualisierung",
+          "body": "No-Code-Plattform für Serviceanbieter zur Erstellung eigener gebrandeter Lösungen (Wialon Plattform)",
+          "bodyHtml": "<p>No-Code-Plattform für Serviceanbieter zur Erstellung eigener gebrandeter Lösungen (Wialon Plattform)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Personnalisation",
+          "body": "Plateforme no-code permettant aux prestataires de services de créer des solutions personnalisées et brandées (plateforme Wialon)",
+          "bodyHtml": "<p>Plateforme no-code permettant aux prestataires de services de créer des solutions personnalisées et brandées (plateforme Wialon)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Maatwerk & branding",
+          "body": "No-code platform voor serviceproviders om eigen branded oplossingen te creëren (Wialon-platform)",
+          "bodyHtml": "<p>No-code platform voor serviceproviders om eigen branded oplossingen te creëren (Wialon-platform)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tilpasning",
+          "body": "No-code-plattform for tjenesteleverandører til å lage egne merkevaretilpassede løsninger (Wialon-plattformen)",
+          "bodyHtml": "<p>No-code-plattform for tjenesteleverandører til å lage egne merkevaretilpassede løsninger (Wialon-plattformen)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Anpassning",
+          "body": "No-code-plattform för tjänsteleverantörer att skapa egna varumärkesanpassade lösningar (Wialon-plattformen)",
+          "bodyHtml": "<p>No-code-plattform för tjänsteleverantörer att skapa egna varumärkesanpassade lösningar (Wialon-plattformen)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Özelleştirme",
+          "body": "Hizmet sağlayıcılar için markaya özel çözümler oluşturmayı sağlayan no-code platform (Wialon Platformu)",
+          "bodyHtml": "<p>Hizmet sağlayıcılar için markaya özel çözümler oluşturmayı sağlayan no-code platform (Wialon Platformu)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "IoT-integration",
+          "body": "Overvågning af forskellige IoT-enheder og sensorer",
+          "bodyHtml": "<p>Overvågning af forskellige IoT-enheder og sensorer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "IoT Integration",
+          "body": "Monitor various IoT devices and sensors.",
+          "bodyHtml": "<p>Monitor various IoT devices and sensors.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "IoT-Integration",
+          "body": "Überwachung verschiedenster IoT-Geräte und Sensoren",
+          "bodyHtml": "<p>Überwachung verschiedenster IoT-Geräte und Sensoren</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Intégration IoT",
+          "body": "Surveillance de divers dispositifs et capteurs IoT",
+          "bodyHtml": "<p>Surveillance de divers dispositifs et capteurs IoT</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "IoT-integratie",
+          "body": "Monitoring van diverse IoT-apparaten en sensoren",
+          "bodyHtml": "<p>Monitoring van diverse IoT-apparaten en sensoren</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "IoT-integrasjo",
+          "body": "Overvåk ulike IoT-enheter og sensorer",
+          "bodyHtml": "<p>Overvåk ulike IoT-enheter og sensorer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "IoT-integration",
+          "body": "Övervakning av olika IoT-enheter och sensorer",
+          "bodyHtml": "<p>Övervakning av olika IoT-enheter och sensorer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "IoT entegrasyonu",
+          "body": "Çeşitli IoT cihazları ve sensörlerinin izlenmesi",
+          "bodyHtml": "<p>Çeşitli IoT cihazları ve sensörlerinin izlenmesi</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "image",
+      "order": 14,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.09.06-1-1024x484.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.09.06-1-1024x484.png",
+          "width": 800,
+          "height": 378
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "image",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.46-1024x507.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.46-1024x507.png",
+          "width": 800,
+          "height": 396
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sådan fungerer det",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How it works:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "So funktioniert es",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Fonctionnement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe het werkt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Slik fungerer det",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Så fungerar det",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Nasıl Çalışır",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "iconList",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Forbindes med GPS-trackere og IoT-enheder",
+            "Behandler data (realtid, analyser, hændelser)",
+            "Giver adgang via webgrænseflade, mobilapp og administrationsværktøjer (f.eks. CMS Manager)",
+            "Muliggør afsendelse af kommandoer, beskeder og opgaver til enhederne"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Connects with GPS trackers and IoT devices.",
+            "Processes data (online, analytics, events).",
+            "Provides access via web interface, mobile app, and management tools (like CMS Manager).",
+            "Allows sending commands, messages, and jobs to units."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Verbindung mit GPS-Trackern und IoT-Geräten",
+            "Verarbeitung der Daten (Live-Daten, Analysen, Ereignisse)",
+            "Zugriff über Web-Oberfläche, mobile App und Management-Tools (z. B. CMS Manager)",
+            "Senden von Befehlen, Nachrichten und Aufträgen an die Einheiten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Connexion aux traceurs GPS et aux dispositifs IoT",
+            "Traitement des données (temps réel, analyses, événements)",
+            "Accès via une interface web, une application mobile et des outils de gestion (tels que le CMS Manager)",
+            "Envoi de commandes, de messages et de missions aux unités"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Verbindt met GPS-trackers en IoT-apparaten",
+            "Verwerkt gegevens (realtime, analyses, gebeurtenissen)",
+            "Biedt toegang via webinterface, mobiele app en beheertools (zoals CMS Manager)",
+            "Maakt het mogelijk om opdrachten, berichten en taken naar eenheden te verzenden"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Kobles til GPS-sporere og IoT-enheter",
+            "Behandler data (sanntid, analyser, hendelser)",
+            "Gir tilgang via webgrensesnitt, mobilapp og administrasjonsverktøy (som CMS Manager)",
+            "Gjør det mulig å sende kommandoer, meldinger og oppdrag til enhetene"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Ansluts till GPS-spårare och IoT-enheter",
+            "Bearbetar data (realtid, analyser, händelser)",
+            "Ger åtkomst via webbgränssnitt, mobilapp och administrationsverktyg (t.ex. CMS Manager)",
+            "Möjliggör att skicka kommandon, meddelanden och uppdrag till enheterna"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "GPS takip cihazları ve IoT cihazları ile bağlantı kurar",
+            "Verileri işler (gerçek zamanlı, analizler, olaylar)",
+            "Web arayüzü, mobil uygulama ve yönetim araçları (ör. CMS Manager) üzerinden erişim sağlar",
+            "Birimlere komutlar, mesajlar ve görevler gönderilmesine olanak tanır"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

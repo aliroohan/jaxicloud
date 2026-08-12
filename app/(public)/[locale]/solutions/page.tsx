@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import styles from "@/components/blocks/blocks.module.css";
+import { ArrowUpRight } from "lucide-react";
 import {
   isLocale,
   LOCALES,
@@ -13,7 +13,7 @@ import {
   getLocalizedPage,
   listSolutionSlugs,
 } from "@/lib/content/listSolutions";
-import { ArrowUpRight } from "lucide-react";
+import styles from "./solutions-index.module.css";
 
 export const dynamicParams = false;
 export const revalidate = 3600;
@@ -50,47 +50,44 @@ export default async function LocalizedSolutionsIndex({ params }: Props) {
       slug,
       title: page.titles[locale] || page.titles.en || slug,
       description,
-      blockCount: page.blocks.length,
     };
   });
 
   return (
     <div className={styles.page}>
-      <div className={styles.shell}>
-        <header style={{ padding: "clamp(2.5rem, 6vw, 5rem) 0 2rem" }}>
-          <p className={styles.heroEyebrow}>{copy.allSolutions}</p>
-          <h1 className={styles.heroTitle} style={{ maxWidth: "12ch" }}>
-            {copy.solutions}
-          </h1>
+      <div className={styles.wrap}>
+        <header className={styles.hero}>
+          <div>
+            <p className={styles.eyebrow}>{copy.allSolutions}</p>
+            <h1 className={styles.title}>{copy.solutions}</h1>
+          </div>
+          <div>
+            <p className={styles.lede}>{copy.solutionsIndexLede}</p>
+            <div style={{ marginTop: "1.75rem" }}>
+              <div className={styles.count}>{items.length}</div>
+              <div className={styles.countLabel}>{copy.allSolutions}</div>
+            </div>
+          </div>
         </header>
 
-        <div className={styles.indexGrid} style={{ paddingBottom: "5rem" }}>
-          {items.map((item, index) => (
+        <div className={styles.grid}>
+          {items.map((item) => (
             <Link
               key={item.slug}
               href={withLocale(locale, `/solutions/${item.slug}`)}
-              className={styles.indexCard}
-              style={index % 3 === 1 ? { marginTop: "1.25rem" } : undefined}
+              className={styles.card}
             >
               <div>
-                <h2 className={styles.indexCardTitle}>{item.title}</h2>
+                <h2 className={styles.cardTitle}>{item.title}</h2>
                 {item.description ? (
-                  <p className={styles.featureBody}>
-                    {item.description.slice(0, 140)}
-                    {item.description.length > 140 ? "…" : ""}
-                  </p>
+                  <p className={styles.cardBody}>{item.description}</p>
                 ) : null}
               </div>
-              <div
-                className={styles.indexCardMeta}
-                style={{
-                  display: "flex",
-                  justifyContent: "space-between",
-                  alignItems: "center",
-                }}
-              >
+              <div className={styles.cardMeta}>
                 <span>{item.slug}</span>
-                <ArrowUpRight size={16} strokeWidth={1.75} />
+                <span className={styles.cardIcon} aria-hidden>
+                  <ArrowUpRight size={14} strokeWidth={2} />
+                </span>
               </div>
             </Link>
           ))}

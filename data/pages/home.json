@@ -1,0 +1,4214 @@
+{
+  "slug": "home",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Home Denmark",
+    "en": "Home page Ebgland",
+    "de": "Home de",
+    "fr": "Home page France",
+    "nl": "Home page Nederlands",
+    "nb": "Home page Norsk",
+    "sv": "Home page Swiden",
+    "tr": "Home page Turkey"
+  },
+  "seo": {
+    "da": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Homepage - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Home de - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/",
+    "en": "https://www.jaxicloud.com/en/home-en/",
+    "de": "https://www.jaxicloud.com/de/home-de-2/",
+    "fr": "https://www.jaxicloud.com/fr/home-fr/",
+    "nl": "https://www.jaxicloud.com/nl/home-ne/",
+    "nb": "https://www.jaxicloud.com/nb/home-norsk/",
+    "sv": "https://www.jaxicloud.com/sv/home-sv/",
+    "tr": "https://www.jaxicloud.com/tr/home-tr/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "slides",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "slides.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Smarter kontrol over dine maskiner på byggepladsenStyring af entreprenørmaskiner i realtid er ikke længere en luksus — det er en nødvendighed. Vores telematikløsninger giver fuldt overblik over dit udstyr og hjælper dig med at reducere omkostninger, forbedre effektiviteten og forhindre misbrug.Lær mere",
+              "href": "https://www.jaxicloud.com/constractor-da/"
+            },
+            {
+              "label": "Flådestyringsløsning, der styrker virksomheder over hele verdenDenne løsning giver virksomheder globalt mulighed for at optimere drift og effektivitet. JAXICLOUD FLEET MANAGEMENT er den ideelle partner for dem, der ønsker at forbedre deres flådestyring. Lær mere",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Hvad vi gør for din virksomhedJaxicloud Fleet Management Bus Solutions tilbyder en omfattende pakke af sikkerheds-, driftseffektivitets- og omkostningsbesparende fordele, hvilket i sidste ende fører til forbedret servicekvalitet og kundetilfredshed.Lær mere",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Smarter kontrol over dine maskiner på byggepladsenStyring af entreprenørmaskiner i realtid er ikke længere en luksus — det er en nødvendighed. Vores telematikløsninger giver fuldt overblik over dit udstyr og hjælper dig med at reducere omkostninger, forbedre effektiviteten og forhindre misbrug.Lær mere",
+          "ctaUrl": "https://www.jaxicloud.com/constractor-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Smarter Control Over Your Machines on SiteManaging construction machinery in real time is no longer a luxury — it’s a necessity. Our telematics solutions provide full visibility into your equipment, helping you reduce costs, improve efficiency, and prevent misuse.Learn more",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Fleet management solution that empowers businesses worldwideThis solution empowers businesses globally to optimize operations and efficiency. JAXICLOUD FLEET MANAGEMENT is the ideal partner for those looking to improve their fleet management.Learn More",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "What we do for your businessJaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.Learn More",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Smarter Control Over Your Machines on SiteManaging construction machinery in real time is no longer a luxury — it’s a necessity. Our telematics solutions provide full visibility into your equipment, helping you reduce costs, improve efficiency, and prevent misuse.Learn more",
+          "ctaUrl": "https://www.jaxicloud.com/en/constractor/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Intelligentere Kontrolle über Ihre Maschinen auf der BaustelleDie Verwaltung von Baumaschinen in Echtzeit ist kein Luxus mehr — sondern eine Notwendigkeit. Unsere Telematiklösungen bieten vollständige Transparenz über Ihre Geräte und helfen Ihnen, Kosten zu senken, die Effizienz zu steigern und Missbrauch zu verhindern.Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/de/constractor-de/"
+            },
+            {
+              "label": "Flottenmanagementlösung, die Unternehmen weltweit stärktDiese Lösung ermöglicht Unternehmen weltweit die Optimierung ihrer Abläufe und Effizienz. JAXICLOUD FLEET MANAGEMENT ist der ideale Partner für alle, die ihr Flottenmanagement verbessern möchten.Erfahren Sie mehr",
+              "href": "/de/overview-de/"
+            },
+            {
+              "label": "Was wir für Ihr Unternehmen tunDie Bus-Flottenmanagementlösungen von Jaxicloud bieten ein umfassendes Paket an Sicherheits-, Schutz-, Betriebseffizienz- und Kosteneinsparungsvorteilen, was letztendlich zu einer verbesserten Servicequalität und Kundenzufriedenheit führt.Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Intelligentere Kontrolle über Ihre Maschinen auf der BaustelleDie Verwaltung von Baumaschinen in Echtzeit ist kein Luxus mehr — sondern eine Notwendigkeit. Unsere Telematiklösungen bieten vollständige Transparenz über Ihre Geräte und helfen Ihnen, Kosten zu senken, die Effizienz zu steigern und Missbrauch zu verhindern.Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/de/constractor-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Un contrôle plus intelligent de vos machines sur siteLa gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.Apprendre encore plus",
+              "href": "https://www.jaxicloud.com/fr/constractor-fr/"
+            },
+            {
+              "label": "Solution de gestion de flotte qui donne aux entreprises les moyens d'agir dans le monde entierCette solution permet aux entreprises du monde entier d'optimiser leurs opérations et leur efficacité. JAXICLOUD FLEET MANAGEMENT est le partenaire idéal pour ceux qui souhaitent améliorer la gestion de leur flotte.Apprendre encore plus",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Ce que nous faisons pour votre entrepriseLes solutions de gestion de flottes de bus de Jaxicloud offrent un ensemble complet d'avantages en matière de sécurité, d'efficacité opérationnelle et de réduction des coûts, ce qui permet d'améliorer la qualité du service et la satisfaction des clients. Apprendre encore plus",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Un contrôle plus intelligent de vos machines sur siteLa gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.Apprendre encore plus",
+          "ctaUrl": "https://www.jaxicloud.com/fr/constractor-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Vlootbeheeroplossing die bedrijven wereldwijd sterker maaktDeze oplossing stelt bedrijven wereldwijd in staat hun bedrijfsvoering en efficiëntie te optimaliseren. JAXICLOUD FLEET MANAGEMENT is de ideale partner voor wie zijn wagenparkbeheer wil verbeteren.Meer informatie",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Wat wij voor uw bedrijf doenJaxicloud Fleet Management Bus Solutions biedt een uitgebreid pakket aan voordelen op het gebied van veiligheid, beveiliging, operationele efficiëntie en kostenbesparing, wat uiteindelijk leidt tot een betere servicekwaliteit en klanttevredenheid.Meer informatie",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Vlootbeheeroplossing die bedrijven wereldwijd sterker maaktDeze oplossing stelt bedrijven wereldwijd in staat hun bedrijfsvoering en efficiëntie te optimaliseren. JAXICLOUD FLEET MANAGEMENT is de ideale partner voor wie zijn wagenparkbeheer wil verbeteren.Meer informatie",
+          "ctaUrl": "https://www.jaxicloud.com/en/overview/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Smarter kontroll over maskinene dine på byggeplassenÅ administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.Lær mer",
+              "href": "https://www.jaxicloud.com/nb/constractor-no/"
+            },
+            {
+              "label": "Flåtestyringsløsning som styrker bedrifter over hele verdenDenne løsningen gir bedrifter globalt muligheten til å optimalisere drift og effektivitet. JAXICLOUD FLEET MANAGEMENT er den ideelle partneren for de som ønsker å forbedre flåtestyringen sin. Lær mer",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Hva vi gjør for din bedriftJaxicloud Fleet Management Bus Solutions tilbyr en omfattende pakke med fordeler innen sikkerhet, trygghet, driftseffektivitet og kostnadsbesparelser, noe som til slutt fører til forbedret servicekvalitet og kundetilfredshet. Gjør det for din bedrift. Lær mer",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Smarter kontroll over maskinene dine på byggeplassenÅ administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.Lær mer",
+          "ctaUrl": "https://www.jaxicloud.com/nb/constractor-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Smartare kontroll över dina maskiner på byggarbetsplatsenAtt hantera entreprenadmaskiner i realtid är inte längre en lyx — det är en nödvändighet. Våra telematiklösningar ger full insyn i din utrustning och hjälper dig att minska kostnader, förbättra effektiviteten och förhindra missbruk.Läs mer",
+              "href": "https://www.jaxicloud.com/sv/constractor-sv/"
+            },
+            {
+              "label": "Fleet management-lösning som stärker företag över hela världenDenna lösning ger företag globalt möjlighet att optimera drift och effektivitet. JAXICLOUD FLEET MANAGEMENT är den perfekta partnern för dem som vill förbättra sin flotthantering. Läs mer",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Vad vi gör för ditt företagJaxicloud Fleet Management Bus Solutions erbjuder ett omfattande paket med fördelar inom säkerhet, trygghet, driftseffektivitet och kostnadsbesparande åtgärder, vilket i slutändan leder till förbättrad servicekvalitet och kundnöjdhet.Läs mer",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Smartare kontroll över dina maskiner på byggarbetsplatsenAtt hantera entreprenadmaskiner i realtid är inte längre en lyx — det är en nödvändighet. Våra telematiklösningar ger full insyn i din utrustning och hjälper dig att minska kostnader, förbättra effektiviteten och förhindra missbruk.Läs mer",
+          "ctaUrl": "https://www.jaxicloud.com/sv/constractor-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Sahada makineleriniz üzerinde daha akıllı kontrolİnşaat makinelerini gerçek zamanlı yönetmek artık bir lüks değil — bir gerekliliktir. Telematik çözümlerimiz ekipmanlarınız üzerinde tam görünürlük sağlar, maliyetleri azaltmanıza, verimliliği artırmanıza ve kötüye kullanımı önlemenize yardımcı olur.Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/tr/constractor-tur/"
+            },
+            {
+              "label": "Dünya çapındaki işletmeleri güçlendiren filo yönetim çözümüBu çözüm, küresel ölçekte işletmelerin operasyonlarını ve verimliliklerini optimize etmelerini sağlar. JAXICLOUD FİLO YÖNETİMİ, filo yönetimini iyileştirmek isteyenler için ideal bir ortaktır.Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            },
+            {
+              "label": "Işletmeniz için neler yapıyoruz?Jaxicloud Filo Yönetimi Otobüs Çözümleri, emniyet, güvenlik, operasyonel verimlilik ve maliyet tasarrufu avantajlarından oluşan kapsamlı bir paket sunarak, sonuç olarak hizmet kalitesinin ve müşteri memnuniyetinin artmasına yol açar. Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            }
+          ],
+          "ctaLabel": "Sahada makineleriniz üzerinde daha akıllı kontrolİnşaat makinelerini gerçek zamanlı yönetmek artık bir lüks değil — bir gerekliliktir. Telematik çözümlerimiz ekipmanlarınız üzerinde tam görünürlük sağlar, maliyetleri azaltmanıza, verimliliği artırmanıza ve kötüye kullanımı önlemenize yardımcı olur.Daha fazla bilgi edin",
+          "ctaUrl": "https://www.jaxicloud.com/tr/constractor-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "statCounter",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "4125510",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "statCounter",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "2700",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "statCounter",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "160",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "statCounter",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "3699",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Applikationer, der gør din virksomhed nemmere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Applications to make your business easier",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Anwendungen, die Ihr Geschäft erleichtern",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Des applications pour faciliter votre activité",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Toepassingen om uw bedrijf gemakkelijker te maken",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Applikasjoner som gjør bedriften din enklere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Applikationer som gör ditt företag enklare",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İşinizi kolaylaştıracak uygulamalar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "richText",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Brug en af vores nøje udviklede applikationer, der gør din forretning lettere. Hvis du ønsker at spore tachografstatus, dæktilstande eller udføre køretøjs- og trailerinspektioner, vil løsninger som Tacho Simple, Safe Start eller TPMS hjælpe din logistik med hurtigere adgang til information og bedre flådestyring.",
+          "bodyHtml": "<p class=\"p1\">Brug en af vores nøje udviklede applikationer, der gør din forretning lettere. Hvis du ønsker at spore tachografstatus, dæktilstande eller udføre køretøjs- og trailerinspektioner, vil løsninger som <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> eller <span class=\"s1\"><b>TPMS</b></span> hjælpe din logistik med hurtigere adgang til information og bedre flådestyring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Use one of our carefully developed applications that males your busoness easer. If you want to track tachograph states, tire states or do the vehicle and trailer inspection, solutions such as Tacho Simple, Safe Start or TPMS will help your logicstics to faster get to the information and organize your fleet.",
+          "bodyHtml": "<p>Use one of our carefully developed applications that males your busoness easer. If you want to track tachograph states, tire states or do the vehicle and trailer inspection, solutions such as Tacho Simple, Safe Start or TPMS will help your logicstics to faster get to the information and organize your fleet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Nutzen Sie eine unserer sorgfältig entwickelten Anwendungen, die Ihr Unternehmen effizienter machen. Wenn Sie Tachographenstatus, Reifenzustände überwachen oder Fahrzeug- und Anhängerinspektionen durchführen möchten, helfen Lösungen wie Tacho Simple, Safe Start oder TPMS Ihrer Logistik, schneller auf Informationen zuzugreifen und Ihre Flotte besser zu organisieren.",
+          "bodyHtml": "<p class=\"p1\">Nutzen Sie eine unserer sorgfältig entwickelten Anwendungen, die Ihr Unternehmen effizienter machen. Wenn Sie Tachographenstatus, Reifenzustände überwachen oder Fahrzeug- und Anhängerinspektionen durchführen möchten, helfen Lösungen wie <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> oder <span class=\"s1\"><b>TPMS</b></span> Ihrer Logistik, schneller auf Informationen zuzugreifen und Ihre Flotte besser zu organisieren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Utilisez l’une de nos applications soigneusement développées pour simplifier votre activité. Si vous souhaitez suivre l’état du tachygraphe, l’état des pneus ou effectuer des inspections de véhicules et de remorques, des solutions telles que Tacho Simple, Safe Start ou TPMS aideront votre logistique à accéder plus rapidement aux informations et à mieux organiser votre flotte.",
+          "bodyHtml": "<p class=\"p1\">Utilisez l’une de nos applications soigneusement développées pour simplifier votre activité. Si vous souhaitez suivre l’état du tachygraphe, l’état des pneus ou effectuer des inspections de véhicules et de remorques, des solutions telles que <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> ou <span class=\"s1\"><b>TPMS</b></span> aideront votre logistique à accéder plus rapidement aux informations et à mieux organiser votre flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Gebruik een van onze zorgvuldig ontwikkelde applicaties die uw bedrijfsvoering eenvoudiger maken. Als u de status van de tachograaf, de conditie van banden wilt volgen of voertuig- en trailerinspecties wilt uitvoeren, helpen oplossingen zoals Tacho Simple, Safe Start of TPMS uw logistiek om sneller toegang te krijgen tot informatie en uw wagenpark beter te organiseren",
+          "bodyHtml": "<p class=\"p1\">Gebruik een van onze zorgvuldig ontwikkelde applicaties die uw bedrijfsvoering eenvoudiger maken. Als u de status van de tachograaf, de conditie van banden wilt volgen of voertuig- en trailerinspecties wilt uitvoeren, helpen oplossingen zoals <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> of <span class=\"s1\"><b>TPMS</b></span> uw logistiek om sneller toegang te krijgen tot informatie en uw wagenpark beter te organiseren</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bruk en av våre nøye utviklede applikasjoner som gjør virksomheten din enklere. Hvis du ønsker å overvåke tachografstatus, dekktilstand eller utføre kjøretøy- og tilhengerinspeksjoner, vil løsninger som Tacho Simple, Safe Start eller TPMS hjelpe logistikkteamet ditt med raskere tilgang til informasjon og bedre organisering av flåten.",
+          "bodyHtml": "<p class=\"p1\">Bruk en av våre nøye utviklede applikasjoner som gjør virksomheten din enklere. Hvis du ønsker å overvåke tachografstatus, dekktilstand eller utføre kjøretøy- og tilhengerinspeksjoner, vil løsninger som <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> eller <span class=\"s1\"><b>TPMS</b></span> hjelpe logistikkteamet ditt med raskere tilgang til informasjon og bedre organisering av flåten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Använd en av våra noggrant utvecklade applikationer som gör din verksamhet enklare. Om du vill följa färdskrivarstatus, däckstatus eller utföra fordons- och släpvagnsinspektioner, hjälper lösningar som Tacho Simple, Safe Start eller TPMS din logistik att snabbare få tillgång till information och organisera din fordonsflotta mer effektivt.",
+          "bodyHtml": "<p class=\"p1\">Använd en av våra noggrant utvecklade applikationer som gör din verksamhet enklare. Om du vill följa färdskrivarstatus, däckstatus eller utföra fordons- och släpvagnsinspektioner, hjälper lösningar som <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> eller <span class=\"s1\"><b>TPMS</b></span> din logistik att snabbare få tillgång till information och organisera din fordonsflotta mer effektivt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "İşinizi kolaylaştıran, özenle geliştirilmiş uygulamalarımızdan birini kullanın. Takograf durumlarını, lastik durumlarını takip etmek veya araç ve römork kontrolleri yapmak istiyorsanız, Tacho Simple, Safe Start veya TPMS gibi çözümler lojistik ekibinizin bilgilere daha hızlı ulaşmasına ve filonuzu daha verimli şekilde organize etmesine yardımcı olur.",
+          "bodyHtml": "<p class=\"p1\">İşinizi kolaylaştıran, özenle geliştirilmiş uygulamalarımızdan birini kullanın. Takograf durumlarını, lastik durumlarını takip etmek veya araç ve römork kontrolleri yapmak istiyorsanız, <span class=\"s1\"><b>Tacho Simple</b></span>, <span class=\"s1\"><b>Safe Start</b></span> veya <span class=\"s1\"><b>TPMS</b></span> gibi çözümler lojistik ekibinizin bilgilere daha hızlı ulaşmasına ve filonuzu daha verimli şekilde organize etmesine yardımcı olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "dualCta",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "elementskit-dual-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lær mere",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Lær mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Learn More",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Apprendre encore plus",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Apprendre encore plus",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Meer informatie",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Meer informatie",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Lær mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Läs mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/applications/"
+            }
+          ],
+          "ctaLabel": "Daha fazla bilgi edin",
+          "ctaUrl": "https://www.jaxicloud.com/en/applications/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Application",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Klik og tilslut",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Klik og tilslut",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Click and connect",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Click and connect",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Klicken und verbinden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Klicken und verbinden",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Cliquez et connectez-vous",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Cliquez et connectez-vous",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Klik en maak verbinding",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Klik en maak verbinding",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Klikk og koble til",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Klikk og koble til",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Klicka och anslut",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Klicka och anslut",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tıklayın ve bağlanın",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            },
+            {
+              "label": "Tıklayın ve bağlanın",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sikker start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/da/safe-start-da"
+            },
+            {
+              "label": "Sikker start",
+              "href": "/da/safe-start-da"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/da/safe-start-da",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Safe start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/en/safe-start-en"
+            },
+            {
+              "label": "Safe start",
+              "href": "/en/safe-start-en"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/en/safe-start-en",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Sicherer Start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/de/safe-start-de"
+            },
+            {
+              "label": "Sicherer Start",
+              "href": "/de/safe-start-de"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/de/safe-start-de",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Démarrage en toute sécurité",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/fr/safe-start-fr"
+            },
+            {
+              "label": "Démarrage en toute sécurité",
+              "href": "/fr/safe-start-fr"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/fr/safe-start-fr",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Veilig begin",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/nl/safe-start-hl"
+            },
+            {
+              "label": "Veilig begin",
+              "href": "/nl/safe-start-hl"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/nl/safe-start-hl",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Trygg start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/nb/safe-start-no"
+            },
+            {
+              "label": "Trygg start",
+              "href": "/nb/safe-start-no"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/nb/safe-start-no",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Säker start",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/sv/safe-start-sw"
+            },
+            {
+              "label": "Säker start",
+              "href": "/sv/safe-start-sw"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/sv/safe-start-sw",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Güvenli başlangıç",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "/tr/safe-start-tur"
+            },
+            {
+              "label": "Güvenli başlangıç",
+              "href": "/tr/safe-start-tur"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "/tr/safe-start-tur",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tacho simpel",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho simpel",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tacho simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho simple",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Tacho einfach",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho einfach",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Tachymètre simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tachymètre simple",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Tacho eenvoudig",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho eenvoudig",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tacho enkel",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho enkel",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tacho enkel",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tacho enkel",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tako basit",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            },
+            {
+              "label": "Tako basit",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "TPMS",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            },
+            {
+              "label": "TPMS",
+              "href": "https://www.jaxicloud.com/en/tpms-solutions/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/tpms-solutions/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Løsninger",
+          "body": "Se vores løsninger, som vores kunder allerede bruger",
+          "bodyHtml": "<p>Se vores løsninger, som vores kunder allerede bruger</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Solutions",
+          "body": "Take a look on our solutions that already our clients use",
+          "bodyHtml": "<p>Take a look on our solutions that already our clients use</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lösungen",
+          "body": "Werfen Sie einen Blick auf unsere Lösungen, die unsere Kunden bereits nutzen.",
+          "bodyHtml": "<p>Werfen Sie einen Blick auf unsere Lösungen, die unsere Kunden bereits nutzen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solutions",
+          "body": "Découvrez les solutions que nos clients utilisent déjà.",
+          "bodyHtml": "<p>Découvrez les solutions que nos clients utilisent déjà.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Oplossingen",
+          "body": "Bekijk onze oplossingen die onze klanten al gebruiken",
+          "bodyHtml": "<p>Bekijk onze oplossingen die onze klanten al gebruiken</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Løsninger",
+          "body": "Ta en titt på løsningene våre som kundene våre allerede bruker",
+          "bodyHtml": "<p>Ta en titt på løsningene våre som kundene våre allerede bruker</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Lösningar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Çözümler",
+          "body": "Müşterilerimizin halihazırda kullandığı çözümlerimize bir göz atın",
+          "bodyHtml": "<p>Müşterilerimizin halihazırda kullandığı çözümlerimize bir göz atın</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "faqAccordion",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-image-accordion.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Læs mere",
+              "href": "/daschcam-da/"
+            },
+            {
+              "label": "Læs mere",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Læs mere",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Læs mere",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Læs mere",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Læs mere",
+          "ctaUrl": "/daschcam-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Read more",
+              "href": "/en/dashcam"
+            },
+            {
+              "label": "Read more",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Read more",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Read more",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Read more",
+          "ctaUrl": "/en/dashcam",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "/de/dascham-de/"
+            },
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "/de/dascham-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "En savoir plus",
+              "href": "/fr/dashcam-fr/"
+            },
+            {
+              "label": "En savoir plus",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "En savoir plus",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "En savoir plus",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "En savoir plus",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "En savoir plus",
+          "ctaUrl": "/fr/dashcam-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lees meer",
+              "href": "/nl/dashcam-hl/"
+            },
+            {
+              "label": "Lees meer",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Lees meer",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Lees meer",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Lees meer",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Lees meer",
+          "ctaUrl": "/nl/dashcam-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lær mer",
+              "href": "/nb/dashcam-no/"
+            },
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Lær mer",
+          "ctaUrl": "/nb/dashcam-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Läs mer",
+              "href": "/sv/dashcam-sv/"
+            },
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Läs mer",
+          "ctaUrl": "/sv/dashcam-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "/tr/dashcam-tur/"
+            },
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/hecterra-agriculture/"
+            },
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/constractor/"
+            },
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/nimbus/"
+            },
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/"
+            }
+          ],
+          "ctaLabel": "Daha fazla bilgi edin",
+          "ctaUrl": "/tr/dashcam-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "heading",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tjenester som Jaxicloud tilbyder dig",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Sevices that Jaxicloud offers to you",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Dienstleistungen, die Jaxicloud Ihnen anbietet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Services que Jaxicloud vous propose",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Diensten die Jaxicloud u biedt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tjenester som Jaxicloud tilbyr deg",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tjänster som Jaxicloud erbjuder dig",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud'un size sunduğu hizmetler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "testimonial",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "elementskit-testimonial.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-22.49.12-scaled.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-22.49.12-scaled.png",
+          "width": 2560,
+          "height": 1316
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-22.49.39-scaled.png",
+          "width": 2560,
+          "height": 1321
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-22.50.34-scaled.png",
+          "width": 2560,
+          "height": 1332
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Højdepunkter og fordele ved JAXICLOUD FLEET MANAGEMENT-produktet",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT product highlights and benefits",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "JAXICLOUD FLOTTENMANAGEMENT – Produkthighlights und Vorteile",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Points forts et avantages du produit JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Productkenmerken en voordelen van JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT-produkthøydepunkter og fordeler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT-produktens höjdpunkter och fördelar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "JAXICLOUD FİLO YÖNETİMİ ürün özellikleri ve avantajları",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Europæiske sprog",
+          "body": "JAXICLOUD FLEET MANAGEMENT flådestyringssoftware er designet til at imødekomme behovene i forskellige brancher.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT flådestyringssoftware er designet til at imødekomme behovene i forskellige brancher.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "European languages",
+          "body": "JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Europäische Sprachen",
+          "body": "Die Flottenmanagement-Software JAXICLOUD FLEET MANAGEMENT wurde entwickelt, um den Bedürfnissen verschiedener Branchen gerecht zu werden.",
+          "bodyHtml": "<p>Die Flottenmanagement-Software JAXICLOUD FLEET MANAGEMENT wurde entwickelt, um den Bedürfnissen verschiedener Branchen gerecht zu werden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Langues européennes",
+          "body": "Le logiciel de gestion de flotte JAXICLOUD FLEET MANAGEMENT est conçu pour répondre aux besoins de divers secteurs d'activité.",
+          "bodyHtml": "<p>Le logiciel de gestion de flotte JAXICLOUD FLEET MANAGEMENT est conçu pour répondre aux besoins de divers secteurs d'activité.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Europese talen",
+          "body": "JAXICLOUD FLEET MANAGEMENT-software voor wagenparkbeheer is ontworpen om te voldoen aan de behoeften van verschillende sectoren.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT-software voor wagenparkbeheer is ontworpen om te voldoen aan de behoeften van verschillende sectoren.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Еuropeiske språk",
+          "body": "JAXICLOUD FLEET MANAGEMENT flåtestyringsprogramvare er utviklet for å møte behovene til ulike bransjer.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT flåtestyringsprogramvare er utviklet for å møte behovene til ulike bransjer.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Europeiska språk",
+          "body": "JAXICLOUD FLEET MANAGEMENT programvara för flotthantering är utformad för att möta behoven hos olika branscher.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT programvara för flotthantering är utformad för att möta behoven hos olika branscher.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Avrupa dilleri",
+          "body": "JAXICLOUD FİLO YÖNETİMİ filo yönetim yazılımı çeşitli sektörlerin ihtiyaçlarını karşılamak üzere tasarlanmıştır.",
+          "bodyHtml": "<p>JAXICLOUD FİLO YÖNETİMİ filo yönetim yazılımı çeşitli sektörlerin ihtiyaçlarını karşılamak üzere tasarlanmıştır.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "featureCard",
+      "order": 19,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Problemfri integration",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK og åben API muliggør problemfri integration af tilpassede løsninger med andre systemer, herunder ERP-, BI- og regnskabsapplikationer.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK og åben API muliggør problemfri integration af tilpassede løsninger med andre systemer, herunder ERP-, BI- og regnskabsapplikationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Seamless integrations",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications. </p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Nahtlose Integrationen",
+          "body": "Das JAXICLOUD FLEET MANAGEMENT SDK und die offene API ermöglichen die nahtlose Integration kundenspezifischer Lösungen mit anderen Systemen, einschließlich ERP-, BI- und Buchhaltungsanwendungen.",
+          "bodyHtml": "<p>Das JAXICLOUD FLEET MANAGEMENT SDK und die offene API ermöglichen die nahtlose Integration kundenspezifischer Lösungen mit anderen Systemen, einschließlich ERP-, BI- und Buchhaltungsanwendungen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Intégrations transparentes",
+          "body": "Le kit de développement logiciel (SDK) et l'API ouverte de JAXICLOUD FLEET MANAGEMENT permettent une intégration transparente des solutions personnalisées avec d'autres systèmes, notamment les applications ERP, BI et comptables.",
+          "bodyHtml": "<p>Le kit de développement logiciel (SDK) et l'API ouverte de JAXICLOUD FLEET MANAGEMENT permettent une intégration transparente des solutions personnalisées avec d'autres systèmes, notamment les applications ERP, BI et comptables.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Naadloze integraties",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK en open API maken naadloze integratie van op maat gemaakte oplossingen met andere systemen mogelijk, waaronder ERP-, BI- en boekhoudtoepassingen.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK en open API maken naadloze integratie van op maat gemaakte oplossingen met andere systemen mogelijk, waaronder ERP-, BI- en boekhoudtoepassingen.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sømløse integrasjoner",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK og åpen API muliggjør sømløs integrering av tilpassede løsninger med andre systemer, inkludert ERP-, BI- og regnskapsapplikasjoner.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK og åpen API muliggjør sømløs integrering av tilpassede løsninger med andre systemer, inkludert ERP-, BI- og regnskapsapplikasjoner.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Sömlösa integrationer",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK och öppet API möjliggör sömlös integration av anpassade lösningar med andra system, inklusive ERP-, BI- och redovisningsapplikationer.",
+          "bodyHtml": "<p>JAXICLOUD FLEET MANAGEMENT SDK och öppet API möjliggör sömlös integration av anpassade lösningar med andra system, inklusive ERP-, BI- och redovisningsapplikationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kusursuz entegrasyonlar",
+          "body": "JAXICLOUD FİLO YÖNETİMİ SDK'sı ve açık API, özelleştirilmiş çözümlerin ERP, BI ve muhasebe uygulamaları da dahil olmak üzere diğer sistemlerle sorunsuz bir şekilde entegre edilmesini sağlar.",
+          "bodyHtml": "<p>JAXICLOUD FİLO YÖNETİMİ SDK'sı ve açık API, özelleştirilmiş çözümlerin ERP, BI ve muhasebe uygulamaları da dahil olmak üzere diğer sistemlerle sorunsuz bir şekilde entegre edilmesini sağlar.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "featureCard",
+      "order": 20,
+      "sectionIndex": 5,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hardware-agnostisk løsning",
+          "body": "Integreres med de fleste GPS-enhedsmodeller — fra små scootertrackere til komplekse enheder med flere indgange, CAN-bus og OBD-understøttelse.",
+          "bodyHtml": "<p>Integreres med de fleste GPS-enhedsmodeller — fra små scootertrackere til komplekse enheder med flere indgange, CAN-bus og OBD-understøttelse.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Hardware-agnostic solution",
+          "body": "integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.",
+          "bodyHtml": "<p>integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Hardwareunabhängige Lösung",
+          "body": "Lässt sich in die meisten GPS-Gerätemodelle integrieren – von kleinen Scooter-Trackern bis hin zu komplexen Geräten mit mehreren Eingängen, CAN-Bus- und OBD-Unterstützung.",
+          "bodyHtml": "<p>Lässt sich in die meisten GPS-Gerätemodelle integrieren – von kleinen Scooter-Trackern bis hin zu komplexen Geräten mit mehreren Eingängen, CAN-Bus- und OBD-Unterstützung.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution indépendante du matériel",
+          "body": "Il s'intègre à la plupart des modèles d'appareils GPS, des petits traceurs pour scooters aux appareils complexes dotés de plusieurs entrées, d'une prise en charge CAN bus et OBD.",
+          "bodyHtml": "<p>Il s'intègre à la plupart des modèles d'appareils GPS, des petits traceurs pour scooters aux appareils complexes dotés de plusieurs entrées, d'une prise en charge CAN bus et OBD.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hardware-agnostische oplossing",
+          "body": "integreert met de meeste GPS-apparaatmodellen, van kleine scootertrackers tot complexe apparaten met meerdere ingangen, CAN-bus en OBD-ondersteuning.",
+          "bodyHtml": "<p>integreert met de meeste GPS-apparaatmodellen, van kleine scootertrackers tot complexe apparaten met meerdere ingangen, CAN-bus en OBD-ondersteuning.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Maskinvareuavhengig løsning",
+          "body": "integreres med de fleste GPS-enhetsmodeller – fra små scootersporere til komplekse enheter med flere innganger, CAN-buss og OBD-støtte.",
+          "bodyHtml": "<p>integreres med de fleste GPS-enhetsmodeller – fra små scootersporere til komplekse enheter med flere innganger, CAN-buss og OBD-støtte.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hårdvaruoberoende lösning",
+          "body": "integreras med de flesta GPS-enhetsmodeller – från små skoterspårare till komplexa enheter med flera ingångar, CAN-buss och OBD-stöd.",
+          "bodyHtml": "<p>integreras med de flesta GPS-enhetsmodeller – från små skoterspårare till komplexa enheter med flera ingångar, CAN-buss och OBD-stöd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Donanımdan bağımsız çözüm",
+          "body": "Küçük scooter takip cihazlarından, çoklu girişlere, CAN veri yoluna ve OBD desteğine sahip karmaşık cihazlara kadar çoğu GPS cihazı modeliyle entegre olur.",
+          "bodyHtml": "<p>Küçük scooter takip cihazlarından, çoklu girişlere, CAN veri yoluna ve OBD desteğine sahip karmaşık cihazlara kadar çoğu GPS cihazı modeliyle entegre olur.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "heading",
+      "order": 21,
+      "sectionIndex": 6,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad vi gør for din virksomhed",
+          "body": "Jaxicloud Fleet Management Bus Solutions tilbyder en omfattende pakke af sikkerheds-, driftseffektivitets- og omkostningsbesparende fordele, hvilket i sidste ende fører til forbedret servicekvalitet og kundetilfredshed.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions tilbyder en omfattende pakke af sikkerheds-, driftseffektivitets- og omkostningsbesparende fordele, hvilket i sidste ende fører til forbedret servicekvalitet og kundetilfredshed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What we do for your business",
+          "body": "Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions provide a comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Was wir für Ihr Unternehmen tun",
+          "body": "Die Bus-Flottenmanagementlösungen von Jaxicloud bieten ein umfassendes Paket an Sicherheits-, Schutz-, Betriebseffizienz- und Kosteneinsparungsvorteilen, was letztendlich zu einer verbesserten Servicequalität und Kundenzufriedenheit führt.",
+          "bodyHtml": "<p>Die Bus-Flottenmanagementlösungen von Jaxicloud bieten ein umfassendes Paket an Sicherheits-, Schutz-, Betriebseffizienz- und Kosteneinsparungsvorteilen, was letztendlich zu einer verbesserten Servicequalität und Kundenzufriedenheit führt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ce que nous faisons pour votre entreprise",
+          "body": "Les solutions de gestion de flottes de bus de Jaxicloud offrent un ensemble complet d'avantages en matière de sécurité, d'efficacité opérationnelle et de réduction des coûts, ce qui permet d'améliorer la qualité du service et la satisfaction des clients.",
+          "bodyHtml": "<p>Les solutions de gestion de flottes de bus de Jaxicloud offrent un ensemble complet d'avantages en matière de sécurité, d'efficacité opérationnelle et de réduction des coûts, ce qui permet d'améliorer la qualité du service et la satisfaction des clients.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Wat wij voor uw bedrijf doen",
+          "body": "Jaxicloud Fleet Management Bus Solutions biedt een uitgebreid pakket aan voordelen op het gebied van veiligheid, beveiliging, operationele efficiëntie en kostenbesparing, wat uiteindelijk leidt tot een betere servicekwaliteit en klanttevredenheid.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions biedt een uitgebreid pakket aan voordelen op het gebied van veiligheid, beveiliging, operationele efficiëntie en kostenbesparing, wat uiteindelijk leidt tot een betere servicekwaliteit en klanttevredenheid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva vi gjør for din bedrift",
+          "body": "Jaxicloud Fleet Management Bus Solutions tilbyr en omfattende pakke med fordeler innen sikkerhet, trygghet, driftseffektivitet og kostnadsbesparelser, noe som til slutt fører til forbedret servicekvalitet og kundetilfredshet.comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions tilbyr en omfattende pakke med fordeler innen sikkerhet, trygghet, driftseffektivitet og kostnadsbesparelser, noe som til slutt fører til forbedret servicekvalitet og kundetilfredshet.<br>comprehensive package of safety, security, operational efficiency and cost-saving benefits, ultimately leading to improved service quality and customer satisfaction.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad vi gör för ditt företag",
+          "body": "Jaxicloud Fleet Management Bus Solutions erbjuder ett omfattande paket med fördelar inom säkerhet, trygghet, driftseffektivitet och kostnadsbesparande åtgärder, vilket i slutändan leder till förbättrad servicekvalitet och kundnöjdhet.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management Bus Solutions erbjuder ett omfattande paket med fördelar inom säkerhet, trygghet, driftseffektivitet och kostnadsbesparande åtgärder, vilket i slutändan leder till förbättrad servicekvalitet och kundnöjdhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İşletmeniz için neler yapıyoruz?",
+          "body": "Jaxicloud Filo Yönetimi Otobüs Çözümleri, emniyet, güvenlik, operasyonel verimlilik ve maliyet tasarrufu avantajlarından oluşan kapsamlı bir paket sunarak, sonuç olarak hizmet kalitesinin ve müşteri memnuniyetinin artmasına yol açar.",
+          "bodyHtml": "<p>Jaxicloud Filo Yönetimi Otobüs Çözümleri, emniyet, güvenlik, operasyonel verimlilik ve maliyet tasarrufu avantajlarından oluşan kapsamlı bir paket sunarak, sonuç olarak hizmet kalitesinin ve müşteri memnuniyetinin artmasına yol açar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "dualCta",
+      "order": 22,
+      "sectionIndex": 6,
+      "widgetType": "elementskit-dual-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lær mere",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Lær mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Learn More",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Apprendre encore plus",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Apprendre encore plus",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Meer informatie",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Meer informatie",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Lær mer",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Lær mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Läs mer",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Läs mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha fazla bilgi edin",
+              "href": "https://www.jaxicloud.com/en/dashcam/"
+            }
+          ],
+          "ctaLabel": "Daha fazla bilgi edin",
+          "ctaUrl": "https://www.jaxicloud.com/en/dashcam/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "heading",
+      "order": 23,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Se vores partnere, der vælger os",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Take a look at our partners who choose us",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Werfen Sie einen Blick auf unsere Partner, die sich für uns entschieden haben.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Découvrez nos partenaires qui nous ont fait confiance.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bekijk onze partners die voor ons kiezen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Take a look at our partners who choose us",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Ta en titt på våra partners som väljer oss",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Bizi tercih eden ortaklarımıza bir göz atın",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "heading",
+      "order": 24,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ledende virksomheder har fundet en løsning til at styre deres forretning på den nemmeste måde ved at hyre vores virksomhed.",
+          "bodyHtml": "<p>Ledende virksomheder har fundet en løsning til at styre deres forretning på den nemmeste måde ved at hyre vores virksomhed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Leading companies have found a solution to manage their business in the easiest way by hiring our company.",
+          "bodyHtml": "<p>Leading companies have found a solution to manage their business in the easiest way by hiring our company.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Führende Unternehmen haben mit der Beauftragung unseres Unternehmens eine Lösung für die einfachste Verwaltung ihrer Geschäfte gefunden.",
+          "bodyHtml": "<p>Führende Unternehmen haben mit der Beauftragung unseres Unternehmens eine Lösung für die einfachste Verwaltung ihrer Geschäfte gefunden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les entreprises leaders ont trouvé une solution pour gérer leurs activités de la manière la plus simple en faisant appel à notre société.",
+          "bodyHtml": "<p>Les entreprises leaders ont trouvé une solution pour gérer leurs activités de la manière la plus simple en faisant appel à notre société.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Vooraanstaande bedrijven hebben een oplossing gevonden om hun bedrijf op een eenvoudige manier te beheren door ons bedrijf in te huren.",
+          "bodyHtml": "<p>Vooraanstaande bedrijven hebben een oplossing gevonden om hun bedrijf op een eenvoudige manier te beheren door ons bedrijf in te huren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Ledende selskaper har funnet en løsning for å administrere virksomheten sin på den enkleste måten ved å ansette vårt firma.",
+          "bodyHtml": "<p>Ledende selskaper har funnet en løsning for å administrere virksomheten sin på den enkleste måten ved å ansette vårt firma.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Ledande företag har hittat en lösning för att hantera sin verksamhet på enklast möjliga sätt genom att anlita oss.",
+          "bodyHtml": "<p>Ledande företag har hittat en lösning för att hantera sin verksamhet på enklast möjliga sätt genom att anlita oss.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Lider şirketler işlerini en kolay şekilde yönetmenin yolunu firmamızla çalışarak bulmuşlardır.",
+          "bodyHtml": "<p>Lider şirketler işlerini en kolay şekilde yönetmenin yolunu firmamızla çalışarak bulmuşlardır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "logoGrid",
+      "order": 25,
+      "sectionIndex": 7,
+      "widgetType": "elementskit-client-logo.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent2.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent3.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent4.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent5.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logoklijent6.jpg",
+          "width": 87,
+          "height": 73
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/cc_logo.png",
+          "width": 87,
+          "height": 87
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/03/imageedit_1_6695042034.png",
+          "width": 87,
+          "height": 87
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/03/imageedit_3_3643264032.png",
+          "width": 87,
+          "height": 87
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "heading",
+      "order": 26,
+      "sectionIndex": 8,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kommende begivenheder og nyheder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Upcomming events and news",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kommende Veranstaltungen und Neuigkeiten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Événements et actualités à venir",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Aankomende evenementen en nieuws",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kommende arrangementer og nyheter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kommande evenemang och nyheter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yaklaşan etkinlikler ve haberler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "blogPosts",
+      "order": 27,
+      "sectionIndex": 8,
+      "widgetType": "elementskit-blog-posts.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350-1024x448.png",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/05/Article-image-1024x615.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "en": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "de": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "fr": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "nl": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "nb": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "sv": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        },
+        "tr": {
+          "heading": "Q2 Opdateringer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "News da",
+              "href": "https://www.jaxicloud.com/category/news-da/"
+            },
+            {
+              "label": "Q2 Opdateringer",
+              "href": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "News en",
+              "href": "https://www.jaxicloud.com/en/category/news-en/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            },
+            {
+              "label": "News tur",
+              "href": "https://www.jaxicloud.com/tr/category/news-tr/"
+            },
+            {
+              "label": "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar",
+              "href": "https://www.jaxicloud.com/tr/2026/05/03/takip-yeterli-degil-filo-yonetiminde-oyunu-degistirmek-istiyorlar/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/2026/07/27/q2-opdateringer/",
+          "imageAlts": [
+            "Q2 Opdateringer",
+            "Q2 updates",
+            "Takip yeterli değil: filo yönetiminde oyunu değiştirmek istiyorlar"
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "heading",
+      "order": 28,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Klar til at blive dit eget redningscenter?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Ready to become your own rescue center?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Sind Sie bereit, Ihr eigenes Rettungszentrum zu werden?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Prêt à devenir votre propre centre de sauvetage ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Klaar om uw eigen opvangcentrum te worden?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Klar til å bli ditt eget redningssenter?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Redo att bli din egen räddningscentral?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kendi kurtarma merkeziniz olmaya hazır mısınız?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-30",
+      "type": "formEmbed",
+      "order": 29,
+      "sectionIndex": 9,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

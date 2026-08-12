@@ -1,0 +1,1997 @@
+{
+  "mergedAt": "2026-08-12T12:46:23.333Z",
+  "pageCount": 40,
+  "blockCount": 717,
+  "warnings": [
+    {
+      "slug": "click-connect",
+      "locale": "da",
+      "reason": "block_count_mismatch",
+      "detail": "da=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "de",
+      "reason": "block_count_mismatch",
+      "detail": "de=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "fr",
+      "reason": "block_count_mismatch",
+      "detail": "fr=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nl",
+      "reason": "block_count_mismatch",
+      "detail": "nl=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nb",
+      "reason": "block_count_mismatch",
+      "detail": "nb=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "sv",
+      "reason": "block_count_mismatch",
+      "detail": "sv=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "tr",
+      "reason": "block_count_mismatch",
+      "detail": "tr=12 vs en=11"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "da",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "da=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "de",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "de=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "fr",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nl",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nb",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "sv",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "tr",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=button.default vs en=heading.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "da",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "da=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "de",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "de=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "fr",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nl",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nb",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "sv",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "tr",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=heading.default vs en=eael-fluentform.default"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "da",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "de",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "fr",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nl",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "nb",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "sv",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "click-connect",
+      "locale": "tr",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "reason": "block_count_mismatch",
+      "detail": "tr=18 vs en=21"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-9",
+      "order": 8,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=image.default vs en=heading.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-11",
+      "order": 10,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=text-editor.default vs en=video.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-12",
+      "order": 11,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=video.default vs en=image.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-15",
+      "order": 14,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=heading.default vs en=video.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-16",
+      "order": 15,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-17",
+      "order": 16,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=image.default vs en=text-editor.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-19",
+      "order": 18,
+      "reason": "missing_block",
+      "detail": "no block at order 18 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-20",
+      "order": 19,
+      "reason": "missing_block",
+      "detail": "no block at order 19 (ref widgetType=image.default)"
+    },
+    {
+      "slug": "constractor",
+      "locale": "tr",
+      "blockId": "block-21",
+      "order": 20,
+      "reason": "missing_block",
+      "detail": "no block at order 20 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "reason": "block_count_mismatch",
+      "detail": "nl=21 vs en=20"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "blockId": "block-14",
+      "order": 13,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=eael-creative-button.default vs en=heading.default"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "blockId": "block-15",
+      "order": 14,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "blockId": "block-16",
+      "order": 15,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "blockId": "block-19",
+      "order": 18,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=image.default vs en=text-editor.default"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "blockId": "block-20",
+      "order": 19,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=text-editor.default vs en=eael-creative-button.default"
+    },
+    {
+      "slug": "cooling-monitoring",
+      "locale": "nl",
+      "reason": "extra_blocks",
+      "detail": "1 trailing block(s) ignored"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "reason": "block_count_mismatch",
+      "detail": "sv=47 vs en=48"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-42",
+      "order": 41,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-43",
+      "order": 42,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-44",
+      "order": 43,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-45",
+      "order": 44,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=image.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-46",
+      "order": 45,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-47",
+      "order": 46,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=image.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam",
+      "locale": "sv",
+      "blockId": "block-48",
+      "order": 47,
+      "reason": "missing_block",
+      "detail": "no block at order 47 (ref widgetType=image.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "reason": "block_count_mismatch",
+      "detail": "da=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "reason": "block_count_mismatch",
+      "detail": "de=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "reason": "block_count_mismatch",
+      "detail": "fr=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "reason": "block_count_mismatch",
+      "detail": "nl=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "reason": "block_count_mismatch",
+      "detail": "nb=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "reason": "block_count_mismatch",
+      "detail": "sv=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "reason": "block_count_mismatch",
+      "detail": "tr=27 vs en=34"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "da=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "de=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=text-editor.default vs en=image.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "da=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "de=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "da=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "de=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "da=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "de=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=text-editor.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "da=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "de=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "fr=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "sv=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "tr=eael-creative-button.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "missing_block",
+      "detail": "no block at order 27 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "missing_block",
+      "detail": "no block at order 28 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "missing_block",
+      "detail": "no block at order 29 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "missing_block",
+      "detail": "no block at order 30 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "missing_block",
+      "detail": "no block at order 31 (ref widgetType=heading.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "missing_block",
+      "detail": "no block at order 32 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "da",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "de",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "fr",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nl",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "nb",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "sv",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "locale": "tr",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=eael-creative-button.default)"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "reason": "block_count_mismatch",
+      "detail": "nl=14 vs en=19"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-6",
+      "order": 5,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=eael-info-box.default vs en=text-editor.default"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-10",
+      "order": 9,
+      "reason": "widget_type_mismatch",
+      "detail": "nl=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-15",
+      "order": 14,
+      "reason": "missing_block",
+      "detail": "no block at order 14 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-16",
+      "order": 15,
+      "reason": "missing_block",
+      "detail": "no block at order 15 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-17",
+      "order": 16,
+      "reason": "missing_block",
+      "detail": "no block at order 16 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "missing_block",
+      "detail": "no block at order 17 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "leasing-control",
+      "locale": "nl",
+      "blockId": "block-19",
+      "order": 18,
+      "reason": "missing_block",
+      "detail": "no block at order 18 (ref widgetType=eael-info-box.default)"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "reason": "block_count_mismatch",
+      "detail": "nb=33 vs en=34"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-6",
+      "order": 5,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=eael-info-box.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-12",
+      "order": 11,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=image.default vs en=eael-info-box.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-16",
+      "order": 15,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=image.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-17",
+      "order": 16,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-18",
+      "order": 17,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-19",
+      "order": 18,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-20",
+      "order": 19,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-21",
+      "order": 20,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-22",
+      "order": 21,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-23",
+      "order": 22,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-24",
+      "order": 23,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-25",
+      "order": 24,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-26",
+      "order": 25,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-27",
+      "order": 26,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-28",
+      "order": 27,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-29",
+      "order": 28,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-30",
+      "order": 29,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-31",
+      "order": 30,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-32",
+      "order": 31,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=heading.default vs en=text-editor.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-33",
+      "order": 32,
+      "reason": "widget_type_mismatch",
+      "detail": "nb=text-editor.default vs en=heading.default"
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "locale": "nb",
+      "blockId": "block-34",
+      "order": 33,
+      "reason": "missing_block",
+      "detail": "no block at order 33 (ref widgetType=text-editor.default)"
+    },
+    {
+      "slug": "services",
+      "locale": "da",
+      "blockId": "block-6",
+      "order": 5,
+      "reason": "widget_type_mismatch",
+      "detail": "da=video.default vs en=image.default"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "about-us",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 41,
+      "warningCount": 0
+    },
+    {
+      "slug": "applications",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 2,
+      "warningCount": 0
+    },
+    {
+      "slug": "click-connect",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 11,
+      "warningCount": 28
+    },
+    {
+      "slug": "constractor",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 21,
+      "warningCount": 12
+    },
+    {
+      "slug": "contact",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 8,
+      "warningCount": 0
+    },
+    {
+      "slug": "cooling-monitoring",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 20,
+      "warningCount": 7
+    },
+    {
+      "slug": "dashcam",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 48,
+      "warningCount": 8
+    },
+    {
+      "slug": "dashcam-bus-truck",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 34,
+      "warningCount": 91
+    },
+    {
+      "slug": "data-protection",
+      "pageKind": "legal",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 2,
+      "warningCount": 0
+    },
+    {
+      "slug": "e-drivers-book",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 12,
+      "warningCount": 0
+    },
+    {
+      "slug": "eco-drive",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 20,
+      "warningCount": 0
+    },
+    {
+      "slug": "event-list",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 3,
+      "warningCount": 0
+    },
+    {
+      "slug": "faq",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 3,
+      "warningCount": 0
+    },
+    {
+      "slug": "fleetrun-fleet-volunteer",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 6,
+      "warningCount": 0
+    },
+    {
+      "slug": "fuel-management-system",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 18,
+      "warningCount": 0
+    },
+    {
+      "slug": "geolocation-of-construction-tools",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 15,
+      "warningCount": 0
+    },
+    {
+      "slug": "hecterra-agriculture",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 10,
+      "warningCount": 0
+    },
+    {
+      "slug": "home",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 30,
+      "warningCount": 0
+    },
+    {
+      "slug": "home-214",
+      "pageKind": "marketing",
+      "locales": [
+        "en"
+      ],
+      "blockCount": 30,
+      "warningCount": 0
+    },
+    {
+      "slug": "homepage",
+      "pageKind": "marketing",
+      "locales": [
+        "en"
+      ],
+      "blockCount": 71,
+      "warningCount": 0
+    },
+    {
+      "slug": "jaxicloud-platform",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 18,
+      "warningCount": 0
+    },
+    {
+      "slug": "leasing-control",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 19,
+      "warningCount": 8
+    },
+    {
+      "slug": "logistics-delivery-system",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 34,
+      "warningCount": 22
+    },
+    {
+      "slug": "lorry",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 29,
+      "warningCount": 0
+    },
+    {
+      "slug": "news",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 2,
+      "warningCount": 0
+    },
+    {
+      "slug": "nimbus",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 19,
+      "warningCount": 0
+    },
+    {
+      "slug": "opening-detection-of-truck-side-panels",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 8,
+      "warningCount": 0
+    },
+    {
+      "slug": "our-team",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 9,
+      "warningCount": 0
+    },
+    {
+      "slug": "overview",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 17,
+      "warningCount": 0
+    },
+    {
+      "slug": "privacy-policy",
+      "pageKind": "legal",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 2,
+      "warningCount": 0
+    },
+    {
+      "slug": "product-video",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 5,
+      "warningCount": 0
+    },
+    {
+      "slug": "registration-of-truck-door-opening",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 19,
+      "warningCount": 0
+    },
+    {
+      "slug": "safe-start",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 21,
+      "warningCount": 0
+    },
+    {
+      "slug": "services",
+      "pageKind": "marketing",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 20,
+      "warningCount": 1
+    },
+    {
+      "slug": "tacho-live",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 16,
+      "warningCount": 0
+    },
+    {
+      "slug": "temperature-monitoring-work",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 15,
+      "warningCount": 0
+    },
+    {
+      "slug": "tpms-ebs-cooling-fuel-monitoring",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 8,
+      "warningCount": 0
+    },
+    {
+      "slug": "tpms-solutions",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 7,
+      "warningCount": 0
+    },
+    {
+      "slug": "transport-telematics",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 26,
+      "warningCount": 0
+    },
+    {
+      "slug": "wia-tag",
+      "pageKind": "solution",
+      "locales": [
+        "da",
+        "de",
+        "en",
+        "fr",
+        "nb",
+        "nl",
+        "sv",
+        "tr"
+      ],
+      "blockCount": 18,
+      "warningCount": 0
+    }
+  ]
+}

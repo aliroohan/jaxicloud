@@ -1,0 +1,11 @@
+/* archetype: stackedDarkCards */
+.page{background:#0f172a;color:#f8fafc}
+.muted{color:rgba(248,250,252,0.68)}
+.accent{color:#38bdf8}
+
+.page{background:#0f172a;color:#f8fafc}
+.hero{padding:clamp(4rem,9vw,6rem) 0 2rem}.title{font-size:clamp(2.2rem,5vw,3.5rem);color:#f8fafc;max-width:18ch}
+.stack{display:flex;flex-direction:column;gap:1rem;padding:1rem 0 4rem}
+.card{padding:clamp(1.75rem,3vw,2.5rem);background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:1.25rem}
+.bodyBand{padding:2rem 0 5rem;max-width:48rem;color:rgba(248,250,252,0.68)}
+

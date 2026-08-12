@@ -1,0 +1,1912 @@
+{
+  "slug": "leasing-control",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Leasing control DA",
+    "en": "Leasing control",
+    "de": "Leasing control – DE",
+    "fr": "Leasing control – FR",
+    "nl": "Leasing control – HL",
+    "nb": "Leasing control – NO",
+    "sv": "Leasing control – SV",
+    "tr": "Leasing control – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Leasing kontrol - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Leasing control - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "LeaseControl - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Contrôle du bail - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "LeaseControl - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "LeaseControl - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Leasing kontroll - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Kiralama kontrolü - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/leasing-control-da/",
+    "en": "https://www.jaxicloud.com/en/leasing-control/",
+    "de": "https://www.jaxicloud.com/de/leasing-control-de/",
+    "fr": "https://www.jaxicloud.com/fr/leasing-control-fr/",
+    "nl": "https://www.jaxicloud.com/nl/leasing-control-hl/",
+    "nb": "https://www.jaxicloud.com/nb/leasing-control-no/",
+    "sv": "https://www.jaxicloud.com/sv/leasing-control-sv/",
+    "tr": "https://www.jaxicloud.com/tr/leasing-control-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Leasing - billeje",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Leasing-car rental",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Leasing-Autovermietung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "location de voiture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Leasing-autoverhuur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Leasing-bilutleie",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Leasing-biluthyrning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Araç kiralama",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "GPS-sporingsløsning til billeasing- og bilfinansieringsselskaber",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "GPS tracking solution for car leasing and car finance companies",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "GPS-Tracking-Lösung für Autoleasing- und Autofinanzierungsunternehmen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution de suivi GPS pour les sociétés de leasing et de financement automobile",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "GPS-trackingoplossing voor autolease- en autofinancieringsmaatschappijen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "GPS-sporingsløsning for billeasing- og bilfinansieringsselskaper",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "GPS-spårningslösning för billeasing- och bilfinansieringsföretag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "GPS tracking solution for car leasing and car finance companies",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "En pålidelig software til billeasing til lokalisering og inddrivelseBilfinansiering, billån og billeasing er et attraktivt, men meget risikabelt marked. Biltyveri, forsinkede betalinger, misligholdelser og dyre inddrivelsesprocedurer afskrækker bilforhandlere og finansieringsselskaber fra at vokse eller opretholde status quo. Det samme gør de upålidelige GPS-sporingsværktøjer, der bare ikke hjælper.Det er her, du ændrer landskabet med LeaseControl, en billeasingsoftware. Introducer dens telematik- og IoT-funktioner for at beskytte finansierede køretøjer, beskytte forhandlernes overskud og give dem reel forretningsværdi.",
+          "bodyHtml": "<p>En pålidelig software til billeasing til lokalisering og inddrivelse</p><p>Bilfinansiering, billån og billeasing er et attraktivt, men meget risikabelt marked. Biltyveri, forsinkede betalinger, misligholdelser og dyre inddrivelsesprocedurer afskrækker bilforhandlere og finansieringsselskaber fra at vokse eller opretholde status quo. Det samme gør de upålidelige GPS-sporingsværktøjer, der bare ikke hjælper.</p><p>Det er her, du ændrer landskabet med LeaseControl, en billeasingsoftware. Introducer dens telematik- og IoT-funktioner for at beskytte finansierede køretøjer, beskytte forhandlernes overskud og give dem reel forretningsværdi.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "A reliable vehicle leasing software for locating and recoveringCar financing, car loans and car leasing is an attractive, yet very risky market. Car theft, late payments, defaults and expensive recovery procedures discourage car dealers and finance companies from growing or maintaining the status quo. So do the unreliable GPS tracking tools that just don’t help.This is where you change the landscape with LeaseControl, an auto leasing software. Introduce its telematics and IoT capabilities to protect financed vehicles, protect dealers’ profits and provide them with real business value.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">A reliable vehicle leasing software for locating and recovering</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Car financing, car loans and car leasing is an attractive, yet very risky market. Car theft, late payments, defaults and expensive recovery procedures discourage car dealers and finance companies from growing or maintaining the status quo. So do the unreliable GPS tracking tools that just don’t help.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This is where you change the landscape with LeaseControl, an auto leasing software. Introduce its telematics and IoT capabilities to protect financed vehicles, protect dealers’ profits and provide them with real business value.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Eine zuverlässige Fahrzeugleasing-Software zum Auffinden und WiederherstellenAutofinanzierung, Autokredit und Autoleasing sind ein attraktiver, aber auch sehr riskanter Markt. Autodiebstahl, verspätete Zahlungen, Zahlungsausfälle und teure Beitreibungsverfahren halten Autohändler und Finanzunternehmen davon ab, den Status quo auszubauen oder aufrechtzuerhalten. Das gilt auch für die unzuverlässigen GPS-Tracking-Tools, die einfach nicht helfen.Hier verändern Sie die Landschaft mit LeaseControl, einer Autoleasing-Software. Führen Sie seine Telematik- und IoT-Funktionen ein, um finanzierte Fahrzeuge zu schützen, die Gewinne der Händler zu schützen und ihnen einen echten Geschäftswert zu bieten.",
+          "bodyHtml": "<p>Eine zuverlässige Fahrzeugleasing-Software zum Auffinden und Wiederherstellen</p><p>Autofinanzierung, Autokredit und Autoleasing sind ein attraktiver, aber auch sehr riskanter Markt. Autodiebstahl, verspätete Zahlungen, Zahlungsausfälle und teure Beitreibungsverfahren halten Autohändler und Finanzunternehmen davon ab, den Status quo auszubauen oder aufrechtzuerhalten. Das gilt auch für die unzuverlässigen GPS-Tracking-Tools, die einfach nicht helfen.</p><p>Hier verändern Sie die Landschaft mit LeaseControl, einer Autoleasing-Software. Führen Sie seine Telematik- und IoT-Funktionen ein, um finanzierte Fahrzeuge zu schützen, die Gewinne der Händler zu schützen und ihnen einen echten Geschäftswert zu bieten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Un logiciel de leasing automobile fiable pour localiser et récupérer les véhiculesLe financement, les prêts et le leasing automobile constituent un marché attractif, mais très risqué. Le vol de véhicules, les retards de paiement, les défauts de paiement et les procédures de récupération coûteuses découragent les concessionnaires et les sociétés de financement de se développer ou de maintenir leur activité. Les outils de géolocalisation peu fiables, voire inefficaces, contribuent également à ce phénomène.C’est là que LeaseControl, un logiciel de leasing automobile, change la donne. Grâce à ses fonctionnalités télématiques et IoT, protégez les véhicules financés, préservez la rentabilité des concessionnaires et apportez-leur une réelle valeur ajoutée.",
+          "bodyHtml": "<p>Un logiciel de leasing automobile fiable pour localiser et récupérer les véhicules</p><p>Le financement, les prêts et le leasing automobile constituent un marché attractif, mais très risqué. Le vol de véhicules, les retards de paiement, les défauts de paiement et les procédures de récupération coûteuses découragent les concessionnaires et les sociétés de financement de se développer ou de maintenir leur activité. Les outils de géolocalisation peu fiables, voire inefficaces, contribuent également à ce phénomène.</p><p>C’est là que LeaseControl, un logiciel de leasing automobile, change la donne. Grâce à ses fonctionnalités télématiques et IoT, protégez les véhicules financés, préservez la rentabilité des concessionnaires et apportez-leur une réelle valeur ajoutée.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Betrouwbare autoleasesoftware voor het lokaliseren en terugvindenAutofinancieringen, autoleningen en autoleasing zijn een aantrekkelijke, maar zeer risicovolle markt. Autodiefstal, betalingsachterstanden, wanbetalingen en dure invorderingsprocedures ontmoedigen autodealers en financieringsmaatschappijen om te groeien of de status quo te handhaven. Dat geldt ook voor de onbetrouwbare GPS-trackingtools die gewoon niet helpen.Hier verandert u het landschap met LeaseControl, autoleasingsoftware. Introductie van zijn telematica- en IoT-mogelijkheden om gefinancierde voertuigen te beschermen, de winsten van dealers te beschermen en hen echte bedrijfswaarde te bieden.",
+          "bodyHtml": "<p>Betrouwbare autoleasesoftware voor het lokaliseren en terugvinden</p><p>Autofinancieringen, autoleningen en autoleasing zijn een aantrekkelijke, maar zeer risicovolle markt. Autodiefstal, betalingsachterstanden, wanbetalingen en dure invorderingsprocedures ontmoedigen autodealers en financieringsmaatschappijen om te groeien of de status quo te handhaven. Dat geldt ook voor de onbetrouwbare GPS-trackingtools die gewoon niet helpen.</p><p>Hier verandert u het landschap met LeaseControl, autoleasingsoftware. Introductie van zijn telematica- en IoT-mogelijkheden om gefinancierde voertuigen te beschermen, de winsten van dealers te beschermen en hen echte bedrijfswaarde te bieden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "En pålitelig programvare for leasing av kjøretøy for å finne og gjenoppretteBilfinansiering, billån og billeasing er et attraktivt, men likevel svært risikabelt marked. Biltyveri, forsinkede betalinger, mislighold og dyre gjenvinningsprosedyrer fraråder bilforhandlere og finansselskaper å vokse eller opprettholde status quo. Det samme gjør de upålitelige GPS-sporingsverktøyene som bare ikke hjelper.Det er her du endrer landskapet med LeaseControl, en programvare for autoleasing. Introduser sine telematikk- og IoT-funksjoner for å beskytte finansierte kjøretøy, beskytte forhandlernes fortjeneste og gi dem reell forretningsverdi.",
+          "bodyHtml": "<p>En pålitelig programvare for leasing av kjøretøy for å finne og gjenopprette</p><p>Bilfinansiering, billån og billeasing er et attraktivt, men likevel svært risikabelt marked. Biltyveri, forsinkede betalinger, mislighold og dyre gjenvinningsprosedyrer fraråder bilforhandlere og finansselskaper å vokse eller opprettholde status quo. Det samme gjør de upålitelige GPS-sporingsverktøyene som bare ikke hjelper.</p><p>Det er her du endrer landskapet med LeaseControl, en programvare for autoleasing. Introduser sine telematikk- og IoT-funksjoner for å beskytte finansierte kjøretøy, beskytte forhandlernes fortjeneste og gi dem reell forretningsverdi.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "En pålitlig programvara för fordonsleasing för att lokalisera och återkrävaBilfinansiering, billån och billeasing är en attraktiv, men mycket riskabel marknad. Bilstölder, sena betalningar, betalningsförsummelser och dyra återhämtningsförfaranden avskräcker bilhandlare och finansbolag från att växa eller bibehålla status quo. Det gör även de opålitliga GPS-spårningsverktygen som helt enkelt inte hjälper.Det är här du förändrar landskapet med LeaseControl, en programvara för fordonsleasing. Introducera dess telematik- och IoT-funktioner för att skydda finansierade fordon, skydda återförsäljarnas vinster och ge dem verkligt affärsvärde.",
+          "bodyHtml": "<p>En pålitlig programvara för fordonsleasing för att lokalisera och återkräva</p><p>Bilfinansiering, billån och billeasing är en attraktiv, men mycket riskabel marknad. Bilstölder, sena betalningar, betalningsförsummelser och dyra återhämtningsförfaranden avskräcker bilhandlare och finansbolag från att växa eller bibehålla status quo. Det gör även de opålitliga GPS-spårningsverktygen som helt enkelt inte hjälper.</p><p>Det är här du förändrar landskapet med LeaseControl, en programvara för fordonsleasing. Introducera dess telematik- och IoT-funktioner för att skydda finansierade fordon, skydda återförsäljarnas vinster och ge dem verkligt affärsvärde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Araç kiralama işlemlerinde güvenilir bir yazılım: Kayıp ve Bulunan Araçları Takip Etme ve Geri AlmaAraç finansmanı, araç kredileri ve araç kiralama, cazip ancak çok riskli bir pazardır. Araç hırsızlığı, gecikmiş ödemeler, temerrütler ve pahalı geri alma prosedürleri, araç bayilerini ve finans şirketlerini büyümekten veya mevcut durumu korumaktan caydırır. Ayrıca, işe yaramayan güvenilmez GPS takip araçları da aynı şekilde engel teşkil eder.İşte burada, araç kiralama yazılımı LeaseControl ile durumu değiştirebilirsiniz. Finanse edilen araçları korumak, bayilerin karlarını güvence altına almak ve onlara gerçek iş değeri sağlamak için telematik ve IoT özelliklerini kullanın.",
+          "bodyHtml": "<p>Araç kiralama işlemlerinde güvenilir bir yazılım: Kayıp ve Bulunan Araçları Takip Etme ve Geri Alma</p><p>Araç finansmanı, araç kredileri ve araç kiralama, cazip ancak çok riskli bir pazardır. Araç hırsızlığı, gecikmiş ödemeler, temerrütler ve pahalı geri alma prosedürleri, araç bayilerini ve finans şirketlerini büyümekten veya mevcut durumu korumaktan caydırır. Ayrıca, işe yaramayan güvenilmez GPS takip araçları da aynı şekilde engel teşkil eder.</p><p>İşte burada, araç kiralama yazılımı LeaseControl ile durumu değiştirebilirsiniz. Finanse edilen araçları korumak, bayilerin karlarını güvence altına almak ve onlara gerçek iş değeri sağlamak için telematik ve IoT özelliklerini kullanın.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvorfor vælge Jaxicloud flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Why choose Jaxicloud fleet management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "WARUM WÄHLEN JAXICLOUD FLOTTENMANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Pourquoi choisir la gestion de flotte Jaxicloud ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "De belangrijkste functies van Jaxicloud vlootbeheer Leasingcontrole",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvorfor velge Jaxicloud fleet management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Varför välja Jaxicloud flotthantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Neden Jaxicloud filo yönetimini seçmelisiniz?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.",
+          "bodyHtml": "<p>Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Découvrez comment Jaxicloud vous permet de gérer votre entreprise en toute simplicité.",
+          "bodyHtml": "<p>Découvrez comment Jaxicloud vous permet de gérer votre entreprise en toute simplicité.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt",
+          "bodyHtml": "<p>Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.",
+          "bodyHtml": "<p>Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Markedsekspansion i nye nicher",
+          "body": "IntegrationsfunktionerNem integration med andre systemer ved hjælp af SDKFor tjenesteudbydere:Bevist teknologiBaseret på en pålidelig JaxiCloud-platform.Erfaren udbyder:Bakket op af to årtier inden for telematik og IoT.EkspertfællesskabAdgang til et stort fællesskab af telematik- og IoT-eksperter.FLÅDESPORINGENS ALDER – NYD DET BRUGERVENLIGT",
+          "bodyHtml": "<p>Integrationsfunktioner<br>Nem integration med andre systemer ved hjælp af SDK</p><p><strong>For tjenesteudbydere:</strong><br>Bevist teknologi<br>Baseret på en pålidelig JaxiCloud-platform.</p><p><strong>Erfaren udbyder:</strong><br>Bakket op af to årtier inden for telematik og IoT.</p><p><strong>Ekspertfællesskab</strong><br>Adgang til et stort fællesskab af telematik- og IoT-eksperter.</p><p><strong>FLÅDESPORINGENS ALDER – NYD DET BRUGERVENLIGT</strong></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Market expansion venture into new niches",
+          "body": "Integration featuresEasily integrate with other systems using SDKFor service providers:Proven technologyBased on reliable JaxiCloud platform.Experienced provider:Backed by two decades in telematics and IoT.Expert communityAccess to a large community of telematics and IoT experts.AGE OF FLEET TRACKING ENJOY IT USER-FRIENDLY",
+          "bodyHtml": "<p><strong>Integration features</strong><br>Easily integrate with other systems using SDK</p><p><strong>For service providers:<br></strong>Proven technology<br>Based on reliable JaxiCloud platform.</p><p><strong>Experienced provider:<br></strong>Backed by two decades in telematics and IoT.</p><p><strong>Expert community<br></strong>Access to a large community of telematics and IoT experts.</p><p><strong>AGE OF FLEET TRACKING </strong><strong>ENJOY IT </strong><strong>USER-FRIENDLY</strong></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Marktexpansionsunternehmen in neue Nischen",
+          "body": "IntegrationsfunktionenEinfache Integration mit anderen Systemen über SDKFür Dienstleister:Bewährte Technologie:Basierend auf der zuverlässigen JaxiCloud-Plattform.Erfahrener Anbieter:Unterstützt durch zwei Jahrzehnte Erfahrung in Telematik und IoT.Experten-CommunityZugriff auf eine große Community von Telematik- und IoT-Experten.",
+          "bodyHtml": "<p><strong>Integrationsfunktionen</strong></p><p>Einfache Integration mit anderen Systemen über SDK</p><p><strong>Für Dienstleister:</strong></p><p>Bewährte Technologie:</p><p><strong>Basierend auf der zuverlässigen JaxiCloud-Plattform.</strong></p><p>Erfahrener Anbieter:</p><p>Unterstützt durch zwei Jahrzehnte Erfahrung in Telematik und IoT.</p><p><strong>Experten-Community</strong></p><p>Zugriff auf eine große Community von Telematik- und IoT-Experten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "expansion du marché vers de nouveaux créneaux",
+          "body": "Fonctionnalités d’intégrationIntégration facile avec d’autres systèmes grâce au SDKPour les fournisseurs de services :Technologie éprouvéeBasée sur la plateforme fiable JaxiCloud.Fournisseur expérimenté :Fort de vingt ans d’expérience en télématique et IoT.Communauté d’expertsAccès à une vaste communauté d’experts en télématique et IoT.L’ÈRE DU SUIVI DE FLOTTE : UNE UTILISATION CONVIVIALE",
+          "bodyHtml": "<p><strong>Fonctionnalités d’intégration</strong></p><p>Intégration facile avec d’autres systèmes grâce au SDK</p><p>Pour les fournisseurs de services :</p><p><strong>Technologie éprouvée</strong></p><p>Basée sur la plateforme fiable JaxiCloud.</p><p><strong>Fournisseur expérimenté :</strong></p><p>Fort de vingt ans d’expérience en télématique et IoT.</p><p><strong>Communauté d’experts</strong></p><p>Accès à une vaste communauté d’experts en télématique et IoT.</p><p><br>L’ÈRE DU SUIVI DE FLOTTE : UNE UTILISATION CONVIVIALE</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Stressvrij herstel",
+          "body": "Voorkom diefstal en ongeoorloofde verplaatsing van gefinancierde voertuigen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Voorkom diefstal en ongeoorloofde verplaatsing van gefinancierde voertuigen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Markedsutvidelse: Våg deg inn i nye nisjer.",
+          "body": "Klar til bruk:Bransjespesifikk løsning.Integrasjonsfunksjoner:Integrer enkelt med andre systemer ved hjelp av SDKFor tjenesteleverandører:Utprøvd teknologi:Basert på pålitelig JaxiCloud-plattform.Erfaren leverandør:Støttet av to tiår innen telematikk og IoT.Ekspertfellesskap:Tilgang til et stort fellesskap av telematikk- og IoT-eksperter.",
+          "bodyHtml": "<p><strong>Klar til bruk:</strong></p><p>Bransjespesifikk løsning.</p><p>Integrasjonsfunksjoner:</p><p>Integrer enkelt med andre systemer ved hjelp av SDK</p><p>For tjenesteleverandører:<br>Utprøvd teknologi:</p><p>Basert på pålitelig JaxiCloud-plattform.</p><p><strong>Erfaren leverandør:</strong></p><p>Støttet av to tiår innen telematikk og IoT.</p><p>Ekspertfellesskap:</p><p>Tilgang til et stort fellesskap av telematikk- og IoT-eksperter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Marknadsexpansionssatsning in i nya nischer",
+          "body": "IntegrationsfunktionerEnkel integrering med andra system med hjälp av SDKFör tjänsteleverantörer:Beprövad teknikBaserad på pålitlig JaxiCloud-plattform.Erfaren leverantör:Backad av två decenniers erfarenhet inom telematik och IoT.ExpertgemenskapTillgång till en stor gemenskap av telematik- och IoT-experter.FLOTTSPÅRNINGENS TIDSPÄRNING – NJUT AV DET ANVÄNDARVÄNLIGT",
+          "bodyHtml": "<p>Integrationsfunktioner<br>Enkel integrering med andra system med hjälp av SDK</p><p>För tjänsteleverantörer:<br>Beprövad teknik<br>Baserad på pålitlig JaxiCloud-plattform.</p><p>Erfaren leverantör:<br>Backad av två decenniers erfarenhet inom telematik och IoT.</p><p>Expertgemenskap<br>Tillgång till en stor gemenskap av telematik- och IoT-experter.</p><p>FLOTTSPÅRNINGENS TIDSPÄRNING – NJUT AV DET ANVÄNDARVÄNLIGT</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Pazar genişlemesi, yeni nişlere giriş girişimi",
+          "body": "Entegrasyon ÖzellikleriSDK kullanarak diğer sistemlerle kolayca entegre edinServis sağlayıcılar için:Kanıtlanmış teknolojiGüvenilir JaxiCloud platformuna dayanmaktadır.Deneyimli sağlayıcı:Telematik ve IoT alanında yirmi yıllık deneyimle desteklenmektedir.Uzman topluluğuGeniş bir telematik ve IoT uzmanları topluluğuna erişim.FİLO TAKİP ÇAĞI, KULLANICI DOSTU İLE KEYFİNİ ÇIKARIN",
+          "bodyHtml": "<p>Entegrasyon Özellikleri<br>SDK kullanarak diğer sistemlerle kolayca entegre edin</p><p>Servis sağlayıcılar için:<br>Kanıtlanmış teknoloji<br>Güvenilir JaxiCloud platformuna dayanmaktadır.</p><p>Deneyimli sağlayıcı:<br>Telematik ve IoT alanında yirmi yıllık deneyimle desteklenmektedir.</p><p>Uzman topluluğu<br>Geniş bir telematik ve IoT uzmanları topluluğuna erişim.</p><p>FİLO TAKİP ÇAĞI, KULLANICI DOSTU İLE KEYFİNİ ÇIKARIN</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Flådesporingens tidsalder, nyd det",
+          "body": "Markedsdynamik:Vækst på markedet for billån trods udfordringer.JaxiClouds tilbud:En GPS-sporingsløsning designet til automatisk finansiering.Væsentlige elementer:Værktøjer til sporing og gendannelse af køretøjers placering.Brancherisici og løsninger:Håndtering af udfordringer, som billångivere står over for, med JaxiCloud.Detektering af risici:Brug af geofences og notifikationer til at forudse potentielle problemer.Hurtige svar:Fjernindstilling af motorstop. Dataindsigt: Få adgang til detaljerede data om køretøjsaktivitet og spor.",
+          "bodyHtml": "<p><strong>Markedsdynamik:</strong><br>Vækst på markedet for billån trods udfordringer.</p><p><strong>JaxiClouds tilbud:</strong><br>En GPS-sporingsløsning designet til automatisk finansiering.</p><p><strong>Væsentlige elementer:</strong><br>Værktøjer til sporing og gendannelse af køretøjers placering.</p><p><strong>Brancherisici og løsninger:</strong><br>Håndtering af udfordringer, som billångivere står over for, med JaxiCloud.</p><p><strong>Detektering af risici:</strong><br>Brug af geofences og notifikationer til at forudse potentielle problemer.</p><p><strong>Hurtige svar:</strong><br>Fjernindstilling af motorstop. Dataindsigt: Få adgang til detaljerede data om køretøjsaktivitet og spor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Age of fleet tracking enjoy it",
+          "body": "Market dynamics:Growth in the auto lending market despite challenges.JaxiCloud’s offering: A GPS tracking solution designed for automatic financing.Essentials:Tools for tracking and restoring vehicle location.Industry risks and solutions:Addressing challenges faced by auto lenders with JaxiCloud.Detecting risks: Using geofences and notifications to anticipate potential problems.Quick answers:Remote engine stop setting. Data insights: Access detailed vehicle activity data and tracks.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Market dynamics:<br></span></strong><span class=\"wixui-rich-text__text\">Growth in the auto lending market despite challenges.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>JaxiCloud’s offering:</strong> <br>A GPS tracking solution designed for automatic financing.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Essentials:<br></span></strong><span class=\"wixui-rich-text__text\">Tools for tracking and restoring vehicle location.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Industry risks and solutions:<br></span></strong><span class=\"wixui-rich-text__text\">Addressing challenges faced by auto lenders with JaxiCloud.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Detecting risks:<br></strong> Using geofences and notifications to anticipate potential problems.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Quick answers:<br></span></strong><span class=\"wixui-rich-text__text\">Remote engine stop setting. Data insights: Access detailed vehicle activity data and tracks.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Zeitalter der flottenverfolgung Geniessen sie es",
+          "body": "Marktdynamik:Wachstum im Autokreditmarkt trotz Herausforderungen.Das Angebot von JaxiCloud: Eine GPS-Tracking-Lösung für die automatische Finanzierung.Wesentliches:Tools zum Verfolgen und Wiederherstellen des Fahrzeugstandorts.Branchenrisiken und -lösungen:Bewältigung der Herausforderungen für Autokreditgeber mit JaxiCloud.Risiken erkennen: Verwenden Sie Geofences und Benachrichtigungen, um potenzielle Probleme vorherzusehen.Schnelle Antworten:Einstellung für ferngesteuerten Motorstopp. Dateneinblicke: Greifen Sie auf detaillierte Fahrzeugaktivitätsdaten und -verfolgungen zu",
+          "bodyHtml": "<p><strong>Marktdynamik:</strong></p><p>Wachstum im Autokreditmarkt trotz Herausforderungen.</p><p>Das Angebot von JaxiCloud: Eine GPS-Tracking-Lösung für die automatische Finanzierung.</p><p><strong>Wesentliches:</strong></p><p>Tools zum Verfolgen und Wiederherstellen des Fahrzeugstandorts.</p><p>Branchenrisiken und -lösungen:</p><p><strong>Bewältigung der Herausforderungen für Autokreditgeber mit JaxiCloud.</strong></p><p>Risiken erkennen: Verwenden Sie Geofences und Benachrichtigungen, um potenzielle Probleme vorherzusehen.</p><p><strong>Schnelle Antworten:</strong></p><p>Einstellung für ferngesteuerten Motorstopp. Dateneinblicke: Greifen Sie auf detaillierte Fahrzeugaktivitätsdaten und -verfolgungen zu</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "L'ère du suivi de flotte, profitez-en",
+          "body": "Dynamique du marché :Croissance du marché du financement automobile malgré les difficultés.Offre de JaxiCloud :Une solution de géolocalisation conçue pour le financement automatique.Fonctionnalités essentielles :Outils de suivi et de restauration de la position du véhicule.Risques et solutions pour le secteur :Relever les défis rencontrés par les organismes de financement automobile grâce à JaxiCloud.Détection des risques :Utilisation de zones géographiques et de notifications pour anticiper les problèmes potentiels.Solutions rapides :Démarrage à distance de l’arrêt moteur. Analyse des données : Accès aux données et aux trajets détaillés des véhicules.",
+          "bodyHtml": "<p><strong>Dynamique du marché :</strong></p><p>Croissance du marché du financement automobile malgré les difficultés.</p><p><strong>Offre de JaxiCloud :</strong></p><p>Une solution de géolocalisation conçue pour le financement automatique.</p><p><strong>Fonctionnalités essentielles :</strong></p><p>Outils de suivi et de restauration de la position du véhicule.</p><p><strong>Risques et solutions pour le secteur :</strong></p><p>Relever les défis rencontrés par les organismes de financement automobile grâce à JaxiCloud.</p><p><strong>Détection des risques :</strong></p><p>Utilisation de zones géographiques et de notifications pour anticiper les problèmes potentiels.</p><p><strong>Solutions rapides :</strong><br>Démarrage à distance de l’arrêt moteur. Analyse des données : Accès aux données et aux trajets détaillés des véhicules.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Op maat gemaakt Oplossing",
+          "body": "Speciaal ontworpen voor autoleasebeheer.",
+          "bodyHtml": "<p>Speciaal ontworpen voor autoleasebeheer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Alder av fleet sporing Nyt det Brukervennlig Markedsdynamikk:",
+          "body": "Markedsdynamikk:Veksten i billånsmarkedet til tross for utfordringer.JaxiClouds tilbud: En GPS-sporingsløsning designet for automatisk finansiering.Viktige ting:Verktøy for å spore og gjenopprette kjøretøyets plassering.Industrielle risikoer og løsninger:Ta tak i utfordringer billångivere står overfor med JaxiCloud.Oppdage risikoer: Bruke geofences og varsler for å forutse potensielle problemer.Raske svar:Ekstern motorstoppinnstillingsdatainnsikt: Få tilgang til detaljerte kjøretøyaktivitetsdata og spor.",
+          "bodyHtml": "<p><strong>Markedsdynamikk:</strong></p><p>Veksten i billånsmarkedet til tross for utfordringer.</p><p>JaxiClouds tilbud: En GPS-sporingsløsning designet for automatisk finansiering.</p><p><strong>Viktige ting:</strong></p><p>Verktøy for å spore og gjenopprette kjøretøyets plassering.</p><p><strong>Industrielle risikoer og løsninger:</strong></p><p>Ta tak i utfordringer billångivere står overfor med JaxiCloud.</p><p>Oppdage risikoer: Bruke geofences og varsler for å forutse potensielle problemer.</p><p><strong>Raske svar:</strong></p><p>Ekstern motorstoppinnstillingsdatainnsikt: Få tilgang til detaljerte kjøretøyaktivitetsdata og spor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Åldern av flottspårning, njut av det",
+          "body": "Marknadsdynamik:Tillväxt på billånemarknaden trots utmaningar.JaxiClouds erbjudande:En GPS-spårningslösning utformad för automatisk finansiering.Nödvändigheter:Verktyg för att spåra och återställa fordonsposition.Branschrisker och lösningar:Att hantera utmaningar som billångivare står inför med JaxiCloud.Upptäcka risker:Använda geofences och aviseringar för att förutse potentiella problem.Snabba svar:Fjärrinställning av motorstopp. Datainsikter: Få tillgång till detaljerad data om fordonsaktivitet och spår.",
+          "bodyHtml": "<p>Marknadsdynamik:<br>Tillväxt på billånemarknaden trots utmaningar.</p><p>JaxiClouds erbjudande:<br>En GPS-spårningslösning utformad för automatisk finansiering.</p><p>Nödvändigheter:<br>Verktyg för att spåra och återställa fordonsposition.</p><p>Branschrisker och lösningar:<br>Att hantera utmaningar som billångivare står inför med JaxiCloud.</p><p>Upptäcka risker:<br>Använda geofences och aviseringar för att förutse potentiella problem.</p><p>Snabba svar:<br>Fjärrinställning av motorstopp. Datainsikter: Få tillgång till detaljerad data om fordonsaktivitet och spår.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Age of fleet tracking enjoy it",
+          "body": "Pazar Dinamikleri:Zorluklara rağmen otomobil kredisi pazarında büyüme.JaxiCloud’un Sunduğu Çözüm:Otomatik finansman için tasarlanmış bir GPS takip çözümü.Temel Özellikler:Araç konumunu takip etme ve geri yükleme araçları.Sektör Riskleri ve Çözümleri:JaxiCloud ile otomobil kredisi verenlerin karşılaştığı zorlukların ele alınması.Risk Tespiti:Potansiyel sorunları önceden tahmin etmek için coğrafi sınırlar ve bildirimlerin kullanılması.Hızlı Yanıtlar:Uzaktan motor durdurma ayarı. Veri Analizi: Ayrıntılı araç aktivite verilerine ve izlerine erişim.",
+          "bodyHtml": "<p>Pazar Dinamikleri:<br>Zorluklara rağmen otomobil kredisi pazarında büyüme.</p><p>JaxiCloud’un Sunduğu Çözüm:<br>Otomatik finansman için tasarlanmış bir GPS takip çözümü.</p><p>Temel Özellikler:<br>Araç konumunu takip etme ve geri yükleme araçları.</p><p>Sektör Riskleri ve Çözümleri:<br>JaxiCloud ile otomobil kredisi verenlerin karşılaştığı zorlukların ele alınması.</p><p>Risk Tespiti:<br>Potansiyel sorunları önceden tahmin etmek için coğrafi sınırlar ve bildirimlerin kullanılması.</p><p>Hızlı Yanıtlar:<br>Uzaktan motor durdurma ayarı. Veri Analizi: Ayrıntılı araç aktivite verilerine ve izlerine erişim.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Brugervenlig",
+          "body": "Fjernbetjening:Start eller stop et køretøjs motor via fjernbetjening baseret på betalingsstatus.Brugerdefinerede geofences:Konfigurer geografiske grænser og få advarsler om overtrædelser.Forbindelsesovervågning:Modtag advarsler om tab af forbindelse.Fleksibilitet i notifikationer:Vælg notifikationsmetoder.",
+          "bodyHtml": "<p><strong>Fjernbetjening:</strong><br>Start eller stop et køretøjs motor via fjernbetjening baseret på betalingsstatus.</p><p><strong>Brugerdefinerede geofences:</strong><br>Konfigurer geografiske grænser og få advarsler om overtrædelser.</p><p><strong>Forbindelsesovervågning:</strong><br>Modtag advarsler om tab af forbindelse.</p><p><strong>Fleksibilitet i notifikationer:</strong><br>Vælg notifikationsmetoder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "User-friendly",
+          "body": "Remote control:Remotely start or stop a vehicle’s engine based on payment status.Custom Geofences:Configure geographic boundaries and get alerts about violations.Connection monitoring:Receive alerts about loss of connection.Notification flexibility: Choose notification methods.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Remote control:</strong><br></span>Remotely start or stop a vehicle’s engine based on payment status.</p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Custom Geofences:<br></span></strong>Configure geographic boundaries and get alerts about violations.</p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Connection monitoring:<br></span></strong>Receive alerts about loss of connection.</p><p class=\"font_8 wixui-rich-text__text\"><strong>Notification flexibility:<br></strong> Choose notification methods.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Benutzerfreundlich",
+          "body": "Fernbedienung :Starten oder stoppen Sie den Motor eines Fahrzeugs aus der Ferne, abhängig vom Zahlungsstatus.Benutzerdefinierte Geofences:Konfigurieren Sie geografische Grenzen und erhalten Sie Benachrichtigungen bei Verstößen.VerbindungsüberwachungErhalten Sie Benachrichtigungen über Verbindungsverluste.Benachrichtigungsflexibilität: Wählen Sie Benachrichtigungsmethoden.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Fernbedienung&nbsp;:</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Starten oder stoppen Sie den Motor eines Fahrzeugs aus der Ferne, abhängig vom Zahlungsstatus.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Benutzerdefinierte Geofences:</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Konfigurieren Sie geografische Grenzen und erhalten Sie Benachrichtigungen bei Verstößen.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Verbindungsüberwachung</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Erhalten Sie Benachrichtigungen über Verbindungsverluste.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Benachrichtigungsflexibilität:</strong> Wählen Sie Benachrichtigungsmethoden.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Convivial",
+          "body": "Contrôle à distance :Démarrez ou arrêtez le moteur d’un véhicule à distance en fonction du statut de paiement.Géorepérage personnalisé :Configurez des zones géographiques et recevez des alertes en cas de dépassement.Surveillance de la connexion :Recevez des alertes en cas de perte de connexion.Flexibilité des notifications :Choisissez votre mode de notification.",
+          "bodyHtml": "<p><strong>Contrôle à distance :</strong></p><p>Démarrez ou arrêtez le moteur d’un véhicule à distance en fonction du statut de paiement.</p><p><strong>Géorepérage personnalisé :</strong></p><p>Configurez des zones géographiques et recevez des alertes en cas de dépassement.</p><p><strong>Surveillance de la connexion :</strong></p><p>Recevez des alertes en cas de perte de connexion.</p><p><strong>Flexibilité des notifications :</strong></p><p>Choisissez votre mode de notification.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Snelle roi",
+          "body": "Krachtige tools die de investeringen van autodealers vanaf dag één beschermen.",
+          "bodyHtml": "<p>Krachtige tools die de investeringen van autodealers vanaf dag één beschermen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Brukervennlig",
+          "body": "Fjernkontroll:Fjernstart eller stopp et kjøretøys motor basert på betalingsstatus.Egendefinerte geofences:Konfigurer geografiske grenser og få varsler om brudd.Tilkoblingsovervåking:Motta varsler om tap av forbindelse.Varslingsfleksibilitet: Velg varslingsmetoder.",
+          "bodyHtml": "<p><strong>Fjernkontroll:</strong></p><p>Fjernstart eller stopp et kjøretøys motor basert på betalingsstatus.</p><p><strong>Egendefinerte geofences:</strong></p><p>Konfigurer geografiske grenser og få varsler om brudd.</p><p><strong>Tilkoblingsovervåking:</strong></p><p>Motta varsler om tap av forbindelse.</p><p>Varslingsfleksibilitet: Velg varslingsmetoder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "User-friendly",
+          "body": "Fjärrkontroll:Starta eller stoppa ett fordons motor på distans baserat på betalningsstatus.Anpassade geofences:Konfigurera geografiska gränser och få aviseringar om överträdelser.Anslutningsövervakning:Få aviseringar om anslutningsförlust.Aviseringsflexibilitet:Välj aviseringsmetoder.",
+          "bodyHtml": "<p>Fjärrkontroll:<br>Starta eller stoppa ett fordons motor på distans baserat på betalningsstatus.</p><p>Anpassade geofences:<br>Konfigurera geografiska gränser och få aviseringar om överträdelser.</p><p>Anslutningsövervakning:<br>Få aviseringar om anslutningsförlust.</p><p>Aviseringsflexibilitet:<br>Välj aviseringsmetoder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kullanıcı dostu",
+          "body": "Uzaktan kumanda:Ödeme durumuna bağlı olarak aracın motorunu uzaktan çalıştırın veya durdurun.Özel Coğrafi Sınırlar:Coğrafi sınırları yapılandırın ve ihlaller hakkında uyarılar alın.Bağlantı izleme:Bağlantı kaybı hakkında uyarılar alın.Bildirim esnekliği:Bildirim yöntemlerini seçin.",
+          "bodyHtml": "<p>Uzaktan kumanda:<br>Ödeme durumuna bağlı olarak aracın motorunu uzaktan çalıştırın veya durdurun.</p><p>Özel Coğrafi Sınırlar:<br>Coğrafi sınırları yapılandırın ve ihlaller hakkında uyarılar alın.</p><p>Bağlantı izleme:<br>Bağlantı kaybı hakkında uyarılar alın.</p><p>Bildirim esnekliği:<br>Bildirim yöntemlerini seçin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hovedfunktionerne i Jaxicloud flådestyring - Leasingkontrol",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "The main functions of Jaxicloud fleet management - Leasing control",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Die wichtigsten funktionen von Jaxicloud flottenmanagement - Leasingkontrolle",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Les principales fonctions de la gestion de flotte Jaxicloud - Contrôle des contrats de location",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hovedfunksjonene I Jaxicloud fleet management Leasingkontroll",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Huvudfunktionerna i Jaxiclouds flotthantering - Leasingkontroll",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud filo yönetiminin temel işlevleri - Kiralama kontrolü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Returnering af køretøjer",
+          "body": "Find køretøjer og deaktiver motorer eksternt",
+          "bodyHtml": "<p>Find køretøjer og deaktiver motorer eksternt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Return of vehicles",
+          "body": "Locate vehicles and disable engines remotely",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Locate vehicles and disable engines remotely</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Rückgabe von fahrzeugen",
+          "body": "Finden Sie Fahrzeuge und deaktivieren Sie Motoren aus der Ferne",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Finden Sie Fahrzeuge und deaktivieren Sie Motoren aus der Ferne</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Restitution des véhicules",
+          "body": "Localiser les véhicules et désactiver les moteurs à distance",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Localiser les véhicules et désactiver les moteurs à distance</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Op afstand bedienende mortelbesturing",
+          "body": "Motoren extern blokkeren of deblokkeren.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Motoren extern blokkeren of deblokkeren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Retur av kjøretøy",
+          "body": "Finn kjøretøy og deaktiver motorer eksternt",
+          "bodyHtml": "<p>Finn kjøretøy og deaktiver motorer eksternt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Återlämning av fordon",
+          "body": "Lokalisera fordon och avaktivera motorer på distans",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Lokalisera fordon och avaktivera motorer på distans</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Araçların iadesi",
+          "body": "Araçların yerini tespit edin ve motorlarını uzaktan devre dışı bırakın.",
+          "bodyHtml": "<p>Araçların yerini tespit edin ve motorlarını uzaktan devre dışı bırakın.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Stressfri restitution",
+          "body": "Forebygg tyveri og uautoriseret bevægelse af finansierede køretøjer.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Forebygg tyveri og uautoriseret bevægelse af finansierede køretøjer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Stress free recovery",
+          "body": "Prevent theft and unauthorized movement of financed vehicles.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Prevent theft and unauthorized movement of financed vehicles.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Stressfreie erholung",
+          "body": "Verhindern Sie Diebstahl und unbefugte Bewegung finanzierter Fahrzeuge.",
+          "bodyHtml": "<p>Verhindern Sie Diebstahl und unbefugte Bewegung finanzierter Fahrzeuge.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Récupération sans stress",
+          "body": "Prévenir le vol et le déplacement non autorisé des véhicules financés.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Prévenir le vol et le déplacement non autorisé des véhicules financés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gedetailleerde rapporten",
+          "body": "Uitgebreide gegevens over voertuigactiviteiten.",
+          "bodyHtml": "<p>Uitgebreide gegevens over voertuigactiviteiten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Stressfri recovery",
+          "body": "Forhindre tyveri og uautorisert bevegelse av finansierte kjøretøy.",
+          "bodyHtml": "<p>Forhindre tyveri og uautorisert bevegelse av finansierte kjøretøy.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Stressfri återhämtning",
+          "body": "Förhindra stöld och obehörig förflyttning av finansierade fordon.",
+          "bodyHtml": "<p>Förhindra stöld och obehörig förflyttning av finansierade fordon.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Stressiz iyileşme",
+          "body": "Krediyle satın alınan araçların çalınmasını ve yetkisiz hareketini önleyin.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Krediyle satın alınan araçların çalınmasını ve yetkisiz hareketini önleyin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Skræddersyet løsning",
+          "body": "Specielt designet til administration af leasing af køretøjer.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Specielt designet til administration af leasing af køretøjer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tailored solution",
+          "body": "Designed specifically for vehicle lease management.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Designed specifically for vehicle lease management.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Massgeschneidert Lösung",
+          "body": "Speziell für die Fahrzeugleasingverwaltung entwickelt.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Speziell für die Fahrzeugleasingverwaltung entwickelt.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution sur mesure",
+          "body": "Conçu spécifiquement pour la gestion des contrats de location de véhicules.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Conçu spécifiquement pour la gestion des contrats de location de véhicules.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Sporen van voertuigen",
+          "body": "Toegang tot de rijgeschiedenis van het voertuig tot 90 dagen .",
+          "bodyHtml": "<p>Toegang tot de rijgeschiedenis van het voertuig tot 90 dagen .</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Skreddersydd Løsning",
+          "body": "Designet spesielt for leasing av kjøretøy.",
+          "bodyHtml": "<p>Designet spesielt for leasing av kjøretøy.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Skräddarsydd lösning",
+          "body": "Speciellt utformad för hantering av fordonsleasing.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Speciellt utformad för hantering av fordonsleasing.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Özel çözüm",
+          "body": "Araç kiralama yönetimi için özel olarak tasarlanmıştır.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Araç kiralama yönetimi için özel olarak tasarlanmıştır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hurtig roi",
+          "body": "Kraftfulde værktøjer, der beskytter bilforhandleres investeringer fra dag ét.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kraftfulde værktøjer, der beskytter bilforhandleres investeringer fra dag ét.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fast roi",
+          "body": "Powerful tools that protect car dealers’ investments from day one.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Powerful tools that protect car dealers’ investments from day one.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Schneller roi",
+          "body": "Leistungsstarke Tools, die die Investitionen von Autohändlern vom ersten Tag an schützen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Leistungsstarke Tools, die die Investitionen von Autohändlern vom ersten Tag an schützen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Retour sur investissement rapide",
+          "body": "Des outils performants qui protègent les investissements des concessionnaires automobiles dès le premier jour.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Des outils performants qui protègent les investissements des concessionnaires automobiles dès le premier jour.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Snelle uitbetaling",
+          "body": "Effectieve controlemiddelen maken autodealers vanaf de eerste dag winstgevend door het risico op verlies van een voertuig of te late betaling te verkleinen.",
+          "bodyHtml": "<p>Effectieve controlemiddelen maken autodealers vanaf de eerste dag winstgevend door het risico op verlies van een voertuig of te late betaling te verkleinen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rask roi",
+          "body": "Kraftige verktøy som beskytter bilforhandlernes investeringer fra dag én.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Kraftige verktøy som beskytter bilforhandlernes investeringer fra dag én.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Snabb roi",
+          "body": "Kraftfulla verktyg som skyddar bilhandlares investeringar från dag ett.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kraftfulla verktyg som skyddar bilhandlares investeringar från dag ett.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hızlı yatırım getirisi",
+          "body": "Otomobil bayilerinin yatırımlarını ilk günden itibaren koruyan güçlü araçlar.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Otomobil bayilerinin yatırımlarını ilk günden itibaren koruyan güçlü araçlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "richText",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "En pålidelig software til billeasing til lokalisering og bjærgning|I en verden, hvor billeasing og bilfinansiering er blevet både en velsignelse og en udfordring, står JaxiCloud som et fyrtårn for sikkerhed og pålidelighed. Denne banebrydende flådesporingsløsning er skræddersyet til leasing- og bilfinansieringsvirksomheder og sikrer, at aktiver altid er inden for rækkevidde. Med avanceret telematik, IoT-funktioner og sporingsfunktioner i realtid beskytter JaxiCloud ikke kun finansierede køretøjer, men giver også forhandlere mulighed for at mindske risiko, øge profitten og levere uovertruffen værdi. Træd ind i fremtiden for billeasingstyring med JaxiCloud.Sikring af højrisikokontrakterUdfordringer: Stjålne køretøjer og forsinkede betalinger på markedet for brugte og subprime billån.Løsning: Jaxiclouds værktøjer til at spore, lokalisere og fjernstyre køretøjer.Resultat: Reducerede risici og minimerede omkostninger forbundet med bjærgning af køretøjer.",
+          "bodyHtml": "<p>En pålidelig software til billeasing til lokalisering og bjærgning|</p><p>I en verden, hvor billeasing og bilfinansiering er blevet både en velsignelse og en udfordring, står JaxiCloud som et fyrtårn for sikkerhed og pålidelighed. Denne banebrydende flådesporingsløsning er skræddersyet til leasing- og bilfinansieringsvirksomheder og sikrer, at aktiver altid er inden for rækkevidde. Med avanceret telematik, IoT-funktioner og sporingsfunktioner i realtid beskytter JaxiCloud ikke kun finansierede køretøjer, men giver også forhandlere mulighed for at mindske risiko, øge profitten og levere uovertruffen værdi. Træd ind i fremtiden for billeasingstyring med JaxiCloud.</p><p>Sikring af højrisikokontrakter</p><p>Udfordringer: Stjålne køretøjer og forsinkede betalinger på markedet for brugte og subprime billån.</p><p>Løsning: Jaxiclouds værktøjer til at spore, lokalisere og fjernstyre køretøjer.</p><p>Resultat: Reducerede risici og minimerede omkostninger forbundet med bjærgning af køretøjer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Securing highrisk contracts",
+          "body": "A reliable vehicle leasing software for location and recovery|In a world where vehicle leasing and car financing have become both a blessing and a challenge, JaxiCloud stands as a beacon of security and reliability. This cutting-edge fleet tracking solution is tailor-made for leasing and car financing companies, ensuring that assets are always within reach. With advanced telematics, IoT capabilities, and real-time tracking capabilities, JaxiCloud not only protects financed vehicles, but also empowers dealers to mitigate risk, increase profits, and deliver unmatched value. Step into the future of vehicle leasing management with JaxiCloud.Challenges: Stolen vehicles and late payments in the used and subprime auto loan market.Solution: Jaxicloud’s tools to track, locate and remotely control vehicles.Result: Reduced risks and minimized costs associated with vehicle recovery.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">A reliable vehicle leasing software for location and recovery|</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In a world where vehicle leasing and car financing have become both a blessing and a challenge, JaxiCloud stands as a beacon of security and reliability. This cutting-edge fleet tracking solution is tailor-made for leasing and car financing companies, ensuring that assets are always within reach. With advanced telematics, IoT capabilities, and real-time tracking capabilities, JaxiCloud not only protects financed vehicles, but also empowers dealers to mitigate risk, increase profits, and deliver unmatched value. Step into the future of vehicle leasing management with JaxiCloud.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Challenges:</strong> Stolen vehicles and late payments in the used and subprime auto loan market.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Solution:</strong> Jaxicloud’s tools to track, locate and remotely control vehicles.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Result: </span></strong><span class=\"wixui-rich-text__text\">Reduced risks and minimized costs associated with vehicle recovery.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Eine zuverlässige Fahrzeugleasing-Software zur Ortung und WiederbeschaffungIn einer Welt, in der Fahrzeugleasing und Autofinanzierung sowohl ein Segen als auch eine Herausforderung geworden sind, ist JaxiCloud ein Leuchtturm der Sicherheit und Zuverlässigkeit. Diese bahnbrechende Flottenverfolgungslösung ist auf Leasing- und Autofinanzierungsunternehmen zugeschnitten und stellt sicher, dass die Vermögenswerte immer in Reichweite sind. Mit fortschrittlicher Telematik, IoT-Funktionen und Echtzeit-Tracking-Funktionen schützt JaxiCloud nicht nur finanzierte Fahrzeuge, sondern ermöglicht Händlern auch, Risiken zu minimieren, Gewinne zu steigern und unübertroffenen Mehrwert zu liefern. Treten Sie mit JaxiCloud in die Zukunft des Fahrzeugleasingmanagements ein.Absicherung von Verträgen mit hohem Risiko Herausforderungen: Gestohlene Fahrzeuge und verspätete Zahlungen auf dem Markt für Gebraucht- und Subprime-Autokredite.Lösung: Tools von Jaxicloud zum Verfolgen, Lokalisieren und Fernsteuern von Fahrzeugen.ErgebnisReduzierte Risiken und minimierte Kosten im Zusammenhang mit der Fahrzeugbergung.",
+          "bodyHtml": "<p>Eine zuverlässige Fahrzeugleasing-Software zur Ortung und Wiederbeschaffung</p><p>In einer Welt, in der Fahrzeugleasing und Autofinanzierung sowohl ein Segen als auch eine Herausforderung geworden sind, ist JaxiCloud ein Leuchtturm der Sicherheit und Zuverlässigkeit. Diese bahnbrechende Flottenverfolgungslösung ist auf Leasing- und Autofinanzierungsunternehmen zugeschnitten und stellt sicher, dass die Vermögenswerte immer in Reichweite sind. Mit fortschrittlicher Telematik, IoT-Funktionen und Echtzeit-Tracking-Funktionen schützt JaxiCloud nicht nur finanzierte Fahrzeuge, sondern ermöglicht Händlern auch, Risiken zu minimieren, Gewinne zu steigern und unübertroffenen Mehrwert zu liefern. Treten Sie mit JaxiCloud in die Zukunft des Fahrzeugleasingmanagements ein.</p><p>Absicherung von Verträgen mit hohem Risiko <br>Herausforderungen: Gestohlene Fahrzeuge und verspätete Zahlungen auf dem Markt für Gebraucht- und Subprime-Autokredite.</p><p>Lösung: Tools von Jaxicloud zum Verfolgen, Lokalisieren und Fernsteuern von Fahrzeugen.</p><p>Ergebnis</p><p>Reduzierte Risiken und minimierte Kosten im Zusammenhang mit der Fahrzeugbergung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Un logiciel de leasing automobile fiable pour la localisation et la récupération des véhicules |Dans un monde où le leasing et le financement automobile représentent à la fois un atout et un défi, JaxiCloud se distingue par sa sécurité et sa fiabilité. Cette solution de suivi de flotte de pointe est conçue sur mesure pour les sociétés de leasing et de financement automobile, garantissant un accès permanent aux véhicules. Grâce à des technologies télématiques avancées, des capacités IoT et un suivi en temps réel, JaxiCloud protège non seulement les véhicules financés, mais permet également aux concessionnaires de réduire les risques, d’accroître leurs profits et d’offrir une valeur ajoutée inégalée. Entrez dans l’avenir de la gestion du leasing automobile avec JaxiCloud.Sécurisation des contrats à haut risqueProblèmes : Vols de véhicules et retards de paiement sur le marché des prêts automobiles d’occasion et à risque.Solution : Les outils JaxiCloud pour suivre, localiser et contrôler les véhicules à distance.Résultat : Réduction des risques et des coûts liés à la récupération des véhicules.",
+          "bodyHtml": "<p>Un logiciel de leasing automobile fiable pour la localisation et la récupération des véhicules |</p><p>Dans un monde où le leasing et le financement automobile représentent à la fois un atout et un défi, JaxiCloud se distingue par sa sécurité et sa fiabilité. Cette solution de suivi de flotte de pointe est conçue sur mesure pour les sociétés de leasing et de financement automobile, garantissant un accès permanent aux véhicules. Grâce à des technologies télématiques avancées, des capacités IoT et un suivi en temps réel, JaxiCloud protège non seulement les véhicules financés, mais permet également aux concessionnaires de réduire les risques, d’accroître leurs profits et d’offrir une valeur ajoutée inégalée. Entrez dans l’avenir de la gestion du leasing automobile avec JaxiCloud.</p><p>Sécurisation des contrats à haut risque</p><p>Problèmes : Vols de véhicules et retards de paiement sur le marché des prêts automobiles d’occasion et à risque.</p><p>Solution : Les outils JaxiCloud pour suivre, localiser et contrôler les véhicules à distance.</p><p>Résultat : Réduction des risques et des coûts liés à la récupération des véhicules.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "En pålitelig kjøretøyleasing-programvare for plassering og beregningI en verden hvor billeasing og bilfinansiering har blitt både en velsignelse og en utfordring, står JaxiCloud som fyrtårnet for sikkerhet og pålitelighet. Denne banebrytende flåtesporingsløsningen er skreddersydd for leasing- og bilfinansieringsselskaper, og sikrer at eiendeler alltid er innen rekkevidde. Med avansert telematikk, IoT-funksjoner og sanntidssporingsfunksjoner, beskytter JaxiCloud ikke bare finansierte kjøretøy, men gjør det også mulig for forhandlere å redusere risiko, øke fortjenesten og levere uovertruffen verdi. Gå inn i fremtiden for billeasing med JaxiCloud.Sikring av høyrisiko-avtalerUtfordringer: stjålne biler og forsinket betaling I markedet for brukt- og subprime-billån.Løsning: jaxiclouds verktøy for å spore, lokalisere og fjernstyre kjøretøy.Resultat: redusert risiko og minimale kostnader forbundet med å berge kjøretøyet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">En pålitelig kjøretøyleasing-programvare for plassering og beregning</p><p class=\"font_8 wixui-rich-text__text\">I en verden hvor billeasing og bilfinansiering har blitt både en velsignelse og en utfordring, står JaxiCloud som fyrtårnet for sikkerhet og pålitelighet. Denne banebrytende flåtesporingsløsningen er skreddersydd for leasing- og bilfinansieringsselskaper, og sikrer at eiendeler alltid er innen rekkevidde. Med avansert telematikk, IoT-funksjoner og sanntidssporingsfunksjoner, beskytter JaxiCloud ikke bare finansierte kjøretøy, men gjør det også mulig for forhandlere å redusere risiko, øke fortjenesten og levere uovertruffen verdi. Gå inn i fremtiden for billeasing med JaxiCloud.</p><p>Sikring av høyrisiko-avtaler<br>Utfordringer: stjålne biler og forsinket betaling I markedet for brukt- og subprime-billån.</p><p>Løsning: jaxiclouds verktøy for å spore, lokalisere og fjernstyre kjøretøy.</p><p>Resultat: redusert risiko og minimale kostnader forbundet med å berge kjøretøyet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "En pålitlig programvara för fordonsleasing för lokalisering och återvinning|I en värld där fordonsleasing och bilfinansiering har blivit både en välsignelse och en utmaning, står JaxiCloud som en ledstjärna för säkerhet och tillförlitlighet. Denna banbrytande lösning för fordonsflottspårning är skräddarsydd för leasing- och bilfinansieringsföretag och säkerställer att tillgångar alltid finns inom räckhåll. Med avancerad telematik, IoT-funktioner och spårningsfunktioner i realtid skyddar JaxiCloud inte bara finansierade fordon, utan ger även återförsäljare möjlighet att minska risker, öka vinsterna och leverera oöverträffat värde. Kliv in i framtiden för fordonsleasinghantering med JaxiCloud.Säkra högriskkontraktUtmaningar: Stulna fordon och sena betalningar på marknaden för begagnade och subprime-billån.Lösning: Jaxiclouds verktyg för att spåra, lokalisera och fjärrstyra fordon.Resultat: Minskade risker och minimerade kostnader i samband med fordonsåtervinning.",
+          "bodyHtml": "<p>En pålitlig programvara för fordonsleasing för lokalisering och återvinning|</p><p>I en värld där fordonsleasing och bilfinansiering har blivit både en välsignelse och en utmaning, står JaxiCloud som en ledstjärna för säkerhet och tillförlitlighet. Denna banbrytande lösning för fordonsflottspårning är skräddarsydd för leasing- och bilfinansieringsföretag och säkerställer att tillgångar alltid finns inom räckhåll. Med avancerad telematik, IoT-funktioner och spårningsfunktioner i realtid skyddar JaxiCloud inte bara finansierade fordon, utan ger även återförsäljare möjlighet att minska risker, öka vinsterna och leverera oöverträffat värde. Kliv in i framtiden för fordonsleasinghantering med JaxiCloud.</p><p>Säkra högriskkontrakt</p><p>Utmaningar: Stulna fordon och sena betalningar på marknaden för begagnade och subprime-billån.</p><p>Lösning: Jaxiclouds verktyg för att spåra, lokalisera och fjärrstyra fordon.</p><p>Resultat: Minskade risker och minimerade kostnader i samband med fordonsåtervinning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Konum ve Kurtarma için Güvenilir Araç Kiralama Yazılımı |Araç kiralama ve otomobil finansmanının hem bir nimet hem de bir zorluk haline geldiği bir dünyada, JaxiCloud güvenlik ve güvenilirliğin simgesi olarak öne çıkıyor. Bu son teknoloji filo takip çözümü, kiralama ve otomobil finansmanı şirketleri için özel olarak tasarlanmıştır ve varlıkların her zaman erişilebilir olmasını sağlar. Gelişmiş telematik, IoT yetenekleri ve gerçek zamanlı takip özellikleriyle JaxiCloud, yalnızca finanse edilen araçları korumakla kalmaz, aynı zamanda bayilerin riski azaltmasına, karlarını artırmasına ve eşsiz değer sunmasına olanak tanır. JaxiCloud ile araç kiralama yönetiminin geleceğine adım atın.Yüksek Riskli Sözleşmelerin GüvenliğiZorluklar: Kullanılmış ve düşük kredi notlu otomobil kredisi piyasasında çalınan araçlar ve gecikmiş ödemeler.Çözüm: Araçları takip etmek, konumlandırmak ve uzaktan kontrol etmek için JaxiCloud’un araçları.Sonuç: Araç kurtarma ile ilgili risklerin azaltılması ve maliyetlerin en aza indirilmesi.",
+          "bodyHtml": "<p>Konum ve Kurtarma için Güvenilir Araç Kiralama Yazılımı |</p><p>Araç kiralama ve otomobil finansmanının hem bir nimet hem de bir zorluk haline geldiği bir dünyada, JaxiCloud güvenlik ve güvenilirliğin simgesi olarak öne çıkıyor. Bu son teknoloji filo takip çözümü, kiralama ve otomobil finansmanı şirketleri için özel olarak tasarlanmıştır ve varlıkların her zaman erişilebilir olmasını sağlar. Gelişmiş telematik, IoT yetenekleri ve gerçek zamanlı takip özellikleriyle JaxiCloud, yalnızca finanse edilen araçları korumakla kalmaz, aynı zamanda bayilerin riski azaltmasına, karlarını artırmasına ve eşsiz değer sunmasına olanak tanır. JaxiCloud ile araç kiralama yönetiminin geleceğine adım atın.</p><p>Yüksek Riskli Sözleşmelerin Güvenliği</p><p>Zorluklar: Kullanılmış ve düşük kredi notlu otomobil kredisi piyasasında çalınan araçlar ve gecikmiş ödemeler.</p><p>Çözüm: Araçları takip etmek, konumlandırmak ve uzaktan kontrol etmek için JaxiCloud’un araçları.</p><p>Sonuç: Araç kurtarma ile ilgili risklerin azaltılması ve maliyetlerin en aza indirilmesi.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fjernstyret mørtelstyring",
+          "body": "Bloker eller afmonter motorer eksternt.",
+          "bodyHtml": "<p>Bloker eller afmonter motorer eksternt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Remote control mortar control",
+          "body": "Block or unblock motors externally.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Block or unblock motors externally.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Motoren extern sperren oder entsperren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Motoren extern sperren oder entsperren.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Commande de mortier à distance",
+          "body": "Bloquer ou débloquer les moteurs de l’extérieur.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bloquer ou débloquer les moteurs de l’extérieur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fjernkontrollert mørtelkontroll",
+          "body": "Blokker eller fjern blokkering av motorer eksternt.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Blokker eller fjern blokkering av motorer eksternt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fjärrstyrd murbrukskontroll",
+          "body": "Blockera eller avblockera motorer externt.",
+          "bodyHtml": "<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\"><span class=\"Y2IQFc\">Blockera eller avblockera motorer externt.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Uzaktan kumandalı harç kontrolü",
+          "body": "Motorları dışarıdan bloke edin veya blokajını kaldırın.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Motorları dışarıdan bloke edin veya blokajını kaldırın.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "featureCard",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Detaljerede rapporter",
+          "body": "OMFATTENDE data om køretøjsaktiviteter.",
+          "bodyHtml": "<p>OMFATTENDE data om køretøjsaktiviteter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Detailed reports",
+          "body": "COMPREHENSIVE data on vehicle activities.",
+          "bodyHtml": "<p>COMPREHENSIVE data on vehicle activities.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Detaillierte berichte Umfangreiche",
+          "body": "Daten zu Fahrzeugaktivitäten.",
+          "bodyHtml": "<p>Daten zu Fahrzeugaktivitäten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Rapports détaillés",
+          "body": "Données complètes sur l’activité des véhicules.",
+          "bodyHtml": "<p>Données complètes sur l’activité des véhicules.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Detaljert rapporter",
+          "body": "Omfattende data om kjøretøyaktiviteter.",
+          "bodyHtml": "<p>Omfattende data om kjøretøyaktiviteter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Detaljerade rapporter",
+          "body": "OMFATTANDE data om fordonsaktiviteter.",
+          "bodyHtml": "<p>OMFATTANDE data om fordonsaktiviteter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ayrıntılı raporlar",
+          "body": "Araç faaliyetlerine ilişkin KAPSAMLI veriler.",
+          "bodyHtml": "<p>Araç faaliyetlerine ilişkin KAPSAMLI veriler.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "featureCard",
+      "order": 17,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Spor af køretøjer",
+          "body": "Få adgang til køretøjets kørselshistorik i op til 90 dage.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Få adgang til køretøjets kørselshistorik i op til 90 dage.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tracks of vihacles",
+          "body": "Access the vehicle’s driving history for up to 90 days .",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Access the vehicle’s driving history for up to 90 days .</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Spuren von fahrzeugen",
+          "body": "Greifen Sie auf den Fahrverlauf des Fahrzeugs für bis zu zu 90 Tage .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Greifen Sie auf den Fahrverlauf des Fahrzeugs für bis zu zu </span><span class=\"wixui-rich-text__text\">90 Tage .</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Traces de véhicules",
+          "body": "Accédez à l’historique de conduite du véhicule jusqu’à 90 jours.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Accédez à l’historique de conduite du véhicule jusqu’à 90 jours.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Spor av kjøretøy",
+          "body": "Få tilgang til kjøretøyets kjørehistorikk I opptil 90 dager .",
+          "bodyHtml": "<p>Få tilgang til kjøretøyets kjørehistorikk I opptil 90 dager .</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Spår av fordon",
+          "body": "Få åtkomst till fordonets körhistorik i upp till 90 dagar.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Få åtkomst till fordonets körhistorik i upp till 90 dagar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "araç izleri",
+          "body": "Aracın sürüş geçmişine 90 güne kadar erişin.",
+          "bodyHtml": "<p>Aracın sürüş geçmişine 90 güne kadar erişin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hurtige udbetalinger",
+          "body": "Effektive kontrolværktøjer gør bilforhandlere rentable fra dag ét ved at reducere risikoen for at miste et køretøj eller forsinket betaling.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Effektive kontrolværktøjer gør bilforhandlere rentable fra dag ét ved at reducere risikoen for at miste et køretøj eller forsinket betaling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fast payouts",
+          "body": "Effective control tools make car dealers profitable from day one by reducing the risk of losing a vehicle or late payment.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Effective control tools make car dealers profitable from day one by reducing the risk of losing a vehicle or late payment.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Schnelle auszahlung",
+          "body": "Effektive Kontrollinstrumente machen Autohändler vom ersten Tag an profitabel, indem sie das Risiko eines Fahrzeugverlusts oder einer verspäteten Zahlung verringern.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Effektive Kontrollinstrumente machen Autohändler vom ersten Tag an profitabel, indem sie das Risiko eines Fahrzeugverlusts oder einer verspäteten Zahlung verringern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Paiements rapides",
+          "body": "Des outils de contrôle efficaces permettent aux concessionnaires automobiles d’être rentables dès le premier jour en réduisant le risque de perte d’un véhicule ou de retard de paiement.",
+          "bodyHtml": "<p>Des outils de contrôle efficaces permettent aux concessionnaires automobiles d’être rentables dès le premier jour en réduisant le risque de perte d’un véhicule ou de retard de paiement.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rask utbetaling",
+          "body": "Effektive kontrollverktøy gir fortjeneste til bilforhandlere fra dag én ved å redusere risikoen for å miste et kjøretøy eller sen betaling.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Effektive kontrollverktøy gir fortjeneste til bilforhandlere fra dag én ved å redusere risikoen for å miste et kjøretøy eller sen betaling.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Snabba utbetalningar",
+          "body": "Effektiva kontrollverktyg gör bilhandlare lönsamma från dag ett genom att minska risken för att förlora ett fordon eller försenad betalning.",
+          "bodyHtml": "<p>Effektiva kontrollverktyg gör bilhandlare lönsamma från dag ett genom att minska risken för att förlora ett fordon eller försenad betalning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hızlı ödemeler",
+          "body": "Etkin kontrol araçları, araç kaybetme veya ödeme gecikmesi riskini azaltarak otomobil bayilerinin ilk günden itibaren karlı olmasını sağlar.",
+          "bodyHtml": "<p>Etkin kontrol araçları, araç kaybetme veya ödeme gecikmesi riskini azaltarak otomobil bayilerinin ilk günden itibaren karlı olmasını sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

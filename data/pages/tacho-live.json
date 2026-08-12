@@ -1,0 +1,1792 @@
+{
+  "slug": "tacho-live",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Tacho live – DA",
+    "en": "Tacho live",
+    "de": "Tacho live – DE",
+    "fr": "Tacho live – FR",
+    "nl": "Tacho live – HL",
+    "nb": "Tacho live – NO",
+    "sv": "Tacho live – SV",
+    "tr": "Tacho live – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Tacho live - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Tako canlı - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/tacho-live-da/",
+    "en": "https://www.jaxicloud.com/en/tacho-live/",
+    "de": "https://www.jaxicloud.com/de/tacho-live-de/",
+    "fr": "https://www.jaxicloud.com/fr/tacho-live-fr/",
+    "nl": "https://www.jaxicloud.com/nl/tacho-live-hl/",
+    "nb": "https://www.jaxicloud.com/nb/tacho-live-no/",
+    "sv": "https://www.jaxicloud.com/sv/tacho-live-sv/",
+    "tr": "https://www.jaxicloud.com/tr/tacho-live-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tacho Simple",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Den komplette løsning til digitale tachograph - Tacho-Simple og chaufførers tidsstyring for at overholde EU-reglerne.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "The complete solution for digital tachograph - Tacho-Live and driver time management to comply with EU regulations",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Die Komplettlösung für digitale Fahrtenschreiber – Tacho-Live – und Fahrerzeitmanagement zur Einhaltung der EU-Vorschriften",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "La solution complète pour tachygraphe numérique - Tacho-Live et gestion du temps de conduite pour se conformer à la réglementation européenne",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "De complete oplossing voor digitale tachograaf - Tacho-Live en chauffeurstijdbeheer om te voldoen aan de EU-regelgeving",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Den komplette løsningen for digital fartsskriver - Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Den kompletta lösningen för digital färdskrivare - Tacho-Live och förarnas tidshantering för att följa EU:s regler.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Dijital takograf için eksiksiz çözüm - Tacho-Live ve sürücülerin AB mevzuatına uygun zaman yönetim",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "JaxiCloud tilbyder en integreret løsning til rapportering af chaufførers køre-, arbejds- og hviletider fra takografen og chaufførkortet. Den sikrer, at du altid udbetaler den korrekte løn, og at chaufførerne overholder reglerne for køre- og hviletider. Desuden hjælper systemet dig med at holde din vognpark optimeret.Jaxicloud webapplikation tilbyder et brugervenligt kontrolpanel, hvor kunderne ubesværet kan spore deres chaufførers status i realtid, uanset om de er online eller offline, komplet med detaljerede oplysninger såsom slotnumre, tilkoblede enheder, beliggenhed og ddd file rapport.Appen viser også, hvornår chaufførerne sidst var forbundet til et køretøj inden for de sidste 30 dage.",
+          "bodyHtml": "<p>JaxiCloud tilbyder en integreret løsning til rapportering af chaufførers køre-, arbejds- og hviletider fra takografen og chaufførkortet. Den sikrer, at du altid udbetaler den korrekte løn, og at chaufførerne overholder reglerne for køre- og hviletider. Desuden hjælper systemet dig med at holde din vognpark optimeret.</p><p>Jaxicloud webapplikation tilbyder et brugervenligt kontrolpanel, hvor kunderne ubesværet kan spore deres chaufførers status i realtid, uanset om de er online eller offline, komplet med detaljerede oplysninger såsom slotnumre, tilkoblede enheder, beliggenhed og ddd file rapport.</p><p>Appen viser også, hvornår chaufførerne sidst var forbundet til et køretøj inden for de sidste 30 dage.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "JaxiCloud offers an integrated solution for reporting drivers’ driving, working and rest times from the tachograph and driver card. It ensures that you always pay the correct salary and that drivers comply with driving and rest time regulations. It also helps you keep your fleet optimized.Jaxicloud web application offers a user-friendly dashboard where customers can effortlessly track their drivers’ status in real-time, whether they are online or offline, complete with detailed information such as slot numbers, connected devices, location and ddd file report.The app also shows when drivers were last connected to a vehicle within the last 30 days.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JaxiCloud offers an integrated solution for reporting drivers’ driving, working and rest times from the tachograph and driver card. It ensures that you always pay the correct salary and that drivers comply with driving and rest time regulations. It also helps you keep your fleet optimized.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud web application offers a user-friendly dashboard where customers can effortlessly track their drivers’ status in real-time, whether they are online or offline, complete with detailed information such as slot numbers, connected devices, location and ddd file report.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The app also shows when drivers were last connected to a vehicle within the last 30 days.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "JaxiCloud bietet eine integrierte Lösung zur Erfassung der Fahr-, Arbeits- und Ruhezeiten Ihrer Fahrer anhand von Fahrtenschreiber und Fahrerkarte. So stellen Sie sicher, dass Sie stets die korrekten Löhne zahlen und die Fahrer die Lenk- und Ruhezeitvorschriften einhalten. Zudem unterstützt Sie die Lösung bei der Optimierung Ihres Fuhrparks.Die JaxiCloud-Webanwendung bietet ein benutzerfreundliches Dashboard, auf dem Kunden den Status ihrer Fahrer in Echtzeit verfolgen können – online wie offline – inklusive detaillierter Informationen wie Zeitfensternummern, verbundene Geräte, Standort und DDD-Dateibericht.Die App zeigt außerdem an, wann ein Fahrer in den letzten 30 Tagen zuletzt mit einem Fahrzeug verbunden war.",
+          "bodyHtml": "<p>JaxiCloud bietet eine integrierte Lösung zur Erfassung der Fahr-, Arbeits- und Ruhezeiten Ihrer Fahrer anhand von Fahrtenschreiber und Fahrerkarte. So stellen Sie sicher, dass Sie stets die korrekten Löhne zahlen und die Fahrer die Lenk- und Ruhezeitvorschriften einhalten. Zudem unterstützt Sie die Lösung bei der Optimierung Ihres Fuhrparks.</p><p>Die JaxiCloud-Webanwendung bietet ein benutzerfreundliches Dashboard, auf dem Kunden den Status ihrer Fahrer in Echtzeit verfolgen können – online wie offline – inklusive detaillierter Informationen wie Zeitfensternummern, verbundene Geräte, Standort und DDD-Dateibericht.</p><p>Die App zeigt außerdem an, wann ein Fahrer in den letzten 30 Tagen zuletzt mit einem Fahrzeug verbunden war.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "JaxiCloud propose une solution intégrée pour le suivi des temps de conduite, de travail et de repos des conducteurs, à partir des données du tachygraphe et de la carte conducteur. Elle garantit le versement des salaires exacts et le respect des réglementations relatives aux temps de conduite et de repos. Elle contribue également à l’optimisation de votre flotte.L’application web JaxiCloud offre un tableau de bord intuitif permettant aux clients de suivre facilement et en temps réel le statut de leurs conducteurs, qu’ils soient connectés ou non. Des informations détaillées sont disponibles, telles que les numéros de poste, les appareils connectés, la localisation et le rapport de temps de conduite (fichier DDD).L’application indique également la dernière connexion des conducteurs à un véhicule au cours des 30 derniers jours.",
+          "bodyHtml": "<p>JaxiCloud propose une solution intégrée pour le suivi des temps de conduite, de travail et de repos des conducteurs, à partir des données du tachygraphe et de la carte conducteur. Elle garantit le versement des salaires exacts et le respect des réglementations relatives aux temps de conduite et de repos. Elle contribue également à l’optimisation de votre flotte.</p><p>L’application web JaxiCloud offre un tableau de bord intuitif permettant aux clients de suivre facilement et en temps réel le statut de leurs conducteurs, qu’ils soient connectés ou non. Des informations détaillées sont disponibles, telles que les numéros de poste, les appareils connectés, la localisation et le rapport de temps de conduite (fichier DDD).</p><p>L’application indique également la dernière connexion des conducteurs à un véhicule au cours des 30 derniers jours.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "JaxiCloud biedt een geïntegreerde oplossing voor het rapporteren van de rij-, werk- en rusttijden van chauffeurs via de tachograaf en chauffeurskaart. Zo betaalt u altijd het juiste salaris en houden chauffeurs zich aan de rij- en rusttijdenwetgeving. Het helpt u ook om uw wagenpark optimaal te houden.De webapplicatie Jaxicloud biedt een gebruiksvriendelijk dashboard waarmee klanten moeiteloos de status van hun chauffeurs in realtime kunnen volgen, zowel online als offline, compleet met gedetailleerde informatie zoals slotnummers, aangesloten apparaten, locatie en een ddd-bestandsrapport.De app laat ook zien wanneer chauffeurs in de afgelopen 30 dagen voor het laatst verbinding hebben gehad met een voertuig.",
+          "bodyHtml": "<p>JaxiCloud biedt een geïntegreerde oplossing voor het rapporteren van de rij-, werk- en rusttijden van chauffeurs via de tachograaf en chauffeurskaart. Zo betaalt u altijd het juiste salaris en houden chauffeurs zich aan de rij- en rusttijdenwetgeving. Het helpt u ook om uw wagenpark optimaal te houden.</p><p>De webapplicatie Jaxicloud biedt een gebruiksvriendelijk dashboard waarmee klanten moeiteloos de status van hun chauffeurs in realtime kunnen volgen, zowel online als offline, compleet met gedetailleerde informatie zoals slotnummers, aangesloten apparaten, locatie en een ddd-bestandsrapport.</p><p>De app laat ook zien wanneer chauffeurs in de afgelopen 30 dagen voor het laatst verbinding hebben gehad met een voertuig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.",
+          "bodyHtml": "<p>JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.</p><p>Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.</p><p>Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "JaxiCloud erbjuder en integrerad lösning för att rapportera förares kör-, arbets- och vilotider från färdskrivaren och förarkortet. Det säkerställer att du alltid betalar ut korrekt lön och att förarna följer kör- och vilotidsreglerna. Det hjälper dig också att hålla din fordonsflotta optimerad.Jaxicloud-webbapplikationen erbjuder en användarvänlig instrumentpanel där kunder enkelt kan spåra sina förares status i realtid, oavsett om de är online eller offline, komplett med detaljerad information som slotnummer, anslutna enheter, plats och ddd-filrapport.Appen visar också när förare senast var anslutna till ett fordon under de senaste 30 dagarna",
+          "bodyHtml": "<p>JaxiCloud erbjuder en integrerad lösning för att rapportera förares kör-, arbets- och vilotider från färdskrivaren och förarkortet. Det säkerställer att du alltid betalar ut korrekt lön och att förarna följer kör- och vilotidsreglerna. Det hjälper dig också att hålla din fordonsflotta optimerad.</p><p>Jaxicloud-webbapplikationen erbjuder en användarvänlig instrumentpanel där kunder enkelt kan spåra sina förares status i realtid, oavsett om de är online eller offline, komplett med detaljerad information som slotnummer, anslutna enheter, plats och ddd-filrapport.</p><p>Appen visar också när förare senast var anslutna till ett fordon under de senaste 30 dagarna</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "JaxiCloud, sürücülerin sürüş, çalışma ve dinlenme sürelerinin takograf ve sürücü kartından raporlanmasına yönelik entegre bir çözüm sunuyor. Her zaman doğru maaşı ödemenizi ve sürücülerin sürüş ve dinlenme süreleri kurallarına uymasını sağlar. Ayrıca sistem, araç filonuzu optimize etmenize yardımcı olur.Jaxicloud web uygulaması, müşterilerin sürücülerinin durumunu, çevrimiçi veya çevrimdışı olup olmadıklarını, yuva numaraları, bağlı cihazlar, konum ve ddd dosyası raporu gibi ayrıntılı bilgilerle birlikte gerçek zamanlı olarak zahmetsizce takip edebilecekleri kullanıcı dostu bir kontrol paneli sunar.Uygulama aynı zamanda sürücülerin son 30 gün içinde bir araca en son ne zaman bağlandığını da gösteriyor.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JaxiCloud, sürücülerin sürüş, çalışma ve dinlenme sürelerinin takograf ve sürücü kartından raporlanmasına yönelik entegre bir çözüm sunuyor. Her zaman doğru maaşı ödemenizi ve sürücülerin sürüş ve dinlenme süreleri kurallarına uymasını sağlar. Ayrıca sistem, araç filonuzu optimize etmenize yardımcı olur.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud web uygulaması, müşterilerin sürücülerinin durumunu, çevrimiçi veya çevrimdışı olup olmadıklarını, yuva numaraları, bağlı cihazlar, konum ve ddd dosyası raporu gibi ayrıntılı bilgilerle birlikte gerçek zamanlı olarak zahmetsizce takip edebilecekleri kullanıcı dostu bir kontrol paneli sunar.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Uygulama aynı zamanda sürücülerin son 30 gün içinde bir araca en son ne zaman bağlandığını da gösteriyor.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_dcaf2b08678b4e9196850b1573366e07mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_dcaf2b08678b4e9196850b1573366e07mv2.jpg",
+          "width": 654,
+          "height": 457
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_cd4c1fd936184433bf787b1390eab1a3mv2-1.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_cd4c1fd936184433bf787b1390eab1a3mv2-1.jpg",
+          "width": 718,
+          "height": 324
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tacho Manager og Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tacho Manager and Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Tacho Manager und Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestionnaire de tacho et vue du tacho",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Tacho Manager en Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tacho Manager og Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tacho Manager och Tacho View",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tako Yöneticisi ve Tako Görünümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "richText",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Nye muligheder for at arbejde med fartskrivereFartskriverbestemmelser, der har til formål at hjælpe med at håndhæve reglerne om køreperioder og overvåge køretider for professionelle, har haft stor indflydelse på flådestyringsindustrien. Og da arbejdet med digitale fartskrivere har sikret den mere nøjagtige registrering og lagring af data, harJaxicloud Fleet Management nu udviklet funktionen til fjernoverførsel af data fra fartskrivere tilJaxicloud Fleet Management . Et skridt videre var udviklingen af ​​andre 2 værktøjer, rettet mod at forbedre integratorernes arbejde inden for ét systemTacho Manager-appJaxicloud Fleet Managements kunder kan nu nyde fordelene ved Tacho Manager-appen , der bringer de nye fordele til operatørernes arbejde i international lastbil- og fragtvirksomhed. Applikationen viser aktivitet for hver tilgængelig kørsel, såsom distance, hastighed og køretider og hvileperioder for chaufføren, disse filer parses og bindes til chauffører i Jaxicloud Flet Managements og kan uploades manuelt via Tacho Manager-",
+          "bodyHtml": "<p>Nye muligheder for at arbejde med fartskrivere</p><p>Fartskriverbestemmelser, der har til formål at hjælpe med at håndhæve reglerne om køreperioder og overvåge køretider for professionelle, har haft stor indflydelse på flådestyringsindustrien. Og da arbejdet med digitale fartskrivere har sikret den mere nøjagtige registrering og lagring af data, har</p><p>Jaxicloud Fleet Management nu udviklet funktionen til fjernoverførsel af data fra fartskrivere til</p><p>Jaxicloud Fleet Management . Et skridt videre var udviklingen af ​​andre 2 værktøjer, rettet mod at forbedre integratorernes arbejde inden for ét system</p><p>Tacho Manager-app</p><p>Jaxicloud Fleet Managements kunder kan nu nyde fordelene ved Tacho Manager-appen , der bringer de nye fordele til operatørernes arbejde i international lastbil- og fragtvirksomhed. Applikationen viser aktivitet for hver tilgængelig kørsel, såsom distance, hastighed og køretider og hvileperioder for chaufføren, disse filer parses og bindes til chauffører i Jaxicloud Flet Managements og kan uploades manuelt via Tacho Manager-</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "New opportunities to work with tachographsTachograph regulations aimed at helping enforce driving time regulations and monitor driving times for professionals, has had a major impact on the fleet management industry. And as the work with digital tachographs has ensured the more accurate recording and storage of data, Jaxicloud Fleet Management now developed the function for remote data transfer from tachographs to Jaxicloud Fleet Management. A step further was the development of other 2 tools, aimed at improve the work of integrators within one systemTacho Manager appJaxicloud Fleet Management customers can now enjoy the benefits of the Tacho Manager app, which brings new benefits to the work of operators in international trucking and freight business. The application shows activity for each available trip, such as distance, speed and driving times and rest periods for the driver, these files are parsed and linked to drivers in Jaxicloud Fleet Management and can be uploaded manually via Tacho Manager.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">New opportunities to work with </span><span class=\"wixui-rich-text__text\">tachographs</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Tachograph regulations aimed at helping enforce driving time regulations </span><span class=\"wixui-rich-text__text\">and monitor driving times for professionals, has had a major impact on the fleet management industry. And </span><span class=\"wixui-rich-text__text\">as the work with digital tachographs has ensured the more accurate recording and storage of data, </span><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management now developed the function for remote data transfer from tachographs to </span><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management. A step further was the development of other 2 tools, aimed at </span><span class=\"wixui-rich-text__text\">improve the work of integrators within one system</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Tacho Manager app</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management customers can now enjoy the benefits of the Tacho Manager app, which brings new benefits to the work of operators in international trucking and freight business. The application shows activity for each available trip, such as distance, speed and driving times and rest periods for the driver, these files are parsed and linked to drivers in Jaxicloud Fleet Management and can be uploaded manually via Tacho Manager.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Neue Möglichkeiten für die Arbeit mit FahrtenschreibernDie Fahrtenschreiberverordnung zur Einhaltung der Lenk- und Ruhezeiten von Berufskraftfahrern hat die Flottenmanagementbranche maßgeblich beeinflusst. Da digitale Fahrtenschreiber eine präzisere Datenerfassung und -speicherung ermöglichen, hat Jaxicloud Fleet Management nun die Funktion zur Datenübertragung von Fahrtenschreibern an Jaxicloud Fleet Management entwickelt. Darüber hinaus wurden zwei weitere Tools entwickelt, die die Arbeit von Systemintegratoren optimieren.Tacho Manager AppKunden von Jaxicloud Fleet Management profitieren ab sofort von der Tacho Manager App, die Spediteuren im internationalen Lkw- und Frachtverkehr neue Vorteile bietet. Die Anwendung zeigt die Aktivitäten jeder verfügbaren Fahrt an, wie z. B. Strecke, Geschwindigkeit, Fahr- und Ruhezeiten des Fahrers. Diese Daten werden analysiert, den Fahrern in Jaxicloud Fleet Management zugeordnet und können manuell über den Tacho Manager hochgeladen werden.",
+          "bodyHtml": "<p>Neue Möglichkeiten für die Arbeit mit Fahrtenschreibern</p><p>Die Fahrtenschreiberverordnung zur Einhaltung der Lenk- und Ruhezeiten von Berufskraftfahrern hat die Flottenmanagementbranche maßgeblich beeinflusst. Da digitale Fahrtenschreiber eine präzisere Datenerfassung und -speicherung ermöglichen, hat Jaxicloud Fleet Management nun die Funktion zur Datenübertragung von Fahrtenschreibern an Jaxicloud Fleet Management entwickelt. Darüber hinaus wurden zwei weitere Tools entwickelt, die die Arbeit von Systemintegratoren optimieren.</p><p>Tacho Manager App</p><p>Kunden von Jaxicloud Fleet Management profitieren ab sofort von der Tacho Manager App, die Spediteuren im internationalen Lkw- und Frachtverkehr neue Vorteile bietet. Die Anwendung zeigt die Aktivitäten jeder verfügbaren Fahrt an, wie z. B. Strecke, Geschwindigkeit, Fahr- und Ruhezeiten des Fahrers. Diese Daten werden analysiert, den Fahrern in Jaxicloud Fleet Management zugeordnet und können manuell über den Tacho Manager hochgeladen werden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Nouvelles opportunités d’utilisation des tachygraphesLa réglementation relative aux tachygraphes, visant à faciliter le respect des temps de conduite et à contrôler ceux des professionnels, a profondément transformé le secteur de la gestion de flottes. Grâce à l’utilisation accrue des tachygraphes numériques, qui garantit un enregistrement et un stockage plus précis des données, Jaxicloud Fleet Management a développé une fonction de transfert de données à distance depuis les tachygraphes vers sa plateforme. Deux autres outils ont également été développés afin d’optimiser le travail des intégrateurs au sein d’un système unique.Application Tacho ManagerLes clients de Jaxicloud Fleet Management peuvent désormais profiter de l’application Tacho Manager, qui offre de nouveaux avantages aux opérateurs du transport routier international. L’application affiche l’activité de chaque trajet disponible, notamment la distance, la vitesse, les temps de conduite et les temps de repos du conducteur. Ces données sont analysées et associées aux conducteurs dans Jaxicloud Fleet Management et peuvent également être importées manuellement via Tacho Manager.",
+          "bodyHtml": "<p>Nouvelles opportunités d’utilisation des tachygraphes</p><p>La réglementation relative aux tachygraphes, visant à faciliter le respect des temps de conduite et à contrôler ceux des professionnels, a profondément transformé le secteur de la gestion de flottes. Grâce à l’utilisation accrue des tachygraphes numériques, qui garantit un enregistrement et un stockage plus précis des données, Jaxicloud Fleet Management a développé une fonction de transfert de données à distance depuis les tachygraphes vers sa plateforme. Deux autres outils ont également été développés afin d’optimiser le travail des intégrateurs au sein d’un système unique.</p><p>Application Tacho Manager</p><p>Les clients de Jaxicloud Fleet Management peuvent désormais profiter de l’application Tacho Manager, qui offre de nouveaux avantages aux opérateurs du transport routier international. L’application affiche l’activité de chaque trajet disponible, notamment la distance, la vitesse, les temps de conduite et les temps de repos du conducteur. Ces données sont analysées et associées aux conducteurs dans Jaxicloud Fleet Management et peuvent également être importées manuellement via Tacho Manager.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Nieuwe mogelijkheden om met tachografen te werkenTachograafregelgeving, gericht op het handhaven van rijtijden en het monitoren van rijtijden voor professionals, heeft een grote impact gehad op de fleetmanagementsector. Omdat de inzet van digitale tachografen heeft gezorgd voor een nauwkeurigere registratie en opslag van gegevens, heeft Jaxicloud Fleet Management nu een functie ontwikkeld voor gegevensoverdracht op afstand van tachografen naar Jaxicloud Fleet Management. Een stap verder was de ontwikkeling van twee andere tools, gericht op het verbeteren van het werk van integrators binnen één systeem.Tacho Manager-appKlanten van Jaxicloud Fleet Management kunnen nu profiteren van de voordelen van de Tacho Manager-app, die nieuwe voordelen biedt voor de werkzaamheden van transporteurs in de internationale vracht- en transportsector. De applicatie toont de activiteit voor elke beschikbare rit, zoals afstand, snelheid en rij- en rusttijden voor de chauffeur. Deze bestanden worden geparseerd en gekoppeld aan chauffeurs in Jaxicloud Fleet Management en kunnen handmatig worden geüpload via Tacho Manager.",
+          "bodyHtml": "<p>Nieuwe mogelijkheden om met tachografen te werken</p><p>Tachograafregelgeving, gericht op het handhaven van rijtijden en het monitoren van rijtijden voor professionals, heeft een grote impact gehad op de fleetmanagementsector. Omdat de inzet van digitale tachografen heeft gezorgd voor een nauwkeurigere registratie en opslag van gegevens, heeft Jaxicloud Fleet Management nu een functie ontwikkeld voor gegevensoverdracht op afstand van tachografen naar Jaxicloud Fleet Management. Een stap verder was de ontwikkeling van twee andere tools, gericht op het verbeteren van het werk van integrators binnen één systeem.</p><p>Tacho Manager-app</p><p>Klanten van Jaxicloud Fleet Management kunnen nu profiteren van de voordelen van de Tacho Manager-app, die nieuwe voordelen biedt voor de werkzaamheden van transporteurs in de internationale vracht- en transportsector. De applicatie toont de activiteit voor elke beschikbare rit, zoals afstand, snelheid en rij- en rusttijden voor de chauffeur. Deze bestanden worden geparseerd en gekoppeld aan chauffeurs in Jaxicloud Fleet Management en kunnen handmatig worden geüpload via Tacho Manager.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Den komplette løsningen for digital fartsskriver – Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk.bilde.pngJaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.image.pngTacho Manager og Tacho ViewNye muligheter å jobbe medfartsskrivereFartsskriverforskrifter ment å bidra til å håndheve reglene om kjøreperioderog overvåke kjøretider for profesjonelle, har hatt stor innvirkning på flåtestyringsindustrien. Ogsiden arbeidet med digitale fartsskrivere har sikret mer nøyaktig registrering og lagring av data, harJaxicloud Fleet Management utviklet nå funksjonen for fjernoverføring av data fra fartsskrivere tilJaxicloud Fleet Management. Et skritt videre var utviklingen av andre 2 verktøy, rettet motforbedre arbeidet til integratorer i ett systemTacho Manager-appenJaxicloud Fleet Management-kunder kan nå nyte fordelene med Tacho Manager-appen, som bringer de nye fordelene til arbeidet til operatører i internasjonale lastebil- og fraktoperasjoner. Applikasjonen viser aktivitet for hvert tilgjengelig løp, for eksempel distanse, hastighet og kjøretider og hvileperioder for sjåføren, disse filene er analysert og knyttet til sjåfører i Jaxicloud Flet Management og kan lastes opp manuelt via Tacho Manager-",
+          "bodyHtml": "<p>Den komplette løsningen for digital fartsskriver – Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk.</p><p>bilde.png<br>JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.</p><p>Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.</p><p>Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.</p><p>image.png<br>Tacho Manager og Tacho View</p><p>Nye muligheter å jobbe med</p><p>fartsskrivere</p><p>Fartsskriverforskrifter ment å bidra til å håndheve reglene om kjøreperioder</p><p>og overvåke kjøretider for profesjonelle, har hatt stor innvirkning på flåtestyringsindustrien. Og</p><p>siden arbeidet med digitale fartsskrivere har sikret mer nøyaktig registrering og lagring av data, har</p><p>Jaxicloud Fleet Management utviklet nå funksjonen for fjernoverføring av data fra fartsskrivere til</p><p>Jaxicloud Fleet Management. Et skritt videre var utviklingen av andre 2 verktøy, rettet mot</p><p>forbedre arbeidet til integratorer i ett system</p><p>Tacho Manager-appen</p><p>Jaxicloud Fleet Management-kunder kan nå nyte fordelene med Tacho Manager-appen, som bringer de nye fordelene til arbeidet til operatører i internasjonale lastebil- og fraktoperasjoner. Applikasjonen viser aktivitet for hvert tilgjengelig løp, for eksempel distanse, hastighet og kjøretider og hvileperioder for sjåføren, disse filene er analysert og knyttet til sjåfører i Jaxicloud Flet Management og kan lastes opp manuelt via Tacho Manager-</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Nya möjligheter att arbeta med färdskrivareFärdskrivarregler som syftar till att bidra till att upprätthålla körtidsregler och övervaka körtider för yrkesverksamma, har haft en stor inverkan på flotthanteringsbranschen. Och eftersom arbetet med digitala färdskrivare har säkerställt en mer exakt registrering och lagring av data, Jaxicloud Fleet Management har nu utvecklat funktionen för fjärröverföring av data från färdskrivare till Jaxicloud Fleet Management. Ett steg längre var utvecklingen av ytterligare två verktyg, som syftar till förbättra integratörernas arbete inom ett systemTacho Manager-appenJaxicloud Fleet Management-kunder kan nu dra nytta av Tacho Manager-appen, som ger nya fördelar för operatörer inom internationell lastbils- och fraktverksamhet. Applikationen visar aktivitet för varje tillgänglig resa, såsom avstånd, hastighet samt körtider och viloperioder för föraren. Dessa filer analyseras och länkas till förare i Jaxicloud Fleet Management och kan laddas upp manuellt via Tacho Manager.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Nya möjligheter att arbeta med </span><span class=\"wixui-rich-text__text\">färdskrivare</span></p><p>Färdskrivarregler som syftar till att bidra till att upprätthålla körtidsregler och övervaka körtider för yrkesverksamma, har haft en stor inverkan på flotthanteringsbranschen. Och eftersom arbetet med digitala färdskrivare har säkerställt en mer exakt registrering och lagring av data, Jaxicloud Fleet Management har nu utvecklat funktionen för fjärröverföring av data från färdskrivare till Jaxicloud Fleet Management. Ett steg längre var utvecklingen av ytterligare två verktyg, som syftar till förbättra integratörernas arbete inom ett system</p><p>Tacho Manager-appen</p><p>Jaxicloud Fleet Management-kunder kan nu dra nytta av Tacho Manager-appen, som ger nya fördelar för operatörer inom internationell lastbils- och fraktverksamhet. Applikationen visar aktivitet för varje tillgänglig resa, såsom avstånd, hastighet samt körtider och viloperioder för föraren. Dessa filer analyseras och länkas till förare i Jaxicloud Fleet Management och kan laddas upp manuellt via Tacho Manager.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Birlikte çalışmak için yeni fırsatlar takograflarSürüş periyotlarına ilişkin kuralların uygulanmasına yardımcı olmayı amaçlayan takograf düzenlemeleriProfesyoneller için sürüş sürelerinin izlenmesi ve izlenmesi, filo yönetimi sektörü üzerinde büyük bir etki yarattı. VeDijital takograflarla yapılan çalışmalar verilerin daha doğru kaydedilmesini ve saklanmasını sağladığından,Jaxicloud Filo Yönetimi artık verilerin takograflardan takograflara uzaktan aktarılmasına yönelik işlevi geliştirdi.Jaxicloud Filo Yönetimi. Bir adım daha ileri giderek, diğer 2 aracın geliştirilmesi de hedeflendi.Entegratörlerin çalışmalarını tek bir sistem içinde iyileştirin",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Birlikte çalışmak için yeni fırsatlar </span><span class=\"wixui-rich-text__text\">takograflar</span></strong></p><p class=\"font_9 wixui-rich-text__text\">Sürüş periyotlarına ilişkin kuralların uygulanmasına yardımcı olmayı amaçlayan takograf düzenlemeleri</p><p class=\"font_9 wixui-rich-text__text\">Profesyoneller için sürüş sürelerinin izlenmesi ve izlenmesi, filo yönetimi sektörü üzerinde büyük bir etki yarattı. Ve</p><p class=\"font_9 wixui-rich-text__text\">Dijital takograflarla yapılan çalışmalar verilerin daha doğru kaydedilmesini ve saklanmasını sağladığından,</p><p class=\"font_9 wixui-rich-text__text\">Jaxicloud Filo Yönetimi artık&nbsp;<span class=\"wixui-rich-text__text\">verilerin takograflardan takograflara uzaktan aktarılmasına</span>&nbsp;yönelik işlevi geliştirdi.</p><p class=\"font_9 wixui-rich-text__text\">Jaxicloud Filo Yönetimi. Bir adım daha ileri giderek, diğer 2 aracın geliştirilmesi de hedeflendi.</p><p class=\"font_9 wixui-rich-text__text\">Entegratörlerin çalışmalarını tek bir sistem içinde iyileştirin</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Filerne uploades automatisk via GPS-trackeren. Dette nye værktøj er nu understøttet af adskillige enheder, herunder controllerne fra ITD,og flere andre. Filer gemmes og uploades af Disketta-applikationen . Programgrænsefladen er forenklet til downloadbaren og listen over filer for at hjælpe afsenderen med relevant information.",
+          "bodyHtml": "<p>Filerne uploades automatisk via GPS-trackeren. Dette nye værktøj er nu understøttet af adskillige enheder, herunder controllerne fra ITD,og flere andre. Filer gemmes og uploades af Disketta-applikationen . Programgrænsefladen er forenklet til downloadbaren og listen over filer for at hjælpe afsenderen med relevant information.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The files are automatically uploaded via the GPS tracker. This new tool is now supported by several devices, including the controllers from ITD, and several others. Files are saved and uploaded by the Disketta application. The program interface has been simplified to the download bar and the list of files to help the sender with relevant information.",
+          "bodyHtml": "<p>The files are automatically uploaded via the GPS tracker. This new tool is now supported by several devices, including the controllers from ITD, and several others. Files are saved and uploaded by the Disketta application. The program interface has been simplified to the download bar and the list of files to help the sender with relevant information.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Dateien werden automatisch über den GPS-Tracker hochgeladen. Dieses neue Tool wird nun von verschiedenen Geräten unterstützt, darunter die Steuergeräte von ITD und einige weitere. Dateien werden mit der Anwendung Disketta gespeichert und hochgeladen. Die Programmoberfläche wurde vereinfacht und zeigt nun nur noch die Downloadleiste und die Dateiliste an, um dem Absender alle relevanten Informationen bereitzustellen.",
+          "bodyHtml": "<p>Die Dateien werden automatisch über den GPS-Tracker hochgeladen. Dieses neue Tool wird nun von verschiedenen Geräten unterstützt, darunter die Steuergeräte von ITD und einige weitere. Dateien werden mit der Anwendung Disketta gespeichert und hochgeladen. Die Programmoberfläche wurde vereinfacht und zeigt nun nur noch die Downloadleiste und die Dateiliste an, um dem Absender alle relevanten Informationen bereitzustellen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les fichiers sont automatiquement téléchargés via le traceur GPS. Ce nouvel outil est désormais compatible avec plusieurs appareils, notamment les contrôleurs ITD et d’autres. L’application Disketta assure l’enregistrement et le téléchargement des fichiers. Son interface a été simplifiée et se limite désormais à une barre de téléchargement et à la liste des fichiers, fournissant ainsi à l’expéditeur les informations nécessaires.",
+          "bodyHtml": "<p>Les fichiers sont automatiquement téléchargés via le traceur GPS. Ce nouvel outil est désormais compatible avec plusieurs appareils, notamment les contrôleurs ITD et d’autres. L’application Disketta assure l’enregistrement et le téléchargement des fichiers. Son interface a été simplifiée et se limite désormais à une barre de téléchargement et à la liste des fichiers, fournissant ainsi à l’expéditeur les informations nécessaires.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De bestanden worden automatisch geüpload via de GPS-tracker. Deze nieuwe tool wordt nu ondersteund door verschillende apparaten, waaronder de controllers van ITD en diverse andere. Bestanden worden opgeslagen en geüpload via de Disketta-applicatie. De programma-interface is vereenvoudigd tot de downloadbalk en de lijst met bestanden om de verzender te helpen met relevante informatie.",
+          "bodyHtml": "<p>De bestanden worden automatisch geüpload via de GPS-tracker. Deze nieuwe tool wordt nu ondersteund door verschillende apparaten, waaronder de controllers van ITD en diverse andere. Bestanden worden opgeslagen en geüpload via de Disketta-applicatie. De programma-interface is vereenvoudigd tot de downloadbalk en de lijst met bestanden om de verzender te helpen met relevante informatie.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Filene lastes automatisk opp via GPS-trackeren. Dette nye verktøyet støttes nå av flere enheter, inkludert kontrollerene fra ITD og flere andre. Filer lagres og lastes opp av Disketta-applikasjonen . Programgrensesnittet er forenklet til nedlastingslinjen og listen over filer for å hjelpe avsenderen med relevant informasjon.",
+          "bodyHtml": "<p>Filene lastes automatisk opp via GPS-trackeren. Dette nye verktøyet støttes nå av flere enheter, inkludert kontrollerene fra ITD og flere andre. Filer lagres og lastes opp av Disketta-applikasjonen . Programgrensesnittet er forenklet til nedlastingslinjen og listen over filer for å hjelpe avsenderen med relevant informasjon.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Filerna laddas upp automatiskt via GPS-spåraren. Det här nya verktyget stöds nu av flera enheter, inklusive styrenheter från ITD och flera andra. Filer sparas och laddas upp av Disketta-applikationen. Programgränssnittet har förenklats vad gäller nedladdningsfältet och fillistan för att hjälpa avsändaren med relevant information.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Filerna laddas upp automatiskt via GPS-spåraren. Det här nya verktyget stöds nu av flera enheter, inklusive styrenheter från ITD och flera andra. Filer sparas och laddas upp av Disketta-applikationen. Programgränssnittet har förenklats vad gäller nedladdningsfältet och fillistan för att hjälpa avsändaren med relevant information.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Tako Yöneticisi uygulamasıJaxicloud Filo Yönetimi müşterileri artık uluslararası kamyon taşımacılığı ve nakliye işlerinde operatörlerin çalışmalarına yeni avantajlar getiren Tacho Manager uygulamasının avantajlarından yararlanabilecek. Uygulama, sürücü için mesafe, hız ve sürüş süreleri ve dinlenme süreleri gibi mevcut her koşu için etkinliği gösterir; bu dosyalar Jaxicloud Flet Managements’ta ayrıştırılır ve sürücülere bağlanır ve Tacho Manager aracılığıyla manuel olarak yüklenebilir.Dosyalar GPS izleyici aracılığıyla otomatik olarak yüklenir. Bu yeni araç artık ITD’nin kontrolörleri ve diğer birçok cihaz dahil olmak üzere çeşitli cihazlar tarafından desteklenmektedir. Dosyalar Disketta uygulaması tarafından kaydedilir ve yüklenir. Program arayüzü, gönderene ilgili bilgiler konusunda yardımcı olmak için indirme çubuğu ve dosya listesi şeklinde basitleştirilmiştir.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Tako Yöneticisi uygulaması</span></strong></p><p class=\"font_9 wixui-rich-text__text\">Jaxicloud Filo Yönetimi müşterileri artık uluslararası kamyon taşımacılığı ve nakliye işlerinde operatörlerin çalışmalarına yeni avantajlar getiren Tacho Manager uygulamasının avantajlarından yararlanabilecek. Uygulama, sürücü için mesafe, hız ve sürüş süreleri ve dinlenme süreleri gibi mevcut her koşu için etkinliği gösterir; bu dosyalar Jaxicloud Flet Managements’ta ayrıştırılır ve sürücülere bağlanır ve Tacho Manager aracılığıyla manuel olarak yüklenebilir.</p><p class=\"font_9 wixui-rich-text__text\">Dosyalar GPS izleyici aracılığıyla otomatik olarak yüklenir. Bu yeni araç artık ITD’nin kontrolörleri ve diğer birçok cihaz dahil olmak üzere çeşitli cihazlar tarafından desteklenmektedir. Dosyalar&nbsp;<span class=\"wixui-rich-text__text\">Disketta uygulaması</span> tarafından kaydedilir ve yüklenir. Program arayüzü, gönderene ilgili bilgiler konusunda yardımcı olmak için indirme çubuğu ve dosya listesi şeklinde basitleştirilmiştir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "image",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7bcf5e78435b4f3fbf719423702340fbmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7bcf5e78435b4f3fbf719423702340fbmv2.jpg",
+          "width": 800,
+          "height": 354
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tacho View ‒ mod en forbedret dataanalyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tacho View ‒ towards improved data analysis",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Tacho View – hin zu einer verbesserten Datenanalyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Tacho View – vers une meilleure analyse des données",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Tacho View ‒ naar verbeterde data-analyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tacho View ‒ mot en forbedret dataanalyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tacho View – mot förbättrad dataanalys",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tacho Görünümü – gelişmiş bir veri analizine doğru",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "richText",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Efter at have taget hensyn til AETR og EU-specifikationerne har Gurtam udgivet en anden app ved navn Tacho View , der vil være baseret på specifikationer for internationale vejtransportstandarder. Tacho View behandler data modtaget fra fartskriverfiler. Det giver mulighed for at afspejle førerens aktivitet baseret på en såkaldt “tidslinje” for bedre visuel analyse. Appen viser køretider og hviletider for den registrerede fører. Du kan bruge en kalender (i højre side) til at vælge den nødvendige dato. Kalenderen kan også skaleres efter behov.",
+          "bodyHtml": "<p>Efter at have taget hensyn til AETR og EU-specifikationerne har Gurtam udgivet en anden app ved navn Tacho View , der vil være baseret på specifikationer for internationale vejtransportstandarder. Tacho View behandler data modtaget fra fartskriverfiler. Det giver mulighed for at afspejle førerens aktivitet baseret på en såkaldt “tidslinje” for bedre visuel analyse. Appen viser køretider og hviletider for den registrerede fører. Du kan bruge en kalender (i højre side) til at vælge den nødvendige dato. Kalenderen kan også skaleres efter behov.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "After taking into account the AETR and EU specifications, Gurtam has released another app called Tacho View , which will be based on specifications for international road transport standards. Tacho View processes data received from tachograph files. It allows reflecting the driver’s activity based on a so-called “timeline” for better visual analysis. The app displays driving times and rest times for the registered driver. You can use a calendar (on the right side) to select the required date. The calendar can also be scaled as needed.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">After taking into account the AETR and EU specifications, Gurtam has released another app called&nbsp;Tacho View&nbsp;, which will be based on specifications for international road transport standards.&nbsp;Tacho View&nbsp;processes data received from tachograph files. It allows reflecting the driver’s activity based on a so-called “timeline” for better visual analysis. The app displays driving times and rest times for the registered driver. You can use a calendar (on the right side) to select the required date. The calendar can also be scaled as needed.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Nach Berücksichtigung der AETR- und EU-Vorgaben hat Gurtam die App „Tacho View“ veröffentlicht, die auf internationalen Standards für den Straßentransport basiert. Tacho View verarbeitet Daten aus Fahrtenschreiberdateien und visualisiert die Fahreraktivität anhand einer Zeitleiste. Die App zeigt Fahr- und Ruhezeiten des registrierten Fahrers an. Über einen Kalender (rechts) lässt sich das gewünschte Datum auswählen. Der Kalender ist skalierbar.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Nach Berücksichtigung der AETR- und EU-Vorgaben hat Gurtam die App „Tacho View“ veröffentlicht, die auf internationalen Standards für den Straßentransport basiert. Tacho View verarbeitet Daten aus Fahrtenschreiberdateien und visualisiert die Fahreraktivität anhand einer Zeitleiste. Die App zeigt Fahr- und Ruhezeiten des registrierten Fahrers an. Über einen Kalender (rechts) lässt sich das gewünschte Datum auswählen. Der Kalender ist skalierbar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Après avoir pris en compte les spécifications AETR et européennes, Gurtam a lancé une nouvelle application, Tacho View, conforme aux normes internationales du transport routier. Tacho View traite les données issues des fichiers du tachygraphe et permet de visualiser l’activité du conducteur sur une chronologie, facilitant ainsi l’analyse. L’application affiche les temps de conduite et de repos du conducteur enregistré. Un calendrier (situé à droite) permet de sélectionner la date souhaitée et son affichage est redimensionnable.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Après avoir pris en compte les spécifications AETR et européennes, Gurtam a lancé une nouvelle application, Tacho View, conforme aux normes internationales du transport routier. Tacho View traite les données issues des fichiers du tachygraphe et permet de visualiser l’activité du conducteur sur une chronologie, facilitant ainsi l’analyse. L’application affiche les temps de conduite et de repos du conducteur enregistré. Un calendrier (situé à droite) permet de sélectionner la date souhaitée et son affichage est redimensionnable.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Na rekening te hebben gehouden met de AETR- en EU-specificaties, heeft Gurtam een ​​andere app uitgebracht genaamd Tacho View, die gebaseerd zal zijn op specificaties voor internationale normen voor wegtransport. Tacho View verwerkt gegevens ontvangen van tachograafbestanden. Het maakt het mogelijk om de activiteit van de chauffeur weer te geven op basis van een zogenaamde “tijdlijn” voor een betere visuele analyse. De app geeft rij- en rusttijden weer voor de geregistreerde chauffeur. U kunt een kalender (aan de rechterkant) gebruiken om de gewenste datum te selecteren. De kalender kan ook naar behoefte worden geschaald.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Na rekening te hebben gehouden met de AETR- en EU-specificaties, heeft Gurtam een ​​andere app uitgebracht genaamd Tacho View, die gebaseerd zal zijn op specificaties voor internationale normen voor wegtransport. Tacho View verwerkt gegevens ontvangen van tachograafbestanden. Het maakt het mogelijk om de activiteit van de chauffeur weer te geven op basis van een zogenaamde “tijdlijn” voor een betere visuele analyse. De app geeft rij- en rusttijden weer voor de geregistreerde chauffeur. U kunt een kalender (aan de rechterkant) gebruiken om de gewenste datum te selecteren. De kalender kan ook naar behoefte worden geschaald.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Tatt i betraktning AETR- og EU-spesifikasjonene, har Gurtam gitt ut en annen app kalt Tacho View , som vil være basert på spesifikasjoner for internasjonale veitransportstandarder. Tacho View behandler data mottatt fra fartsskriverfiler. Det gir mulighet til å reflektere førerens aktivitet basert på en såkalt «tidslinje» for bedre visuell analyse. Appen viser kjøretider og hviletider for den registrerte sjåføren. Du kan bruke en kalender (på høyre side) for å velge ønsket dato. Kalenderen kan også skaleres etter behov.",
+          "bodyHtml": "<p>Tatt i betraktning AETR- og EU-spesifikasjonene, har Gurtam gitt ut en annen app kalt Tacho View , som vil være basert på spesifikasjoner for internasjonale veitransportstandarder. Tacho View behandler data mottatt fra fartsskriverfiler. Det gir mulighet til å reflektere førerens aktivitet basert på en såkalt «tidslinje» for bedre visuell analyse. Appen viser kjøretider og hviletider for den registrerte sjåføren. Du kan bruke en kalender (på høyre side) for å velge ønsket dato. Kalenderen kan også skaleres etter behov.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Efter att ha tagit hänsyn till AETR- och EU-specifikationerna har Gurtam släppt ytterligare en app som heter Tacho View , vilken kommer att baseras på specifikationer för internationella vägtransportstandarder. Tacho View bearbetar data som tas emot från färdskrivarfiler. Den gör det möjligt att återspegla förarens aktivitet baserat på en så kallad “tidslinje” för bättre visuell analys. Appen visar körtider och vilotider för den registrerade föraren. Du kan använda en kalender (på höger sida) för att välja önskat datum. Kalendern kan också skalas efter behov.",
+          "bodyHtml": "<p>Efter att ha tagit hänsyn till AETR- och EU-specifikationerna har Gurtam släppt ytterligare en app som heter Tacho View , vilken kommer att baseras på specifikationer för internationella vägtransportstandarder. Tacho View bearbetar data som tas emot från färdskrivarfiler. Den gör det möjligt att återspegla förarens aktivitet baserat på en så kallad “tidslinje” för bättre visuell analys. Appen visar körtider och vilotider för den registrerade föraren. Du kan använda en kalender (på höger sida) för att välja önskat datum. Kalendern kan också skalas efter behov.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Gurtam, AETR ve AB spesifikasyonlarını dikkate alarak, Uluslararası Karayolu Taşımacılığı Standartları spesifikasyonlarını temel alacak olan Tacho View adlı başka bir uygulamayı yayınladı. Tacho View, takograf dosyalarından alınan verileri işler. Daha iyi görsel analiz için sürücünün aktivitesinin “zaman çizelgesi” olarak adlandırılan bir şekilde yansıtılmasına olanak tanır. Uygulama, kayıtlı sürücü için sürüş sürelerini ve dinlenme sürelerini gösterir. Gerekli tarihi seçmek için bir takvim (sağ tarafta) kullanabilirsiniz. Takvim ayrıca gerektiği gibi ölçeklendirilebilir.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Gurtam, AETR ve AB spesifikasyonlarını dikkate alarak, Uluslararası Karayolu Taşımacılığı Standartları spesifikasyonlarını temel alacak olan&nbsp;<span class=\"wixui-rich-text__text\">Tacho View</span>&nbsp;adlı başka bir uygulamayı yayınladı.&nbsp;<span class=\"wixui-rich-text__text\">Tacho View,</span> takograf dosyalarından alınan verileri işler. Daha iyi görsel analiz için sürücünün aktivitesinin “zaman çizelgesi” olarak adlandırılan bir şekilde yansıtılmasına olanak tanır. Uygulama, kayıtlı sürücü için sürüş sürelerini ve dinlenme sürelerini gösterir. Gerekli tarihi seçmek için bir takvim (sağ tarafta) kullanabilirsiniz. Takvim ayrıca gerektiği gibi ölçeklendirilebilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "image",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2.jpg",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "richText",
+      "order": 12,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Tilmeldingerne vurderes på følgende måde: • “Kørerens aktivitet” . Oplysningerne vises i en tabel. Ved at vælge den nødvendige dato kan brugeren se den detaljerede chaufførs aktivitet over den angivne periode. • “Aktivitetsdiagram” . Det valgte tidsrum er opdelt i dage, hvor informationen vises i diagrammer (markører korrelerer med bestemte aktivitetskarakteristika).",
+          "bodyHtml": "<p>Tilmeldingerne vurderes på følgende måde: • “Kørerens aktivitet” . Oplysningerne vises i en tabel. Ved at vælge den nødvendige dato kan brugeren se den detaljerede chaufførs aktivitet over den angivne periode. • “Aktivitetsdiagram” . Det valgte tidsrum er opdelt i dage, hvor informationen vises i diagrammer (markører korrelerer med bestemte aktivitetskarakteristika).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The entries are evaluated in the following way: • “Driver activity” . The information is displayed in a table. By selecting the required date, the user can see the detailed driver activity over the specified period. • “Activity chart” . The selected period is divided into days, where the information is displayed in charts (markers correlate with certain activity characteristics).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The entries are evaluated in the following way: • “Driver activity” . The information is displayed in a table. By selecting the required date, the user can see the detailed driver activity over the specified period. • “Activity chart” . The selected period is divided into days, where the information is displayed in charts (markers correlate with certain activity characteristics).</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Einträge werden folgendermaßen ausgewertet: • „Fahreraktivität“. Die Informationen werden in einer Tabelle angezeigt. Durch Auswahl des gewünschten Datums kann der Benutzer die detaillierte Fahreraktivität im angegebenen Zeitraum einsehen. • „Aktivitätsdiagramm“. Der ausgewählte Zeitraum wird in Tage unterteilt, wobei die Informationen in Diagrammen dargestellt werden (Markierungen entsprechen bestimmten Aktivitätsmerkmalen).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die Einträge werden folgendermaßen ausgewertet: • „Fahreraktivität“. Die Informationen werden in einer Tabelle angezeigt. Durch Auswahl des gewünschten Datums kann der Benutzer die detaillierte Fahreraktivität im angegebenen Zeitraum einsehen. • „Aktivitätsdiagramm“. Der ausgewählte Zeitraum wird in Tage unterteilt, wobei die Informationen in Diagrammen dargestellt werden (Markierungen entsprechen bestimmten Aktivitätsmerkmalen).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les données sont évaluées de la manière suivante : • « Activité du conducteur ». Les informations sont affichées dans un tableau. En sélectionnant la date souhaitée, l’utilisateur peut consulter l’activité détaillée du conducteur sur la période spécifiée. • « Graphique d’activité ». La période sélectionnée est divisée en jours, et les informations sont affichées sous forme de graphiques (les marqueurs correspondent à certaines caractéristiques de l’activité).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les données sont évaluées de la manière suivante : • « Activité du conducteur ». Les informations sont affichées dans un tableau. En sélectionnant la date souhaitée, l’utilisateur peut consulter l’activité détaillée du conducteur sur la période spécifiée. • « Graphique d’activité ». La période sélectionnée est divisée en jours, et les informations sont affichées sous forme de graphiques (les marqueurs correspondent à certaines caractéristiques de l’activité).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De gegevens worden op de volgende manier geëvalueerd: • “Bestuurdersactiviteit”. De informatie wordt weergegeven in een tabel. Door de gewenste datum te selecteren, kan de gebruiker de gedetailleerde bestuurdersactiviteit over de opgegeven periode bekijken. • “Activiteitengrafiek”. De geselecteerde periode is verdeeld in dagen, waarbij de informatie in grafieken wordt weergegeven (markeringen correleren met bepaalde activiteitskenmerken)",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De gegevens worden op de volgende manier geëvalueerd: • “Bestuurdersactiviteit”. De informatie wordt weergegeven in een tabel. Door de gewenste datum te selecteren, kan de gebruiker de gedetailleerde bestuurdersactiviteit over de opgegeven periode bekijken. • “Activiteitengrafiek”. De geselecteerde periode is verdeeld in dagen, waarbij de informatie in grafieken wordt weergegeven (markeringen correleren met bepaalde activiteitskenmerken)</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Registreringene vurderes på følgende måte: • «Sjåføraktivitet» . Informasjonen vises i en tabell. Ved å velge ønsket dato kan brukeren se den detaljerte sjåførens aktivitet over den angitte perioden. • “Aktivitetsdiagram” . Den valgte tidsperioden er delt inn i dager, hvis informasjon vises i diagrammer (markører korrelerer med visse aktivitetsegenskaper).",
+          "bodyHtml": "<p>Registreringene vurderes på følgende måte: • «Sjåføraktivitet» . Informasjonen vises i en tabell. Ved å velge ønsket dato kan brukeren se den detaljerte sjåførens aktivitet over den angitte perioden. • “Aktivitetsdiagram” . Den valgte tidsperioden er delt inn i dager, hvis informasjon vises i diagrammer (markører korrelerer med visse aktivitetsegenskaper).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Posterna utvärderas på följande sätt: • ”Föraraktivitet”. Informationen visas i en tabell. Genom att välja önskat datum kan användaren se den detaljerade föraraktiviteten under den angivna perioden. • ”Aktivitetsdiagram”. Den valda perioden är indelad i dagar, där informationen visas i diagram (markörer korrelerar med vissa aktivitetsegenskaper).",
+          "bodyHtml": "<p>Posterna utvärderas på följande sätt: • ”Föraraktivitet”. Informationen visas i en tabell. Genom att välja önskat datum kan användaren se den detaljerade föraraktiviteten under den angivna perioden. • ”Aktivitetsdiagram”. Den valda perioden är indelad i dagar, där informationen visas i diagram (markörer korrelerar med vissa aktivitetsegenskaper).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kayıtlar aşağıdaki şekilde değerlendirilir: • “Sürücü etkinliği” . Bilgiler bir tabloda görüntülenir. Kullanıcı, gerekli tarihi seçerek, belirtilen süre içindeki ayrıntılı sürücü etkinliğini görüntüleyebilir. • “Etkinlik Tablosu” . Seçilen zaman dilimi günlere bölünür ve bunların bilgileri grafiklerde görüntülenir (işaretçiler belirli aktivite özellikleriyle ilişkilidir).",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Kayıtlar aşağıdaki şekilde değerlendirilir: •&nbsp;<span class=\"wixui-rich-text__text\">“Sürücü etkinliği”</span>&nbsp;. Bilgiler bir tabloda görüntülenir. Kullanıcı, gerekli tarihi seçerek, belirtilen süre içindeki ayrıntılı sürücü etkinliğini görüntüleyebilir. •&nbsp;<span class=\"wixui-rich-text__text\">“Etkinlik Tablosu” .</span>&nbsp;Seçilen zaman dilimi günlere bölünür ve bunların bilgileri grafiklerde görüntülenir (işaretçiler belirli aktivite özellikleriyle ilişkilidir).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5189a419538745de8e9df538b4989d7amv2-1.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5189a419538745de8e9df538b4989d7amv2-1.jpg",
+          "width": 720,
+          "height": 343
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "image",
+      "order": 14,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2-1.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2-1.jpg",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "richText",
+      "order": 15,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Indtastningerne kan udskrives i form af rapport direkte fra appen. I den nærmeste fremtid vil Tacho View indeholde specifikationer for alle lande, hvor fartskriverregler er til stede. Og da producenterne forbedrer deres teknologier hvert år ved at gøre fartskriverne nemmere at bruge, håber vi, at vores bidrag stimulerer praksis og garanterer fair konkurrence og international trafiksikkerhed.",
+          "bodyHtml": "<p>Indtastningerne kan udskrives i form af rapport direkte fra appen. I den nærmeste fremtid vil Tacho View indeholde specifikationer for alle lande, hvor fartskriverregler er til stede. Og da producenterne forbedrer deres teknologier hvert år ved at gøre fartskriverne nemmere at bruge, håber vi, at vores bidrag stimulerer praksis og garanterer fair konkurrence og international trafiksikkerhed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The entries can be printed in the form of a report directly from the app. In the near future, Tacho View will include specifications for all countries where tachograph regulations are present. And as manufacturers improve their technologies every year by making tachographs easier to use, we hope that our contribution stimulates practice and guarantees fair competition and international road safety.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The entries can be printed in the form of a report directly from the app. In the near future, Tacho View will include specifications for all countries where tachograph regulations are present. And as manufacturers improve their technologies every year by making tachographs easier to use, we hope that our contribution stimulates practice and guarantees fair competition and international road safety.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Einträge können direkt aus der App als Bericht ausgedruckt werden. In Kürze wird Tacho View Spezifikationen für alle Länder mit Tachographenvorschriften enthalten. Da die Hersteller ihre Technologien jährlich verbessern und die Bedienung von Tachographen vereinfachen, hoffen wir, dass unser Beitrag die Praxis fördert und fairen Wettbewerb sowie internationale Verkehrssicherheit gewährleistet.",
+          "bodyHtml": "<p>Die Einträge können direkt aus der App als Bericht ausgedruckt werden. In Kürze wird Tacho View Spezifikationen für alle Länder mit Tachographenvorschriften enthalten. Da die Hersteller ihre Technologien jährlich verbessern und die Bedienung von Tachographen vereinfachen, hoffen wir, dass unser Beitrag die Praxis fördert und fairen Wettbewerb sowie internationale Verkehrssicherheit gewährleistet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les données peuvent être imprimées sous forme de rapport directement depuis l’application. Prochainement, Tacho View intégrera les spécifications de tous les pays appliquant une réglementation sur les tachygraphes. Et comme les fabricants améliorent chaque année leurs technologies pour simplifier l’utilisation des tachygraphes, nous espérons que notre contribution encouragera les bonnes pratiques et garantira une concurrence loyale ainsi que la sécurité routière internationale.",
+          "bodyHtml": "<p>Les données peuvent être imprimées sous forme de rapport directement depuis l’application. Prochainement, Tacho View intégrera les spécifications de tous les pays appliquant une réglementation sur les tachygraphes. Et comme les fabricants améliorent chaque année leurs technologies pour simplifier l’utilisation des tachygraphes, nous espérons que notre contribution encouragera les bonnes pratiques et garantira une concurrence loyale ainsi que la sécurité routière internationale.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De gegevens kunnen rechtstreeks vanuit de app in de vorm van een rapport worden afgedrukt. In de nabije toekomst zal Tacho View specificaties bevatten voor alle landen waar tachograafregelgeving van kracht is. Aangezien fabrikanten hun technologieën jaarlijks verbeteren door tachografen gebruiksvriendelijker te maken, hopen we dat onze bijdrage de praktijk stimuleert en eerlijke concurrentie en internationale verkeersveiligheid garandeert.",
+          "bodyHtml": "<p>De gegevens kunnen rechtstreeks vanuit de app in de vorm van een rapport worden afgedrukt. In de nabije toekomst zal Tacho View specificaties bevatten voor alle landen waar tachograafregelgeving van kracht is. Aangezien fabrikanten hun technologieën jaarlijks verbeteren door tachografen gebruiksvriendelijker te maken, hopen we dat onze bijdrage de praktijk stimuleert en eerlijke concurrentie en internationale verkeersveiligheid garandeert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Oppføringene kan skrives ut i form av en rapport direkte fra appen. I nær fremtid vil Tacho View inneholde spesifikasjoner for alle land der fartsskriverforskrifter er til stede. Og ettersom produsenter forbedrer teknologiene sine hvert år ved å gjøre fartsskrivere enklere å bruke, håper vi at vårt bidrag stimulerer til praksis og garanterer rettferdig konkurranse og internasjonal trafikksikkerhet.",
+          "bodyHtml": "<p>Oppføringene kan skrives ut i form av en rapport direkte fra appen. I nær fremtid vil Tacho View inneholde spesifikasjoner for alle land der fartsskriverforskrifter er til stede. Og ettersom produsenter forbedrer teknologiene sine hvert år ved å gjøre fartsskrivere enklere å bruke, håper vi at vårt bidrag stimulerer til praksis og garanterer rettferdig konkurranse og internasjonal trafikksikkerhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Posterna kan skrivas ut i form av en rapport direkt från appen. Inom en snar framtid kommer Tacho View att inkludera specifikationer för alla länder där det finns färdskrivarföreskrifter. Och i takt med att tillverkare förbättrar sin teknik varje år genom att göra färdskrivare enklare att använda, hoppas vi att vårt bidrag stimulerar praktiken och garanterar rättvis konkurrens och internationell trafiksäkerhet.",
+          "bodyHtml": "<p>Posterna kan skrivas ut i form av en rapport direkt från appen. Inom en snar framtid kommer Tacho View att inkludera specifikationer för alla länder där det finns färdskrivarföreskrifter. Och i takt med att tillverkare förbättrar sin teknik varje år genom att göra färdskrivare enklare att använda, hoppas vi att vårt bidrag stimulerar praktiken och garanterar rättvis konkurrens och internationell trafiksäkerhet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Girişler doğrudan uygulamadan rapor şeklinde yazdırılabilir. Yakın gelecekte Tacho View, takograf düzenlemelerinin mevcut olduğu tüm ülkeler için spesifikasyonları içerecektir. Üreticiler her yıl takografların kullanımını kolaylaştırarak teknolojilerini geliştirirken, katkımızın uygulamayı teşvik edeceğini ve adil rekabeti ve uluslararası yol güvenliğini garanti edeceğini umuyoruz.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Girişler doğrudan uygulamadan rapor şeklinde yazdırılabilir. Yakın gelecekte Tacho View, takograf düzenlemelerinin mevcut olduğu&nbsp;<span class=\"wixui-rich-text__text\">tüm ülkeler için spesifikasyonları</span> içerecektir. Üreticiler her yıl takografların kullanımını kolaylaştırarak teknolojilerini geliştirirken, katkımızın uygulamayı teşvik edeceğini ve adil rekabeti ve uluslararası yol güvenliğini garanti edeceğini umuyoruz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

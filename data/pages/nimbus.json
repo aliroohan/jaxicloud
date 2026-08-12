@@ -1,0 +1,2118 @@
+{
+  "slug": "nimbus",
+  "pageKind": "solution",
+  "titles": {
+    "da": "NimBus – DA",
+    "en": "NimBus",
+    "de": "NimBus – DE",
+    "fr": "NimBus – FR",
+    "nl": "Nimbus – HL",
+    "nb": "NimBus – NO",
+    "sv": "NimBus – SV",
+    "tr": "NimBus – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "NimBus - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/nimbus-da/",
+    "en": "https://www.jaxicloud.com/en/nimbus/",
+    "de": "https://www.jaxicloud.com/de/nimbus-de/",
+    "fr": "https://www.jaxicloud.com/fr/nimbus-fr/",
+    "nl": "https://www.jaxicloud.com/nl/nimbus-hl/",
+    "nb": "https://www.jaxicloud.com/nb/nimbus-no/",
+    "sv": "https://www.jaxicloud.com/sv/nimbus-sv/",
+    "tr": "https://www.jaxicloud.com/tr/nimbus-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "NimBus",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "NimBus: en ny løsning til styring af offentlig transport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "New solution for managing public transport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Eine neue Lösung für das Management des öffentlichen Nahverkehrs",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Nouvelle solution pour la gestion des transports public",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Een nieuwe oplossing voor het beheer van het openbaar vervoer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "En ny løsning for å administrere kollektivtransport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "NimBus: en ny lösning för att hantera kollektivtrafik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Toplu taşımayı yönetmek için yeni bir çözüm",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "NimBus er et offentlig transportstyringssystem,der omfatter kernefunktionaliteten i satellitsporingssoftware og specialiserede værktøjer designet til rutestyring. Brug tjenesten til at oprette stop, optimere ruter, distribuere køretøjer på tværs af ruter, administrere tidsplaner og spore ruteydelse i realtid. NimBus har intuitiv navigation og brugervenlig grænseflade, praktisk tidslinje og hændelsesbaserede meddelelser til online-sporing, specielt ACL-system og det proprietære API til tredjeparts softwareintegration og tilpassede udviklinger.",
+          "bodyHtml": "<p>NimBus er et offentlig transportstyringssystem,der omfatter kernefunktionaliteten i satellitsporingssoftware og specialiserede værktøjer designet til rutestyring. Brug tjenesten til at oprette stop, optimere ruter, distribuere køretøjer på tværs af ruter, administrere tidsplaner og spore ruteydelse i realtid. NimBus har intuitiv navigation og brugervenlig grænseflade, praktisk tidslinje og hændelsesbaserede meddelelser til online-sporing, specielt ACL-system og det proprietære API til tredjeparts softwareintegration og tilpassede udviklinger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "NimBus is a public transport management system that includes the core functionality of satellite tracking software and specialized tools designed for route management. Use the service to create stops, optimize routes, distribute vehicles across routes, manage schedules, and track route performance in real time. NimBus features intuitive navigation and a user-friendly interface, convenient timeline and event-based notifications for online tracking, a dedicated ACL system, and the proprietary API for third-party software integration and custom developments.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">NimBus is a public transport management system that includes the core functionality of satellite tracking software and specialized tools designed for route management. Use the service to create stops, optimize routes, distribute vehicles across routes, manage schedules, and track route performance in real time. NimBus features intuitive navigation and a user-friendly interface, convenient timeline and event-based notifications for online tracking, a dedicated ACL system, and the proprietary API for third-party software integration and custom developments.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "NimBus ist ein öffentliches Verkehrsmanagementsystem , das die Kernfunktionalität einer Satellitenverfolgungssoftware und spezielle Tools für das Routenmanagement umfasst. Verwenden Sie den Dienst, um Haltestellen zu erstellen, Routen zu optimieren, Fahrzeuge auf Routen zu verteilen, Fahrpläne zu verwalten und die Routenleistung in Echtzeit zu verfolgen. NimBus bietet eine intuitive Navigation und eine benutzerfreundliche Oberfläche, eine praktische Zeitleiste und ereignisbasierte Benachrichtigungen für die Online-Verfolgung, ein spezielles ACL-System und die proprietäre API für die Integration von Software von Drittanbietern und benutzerdefinierte Entwicklungen.",
+          "bodyHtml": "<p>NimBus ist ein öffentliches Verkehrsmanagementsystem , das die Kernfunktionalität einer Satellitenverfolgungssoftware und spezielle Tools für das Routenmanagement umfasst. Verwenden Sie den Dienst, um Haltestellen zu erstellen, Routen zu optimieren, Fahrzeuge auf Routen zu verteilen, Fahrpläne zu verwalten und die Routenleistung in Echtzeit zu verfolgen. NimBus bietet eine intuitive Navigation und eine benutzerfreundliche Oberfläche, eine praktische Zeitleiste und ereignisbasierte Benachrichtigungen für die Online-Verfolgung, ein spezielles ACL-System und die proprietäre API für die Integration von Software von Drittanbietern und benutzerdefinierte Entwicklungen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "NimBus est un système de gestion des transports publics intégrant les fonctionnalités essentielles d’un logiciel de suivi par satellite et des outils spécialisés pour la gestion des itinéraires. Ce service permet de créer des arrêts, d’optimiser les itinéraires, de répartir les véhicules, de gérer les horaires et de suivre les performances des lignes en temps réel. NimBus offre une navigation intuitive et une interface conviviale, un système de notifications chronologiques et événementielles pour le suivi en ligne, un système de contrôle d’accès dédié et une API propriétaire pour l’intégration de logiciels tiers et les développements personnalisés.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">NimBus est un système de gestion des transports publics intégrant les fonctionnalités essentielles d’un logiciel de suivi par satellite et des outils spécialisés pour la gestion des itinéraires. Ce service permet de créer des arrêts, d’optimiser les itinéraires, de répartir les véhicules, de gérer les horaires et de suivre les performances des lignes en temps réel. NimBus offre une navigation intuitive et une interface conviviale, un système de notifications chronologiques et événementielles pour le suivi en ligne, un système de contrôle d’accès dédié et une API propriétaire pour l’intégration de logiciels tiers et les développements personnalisés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "NimBus is een beheersysteem voor openbaar vervoer dat de kernfunctionaliteit omvat van satellietvolgsoftware en gespecialiseerde tools die zijn ontworpen voor routebeheer. Gebruik de service om tussenstops te creëren, routes te optimaliseren, voertuigen over routes te verdelen, dienstregelingen te beheren en routeprestaties in realtime te volgen. NimBus beschikt over intuïtieve navigatie en een gebruiksvriendelijke interface, handige tijdlijn- en gebeurtenisgebaseerde meldingen voor online tracking, een speciaal ACL-systeem en de eigen API voor software-integratie van derden en aangepaste ontwikkelingen.",
+          "bodyHtml": "<p>NimBus is een beheersysteem voor openbaar vervoer dat de kernfunctionaliteit omvat van satellietvolgsoftware en gespecialiseerde tools die zijn ontworpen voor routebeheer. Gebruik de service om tussenstops te creëren, routes te optimaliseren, voertuigen over routes te verdelen, dienstregelingen te beheren en routeprestaties in realtime te volgen. NimBus beschikt over intuïtieve navigatie en een gebruiksvriendelijke interface, handige tijdlijn- en gebeurtenisgebaseerde meldingen voor online tracking, een speciaal ACL-systeem en de eigen API voor software-integratie van derden en aangepaste ontwikkelingen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "NimBus er et styringssystem for offentlig transport som inkluderer kjernefunksjonaliteten til satellittsporingsprogramvare og spesialiserte verktøy designet for ruteadministrasjon. Bruk tjenesten til å opprette stopp, optimalisere ruter, distribuere kjøretøy på tvers av ruter, administrere tidsplaner og spore ruteytelse i sanntid. NimBus har intuitiv navigasjon og brukervennlig grensesnitt, praktisk tidslinje og hendelsesbaserte varsler for online sporing, spesielt ACL-system og det proprietære API for tredjeparts programvareintegrasjon og tilpassede utviklinger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">NimBus er et styringssystem for offentlig transport som inkluderer kjernefunksjonaliteten til satellittsporingsprogramvare og spesialiserte verktøy designet for ruteadministrasjon. Bruk tjenesten til å opprette stopp, optimalisere ruter, distribuere kjøretøy på tvers av ruter, administrere tidsplaner og spore ruteytelse i sanntid. NimBus har intuitiv navigasjon og brukervennlig grensesnitt, praktisk tidslinje og hendelsesbaserte varsler for online sporing, spesielt ACL-system og det proprietære API for tredjeparts programvareintegrasjon og tilpassede utviklinger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "NimBus är ett system för hantering av kollektivtrafik som inkluderar kärnfunktionerna i satellitspårningsprogramvara och specialiserade verktyg utformade för rutthantering. Använd tjänsten för att skapa hållplatser, optimera rutter, distribuera fordon över rutter, hantera scheman och spåra rutternas prestanda i realtid. NimBus har intuitiv navigering och ett användarvänligt gränssnitt, praktiska tidslinjer och händelsebaserade aviseringar för onlinespårning, ett dedikerat ACL-system och ett proprietärt API för integration med tredjepartsprogramvara och anpassad utveckling.",
+          "bodyHtml": "<p>NimBus är ett system för hantering av kollektivtrafik som inkluderar kärnfunktionerna i satellitspårningsprogramvara och specialiserade verktyg utformade för rutthantering. Använd tjänsten för att skapa hållplatser, optimera rutter, distribuera fordon över rutter, hantera scheman och spåra rutternas prestanda i realtid. NimBus har intuitiv navigering och ett användarvänligt gränssnitt, praktiska tidslinjer och händelsebaserade aviseringar för onlinespårning, ett dedikerat ACL-system och ett proprietärt API för integration med tredjepartsprogramvara och anpassad utveckling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "NimBus, uydu takip yazılımının temel işlevlerini ve rota yönetimi için tasarlanmış özel araçları içeren bir toplu taşıma yönetim sistemidir . Durakları oluşturmak, rotaları optimize etmek, araçları rotalara dağıtmak, programları yönetmek ve rota performansını gerçek zamanlı olarak izlemek için bu hizmeti kullanın. NimBus, sezgisel navigasyon ve kullanıcı dostu arayüz, çevrimiçi izleme için uygun zaman çizelgesi ve olaya dayalı bildirimler, özel ACL sistemi ve üçüncü taraf yazılım entegrasyonu ve özel geliştirmeler için özel API içerir.",
+          "bodyHtml": "<p>NimBus, uydu takip yazılımının temel işlevlerini ve rota yönetimi için tasarlanmış özel araçları içeren bir toplu taşıma yönetim sistemidir . Durakları oluşturmak, rotaları optimize etmek, araçları rotalara dağıtmak, programları yönetmek ve rota performansını gerçek zamanlı olarak izlemek için bu hizmeti kullanın. NimBus, sezgisel navigasyon ve kullanıcı dostu arayüz, çevrimiçi izleme için uygun zaman çizelgesi ve olaya dayalı bildirimler, özel ACL sistemi ve üçüncü taraf yazılım entegrasyonu ve özel geliştirmeler için özel API içerir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.gif",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "​Sådan fungerer NimBus offentlig transportstyringssoftware",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How NimBus public transport management software works",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "So funktioniert die NimBus-Software zur Verwaltung öffentlicher Verkehrsmittel",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment fonctionne le logiciel de gestion des transports publics NimBus ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "​Hoe NimBus openbaarvervoerbeheersoftware werkt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "​Slik fungerer NimBus-programvaren for offentlig transport",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Så fungerar NimBus programvara för kollektivtrafikhantering]",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "​NimBus toplu taşıma yönetim yazılımı nasıl çalışır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "iconList",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Tilføj eller importer stop",
+            "Opret ruter, tilføj tidsplaner og bind enheder",
+            "Planlæg fremtidige ture",
+            "Spor enhedens bevægelser i realtid",
+            "Generer detaljerede rapporter"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Add or import stops",
+            "Create routes, add schedules and bind devices",
+            "Plan future trips",
+            "Track device movements in real time",
+            "Generate detailed reports"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Stopps hinzufügen oder importieren",
+            "Routen erstellen, Fahrpläne hinzufügen und Geräte binden",
+            "Planen Sie zukünftige Reisen",
+            "Verfolgen Sie Gerätebewegungen in Echtzeit",
+            "Erstellen Sie detaillierte Berichte"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Ajouter ou importer des arrêts",
+            "Créez des itinéraires, ajoutez des horaires et associez des appareils.",
+            "Planifier de futurs voyages",
+            "Suivre les mouvements de l'appareil en temps réel",
+            "Générer des rapports détaillés"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Haltes toevoegen of importeren",
+            "Routes maken, schema's toevoegen en apparaten koppelen",
+            "Plan toekomstige reizen",
+            "Volg de bewegingen van apparaten in realtime",
+            "Genereer gedetailleerde rapporten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Legg til eller importer stopp",
+            "Opprett ruter, legg til tidsplaner og koble til enheter",
+            "Planlegg fremtidige turer",
+            "Spor enhetsbevegelser i sanntid",
+            "Generer detaljerte rapporter"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Lägg till eller importera stopp",
+            "Skapa rutter, lägg till scheman och koppla enheter",
+            "Planera framtida resor",
+            "Spåra enhetens rörelser i realtid",
+            "Generera detaljerade rapporter"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Tilføj eller importer stop",
+            "Opret ruter, tilføj tidsplaner og bind enheder",
+            "Planlæg fremtidige ture",
+            "Spor enhedens bevægelser i realtid",
+            "Generer detaljerede rapporter"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Funktionalitet af rutestyringssoftwaren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Functionality of the route management software",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Funktionalität der Routenmanagement-Software",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Fonctionnalités du logiciel de gestion d'itinéraires",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Functionaliteit van de routebeheersoftware",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Funksjonaliteten til ruteadministrasjonsprogramvaren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Funktionalitet hos programvaran för rutthantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Rota yönetimi yazılımının işlevselliği",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "image",
+      "order": 7,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.png",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 4,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Håndtering stop",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Handling stop",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Handhabungsstopp",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Arrêt de manutention",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Behandeling stop",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Håndteringsstopp",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hanteringsstopp",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İşleme durağı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "richText",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Opret og importer stop, der er kendetegnet ved en køretøjstype; gøre brug af hurtig søgning og detaljeret beskrivelse.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Opret og importer stop, der er kendetegnet ved en køretøjstype; gøre brug af hurtig søgning og detaljeret beskrivelse.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Create and import stops characterized by a vehicle type; make use of quick search and detailed description.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Create and import stops characterized by a vehicle type; make use of quick search and detailed description.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Erstellen und Importieren von Haltestellen, die durch einen Fahrzeugtyp gekennzeichnet sind; Nutzen Sie die Schnellsuche und die ausführliche Beschreibung",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Erstellen und Importieren von Haltestellen, die durch einen Fahrzeugtyp gekennzeichnet sind; Nutzen Sie die Schnellsuche und die ausführliche Beschreibung</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Créez et importez des arrêts caractérisés par un type de véhicule ; utilisez la recherche rapide et la description détaillée.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Créez et importez des arrêts caractérisés par un type de véhicule ; utilisez la recherche rapide et la description détaillée.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Haltes aanmaken en importeren die worden gekenmerkt door een voertuigtype; maak gebruik van snel zoeken en gedetailleerde beschrijving.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Haltes aanmaken en importeren die worden gekenmerkt door een voertuigtype; maak gebruik van snel zoeken en gedetailleerde beschrijving.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Opprette og importere holdeplasser preget av en kjøretøytype; bruk raskt søk og detaljert beskrivelse.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Opprette og importere holdeplasser preget av en kjøretøytype; bruk raskt søk og detaljert beskrivelse.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Skapa och importera stopp som kännetecknas av en fordonstyp; använd snabbsökning och detaljerad beskrivning.",
+          "bodyHtml": "<p>Skapa och importera stopp som kännetecknas av en fordonstyp; använd snabbsökning och detaljerad beskrivning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Araç türüne göre tanımlanan durakları oluşturun ve içe aktarın; hızlı arama ve ayrıntılı açıklamayı kullanın.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Araç türüne göre tanımlanan durakları oluşturun ve içe aktarın; hızlı arama ve ayrıntılı açıklamayı kullanın.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "heading",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Rutestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Route management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Routenmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion des itinéraires",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Routecontrole",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rutekontroll",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rutthantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Rota kontrolü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "richText",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Generer ruter med præcise tidsplaner, individuelle driftsmønstre og bundne enheder.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Generer ruter med præcise tidsplaner, individuelle driftsmønstre og bundne enheder.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Generate routes with precise schedules, individual operating patterns and bound units.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Generate routes with precise schedules, individual operating patterns and bound units.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Erstellen Sie Routen mit präzisen Fahrplänen, individuellen Betriebsmustern und gebundenen Einheiten.",
+          "bodyHtml": "<p>Erstellen Sie Routen mit präzisen Fahrplänen, individuellen Betriebsmustern und gebundenen Einheiten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Générez des itinéraires avec des horaires précis, des schémas d’exploitation individuels et des unités liées.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Générez des itinéraires avec des horaires précis, des schémas d’exploitation individuels et des unités liées.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Generer ruter med presise tidsplaner, individuelle driftsmønstre og tilknyttede enheter.",
+          "bodyHtml": "<p>Generer ruter med presise tidsplaner, individuelle driftsmønstre og tilknyttede enheter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Generera rutter med exakta scheman, individuella driftsmönster och bundna enheter.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Generera rutter med exakta scheman, individuella driftsmönster och bundna enheter.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/route-management.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/route-management.png",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/rides.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/rides.png",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "heading",
+      "order": 14,
+      "sectionIndex": 4,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Planlægning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Planning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Planung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Planning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Planning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Planlegging",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Planering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Planlama",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "richText",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Planlæg ture baseret på aktive ruter med tidsplaner og driftsmønstre.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Planlæg ture baseret på aktive ruter med tidsplaner og driftsmønstre.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Plan trips based on active routes with schedules and operating patterns.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Plan trips based on active routes with schedules and operating patterns.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Planen Sie Fahrten auf der Grundlage aktiver Routen mit Fahrplänen und Betriebsmustern.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Planen Sie Fahrten auf der Grundlage aktiver Routen mit Fahrplänen und Betriebsmustern.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Planifiez les trajets en fonction des itinéraires actifs, des horaires et des modes de fonctionnement.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Planifiez les trajets en fonction des itinéraires actifs, des horaires et des modes de fonctionnement.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Plan reizen op basis van actieve routes met dienstregelingen en bedieningspatronen.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Plan reizen op basis van actieve routes met dienstregelingen en bedieningspatronen.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Planlegg turer basert på aktive ruter med rutetider og driftsmønster.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Planlegg turer basert på aktive ruter med rutetider og driftsmønster.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Planera resor baserat på aktiva rutter med scheman och driftsmönster.",
+          "bodyHtml": "<p>Planera resor baserat på aktiva rutter med scheman och driftsmönster.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Programlar ve çalışma düzenleriyle etkin rotalara dayalı geziler planlayın.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Programlar ve çalışma düzenleriyle etkin rotalara dayalı geziler planlayın.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Online sporing",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Online tracking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Online-Tracking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Suivi en ligne",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Online volgen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Online sporing",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Onlinespårning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Çevrimiçi izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "richText",
+      "order": 17,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Brug praktisk tidslinje, hurtige meddelelser og flere kortlægningsmuligheder til at kontrollere sene/tidlige ankomster og afvigelser fra ruter.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Brug praktisk tidslinje, hurtige meddelelser og flere kortlægningsmuligheder til at kontrollere sene/tidlige ankomster og afvigelser fra ruter.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Use convenient timeline, quick notifications, and multiple mapping options to check late/early arrivals and route deviations.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Use convenient timeline, quick notifications, and multiple mapping options to check late/early arrivals and route deviations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Verwenden Sie eine praktische Zeitleiste, schnelle Benachrichtigungen und mehrere Kartenoptionen, um verspätete/frühe Ankünfte und Routenabweichungen zu überprüfen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Verwenden Sie eine praktische Zeitleiste, schnelle Benachrichtigungen und mehrere Kartenoptionen, um verspätete/frühe Ankünfte und Routenabweichungen zu überprüfen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Utilisez un calendrier pratique, des notifications rapides et de multiples options de cartographie pour vérifier les arrivées en retard/en avance et les déviations d’itinéraire.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Utilisez un calendrier pratique, des notifications rapides et de multiples options de cartographie pour vérifier les arrivées en retard/en avance et les déviations d’itinéraire.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bruk praktisk tidslinje, raske varsler og flere kartalternativer for å sjekke sene/tidlige ankomster og ruteavvik.",
+          "bodyHtml": "<p>Bruk praktisk tidslinje, raske varsler og flere kartalternativer for å sjekke sene/tidlige ankomster og ruteavvik.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Använd en praktisk tidslinje, snabba aviseringar och flera kartalternativ för att kontrollera sena/tidiga ankomster och ruttavvikelser.",
+          "bodyHtml": "<p>Använd en praktisk tidslinje, snabba aviseringar och flera kartalternativ för att kontrollera sena/tidiga ankomster och ruttavvikelser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Geç/erken varışları ve rota sapmalarını kontrol etmek için kullanışlı zaman çizelgesini, hızlı bildirimleri ve çoklu haritalama seçeneklerini kullanın.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Geç/erken varışları ve rota sapmalarını kontrol etmek için kullanışlı zaman çizelgesini, hızlı bildirimleri ve çoklu haritalama seçeneklerini kullanın.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "image",
+      "order": 18,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/online-tracking.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/online-tracking.png",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

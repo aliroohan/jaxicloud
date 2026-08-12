@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { SolutionBlocks } from "@/components/blocks/SolutionBlocks";
 import styles from "@/components/blocks/blocks.module.css";
+import { getSolutionLayout } from "@/components/solutions/registry";
 import {
   isLocale,
   UI_COPY,
@@ -64,6 +65,20 @@ export default async function LocalizedSolutionPage({ params }: Props) {
   }
 
   const copy = UI_COPY[locale];
+  const Layout = getSolutionLayout(slug);
+  const contactHref = withLocale(locale, "/contact");
+
+  if (Layout) {
+    return (
+      <Layout
+        page={page}
+        locale={locale}
+        eyebrow={copy.solutions}
+        requestDemoLabel={copy.requestDemo}
+        contactHref={contactHref}
+      />
+    );
+  }
 
   return (
     <article className={styles.page}>

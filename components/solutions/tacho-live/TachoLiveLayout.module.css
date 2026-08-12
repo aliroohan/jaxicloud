@@ -1,0 +1,12 @@
+/* archetype: mediaCascade — distinct from temperature dualPanel */
+.page{background:#fafaf9;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0f766e}
+.hero{padding:clamp(3rem,8vw,6rem) 0 2rem}
+.title{font-size:clamp(2.5rem,5vw,4rem);max-width:12ch}
+.cascade{display:flex;flex-direction:column;gap:clamp(2.5rem,6vw,4rem);padding-bottom:5rem}
+.row{display:grid;gap:1.5rem}
+@media(min-width:900px){.row{grid-template-columns:1fr 1fr;align-items:center}}
+.rowFlip{direction:rtl}
+.rowFlip > *{direction:ltr}
+.shot{aspect-ratio:16/10;border-radius:1rem;position:relative;overflow:hidden}

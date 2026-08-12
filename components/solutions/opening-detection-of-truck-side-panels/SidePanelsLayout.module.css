@@ -1,0 +1,12 @@
+/* archetype: threeAct */
+.page{background:#fafafa;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#334155}
+
+.act{padding:clamp(3rem,7vw,5.5rem) 0;border-bottom:1px solid #e5e5e5}
+.act:last-child{border-bottom:0}
+.kicker{font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:#334155;font-weight:600}
+.title{font-size:clamp(2rem,4.5vw,3.2rem);max-width:16ch;margin-top:.75rem}
+.layout{display:grid;gap:2rem;margin-top:2rem}@media(min-width:900px){.layout{grid-template-columns:1fr 1fr;align-items:center}}
+.shot{aspect-ratio:16/11;border-radius:1rem}
+

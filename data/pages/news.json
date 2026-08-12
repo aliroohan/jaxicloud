@@ -1,0 +1,1258 @@
+{
+  "slug": "news",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "News – DA",
+    "en": "News",
+    "de": "News – DE",
+    "fr": "News – FR",
+    "nl": "News – HL",
+    "nb": "News – NO",
+    "sv": "News – SV",
+    "tr": "News – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Nyheder - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "News - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Nachricht - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Nouvelles - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Nieuws - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Nyheter - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Nachrichte - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Haberler - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/news-da/",
+    "en": "https://www.jaxicloud.com/en/news/",
+    "de": "https://www.jaxicloud.com/de/news-de/",
+    "fr": "https://www.jaxicloud.com/fr/news-fr/",
+    "nl": "https://www.jaxicloud.com/nl/news-hl/",
+    "nb": "https://www.jaxicloud.com/nb/news-no/",
+    "sv": "https://www.jaxicloud.com/sv/news-sv/",
+    "tr": "https://www.jaxicloud.com/tr/news-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Nyheder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "News",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Nachricht",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Nouvelles",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Nieuws",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Nyheter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Nachrichte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Haberler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "blogPosts",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "eael-post-grid.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/07/800x350.png",
+          "width": 1600,
+          "height": 700
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/05/Article-image.png",
+          "width": 2048,
+          "height": 1229
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/1-1.png",
+          "width": 1776,
+          "height": 1180
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/post.png",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/129284_4fd8c5a31bce4d91bc49ae39d3ca85f4mv2.jpg",
+          "width": 514,
+          "height": 386
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_ff99b61f4708455d98ddffa1f3b616e9mv2.jpg",
+          "width": 514,
+          "height": 386
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/jaxinews.jpg",
+          "width": 740,
+          "height": 531
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_54418700f5e44541b5e1fafca3d20569mv2.jpg",
+          "width": 514,
+          "height": 386
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/gitex.jpg",
+          "width": 740,
+          "height": 531
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...Det er med stor glæde, at vi kan meddele, at JaxiCloud Fleet Management flytter til...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p><p>Det er med stor glæde, at vi kan meddele, at JaxiCloud Fleet Management flytter til...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies/"
+            },
+            {
+              "label": "JaxiCloud Fleet Management Flytter til Nye Hovedkvarter",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p></p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p></p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Q2 updates",
+          "body": "What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...2025 has been a year of significant development, high innovation speed, and strong growth at...14-18 October 2024 DUBAI – UNITED ARAB EMIRATES We are pleased to announce that...JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...",
+          "bodyHtml": "<p>What’s new in Jaxicloud Hosting in Q2 2026 Jaxicloud Updates Jaxicloud Hosting continues to evolve,...</p><p>In a new article from Lastbilmagasinet, Jaxicloud Fleet Management focuses on the development within fleet...</p><p>Managing daily transport operations has never been easier. With the Driver Portal mobile application, truck...</p><p>2025 has been a year of significant development, high innovation speed, and strong growth at...</p><p>14-18 October 2024 DUBAI – UNITED ARAB EMIRATES &nbsp; We are pleased to announce that...</p><p></p><p>JaxiCloud Fleet Management Expands to Greifswald with Experienced Industry Leader Greifswald, Germany – September 1,...</p><p>A Milestone Collaboration: Alex Andersen Ølund and JaxiCloud Revolutionize the Transport Industry In a groundbreaking...</p><p>Københavns Kommune har indgået en stor kontrakt med Jaxicloud om leverance og installation af 1000...</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Q2 updates",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Tracking is not enough: they want to change the game in fleet management",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/05/03/tracking-is-not-enough-they-want-to-change-the-game-in-fleet-management/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Driver Portal – All-in-One Mobile App for Truck Drivers",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/04/14/driver-portal-all-in-one-mobile-app-for-truck-drivers/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Everything in one tablet – one platform – the office moves into the vehicle.",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2026/01/05/everything-in-one-tablet-one-platform-the-office-moves-into-the-vehicle/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Jaxicloud Fleet Management participates in GITEX GLOBAL 2024 together with our partner",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Fleet Management de Jaxicloud impressionne dans le top 10 de Dubai dans la compétition internationale IoT",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/artificial-intelligence-how-you-can-use-it-in-your-business/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "WHAT’S NEW IN JAXICLOUD FLEET MANAGEMENT IN SEPTEMBER 2024",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/how-you-can-maintain-your-artificial-intelligence-strategies-2/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "JaxiCloud news",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/why-artificial-intelligence-has-become-a-new-fuzz/"
+            },
+            {
+              "label": "",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Københavns Kommune navigerer sig til nemmere drift med 4G GPS-tracking",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            },
+            {
+              "label": "Read More",
+              "href": "https://www.jaxicloud.com/en/2025/10/20/become-up-to-date-with-the-everchanging-pace-of-progress/"
+            }
+          ],
+          "ctaLabel": null,
+          "ctaUrl": "https://www.jaxicloud.com/en/2026/07/27/q2-updates/",
+          "imageAlts": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

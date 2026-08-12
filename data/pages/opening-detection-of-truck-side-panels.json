@@ -1,0 +1,904 @@
+{
+  "slug": "opening-detection-of-truck-side-panels",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Opening detection of truck side panels – DA",
+    "en": "Opening detection of truck side panels",
+    "de": "Opening detection of truck side panels – DE",
+    "fr": "Opening detection of truck side panels – FR",
+    "nl": "Opening detection of truck side panels – HL",
+    "nb": "Opening detection of truck side panels – NO",
+    "sv": "Opening detection of truck side panels – SV",
+    "tr": "Opening detection of truck side panels – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Åbningsdetektion af lastbilens sidepaneler - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Opening detection of truck side panels - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Öffnungserkennung der LKW-Seitenwände - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Détection d'ouverture des panneaux latéraux du camion - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Detectie van het openen van de zijpanelen van vrachtwagens - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Åpningsdeteksjon av lastebilens sidepaneler - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Öppningsdetektering av lastbils sidopaneler - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Kamyon yan panellerinin açılma tespiti - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/opening-detection-of-truck-side-panels-da/",
+    "en": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+    "de": "https://www.jaxicloud.com/de/opening-detection-of-truck-side-panels-de/",
+    "fr": "https://www.jaxicloud.com/fr/opening-detection-of-truck-side-panels-fr/",
+    "nl": "https://www.jaxicloud.com/nl/opening-detection-of-truck-side-panels-hl/",
+    "nb": "https://www.jaxicloud.com/nb/opening-detection-of-truck-side-panels-no/",
+    "sv": "https://www.jaxicloud.com/sv/opening-detection-of-truck-side-panels-sv/",
+    "tr": "https://www.jaxicloud.com/tr/opening-detection-of-truck-side-panels-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Åbningsdetektion af lastbilens sidepaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Opening detection of truck side panels",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Öffnungserkennung der LKW-Seitenwände",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Détection d'ouverture des panneaux latéraux du camion",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Detectie van het openen van de zijpanelen van vrachtwagens",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Åpningsdeteksjon av lastebilens sidepaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Öppningsdetektering av lastbils sidopaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon yan panellerinin açılma tespiti",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "richText",
+      "order": 1,
+      "sectionIndex": 0,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Integrer Jaxicloud Fleet Management Innovations trådløse magnetiske sensorer i dine forbundne transportløsninger for at registrere åbning af hydrauliske sidepaneler på dumpere.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrer Jaxicloud Fleet Management Innovations trådløse magnetiske sensorer i dine forbundne transportløsninger for at registrere åbning af hydrauliske sidepaneler på dumpere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Integrate Jaxicloud Fleet Management Innovations wireless magnetic sensors into your connected transportation solutions to detect the opening of hydraulic side panels on dump trucks.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrate Jaxicloud Fleet Management Innovations wireless magnetic sensors into your connected transportation solutions to detect the opening of hydraulic side panels on dump trucks.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Integrieren Sie die drahtlosen Magnetsensoren von Jaxicloud Fleet Management Innovations in Ihre vernetzten Transportlösungen, um das Öffnen der hydraulischen Seitenwände an Muldenkippern zu erkennen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrieren Sie die drahtlosen Magnetsensoren von Jaxicloud Fleet Management Innovations in Ihre vernetzten Transportlösungen, um das Öffnen der hydraulischen Seitenwände an Muldenkippern zu erkennen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Intégrez les capteurs magnétiques sans fil Jaxicloud Fleet Management Innovations à vos solutions de transport connectées pour détecter l’ouverture des panneaux latéraux hydrauliques des camions-bennes.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Intégrez les capteurs magnétiques sans fil Jaxicloud Fleet Management Innovations à vos solutions de transport connectées pour détecter l’ouverture des panneaux latéraux hydrauliques des camions-bennes.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Integreer de draadloze magnetische sensoren van Jaxicloud Fleet Management Innovations in uw verbonden transportoplossingen om het openen van hydraulische zijpanelen op kiepwagens te detecteren.",
+          "bodyHtml": "<p>Integreer de draadloze magnetische sensoren van Jaxicloud Fleet Management Innovations in uw verbonden transportoplossingen om het openen van hydraulische zijpanelen op kiepwagens te detecteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Integrer trådløse magnetiske sensorer fra Jaxicloud Fleet Management Innovations i dine tilkoblede transportløsninger for å oppdage åpning av hydrauliske sidepaneler på dumpere.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrer trådløse magnetiske sensorer fra Jaxicloud Fleet Management Innovations i dine tilkoblede transportløsninger for å oppdage åpning av hydrauliske sidepaneler på dumpere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Integrera Jaxicloud Fleet Management Innovations trådlösa magnetiska sensorer i dina uppkopplade transportlösningar för att upptäcka öppningen av hydrauliska sidopaneler på dumprar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Integrera Jaxicloud Fleet Management Innovations trådlösa magnetiska sensorer i dina uppkopplade transportlösningar för att upptäcka öppningen av hydrauliska sidopaneler på dumprar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud Filo Yönetimi Yenilikleri’nin kablosuz manyetik sensörlerini, damperli kamyonlardaki hidrolik yan panellerin açılmasını tespit etmek için bağlantılı ulaşım çözümlerinize entegre edin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Filo Yönetimi Yenilikleri’nin kablosuz manyetik sensörlerini, damperli kamyonlardaki hidrolik yan panellerin açılmasını tespit etmek için bağlantılı ulaşım çözümlerinize entegre edin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad er detektion af åbning af sidepaneler på en lastbil?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What is truck side panel opening detection?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Was ist eine Erkennung des Öffnens der LKW-Seitenwand?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Qu'est-ce que la détection d'ouverture des panneaux latéraux d'un camion ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Wat is detectie van het openen van het zijpaneel van een vrachtwagen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva er deteksjon av åpning av sidepanel på lastebiler?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad är detektering av öppning av lastbils sidopanel?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon yan panel açıklığı algılama sistemi nedir?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "richText",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "I juli 2020 offentliggjorde den franske regering en teknisk note om hydrauliske tippeladslastbiler udstyret med sidebrætter. Denne nye regulering kræver, at producenter og brugere af denne type køretøj udstyrer sig med en nødalarm. Målet er at reducere risikoen for ulykker drastisk ved at udstyre alle flåder af tippeladslastbiler med en sidepaneldetekteringsløsning. Denne type løsning gør det blandt andet muligt at begrænse hastigheden til 15 km/t, når siderne er åbne. Men udfordringen er stor for virksomheder, der skal udstyre flåder af flere køretøjer.Forbundne telematikløsninger vil gøre det muligt at imødekomme dette behov på rekordtid ved at udstyre tippeladslastbilerne med trådløse sensorer, der fungerer via Bluetooth. Dermed kræves der ingen ledningsføring.",
+          "bodyHtml": "<p>I juli 2020 offentliggjorde den franske regering en teknisk note om hydrauliske tippeladslastbiler udstyret med sidebrætter. Denne nye regulering kræver, at producenter og brugere af denne type køretøj udstyrer sig med en nødalarm. Målet er at reducere risikoen for ulykker drastisk ved at udstyre alle flåder af tippeladslastbiler med en sidepaneldetekteringsløsning. Denne type løsning gør det blandt andet muligt at begrænse hastigheden til 15 km/t, når siderne er åbne. Men udfordringen er stor for virksomheder, der skal udstyre flåder af flere køretøjer.</p><p>Forbundne telematikløsninger vil gøre det muligt at imødekomme dette behov på rekordtid ved at udstyre tippeladslastbilerne med trådløse sensorer, der fungerer via Bluetooth. Dermed kræves der ingen ledningsføring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "In July 2020, a technical note on hydraulic tipper trucks equipped with sideboards was published by the French government. This new regulation requires manufacturers and users of this type of vehicle to equip themselves with an emergency alarm. The aim is to drastically reduce the risk of accidents by equipping all fleets of dump trucks with a side panel detection solution . This type of solution allows, among other things, to limit the speed to 15Km/H when the sides are open. But the challenge is great for companies that have to equip fleets of several vehicles.Connected telematics solutions will make it possible to meet this need in record time by equipping the tipper trucks with wireless sensors that operate in Bluetooth. Thus, no wiring is required.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In July 2020, a technical note on hydraulic tipper trucks equipped with sideboards was published by the French government. This new regulation&nbsp;requires manufacturers and users of this type of vehicle to equip themselves with an emergency alarm.&nbsp;The aim is to drastically reduce the risk of accidents by equipping all fleets of dump trucks&nbsp;with a side panel detection solution&nbsp;. This type of solution allows, among other things, to limit the speed to 15Km/H when the sides are open. But the challenge is great for companies that have to equip fleets of several vehicles.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Connected telematics solutions will make it possible to&nbsp;meet this need in record time by equipping the tipper trucks with wireless sensors that operate in Bluetooth. Thus, no wiring is required.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Im Juli 2020 veröffentlichte die französische Regierung eine technische Mitteilung zu hydraulischen Kipplastern mit Bordwänden. Diese neue Verordnung verpflichtet Hersteller und Nutzer dieser Fahrzeugtypen zur Ausstattung ihrer Fahrzeuge mit einem Notfallalarm. Ziel ist es, das Unfallrisiko durch die Ausstattung aller Kipplasterflotten mit einer Bordwanderkennungslösung drastisch zu reduzieren. Diese Lösung ermöglicht unter anderem die Geschwindigkeitsbegrenzung auf 15 km/h bei geöffneten Bordwänden. Die Umrüstung stellt jedoch Unternehmen mit mehreren Fahrzeugen vor große Herausforderungen.Vernetzte Telematiklösungen ermöglichen es, diese Anforderung in Rekordzeit zu erfüllen, indem die Kipplaster mit drahtlosen, Bluetooth-fähigen Sensoren ausgestattet werden. Dadurch entfällt die Verkabelung.",
+          "bodyHtml": "<p>Im Juli 2020 veröffentlichte die französische Regierung eine technische Mitteilung zu hydraulischen Kipplastern mit Bordwänden. Diese neue Verordnung verpflichtet Hersteller und Nutzer dieser Fahrzeugtypen zur Ausstattung ihrer Fahrzeuge mit einem Notfallalarm. Ziel ist es, das Unfallrisiko durch die Ausstattung aller Kipplasterflotten mit einer Bordwanderkennungslösung drastisch zu reduzieren. Diese Lösung ermöglicht unter anderem die Geschwindigkeitsbegrenzung auf 15 km/h bei geöffneten Bordwänden. Die Umrüstung stellt jedoch Unternehmen mit mehreren Fahrzeugen vor große Herausforderungen.</p><p>Vernetzte Telematiklösungen ermöglichen es, diese Anforderung in Rekordzeit zu erfüllen, indem die Kipplaster mit drahtlosen, Bluetooth-fähigen Sensoren ausgestattet werden. Dadurch entfällt die Verkabelung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "En juillet 2020, le gouvernement français a publié une note technique relative aux camions-bennes hydrauliques à ridelles. Cette nouvelle réglementation impose aux constructeurs et aux utilisateurs de ce type de véhicule de s’équiper d’un système d’alarme d’urgence. L’objectif est de réduire drastiquement les risques d’accidents en équipant toutes les flottes de camions-bennes d’un dispositif de détection d’ouverture des ridelles. Ce système permet notamment de limiter la vitesse à 15 km/h lorsque les ridelles sont ouvertes. Cependant, le défi est de taille pour les entreprises qui doivent équiper des flottes importantes.Les solutions télématiques connectées permettront de répondre à ce besoin en un temps record grâce à l’installation de capteurs sans fil fonctionnant en Bluetooth sur les camions-bennes. Ainsi, aucun câblage n’est nécessaire.",
+          "bodyHtml": "<p>En juillet 2020, le gouvernement français a publié une note technique relative aux camions-bennes hydrauliques à ridelles. Cette nouvelle réglementation impose aux constructeurs et aux utilisateurs de ce type de véhicule de s’équiper d’un système d’alarme d’urgence. L’objectif est de réduire drastiquement les risques d’accidents en équipant toutes les flottes de camions-bennes d’un dispositif de détection d’ouverture des ridelles. Ce système permet notamment de limiter la vitesse à 15 km/h lorsque les ridelles sont ouvertes. Cependant, le défi est de taille pour les entreprises qui doivent équiper des flottes importantes.</p><p>Les solutions télématiques connectées permettront de répondre à ce besoin en un temps record grâce à l’installation de capteurs sans fil fonctionnant en Bluetooth sur les camions-bennes. Ainsi, aucun câblage n’est nécessaire.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "In juli 2020 publiceerde de Franse overheid een technische nota over hydraulische kiepwagens met zijborden. Deze nieuwe regelgeving vereist dat fabrikanten en gebruikers van dit type voertuig zichzelf uitrusten met een noodalarm. Het doel is om het risico op ongevallen drastisch te verminderen door alle vloten kiepwagens uit te rusten met een oplossing voor detectie van zijpanelen. Dit type oplossing maakt het onder andere mogelijk om de snelheid te beperken tot 15 km/u wanneer de zijkanten open zijn. Maar de uitdaging is groot voor bedrijven die vloten met meerdere voertuigen moeten uitrusten.Geconnecteerde telematica-oplossingen zullen het mogelijk maken om in recordtijd aan deze behoefte te voldoen door de kiepwagens uit te rusten met draadloze sensoren die via Bluetooth werken. Er is dus geen bedrading nodig.",
+          "bodyHtml": "<p>In juli 2020 publiceerde de Franse overheid een technische nota over hydraulische kiepwagens met zijborden. Deze nieuwe regelgeving vereist dat fabrikanten en gebruikers van dit type voertuig zichzelf uitrusten met een noodalarm. Het doel is om het risico op ongevallen drastisch te verminderen door alle vloten kiepwagens uit te rusten met een oplossing voor detectie van zijpanelen. Dit type oplossing maakt het onder andere mogelijk om de snelheid te beperken tot 15 km/u wanneer de zijkanten open zijn. Maar de uitdaging is groot voor bedrijven die vloten met meerdere voertuigen moeten uitrusten.</p><p>Geconnecteerde telematica-oplossingen zullen het mogelijk maken om in recordtijd aan deze behoefte te voldoen door de kiepwagens uit te rusten met draadloze sensoren die via Bluetooth werken. Er is dus geen bedrading nodig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "I juli 2020 publiserte den franske regjeringen et teknisk notat om hydrauliske tippbiler utstyrt med sidebord. Denne nye forskriften krever at produsenter og brukere av denne typen kjøretøy utstyrer seg med en nødalarm. Målet er å redusere risikoen for ulykker drastisk ved å utstyre alle flåter av tippbiler med en løsning for sidepaneldeteksjon. Denne typen løsning tillater blant annet å begrense hastigheten til 15 km/t når sidene er åpne. Men utfordringen er stor for selskaper som må utstyre flåter med flere kjøretøy.Tilkoblede telematikkløsninger vil gjøre det mulig å møte dette behovet på rekordtid ved å utstyre tippbilene med trådløse sensorer som opererer via Bluetooth. Dermed kreves ingen kabling.",
+          "bodyHtml": "<p>I juli 2020 publiserte den franske regjeringen et teknisk notat om hydrauliske tippbiler utstyrt med sidebord. Denne nye forskriften krever at produsenter og brukere av denne typen kjøretøy utstyrer seg med en nødalarm. Målet er å redusere risikoen for ulykker drastisk ved å utstyre alle flåter av tippbiler med en løsning for sidepaneldeteksjon. Denne typen løsning tillater blant annet å begrense hastigheten til 15 km/t når sidene er åpne. Men utfordringen er stor for selskaper som må utstyre flåter med flere kjøretøy.</p><p>Tilkoblede telematikkløsninger vil gjøre det mulig å møte dette behovet på rekordtid ved å utstyre tippbilene med trådløse sensorer som opererer via Bluetooth. Dermed kreves ingen kabling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "I juli 2020 publicerade den franska regeringen en teknisk anmärkning om hydrauliska tippbilar utrustade med sidopaneler. Denna nya förordning kräver att tillverkare och användare av denna typ av fordon utrustar sig med ett nödlarm. Målet är att drastiskt minska risken för olyckor genom att utrusta alla dumpbilsflottor med en lösning för detektering av sidopaneler. Denna typ av lösning möjliggör bland annat att begränsa hastigheten till 15 km/h när sidorna är öppna. Men utmaningen är stor för företag som måste utrusta flottor med flera fordon.Uppkopplade telematiklösningar kommer att göra det möjligt att möta detta behov på rekordtid genom att utrusta tippbilarna med trådlösa sensorer som fungerar via Bluetooth. Således krävs ingen kabeldragning.",
+          "bodyHtml": "<p>I juli 2020 publicerade den franska regeringen en teknisk anmärkning om hydrauliska tippbilar utrustade med sidopaneler. Denna nya förordning kräver att tillverkare och användare av denna typ av fordon utrustar sig med ett nödlarm. Målet är att drastiskt minska risken för olyckor genom att utrusta alla dumpbilsflottor med en lösning för detektering av sidopaneler. Denna typ av lösning möjliggör bland annat att begränsa hastigheten till 15 km/h när sidorna är öppna. Men utmaningen är stor för företag som måste utrusta flottor med flera fordon.</p><p>Uppkopplade telematiklösningar kommer att göra det möjligt att möta detta behov på rekordtid genom att utrusta tippbilarna med trådlösa sensorer som fungerar via Bluetooth. Således krävs ingen kabeldragning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Temmuz 2020’de, Fransız hükümeti tarafından yan panellerle donatılmış hidrolik damperli kamyonlarla ilgili bir teknik not yayınlandı. Bu yeni düzenleme, bu tür araçların üreticilerini ve kullanıcılarını acil durum alarmı ile donatmayı zorunlu kılıyor. Amaç, tüm damperli kamyon filolarını yan panel algılama çözümüyle donatarak kaza riskini önemli ölçüde azaltmaktır. Bu tür bir çözüm, diğer şeylerin yanı sıra, yan paneller açıkken hızı 15 km/sa ile sınırlamaya olanak tanır. Ancak, birden fazla araçtan oluşan filoları donatmak zorunda olan şirketler için bu büyük bir zorluktur.Bağlantılı telematik çözümler, damperli kamyonları Bluetooth ile çalışan kablosuz sensörlerle donatarak bu ihtiyacı rekor sürede karşılamayı mümkün kılacaktır. Böylece, kablolama gerekmez.",
+          "bodyHtml": "<p>Temmuz 2020’de, Fransız hükümeti tarafından yan panellerle donatılmış hidrolik damperli kamyonlarla ilgili bir teknik not yayınlandı. Bu yeni düzenleme, bu tür araçların üreticilerini ve kullanıcılarını acil durum alarmı ile donatmayı zorunlu kılıyor. Amaç, tüm damperli kamyon filolarını yan panel algılama çözümüyle donatarak kaza riskini önemli ölçüde azaltmaktır. Bu tür bir çözüm, diğer şeylerin yanı sıra, yan paneller açıkken hızı 15 km/sa ile sınırlamaya olanak tanır. Ancak, birden fazla araçtan oluşan filoları donatmak zorunda olan şirketler için bu büyük bir zorluktur.</p><p>Bağlantılı telematik çözümler, damperli kamyonları Bluetooth ile çalışan kablosuz sensörlerle donatarak bu ihtiyacı rekor sürede karşılamayı mümkün kılacaktır. Böylece, kablolama gerekmez.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e355fd6f646d49d5827bc3735ea6730bmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e355fd6f646d49d5827bc3735ea6730bmv2.jpg",
+          "width": 472,
+          "height": 315
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "image",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_8ead714e8fe74597a4f10118513f777dmv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_8ead714e8fe74597a4f10118513f777dmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 520,
+          "height": 293
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan fungerer detektion af åbning af sidepaneler på en lastbil?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How does truck side panel opening detection work?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wie funktioniert die Erkennung des Öffnens der LKW-Seitenwand?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment fonctionne la détection d'ouverture des panneaux latéraux d'un camion ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe werkt het detecteren van het openen van een zijpaneel van een vrachtwagen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan fungerer deteksjon av åpning av sidepanel på lastebiler?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur fungerar detektering av öppning av lastbils sidopanel?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon yan panel açıklığı algılama sistemi nasıl çalışır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "For at implementere en løsning til detektion af åbning af sidepaneler på lastbiler, skal du udstyre dig med trådløse magnetiske sensorer og industrielle magneter.Takket være dens højtydende klæbemiddel monteres sensoren på sidepanelerne på få minutter. Magneten fastgøres til sidepanelet i umiddelbar nærhed af sensoren. Når lastbilens sider åbnes, flyttes den magnetiske sensor og magneten væk fra hinanden.Oplysningerne om sensorens tilstandsændring transmitteres via Bluetooth til IoT-platformen via den indbyggede telematikboks i lastbilens førerhus.Denne boks fungerer som en gateway og sender informationen via mobilnetværket (3G/4G) til forretningsapplikationen. Hvis lastbilens sidepaneler er åbne, sendes der en advarsel i realtid til chaufføren på hans smartphone.",
+          "bodyHtml": "<p>For at implementere en løsning til detektion af åbning af sidepaneler på lastbiler, skal du udstyre dig med trådløse magnetiske sensorer og industrielle magneter.</p><p>Takket være dens højtydende klæbemiddel monteres sensoren på sidepanelerne på få minutter. Magneten fastgøres til sidepanelet i umiddelbar nærhed af sensoren. Når lastbilens sider åbnes, flyttes den magnetiske sensor og magneten væk fra hinanden.</p><p>Oplysningerne om sensorens tilstandsændring transmitteres via Bluetooth til IoT-platformen via den indbyggede telematikboks i lastbilens førerhus.</p><p>Denne boks fungerer som en gateway og sender informationen via mobilnetværket (3G/4G) til forretningsapplikationen. Hvis lastbilens sidepaneler er åbne, sendes der en advarsel i realtid til chaufføren på hans smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "To implement a truck side panel opening detection solution, equip yourself with wireless magnetic sensors and industrial magnets.Thanks to its high-performance adhesive, the sensor is mounted in just a few minutes on the side panels. The magnet will be attached to the side panel in close proximity to the sensor. When the sides of the truck are opened, the magnetic sensor and magnet are moved away from each other.The information about the sensor’s state change is transmitted via Bluetooth to the IoT platform by the built-in telematics box in the truck’s cab.This box acts as a gateway and sends the information via the mobile network (3G/4G) to the business application. If the truck’s side panels are open, a real-time warning is sent to the driver on his smartphone.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">To implement a&nbsp;truck side panel opening detection&nbsp;solution, equip yourself with wireless magnetic sensors and industrial magnets.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Thanks to its high-performance adhesive, the sensor is mounted in just a few minutes&nbsp;on the side panels. The magnet will be attached to the side panel in close proximity to the sensor. When the sides of the truck are opened, the magnetic sensor and magnet are moved away from each other.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The information about&nbsp;the sensor’s state change is transmitted via Bluetooth to the IoT platform&nbsp;by the built-in telematics box in the truck’s cab.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This box acts as a gateway and sends the information via the mobile network (3G/4G) to the business application. If the truck’s side panels are open,&nbsp;a real-time warning is sent to the driver&nbsp;on his smartphone.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Um eine Lösung zur Erkennung geöffneter LKW-Seitenwände zu implementieren, benötigen Sie drahtlose Magnetsensoren und Industriemagnete.Dank seines Hochleistungsklebers lässt sich der Sensor in wenigen Minuten an den Seitenwänden anbringen. Der Magnet wird in unmittelbarer Nähe des Sensors an der Seitenwand befestigt. Beim Öffnen der LKW-Seitenwände entfernen sich Sensor und Magnet voneinander.Die Informationen über die Zustandsänderung des Sensors werden von der in der Fahrerkabine integrierten Telematikbox per Bluetooth an die IoT-Plattform übertragen.Diese Box fungiert als Gateway und sendet die Informationen über das Mobilfunknetz (3G/4G) an die Geschäftsanwendung. Sind die Seitenwände des LKW geöffnet, erhält der Fahrer eine Echtzeitwarnung auf sein Smartphone.",
+          "bodyHtml": "<p>Um eine Lösung zur Erkennung geöffneter LKW-Seitenwände zu implementieren, benötigen Sie drahtlose Magnetsensoren und Industriemagnete.</p><p>Dank seines Hochleistungsklebers lässt sich der Sensor in wenigen Minuten an den Seitenwänden anbringen. Der Magnet wird in unmittelbarer Nähe des Sensors an der Seitenwand befestigt. Beim Öffnen der LKW-Seitenwände entfernen sich Sensor und Magnet voneinander.</p><p>Die Informationen über die Zustandsänderung des Sensors werden von der in der Fahrerkabine integrierten Telematikbox per Bluetooth an die IoT-Plattform übertragen.</p><p>Diese Box fungiert als Gateway und sendet die Informationen über das Mobilfunknetz (3G/4G) an die Geschäftsanwendung. Sind die Seitenwände des LKW geöffnet, erhält der Fahrer eine Echtzeitwarnung auf sein Smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Pour mettre en œuvre une solution de détection d’ouverture des panneaux latéraux d’un camion, utilisez des capteurs magnétiques sans fil et des aimants industriels.Grâce à son adhésif haute performance, le capteur se fixe en quelques minutes sur les panneaux latéraux. L’aimant est fixé au panneau latéral, à proximité immédiate du capteur. Lorsque les panneaux latéraux du camion s’ouvrent, le capteur et l’aimant s’écartent.L’information relative au changement d’état du capteur est transmise par Bluetooth à la plateforme IoT par le boîtier télématique intégré dans la cabine du camion.Ce boîtier fait office de passerelle et envoie l’information via le réseau mobile (3G/4G) à l’application métier. Si les panneaux latéraux du camion sont ouverts, une alerte en temps réel est envoyée au conducteur sur son smartphone.",
+          "bodyHtml": "<p>Pour mettre en œuvre une solution de détection d’ouverture des panneaux latéraux d’un camion, utilisez des capteurs magnétiques sans fil et des aimants industriels.</p><p>Grâce à son adhésif haute performance, le capteur se fixe en quelques minutes sur les panneaux latéraux. L’aimant est fixé au panneau latéral, à proximité immédiate du capteur. Lorsque les panneaux latéraux du camion s’ouvrent, le capteur et l’aimant s’écartent.</p><p>L’information relative au changement d’état du capteur est transmise par Bluetooth à la plateforme IoT par le boîtier télématique intégré dans la cabine du camion.</p><p>Ce boîtier fait office de passerelle et envoie l’information via le réseau mobile (3G/4G) à l’application métier. Si les panneaux latéraux du camion sont ouverts, une alerte en temps réel est envoyée au conducteur sur son smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Om een ​​oplossing voor het detecteren van het openen van de zijpanelen van vrachtwagens te implementeren, moet u draadloze magneetsensoren en industriële magneten gebruiken.Dankzij de hoogwaardige lijm is de sensor binnen enkele minuten op de zijpanelen gemonteerd. De magneet wordt dicht bij de sensor op het zijpaneel bevestigd. Wanneer de zijkanten van de vrachtwagen worden geopend, bewegen de magneetsensor en de magneet van elkaar af.De informatie over de statuswijziging van de sensor wordt via Bluetooth verzonden naar het IoT-platform via de ingebouwde telematicabox in de cabine van de vrachtwagen.Deze box fungeert als gateway en stuurt de informatie via het mobiele netwerk (3G/4G) naar de bedrijfsapplicatie. Als de zijpanelen van de vrachtwagen open zijn, ontvangt de chauffeur een realtime waarschuwing op zijn smartphone.",
+          "bodyHtml": "<p>Om een ​​oplossing voor het detecteren van het openen van de zijpanelen van vrachtwagens te implementeren, moet u draadloze magneetsensoren en industriële magneten gebruiken.</p><p>Dankzij de hoogwaardige lijm is de sensor binnen enkele minuten op de zijpanelen gemonteerd. De magneet wordt dicht bij de sensor op het zijpaneel bevestigd. Wanneer de zijkanten van de vrachtwagen worden geopend, bewegen de magneetsensor en de magneet van elkaar af.</p><p>De informatie over de statuswijziging van de sensor wordt via Bluetooth verzonden naar het IoT-platform via de ingebouwde telematicabox in de cabine van de vrachtwagen.</p><p>Deze box fungeert als gateway en stuurt de informatie via het mobiele netwerk (3G/4G) naar de bedrijfsapplicatie. Als de zijpanelen van de vrachtwagen open zijn, ontvangt de chauffeur een realtime waarschuwing op zijn smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "For å implementere en løsning for deteksjon av åpning av sidepaneler på lastebiler, utstyr deg med trådløse magnetiske sensorer og industrimagneter.Takket være det høytytende limet, monteres sensoren på sidepanelene på bare noen få minutter. Magneten festes til sidepanelet i nærheten av sensoren. Når sidene av lastebilen åpnes, flyttes den magnetiske sensoren og magneten bort fra hverandre.Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus.Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens sidepaneler er åpne, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.",
+          "bodyHtml": "<p>For å implementere en løsning for deteksjon av åpning av sidepaneler på lastebiler, utstyr deg med trådløse magnetiske sensorer og industrimagneter.</p><p>Takket være det høytytende limet, monteres sensoren på sidepanelene på bare noen få minutter. Magneten festes til sidepanelet i nærheten av sensoren. Når sidene av lastebilen åpnes, flyttes den magnetiske sensoren og magneten bort fra hverandre.</p><p>Informasjonen om sensorens tilstandsendring overføres via Bluetooth til IoT-plattformen av den innebygde telematikkboksen i lastebilens førerhus.</p><p>Denne boksen fungerer som en gateway og sender informasjonen via mobilnettverket (3G/4G) til forretningsapplikasjonen. Hvis lastebilens sidepaneler er åpne, sendes et sanntidsvarsel til sjåføren på smarttelefonen hans.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "För att implementera en lösning för detektering av öppningar av lastbils sidopaneler, utrusta dig med trådlösa magnetiska sensorer och industrimagneter.Tack vare sitt högpresterande lim monteras sensorn på bara några minuter på sidopanelerna. Magneten fästs på sidopanelen i närheten av sensorn. När lastbilens sidor öppnas flyttas den magnetiska sensorn och magneten bort från varandra.Informationen om sensorns tillståndsförändring överförs via Bluetooth till IoT-plattformen via den inbyggda telematikboxen i lastbilens hytt.Denna box fungerar som en gateway och skickar informationen via mobilnätet (3G/4G) till affärsapplikationen. Om lastbilens sidopaneler är öppna skickas en varning i realtid till föraren på dennes smartphone.",
+          "bodyHtml": "<p>För att implementera en lösning för detektering av öppningar av lastbils sidopaneler, utrusta dig med trådlösa magnetiska sensorer och industrimagneter.</p><p>Tack vare sitt högpresterande lim monteras sensorn på bara några minuter på sidopanelerna. Magneten fästs på sidopanelen i närheten av sensorn. När lastbilens sidor öppnas flyttas den magnetiska sensorn och magneten bort från varandra.</p><p>Informationen om sensorns tillståndsförändring överförs via Bluetooth till IoT-plattformen via den inbyggda telematikboxen i lastbilens hytt.</p><p>Denna box fungerar som en gateway och skickar informationen via mobilnätet (3G/4G) till affärsapplikationen. Om lastbilens sidopaneler är öppna skickas en varning i realtid till föraren på dennes smartphone.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kamyon yan panellerinin açılma durumunu algılayan bir çözüm uygulamak için, kablosuz manyetik sensörler ve endüstriyel mıknatıslar kullanın.Yüksek performanslı yapıştırıcısı sayesinde sensör, yan panellere sadece birkaç dakika içinde monte edilir. Mıknatıs, sensöre yakın bir şekilde yan panele yapıştırılır. Kamyonun yan panelleri açıldığında, manyetik sensör ve mıknatıs birbirinden uzaklaşır.Sensörün durum değişikliğine ilişkin bilgiler, kamyonun kabinindeki dahili telematik kutusu aracılığıyla Bluetooth üzerinden IoT platformuna iletilir.Bu kutu bir ağ geçidi görevi görür ve bilgileri mobil ağ (3G/4G) üzerinden iş uygulamasına gönderir. Kamyonun yan panelleri açıksa, sürücüye akıllı telefonuna gerçek zamanlı bir uyarı gönderilir.",
+          "bodyHtml": "<p>Kamyon yan panellerinin açılma durumunu algılayan bir çözüm uygulamak için, kablosuz manyetik sensörler ve endüstriyel mıknatıslar kullanın.</p><p>Yüksek performanslı yapıştırıcısı sayesinde sensör, yan panellere sadece birkaç dakika içinde monte edilir. Mıknatıs, sensöre yakın bir şekilde yan panele yapıştırılır. Kamyonun yan panelleri açıldığında, manyetik sensör ve mıknatıs birbirinden uzaklaşır.</p><p>Sensörün durum değişikliğine ilişkin bilgiler, kamyonun kabinindeki dahili telematik kutusu aracılığıyla Bluetooth üzerinden IoT platformuna iletilir.</p><p>Bu kutu bir ağ geçidi görevi görür ve bilgileri mobil ağ (3G/4G) üzerinden iş uygulamasına gönderir. Kamyonun yan panelleri açıksa, sürücüye akıllı telefonuna gerçek zamanlı bir uyarı gönderilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

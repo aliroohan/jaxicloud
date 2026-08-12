@@ -1,0 +1,860 @@
+{
+  "slug": "tpms-ebs-cooling-fuel-monitoring",
+  "pageKind": "solution",
+  "titles": {
+    "da": "TPMS -EBS -COOLING-FUEL MONITORING – DA",
+    "en": "TPMS -EBS -COOLING-FUEL MONITORING",
+    "de": "TPMS -EBS -COOLING-FUEL MONITORING – DE",
+    "fr": "TPMS -EBS -COOLING-FUEL MONITORING  – FR",
+    "nl": "TPMS -EBS -COOLING-FUEL MONITORING – HL",
+    "nb": "TPMS -EBS -COOLING-FUEL MONITORING – NO",
+    "sv": "TPMS -EBS -COOLING-FUEL MONITORING – SV",
+    "tr": "TPMS -EBS -COOLING-FUEL MONITORING – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "TPMS -ebs -køling-brændstofovervågning - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Tpms -ebs -cooling-fuel monitoring - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "TPMS-EBS-Kühlkraftstoffüberwachung - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Surveillance du TPMS, de l'EBS et du carburant de refroidissement - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Tpms -ebs -cooling-fuel monitoring - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "TPMS-ebs-kjøling-drivstoffovervåking - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "TPMS -ebs -kylning-bränsleövervakning - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "TPMS -EBS -SOĞUTMA-YAKIT İZLEME - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/tpms-ebs-cooling-fuel-monitoring-da/",
+    "en": "https://www.jaxicloud.com/en/tpms-ebs-cooling-fuel-monitoring/",
+    "de": "https://www.jaxicloud.com/de/tpms-ebs-cooling-fuel-monitoring-de/",
+    "fr": "https://www.jaxicloud.com/fr/tpms-ebs-cooling-fuel-monitoring-fr/",
+    "nl": "https://www.jaxicloud.com/nl/tpms-ebs-cooling-fuel-monitoring-hl/",
+    "nb": "https://www.jaxicloud.com/nb/tpms-ebs-cooling-fuel-monitoring-no/",
+    "sv": "https://www.jaxicloud.com/sv/tpms-ebs-cooling-fuel-monitoring-sv/",
+    "tr": "https://www.jaxicloud.com/tr/tpms-ebs-cooling-fuel-monitoring-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "TPMS -ebs -køling-brændstofovervågning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Tpms -ebs -cooling-fuel monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "TPMS-EBS-Kühlkraftstoffüberwachung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance du TPMS, de l'EBS et du carburant de refroidissement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Tpms -ebs -cooling-fuel monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "TPMS-ebs-kjøling-drivstoffovervåking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "TPMS -ebs -kylning-bränsleövervakning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "TPMS -EBS -SOĞUTMA-YAKIT İZLEME",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "featureCard",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Overvåg trailerens tilstand",
+          "body": "ved at konfigurere nyttelastgrænser i henhold til lastens tilladte vægt og modtage advarsler om overbelastning, væltningsstabilitet, hård opbremsning og ABS-bremsninger. Derudover kan du for trailere udstyret med TPMS modtage advarsler om dækproblemer og holde dækkene med det korrekte tryk for en mere sikker flåde.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">ved at konfigurere nyttelastgrænser i henhold til lastens tilladte vægt og modtage advarsler om overbelastning, væltningsstabilitet, hård opbremsning og ABS-bremsninger. Derudover kan du for trailere udstyret med TPMS modtage advarsler om dækproblemer og holde dækkene med det korrekte tryk for en mere sikker flåde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Monitor the trailer's health",
+          "body": "by configuring payload limits according to the allowable weight of the load, and receive warnings for overload, rollover stability, hard braking, and anti-lock braking events. Plus, for TPMS-equipped trailers, receive alerts to warn of tire problems and keep tires at the correct pressure for a safer fleet.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">by configuring payload limits according to the allowable weight of the load, and receive warnings for overload, rollover stability, hard braking, and anti-lock braking events. Plus, for TPMS-equipped trailers, receive alerts to warn of tire problems and keep tires at the correct pressure for a safer fleet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Überwachen Sie den Zustand des Anhängers",
+          "body": "Durch die Konfiguration der Nutzlastgrenzen entsprechend dem zulässigen Ladungsgewicht erhalten Sie Warnungen bei Überladung, Kippstabilität, starkem Bremsen und ABS-Eingriffen. Zusätzlich erhalten Sie bei mit Reifendruckkontrollsystem (TPMS) ausgestatteten Anhängern Warnmeldungen zu Reifenproblemen und halten die Reifen auf dem korrekten Druck – für eine sicherere Flotte.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Durch die Konfiguration der Nutzlastgrenzen entsprechend dem zulässigen Ladungsgewicht erhalten Sie Warnungen bei Überladung, Kippstabilität, starkem Bremsen und ABS-Eingriffen. Zusätzlich erhalten Sie bei mit Reifendruckkontrollsystem (TPMS) ausgestatteten Anhängern Warnmeldungen zu Reifenproblemen und halten die Reifen auf dem korrekten Druck – für eine sicherere Flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillez l'état de la remorque",
+          "body": "En configurant les limites de charge utile en fonction du poids autorisé, vous recevrez des alertes en cas de surcharge, de risque de renversement, de freinage brusque et de dysfonctionnement du système ABS. De plus, pour les remorques équipées d’un système de surveillance de la pression des pneus (TPMS), vous recevrez des alertes signalant les problèmes de pneus et vous pourrez ainsi maintenir une pression optimale pour une flotte plus sûre.",
+          "bodyHtml": "<p>En configurant les limites de charge utile en fonction du poids autorisé, vous recevrez des alertes en cas de surcharge, de risque de renversement, de freinage brusque et de dysfonctionnement du système ABS. De plus, pour les remorques équipées d’un système de surveillance de la pression des pneus (TPMS), vous recevrez des alertes signalant les problèmes de pneus et vous pourrez ainsi maintenir une pression optimale pour une flotte plus sûre.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Controleer de gezondheid van de trailer",
+          "body": "Door laadvermogenlimieten in te stellen op basis van het toegestane gewicht van de lading, ontvangt u waarschuwingen voor overbelasting, kantelstabiliteit, hard remmen en antiblokkeersystemen. Bovendien ontvangt u voor trailers met TPMS waarschuwingen voor bandenproblemen en zorgt u ervoor dat de bandenspanning correct is voor een veiliger wagenpark.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Door laadvermogenlimieten in te stellen op basis van het toegestane gewicht van de lading, ontvangt u waarschuwingen voor overbelasting, kantelstabiliteit, hard remmen en antiblokkeersystemen. Bovendien ontvangt u voor trailers met TPMS waarschuwingen voor bandenproblemen en zorgt u ervoor dat de bandenspanning correct is voor een veiliger wagenpark.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Overvåk tilhengerens tilstand",
+          "body": "ved å konfigurere nyttelastgrenser i henhold til lastens tillatte vekt, og motta advarsler om overbelastning, veltstabilitet, hard bremsing og blokkeringsfrie bremsehendelser. I tillegg, for TPMS-utstyrte tilhengere, motta varsler som advarer om dekkproblemer og holder dekkene med riktig trykk for en tryggere flåte.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">ved å konfigurere nyttelastgrenser i henhold til lastens tillatte vekt, og motta advarsler om overbelastning, veltstabilitet, hard bremsing og blokkeringsfrie bremsehendelser. I tillegg, for TPMS-utstyrte tilhengere, motta varsler som advarer om dekkproblemer og holder dekkene med riktig trykk for en tryggere flåte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Övervaka släpvagnens tillstånd",
+          "body": "genom att konfigurera nyttolastgränser enligt lastens tillåtna vikt och få varningar för överbelastning, vältningsstabilitet, hård inbromsning och låsningsfria bromsar. Dessutom, för TPMS-utrustade släpvagnar, få varningar som varnar för däckproblem och hålla däcken med rätt tryck för en säkrare flotta.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">genom att konfigurera nyttolastgränser enligt lastens tillåtna vikt och få varningar för överbelastning, vältningsstabilitet, hård inbromsning och låsningsfria bromsar. Dessutom, för TPMS-utrustade släpvagnar, få varningar som varnar för däckproblem och hålla däcken med rätt tryck för en säkrare flotta.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Treylerin durumunu takip edin.",
+          "body": "Yük taşıma limitlerini izin verilen yük ağırlığına göre yapılandırarak aşırı yük, devrilme stabilitesi, sert frenleme ve kilitlenmeyi önleyici frenleme olayları için uyarılar alın. Ayrıca, TPMS donanımlı römorklar için lastik sorunları konusunda uyarılar alın ve daha güvenli bir filo için lastiklerin doğru basınçta kalmasını sağlayın.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Yük taşıma limitlerini izin verilen yük ağırlığına göre yapılandırarak aşırı yük, devrilme stabilitesi, sert frenleme ve kilitlenmeyi önleyici frenleme olayları için uyarılar alın. Ayrıca, TPMS donanımlı römorklar için lastik sorunları konusunda uyarılar alın ve daha güvenli bir filo için lastiklerin doğru basınçta kalmasını sağlayın.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "featureCard",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "24/7 TPMS-alarmovervågning",
+          "body": "Reducer risikoen for nedbrud og forstyrrelser i din flåde ved at opdage dækproblemer tidligt. Få adgang til live- og historiske data for alle TPMS-udstyrede trailere. Alarmer advarer om unormalt tryk eller temperatur.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Reducer risikoen for nedbrud og forstyrrelser i din flåde ved at opdage dækproblemer tidligt. Få adgang til live- og historiske data for alle TPMS-udstyrede trailere. Alarmer advarer om unormalt tryk eller temperatur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "24/7 tpms alarms monitoring",
+          "body": "Reduce the risk of breakdowns and disruptions in your fleet by detecting tire problems early. Access live and historical data for all TPMS-equipped trailers. Alarms warn of abnormal pressure or temperature",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Reduce the risk of breakdowns and disruptions in your fleet by detecting tire problems early. Access live and historical data for all TPMS-equipped trailers. Alarms warn of abnormal pressure or temperature</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "24/7-TPMS-Alarmüberwachung",
+          "body": "Reduzieren Sie das Risiko von Pannen und Ausfällen in Ihrem Fuhrpark durch die frühzeitige Erkennung von Reifenproblemen. Greifen Sie auf Live- und historische Daten aller mit Reifendruckkontrollsystem (RDKS) ausgestatteten Anhänger zu. Alarme warnen vor abnormalem Reifendruck oder -temperatur.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Reduzieren Sie das Risiko von Pannen und Ausfällen in Ihrem Fuhrpark durch die frühzeitige Erkennung von Reifenproblemen. Greifen Sie auf Live- und historische Daten aller mit Reifendruckkontrollsystem (RDKS) ausgestatteten Anhänger zu. Alarme warnen vor abnormalem Reifendruck oder -temperatur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance des alarmes TPMS 24h/24 et 7j/7",
+          "body": "Réduisez les risques de pannes et d’interruptions de votre flotte en détectant rapidement les problèmes de pneumatiques. Accédez aux données en temps réel et à l’historique de toutes les remorques équipées d’un système TPMS. Des alarmes vous avertissent en cas de pression ou de température anormale.",
+          "bodyHtml": "<p>Réduisez les risques de pannes et d’interruptions de votre flotte en détectant rapidement les problèmes de pneumatiques. Accédez aux données en temps réel et à l’historique de toutes les remorques équipées d’un système TPMS. Des alarmes vous avertissent en cas de pression ou de température anormale.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "24/7 tpms alarmbewaking",
+          "body": "Verminder het risico op storingen en verstoringen in uw wagenpark door bandenproblemen vroegtijdig te detecteren. Krijg toegang tot live en historische gegevens van alle trailers met TPMS. Alarmen waarschuwen voor afwijkende bandenspanning of temperatuur.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Verminder het risico op storingen en verstoringen in uw wagenpark door bandenproblemen vroegtijdig te detecteren. Krijg toegang tot live en historische gegevens van alle trailers met TPMS. Alarmen waarschuwen voor afwijkende bandenspanning of temperatuur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "24/7 TPMS-alarmovervåking",
+          "body": "Reduser risikoen for havari og forstyrrelser i flåten din ved å oppdage dekkproblemer tidlig. Få tilgang til live- og historiske data for alle TPMS-utstyrte tilhengere. Alarmer advarer om unormalt trykk eller temperatur.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Reduser risikoen for havari og forstyrrelser i flåten din ved å oppdage dekkproblemer tidlig. Få tilgang til live- og historiske data for alle TPMS-utstyrte tilhengere. Alarmer advarer om unormalt trykk eller temperatur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "24/7 TPMS-larmövervakning",
+          "body": "Minska risken för haverier och störningar i din vagnpark genom att upptäcka däckproblem tidigt. Få tillgång till live- och historiska data för alla TPMS-utrustade släpvagnar. Larm varnar för onormalt tryck eller temperatur.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Minska risken för haverier och störningar i din vagnpark genom att upptäcka däckproblem tidigt. Få tillgång till live- och historiska data för alla TPMS-utrustade släpvagnar. Larm varnar för onormalt tryck eller temperatur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "7/24 TPMS alarm izleme",
+          "body": "Lastik sorunlarını erken tespit ederek filonuzdaki arıza ve aksama riskini azaltın. TPMS donanımlı tüm treylerler için canlı ve geçmiş verilere erişin. Alarmlar anormal basınç veya sıcaklık konusunda uyarı verir.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Lastik sorunlarını erken tespit ederek filonuzdaki arıza ve aksama riskini azaltın. TPMS donanımlı tüm treylerler için canlı ve geçmiş verilere erişin. Alarmlar anormal basınç veya sıcaklık konusunda uyarı verir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "featureCard",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Ebpms-alarmrapportering",
+          "body": "Elektronisk bremseydelsesovervågningssystem (EBPMS) er et system, der overvåger og rapporterer anhængerens bremseydelse. Det er designet til at forbedre sikkerheden ved at identificere potentielle bremseproblemer, før de bliver kritiske.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Elektronisk bremseydelsesovervågningssystem (EBPMS) er et system, der overvåger og rapporterer anhængerens bremseydelse. Det er designet til at forbedre sikkerheden ved at identificere potentielle bremseproblemer, før de bliver kritiske.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Ebpms alarm reporting",
+          "body": "Electronic Brake Performance Monitoring System (EBPMS) is a system that monitors and reports trailer brake performance. It is designed to improve safety by identifying potential brake problems before they become critical.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Electronic Brake Performance Monitoring System (EBPMS) is a system that monitors and reports trailer brake performance. It is designed to improve safety by identifying potential brake problems before they become critical.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Ebpm-Alarmmeldung",
+          "body": "Das elektronische Bremsleistungsüberwachungssystem (EBPMS) überwacht und meldet die Bremsleistung von Anhängern. Es dient der Erhöhung der Sicherheit, indem es potenzielle Bremsprobleme erkennt, bevor diese kritisch werden.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Das elektronische Bremsleistungsüberwachungssystem (EBPMS) überwacht und meldet die Bremsleistung von Anhängern. Es dient der Erhöhung der Sicherheit, indem es potenzielle Bremsprobleme erkennt, bevor diese kritisch werden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Signalement d'alarme Ebpms",
+          "body": "Le système de surveillance électronique des performances de freinage (EBPMS) contrôle et signale les performances des freins de la remorque. Il est conçu pour améliorer la sécurité en identifiant les problèmes potentiels de freinage avant qu’ils ne deviennent critiques.",
+          "bodyHtml": "<p>Le système de surveillance électronique des performances de freinage (EBPMS) contrôle et signale les performances des freins de la remorque. Il est conçu pour améliorer la sécurité en identifiant les problèmes potentiels de freinage avant qu’ils ne deviennent critiques.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Rapportage van Ebpms-alarmen",
+          "body": "Electronic Brake Performance Monitoring System (EBPMS) is een systeem dat de remprestaties van aanhangers bewaakt en rapporteert. Het is ontworpen om de veiligheid te verbeteren door potentiële remproblemen te identificeren voordat ze ernstig worden.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Electronic Brake Performance Monitoring System (EBPMS) is een systeem dat de remprestaties van aanhangers bewaakt en rapporteert. Het is ontworpen om de veiligheid te verbeteren door potentiële remproblemen te identificeren voordat ze ernstig worden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Ebpms-alarmrapportering",
+          "body": "Elektronisk bremseytelsesovervåkingssystem (EBPMS) er et system som overvåker og rapporterer tilhengerens bremseytelse. Det er utviklet for å forbedre sikkerheten ved å identifisere potensielle bremseproblemer før de blir kritiske.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Elektronisk bremseytelsesovervåkingssystem (EBPMS) er et system som overvåker og rapporterer tilhengerens bremseytelse. Det er utviklet for å forbedre sikkerheten ved å identifisere potensielle bremseproblemer før de blir kritiske.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Ebpms-larmrapportering",
+          "body": "Elektroniskt bromsprestandaövervakningssystem (EBPMS) är ett system som övervakar och rapporterar släpvagnens bromsprestanda. Det är utformat för att förbättra säkerheten genom att identifiera potentiella bromsproblem innan de blir kritiska.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Elektroniskt bromsprestandaövervakningssystem (EBPMS) är ett system som övervakar och rapporterar släpvagnens bromsprestanda. Det är utformat för att förbättra säkerheten genom att identifiera potentiella bromsproblem innan de blir kritiska.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "EBPMS alarm raporlaması",
+          "body": "Elektronik Fren Performansı İzleme Sistemi (EBPMS), treyler fren performansını izleyen ve raporlayan bir sistemdir. Potansiyel fren sorunlarını kritik hale gelmeden önce belirleyerek güvenliği artırmak için tasarlanmıştır.",
+          "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Elektronik Fren Performansı İzleme Sistemi (EBPMS), treyler fren performansını izleyen ve raporlayan bir sistemdir. Potansiyel fren sorunlarını kritik hale gelmeden önce belirleyerek güvenliği artırmak için tasarlanmıştır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Entreprenørtrailere med JaxiCloud Fleet Management flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Entreprenørtrailere med JaxiCloud Fleet Management flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Unternehmer mit JaxiCloud Fleet Management-Lösungen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Remorque d'entrepreneur avec JaxiCloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Ondernemers met een JaxiCloud Fleet Management-oplossing",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Entreprenørtrailere med JaxiCloud Fleet Management flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Entreprenörtrailere med JaxiCloud Fleet Management flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "JaxiCloud Filo Yönetimi ile Girişimcilik Eğitimleri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Entreprenørbranchen står ofte overfor komplekse logistiske udfordringer, især når det gælder overvågning og styring af maskiner og trailere. JaxiCloud Fleet Management tilbyder løsninger, der kan tilpasses specifikt til entreprenørtrailere for at optimere driften, reducere nedetid og øge produktiviteten. Med avanceret sensorintegration kan systemet levere realtidsdata, som er afgørende for at træffe informerede beslutninger.Anvendelse af sensorer på entreprenørtrailereOvervågning af last og vægtfordeling Sensorer kan måle vægten på traileren, hvilket hjælper med at sikre korrekt lastfordeling og overholdelse af vægtgrænser. Dette reducerer risikoen for skader på traileren og øger sikkerheden under transport.Hastighed og køremønstreGPS-trackere og accelerationssensorer kan overvåge hastighed, køremønstre og ruter. Ved gentagne hastighedsovertrædelser kan systemet give alarmer eller foreslå justeringer, hvilket understøtter sikker kørsel og hjælper med at undgå sanktioner.TilstandsmonitoreringSensorer kan måle lufttryk i dæk (TPMS), vibrationer og andre kritiske parametre for at forudsige vedligeholdelsesbehov. Dette minimerer nedetid og forebygger dyre reparationer.MiljøovervågningLuftflowsensorer kan anvendes til at måle tomgangstid og optimere brændstofforbrug. Dette understøtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.Sikkerhed og overvågningMonterede dashcams eller 360-graders kameraer kan integreres i systemet for at give live-feed og optagelser ved uheld eller tyveri. Med korrekt alarmering undgås falske meldinger, og entreprenørens udstyr er sikret.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Entreprenørbranchen&nbsp;står ofte overfor komplekse logistiske udfordringer, især når det gælder overvågning og styring af maskiner og trailere. JaxiCloud Fleet Management tilbyder løsninger, der kan tilpasses specifikt til entreprenørtrailere for at optimere driften, reducere nedetid og øge produktiviteten. Med avanceret sensorintegration kan systemet levere realtidsdata, som er afgørende for at træffe informerede beslutninger.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Anvendelse af sensorer på entreprenørtrailere</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overvågning af last og vægtfordeling Sensorer kan måle vægten på traileren, hvilket hjælper med at sikre korrekt lastfordeling og overholdelse af vægtgrænser. Dette reducerer risikoen for skader på traileren og øger sikkerheden under transport.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Hastighed og køremønstre</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">GPS-trackere og accelerationssensorer kan overvåge hastighed, køremønstre og ruter. Ved gentagne hastighedsovertrædelser kan systemet give alarmer eller foreslå justeringer, hvilket understøtter sikker kørsel og hjælper med at undgå sanktioner.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Tilstandsmonitorering</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sensorer kan måle lufttryk i dæk (TPMS), vibrationer og andre kritiske parametre for at forudsige vedligeholdelsesbehov. Dette minimerer nedetid og forebygger dyre reparationer.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Miljøovervågning</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Luftflowsensorer kan anvendes til at måle tomgangstid og optimere brændstofforbrug. Dette understøtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Sikkerhed og overvågning</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Monterede dashcams eller 360-graders kameraer kan integreres i systemet for at give live-feed og optagelser ved uheld eller tyveri. Med korrekt alarmering undgås falske meldinger, og entreprenørens udstyr er sikret.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Entreprenørbranchen står ofte overfor komplekse logistiske udfordringer, især når det gælder overvågning og styring af maskiner og trailere. JaxiCloud Fleet Management tilbyder løsninger, der kan tilpasses specifikt til entreprenørtrailere for at optimere driften, reducere nedetid og øge produktiviteten. Med avanceret sensorintegration kan systemet levere realtidsdata, som er afgørende for at træffe informerede beslutninger.Anvendelse af sensorer på entreprenørtrailereOvervågning af last og vægtfordeling Sensorer kan måle vægten på traileren, hvilket hjælper med at sikre korrekt lastfordeling og overholdelse af vægtgrænser. Dette reducerer risikoen for skader på traileren og øger sikkerheden under transport.Hastighed og køremønstreGPS-trackere og accelerationssensorer kan overvåge hastighed, køremønstre og ruter. Ved gentagne hastighedsovertrædelser kan systemet give alarmer eller foreslå justeringer, hvilket understøtter sikker kørsel og hjælper med at undgå sanktioner.TilstandsmonitoreringSensorer kan måle lufttryk i dæk (TPMS), vibrationer og andre kritiske parametre for at forudsige vedligeholdelsesbehov. Dette minimerer nedetid og forebygger dyre reparationer.MiljøovervågningLuftflowsensorer kan anvendes til at måle tomgangstid og optimere brændstofforbrug. Dette understøtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.Sikkerhed og overvågningMonterede dashcams eller 360-graders kameraer kan integreres i systemet for at give live-feed og optagelser ved uheld eller tyveri. Med korrekt alarmering undgås falske meldinger, og entreprenørens udstyr er sikret.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Entreprenørbranchen&nbsp;står ofte overfor komplekse logistiske udfordringer, især når det gælder overvågning og styring af maskiner og trailere. JaxiCloud Fleet Management tilbyder løsninger, der kan tilpasses specifikt til entreprenørtrailere for at optimere driften, reducere nedetid og øge produktiviteten. Med avanceret sensorintegration kan systemet levere realtidsdata, som er afgørende for at træffe informerede beslutninger.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Anvendelse af sensorer på entreprenørtrailere</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overvågning af last og vægtfordeling Sensorer kan måle vægten på traileren, hvilket hjælper med at sikre korrekt lastfordeling og overholdelse af vægtgrænser. Dette reducerer risikoen for skader på traileren og øger sikkerheden under transport.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Hastighed og køremønstre</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">GPS-trackere og accelerationssensorer kan overvåge hastighed, køremønstre og ruter. Ved gentagne hastighedsovertrædelser kan systemet give alarmer eller foreslå justeringer, hvilket understøtter sikker kørsel og hjælper med at undgå sanktioner.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Tilstandsmonitorering</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sensorer kan måle lufttryk i dæk (TPMS), vibrationer og andre kritiske parametre for at forudsige vedligeholdelsesbehov. Dette minimerer nedetid og forebygger dyre reparationer.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Miljøovervågning</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Luftflowsensorer kan anvendes til at måle tomgangstid og optimere brændstofforbrug. Dette understøtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Sikkerhed og overvågning</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Monterede dashcams eller 360-graders kameraer kan integreres i systemet for at give live-feed og optagelser ved uheld eller tyveri. Med korrekt alarmering undgås falske meldinger, og entreprenørens udstyr er sikret.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Baubranche steht häufig vor komplexen logistischen Herausforderungen, insbesondere wenn es um die Überwachung und Steuerung von Maschinen und Anhängern geht. JaxiCloud Fleet Management bietet Lösungen, die speziell für Bauanhänger angepasst werden können, um den Betrieb zu optimieren, Ausfallzeiten zu reduzieren und die Produktivität zu steigern. Durch die Integration fortschrittlicher Sensorik kann das System Echtzeitdaten liefern, die entscheidend für fundierte Entscheidungen sind.Einsatz von Sensoren an BauanhängernÜberwachung von Ladung und GewichtsverteilungSensoren können das Gewicht des Anhängers messen und so zur Sicherstellung einer korrekten Lastverteilung sowie zur Einhaltung der zulässigen Gewichtsgrenzen beitragen. Dies reduziert das Risiko von Schäden am Anhänger und erhöht die Sicherheit während des Transports.Geschwindigkeit und FahrmusterGPS-Tracker und Beschleunigungssensoren können Geschwindigkeit, Fahrverhalten und Routen überwachen. Bei wiederholten Geschwindigkeitsüberschreitungen kann das System Warnmeldungen ausgeben oder Anpassungen vorschlagen, was sich positiv auf die Verkehrssicherheit auswirkt und hilft, Sanktionen zu vermeiden.ZustandsüberwachungSensoren können den Reifendruck (TPMS), Vibrationen und andere kritische Parameter messen, um Wartungsbedarfe frühzeitig zu erkennen. Dadurch werden Ausfallzeiten minimiert und kostspielige Reparaturen verhindert.UmweltüberwachungLuftstromsensoren können zur Messung der Leerlaufzeiten und zur Optimierung des Kraftstoffverbrauchs eingesetzt werden. Dies unterstützt grüne Initiativen und kann über Berichte im JaxiCloud-System dokumentiert werden.Sicherheit und ÜberwachungMontierte Dashcams oder 360°-Kameras können in das System integriert werden, um Live-Streams und Aufzeichnungen bei Unfällen oder Diebstählen bereitzustellen. Mit der richtigen Alarmierung werden Fehlalarme vermieden und die Ausrüstung des Bauunternehmens optimal geschützt.",
+          "bodyHtml": "<p>Die Baubranche steht häufig vor komplexen logistischen Herausforderungen, insbesondere wenn es um die Überwachung und Steuerung von Maschinen und Anhängern geht. JaxiCloud Fleet Management bietet Lösungen, die speziell für Bauanhänger angepasst werden können, um den Betrieb zu optimieren, Ausfallzeiten zu reduzieren und die Produktivität zu steigern. Durch die Integration fortschrittlicher Sensorik kann das System Echtzeitdaten liefern, die entscheidend für fundierte Entscheidungen sind.</p><p>Einsatz von Sensoren an Bauanhängern<br>Überwachung von Ladung und Gewichtsverteilung</p><p>Sensoren können das Gewicht des Anhängers messen und so zur Sicherstellung einer korrekten Lastverteilung sowie zur Einhaltung der zulässigen Gewichtsgrenzen beitragen. Dies reduziert das Risiko von Schäden am Anhänger und erhöht die Sicherheit während des Transports.</p><p><strong>Geschwindigkeit und Fahrmuster</strong></p><p>GPS-Tracker und Beschleunigungssensoren können Geschwindigkeit, Fahrverhalten und Routen überwachen. Bei wiederholten Geschwindigkeitsüberschreitungen kann das System Warnmeldungen ausgeben oder Anpassungen vorschlagen, was sich positiv auf die Verkehrssicherheit auswirkt und hilft, Sanktionen zu vermeiden.</p><p><strong>Zustandsüberwachung</strong></p><p>Sensoren können den Reifendruck (TPMS), Vibrationen und andere kritische Parameter messen, um Wartungsbedarfe frühzeitig zu erkennen. Dadurch werden Ausfallzeiten minimiert und kostspielige Reparaturen verhindert.</p><p><strong>Umweltüberwachung</strong></p><p>Luftstromsensoren können zur Messung der Leerlaufzeiten und zur Optimierung des Kraftstoffverbrauchs eingesetzt werden. Dies unterstützt grüne Initiativen und kann über Berichte im JaxiCloud-System dokumentiert werden.</p><p><strong>Sicherheit und Überwachung</strong></p><p>Montierte Dashcams oder 360°-Kameras können in das System integriert werden, um Live-Streams und Aufzeichnungen bei Unfällen oder Diebstählen bereitzustellen. Mit der richtigen Alarmierung werden Fehlalarme vermieden und die Ausrüstung des Bauunternehmens optimal geschützt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le secteur du BTP est souvent confronté à des défis logistiques complexes, notamment en ce qui concerne la surveillance et la gestion des machines et des remorques.JaxiCloud Fleet Management propose des solutions pouvant être adaptées spécifiquement aux remorques de chantier afin d’optimiser les opérations, de réduire les temps d’arrêt et d’augmenter la productivité. Grâce à l’intégration de capteurs avancés, le système peut fournir des données en temps réel, essentielles pour prendre des décisions éclairées.Utilisation de capteurs sur les remorques de chantierSurveillance de la charge et de la répartition du poidsLes capteurs peuvent mesurer le poids de la remorque, ce qui permet d’assurer une répartition correcte de la charge et de respecter les limites de poids. Cela réduit le risque de dommages à la remorque et améliore la sécurité pendant le transport.Vitesse et comportements de conduiteLes traceurs GPS et les accéléromètres peuvent surveiller la vitesse, les habitudes de conduite et les itinéraires. En cas d’infractions répétées à la vitesse, le système peut envoyer des alertes ou proposer des ajustements, favorisant ainsi une conduite plus sûre et contribuant à éviter des sanctions.Surveillance de l’état généralLes capteurs peuvent mesurer la pression des pneus (TPMS), les vibrations et d’autres paramètres critiques afin de prédire les besoins de maintenance. Cela minimise les temps d’arrêt et évite des réparations coûteuses.Surveillance environnementaleLes capteurs de débit d’air peuvent être utilisés pour mesurer le temps de ralenti et optimiser la consommation de carburant. Cela soutient les initiatives écologiques et peut être documenté via des rapports dans le système JaxiCloud.Sécurité et surveillanceDes dashcams ou des caméras à 360 degrés peuvent être intégrées au système pour fournir des flux vidéo en direct et des enregistrements en cas d’accident ou de vol. Grâce à une alerte correcte, les fausses notifications sont évitées et l’équipement de l’entreprise est protégé.",
+          "bodyHtml": "<p>Le secteur du BTP est souvent confronté à des défis logistiques complexes, notamment en ce qui concerne la surveillance et la gestion des machines et des remorques.<br>JaxiCloud Fleet Management propose des solutions pouvant être adaptées spécifiquement aux remorques de chantier afin d’optimiser les opérations, de réduire les temps d’arrêt et d’augmenter la productivité. Grâce à l’intégration de capteurs avancés, le système peut fournir des données en temps réel, essentielles pour prendre des décisions éclairées.</p><p>Utilisation de capteurs sur les remorques de chantier<br>Surveillance de la charge et de la répartition du poids</p><p>Les capteurs peuvent mesurer le poids de la remorque, ce qui permet d’assurer une répartition correcte de la charge et de respecter les limites de poids. Cela réduit le risque de dommages à la remorque et améliore la sécurité pendant le transport.</p><p>Vitesse et comportements de conduite</p><p>Les traceurs GPS et les accéléromètres peuvent surveiller la vitesse, les habitudes de conduite et les itinéraires. En cas d’infractions répétées à la vitesse, le système peut envoyer des alertes ou proposer des ajustements, favorisant ainsi une conduite plus sûre et contribuant à éviter des sanctions.</p><p>Surveillance de l’état général</p><p>Les capteurs peuvent mesurer la pression des pneus (TPMS), les vibrations et d’autres paramètres critiques afin de prédire les besoins de maintenance. Cela minimise les temps d’arrêt et évite des réparations coûteuses.</p><p>Surveillance environnementale</p><p>Les capteurs de débit d’air peuvent être utilisés pour mesurer le temps de ralenti et optimiser la consommation de carburant. Cela soutient les initiatives écologiques et peut être documenté via des rapports dans le système JaxiCloud.</p><p>Sécurité et surveillance</p><p>Des dashcams ou des caméras à 360 degrés peuvent être intégrées au système pour fournir des flux vidéo en direct et des enregistrements en cas d’accident ou de vol. Grâce à une alerte correcte, les fausses notifications sont évitées et l’équipement de l’entreprise est protégé.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De bouwsector wordt vaak geconfronteerd met complexe logistieke uitdagingen, vooral wanneer het gaat om het monitoren en beheren van machines en trailers. JaxiCloud Fleet Management biedt oplossingen die specifiek kunnen worden aangepast aan bouwtrailers om de bedrijfsvoering te optimaliseren, stilstand te verminderen en de productiviteit te verhogen. Met geavanceerde sensorintegratie kan het systeem realtime gegevens leveren die essentieel zijn voor het nemen van goed onderbouwde beslissingen.Toepassing van sensoren op bouwtrailersMonitoring van lading en gewichtsverdelingSensoren kunnen het gewicht op de trailer meten, wat helpt om een correcte gewichtsverdeling en naleving van gewichtslimieten te garanderen. Dit vermindert het risico op schade aan de trailer en verhoogt de veiligheid tijdens transport.Snelheid en rijgedragGPS-trackers en acceleratiesensoren kunnen snelheid, rijgedrag en routes monitoren. Bij herhaalde snelheidsovertredingen kan het systeem waarschuwingen geven of aanpassingen voorstellen, wat veilig rijden ondersteunt en helpt om sancties te voorkomen.Toestandsbewaking (Condition Monitoring)Sensoren kunnen bandenspanning (TPMS), trillingen en andere kritieke parameters meten om onderhoudsbehoeften te voorspellen. Dit minimaliseert stilstand en voorkomt dure reparaties.MilieubewakingLuchtstroomsensoren kunnen worden gebruikt om stationairtijd te meten en het brandstofverbruik te optimaliseren. Dit ondersteunt groene initiatieven en kan worden gedocumenteerd via rapportages in het JaxiCloud-systeem.Veiligheid en bewakingGeïnstalleerde dashcams of 360-gradencamera’s kunnen worden geïntegreerd om livebeelden en opnames te leveren bij ongevallen of diefstal. Met correcte alarmering worden valse meldingen voorkomen en blijft het materieel van de ondernemer goed beveiligd.",
+          "bodyHtml": "<p>De bouwsector wordt vaak geconfronteerd met complexe logistieke uitdagingen, vooral wanneer het gaat om het monitoren en beheren van machines en trailers. JaxiCloud Fleet Management biedt oplossingen die specifiek kunnen worden aangepast aan bouwtrailers om de bedrijfsvoering te optimaliseren, stilstand te verminderen en de productiviteit te verhogen. Met geavanceerde sensorintegratie kan het systeem realtime gegevens leveren die essentieel zijn voor het nemen van goed onderbouwde beslissingen.</p><p><strong>Toepassing van sensoren op bouwtrailers</strong></p><p>Monitoring van lading en gewichtsverdeling<br>Sensoren kunnen het gewicht op de trailer meten, wat helpt om een correcte gewichtsverdeling en naleving van gewichtslimieten te garanderen. Dit vermindert het risico op schade aan de trailer en verhoogt de veiligheid tijdens transport.</p><p>Snelheid en rijgedrag<br>GPS-trackers en acceleratiesensoren kunnen snelheid, rijgedrag en routes monitoren. Bij herhaalde snelheidsovertredingen kan het systeem waarschuwingen geven of aanpassingen voorstellen, wat veilig rijden ondersteunt en helpt om sancties te voorkomen.</p><p>Toestandsbewaking (Condition Monitoring)<br>Sensoren kunnen bandenspanning (TPMS), trillingen en andere kritieke parameters meten om onderhoudsbehoeften te voorspellen. Dit minimaliseert stilstand en voorkomt dure reparaties.</p><p>Milieubewaking<br>Luchtstroomsensoren kunnen worden gebruikt om stationairtijd te meten en het brandstofverbruik te optimaliseren. Dit ondersteunt groene initiatieven en kan worden gedocumenteerd via rapportages in het JaxiCloud-systeem.</p><p>Veiligheid en bewaking<br>Geïnstalleerde dashcams of 360-gradencamera’s kunnen worden geïntegreerd om livebeelden en opnames te leveren bij ongevallen of diefstal. Met correcte alarmering worden valse meldingen voorkomen en blijft het materieel van de ondernemer goed beveiligd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Entreprenørbransjen står ofte overfor komplekse logistiske utfordringer, spesielt når det gjelder overvåking og styring av maskiner og tilhengere. JaxiCloud Fleet Management tilbyr løsninger som kan tilpasses spesifikt til entreprenørtilhengere for å optimalisere driften, redusere nedetid og øke produktiviteten. Med avansert sensorintegrasjon kan systemet levere sanntidsdata som er avgjørende for å ta informerte beslutninger.Bruk av sensorer på entreprenørtilhengereOvervåking av last og vektfordelingSensorer kan måle vekten på tilhengeren, noe som bidrar til korrekt lastfordeling og overholdelse av vektgrenser. Dette reduserer risikoen for skader på tilhengeren og øker sikkerheten under transport.Hastighet og kjøremønstreGPS-trackere og akselerasjonssensorer kan overvåke hastighet, kjøremønstre og ruter. Ved gjentatte hastighetsoverskridelser kan systemet gi varsler eller foreslå justeringer, noe som støtter sikker kjøring og bidrar til å unngå sanksjoner.TilstandsmonitoreringSensorer kan måle lufttrykk i dekk (TPMS), vibrasjoner og andre kritiske parametere for å forutsi vedlikeholdsbehov. Dette minimerer nedetid og forebygger kostbare reparasjoner.MiljøovervåkingLuftstrømssensorer kan brukes til å måle tomgangstid og optimalisere drivstofforbruk. Dette støtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.Sikkerhet og overvåkningMonterte dashcams eller 360-graders kameraer kan integreres i systemet for å gi live-feed og opptak ved uhell eller tyveri. Med korrekt varsling unngås falske alarmer, og entreprenørens utstyr er sikret.",
+          "bodyHtml": "<p>Entreprenørbransjen står ofte overfor komplekse logistiske utfordringer, spesielt når det gjelder overvåking og styring av maskiner og tilhengere. JaxiCloud Fleet Management tilbyr løsninger som kan tilpasses spesifikt til entreprenørtilhengere for å optimalisere driften, redusere nedetid og øke produktiviteten. Med avansert sensorintegrasjon kan systemet levere sanntidsdata som er avgjørende for å ta informerte beslutninger.</p><p>Bruk av sensorer på entreprenørtilhengere</p><p>Overvåking av last og vektfordeling<br>Sensorer kan måle vekten på tilhengeren, noe som bidrar til korrekt lastfordeling og overholdelse av vektgrenser. Dette reduserer risikoen for skader på tilhengeren og øker sikkerheten under transport.</p><p>Hastighet og kjøremønstre<br>GPS-trackere og akselerasjonssensorer kan overvåke hastighet, kjøremønstre og ruter. Ved gjentatte hastighetsoverskridelser kan systemet gi varsler eller foreslå justeringer, noe som støtter sikker kjøring og bidrar til å unngå sanksjoner.</p><p>Tilstandsmonitorering<br>Sensorer kan måle lufttrykk i dekk (TPMS), vibrasjoner og andre kritiske parametere for å forutsi vedlikeholdsbehov. Dette minimerer nedetid og forebygger kostbare reparasjoner.</p><p>Miljøovervåking<br>Luftstrømssensorer kan brukes til å måle tomgangstid og optimalisere drivstofforbruk. Dette støtter grønne initiativer og kan dokumenteres via rapporter i JaxiCloud-systemet.</p><p>Sikkerhet og overvåkning<br>Monterte dashcams eller 360-graders kameraer kan integreres i systemet for å gi live-feed og opptak ved uhell eller tyveri. Med korrekt varsling unngås falske alarmer, og entreprenørens utstyr er sikret.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Entreprenadbranschen står ofta inför komplexa logistikutmaningar, särskilt när det gäller övervakning och styrning av maskiner och släpvagnar. JaxiCloud Fleet Management erbjuder lösningar som kan anpassas specifikt för entreprenörssläpvagnar för att optimera driften, minska stillestånd och öka produktiviteten. Med avancerad sensorintegration kan systemet leverera realtidsdata som är avgörande för att fatta välgrundade beslut.Användning av sensorer på entreprenörssläpvagnarÖvervakning av last och viktfördelningSensorer kan mäta vikten på släpvagnen, vilket hjälper till att säkerställa korrekt lastfördelning och följa gällande viktgränser. Detta minskar risken för skador på släpvagnen och ökar säkerheten under transport.Hastighet och körmönsterGPS-spårare och accelerationssensorer kan övervaka hastighet, körstil och rutter. Vid upprepade hastighetsöverträdelser kan systemet ge varningar eller föreslå justeringar, vilket stödjer säker körning och hjälper till att undvika sanktioner.TillståndsövervakningSensorer kan mäta däcktryck (TPMS), vibrationer och andra kritiska parametrar för att förutse underhållsbehov. Detta minimerar stillestånd och förebygger kostsamma reparationer.MiljöövervakningLuftflödessensorer kan användas för att mäta tomgångstid och optimera bränsleförbrukningen. Detta stödjer miljöinitiativ och kan dokumenteras genom rapporter i JaxiCloud-systemet.Säkerhet och övervakningInstallerade dashcams eller 360-graders kameror kan integreras i systemet för att ge live-feed och inspelningar vid olyckor eller stöld. Med korrekt larmhantering undviks falsklarm och entreprenörens utrustning skyddas.",
+          "bodyHtml": "<p>Entreprenadbranschen står ofta inför komplexa logistikutmaningar, särskilt när det gäller övervakning och styrning av maskiner och släpvagnar. JaxiCloud Fleet Management erbjuder lösningar som kan anpassas specifikt för entreprenörssläpvagnar för att optimera driften, minska stillestånd och öka produktiviteten. Med avancerad sensorintegration kan systemet leverera realtidsdata som är avgörande för att fatta välgrundade beslut.</p><p>Användning av sensorer på entreprenörssläpvagnar</p><p>Övervakning av last och viktfördelning<br>Sensorer kan mäta vikten på släpvagnen, vilket hjälper till att säkerställa korrekt lastfördelning och följa gällande viktgränser. Detta minskar risken för skador på släpvagnen och ökar säkerheten under transport.</p><p>Hastighet och körmönster<br>GPS-spårare och accelerationssensorer kan övervaka hastighet, körstil och rutter. Vid upprepade hastighetsöverträdelser kan systemet ge varningar eller föreslå justeringar, vilket stödjer säker körning och hjälper till att undvika sanktioner.</p><p>Tillståndsövervakning<br>Sensorer kan mäta däcktryck (TPMS), vibrationer och andra kritiska parametrar för att förutse underhållsbehov. Detta minimerar stillestånd och förebygger kostsamma reparationer.</p><p>Miljöövervakning<br>Luftflödessensorer kan användas för att mäta tomgångstid och optimera bränsleförbrukningen. Detta stödjer miljöinitiativ och kan dokumenteras genom rapporter i JaxiCloud-systemet.</p><p>Säkerhet och övervakning<br>Installerade dashcams eller 360-graders kameror kan integreras i systemet för att ge live-feed och inspelningar vid olyckor eller stöld. Med korrekt larmhantering undviks falsklarm och entreprenörens utrustning skyddas.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Entreprenör sektörü, özellikle makinelerin ve römorkların izlenmesi ve yönetilmesi söz konusu olduğunda, sık sık karmaşık lojistik zorluklarla karşı karşıya kalmaktadır. JaxiCloud Fleet Management, operasyonları optimize etmek, duruş sürelerini azaltmak ve verimliliği artırmak için özel olarak entreprenör römorklarına uyarlanabilen çözümler sunar. Gelişmiş sensör entegrasyonu sayesinde sistem, bilinçli kararlar almak için kritik öneme sahip gerçek zamanlı veriler sağlayabilir.Entreprenör römorklarında sensör kullanımıYük ve ağırlık dağılımı izlemeSensörler, römork üzerindeki ağırlığı ölçebilir, bu da doğru yük dağılımını ve ağırlık sınırlarına uyumu sağlamaya yardımcı olur. Böylece römork hasarı riski azalır ve taşıma güvenliği artar.Hız ve sürüş davranışıGPS takip cihazları ve ivme sensörleri, hız, sürüş tarzı ve güzergâhları izleyebilir. Tekrarlanan hız aşımı durumlarında sistem uyarılar verebilir veya ayarlamalar önerebilir; bu da güvenli sürüşü destekler ve yaptırımları önlemeye yardımcı olur.Durum izlemeSensörler, lastik hava basıncını (TPMS), titreşimleri ve diğer kritik parametreleri ölçerek bakım ihtiyaçlarını önceden tahmin edebilir. Bu sayede duruş süreleri azalır ve maliyetli onarımların önüne geçilir.Çevresel izlemeHava akış sensörleri, rölanti süresini ölçmek ve yakıt tüketimini optimize etmek için kullanılabilir. Bu, çevresel sürdürülebilirliği destekler ve JaxiCloud sisteminde raporlarla belgelenebilir.Güvenlik ve izlemeYerleştirilen araç kameraları (dashcam) veya 360 derece kameralar, kazalar veya hırsızlık durumlarında canlı görüntü akışı ve kayıt sağlayacak şekilde sisteme entegre edilebilir. Doğru alarm yönetimi sayesinde yanlış bildirimler önlenir ve entreprenör ekipmanları güvence altına alınır.",
+          "bodyHtml": "<p>Entreprenör sektörü, özellikle makinelerin ve römorkların izlenmesi ve yönetilmesi söz konusu olduğunda, sık sık karmaşık lojistik zorluklarla karşı karşıya kalmaktadır. JaxiCloud Fleet Management, operasyonları optimize etmek, duruş sürelerini azaltmak ve verimliliği artırmak için özel olarak entreprenör römorklarına uyarlanabilen çözümler sunar. Gelişmiş sensör entegrasyonu sayesinde sistem, bilinçli kararlar almak için kritik öneme sahip gerçek zamanlı veriler sağlayabilir.</p><p>Entreprenör römorklarında sensör kullanımı</p><p>Yük ve ağırlık dağılımı izleme<br>Sensörler, römork üzerindeki ağırlığı ölçebilir, bu da doğru yük dağılımını ve ağırlık sınırlarına uyumu sağlamaya yardımcı olur. Böylece römork hasarı riski azalır ve taşıma güvenliği artar.</p><p>Hız ve sürüş davranışı<br>GPS takip cihazları ve ivme sensörleri, hız, sürüş tarzı ve güzergâhları izleyebilir. Tekrarlanan hız aşımı durumlarında sistem uyarılar verebilir veya ayarlamalar önerebilir; bu da güvenli sürüşü destekler ve yaptırımları önlemeye yardımcı olur.</p><p>Durum izleme<br>Sensörler, lastik hava basıncını (TPMS), titreşimleri ve diğer kritik parametreleri ölçerek bakım ihtiyaçlarını önceden tahmin edebilir. Bu sayede duruş süreleri azalır ve maliyetli onarımların önüne geçilir.</p><p>Çevresel izleme<br>Hava akış sensörleri, rölanti süresini ölçmek ve yakıt tüketimini optimize etmek için kullanılabilir. Bu, çevresel sürdürülebilirliği destekler ve JaxiCloud sisteminde raporlarla belgelenebilir.</p><p>Güvenlik ve izleme<br>Yerleştirilen araç kameraları (dashcam) veya 360 derece kameralar, kazalar veya hırsızlık durumlarında canlı görüntü akışı ve kayıt sağlayacak şekilde sisteme entegre edilebilir. Doğru alarm yönetimi sayesinde yanlış bildirimler önlenir ve entreprenör ekipmanları güvence altına alınır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fordele for entreprenører",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fordele for entreprenører",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Fordele for entreprenører",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Avantages pour les entrepreneurs",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Voordelen voor aannemers",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fordel for gründere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fördelar för entreprenörer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Fordele for entreprenører",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Bedre styring:Centraliseret overvågning af alle trailere i én platform.Effektivitet: Realtidsdata hjælper med at reducere spildtid og brændstof omkostninger.Overholdelse:Systemet kan opfylde EU-krav og branchestandarder.Fleksibilitet:Løsningerne kan tilpasses specifikke behov, såsom integration af miljøsensorer eller kørselsrapportering.JaxiCloud Fleet Management tilbyder en unik mulighed for at digitalisere og optimere styringen af entreprenørtrailere. Kombinationen af teknologi og sensorintegration gør det muligt at overvåge og forbedre både drift og sikkerhed – og dermed give entreprenører et konkurrencemæssigt forspring.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Bedre styring:</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Centraliseret overvågning af alle trailere i én platform.</span></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Effektivitet: Realtidsdata hjælper med at reducere spildtid og brændstof </span><span class=\"wixui-rich-text__text\">omkostninger.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Overholdelse:</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Systemet kan opfylde EU-krav og branchestandarder.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Fleksibilitet:</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Løsningerne kan tilpasses specifikke behov, såsom integration af miljøsensorer eller kørselsrapportering.</span></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JaxiCloud Fleet Management tilbyder en unik mulighed for at digitalisere og optimere styringen af entreprenørtrailere. Kombinationen af teknologi og sensorintegration gør det muligt at overvåge og forbedre både drift og sikkerhed – og dermed give entreprenører et konkurrencemæssigt forspring.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Bedre styring:Centraliseret overvågning af alle trailere i én platform.Effektivitet: Realtidsdata hjælper med at reducere spildtid og brændstof omkostninger.Overholdelse:Systemet kan opfylde EU-krav og branchestandarder.Fleksibilitet:Løsningerne kan tilpasses specifikke behov, såsom integration af miljøsensorer eller kørselsrapportering.JaxiCloud Fleet Management tilbyder en unik mulighed for at digitalisere og optimere styringen af entreprenørtrailere. Kombinationen af teknologi og sensorintegration gør det muligt at overvåge og forbedre både drift og sikkerhed – og dermed give entreprenører et konkurrencemæssigt forspring.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Bedre styring:</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Centraliseret overvågning af alle trailere i én platform.</span></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Effektivitet: Realtidsdata hjælper med at reducere spildtid og brændstof </span><span class=\"wixui-rich-text__text\">omkostninger.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Overholdelse:</span></strong></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Systemet kan opfylde EU-krav og branchestandarder.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Fleksibilitet:</span></strong></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Løsningerne kan tilpasses specifikke behov, såsom integration af miljøsensorer eller kørselsrapportering.</span></p><p class=\"font_9 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JaxiCloud Fleet Management tilbyder en unik mulighed for at digitalisere og optimere styringen af entreprenørtrailere. Kombinationen af teknologi og sensorintegration gør det muligt at overvåge og forbedre både drift og sikkerhed – og dermed give entreprenører et konkurrencemæssigt forspring.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Bedre Styring:Die Überwachung aller Anhänger auf der Plattform wird zentralisiert.Effektivität: Realtidsdata hilft bei der Reduzierung von Spiel- und Markenkosten.Overholdelse:Systeme können EU-Recht und Branchenstandards erfüllen.Flexibilität:Die Lösung kann bestimmte Aufgaben erfüllen, z. B. die Integration von Messgeräten oder die Berichterstellung.JaxiCloud Fleet Management bietet eine einzigartige Lösung für die Digitalisierung und Optimierung Ihres Geschäftserfolgs. Kombinationen aus Technologie und Sensorintegration führen dazu, dass Sie viel Zeit in Anspruch nehmen und vermeiden, zu driften und sicher zu sein – und geben Sie Unternehmern und Unternehmern so viel Erfolg wie möglich.",
+          "bodyHtml": "<p><strong>Bedre Styring:</strong></p><p>Die Überwachung aller Anhänger auf der Plattform wird zentralisiert.</p><p>Effektivität: Realtidsdata hilft bei der Reduzierung von Spiel- und Markenkosten.</p><p><strong>Overholdelse:</strong></p><p>Systeme können EU-Recht und Branchenstandards erfüllen.</p><p><strong>Flexibilität:</strong></p><p>Die Lösung kann bestimmte Aufgaben erfüllen, z. B. die Integration von Messgeräten oder die Berichterstellung.</p><p>JaxiCloud Fleet Management bietet eine einzigartige Lösung für die Digitalisierung und Optimierung Ihres Geschäftserfolgs. Kombinationen aus Technologie und Sensorintegration führen dazu, dass Sie viel Zeit in Anspruch nehmen und vermeiden, zu driften und sicher zu sein – und geben Sie Unternehmern und Unternehmern so viel Erfolg wie möglich.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Meilleure gestion :Surveillance centralisée de toutes les remorques sur une seule plateforme.Efficacité :Les données en temps réel aident à réduire les pertes de temps et les coûts de carburant.Conformité :Le système peut répondre aux exigences de l’UE et aux normes du secteur.Flexibilité :Les solutions peuvent être adaptées à des besoins spécifiques, tels que l’intégration de capteurs environnementaux ou le reporting de conduite.JaxiCloud Fleet Management offre une opportunité unique de numériser et d’optimiser la gestion des remorques de chantier.La combinaison de la technologie et de l’intégration de capteurs permet de surveiller et d’améliorer à la fois les opérations et la sécurité – offrant ainsi aux entrepreneurs un avantage concurrentiel.",
+          "bodyHtml": "<p data-start=\"47\" data-end=\"147\"><strong data-start=\"47\" data-end=\"70\">Meilleure gestion :</strong><br data-start=\"70\" data-end=\"73\">Surveillance centralisée de toutes les remorques sur une seule plateforme.</p><p data-start=\"149\" data-end=\"257\"><strong data-start=\"149\" data-end=\"165\">Efficacité :</strong><br data-start=\"165\" data-end=\"168\">Les données en temps réel aident à réduire les pertes de temps et les coûts de carburant.</p><p data-start=\"259\" data-end=\"350\"><strong data-start=\"259\" data-end=\"275\">Conformité :</strong><br data-start=\"275\" data-end=\"278\">Le système peut répondre aux exigences de l’UE et aux normes du secteur.</p><p data-start=\"352\" data-end=\"515\"><strong data-start=\"352\" data-end=\"369\">Flexibilité :</strong><br data-start=\"369\" data-end=\"372\">Les solutions peuvent être adaptées à des besoins spécifiques, tels que l’intégration de capteurs environnementaux ou le reporting de conduite.</p><p data-start=\"517\" data-end=\"842\">JaxiCloud Fleet Management offre une opportunité unique de numériser et d’optimiser la gestion des remorques de chantier.<br data-start=\"638\" data-end=\"641\">La combinaison de la technologie et de l’intégration de capteurs permet de surveiller et d’améliorer à la fois les opérations et la sécurité – offrant ainsi aux entrepreneurs un avantage concurrentiel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Beter beheer:Gecentraliseerde monitoring van alle trailers op één platform.Efficiëntie: Realtime data helpt tijdverspilling en brandstofkosten te verminderen.Compliance:Het systeem voldoet aan de EU-vereisten en industrienormen.Flexibiliteit:De oplossingen kunnen worden aangepast aan specifieke behoeften, zoals de integratie van omgevingssensoren of rijrapportage.JaxiCloud Fleet Management biedt een unieke mogelijkheid om het beheer van trailers van aannemers te digitaliseren en te optimaliseren. De combinatie van technologie en sensorintegratie maakt het mogelijk om zowel de bedrijfsvoering als de veiligheid te monitoren en te verbeteren, wat aannemers een concurrentievoordeel oplevert.",
+          "bodyHtml": "<p>Beter beheer:</p><p>Gecentraliseerde monitoring van alle trailers op één platform.</p><p>Efficiëntie: Realtime data helpt tijdverspilling en brandstofkosten te verminderen.</p><p>Compliance:</p><p>Het systeem voldoet aan de EU-vereisten en industrienormen.</p><p>Flexibiliteit:</p><p>De oplossingen kunnen worden aangepast aan specifieke behoeften, zoals de integratie van omgevingssensoren of rijrapportage.</p><p>JaxiCloud Fleet Management biedt een unieke mogelijkheid om het beheer van trailers van aannemers te digitaliseren en te optimaliseren. De combinatie van technologie en sensorintegratie maakt het mogelijk om zowel de bedrijfsvoering als de veiligheid te monitoren en te verbeteren, wat aannemers een concurrentievoordeel oplevert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bedre styring:Sentralisert overvåking av alle trailere på én plattform.Effektivitet: Realtidsdata hjelper med å redusere spilltid og brennstoffkostnader.Overholdelse:Systemet kan oppfylle EU-krav og branchestandarder.Fleksibilitet:Løsninger kan tilpasses spesielle behov, som integrasjon av miljøsensorer eller kjøringsrapportering.JaxiCloud Fleet Management tilbyr en unik mulighet for digitalisering og optimal styring av entreprenørtrailere. Kombinasjonen av teknologi og sensorintegrasjon gjør det mulig at overvåge og forbedre både drift og sikkerhet – og dermed gi entreprenører et konkurransemessigt forspring.",
+          "bodyHtml": "<p>Bedre styring:</p><p>Sentralisert overvåking av alle trailere på én plattform.</p><p>Effektivitet: Realtidsdata hjelper med å redusere spilltid og brennstoffkostnader.</p><p>Overholdelse:</p><p>Systemet kan oppfylle EU-krav og branchestandarder.</p><p>Fleksibilitet:</p><p>Løsninger kan tilpasses spesielle behov, som integrasjon av miljøsensorer eller kjøringsrapportering.</p><p>JaxiCloud Fleet Management tilbyr en unik mulighet for digitalisering og optimal styring av entreprenørtrailere. Kombinasjonen av teknologi og sensorintegrasjon gjør det mulig at overvåge og forbedre både drift og sikkerhet – og dermed gi entreprenører et konkurransemessigt forspring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Bedre styrning:Centraliserad övervakning av alla trailers på en plattform.Effektivitet: Realtidsdata hjälper med att minska speltid och förbränningskostnader.Överhållning:Systemet kan uppfylla EU-krav och branchestandarder.Flexibilitet:Løsningerne kan anpassas efter specifika behov, såsom integration af miljösensorer eller kørselsrapportering.JaxiCloud Fleet Management erbjuder unika möjligheter att digitalisera och optimera hanteringen av entreprenörtrailere. Kombinationen av teknologi och sensorintegration gör det möjligt att övervåga och förbättra både drift och säkerhet – och därmed ge entreprenörer och konkurrensmässigt forspring.",
+          "bodyHtml": "<p>Bedre styrning:</p><p>Centraliserad övervakning av alla trailers på en plattform.</p><p>Effektivitet: Realtidsdata hjälper med att minska speltid och förbränningskostnader.</p><p>Överhållning:</p><p>Systemet kan uppfylla EU-krav och branchestandarder.</p><p>Flexibilitet:</p><p>Løsningerne kan anpassas efter specifika behov, såsom integration af miljösensorer eller kørselsrapportering.</p><p>JaxiCloud Fleet Management erbjuder unika möjligheter att digitalisera och optimera hanteringen av entreprenörtrailere. Kombinationen av teknologi och sensorintegration gör det möjligt att övervåga och förbättra både drift och säkerhet – och därmed ge entreprenörer och konkurrensmässigt forspring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bedre stiring:Platformdaki tüm römorkların merkezileştirilmesi.Verimlilik: Gerçek veriler, maliyetlerin azaltılmasına ve maliyetlerin azaltılmasına yardımcı olur.Aşırı Tutma:Sistem, AB Krav’ı ve şube standartlarını kullanabilir.Esneklik:Kaybedilenler, sensör veya temel raporlama entegrasyonu gibi belirli davranışları aşabilir.JaxiCloud Filo Yönetimi, dijitalleştirme ve girişimcilik için en iyi yönetim için benzersiz bir şekilde tasarlanmıştır. Teknoloji ve sensör entegrasyonunun birleştirilmesi, aşırı akım ve engellenmiş sürüklenme ve sabitlenme açısından çok faydalıdır ve derlenmiş olarak girişimcilere ve gelecek için konkurrensiyet sağlar.",
+          "bodyHtml": "<p>Bedre stiring:</p><p>Platformdaki tüm römorkların merkezileştirilmesi.</p><p>Verimlilik: Gerçek veriler, maliyetlerin azaltılmasına ve maliyetlerin azaltılmasına yardımcı olur.</p><p>Aşırı Tutma:</p><p>Sistem, AB Krav’ı ve şube standartlarını kullanabilir.</p><p>Esneklik:</p><p>Kaybedilenler, sensör veya temel raporlama entegrasyonu gibi belirli davranışları aşabilir.</p><p>JaxiCloud Filo Yönetimi, dijitalleştirme ve girişimcilik için en iyi yönetim için benzersiz bir şekilde tasarlanmıştır. Teknoloji ve sensör entegrasyonunun birleştirilmesi, aşırı akım ve engellenmiş sürüklenme ve sabitlenme açısından çok faydalıdır ve derlenmiş olarak girişimcilere ve gelecek için konkurrensiyet sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

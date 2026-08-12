@@ -1,0 +1,13 @@
+/* archetype: processRail */
+.page{background:#f8fafc;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0369a1}
+
+.hero{padding:clamp(3rem,7vw,5rem) 0}.title{font-size:clamp(2.4rem,5vw,3.8rem);max-width:16ch}
+.rail{display:grid;gap:0;padding:2rem 0 5rem}
+.step{display:grid;gap:1rem;padding:2rem 0;border-top:1px solid #e2e8f0}
+@media(min-width:800px){.step{grid-template-columns:5rem 1fr 1fr;align-items:start}}
+.num{font-size:2rem;color:#0369a1;font-family:var(--font-outfit),sans-serif;font-weight:600}
+.features{display:grid;gap:1.25rem;padding:2rem 0 4rem}@media(min-width:800px){.features{grid-template-columns:repeat(2,1fr)}}
+.feat{padding:1.25rem 0;border-top:1px solid #e2e8f0}
+

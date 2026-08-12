@@ -1,0 +1,13 @@
+/* archetype: inspectionDark */
+.page{background:#111827;color:#f8fafc}
+.muted{color:rgba(248,250,252,0.68)}
+.accent{color:#fbbf24}
+
+.page{background:#111827;color:#f8fafc}
+.hero{padding:clamp(4rem,9vw,7rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1fr 1fr;align-items:center}}
+.title{font-size:clamp(2.4rem,5vw,3.8rem);color:#f8fafc}
+.shot{aspect-ratio:4/3;border-radius:1rem}
+.benefits{display:grid;gap:1rem;padding:2rem 0 4rem}@media(min-width:800px){.benefits{grid-template-columns:1fr 1fr}}
+.benefit{padding:1.5rem;border:1px solid rgba(255,255,255,.1);border-radius:1rem}
+.list{padding:0 0 5rem;max-width:40rem}
+

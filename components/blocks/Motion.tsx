@@ -26,13 +26,22 @@ type RevealProps = {
   className?: string;
   as?: "div" | "section" | "article" | "li";
   delay?: number;
+  /** Entrance bias. Default `up` preserves existing fade-up behavior. */
+  from?: "up" | "left" | "right";
 };
+
+function hiddenOffset(from: RevealProps["from"]) {
+  if (from === "left") return { opacity: 0, x: -36, y: 0 };
+  if (from === "right") return { opacity: 0, x: 36, y: 0 };
+  return { opacity: 0, x: 0, y: 20 };
+}
 
 export function Reveal({
   children,
   className,
   as = "div",
   delay = 0,
+  from = "up",
 }: RevealProps) {
   const Comp = motion[as];
   return (
@@ -42,9 +51,10 @@ export function Reveal({
       whileInView="visible"
       viewport={{ once: true, margin: "-8% 0px" }}
       variants={{
-        hidden: { opacity: 0, y: 20 },
+        hidden: hiddenOffset(from),
         visible: {
           opacity: 1,
+          x: 0,
           y: 0,
           transition: {
             type: "spring",
