@@ -13,6 +13,7 @@
 }
 
 .hero {
+  position: relative;
   padding: clamp(2.5rem, 5vw, 3.5rem) 0 clamp(2.5rem, 5vw, 3.5rem);
   display: grid;
   justify-items: center;
@@ -21,25 +22,25 @@
 
 .title {
   margin-top: 0.75rem;
-  font-size: clamp(2.25rem, 5vw, 3.5rem);
-  max-width: 20ch;
+  font-size: clamp(2.25rem, 5vw, 3.75rem);
+  max-width: 26ch;
 }
 
 .introBlock {
   margin-top: clamp(1.5rem, 3.5vw, 2.5rem);
   display: grid;
   justify-items: center;
-  max-width: 44rem;
+  max-width: 58rem;
 }
 
 .subheading {
-  font-size: clamp(1.25rem, 2.2vw, 1.625rem);
-  max-width: 26ch;
+  font-size: clamp(1.25rem, 2.2vw, 1.75rem);
+  max-width: 34ch;
 }
 
 .introProse {
   margin-top: 1rem;
-  max-width: 52ch;
+  max-width: 120ch;
 }
 
 .introProse :global(p) {

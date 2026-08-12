@@ -119,6 +119,12 @@
   .useCaseGrid > *:only-child {
     grid-column: 1 / -1;
   }
+
+  /* Odd trailing card (e.g. a 3-item grid): give it the full row instead of
+     sitting narrow and alone with dead space beside it. */
+  .useCaseGrid > *:nth-child(3):last-child {
+    grid-column: 1 / -1;
+  }
 }
 
 .useCaseCard {
