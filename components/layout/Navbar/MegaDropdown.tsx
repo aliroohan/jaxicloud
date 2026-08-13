@@ -42,15 +42,15 @@ const SOLUTIONS_4COL_DATA = [
       { label: "Fuel management System", href: "/solutions/fuel-management-system" },
       { label: "Tpms ebs cooling fuel monitoring", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
       { label: "Dashcam", href: "/solutions/dashcam" },
-      { label: "Door opening", href: "/solutions/registration-of-truck-door-opening" }
+      { label: "Registration of truck door opening", href: "/solutions/registration-of-truck-door-opening" }
     ]
   },
   {
     image: "/images/compliance_reporting.png",
     links: [
       { label: "Temperature monitoring", href: "/solutions/temperature-monitoring-work" },
-      { label: "Construction tools", href: "/solutions/geolocation-of-construction-tools" },
-      { label: "Side panel detection", href: "/solutions/opening-detection-of-truck-side-panels" },
+      { label: "Geolocation of construction tools", href: "/solutions/geolocation-of-construction-tools" },
+      { label: "Opening detection of truck side panels", href: "/solutions/opening-detection-of-truck-side-panels" },
       { label: "E-drivers book", href: "/solutions/e-drivers-book" }
     ]
   }
