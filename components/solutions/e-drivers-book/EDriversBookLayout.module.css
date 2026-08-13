@@ -1,14 +1,204 @@
-/* archetype: bookFeatures */
-.page{background:#fffbeb;color:#0f172a}
-.muted{color:#64748b}
-.accent{color:#92400e}
+/**
+ * E drivers book — light B2B product page.
+ * Title, intro zig row (copy + car mockup), 4-up feature card grid,
+ * then two screenshot pairs (desktop app views, mobile app views).
+ */
 
-.page{background:#fffbeb}
-.hero{padding:clamp(3rem,7vw,5rem) 0;max-width:38rem}.title{font-size:clamp(2.4rem,5vw,3.6rem);color:#451a03}
-.spread{display:grid;gap:1.5rem;padding:1rem 0 3rem}@media(min-width:900px){.spread{grid-template-columns:1.1fr .9fr}}
-.shot{aspect-ratio:3/4;border-radius:1rem .25rem 1rem .25rem}
-.features{display:grid;gap:1rem;padding:0 0 4rem}@media(min-width:700px){.features{grid-template-columns:repeat(2,1fr)}}
-.feat{padding:1.5rem;background:#fff;border-radius:1rem}
-.gallery{display:grid;gap:.75rem;padding-bottom:5rem}@media(min-width:700px){.gallery{grid-template-columns:repeat(4,1fr)}}
-.gshot{aspect-ratio:1;border-radius:.5rem}
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
 
+/* —— 1. Centered page title —— */
+.hero {
+  text-align: center;
+  padding: clamp(1.25rem, 3vw, 2rem) 0 clamp(1.35rem, 2.8vw, 2rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— 2. Intro row —— */
+.intro {
+  display: grid;
+  gap: clamp(1.5rem, 3.5vw, 2.5rem);
+  align-items: center;
+  padding-bottom: clamp(2.75rem, 5.5vw, 4rem);
+}
+
+@media (min-width: 900px) {
+  .intro {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.copy {
+  display: grid;
+  gap: 0.85rem;
+  align-content: center;
+  max-width: 30rem;
+}
+
+.introHeading {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.8vw, 1.95rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+}
+
+.introProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.introProse :global(p) {
+  margin: 0;
+}
+
+.introProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+.introMediaSlot {
+  min-width: 0;
+}
+
+.introFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f7f8fa;
+  aspect-ratio: 5 / 2;
+  border-radius: 0.6rem;
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.32);
+}
+
+.introFrame :global(img) {
+  object-fit: contain;
+}
+
+@media (max-width: 899px) {
+  .copy {
+    max-width: none;
+  }
+}
+
+/* —— 3. Feature card grid —— */
+.featureGrid {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 1fr;
+  padding-bottom: clamp(2.75rem, 5.5vw, 4rem);
+}
+
+@media (min-width: 640px) {
+  .featureGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .featureGrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.featureCard {
+  display: grid;
+  gap: 0.85rem;
+  align-content: start;
+  padding: clamp(1.35rem, 2.5vw, 1.65rem);
+  background: #f7f8fa;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 0.9rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px -26px rgba(15, 23, 42, 0.28);
+}
+
+.featureIcon {
+  display: grid;
+  place-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 0.65rem;
+  background: var(--accent, #0b1f3a);
+  color: #fff;
+}
+
+.featureText {
+  margin: 0;
+  font-size: 0.925rem;
+  line-height: 1.6;
+  color: #334155;
+}
+
+/* —— 4 & 5. Screenshot pairs (desktop / mobile) —— */
+.shotRow {
+  display: grid;
+  gap: clamp(1.1rem, 2.5vw, 1.75rem);
+  grid-template-columns: 1fr;
+  padding-bottom: clamp(2.5rem, 5vw, 3.75rem);
+}
+
+@media (min-width: 720px) {
+  .shotRow {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.shotSlot {
+  min-width: 0;
+}
+
+.desktopFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 16 / 9;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.32);
+}
+
+.desktopFrame :global(img) {
+  object-fit: contain;
+}
+
+.mobileFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 3 / 4;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.32);
+}
+
+.mobileFrame :global(img) {
+  object-fit: contain;
+}
+
+/* —— 6. CTA —— */
+.ctaRow {
+  display: flex;
+  justify-content: center;
+  padding-bottom: clamp(3rem, 6vw, 4.5rem);
+}
