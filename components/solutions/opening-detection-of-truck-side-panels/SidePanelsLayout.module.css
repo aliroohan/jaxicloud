@@ -1,12 +1,145 @@
-/* archetype: threeAct */
-.page{background:#fafafa;color:#0f172a}
-.muted{color:#64748b}
-.accent{color:#334155}
+/**
+ * Opening detection of truck side panels — light B2B product page.
+ * Simplest structure of the series: title, intro copy, and two
+ * zig-zag feature rows (no benefits grid, no product cards).
+ */
 
-.act{padding:clamp(3rem,7vw,5.5rem) 0;border-bottom:1px solid #e5e5e5}
-.act:last-child{border-bottom:0}
-.kicker{font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:#334155;font-weight:600}
-.title{font-size:clamp(2rem,4.5vw,3.2rem);max-width:16ch;margin-top:.75rem}
-.layout{display:grid;gap:2rem;margin-top:2rem}@media(min-width:900px){.layout{grid-template-columns:1fr 1fr;align-items:center}}
-.shot{aspect-ratio:16/11;border-radius:1rem}
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
 
+/* —— 1. Centered page title —— */
+.hero {
+  text-align: center;
+  padding: clamp(1.25rem, 3vw, 2rem) 0 clamp(1.35rem, 2.8vw, 2rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— 2. Intro copy —— */
+.intro {
+  padding: 0 0 clamp(2.5rem, 5vw, 3.5rem);
+}
+
+.introCopy {
+  max-width: 46rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introProse {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.introProse :global(p) {
+  margin: 0;
+}
+
+.introProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+/* —— 3. Zig-zag feature rows —— */
+.zig {
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 3.75rem);
+  padding-bottom: clamp(2.75rem, 5.5vw, 4rem);
+}
+
+.zigRow {
+  display: grid;
+  gap: clamp(1.35rem, 3vw, 2.25rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .zigRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .zigMediaRight .mediaSlot {
+    order: 2;
+  }
+  .zigMediaRight .copySlot {
+    order: 1;
+  }
+
+  .zigMediaLeft .mediaSlot {
+    order: 1;
+  }
+  .zigMediaLeft .copySlot {
+    order: 2;
+  }
+}
+
+.copy {
+  display: grid;
+  gap: 0.85rem;
+  align-content: center;
+  max-width: 30rem;
+}
+
+.zigHeading {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.22;
+  color: #0f172a;
+}
+
+.zigProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.zigProse :global(p) {
+  margin: 0;
+}
+
+.zigProse :global(p + p) {
+  margin-top: 0.75rem;
+}
+
+.mediaSlot {
+  min-width: 0;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 16 / 11;
+  border-radius: 0.6rem;
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.32);
+}
+
+.mediaFrame :global(img) {
+  object-fit: cover;
+}
+
+@media (max-width: 899px) {
+  .copy {
+    max-width: none;
+  }
+}
+
+/* —— 4. CTA —— */
+.ctaRow {
+  display: flex;
+  justify-content: center;
+  padding-bottom: clamp(3rem, 6vw, 4.5rem);
+}
