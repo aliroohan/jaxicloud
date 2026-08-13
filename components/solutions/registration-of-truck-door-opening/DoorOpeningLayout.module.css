@@ -1,14 +1,326 @@
-/* archetype: sensorStory */
-.page{background:#f1f5f9;color:#0f172a}
-.muted{color:#64748b}
-.accent{color:#0f766e}
+/**
+ * Registration of truck door opening — light B2B product page.
+ * White / #f7f8fa surfaces, navy accents, zig-zag feature rows,
+ * icon benefit grid, and clean product cards.
+ */
 
-.hero{padding:clamp(3rem,7vw,5rem) 0;max-width:40rem}
-.title{font-size:clamp(2.3rem,5vw,3.6rem);max-width:16ch}
-.story{display:grid;gap:clamp(2.5rem,6vw,4rem);padding-bottom:5rem}
-.block{display:grid;gap:1.5rem}
-@media(min-width:900px){.block{grid-template-columns:1fr 1fr;align-items:center}}
-.blockFlip{direction:rtl}
-.blockFlip > *{direction:ltr}
-.shot{aspect-ratio:16/11;border-radius:1rem;position:relative;overflow:hidden}
-.product{padding:2rem;background:#fff;border-radius:1.25rem;box-shadow:0 20px 50px rgba(15,23,42,.06)}
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+/* —— 1. Centered page title —— */
+.hero {
+  text-align: center;
+  padding: clamp(1.25rem, 3vw, 2rem) 0 clamp(1.35rem, 2.8vw, 2rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— 2. Intro copy —— */
+.intro {
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+.introCopy {
+  display: grid;
+  gap: 0.95rem;
+  max-width: 42rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introHeading {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.8vw, 1.95rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+}
+
+.introProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.introProse :global(p) {
+  margin: 0;
+}
+
+.introProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+/* —— 3. Zig-zag feature rows —— */
+.zig {
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 3.75rem);
+  padding-bottom: clamp(2.5rem, 5vw, 3.75rem);
+}
+
+.zigRow {
+  display: grid;
+  gap: clamp(1.35rem, 3vw, 2.25rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .zigRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .zigMediaRight .mediaSlot {
+    order: 2;
+  }
+  .zigMediaRight .copySlot {
+    order: 1;
+  }
+
+  .zigMediaLeft .mediaSlot {
+    order: 1;
+  }
+  .zigMediaLeft .copySlot {
+    order: 2;
+  }
+}
+
+.copy {
+  display: grid;
+  gap: 0.85rem;
+  align-content: center;
+  max-width: 30rem;
+}
+
+.zigHeading {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.6vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.22;
+  color: #0f172a;
+}
+
+.zigProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.zigProse :global(p) {
+  margin: 0;
+}
+
+.zigProse :global(p + p) {
+  margin-top: 0.75rem;
+}
+
+.mediaSlot {
+  min-width: 0;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 16 / 11;
+  border-radius: 0.6rem;
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.32);
+}
+
+.mediaFrame :global(img) {
+  object-fit: cover;
+}
+
+@media (max-width: 899px) {
+  .copy {
+    max-width: none;
+  }
+}
+
+/* —— 4. Why integrate — heading, intro, benefit grid —— */
+.why {
+  padding: 0 0 clamp(2.75rem, 5.5vw, 4rem);
+}
+
+.sectionTitle {
+  margin: 0;
+  max-width: 40rem;
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+}
+
+.whyIntro {
+  margin: 0.9rem 0 0;
+  max-width: 42rem;
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.benefitGrid {
+  display: grid;
+  gap: 1.1rem;
+  margin-top: clamp(1.5rem, 3vw, 2.1rem);
+}
+
+@media (min-width: 640px) {
+  .benefitGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.benefitCard {
+  display: grid;
+  gap: 0.55rem;
+  align-content: start;
+  padding: clamp(1.35rem, 2.5vw, 1.65rem);
+  background: #f7f8fa;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 0.9rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.benefitCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 18px 36px -26px rgba(15, 23, 42, 0.28);
+}
+
+.benefitIcon {
+  display: grid;
+  place-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 0.65rem;
+  background: var(--accent, #0b1f3a);
+  color: #fff;
+}
+
+.benefitTitle {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  color: #0f172a;
+}
+
+.benefitDesc {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #64748b;
+}
+
+/* —— 5. Which sensors —— */
+.which {
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+.whichProse {
+  margin-top: 0.9rem;
+  max-width: 46rem;
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.whichProse :global(p) {
+  margin: 0;
+}
+
+.whichProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+/* —— 6. Product cards —— */
+.products {
+  display: grid;
+  gap: 1.5rem;
+  padding-bottom: clamp(2.75rem, 5.5vw, 4rem);
+}
+
+@media (min-width: 720px) {
+  .products {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.productCard {
+  display: grid;
+  gap: 1.1rem;
+  align-content: start;
+  padding: clamp(1.5rem, 3vw, 2rem);
+  background: #f7f8fa;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: 1.1rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.productCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 22px 44px -28px rgba(15, 23, 42, 0.3);
+}
+
+.productShot {
+  width: 5.5rem;
+  height: 5.5rem;
+  border-radius: 999px;
+  overflow: hidden;
+  position: relative;
+  background: #fff;
+  box-shadow: 0 1px 0 rgba(15, 23, 42, 0.04), 0 10px 22px -14px rgba(15, 23, 42, 0.3);
+}
+
+.productImg {
+  position: absolute;
+  inset: 0;
+}
+
+.productImg :global(img) {
+  object-fit: cover;
+}
+
+.productBody {
+  display: grid;
+  gap: 0.6rem;
+}
+
+.productTitle {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  color: #0f172a;
+}
+
+.productProse {
+  font-size: 0.925rem;
+  line-height: 1.65;
+  color: #64748b;
+}
+
+.productProse :global(p) {
+  margin: 0;
+}
+
+/* —— 7. CTA —— */
+.ctaRow {
+  display: flex;
+  justify-content: center;
+  padding-bottom: clamp(3rem, 6vw, 4.5rem);
+}
