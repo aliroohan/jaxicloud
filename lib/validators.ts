@@ -47,7 +47,6 @@ export const productInputSchema = z.object({
   status: z.enum(["draft", "published"]).optional().default("draft"),
   metaTitle: z.string().optional().default(""),
   metaDescription: z.string().optional().default(""),
-  solutionIds: z.array(z.string()).optional().default([]),
 });
 
 export const categoryInputSchema = z.object({
@@ -55,27 +54,6 @@ export const categoryInputSchema = z.object({
   slug: z.string().optional(),
   description: z.string().optional().default(""),
   icon: z.string().optional().default(""),
-});
-
-export const bundleInputSchema = z.object({
-  name: z.string().min(1),
-  slug: z.string().optional(),
-  description: z.string().min(1),
-  images: z.array(imageSchema).optional().default([]),
-  productIds: z.array(z.string()).optional().default([]),
-  price: z.string().optional().default("Contact for pricing"),
-  status: z.enum(["draft", "published"]).optional().default("draft"),
-  metaTitle: z.string().optional().default(""),
-  metaDescription: z.string().optional().default(""),
-});
-
-export const solutionInputSchema = z.object({
-  name: z.string().min(1),
-  slug: z.string().optional(),
-  description: z.string().optional().default(""),
-  productIds: z.array(z.string()).optional().default([]),
-  metaTitle: z.string().optional().default(""),
-  metaDescription: z.string().optional().default(""),
 });
 
 export const blogAuthorSchema = z.object({
@@ -156,11 +134,10 @@ export const inquiryInputSchema = z.object({
     .array(
       z.object({
         productId: z.string().optional(),
-        bundleId: z.string().optional(),
         name: z.string().min(1),
         slug: z.string().optional().default(""),
         quantity: z.number().int().min(1).optional().default(1),
-        type: z.enum(["product", "bundle"]).optional().default("product"),
+        type: z.enum(["product"]).optional().default("product"),
       }),
     )
     .optional()

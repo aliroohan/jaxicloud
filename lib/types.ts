@@ -86,45 +86,16 @@ export type Product = {
   status: "draft" | "published";
   metaTitle?: string;
   metaDescription?: string;
-  solutionIds: string[];
-  solutions?: Solution[];
-  bundles?: Bundle[];
   createdAt?: string;
   updatedAt?: string;
 };
 
-export type Bundle = {
-  id: string;
-  name: string;
-  slug: string;
-  description: string;
-  images: ImageAsset[];
-  productIds: string[];
-  products?: Product[];
-  price?: string;
-  status: "draft" | "published";
-  metaTitle?: string;
-  metaDescription?: string;
-};
-
-export type Solution = {
-  id: string;
-  name: string;
-  slug: string;
-  description?: string;
-  productIds: string[];
-  products?: Product[];
-  metaTitle?: string;
-  metaDescription?: string;
-};
-
 export type InquiryItem = {
   productId?: string;
-  bundleId?: string;
   name: string;
   slug?: string;
   quantity: number;
-  type: "product" | "bundle";
+  type: "product";
 };
 
 export type Inquiry = {

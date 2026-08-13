@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { connectDB } from "@/lib/db";
-import { Bundle, Category, Product, Solution } from "@/lib/models";
+import { Category, Product } from "@/lib/models";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
@@ -8,7 +8,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes: MetadataRoute.Sitemap = [
     "",
     "/products",
-    "/bundles",
     "/solutions",
     "/contact",
     "/inquiry",
@@ -21,11 +20,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   try {
     await connectDB();
-    const [products, categories, bundles, solutions] = await Promise.all([
+    const [products, categories] = await Promise.all([
       Product.find({ status: "published" }).populate("categoryId", "slug").lean(),
       Category.find().lean(),
-      Bundle.find({ status: "published" }).lean(),
-      Solution.find().lean(),
     ]);
 
     const productRoutes: MetadataRoute.Sitemap = products
@@ -48,27 +45,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
     }));
 
-    const bundleRoutes: MetadataRoute.Sitemap = bundles.map((b) => ({
-      url: `${base}/bundles/${b.slug}`,
-      lastModified: b.updatedAt || new Date(),
-      changeFrequency: "weekly",
-      priority: 0.6,
-    }));
-
-    const solutionRoutes: MetadataRoute.Sitemap = solutions.map((s) => ({
-      url: `${base}/solutions/${s.slug}`,
-      lastModified: s.updatedAt || new Date(),
-      changeFrequency: "weekly",
-      priority: 0.6,
-    }));
-
-    return [
-      ...staticRoutes,
-      ...productRoutes,
-      ...categoryRoutes,
-      ...bundleRoutes,
-      ...solutionRoutes,
-    ];
+    return [...staticRoutes, ...productRoutes, ...categoryRoutes];
   } catch {
     return staticRoutes;
   }

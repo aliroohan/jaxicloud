@@ -3,11 +3,10 @@ import mongoose, { Schema, models, model, type InferSchemaType } from "mongoose"
 const InquiryItemSchema = new Schema(
   {
     productId: { type: Schema.Types.ObjectId, ref: "Product" },
-    bundleId: { type: Schema.Types.ObjectId, ref: "Bundle" },
     name: { type: String, required: true },
     slug: { type: String, default: "" },
     quantity: { type: Number, default: 1, min: 1 },
-    type: { type: String, enum: ["product", "bundle"], default: "product" },
+    type: { type: String, enum: ["product"], default: "product" },
   },
   { _id: false },
 );

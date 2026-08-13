@@ -4,17 +4,12 @@ import React from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import {
-  Boxes,
-  Cpu,
-  ExternalLink,
   FolderTree,
   Inbox,
-  Layers,
   LayoutDashboard,
   LogOut,
   Newspaper,
   Package,
-  ShieldCheck,
 } from "lucide-react";
 import { BrandLogo } from "@/components/common/BrandLogo/BrandLogo";
 import styles from "./AdminConsole.module.css";
@@ -31,8 +26,6 @@ const GROUPS = [
     items: [
       { href: "/admin/products", label: "Products Catalog", icon: Package, exact: false },
       { href: "/admin/categories", label: "Categories", icon: FolderTree, exact: false },
-      { href: "/admin/bundles", label: "Hardware Bundles", icon: Boxes, exact: false },
-      { href: "/admin/solutions", label: "Industry Solutions", icon: Layers, exact: false },
     ],
   },
   {

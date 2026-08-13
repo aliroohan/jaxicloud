@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import type { Category, Product, Solution } from "@/lib/types";
+import type { Category, Product } from "@/lib/types";
 
 type Props = {
   initial?: Partial<Product> | null;
@@ -19,7 +19,6 @@ function linesToArray(value: string) {
 export function ProductForm({ initial, productId }: Props) {
   const router = useRouter();
   const [categories, setCategories] = useState<Category[]>([]);
-  const [solutions, setSolutions] = useState<Solution[]>([]);
   const [error, setError] = useState("");
   const [saving, setSaving] = useState(false);
 
@@ -50,9 +49,6 @@ export function ProductForm({ initial, productId }: Props) {
   );
   const [imageUrl, setImageUrl] = useState(initial?.images?.[0]?.url || "");
   const [imageAlt, setImageAlt] = useState(initial?.images?.[0]?.alt || "");
-  const [solutionIds, setSolutionIds] = useState<string[]>(
-    (initial?.solutionIds || []).map(String),
-  );
   const [keyFeaturesJson, setKeyFeaturesJson] = useState(
     JSON.stringify(initial?.keyFeatures || [], null, 2),
   );
@@ -61,16 +57,14 @@ export function ProductForm({ initial, productId }: Props) {
   );
 
   useEffect(() => {
-    Promise.all([
-      fetch("/api/admin/categories").then((r) => r.json()),
-      fetch("/api/admin/solutions").then((r) => r.json()),
-    ]).then(([catData, solData]) => {
-      setCategories(catData.categories || []);
-      setSolutions(solData.solutions || []);
-      if (!categoryId && catData.categories?.[0]?.id) {
-        setCategoryId(catData.categories[0].id);
-      }
-    });
+    fetch("/api/admin/categories")
+      .then((r) => r.json())
+      .then((catData) => {
+        setCategories(catData.categories || []);
+        if (!categoryId && catData.categories?.[0]?.id) {
+          setCategoryId(catData.categories[0].id);
+        }
+      });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -112,7 +106,6 @@ export function ProductForm({ initial, productId }: Props) {
         status,
         metaTitle,
         metaDescription,
-        solutionIds,
       };
 
       const res = await fetch(
@@ -279,27 +272,6 @@ export function ProductForm({ initial, productId }: Props) {
             onChange={(e) => setSpecSheetUrl(e.target.value)}
             className="w-full rounded-md border border-slate-300 px-3 py-2"
           />
-        </label>
-        <label className="block text-sm sm:col-span-2">
-          <span className="mb-1 block font-medium">Solutions</span>
-          <div className="mt-1 grid gap-2 sm:grid-cols-2">
-            {solutions.map((s) => (
-              <label key={s.id} className="flex items-center gap-2 text-sm">
-                <input
-                  type="checkbox"
-                  checked={solutionIds.includes(s.id)}
-                  onChange={(e) => {
-                    setSolutionIds((prev) =>
-                      e.target.checked
-                        ? [...prev, s.id]
-                        : prev.filter((id) => id !== s.id),
-                    );
-                  }}
-                />
-                {s.name}
-              </label>
-            ))}
-          </div>
         </label>
         <label className="block text-sm sm:col-span-2">
           <span className="mb-1 block font-medium">Key features (JSON)</span>

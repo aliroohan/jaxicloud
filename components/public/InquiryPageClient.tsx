@@ -50,12 +50,11 @@ export function InquiryPageClient() {
       fleetScale,
       message: String(form.get("message") || ""),
       items: items.map((item) => ({
-        productId: item.type === "product" ? item.id : undefined,
-        bundleId: item.type === "bundle" ? item.id : undefined,
+        productId: item.id,
         name: item.name,
         slug: item.slug,
         quantity: item.quantity,
-        type: item.type,
+        type: "product" as const,
       })),
     };
 
