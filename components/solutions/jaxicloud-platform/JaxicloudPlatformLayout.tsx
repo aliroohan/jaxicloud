@@ -120,19 +120,30 @@ export function JaxicloudPlatformLayout({
 
       {/* Hero */}
       <section className={styles.hero}>
-        <Wrap>
-          <div className={styles.heroPill}>
-            <Eyebrow>{eyebrow}</Eyebrow>
-            <h1 className={`${p.display} ${styles.heroTitle}`}>{heroTitle}</h1>
-            {tagline && (
-              <h2 className={`${p.display} ${styles.heroTagline}`}>
-                {tagline}
-              </h2>
-            )}
-            {heroBody && <p className={styles.heroBody}>{heroBody}</p>}
-            <div className={styles.heroCta}>
-              <DemoCta href={contactHref} label={requestDemoLabel} />
+        <Wrap wide>
+          <div className={styles.heroGrid}>
+            <div className={styles.heroPill}>
+              <Eyebrow>{eyebrow}</Eyebrow>
+              <h1 className={`${p.display} ${styles.heroTitle}`}>{heroTitle}</h1>
+              {tagline && (
+                <h2 className={`${p.display} ${styles.heroTagline}`}>
+                  {tagline}
+                </h2>
+              )}
+              {heroBody && <p className={styles.heroBody}>{heroBody}</p>}
+              <div className={styles.heroCta}>
+                <DemoCta href={contactHref} label={requestDemoLabel} />
+              </div>
             </div>
+            {heroImage && (
+              <div className={styles.heroImageCol}>
+                <BlockMedia
+                  block={heroImage}
+                  className={styles.heroShot}
+                  priority
+                />
+              </div>
+            )}
           </div>
         </Wrap>
         <div className={styles.heroDeco} aria-hidden>
@@ -140,19 +151,6 @@ export function JaxicloudPlatformLayout({
           <span className={styles.decoGlow} />
         </div>
       </section>
-
-      {/* Hero image - platform screenshot */}
-      {heroImage && (
-        <div className={styles.heroImageWrap}>
-          <Wrap>
-            <BlockMedia
-              block={heroImage}
-              className={styles.heroShot}
-              priority
-            />
-          </Wrap>
-        </div>
-      )}
 
       {/* Platform features grid */}
       {features.length > 0 && (

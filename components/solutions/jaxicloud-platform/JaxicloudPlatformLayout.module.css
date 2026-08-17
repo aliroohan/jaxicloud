@@ -4,66 +4,57 @@
 /* ── Hero ── */
 .hero {
   position: relative;
-  padding: clamp(4rem, 9vw, 7rem) 0 clamp(2.5rem, 6vw, 4rem);
+  padding: clamp(3.5rem, 7vw, 5.5rem) 0 clamp(3rem, 6vw, 4.5rem);
   background: linear-gradient(155deg, #f8fafc 0%, #f0fdfa 40%, #e0f2fe 100%);
   overflow: hidden;
 }
-.heroPill { position: relative; z-index: 1; max-width: 52rem; }
+.heroGrid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .heroGrid {
+    grid-template-columns: 1.05fr 1fr;
+    gap: 3.5rem;
+  }
+}
+.heroPill {
+  display: flex;
+  flex-direction: column;
+}
 .heroTitle {
-  font-size: clamp(2.75rem, 6vw, 4.5rem);
+  font-size: clamp(2.4rem, 4.5vw, 3.75rem);
   color: #0f172a;
   margin-top: 0.75rem;
-  line-height: 1.02;
+  line-height: 1.05;
 }
 .heroTagline {
-  margin-top: 1rem;
-  font-size: clamp(1.35rem, 2.75vw, 2rem);
+  margin-top: 0.85rem;
+  font-size: clamp(1.2rem, 2.2vw, 1.65rem);
   color: #0f766e;
   line-height: 1.25;
 }
 .heroBody {
-  margin-top: 1.1rem;
-  font-size: 1.0625rem;
-  line-height: 1.7;
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.65;
   color: #475569;
-  max-width: 48ch;
 }
-.heroCta { margin-top: 2rem; }
-.heroDeco { position: absolute; inset: 0; pointer-events: none; }
-.decoRing {
-  position: absolute;
-  right: -10rem;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 44rem;
-  height: 44rem;
-  border-radius: 50%;
-  border: 1px solid rgba(20,184,166,.2);
-  background: radial-gradient(circle, rgba(20,184,166,.08) 0%, transparent 60%);
-}
-.decoGlow {
-  position: absolute;
-  right: 4rem;
-  top: 20%;
-  width: 20rem;
-  height: 20rem;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(14,165,233,.07) 0%, transparent 70%);
-}
-
-/* ── Hero image ── */
-.heroImageWrap {
-  padding: 0 0 clamp(2rem, 4vw, 3.5rem);
-  background: #fff;
+.heroCta { margin-top: 1.75rem; }
+.heroImageCol {
+  width: 100%;
 }
 .heroShot {
-  aspect-ratio: 16/8;
-  border-radius: 1.5rem;
+  aspect-ratio: 16/10;
+  border-radius: 1.25rem;
   overflow: hidden;
-  box-shadow: 0 24px 64px rgba(15,23,42,.1);
+  box-shadow: 0 20px 50px rgba(15,23,42,.12);
   border: 1px solid #e2e8f0;
-  margin-top: -1rem;
 }
+.heroDeco { position: absolute; inset: 0; pointer-events: none; }
 
 /* ── Feature grid ── */
 .featSection {
