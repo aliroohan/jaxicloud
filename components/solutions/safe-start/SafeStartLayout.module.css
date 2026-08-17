@@ -1,13 +1,153 @@
-/* archetype: inspectionDark */
-.page{background:#111827;color:#f8fafc}
-.muted{color:rgba(248,250,252,0.68)}
-.accent{color:#fbbf24}
+/* archetype: inspectionLight — light background, teal + slate palette */
+.page { background: #fff; color: #0f172a; }
 
-.page{background:#111827;color:#f8fafc}
-.hero{padding:clamp(4rem,9vw,7rem) 0;display:grid;gap:2rem}@media(min-width:900px){.hero{grid-template-columns:1fr 1fr;align-items:center}}
-.title{font-size:clamp(2.4rem,5vw,3.8rem);color:#f8fafc}
-.shot{aspect-ratio:4/3;border-radius:1rem}
-.benefits{display:grid;gap:1rem;padding:2rem 0 4rem}@media(min-width:800px){.benefits{grid-template-columns:1fr 1fr}}
-.benefit{padding:1.5rem;border:1px solid rgba(255,255,255,.1);border-radius:1rem}
-.list{padding:0 0 5rem;max-width:40rem}
+/* ── Hero ── */
+.hero {
+  padding: clamp(3.5rem, 8vw, 6rem) 0;
+  background: linear-gradient(150deg, #f8fafc 0%, #f0fdf4 40%, #f0fdfa 100%);
+}
+.heroGrid {
+  display: grid;
+  gap: 3rem;
+  align-items: center;
+}
+@media (min-width: 900px) {
+  .heroGrid { grid-template-columns: 1fr 1fr; }
+}
+.heroText {}
+.heroTitle {
+  font-size: clamp(2.5rem, 5vw, 3.75rem);
+  color: #0f172a;
+  margin-top: 0.75rem;
+  max-width: 14ch;
+  line-height: 1.05;
+}
+.heroBody {
+  margin-top: 1rem;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: #64748b;
+  max-width: 40ch;
+}
+.heroFeatures {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid #d1fae5;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #065f46;
+}
+.heroCtas { margin-top: 1.75rem; }
+.heroImage {}
+.heroShot {
+  aspect-ratio: 3/4;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  box-shadow: 0 16px 48px rgba(15,23,42,.1);
+}
 
+/* ── Content sections ── */
+.sections {
+  padding: clamp(3rem, 7vw, 5.5rem) 0;
+  background: #fafaf9;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.secRow {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+  padding: clamp(2rem, 5vw, 3.5rem) 0;
+  border-bottom: 1px solid #f1f5f9;
+}
+.secRow:last-child { border-bottom: none; }
+@media (min-width: 900px) {
+  .secRow { grid-template-columns: 1fr 1fr; }
+  .secFlip .secText { order: 2; }
+  .secFlip .secMedia { order: 1; }
+  .secFlip .secFill { order: 1; }
+}
+.secText {}
+.secH2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  color: #0f172a;
+  margin-bottom: 0.75rem;
+  line-height: 1.25;
+}
+.bodyWrap { margin-top: 0.85rem; }
+.listWrap { margin-top: 1.25rem; }
+.secMedia {}
+.secShot {
+  aspect-ratio: 4/3;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  box-shadow: 0 8px 28px rgba(15,23,42,.08);
+}
+.secFill {}
+
+/* ── Checklists ── */
+.checkSection {
+  padding: clamp(3rem, 7vw, 5rem) 0;
+  background: #fff;
+}
+.checkHeading {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  color: #0f172a;
+  margin-bottom: 1.75rem;
+}
+.checkGrid {
+  display: grid;
+  gap: 1.25rem;
+}
+@media (min-width: 700px) { .checkGrid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1024px) { .checkGrid { grid-template-columns: repeat(3, 1fr); } }
+.checkCard {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  transition: box-shadow 0.25s ease;
+}
+.checkCard:hover {
+  box-shadow: 0 6px 20px rgba(15,23,42,.07);
+}
+
+/* ── CTA ── */
+.ctaSection {
+  padding: clamp(3rem, 7vw, 5rem) 0;
+  background: #f8fafc;
+}
+.ctaBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2.5rem 3rem;
+  background: linear-gradient(135deg, #0f766e 0%, #0d5f57 100%);
+  border-radius: 1.5rem;
+  box-shadow: 0 12px 40px rgba(15,118,110,.22);
+}
+.ctaTitle {
+  font-size: clamp(1.5rem, 2.5vw, 2.1rem);
+  color: #fff;
+  max-width: 28ch;
+}
+.ctaSub {
+  margin-top: 0.6rem;
+  font-size: 0.9375rem;
+  color: rgba(255,255,255,.75);
+  line-height: 1.65;
+  max-width: 40ch;
+}

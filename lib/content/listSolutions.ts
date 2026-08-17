@@ -5,6 +5,20 @@ import type { Locale, SolutionPage } from "@/lib/content/blocks";
 
 const PAGES_DIR = path.join(process.cwd(), "data", "pages");
 
+/** Application-kind content pages. */
+export function listApplicationSlugs(): string[] {
+  return listPageSlugs().filter((slug) => {
+    try {
+      const raw = JSON.parse(
+        fs.readFileSync(path.join(PAGES_DIR, `${slug}.json`), "utf8"),
+      ) as { pageKind?: string };
+      return raw.pageKind === "application";
+    } catch {
+      return false;
+    }
+  });
+}
+
 /** Solution-kind content pages (excludes marketing/legal orphans). */
 export function listSolutionSlugs(): string[] {
   return listPageSlugs().filter((slug) => {

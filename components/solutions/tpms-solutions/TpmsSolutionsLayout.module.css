@@ -1,13 +1,163 @@
-/* archetype: miniBleed */
-.page{background:#fff;color:#0f172a}
-.muted{color:#64748b}
-.accent{color:#0f766e}
+/* archetype: safetyGallery — light, teal accent */
+.page { background: #f8fafc; color: #0f172a; }
 
-.hero{position:relative;min-height:52dvh;display:grid;align-items:end;color:#fff;overflow:hidden;background:#0f172a}
-.heroInner{position:relative;z-index:1;padding:clamp(3rem,8vw,5rem) 0}
-.title{font-size:clamp(2.4rem,5.5vw,3.8rem);max-width:14ch;color:#fff}
-.body{max-width:42ch;color:rgba(255,255,255,.75);margin-top:1rem}
-.content{padding:clamp(3rem,7vw,5rem) 0 5rem;display:grid;gap:2rem}
-@media(min-width:900px){.content{grid-template-columns:1fr 1fr}}
-.shot{aspect-ratio:4/3;border-radius:1rem}
+/* ── Hero ── */
+.hero {
+  position: relative;
+  padding: clamp(3.5rem, 8vw, 6.5rem) 0 clamp(2.5rem, 6vw, 4rem);
+  background: linear-gradient(160deg, #fff 0%, #f0fdf4 45%, #f0fdfa 100%);
+  overflow: hidden;
+}
+.heroContent { position: relative; z-index: 1; max-width: 44rem; }
+.heroTitle {
+  font-size: clamp(2.5rem, 5.5vw, 3.75rem);
+  color: #0f172a;
+  margin-top: 0.75rem;
+  max-width: 16ch;
+  line-height: 1.04;
+}
+.heroSub {
+  margin-top: 1rem;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: #64748b;
+  max-width: 44ch;
+}
+.heroBadges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.5rem;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid #d1fae5;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #065f46;
+  white-space: nowrap;
+}
+.heroStripe {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #0f766e 0%, #0ea5e9 60%, #6366f1 100%);
+  opacity: 0.5;
+}
 
+/* ── Intro ── */
+.introSection {
+  padding: clamp(3.5rem, 8vw, 6rem) 0;
+  background: #fff;
+}
+.introGrid {
+  display: grid;
+  gap: 3rem;
+  align-items: center;
+}
+@media (min-width: 900px) {
+  .introGrid { grid-template-columns: 1fr 1fr; }
+}
+.introText {}
+.sectionH2 {
+  font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+  color: #0f172a;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+.bodyWrap { margin-top: 0.85rem; }
+.ctaRow { margin-top: 2rem; }
+.introShot {
+  aspect-ratio: 16/9;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  box-shadow: 0 12px 40px rgba(15,23,42,.1);
+}
+
+/* ── Content sections ── */
+.contentSection {
+  padding: clamp(2.5rem, 6vw, 4.5rem) 0;
+  background: #fafaf9;
+}
+.contentBlock {
+  max-width: 56rem;
+  margin: 0 auto 2.5rem;
+  padding: 2rem 2.5rem;
+  background: #fff;
+  border-radius: 1rem;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 16px rgba(15,23,42,.04);
+}
+.contentBlock:last-child { margin-bottom: 0; }
+.contentH2 {
+  font-size: clamp(1.3rem, 2.2vw, 1.75rem);
+  color: #0f172a;
+  margin-bottom: 0.75rem;
+  line-height: 1.25;
+}
+
+/* ── Gallery ── */
+.gallerySection {
+  padding: clamp(3rem, 7vw, 5.5rem) 0;
+  background: #fff;
+}
+.galleryHeading {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  color: #0f172a;
+  margin-bottom: 1.75rem;
+}
+.galleryGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+@media (max-width: 700px) { .galleryGrid { grid-template-columns: repeat(2, 1fr); } }
+.galleryItem {
+  position: relative;
+  aspect-ratio: 4/3;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: #f1f5f9;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.galleryItem:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 24px rgba(15,23,42,.12);
+}
+.galleryImg { object-fit: cover; }
+
+/* ── CTA ── */
+.ctaSection {
+  padding: clamp(3rem, 7vw, 5rem) 0;
+  background: #f8fafc;
+}
+.ctaInner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2.5rem 3rem;
+  background: linear-gradient(135deg, #0f766e 0%, #0d6660 100%);
+  border-radius: 1.5rem;
+  box-shadow: 0 12px 40px rgba(15,118,110,.25);
+}
+.ctaTitle {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  color: #fff;
+  max-width: 28ch;
+}
+.ctaSub {
+  margin-top: 0.5rem;
+  font-size: 0.9375rem;
+  color: rgba(255,255,255,.75);
+  line-height: 1.65;
+  max-width: 36ch;
+}

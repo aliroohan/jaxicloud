@@ -10,7 +10,6 @@ import {
   Breadcrumb,
   DemoCta,
   Eyebrow,
-  FeatureTile,
   IconList,
   SolutionShell,
   Wrap,
@@ -29,52 +28,146 @@ export function SafeStartLayout({
 }: SolutionLayoutProps) {
   const title = page.titles[locale] || page.titles.en || page.slug;
   const sections = sectionize(page.blocks, locale);
-  const images = resolveAll(page.blocks.filter((b) => b.type === "image" || b.type === "gallery"), locale);
-  const features = resolveAll(page.blocks.filter((b) => b.type === "featureCard"), locale);
-  const lists = resolveAll(page.blocks.filter((b) => b.type === "iconList"), locale);
+  const images = resolveAll(
+    page.blocks.filter((b) => b.type === "image"),
+    locale,
+  );
+  const lists = resolveAll(
+    page.blocks.filter((b) => b.type === "iconList"),
+    locale,
+  );
+
   const heroTitle = headingText(sections[0]?.heading) || title;
-  const heroBody = bodyText(sections[0]?.bodies[0]) || bodyText(sections[1]?.bodies[0]) || "";
+  const heroBody =
+    bodyText(sections[0]?.bodies[0]) || bodyText(sections[1]?.bodies[0]) || "";
+
+  // First hero image
+  const heroImage = images[0];
+
+  // Content sections (skip section 0 = hero)
+  const contentSections = sections.slice(1);
 
   return (
     <SolutionShell className={styles.page}>
+      {/* Breadcrumb */}
       <Wrap>
         <Breadcrumb
-          localeHref={withLocale(locale, "/solutions")}
+          localeHref={withLocale(locale, "/applications")}
           label={eyebrow}
           title={title}
         />
       </Wrap>
 
-      <Wrap>
-        <section className={styles.hero}>
-          <div>
-            <Eyebrow light>{eyebrow}</Eyebrow>
-            <h1 className={`${p.display} ${styles.title}`}>{heroTitle}</h1>
-            {heroBody ? <p className={styles.muted} style={{marginTop:"1.1rem",lineHeight:1.7}}>{heroBody}</p> : null}
-            <div style={{marginTop:"1.5rem"}}><DemoCta href={contactHref} label={requestDemoLabel} variant="onDark" /></div>
+      {/* Hero — split layout: text left, image right */}
+      <section className={styles.hero}>
+        <Wrap>
+          <div className={styles.heroGrid}>
+            <div className={styles.heroText}>
+              <Eyebrow>{eyebrow}</Eyebrow>
+              <h1 className={`${p.display} ${styles.heroTitle}`}>{heroTitle}</h1>
+              {heroBody && (
+                <p className={styles.heroBody}>{heroBody}</p>
+              )}
+              <div className={styles.heroFeatures}>
+                <span className={styles.chip}>📋 Vehicle Inspection</span>
+                <span className={styles.chip}>📱 Mobile App</span>
+                <span className={styles.chip}>🖥 Web Dashboard</span>
+              </div>
+              <div className={styles.heroCtas}>
+                <DemoCta href={contactHref} label={requestDemoLabel} />
+              </div>
+            </div>
+            {heroImage && (
+              <div className={styles.heroImage}>
+                <BlockMedia block={heroImage} className={styles.heroShot} priority />
+              </div>
+            )}
           </div>
-          {images[0] ? <BlockMedia block={images[0]} className={styles.shot} priority /> : null}
-        </section>
-        <div className={styles.benefits}>
-          {sections.slice(1,5).map((sec, i) => (
-            <div key={sec.heading?.block.id || i} className={styles.benefit}>
-              {headingText(sec.heading) ? <h2 className={p.display} style={{fontSize:"1.35rem",color:"#fff"}}>{headingText(sec.heading)}</h2> : null}
-              {sec.bodies.map((b) => <div key={b.block.id} className={styles.muted} style={{marginTop:".65rem"}}><BlockProse block={b} /></div>)}
-              {sec.images[0] ? <div style={{marginTop:"1rem"}}><BlockMedia block={sec.images[0]} className={styles.shot} /></div> : null}
-            </div>
-          ))}
-        </div>
-        <div className={styles.list}>
-          {lists[0] ? <IconList block={lists[0]} /> : null}
-          {sections.slice(5).map((sec, i) => (
-            <div key={sec.heading?.block.id || i} style={{marginTop:"1.5rem"}}>
-              {headingText(sec.heading) ? <h2 className={p.display} style={{fontSize:"1.4rem",color:"#fff"}}>{headingText(sec.heading)}</h2> : null}
-              {sec.bodies.map((b) => <div key={b.block.id} className={styles.muted} style={{marginTop:".65rem"}}><BlockProse block={b} /></div>)}
-            </div>
-          ))}
-        </div>
-      </Wrap>
+        </Wrap>
+      </section>
 
+      {/* Content sections — alternating with images */}
+      {contentSections.length > 0 && (
+        <section className={styles.sections}>
+          <Wrap>
+            {contentSections.map((sec, i) => {
+              const h = headingText(sec.heading);
+              const sectionImages = sec.images.length > 0
+                ? sec.images
+                : [images[i + 1]].filter(Boolean);
+              const hasImage = sectionImages.length > 0;
+
+              return (
+                <div
+                  key={sec.heading?.block.id || i}
+                  className={`${styles.secRow} ${i % 2 === 1 ? styles.secFlip : ""}`}
+                >
+                  <div className={styles.secText}>
+                    {h && (
+                      <h2 className={`${p.display} ${styles.secH2}`}>{h}</h2>
+                    )}
+                    {sec.bodies.map((b) => (
+                      <div key={b.block.id} className={styles.bodyWrap}>
+                        <BlockProse block={b} />
+                      </div>
+                    ))}
+                    {sec.list && (
+                      <div className={styles.listWrap}>
+                        <IconList block={sec.list} />
+                      </div>
+                    )}
+                  </div>
+                  {hasImage ? (
+                    <div className={styles.secMedia}>
+                      <BlockMedia
+                        block={sectionImages[0]!}
+                        className={styles.secShot}
+                      />
+                    </div>
+                  ) : (
+                    <div className={styles.secFill} />
+                  )}
+                </div>
+              );
+            })}
+          </Wrap>
+        </section>
+      )}
+
+      {/* Icon lists (checklists) */}
+      {lists.length > 0 && (
+        <section className={styles.checkSection}>
+          <Wrap>
+            <h2 className={`${p.display} ${styles.checkHeading}`}>
+              What Safe Start covers
+            </h2>
+            <div className={styles.checkGrid}>
+              {lists.map((l) => (
+                <div key={l.block.id} className={styles.checkCard}>
+                  <IconList block={l} />
+                </div>
+              ))}
+            </div>
+          </Wrap>
+        </section>
+      )}
+
+      {/* CTA */}
+      <section className={styles.ctaSection}>
+        <Wrap>
+          <div className={styles.ctaBox}>
+            <div>
+              <h2 className={`${p.display} ${styles.ctaTitle}`}>
+                Start your vehicle inspection journey
+              </h2>
+              <p className={styles.ctaSub}>
+                Reduce risk, ensure compliance, and improve driver accountability with Safe Start.
+              </p>
+            </div>
+            <DemoCta href={contactHref} label={requestDemoLabel} />
+          </div>
+        </Wrap>
+      </section>
     </SolutionShell>
   );
 }

@@ -17,7 +17,7 @@ interface MegaDropdownProps {
 
 const SOLUTIONS_4COL_DATA = [
   {
-    image: "/images/route_optimization.png",
+    image: "/images/route_optimization_light.png",
     links: [
       { label: "Constructor", href: "/solutions/constractor" },
       { label: "Lorry", href: "/solutions/lorry" },
@@ -27,7 +27,7 @@ const SOLUTIONS_4COL_DATA = [
     ]
   },
   {
-    image: "/images/fuel_control.png",
+    image: "/images/fuel_control_light.png",
     links: [
       { label: "Cooling monitoring", href: "/solutions/cooling-monitoring" },
       { label: "Logistics delivery", href: "/solutions/logistics-delivery-system" },
@@ -37,7 +37,7 @@ const SOLUTIONS_4COL_DATA = [
     ]
   },
   {
-    image: "/images/driver_safety.png",
+    image: "/images/driver_safety_light.png",
     links: [
       { label: "Fuel management System", href: "/solutions/fuel-management-system" },
       { label: "Tpms ebs cooling fuel monitoring", href: "/solutions/tpms-ebs-cooling-fuel-monitoring" },
@@ -46,7 +46,7 @@ const SOLUTIONS_4COL_DATA = [
     ]
   },
   {
-    image: "/images/compliance_reporting.png",
+    image: "/images/compliance_reporting_light.png",
     links: [
       { label: "Temperature monitoring", href: "/solutions/temperature-monitoring-work" },
       { label: "Geolocation of construction tools", href: "/solutions/geolocation-of-construction-tools" },
@@ -105,19 +105,19 @@ const APPLICATIONS_DATA = {
   col1Title: "Connectivity & Maintenance",
   col1Items: [
     {
-      href: "/applications/click-and-connect",
+      href: "/applications/click-connect",
       icon: Wifi,
       title: "Click & Connect",
       desc: "Whether you're just starting out or an existing customer, the easiest way to register your devices.",
     },
     {
-      href: "/applications/tacho-simpel",
+      href: "/applications/tacho-live",
       icon: Clock,
       title: "Tacho Simple",
       desc: "The complete solution for digital tachograph and driver time management to comply with EU regulations.",
     },
     {
-      href: "/applications/tpms",
+      href: "/applications/tpms-solutions",
       icon: AlertCircle,
       title: "TPMS Solutions",
       desc: "Our highly developed devices deliver unsurpassed quality, lowest life cycle costs, longest product life.",
@@ -132,24 +132,12 @@ const APPLICATIONS_DATA = {
       desc: "A modern digital solution for vehicle inspections, designed to improve fleet safety, compliance, and transparency.",
     },
     {
-      href: "/applications/driver-behaviour",
-      icon: Activity,
-      title: "Driver Behaviour",
-      desc: "Monitor driver performance, eco-driving events, and safety indicators in one simple dashboard.",
-    },
-    {
-      href: "/applications/platform",
+      href: "/applications/jaxicloud-platform",
       icon: MapPin,
       title: "Jaxicloud Platform",
       desc: "Global GPS tracking and fleet management solution for real-time monitoring and optimization across industries.",
     },
   ],
-  spotlight: {
-    tag: "FEATURED APPLICATION",
-    title: "JaxiCloud Platform",
-    desc: "A global GPS tracking and fleet management solution for real-time monitoring and optimization of vehicles, assets, and operations.",
-    href: "/applications/platform",
-  },
 } as const;
 
 type MegaSpotlight = {
@@ -163,7 +151,7 @@ function getMegaSpotlight(
   data: typeof PRODUCTS_DATA | typeof APPLICATIONS_DATA | null,
 ): MegaSpotlight | null {
   if (!data || !("spotlight" in data)) return null;
-  return data.spotlight as MegaSpotlight;
+  return (data as { spotlight?: MegaSpotlight }).spotlight ?? null;
 }
 
 const itemVariants: Variants = {
@@ -179,7 +167,9 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave, l
   const spotlight = getMegaSpotlight(data);
   const hasSpotlight = Boolean(spotlight);
   const solutionHref = (href: string) =>
-    href.startsWith("/solutions") ? withLocale(locale, href) : href;
+    href.startsWith("/solutions") || href.startsWith("/applications")
+      ? withLocale(locale, href)
+      : href;
 
   return (
     <motion.div
@@ -254,7 +244,7 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave, l
                       return (
                         <Link
                           key={item.href}
-                          href={item.href}
+                          href={solutionHref(item.href)}
                           onClick={onClose}
                           className={styles.megaItemCard}
                         >
@@ -280,7 +270,7 @@ export function MegaDropdown({ activeTab, onClose, onMouseEnter, onMouseLeave, l
                       return (
                         <Link
                           key={item.href}
-                          href={item.href}
+                          href={solutionHref(item.href)}
                           onClick={onClose}
                           className={styles.megaItemCard}
                         >

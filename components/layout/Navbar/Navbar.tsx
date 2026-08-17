@@ -30,7 +30,7 @@ const LANGUAGES = LOCALES.map((locale) => ({
 }));
 
 const NAV_ITEMS = [
-  { id: "products", label: "Products", href: "/products", hasMega: true },
+  { id: "products", label: "Products", href: "/products", hasMega: false },
   { id: "solutions", label: "Solutions", href: "/solutions", hasMega: true },
   { id: "applications", label: "Application", href: "/applications", hasMega: true },
   { id: "services", label: "Services", href: "/services", hasMega: false },
