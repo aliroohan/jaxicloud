@@ -1,0 +1,797 @@
+{
+  "id": 3602,
+  "slug": "nimbus-tur",
+  "canonicalSlug": "nimbus",
+  "locale": "tr",
+  "title": "NimBus – TUR",
+  "link": "https://www.jaxicloud.com/tr/nimbus-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3602,
+    "da": 2170,
+    "en": 37,
+    "de": 2571,
+    "fr": 2820,
+    "nl": 3020,
+    "nb": 3220,
+    "sv": 3413
+  },
+  "excerpt": "NimBus Toplu taşımayı yönetmek için yeni bir çözüm NimBus, uydu takip yazılımının temel işlevlerini ve rota yönetimi için tasarlanmış özel araçları içeren bir toplu taşıma yönetim sistemidir . Durakları oluşturmak, rotaları optimize etmek, araçları rotalara dağıtmak, programları yönetmek ve rota performansını gerçek zamanlı olarak izlemek için bu hizmeti kullanın. NimBus, sezgisel navigasyon ve kullanıcı dostu [&hellip;]",
+  "seo": {
+    "title": "NimBus - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T01:42:35",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "dedfd66",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dedfd66",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "NimBus",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-3386539",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f070dc9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f070dc9",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Toplu taşımayı yönetmek için yeni bir çözüm",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8bb60d9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "3dd3929",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3dd3929",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>NimBus, uydu takip yazılımının temel işlevlerini ve rota yönetimi için tasarlanmış özel araçları içeren bir toplu taşıma yönetim sistemidir . Durakları oluşturmak, rotaları optimize etmek, araçları rotalara dağıtmak, programları yönetmek ve rota performansını gerçek zamanlı olarak izlemek için bu hizmeti kullanın. NimBus, sezgisel navigasyon ve kullanıcı dostu arayüz, çevrimiçi izleme için uygun zaman çizelgesi ve olaya dayalı bildirimler, özel ACL sistemi ve üçüncü taraf yazılım entegrasyonu ve özel geliştirmeler için özel API içerir.</p>",
+      "bodyText": "NimBus, uydu takip yazılımının temel işlevlerini ve rota yönetimi için tasarlanmış özel araçları içeren bir toplu taşıma yönetim sistemidir . Durakları oluşturmak, rotaları optimize etmek, araçları rotalara dağıtmak, programları yönetmek ve rota performansını gerçek zamanlı olarak izlemek için bu hizmeti kullanın. NimBus, sezgisel navigasyon ve kullanıcı dostu arayüz, çevrimiçi izleme için uygun zaman çizelgesi ve olaya dayalı bildirimler, özel ACL sistemi ve üçüncü taraf yazılım entegrasyonu ve özel geliştirmeler için özel API içerir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8bb60d9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "240fabf",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-240fabf",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8bb60d9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "f673a60",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f673a60",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "​NimBus toplu taşıma yönetim yazılımı nasıl çalışır?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43623c0",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "250a052",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-250a052",
+        "elementor-widget__width-initial",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Tilføj eller importer stop",
+        "Opret ruter, tilføj tidsplaner og bind enheder",
+        "Planlæg fremtidige ture",
+        "Spor enhedens bevægelser i realtid",
+        "Generer detaljerede rapporter"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43623c0",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "576897d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-576897d",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Rota yönetimi yazılımının işlevselliği",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-f938fd9",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 4,
+      "elementorId": "7a5012a",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7a5012a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f0aefc00a6e8471ba432865001c95452mv2.png",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "0a0a235",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0a0a235",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "İşleme durağı",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "10726ff",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-10726ff",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Araç türüne göre tanımlanan durakları oluşturun ve içe aktarın; hızlı arama ve ayrıntılı açıklamayı kullanın.</span></span></p>",
+      "bodyText": "Araç türüne göre tanımlanan durakları oluşturun ve içe aktarın; hızlı arama ve ayrıntılı açıklamayı kullanın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "12e156b",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12e156b",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Rota kontrolü",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "6911f44",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6911f44",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "115aafc",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-115aafc",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/route-management.png",
+          "alt": "",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "625c588",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-625c588",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/rides.png",
+          "alt": "",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "9333057",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9333057",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Planlama",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "e22d050",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e22d050",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Programlar ve çalışma düzenleriyle etkin rotalara dayalı geziler planlayın.</span></span></p>",
+      "bodyText": "Programlar ve çalışma düzenleriyle etkin rotalara dayalı geziler planlayın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "78b42b0",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-78b42b0",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Çevrimiçi izleme",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "c335d38",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c335d38",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"color_37 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Geç/erken varışları ve rota sapmalarını kontrol etmek için kullanışlı zaman çizelgesini, hızlı bildirimleri ve çoklu haritalama seçeneklerini kullanın.</span></span></p>",
+      "bodyText": "Geç/erken varışları ve rota sapmalarını kontrol etmek için kullanışlı zaman çizelgesini, hızlı bildirimleri ve çoklu haritalama seçeneklerini kullanın.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "82ac28c",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82ac28c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/online-tracking.png",
+          "alt": "",
+          "width": 290,
+          "height": 181
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a10965",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 5,
+    "htmlBytes": 20958
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "id": 2732,
+  "slug": "contact-fr",
+  "canonicalSlug": "contact",
+  "locale": "fr",
+  "title": "Contact – FR",
+  "link": "https://www.jaxicloud.com/fr/contact-fr/",
+  "pageKind": "marketing",
+  "translations": {
+    "fr": 2732,
+    "da": 2076,
+    "en": 226,
+    "de": 2475,
+    "nl": 2936,
+    "nb": 3130,
+    "sv": 3323,
+    "tr": 3517
+  },
+  "excerpt": "Coordonnées​ Contact Form Contact us Page First NameLast NameEmailSubjectBodySubmit Form Adresse de contact : Si vous rencontrez le moindre problème, n’hésitez pas à contacter notre équipe d’assistance à tout moment et de n’importe où. +45 92 90 90 10 info@jaxicloud.com support@jaxicloud.com Greve Main 38 DK–2670 Greve Suivez-nous: Linkedin",
+  "seo": {
+    "title": "Coordonnées - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-18T01:06:20",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "121d049",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-121d049",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Coordonnées​",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-aff4384",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "5b9b4a8f",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5b9b4a8f",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "b7e5999",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b7e5999",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Adresse de contact :",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "7f55341e",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7f55341e",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Si vous rencontrez le moindre problème, n’hésitez pas à contacter notre équipe d’assistance à tout moment et de n’importe où.</p>",
+      "bodyText": "Si vous rencontrez le moindre problème, n’hésitez pas à contacter notre équipe d’assistance à tout moment et de n’importe où.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "6b8cf622",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6b8cf622",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "+45 92 90 90 10",
+        "info@jaxicloud.com support@jaxicloud.com",
+        "Greve Main 38 DK–2670 Greve"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4b89154",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4b89154",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Suivez-nous:",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2a8bc6b4",
+      "widgetType": "social-icons.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2a8bc6b4",
+        "elementor-shape-circle",
+        "e-grid-align-left",
+        "elementor-grid-1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-social-icons"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Linkedin",
+          "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7cdb95c4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "0a3e64b",
+      "widgetType": "google_maps.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0a3e64b",
+        "elementor-widget",
+        "elementor-widget-google_maps"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-452bca48",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 8,
+    "sectionCount": 3,
+    "htmlBytes": 14553
+  }
+}

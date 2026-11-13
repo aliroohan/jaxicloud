@@ -1,0 +1,879 @@
+{
+  "id": 17,
+  "slug": "services",
+  "canonicalSlug": "services",
+  "locale": "en",
+  "title": "Services",
+  "link": "https://www.jaxicloud.com/en/services/",
+  "pageKind": "marketing",
+  "translations": {
+    "en": 17,
+    "da": 2043,
+    "de": 2600,
+    "fr": 2847,
+    "nl": 3047,
+    "nb": 3247,
+    "sv": 3440,
+    "tr": 3629
+  },
+  "excerpt": "JAXICLOUD services JAXICLOUD RESCUE EUROPE – Services Online digital The future of Fleet Management: Become your own 24/7 control center Task management Purpose of the concept To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster [&hellip;]",
+  "seo": {
+    "title": "JAXICLOUD services - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:29:10",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "66c8a82",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66c8a82",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD services",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ec9aecf",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "c5f684f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5f684f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JAXICLOUD RESCUE EUROPE – Services Online digital The future of Fleet Management:</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Become your own 24/7</span>&nbsp;<span class=\"wixui-rich-text__text\">control center</span></p>",
+      "bodyText": "JAXICLOUD RESCUE EUROPE – Services Online digital The future of Fleet Management:Become your own 24/7 control center",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2d5ba94",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "534ac2f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-534ac2f",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Task management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "1b56085",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b56085",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Purpose of the concept",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0e11e7",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0e11e7",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11b562d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11b562d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7e9a1edc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e9a1edc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Services Online digital The future of fleet management: Become your own 24/7 emergency center",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "12acee8c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12acee8c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Purpose of the concept",
+      "bodyHtml": "<p>To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.</p>",
+      "bodyText": "To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "51aad7e5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51aad7e5",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Task list",
+      "bodyHtml": "<p>The task list shows tasks for today by default. To select a different time period or search and filter tasks by other criteria, follow the instructions on the Task Management page.</p>",
+      "bodyText": "The task list shows tasks for today by default. To select a different time period or search and filter tasks by other criteria, follow the instructions on the Task Management page.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "414ff94c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-414ff94c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD offers:",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Installation of all hardware</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Setting up Jaxicloud tasks and alarms Support, training and onboarding</span></p>",
+      "bodyText": "Installation of all hardwareSetting up Jaxicloud tasks and alarms Support, training and onboarding",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "fbb4037",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbb4037",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "How it works",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Real-time monitoring Direct data from trailers and trucks (EBS, TPMS, refrigeration machines, dashcams, FMS/CAN)Alarms for errors, breakdowns, temperature deviations or fuel consumption</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS and status from the entire fleet</span></p>",
+      "bodyText": "Real-time monitoring Direct data from trailers and trucks (EBS, TPMS, refrigeration machines, dashcams, FMS/CAN)Alarms for errors, breakdowns, temperature deviations or fuel consumptionLive GPS and status from the entire fleet",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ef10769",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ef10769",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "24/7 control",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">24/7 control – without paying for a third-party security center<br></span><span class=\"wixui-rich-text__text\">Shorter response time – own reaction or network<br></span><span class=\"wixui-rich-text__text\">Direct reporting and documentation</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Lower costs per task</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Possibility to invoice the help internally (or re-invoice)</span></p>",
+      "bodyText": "24/7 control – without paying for a third-party security centerShorter response time – own reaction or networkDirect reporting and documentationLower costs per taskPossibility to invoice the help internally (or re-invoice)",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "95503a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95503a2",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD Rescue Partner",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Shared network for outreach partners</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Rescue Plus: Jaxicloud’s use of its own 24/7 network</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">RescueSelf: Complete self-service with own vehicles</span></p>",
+      "bodyText": "Shared network for outreach partnersRescue Plus: Jaxicloud’s use of its own 24/7 networkRescueSelf: Complete self-service with own vehicles",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "397025ba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-397025ba",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Practical tasks",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "1c52548a",
+      "widgetType": "eael-feature-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c52548a",
+        "elementor-widget",
+        "elementor-widget-eael-feature-list"
+      ],
+      "heading": "All necessary information gathered in one place",
+      "bodyHtml": "<p class=\"eael-feature-list-content\">When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.</p><p class=\"eael-feature-list-content\">Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.</p><p class=\"eael-feature-list-content\">The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements.</p>",
+      "bodyText": "When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "All necessary information gathered in one place When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The tab displays key information for each task, including priority, status, assigned person, resolution, time, description, and the corresponding device name. Users can also open the linked task card to view additional details such as location, comments, device and driver information, geofences, and other data. The intuitive and easy-to-navigate interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.",
+        "Different interaction options for tasks Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. Certain actions, such as changing status or assignees, can be performed in bulk, enabling efficient editing of multiple tasks at once. Users can also execute commands directly from the task card or immediately contact the driver if necessary. This ensures thorough tracking of each task throughout its lifecycle until it is resolved and closed.",
+        "Task history is available at any time The tab collects and stores information about all tasks, including new ones and those that have already been resolved or rejected, providing access to a full history when needed. Users can sort tasks based on various criteria, such as date, status, or type, and review the details of each task, including the actions taken and the results. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "5e03d5b6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e03d5b6",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "alt": "",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "3fd3c73",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fd3c73",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Try Tasks now!",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "51eafcb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eafcb",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.</p>",
+      "bodyText": "Tasks represents a significant step forward in Jaxicloud’s ongoing efforts to deliver more effective fleet management tools that help businesses stay efficient and organized. Fleet owners can now manage and respond to incidents more efficiently through a centralized interface, ensuring that all related tasks are assigned, tracked, and resolved correctly. The ability to review and analyze past tasks helps improve performance and collect statistical data. At the same time, the new tool expands Jaxicloud’s list of core features, enabling Jaxicloud’s partners to better meet customer needs without developing or integrating additional third-party solutions. We encourage our partners to share their thoughts on the new functionality via the feedback form on the Tasks tab or directly with the Wialon product team at info@jaxicloud.com . Your input and suggestions will guide the future development of this feature. If you are not yet a Jaxicloud partner, but would like to try the Tasks feature and explore the many other options that Wialon offers, please contact us at sales@jaxicloud.com — we will be happy to help you.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "9a2fb98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9a2fb98",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Contact",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-221ead1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "1987d86",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1987d86",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-623af3b",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 8,
+    "htmlBytes": 34354
+  }
+}

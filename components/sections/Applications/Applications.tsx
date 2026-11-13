@@ -4,13 +4,14 @@ import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Smartphone, Shield, Gauge, Radio, ArrowRight } from "lucide-react";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
 import styles from "./Applications.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-export function Applications() {
+export function Applications({ copy }: { copy: HomeCopy }) {
   const sectionRef = useRef<HTMLDivElement>(null);
   const textContainerRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
@@ -136,25 +137,25 @@ export function Applications() {
         {/* Left Side: Storytelling Text */}
         <div ref={textContainerRef} className={styles.contentBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
-            FLEET APPLICATIONS
+            {copy.appsTag}
           </div>
           <h2 className={styles.title}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>Applications to</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.appsTitleLine1}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>make your business</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.appsTitleLine2}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.highlight}`}>easier</span>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.highlight}`}>{copy.appsTitleLine3}</span>
             </span>
           </h2>
           <p ref={addToStagger} className={styles.desc}>
-            Use one of our carefully developed applications that makes your business easier. If you want to track tachograph states, tire states or do the vehicle and trailer inspection, solutions such as Tacho Simple, Safe Start or TPMS will help your logistics to faster get to the information and organize your fleet.
+            {copy.appsDesc}
           </p>
           <div ref={addToStagger}>
             <button className={styles.learnMoreBtn}>
-              Learn More
+              {copy.appsCta}
               <ArrowRight className="w-4 h-4" />
             </button>
           </div>
@@ -172,7 +173,7 @@ export function Applications() {
             <div className={styles.iconPod}>
               <Smartphone className="w-8 h-8" />
             </div>
-            <h3 className={styles.cardTitle}>Click and connect</h3>
+            <h3 className={styles.cardTitle}>{copy.appsCard1}</h3>
           </div>
 
           {/* Card 2: Safe start */}
@@ -180,7 +181,7 @@ export function Applications() {
             <div className={styles.iconPod}>
               <Shield className="w-8 h-8" />
             </div>
-            <h3 className={styles.cardTitle}>Safe start</h3>
+            <h3 className={styles.cardTitle}>{copy.appsCard2}</h3>
           </div>
 
           {/* Card 3: Tacho simple */}
@@ -188,7 +189,7 @@ export function Applications() {
             <div className={styles.iconPod}>
               <Gauge className="w-8 h-8" />
             </div>
-            <h3 className={styles.cardTitle}>Tacho simple</h3>
+            <h3 className={styles.cardTitle}>{copy.appsCard3}</h3>
           </div>
 
           {/* Card 4: TPMS */}
@@ -196,7 +197,7 @@ export function Applications() {
             <div className={styles.iconPod}>
               <Radio className="w-8 h-8" />
             </div>
-            <h3 className={styles.cardTitle}>TPMS</h3>
+            <h3 className={styles.cardTitle}>{copy.appsCard4}</h3>
           </div>
 
         </div>

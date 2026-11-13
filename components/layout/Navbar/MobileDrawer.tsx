@@ -14,14 +14,8 @@ interface MobileDrawerProps {
 const MOBILE_NAV_LINKS = [
   {
     href: "/products",
-    label: "Products Catalog",
+    label: "Products",
     icon: <Layers className="w-5 h-5" />,
-    items: [
-      { href: "/products/dashcams", label: "AI Dashcams" },
-      { href: "/products/gps", label: "GPS Tracking" },
-      { href: "/products/eld", label: "ELD Compliance" },
-      { href: "/products/sensors", label: "Environment Sensors" },
-    ]
   },
   {
     href: "/solutions",

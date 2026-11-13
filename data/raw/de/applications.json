@@ -1,0 +1,109 @@
+{
+  "id": 2460,
+  "slug": "applications-de",
+  "canonicalSlug": "applications",
+  "locale": "de",
+  "title": "Applications DE",
+  "link": "https://www.jaxicloud.com/de/applications-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2460,
+    "da": 2054,
+    "en": 1304,
+    "fr": 2717,
+    "nl": 2921,
+    "nb": 3114,
+    "sv": 3307,
+    "tr": 3502
+  },
+  "excerpt": "Anwendungen Click & Connect Login Tacho Simple Login TPMS Login Sicherer Start Login Driver Behaviour Login Tacho Simple Driver Portal Login Safe start Driver Portal Login TPMS Driver Portal Login Driver Behaviour Driver Portal Login Jaxicloud Vision Login",
+  "seo": {
+    "title": "Anwendungen - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-06-04T10:54:24",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "cdf3cbb",
+      "widgetType": "eael-login-register.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cdf3cbb",
+        "stax-condition-yes",
+        "stax-user_role_enabled-yes",
+        "elementor-widget",
+        "elementor-widget-eael-login-register"
+      ],
+      "heading": "Anmeldeseite",
+      "bodyHtml": "<p>Um den Seiteninhalt anzuzeigen, müssen Sie angemeldet sein.</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Erinnere dich an mich</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Passwort vergessen?</a></p>",
+      "bodyText": "Um den Seiteninhalt anzuzeigen, müssen Sie angemeldet sein. Erinnere dich an mich Passwort vergessen?",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Passwort vergessen?",
+          "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-0032644",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 2,
+      "elementorId": "fc4bad7",
+      "widgetType": "shortcode.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fc4bad7",
+        "elementor-widget",
+        "elementor-widget-shortcode"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e006030",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 2,
+    "sectionCount": 3,
+    "htmlBytes": 14457
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": 3367,
+  "slug": "fleetrun-fleet-volunteer-sv",
+  "canonicalSlug": "fleetrun-fleet-volunteer",
+  "locale": "sv",
+  "title": "FLEETRUN FLEET VOLUNTEER – SV",
+  "link": "https://www.jaxicloud.com/sv/fleetrun-fleet-volunteer-sv/",
+  "pageKind": "solution",
+  "translations": {
+    "sv": 3367,
+    "da": 2122,
+    "en": 82,
+    "de": 2515,
+    "fr": 2772,
+    "nl": 2978,
+    "nb": 3175,
+    "tr": 3557
+  },
+  "excerpt": "Fleetrun flottvolontär En lösning för hantering av flottunderhåll Webbapplikation för spårning av flottans underhåll: planering, kontroll och kostnadsregistrering. Vi utvecklade Fleetrun för dig som vill minska driftskostnader, undvika kritiska haverier och minska tiden du spenderar på servicestationer. Med den här applikationen kan du kontrollera alla typer av tjänster och utgifter för enskilda reservdelar, fordon och [&hellip;]",
+  "seo": {
+    "title": "Fleetrun flottvolontär - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T14:57:25",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "608dc4b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-608dc4b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Fleetrun flottvolontär",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-1df90b7",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "ca6f26f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ca6f26f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "En lösning för hantering av flottunderhåll",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "69e3075",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-69e3075",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Webbapplikation för spårning av flottans underhåll: planering, kontroll och kostnadsregistrering. Vi utvecklade Fleetrun för dig som vill minska driftskostnader, undvika kritiska haverier och minska tiden du spenderar på servicestationer. Med den här applikationen kan du kontrollera alla typer av tjänster och utgifter för enskilda reservdelar, fordon och till och med körsträcka. Fleetrun visar de tjänster som flottan behöver, deras intervall och kostnader.</p>",
+      "bodyText": "Webbapplikation för spårning av flottans underhåll: planering, kontroll och kostnadsregistrering. Vi utvecklade Fleetrun för dig som vill minska driftskostnader, undvika kritiska haverier och minska tiden du spenderar på servicestationer. Med den här applikationen kan du kontrollera alla typer av tjänster och utgifter för enskilda reservdelar, fordon och till och med körsträcka. Fleetrun visar de tjänster som flottan behöver, deras intervall och kostnader.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "59250f8",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-59250f8",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0654fc7a119d4bf5b21116938f54475amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "59fb7d2",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-59fb7d2",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hur flottunderhållssystemet fungerar",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43b8bcb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "42ce20b",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42ce20b",
+        "elementor-widget__width-initial",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Skapa en lista över enheter",
+        "Ange serviceintervall",
+        "arbeten och reservdelar",
+        "Lägg till uppgifter: verkstad och reservdelar"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43b8bcb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 6,
+    "sectionCount": 3,
+    "htmlBytes": 7444
+  }
+}

@@ -4,12 +4,12 @@ import React, { useState, useEffect, useRef } from "react";
 import gsap from "gsap";
 import { motion } from "framer-motion";
 import { CheckCircle2, Mail, MapPin, Phone, Send } from "lucide-react";
+import type { ContactCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ContactForm.module.css";
 
-const REQUEST_TYPES = ["Get Price Quote", "Book Live Demo", "Technical Integration", "General Inquiry"];
-
-export function ContactForm() {
-  const [requestType, setRequestType] = useState("Get Price Quote");
+export function ContactForm({ copy }: { copy: ContactCopy }) {
+  const requestTypes = [copy.chipQuote, copy.chipDemo, copy.chipIntegration, copy.chipGeneral];
+  const [requestType, setRequestType] = useState(copy.chipQuote);
   const [status, setStatus]           = useState<"idle" | "loading" | "ok" | "error">("idle");
   const [error,  setError]            = useState("");
 
@@ -138,12 +138,12 @@ export function ContactForm() {
       });
       if (!res.ok) {
         const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || "Failed to submit inquiry");
+        throw new Error(data.error || copy.errorFallback);
       }
       setStatus("ok");
     } catch (err) {
       setStatus("error");
-      setError(err instanceof Error ? err.message : "Failed to submit");
+      setError(err instanceof Error ? err.message : copy.errorGeneric);
     }
   }
 
@@ -155,19 +155,18 @@ export function ContactForm() {
         <div className={styles.topHeading}>
           <div className={styles.liveTag} ref={tagRef}>
             <span className={styles.pulseDot} />
-            Solutions Engineers Online
+            {copy.liveTag}
           </div>
           <h1 className={styles.heroHeading}>
             <span ref={line1Ref} style={{ display: "block", overflow: "hidden", paddingBottom: "0.05em" }}>
-              Let&apos;s build your
+              {copy.heroLine1}
             </span>
             <span ref={line2Ref} style={{ display: "block", overflow: "hidden", paddingBottom: "0.05em" }}>
-              <span className={styles.heroHeadingAccent}>fleet of tomorrow.</span>
+              <span className={styles.heroHeadingAccent}>{copy.heroLine2}</span>
             </span>
           </h1>
           <p className={styles.heroSub} ref={subRef}>
-            Speak directly with a senior telematics solutions architect. Request a live demo,
-            custom hardware pricing, or CANbus SDK specs. Average response: under&nbsp;15&nbsp;min.
+            {copy.heroSub}
           </p>
         </div>
 
@@ -178,6 +177,7 @@ export function ContactForm() {
           <div className={styles.videoPanel} ref={videoPanelRef}>
             <video
               autoPlay loop muted playsInline
+              preload="metadata"
               className={styles.video}
             >
               <source src="/video/seamless.mp4" type="video/mp4" />
@@ -189,27 +189,27 @@ export function ContactForm() {
             {status === "ok" ? (
               <div className={styles.successState}>
                 <CheckCircle2 className={styles.successIcon} />
-                <h3>Request Received!</h3>
-                <p>A solutions engineer will reach out within 15&nbsp;minutes.</p>
+                <h3>{copy.successTitle}</h3>
+                <p>{copy.successBody}</p>
                 <button
                   className={styles.submitBtn}
                   onClick={() => setStatus("idle")}
                   style={{ marginTop: "1.5rem" }}
                 >
-                  Send Another Request
+                  {copy.successAgain}
                 </button>
               </div>
             ) : (
               <>
                 <div ref={formTitleRef}>
-                  <div className={styles.formTitle}>Consultation Request</div>
+                  <div className={styles.formTitle}>{copy.formTitle}</div>
                   <div className={styles.formSubtitle}>
-                    Fill out the form and our team will reach out shortly.
+                    {copy.formSubtitle}
                   </div>
                 </div>
 
                 <div className={styles.chipRow} ref={chipsRef}>
-                  {REQUEST_TYPES.map((type) => (
+                  {requestTypes.map((type) => (
                     <button
                       key={type}
                       type="button"
@@ -226,45 +226,45 @@ export function ContactForm() {
 
                   <div className={styles.grid2} ref={addField}>
                     <div className={styles.fieldGroup}>
-                      <label className={styles.label}>Full Name</label>
-                      <input type="text" name="name" required placeholder="Jane Doe" className={styles.input} />
+                      <label className={styles.label}>{copy.labelName}</label>
+                      <input type="text" name="name" required placeholder={copy.placeholderName} className={styles.input} />
                     </div>
                     <div className={styles.fieldGroup}>
-                      <label className={styles.label}>Work Email</label>
-                      <input type="email" name="email" required placeholder="jane@company.com" className={styles.input} />
+                      <label className={styles.label}>{copy.labelEmail}</label>
+                      <input type="email" name="email" required placeholder={copy.placeholderEmail} className={styles.input} />
                     </div>
                   </div>
 
                   <div className={styles.grid2} ref={addField}>
                     <div className={styles.fieldGroup}>
-                      <label className={styles.label}>Company</label>
-                      <input type="text" name="company" placeholder="Acme Logistics" className={styles.input} />
+                      <label className={styles.label}>{copy.labelCompany}</label>
+                      <input type="text" name="company" placeholder={copy.placeholderCompany} className={styles.input} />
                     </div>
                     <div className={styles.fieldGroup}>
-                      <label className={styles.label}>Fleet Size</label>
+                      <label className={styles.label}>{copy.labelFleetSize}</label>
                       <div className={styles.selectWrap}>
                         <select name="fleetSize" className={styles.select}>
-                          <option value="1-50">1–50 Vehicles</option>
-                          <option value="51-200">51–200 Vehicles</option>
-                          <option value="201-1000">201–1,000 Vehicles</option>
-                          <option value="1000+">1,000+ Vehicles</option>
+                          <option value="1-50">{copy.fleetOpt1}</option>
+                          <option value="51-200">{copy.fleetOpt2}</option>
+                          <option value="201-1000">{copy.fleetOpt3}</option>
+                          <option value="1000+">{copy.fleetOpt4}</option>
                         </select>
                       </div>
                     </div>
                   </div>
 
                   <div className={styles.fieldGroup} ref={addField}>
-                    <label className={styles.label}>Phone (optional)</label>
-                    <input type="tel" name="phone" placeholder="+1 (555) 000-0000" className={styles.input} />
+                    <label className={styles.label}>{copy.labelPhone}</label>
+                    <input type="tel" name="phone" placeholder={copy.placeholderPhone} className={styles.input} />
                   </div>
 
                   <div className={styles.fieldGroup} style={{ flex: 1 }} ref={addField}>
-                    <label className={styles.label}>Message</label>
-                    <textarea name="message" placeholder="Tell us about your operational challenges…" className={styles.textarea} />
+                    <label className={styles.label}>{copy.labelMessage}</label>
+                    <textarea name="message" placeholder={copy.placeholderMessage} className={styles.textarea} />
                   </div>
 
                   <button type="submit" disabled={status === "loading"} className={styles.submitBtn} ref={submitRef}>
-                    {status === "loading" ? "Sending…" : "Submit Request"}
+                    {status === "loading" ? copy.submitting : copy.submit}
                     <Send size={16} />
                   </button>
                 </form>
@@ -276,9 +276,9 @@ export function ContactForm() {
         {/* ── INFO ROW: three cards below the main card ── */}
         <div className={styles.infoRow} ref={infoRowRef}>
           {[
-            { icon: <Phone size={17} />, label: "Enterprise Hotline",    value: "+1 (800) 555-JAXI" },
-            { icon: <Mail  size={17} />, label: "Solutions Engineering",  value: "solutions@jaxicloud.com" },
-            { icon: <MapPin size={17}/>, label: "Global Telematics Hubs", value: "San Jose, CA · Shenzhen" },
+            { icon: <Phone size={17} />, label: copy.infoHotlineLabel, value: copy.infoHotlineValue },
+            { icon: <Mail  size={17} />, label: copy.infoEmailLabel,   value: copy.infoEmailValue },
+            { icon: <MapPin size={17}/>, label: copy.infoHubsLabel,    value: copy.infoHubsValue },
           ].map((item, i) => (
             <motion.div
               key={i}

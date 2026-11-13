@@ -1,0 +1,3355 @@
+{
+  "slug": "lorry",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Lorry – DA",
+    "en": "Lorry",
+    "de": "Lorry – DE",
+    "fr": "Lorry – FR",
+    "nl": "Lorry – HL",
+    "nb": "Lorry – NO",
+    "sv": "Lorry – SV",
+    "tr": "Lorry – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Lorry - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/lorry-da/",
+    "en": "https://www.jaxicloud.com/en/lorry/",
+    "de": "https://www.jaxicloud.com/de/lorry-de/",
+    "fr": "https://www.jaxicloud.com/fr/lorry-fr/",
+    "nl": "https://www.jaxicloud.com/nl/lorry-hl/",
+    "nb": "https://www.jaxicloud.com/nb/lorry-no/",
+    "sv": "https://www.jaxicloud.com/sv/lorry-sv/",
+    "tr": "https://www.jaxicloud.com/tr/lorry-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Lastbil",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Lorry",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "JAXICLOUD VLOOTBEHEER",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "30+ flådestyringsprodukter er velegnede til en lang række forskellige køretøjer. Den avancerede information fra enhederne bruges af flådeejer på tværs af mange brancher, herunder logistik, kolde forsyningskæder, kurerer og langdistancelastbiler. Flådestyringsprodukter giver indsigt i brændstofniveauer, køretøjsdiagnostik og meget mere.",
+          "body": "30+ flådestyringsprodukter er velegnede til en lang række forskellige køretøjer. Den avancerede information fra enhederne bruges af flådeejer på tværs af mange brancher, herunder logistik, kolde forsyningskæder, kurerer og langdistancelastbiler. Flådestyringsprodukter giver indsigt i brændstofniveauer, køretøjsdiagnostik og meget mere.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">30+ flådestyringsprodukter er velegnede til en lang række forskellige køretøjer. Den avancerede information fra enhederne bruges af flådeejer på tværs af mange brancher, herunder logistik, kolde forsyningskæder, kurerer og langdistancelastbiler. Flådestyringsprodukter giver indsigt i brændstofniveauer, køretøjsdiagnostik og meget mere.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.",
+          "body": "30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">30+ fleet management products are suitable for a wide range of vehicles. The advanced information from the devices is used by fleet owners across many industries, including logistics, cold chain, courier and long-haul trucking. Fleet management products provide insight into fuel levels, vehicle diagnostics and more.\n\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Über 30 Flottenmanagementprodukte eignen sich für eine große Bandbreite unterschiedlicher Fahrzeuge. Die erweiterten Informationen der Geräte werden von Flottenbesitzern in zahlreichen Branchen genutzt, darunter Logistik, Kühlketten, Kurierdienste und Fernverkehr. Flottenmanagementprodukte bieten Einblick in Kraftstoffstände, Fahrzeugdiagnosen und mehr.",
+          "body": "Über 30 Flottenmanagementprodukte eignen sich für eine große Bandbreite unterschiedlicher Fahrzeuge. Die erweiterten Informationen der Geräte werden von Flottenbesitzern in zahlreichen Branchen genutzt, darunter Logistik, Kühlketten, Kurierdienste und Fernverkehr. Flottenmanagementprodukte bieten Einblick in Kraftstoffstände, Fahrzeugdiagnosen und mehr.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Über 30 Flottenmanagementprodukte eignen sich für eine große Bandbreite unterschiedlicher Fahrzeuge. Die erweiterten Informationen der Geräte werden von Flottenbesitzern in zahlreichen Branchen genutzt, darunter Logistik, Kühlketten, Kurierdienste und Fernverkehr. Flottenmanagementprodukte bieten Einblick in Kraftstoffstände, Fahrzeugdiagnosen und mehr.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Plus de 30 produits de gestion de flotte conviennent à une large gamme de véhicules. Les informations avancées fournies par ces appareils sont utilisées par les gestionnaires de flottes dans de nombreux secteurs, notamment la logistique, la chaîne du froid, la messagerie et le transport routier longue distance. Ces produits offrent un suivi précis du niveau de carburant, des diagnostics des véhicules et bien plus encore.",
+          "body": "Plus de 30 produits de gestion de flotte conviennent à une large gamme de véhicules. Les informations avancées fournies par ces appareils sont utilisées par les gestionnaires de flottes dans de nombreux secteurs, notamment la logistique, la chaîne du froid, la messagerie et le transport routier longue distance. Ces produits offrent un suivi précis du niveau de carburant, des diagnostics des véhicules et bien plus encore.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Plus de 30 produits de gestion de flotte conviennent à une large gamme de véhicules. Les informations avancées fournies par ces appareils sont utilisées par les gestionnaires de flottes dans de nombreux secteurs, notamment la logistique, la chaîne du froid, la messagerie et le transport routier longue distance. Ces produits offrent un suivi précis du niveau de carburant, des diagnostics des véhicules et bien plus encore.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Meer dan 30 fleetmanagementproducten zijn geschikt voor een breed scala aan voertuigen. De geavanceerde informatie van de apparaten wordt gebruikt door fleeteigenaren in diverse sectoren, waaronder logistiek, koelketen, koeriersdiensten en langeafstandstransport. Fleetmanagementproducten bieden inzicht in brandstofniveaus, voertuigdiagnostiek en meer.",
+          "body": "Meer dan 30 fleetmanagementproducten zijn geschikt voor een breed scala aan voertuigen. De geavanceerde informatie van de apparaten wordt gebruikt door fleeteigenaren in diverse sectoren, waaronder logistiek, koelketen, koeriersdiensten en langeafstandstransport. Fleetmanagementproducten bieden inzicht in brandstofniveaus, voertuigdiagnostiek en meer.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Meer dan 30 fleetmanagementproducten zijn geschikt voor een breed scala aan voertuigen. De geavanceerde informatie van de apparaten wordt gebruikt door fleeteigenaren in diverse sectoren, waaronder logistiek, koelketen, koeriersdiensten en langeafstandstransport. Fleetmanagementproducten bieden inzicht in brandstofniveaus, voertuigdiagnostiek en meer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Over 30 flåtestyringsprodukter passer for et bredt spekter av kjøretøy. Den avanserte informasjonen fra enhetene brukes av flåteeiere i mange bransjer, inkludert logistikk, kjølekjede, bud og langdistansetransport. Flåtestyringsprodukter gir innsikt i drivstoffnivåer, kjøretøydiagnostikk og mer.",
+          "body": "Over 30 flåtestyringsprodukter passer for et bredt spekter av kjøretøy. Den avanserte informasjonen fra enhetene brukes av flåteeiere i mange bransjer, inkludert logistikk, kjølekjede, bud og langdistansetransport. Flåtestyringsprodukter gir innsikt i drivstoffnivåer, kjøretøydiagnostikk og mer.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Over 30 flåtestyringsprodukter passer for et bredt spekter av kjøretøy. Den avanserte informasjonen fra enhetene brukes av flåteeiere i mange bransjer, inkludert logistikk, kjølekjede, bud og langdistansetransport. Flåtestyringsprodukter gir innsikt i drivstoffnivåer, kjøretøydiagnostikk og mer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fler än 30 produkter för vagnparkshantering är lämpliga för en mängd olika fordon. Den avancerade informationen från enheterna används av vagnparksägare inom många branscher, inklusive logistik, kylkedjor, budfirmor och fjärrtransporter. Produkter för vagnparkshantering ger insikt i bränslenivåer, fordonsdiagnostik och mer.",
+          "body": "Fler än 30 produkter för vagnparkshantering är lämpliga för en mängd olika fordon. Den avancerade informationen från enheterna används av vagnparksägare inom många branscher, inklusive logistik, kylkedjor, budfirmor och fjärrtransporter. Produkter för vagnparkshantering ger insikt i bränslenivåer, fordonsdiagnostik och mer.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Fler än 30 produkter för vagnparkshantering är lämpliga för en mängd olika fordon. Den avancerade informationen från enheterna används av vagnparksägare inom många branscher, inklusive logistik, kylkedjor, budfirmor och fjärrtransporter. Produkter för vagnparkshantering ger insikt i bränslenivåer, fordonsdiagnostik och mer.\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "30'dan fazla filo yönetim ürünü, çok çeşitli araçlar için uygundur. Cihazlardan elde edilen gelişmiş bilgiler, lojistik, soğuk zincir, kurye ve uzun mesafe taşımacılığı da dahil olmak üzere birçok sektördeki filo sahipleri tarafından kullanılmaktadır. Filo yönetim ürünleri, yakıt seviyeleri, araç teşhisleri ve daha fazlası hakkında bilgi sağlar.",
+          "body": "30'dan fazla filo yönetim ürünü, çok çeşitli araçlar için uygundur. Cihazlardan elde edilen gelişmiş bilgiler, lojistik, soğuk zincir, kurye ve uzun mesafe taşımacılığı da dahil olmak üzere birçok sektördeki filo sahipleri tarafından kullanılmaktadır. Filo yönetim ürünleri, yakıt seviyeleri, araç teşhisleri ve daha fazlası hakkında bilgi sağlar.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">30'dan fazla filo yönetim ürünü, çok çeşitli araçlar için uygundur. Cihazlardan elde edilen gelişmiş bilgiler, lojistik, soğuk zincir, kurye ve uzun mesafe taşımacılığı da dahil olmak üzere birçok sektördeki filo sahipleri tarafından kullanılmaktadır. Filo yönetim ürünleri, yakıt seviyeleri, araç teşhisleri ve daha fazlası hakkında bilgi sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "full",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_c148cc30c4c84d5e8a96c0e06cbd5f92mv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_c148cc30c4c84d5e8a96c0e06cbd5f92mv2.gif",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Flådens telematik I samarbejde med leasingselskabet og flådeejer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fleet telematics in collaboration with the leasing company and fleet owner​",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Flottentelematik in zusammenarbeit mit leasingunternehmen und flottenbesitzer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Télématique embarquée en collaboration avec la société de leasing et le propriétaire de la flotte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Vloottelematica in samenwerking met leasemaatschappij en vlooteigenaar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Flåtetelematikk i samarbeid med leasingselskapet og flåteeieren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Flotttelematik i samarbete med leasingföretaget och flottägaren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kiralama şirketi ve filo sahibi ile işbirliği içinde filo telematik sistemleri.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ved at fusionere det bedste fra telekommunikation og informatik tilbyder telematik unikke måder at overvåge et køretøj på. Fra varebiler- håndværksbiler til tunge lastbiler og lastbiler, fra en enkelt personbil til store flåder – der er en løsning for hver eneste kunde. Telematik er nøglen til effektiv ressourcestyring, optimering af omkostninger og sikkerhed på tværs af en række brancher.",
+          "bodyHtml": "<p>Ved at fusionere det bedste fra telekommunikation og informatik tilbyder telematik unikke måder at overvåge et køretøj på. Fra varebiler- håndværksbiler til tunge lastbiler og lastbiler, fra en enkelt personbil til store flåder – der er en løsning for hver eneste kunde. Telematik er nøglen til effektiv ressourcestyring, optimering af omkostninger og sikkerhed på tværs af en række brancher.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "By fusing the best of telecommunications and informatics, telematics offers unique ways to monitor a vehicle. From vans and utility vehicles to heavy trucks and lorries, from a single passenger car to large fleets – there is a solution for every customer. Telematics is the key to efficient resource management, cost optimization and safety across a range of industries.",
+          "bodyHtml": "<p>By fusing the best of telecommunications and informatics, telematics offers unique ways to monitor a vehicle. From vans and utility vehicles to heavy trucks and lorries, from a single passenger car to large fleets – there is a solution for every customer. Telematics is the key to efficient resource management, cost optimization and safety across a range of industries.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Durch die Kombination der besten Technologien aus Telekommunikation und Informatik bietet die Telematik einzigartige Möglichkeiten zur Überwachung eines Fahrzeugs. Vom Transporter und Handwerkerfahrzeug bis zum Schwerlast- und LKW, vom einzelnen Pkw bis zum großen Fuhrpark – für jeden Kunden gibt es eine Lösung. Telematik ist der Schlüssel zu effizientem Ressourcenmanagement, Kostenoptimierung und Sicherheit in zahlreichen Branchen.",
+          "bodyHtml": "<p>Durch die Kombination der besten Technologien aus Telekommunikation und Informatik bietet die Telematik einzigartige Möglichkeiten zur Überwachung eines Fahrzeugs. Vom Transporter und Handwerkerfahrzeug bis zum Schwerlast- und LKW, vom einzelnen Pkw bis zum großen Fuhrpark – für jeden Kunden gibt es eine Lösung. Telematik ist der Schlüssel zu effizientem Ressourcenmanagement, Kostenoptimierung und Sicherheit in zahlreichen Branchen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "En combinant le meilleur des télécommunications et de l’informatique, la télématique offre des solutions uniques pour le suivi des véhicules. Des fourgonnettes et utilitaires aux poids lourds, des voitures particulières aux grandes flottes, il existe une solution adaptée à chaque client. La télématique est essentielle à une gestion efficace des ressources, à l’optimisation des coûts et à la sécurité dans de nombreux secteurs d’activité.",
+          "bodyHtml": "<p>En combinant le meilleur des télécommunications et de l’informatique, la télématique offre des solutions uniques pour le suivi des véhicules. Des fourgonnettes et utilitaires aux poids lourds, des voitures particulières aux grandes flottes, il existe une solution adaptée à chaque client. La télématique est essentielle à une gestion efficace des ressources, à l’optimisation des coûts et à la sécurité dans de nombreux secteurs d’activité.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Door het beste van telecommunicatie en informatica te combineren, biedt telematica unieke manieren om een ​​voertuig te monitoren. Van bestelwagens en bedrijfswagens tot zware vrachtwagens en vrachtwagens, van een enkele personenauto tot grote wagenparken – er is een oplossing voor elke klant. Telematica is de sleutel tot efficiënt resourcebeheer, kostenoptimalisatie en veiligheid in diverse sectoren.",
+          "bodyHtml": "<p>Door het beste van telecommunicatie en informatica te combineren, biedt telematica unieke manieren om een ​​voertuig te monitoren. Van bestelwagens en bedrijfswagens tot zware vrachtwagens en vrachtwagens, van een enkele personenauto tot grote wagenparken – er is een oplossing voor elke klant. Telematica is de sleutel tot efficiënt resourcebeheer, kostenoptimalisatie en veiligheid in diverse sectoren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Ved å kombinere det beste innen telekommunikasjon og informatikk, tilbyr telematikk unike måter å overvåke et kjøretøy på. Fra varebiler og nyttekjøretøy til tunge lastebiler og lastebiler, fra en enkelt personbil til store flåter – det finnes en løsning for enhver kunde. Telematikk er nøkkelen til effektiv ressursstyring, kostnadsoptimalisering og sikkerhet på tvers av en rekke bransjer.",
+          "bodyHtml": "<p>Ved å kombinere det beste innen telekommunikasjon og informatikk, tilbyr telematikk unike måter å overvåke et kjøretøy på. Fra varebiler og nyttekjøretøy til tunge lastebiler og lastebiler, fra en enkelt personbil til store flåter – det finnes en løsning for enhver kunde. Telematikk er nøkkelen til effektiv ressursstyring, kostnadsoptimalisering og sikkerhet på tvers av en rekke bransjer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Genom att kombinera det bästa inom telekommunikation och informatik erbjuder telematik unika sätt att övervaka ett fordon. Från skåpbilar och nyttofordon till tunga lastbilar och lastbilar, från en enda personbil till stora flottor – det finns en lösning för varje kund. Telematik är nyckeln till effektiv resurshantering, kostnadsoptimering och säkerhet inom en rad olika branscher.",
+          "bodyHtml": "<p>Genom att kombinera det bästa inom telekommunikation och informatik erbjuder telematik unika sätt att övervaka ett fordon. Från skåpbilar och nyttofordon till tunga lastbilar och lastbilar, från en enda personbil till stora flottor – det finns en lösning för varje kund. Telematik är nyckeln till effektiv resurshantering, kostnadsoptimering och säkerhet inom en rad olika branscher.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Telekomünikasyon ve bilişim teknolojilerinin en iyi yönlerini bir araya getiren telematik, araçları izlemek için benzersiz yöntemler sunar. Minibüslerden ve ticari araçlardan ağır kamyonlara ve tırlara, tek bir binek otomobilden büyük filolara kadar her müşteri için bir çözüm mevcuttur. Telematik, çeşitli sektörlerde verimli kaynak yönetimi, maliyet optimizasyonu ve güvenlik için anahtar niteliğindedir.",
+          "bodyHtml": "<p>Telekomünikasyon ve bilişim teknolojilerinin en iyi yönlerini bir araya getiren telematik, araçları izlemek için benzersiz yöntemler sunar. Minibüslerden ve ticari araçlardan ağır kamyonlara ve tırlara, tek bir binek otomobilden büyük filolara kadar her müşteri için bir çözüm mevcuttur. Telematik, çeşitli sektörlerde verimli kaynak yönetimi, maliyet optimizasyonu ve güvenlik için anahtar niteliğindedir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "ctaButton",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MERE HER",
+              "href": "/leasing-control-da/"
+            }
+          ],
+          "ctaLabel": "SE MERE HER",
+          "ctaUrl": "/leasing-control-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/leasing-control/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/leasing-control/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr erfahren",
+              "href": "/de/leasing-control-de/"
+            }
+          ],
+          "ctaLabel": "Mehr erfahren",
+          "ctaUrl": "/de/leasing-control-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/leasing-control-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/leasing-control-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/leasing-control-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/leasing-control-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/leasing-control-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/leasing-control-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/leasing-control-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/leasing-control-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/leasing-control-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/leasing-control-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "heading",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Effetiv brændstofstyring med logitics levering og planlægnings værktøj",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Efficient fuel management with logitics delivery and planning tools",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Effizientes kraftstoffmanagement mit logistik-liefer- und planungstools",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion efficace du carburant grâce à des outils de planification et de livraison logistiques",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Efficiënt brandstofbeheer met logistieke leverings- en planningstools",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Effektiv drivstoffhåndtering med logistikkleverings- og planleggingsverktøy",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Effektiv bränslehantering med logistikleverans- och planeringsverktyg",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Lojistik teslimat ve planlama araçlarıyla verimli yakıt yönetimi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "richText",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Er en af ​​de vigtigste succesfaktorer for virksomheder i en lang række brancher. Uanset om du driver en lille leveringstjeneste eller administrerer en stor flåde, er effektiv styring af brændstofforbruget afgørende for at kontrollere omkostningerne, reducere miljøpåvirkningen og forblive konkurrencedygtig.",
+          "bodyHtml": "<p>Er en af ​​de vigtigste succesfaktorer for virksomheder i en lang række brancher. Uanset om du driver en lille leveringstjeneste eller administrerer en stor flåde, er effektiv styring af brændstofforbruget afgørende for at kontrollere omkostningerne, reducere miljøpåvirkningen og forblive konkurrencedygtig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Is one of the key success factors for businesses across a wide range of industries. Whether you run a small delivery service or manage a large fleet, effectively managing fuel consumption is essential to controlling costs, reducing environmental impact and remaining competitive.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Is one of the key success factors for businesses across a wide range of industries. Whether you run a small delivery service or manage a large fleet, effectively managing fuel consumption is essential to controlling costs, reducing environmental impact and remaining competitive.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Ist einer der wichtigsten Erfolgsfaktoren für Unternehmen verschiedenster Branchen. Unabhängig davon, ob Sie einen kleinen Lieferdienst betreiben oder eine große Flotte verwalten, ist eine effektive Verwaltung des Kraftstoffverbrauchs von entscheidender Bedeutung, um die Kosten unter Kontrolle zu halten, die Umweltbelastung zu reduzieren und wettbewerbsfähig zu bleiben.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Ist einer der wichtigsten Erfolgsfaktoren für Unternehmen verschiedenster Branchen. Unabhängig davon, ob Sie einen kleinen Lieferdienst betreiben oder eine große Flotte verwalten, ist eine effektive Verwaltung des Kraftstoffverbrauchs von entscheidender Bedeutung, um die Kosten unter Kontrolle zu halten, die Umweltbelastung zu reduzieren und wettbewerbsfähig zu bleiben.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "La maîtrise de la consommation de carburant est un facteur clé de succès pour les entreprises de nombreux secteurs. Que vous gériez un petit service de livraison ou une importante flotte de véhicules, une gestion efficace de la consommation est essentielle pour contrôler les coûts, réduire l’impact environnemental et rester compétitif.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">La maîtrise de la consommation de carburant est un facteur clé de succès pour les entreprises de nombreux secteurs. Que vous gériez un petit service de livraison ou une importante flotte de véhicules, une gestion efficace de la consommation est essentielle pour contrôler les coûts, réduire l’impact environnemental et rester compétitif.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Brandstofverbruik is een van de belangrijkste succesfactoren voor bedrijven in diverse sectoren. Of u nu een kleine bezorgdienst runt of een groot wagenpark beheert, effectief brandstofverbruik is essentieel om kosten te beheersen, de impact op het milieu te verminderen en concurrerend te blijven.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Brandstofverbruik is een van de belangrijkste succesfactoren voor bedrijven in diverse sectoren. Of u nu een kleine bezorgdienst runt of een groot wagenpark beheert, effectief brandstofverbruik is essentieel om kosten te beheersen, de impact op het milieu te verminderen en concurrerend te blijven.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Er en av de viktigste suksessfaktorene for bedrifter i en rekke bransjer. Enten du driver en liten leveringstjeneste eller administrerer en stor flåte, er effektiv styring av drivstofforbruket avgjørende for å kontrollere kostnader, redusere miljøpåvirkningen og forbli konkurransedyktig.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Er en av de viktigste suksessfaktorene for bedrifter i en rekke bransjer. Enten du driver en liten leveringstjeneste eller administrerer en stor flåte, er effektiv styring av drivstofforbruket avgjørende for å kontrollere kostnader, redusere miljøpåvirkningen og forbli konkurransedyktig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Är en av de viktigaste framgångsfaktorerna för företag inom en mängd olika branscher. Oavsett om du driver en liten leveranstjänst eller hanterar en stor flotta är det viktigt att effektivt hantera bränsleförbrukningen för att kontrollera kostnader, minska miljöpåverkan och förbli konkurrenskraftig.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Är en av de viktigaste framgångsfaktorerna för företag inom en mängd olika branscher. Oavsett om du driver en liten leveranstjänst eller hanterar en stor flotta är det viktigt att effektivt hantera bränsleförbrukningen för att kontrollera kostnader, minska miljöpåverkan och förbli konkurrenskraftig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yakıt tüketimi, çok çeşitli sektörlerdeki işletmeler için en önemli başarı faktörlerinden biridir. İster küçük bir teslimat hizmeti işletiyor olun, ister büyük bir filo yönetiyor olun, yakıt tüketimini etkin bir şekilde yönetmek, maliyetleri kontrol etmek, çevresel etkiyi azaltmak ve rekabetçi kalmak için çok önemlidir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Yakıt tüketimi, çok çeşitli sektörlerdeki işletmeler için en önemli başarı faktörlerinden biridir. İster küçük bir teslimat hizmeti işletiyor olun, ister büyük bir filo yönetiyor olun, yakıt tüketimini etkin bir şekilde yönetmek, maliyetleri kontrol etmek, çevresel etkiyi azaltmak ve rekabetçi kalmak için çok önemlidir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "ctaButton",
+      "order": 9,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MERE HER",
+              "href": "/logistics-delivery-system/"
+            }
+          ],
+          "ctaLabel": "SE MERE HER",
+          "ctaUrl": "/logistics-delivery-system/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/logistics-delivery-system-2/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/logistics-delivery-system-2/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr erfahren",
+              "href": "/de/logistics-delivery-system-de/"
+            }
+          ],
+          "ctaLabel": "Mehr erfahren",
+          "ctaUrl": "/de/logistics-delivery-system-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/logistics-delivery-system-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/logistics-delivery-system-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/logistics-delivery-system-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/logistics-delivery-system-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/logistics-delivery-system-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/logistics-delivery-system-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/logistics-delivery-system-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/logistics-delivery-system-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/logistics-delivery-system-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/logistics-delivery-system-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "heading",
+      "order": 10,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Udfordring kan løses med eco driving med overvågning og kørselsadfærdsanalyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Accurate fuel level monitoring with fleet maintenance",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Herausforderung kann durch eco-fahren mit überwachung und fahrverhaltensanalyse gelöst werden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance précise du niveau de carburant avec entretien de la flotte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Nauwkeurige brandstofniveaubewaking bij vlootonderhoud",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Nøyaktig drivstoffnivåovervåking med flåtevedlikehold",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Noggrann bränslenivåövervakning med flottunderhåll",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Filo bakımı ile birlikte doğru yakıt seviyesi takibi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "richText",
+      "order": 11,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Efterhånden som brændstofomkostningerne stiger, står vognmandsfirmaer ved en korsvej, tvunget til enten at hæve priserne eller acceptere økonomiske tab. Når man skal navigere i dette udfordrende scenarie, er et logisk udgangspunkt at prioritere brændstofovervågning og -optimering. Der er flere måder at reducere brændstofrelaterede omkostninger og flådens BRÆNDSTOFFORBRUGOptimal funktionalitet.Undgåelse af unødvendige omkostninger – løbende overvågning af køretøjsdata sikrer rettidig opdagelse af nedbrud.Detaljeret rapportering – få adgang til omfattende rapporter om brændstofforbrug og effektivitet, hvilket muliggør datadrevne beslutninger for at optimere flådestyringsstrategier.Miljøvenlig drift – hjælper med at reducere flådens CO2-fodaftryk ved at overvåge og optimere brændstofforbruget i overensstemmelse med bæredygtighedsmålene.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Efterhånden som brændstofomkostningerne stiger, står vognmandsfirmaer ved en korsvej, tvunget til enten at hæve priserne eller acceptere økonomiske tab. Når man skal navigere i dette udfordrende scenarie, er et logisk udgangspunkt at prioritere brændstofovervågning og -optimering. Der er flere måder at reducere brændstofrelaterede omkostninger og flådens</span></span></p><p>&nbsp;</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">BRÆNDSTOFFORBRUG</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Optimal funktionalitet.Undgåelse af unødvendige omkostninger – løbende overvågning af køretøjsdata sikrer rettidig opdagelse af nedbrud.Detaljeret rapportering – få adgang til omfattende rapporter om brændstofforbrug og effektivitet, hvilket muliggør datadrevne beslutninger for at optimere flådestyringsstrategier.Miljøvenlig drift – hjælper med at reducere flådens CO2-fodaftryk ved at overvåge og optimere brændstofforbruget i overensstemmelse med bæredygtighedsmålene.</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "As fuel costs rise, trucking companies are at a crossroads, forced to either raise prices or accept financial losses. When navigating this challenging scenario, a logical starting point is to prioritize fuel monitoring and optimization. There are several ways to reduce fuel-related costs and fleetFUEL CONSUMPTIONOptimal functionality. Avoid unnecessary costs – continuous monitoring of vehicle data ensures timely detection of breakdowns. Detailed reporting – access comprehensive reports on fuel consumption and efficiency, enabling data-driven decisions to optimize fleet management strategies. Environmentally friendly operation – helps reduce the fleet’s carbon footprint by monitoring and optimizing fuel consumption in line with sustainability goals.",
+          "bodyHtml": "<p>As fuel costs rise, trucking companies are at a crossroads, forced to either raise prices or accept financial losses. When navigating this challenging scenario, a logical starting point is to prioritize fuel monitoring and optimization. There are several ways to reduce fuel-related costs and fleet</p><p>FUEL CONSUMPTION</p><p>Optimal functionality. Avoid unnecessary costs – continuous monitoring of vehicle data ensures timely detection of breakdowns. Detailed reporting – access comprehensive reports on fuel consumption and efficiency, enabling data-driven decisions to optimize fleet management strategies. Environmentally friendly operation – helps reduce the fleet’s carbon footprint by monitoring and optimizing fuel consumption in line with sustainability goals.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Angesichts der steigenden Treibstoffpreise stehen die Speditionen vor einem Scheideweg: Sie müssen entweder die Preise erhöhen oder finanzielle Verluste hinnehmen. Bei der Bewältigung dieses anspruchsvollen Szenarios ist es ein logischer Ausgangspunkt, der Kraftstoffüberwachung und -optimierung Priorität einzuräumen. Es gibt mehrere Möglichkeiten, die Kraftstoffkosten und den Fuhrpark zu senkenKRAFTSTOFFVERBRAUCHOptimale Funktionalität. Vermeiden Sie unnötige Kosten – durch die kontinuierliche Überwachung der Fahrzeugdaten wird eine rechtzeitige Erkennung von Pannen gewährleistet. Detaillierte Berichte – Greifen Sie auf umfassende Berichte zu Kraftstoffverbrauch und -effizienz zu, die datengestützte Entscheidungen zur Optimierung von Flottenmanagementstrategien ermöglichen. Umweltfreundlicher Betrieb – trägt zur Reduzierung des CO2-Fußabdrucks der Flotte bei, indem der Kraftstoffverbrauch im Einklang mit Nachhaltigkeitszielen überwacht und optimiert wird.",
+          "bodyHtml": "<p>Angesichts der steigenden Treibstoffpreise stehen die Speditionen vor einem Scheideweg: Sie müssen entweder die Preise erhöhen oder finanzielle Verluste hinnehmen. Bei der Bewältigung dieses anspruchsvollen Szenarios ist es ein logischer Ausgangspunkt, der Kraftstoffüberwachung und -optimierung Priorität einzuräumen. Es gibt mehrere Möglichkeiten, die Kraftstoffkosten und den Fuhrpark zu senken</p><p>KRAFTSTOFFVERBRAUCH</p><p>Optimale Funktionalität. Vermeiden Sie unnötige Kosten – durch die kontinuierliche Überwachung der Fahrzeugdaten wird eine rechtzeitige Erkennung von Pannen gewährleistet. Detaillierte Berichte – Greifen Sie auf umfassende Berichte zu Kraftstoffverbrauch und -effizienz zu, die datengestützte Entscheidungen zur Optimierung von Flottenmanagementstrategien ermöglichen. Umweltfreundlicher Betrieb – trägt zur Reduzierung des CO2-Fußabdrucks der Flotte bei, indem der Kraftstoffverbrauch im Einklang mit Nachhaltigkeitszielen überwacht und optimiert wird.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Face à la hausse des prix du carburant, les entreprises de transport routier sont à la croisée des chemins : augmenter leurs tarifs ou accepter des pertes financières. Pour faire face à ce contexte difficile, il est essentiel de commencer par optimiser et surveiller la consommation de carburant. Plusieurs solutions permettent de réduire les coûts liés au carburant et d’optimiser la gestion de la flotte.CONSOMMATION DE CARBURANTFonctionnalité optimale. Évitez les dépenses inutiles : la surveillance continue des données des véhicules permet de détecter rapidement les pannes. Rapports détaillés : accédez à des rapports complets sur la consommation et l’efficacité du carburant, et prenez des décisions éclairées pour optimiser la gestion de votre flotte. Fonctionnement respectueux de l’environnement : réduisez l’empreinte carbone de votre flotte en surveillant et en optimisant la consommation de carburant conformément aux objectifs de développement durable.",
+          "bodyHtml": "<p>Face à la hausse des prix du carburant, les entreprises de transport routier sont à la croisée des chemins : augmenter leurs tarifs ou accepter des pertes financières. Pour faire face à ce contexte difficile, il est essentiel de commencer par optimiser et surveiller la consommation de carburant. Plusieurs solutions permettent de réduire les coûts liés au carburant et d’optimiser la gestion de la flotte.</p><p>CONSOMMATION DE CARBURANT</p><p>Fonctionnalité optimale. Évitez les dépenses inutiles : la surveillance continue des données des véhicules permet de détecter rapidement les pannes. Rapports détaillés : accédez à des rapports complets sur la consommation et l’efficacité du carburant, et prenez des décisions éclairées pour optimiser la gestion de votre flotte. Fonctionnement respectueux de l’environnement : réduisez l’empreinte carbone de votre flotte en surveillant et en optimisant la consommation de carburant conformément aux objectifs de développement durable.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Naarmate de brandstofkosten stijgen, staan ​​transportbedrijven voor een dilemma: ze moeten de prijzen verhogen of financiële verliezen accepteren. Bij het navigeren door deze uitdagende situatie is het een logisch startpunt om prioriteit te geven aan brandstofmonitoring en -optimalisatie. Er zijn verschillende manieren om brandstofgerelateerde kosten en het wagenpark te verlagen.BRANDSTOFVERBRUIKOptimale functionaliteit. Vermijd onnodige kosten – continue monitoring van voertuiggegevens zorgt voor tijdige detectie van storingen. Gedetailleerde rapportage – krijg toegang tot uitgebreide rapporten over brandstofverbruik en -efficiëntie, waardoor datagestuurde beslissingen mogelijk zijn om wagenparkbeheerstrategieën te optimaliseren. Milieuvriendelijke bedrijfsvoering – helpt de CO2-voetafdruk van het wagenpark te verkleinen door het brandstofverbruik te monitoren en te optimaliseren in lijn met duurzaamheidsdoelen.",
+          "bodyHtml": "<p>Naarmate de brandstofkosten stijgen, staan ​​transportbedrijven voor een dilemma: ze moeten de prijzen verhogen of financiële verliezen accepteren. Bij het navigeren door deze uitdagende situatie is het een logisch startpunt om prioriteit te geven aan brandstofmonitoring en -optimalisatie. Er zijn verschillende manieren om brandstofgerelateerde kosten en het wagenpark te verlagen.</p><p>BRANDSTOFVERBRUIK</p><p>Optimale functionaliteit. Vermijd onnodige kosten – continue monitoring van voertuiggegevens zorgt voor tijdige detectie van storingen. Gedetailleerde rapportage – krijg toegang tot uitgebreide rapporten over brandstofverbruik en -efficiëntie, waardoor datagestuurde beslissingen mogelijk zijn om wagenparkbeheerstrategieën te optimaliseren. Milieuvriendelijke bedrijfsvoering – helpt de CO2-voetafdruk van het wagenpark te verkleinen door het brandstofverbruik te monitoren en te optimaliseren in lijn met duurzaamheidsdoelen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Etter hvert som drivstoffkostnadene stiger, står lastebilselskaper ved et veiskille, tvunget til enten å heve prisene eller akseptere økonomiske tap. Når man navigerer i dette utfordrende scenariet, er et logisk utgangspunkt å prioritere drivstoffovervåking og optimalisering. Det finnes flere måter å redusere drivstoffrelaterte kostnader og flåteDRIVSTOFFORBRUKOptimal funksjonalitet. Unngå unødvendige kostnader – kontinuerlig overvåking av kjøretøydata sikrer rettidig oppdagelse av havarier. Detaljert rapportering – få tilgang til omfattende rapporter om drivstofforbruk og effektivitet, noe som muliggjør datadrevne beslutninger for å optimalisere strategier for flåtestyring. Miljøvennlig drift – bidrar til å redusere flåtens karbonavtrykk ved å overvåke og optimalisere drivstofforbruket i tråd med bærekraftsmål.",
+          "bodyHtml": "<p>Etter hvert som drivstoffkostnadene stiger, står lastebilselskaper ved et veiskille, tvunget til enten å heve prisene eller akseptere økonomiske tap. Når man navigerer i dette utfordrende scenariet, er et logisk utgangspunkt å prioritere drivstoffovervåking og optimalisering. Det finnes flere måter å redusere drivstoffrelaterte kostnader og flåte</p><p>DRIVSTOFFORBRUK</p><p>Optimal funksjonalitet. Unngå unødvendige kostnader – kontinuerlig overvåking av kjøretøydata sikrer rettidig oppdagelse av havarier. Detaljert rapportering – få tilgang til omfattende rapporter om drivstofforbruk og effektivitet, noe som muliggjør datadrevne beslutninger for å optimalisere strategier for flåtestyring. Miljøvennlig drift – bidrar til å redusere flåtens karbonavtrykk ved å overvåke og optimalisere drivstofforbruket i tråd med bærekraftsmål.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "I takt med att bränslen stiger står åkerierna vid ett vägskäl och tvingas antingen höja priserna eller acceptera ekonomiska förluster. När man navigerar i detta utmanande scenario är en logisk utgångspunkt att prioritera bränsleövervakning och optimering. Det finns flera sätt att minska bränslerelaterade kostnader och fordonsflottan.BRÄNSLEFÖRBRUKNINGOptimal funktionalitet. Undvik onödiga kostnader – kontinuerlig övervakning av fordonsdata säkerställer snabb upptäckt av haverier. Detaljerad rapportering – få tillgång till omfattande rapporter om bränsleförbrukning och effektivitet, vilket möjliggör datadrivna beslut för att optimera fleet management strategier. Miljövänlig drift – hjälper till att minska flottans koldioxidavtryck genom att övervaka och optimera bränsleförbrukningen i linje med hållbarhetsmålen.",
+          "bodyHtml": "<p>I takt med att bränslen stiger står åkerierna vid ett vägskäl och tvingas antingen höja priserna eller acceptera ekonomiska förluster. När man navigerar i detta utmanande scenario är en logisk utgångspunkt att prioritera bränsleövervakning och optimering. Det finns flera sätt att minska bränslerelaterade kostnader och fordonsflottan.</p><p>BRÄNSLEFÖRBRUKNING</p><p>Optimal funktionalitet. Undvik onödiga kostnader – kontinuerlig övervakning av fordonsdata säkerställer snabb upptäckt av haverier. Detaljerad rapportering – få tillgång till omfattande rapporter om bränsleförbrukning och effektivitet, vilket möjliggör datadrivna beslut för att optimera fleet management strategier. Miljövänlig drift – hjälper till att minska flottans koldioxidavtryck genom att övervaka och optimera bränsleförbrukningen i linje med hållbarhetsmålen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yakıt maliyetleri arttıkça, nakliye şirketleri bir yol ayrımında kalıyor; ya fiyatları artırmak ya da finansal kayıpları kabul etmek zorunda kalıyorlar. Bu zorlu senaryoda, mantıklı bir başlangıç ​​noktası yakıt izleme ve optimizasyonuna öncelik vermektir. Yakıtla ilgili maliyetleri ve filo verimliliğini azaltmanın çeşitli yolları vardır.YAKIT TÜKETİMİOptimal işlevsellik. Gereksiz maliyetlerden kaçının – araç verilerinin sürekli izlenmesi, arızaların zamanında tespit edilmesini sağlar. Detaylı raporlama – yakıt tüketimi ve verimliliği hakkında kapsamlı raporlara erişin, veriye dayalı kararlar alarak filo yönetim stratejilerini optimize edin. Çevre dostu işletme – sürdürülebilirlik hedeflerine uygun olarak yakıt tüketimini izleyerek ve optimize ederek filonun karbon ayak izini azaltmaya yardımcı olur.",
+          "bodyHtml": "<p>Yakıt maliyetleri arttıkça, nakliye şirketleri bir yol ayrımında kalıyor; ya fiyatları artırmak ya da finansal kayıpları kabul etmek zorunda kalıyorlar. Bu zorlu senaryoda, mantıklı bir başlangıç ​​noktası yakıt izleme ve optimizasyonuna öncelik vermektir. Yakıtla ilgili maliyetleri ve filo verimliliğini azaltmanın çeşitli yolları vardır.</p><p>YAKIT TÜKETİMİ</p><p>Optimal işlevsellik. Gereksiz maliyetlerden kaçının – araç verilerinin sürekli izlenmesi, arızaların zamanında tespit edilmesini sağlar. Detaylı raporlama – yakıt tüketimi ve verimliliği hakkında kapsamlı raporlara erişin, veriye dayalı kararlar alarak filo yönetim stratejilerini optimize edin. Çevre dostu işletme – sürdürülebilirlik hedeflerine uygun olarak yakıt tüketimini izleyerek ve optimize ederek filonun karbon ayak izini azaltmaya yardımcı olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "ctaButton",
+      "order": 12,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MERE HER",
+              "href": "/eco-drive-da/"
+            }
+          ],
+          "ctaLabel": "SE MERE HER",
+          "ctaUrl": "/eco-drive-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/eco-drive/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/eco-drive/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr erfahren",
+              "href": "/de/eco-drive-de/"
+            }
+          ],
+          "ctaLabel": "Mehr erfahren",
+          "ctaUrl": "/de/eco-drive-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/eco-drive-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/eco-drive-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/eco-drive-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/eco-drive-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/eco-drive-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/eco-drive-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/eco-drive-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/eco-drive-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/eco-drive-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/eco-drive-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "heading",
+      "order": 13,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Nøjagtig overvågning af brændstofniveauet med flådeveligeholdelse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Challenge can be solved with eco driving with monitoring and driving behavior analysis",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Präzise treibstoffstandsüberwachung mit flottenwartung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ce défi peut être relevé grâce à l'éco-conduite, associée à la surveillance et à l'analyse du comportement de conduite.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Uitdaging kan worden opgelost met eco-rijden door monitoring en rijgedragsanalyse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Utfordringen kan løses med økokjøring med overvåking og analyse av kjøreatferd",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Utmaningen kan lösas med sparsam körning med övervakning och körbeteendeanalys",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Bu zorluk, izleme ve sürüş davranışı analizi içeren çevre dostu sürüş ile çözülebilir.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "richText",
+      "order": 14,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Optimeret brændstofforbrug, reducerede omkostninger og forbedret overordnet effektivitet med brændstofovervågningsløsninger. Forebyggelse af højrisiko føreradfærd –JAXICLOUD FLEET MANAGEMENTGPS-enheder overvåger konstant førerens adfærd, reducerer risikoen for hård acceleration og opbremsning og sikrer optimalt brændstofforbrug. Skræddersyede løsninger til ethvert forretningsbehov – vi tilbyder en række forskellige løsninger, så kunderne kan vælge den mulighed, der passer bedst til deres behov. Flere brugsscenarier giver brugerdefinerbare muligheder",
+          "bodyHtml": "<p>Optimeret brændstofforbrug, reducerede omkostninger og forbedret overordnet effektivitet med brændstofovervågningsløsninger. Forebyggelse af højrisiko føreradfærd –</p><p>JAXICLOUD FLEET MANAGEMENT</p><p>GPS-enheder overvåger konstant førerens adfærd, reducerer risikoen for hård acceleration og opbremsning og sikrer optimalt brændstofforbrug. Skræddersyede løsninger til ethvert forretningsbehov – vi tilbyder en række forskellige løsninger, så kunderne kan vælge den mulighed, der passer bedst til deres behov. Flere brugsscenarier giver brugerdefinerbare muligheder</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Optimize fuel consumption, reduce costs and improve overall efficiency with fuel monitoring solutions. Prevent high-risk driver behavior –JAXICLOUD FLEET MANAGEMENTGPS devices constantly monitor driver behavior, reducing the risk of harsh acceleration and braking and ensuring optimal fuel consumption. Tailored solutions for every business need – we offer a variety of solutions so customers can choose the option that best suits their needs. Multiple usage scenarios provide customizable options",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Optimize fuel consumption, reduce costs and improve overall efficiency with fuel monitoring solutions. Prevent high-risk driver behavior –</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">JAXICLOUD FLEET MANAGEMENT</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">GPS devices constantly monitor driver behavior, reducing the risk of harsh acceleration and braking and ensuring optimal fuel consumption. Tailored solutions for every business need – we offer a variety of solutions so customers can choose the option that best suits their needs. Multiple usage scenarios provide customizable options</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Optimieren Sie den Kraftstoffverbrauch, senken Sie die Kosten und verbessern Sie die Gesamteffizienz mit Lösungen zur Kraftstoffüberwachung. Prävention von riskantem Fahrverhalten –JAXICLOUD FLOTTENMANAGEMENTGPS-Geräte überwachen ständig das Fahrerverhalten, verringern das Risiko von starkem Beschleunigen und Bremsen und sorgen für einen optimalen Kraftstoffverbrauch. Maßgeschneiderte Lösungen für jeden Geschäftsbedarf – wir bieten eine Vielzahl von Lösungen, sodass Kunden die Option wählen können, die ihren Anforderungen am besten entspricht. Mehrere Nutzungsszenarien bieten anpassbare Optionen",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">Optimieren Sie den Kraftstoffverbrauch, senken Sie die Kosten und verbessern Sie die Gesamteffizienz mit Lösungen zur Kraftstoffüberwachung. Prävention von riskantem Fahrverhalten –</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">JAXICLOUD FLOTTENMANAGEMENT</span></span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\">GPS-Geräte überwachen ständig das Fahrerverhalten, verringern das Risiko von starkem Beschleunigen und Bremsen und sorgen für einen optimalen Kraftstoffverbrauch. Maßgeschneiderte Lösungen für jeden Geschäftsbedarf – wir bieten eine Vielzahl von Lösungen, sodass Kunden die Option wählen können, die ihren Anforderungen am besten entspricht. Mehrere Nutzungsszenarien bieten anpassbare Optionen</span></span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Optimisez votre consommation de carburant, réduisez vos coûts et améliorez votre efficacité globale grâce à nos solutions de surveillance de la consommation. Prévenez les comportements à risque au volant.JAXICLOUD FLEET MANAGEMENTLes dispositifs GPS surveillent en permanence le comportement des conducteurs, réduisant ainsi les risques d’accélérations et de freinages brusques et garantissant une consommation de carburant optimale. Des solutions sur mesure pour chaque entreprise : nous proposons une gamme de solutions afin que chaque client puisse choisir celle qui lui convient le mieux. De multiples scénarios d’utilisation offrent des options personnalisables.",
+          "bodyHtml": "<p>Optimisez votre consommation de carburant, réduisez vos coûts et améliorez votre efficacité globale grâce à nos solutions de surveillance de la consommation. Prévenez les comportements à risque au volant.</p><p>JAXICLOUD FLEET MANAGEMENT</p><p>Les dispositifs GPS surveillent en permanence le comportement des conducteurs, réduisant ainsi les risques d’accélérations et de freinages brusques et garantissant une consommation de carburant optimale. Des solutions sur mesure pour chaque entreprise : nous proposons une gamme de solutions afin que chaque client puisse choisir celle qui lui convient le mieux. De multiples scénarios d’utilisation offrent des options personnalisables.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Optimaliseer het brandstofverbruik, verlaag de kosten en verbeter de algehele efficiëntie met oplossingen voor brandstofmonitoring. Voorkom risicovol rijgedrag –JAXICLOUD FLEET MANAGEMENTGPS-apparaten monitoren continu het rijgedrag van de bestuurder, waardoor het risico op abrupt accelereren en remmen wordt verminderd en een optimaal brandstofverbruik wordt gegarandeerd. Oplossingen op maat voor elke zakelijke behoefte – we bieden een breed scala aan oplossingen, zodat klanten de optie kunnen kiezen die het beste bij hun behoeften past. Verschillende gebruiksscenario’s bieden aanpasbare opties.",
+          "bodyHtml": "<p>Optimaliseer het brandstofverbruik, verlaag de kosten en verbeter de algehele efficiëntie met oplossingen voor brandstofmonitoring. Voorkom risicovol rijgedrag –</p><p>JAXICLOUD FLEET MANAGEMENT</p><p>GPS-apparaten monitoren continu het rijgedrag van de bestuurder, waardoor het risico op abrupt accelereren en remmen wordt verminderd en een optimaal brandstofverbruik wordt gegarandeerd. Oplossingen op maat voor elke zakelijke behoefte – we bieden een breed scala aan oplossingen, zodat klanten de optie kunnen kiezen die het beste bij hun behoeften past. Verschillende gebruiksscenario’s bieden aanpasbare opties.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Optimaliser drivstofforbruket, reduser kostnadene og forbedrer den generelle effektiviteten med løsninger for drivstoffovervåking. Forhindre høyrisiko-sjåføratferd –JAXICLOUD FLÅTEHÅNDTERINGGPS-enheter overvåker kontinuerlig sjåføratferd, reduserer risikoen for hard akselerasjon og bremsing og sikrer optimalt drivstofforbruk. Skreddersydde løsninger for ethvert forretningsbehov – vi tilbyr en rekke løsninger slik at kundene kan velge det alternativet som passer best for deres behov. Flere bruksscenarier gir tilpassbare alternativer",
+          "bodyHtml": "<p>Optimaliser drivstofforbruket, reduser kostnadene og forbedrer den generelle effektiviteten med løsninger for drivstoffovervåking. Forhindre høyrisiko-sjåføratferd –</p><p>JAXICLOUD FLÅTEHÅNDTERING</p><p>GPS-enheter overvåker kontinuerlig sjåføratferd, reduserer risikoen for hard akselerasjon og bremsing og sikrer optimalt drivstofforbruk. Skreddersydde løsninger for ethvert forretningsbehov – vi tilbyr en rekke løsninger slik at kundene kan velge det alternativet som passer best for deres behov. Flere bruksscenarier gir tilpassbare alternativer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Optimera bränsleförbrukningen, minska kostnaderna och förbättra den totala effektiviteten med bränsleövervakningslösningar. Förhindra högriskbeteende för förare –JAXICLOUD FLEET MANAGEMENTGPS-enheter övervakar ständigt förarens beteende, vilket minskar risken för hård acceleration och inbromsning och säkerställer optimal bränsleförbrukning. Skräddarsydda lösningar för alla affärsbehov – vi erbjuder en mängd olika lösningar så att kunderna kan välja det alternativ som bäst passar deras behov. Flera användningsscenarier ger anpassningsbara alternativ.",
+          "bodyHtml": "<p>Optimera bränsleförbrukningen, minska kostnaderna och förbättra den totala effektiviteten med bränsleövervakningslösningar. Förhindra högriskbeteende för förare –</p><p>JAXICLOUD FLEET MANAGEMENT</p><p>GPS-enheter övervakar ständigt förarens beteende, vilket minskar risken för hård acceleration och inbromsning och säkerställer optimal bränsleförbrukning. Skräddarsydda lösningar för alla affärsbehov – vi erbjuder en mängd olika lösningar så att kunderna kan välja det alternativ som bäst passar deras behov. Flera användningsscenarier ger anpassningsbara alternativ.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yakıt tüketimini optimize edin, maliyetleri düşürün ve genel verimliliği artırın; yakıt izleme çözümleriyle yüksek riskli sürücü davranışlarını önleyin.JAXICLOUD FİLO YÖNETİMİGPS cihazları, sürücü davranışlarını sürekli olarak izleyerek ani hızlanma ve frenleme riskini azaltır ve optimum yakıt tüketimini sağlar. Her işletme ihtiyacına özel çözümler – müşterilerimizin ihtiyaçlarına en uygun seçeneği belirleyebilmeleri için çeşitli çözümler sunuyoruz. Çoklu kullanım senaryoları, özelleştirilebilir seçenekler sunar.",
+          "bodyHtml": "<p>Yakıt tüketimini optimize edin, maliyetleri düşürün ve genel verimliliği artırın; yakıt izleme çözümleriyle yüksek riskli sürücü davranışlarını önleyin.</p><p>JAXICLOUD FİLO YÖNETİMİ</p><p>GPS cihazları, sürücü davranışlarını sürekli olarak izleyerek ani hızlanma ve frenleme riskini azaltır ve optimum yakıt tüketimini sağlar. Her işletme ihtiyacına özel çözümler – müşterilerimizin ihtiyaçlarına en uygun seçeneği belirleyebilmeleri için çeşitli çözümler sunuyoruz. Çoklu kullanım senaryoları, özelleştirilebilir seçenekler sunar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "ctaButton",
+      "order": 15,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SE MERE HER",
+              "href": "/fleetrun-fleet-volunteer-da/"
+            }
+          ],
+          "ctaLabel": "SE MERE HER",
+          "ctaUrl": "/fleetrun-fleet-volunteer-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/fleetrun-fleet-volunteer/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/fleetrun-fleet-volunteer/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr erfahren",
+              "href": "/de/fleetrun-fleet-volunteer-de/"
+            }
+          ],
+          "ctaLabel": "Mehr erfahren",
+          "ctaUrl": "/de/fleetrun-fleet-volunteer-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/fleetrun-fleet-volunteer-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/fleetrun-fleet-volunteer-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/fleetrun-fleet-volunteer-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/fleetrun-fleet-volunteer-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/fleetrun-fleet-volunteer-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/fleetrun-fleet-volunteer-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/fleetrun-fleet-volunteer-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/fleetrun-fleet-volunteer-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/fleetrun-fleet-volunteer-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/fleetrun-fleet-volunteer-tur/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "JaxiCloud – LX45 with BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "JaxiCloud – LX45 with BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "JaxiCloud – LX45 mit BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "JaxiCloud – LX45 avec BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "JaxiCloud – LX45 met BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "JaxiCloud – LX45 med BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "JaxiCloud – LX45 med BLE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "JaxiCloud – BLE özellikli LX45",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "The LX45 is more than just a device",
+          "body": "The LX45 is more than just a device",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">The LX45 is more than just a device\n \n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "The LX45 is more than just a device",
+          "body": "The LX45 is more than just a device",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">The LX45 is more than just a device\n \n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Das LX45 ist mehr als nur ein Gerät",
+          "body": "Das LX45 ist mehr als nur ein Gerät",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Das LX45 ist mehr als nur ein Gerät \n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Le LX45 est bien plus qu'un simple appareil",
+          "body": "Le LX45 est bien plus qu'un simple appareil",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Le LX45 est bien plus qu'un simple appareil</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "De LX45 is meer dan alleen een apparaat",
+          "body": "De LX45 is meer dan alleen een apparaat",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">De LX45 is meer dan alleen een apparaat</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "LX45 er mer enn bare en enhet",
+          "body": "LX45 er mer enn bare en enhet",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">\nLX45 er mer enn bare en enhet</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "LX45 är mer än bara en enhet",
+          "body": "LX45 är mer än bara en enhet",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">LX45 är mer än bara en enhet \n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "LX45, bir cihazdan çok daha fazlası.",
+          "body": "LX45, bir cihazdan çok daha fazlası.",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">LX45, bir cihazdan çok daha fazlası.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "heading",
+      "order": 18,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "LX45 er mere end blot en enhed, Den repræsenterer en banebrydende platform for telematikindustrien. LX-45 er en 4G PROFESSIONAL-enhed til avancerede applikationer med backup-batteri med høj kapacitet. Lx45 vil maksimere din flådes effektivitet med funktioner som FMS CAN-data (J1939), brændstof-CAN-data (J1708), fartskriver-live-data (K-Line), fjerndownload af fartskriverfiler og understøttelse af forskellige tredje parts RS232- eller RS485-enheder. Terminal er velegnet til applikationer som international logistik, køletransport, landbrug, byggeri og minedrift, sikkerhed og beredskabstjenester og endnu mere. Højdepunkter: Byg meget tilpassede telematikløsninger Bluetooth LE 5.4 til trådløs forbindelse og sensordækning Omfattende strømstyring Valgfrit batteri og IP-klassificeret tætning Flere muligheder for lednings- og installationsmuligheder Fjernstyringsplatform til scriptstyring og konfiguration Funktioner:",
+          "body": "LX45 er mere end blot en enhed, Den repræsenterer en banebrydende platform for telematikindustrien. LX-45 er en 4G PROFESSIONAL-enhed til avancerede applikationer med backup-batteri med høj kapacitet. Lx45 vil maksimere din flådes effektivitet med funktioner som FMS CAN-data (J1939), brændstof-CAN-data (J1708), fartskriver-live-data (K-Line), fjerndownload af fartskriverfiler og understøttelse af forskellige tredje parts RS232- eller RS485-enheder. Terminal er velegnet til applikationer som international logistik, køletransport, landbrug, byggeri og minedrift, sikkerhed og beredskabstjenester og endnu mere. Højdepunkter: Byg meget tilpassede telematikløsninger Bluetooth LE 5.4 til trådløs forbindelse og sensordækning Omfattende strømstyring Valgfrit batteri og IP-klassificeret tætning Flere muligheder for lednings- og installationsmuligheder Fjernstyringsplatform til scriptstyring og konfiguration Funktioner:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">LX45 er mere end blot en enhed,\n\n \n\nDen repræsenterer en banebrydende platform for telematikindustrien. LX-45 er en 4G PROFESSIONAL-enhed til avancerede applikationer med backup-batteri med høj kapacitet. Lx45 vil maksimere din flådes effektivitet med funktioner som FMS CAN-data (J1939), brændstof-CAN-data (J1708), fartskriver-live-data (K-Line), fjerndownload af fartskriverfiler og understøttelse af forskellige tredje parts RS232- eller RS485-enheder. Terminal er velegnet til applikationer som international logistik, køletransport, landbrug, byggeri og minedrift, sikkerhed og beredskabstjenester og endnu mere. Højdepunkter: Byg meget tilpassede telematikløsninger Bluetooth LE 5.4 til trådløs forbindelse og sensordækning Omfattende strømstyring Valgfrit batteri og IP-klassificeret tætning Flere muligheder for lednings- og installationsmuligheder Fjernstyringsplatform til scriptstyring og konfiguration Funktioner:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:",
+          "body": "It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">It represents a groundbreaking platform for the telematics industry. The LX-45 is a 4G PROFESSIONAL device for advanced applications with high capacity backup battery. The Lx45 will maximize your fleet efficiency with features such as FMS CAN data (J1939), fuel CAN data (J1708), tachograph live data (K-Line), remote download of tachograph files and support for various third party RS232 or RS485 devices. The terminal is suitable for applications such as international logistics, refrigerated transport, agriculture, construction and mining, security and emergency services and even more. Highlights: Build highly customized telematics solutions Bluetooth LE 5.4 for wireless connectivity and sensor coverage Comprehensive power management Optional battery and IP-rated sealing Multiple wiring and installation options Remote control platform for script management and configuration Features:\n\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Es stellt eine bahnbrechende Plattform für die Telematikbranche dar. Das LX-45 ist ein 4G PROFESSIONAL-Gerät für fortgeschrittene Anwendungen mit Backup-Akku mit hoher Kapazität. Der Lx45 maximiert die Effizienz Ihrer Flotte mit Funktionen wie FMS-CAN-Daten (J1939), Kraftstoff-CAN-Daten (J1708), Live-Daten des Fahrtenschreibers (K-Line), Remote-Download von Fahrtenschreiberdateien und Unterstützung für verschiedene RS232- oder RS485-Geräte von Drittanbietern. Das Terminal eignet sich für Anwendungsbereiche wie internationale Logistik, Kühltransporte, Landwirtschaft, Bau und Bergbau, Sicherheits- und Rettungsdienste und noch mehr. Highlights: Erstellen Sie hochgradig individuelle Telematiklösungen. Bluetooth LE 5.4 für drahtlose Konnektivität und Sensorabdeckung. Umfassendes Energiemanagement. Optionale Batterie und IP-geschützte Versiegelung. Mehrere Verkabelungs- und Installationsoptionen. Remote-Management-Plattform für Skriptverwaltung und -konfiguration. Funktionen:",
+          "body": "Es stellt eine bahnbrechende Plattform für die Telematikbranche dar. Das LX-45 ist ein 4G PROFESSIONAL-Gerät für fortgeschrittene Anwendungen mit Backup-Akku mit hoher Kapazität. Der Lx45 maximiert die Effizienz Ihrer Flotte mit Funktionen wie FMS-CAN-Daten (J1939), Kraftstoff-CAN-Daten (J1708), Live-Daten des Fahrtenschreibers (K-Line), Remote-Download von Fahrtenschreiberdateien und Unterstützung für verschiedene RS232- oder RS485-Geräte von Drittanbietern. Das Terminal eignet sich für Anwendungsbereiche wie internationale Logistik, Kühltransporte, Landwirtschaft, Bau und Bergbau, Sicherheits- und Rettungsdienste und noch mehr. Highlights: Erstellen Sie hochgradig individuelle Telematiklösungen. Bluetooth LE 5.4 für drahtlose Konnektivität und Sensorabdeckung. Umfassendes Energiemanagement. Optionale Batterie und IP-geschützte Versiegelung. Mehrere Verkabelungs- und Installationsoptionen. Remote-Management-Plattform für Skriptverwaltung und -konfiguration. Funktionen:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Es stellt eine bahnbrechende Plattform für die Telematikbranche dar. Das LX-45 ist ein 4G PROFESSIONAL-Gerät für fortgeschrittene Anwendungen mit Backup-Akku mit hoher Kapazität. Der Lx45 maximiert die Effizienz Ihrer Flotte mit Funktionen wie FMS-CAN-Daten (J1939), Kraftstoff-CAN-Daten (J1708), Live-Daten des Fahrtenschreibers (K-Line), Remote-Download von Fahrtenschreiberdateien und Unterstützung für verschiedene RS232- oder RS485-Geräte von Drittanbietern. Das Terminal eignet sich für Anwendungsbereiche wie internationale Logistik, Kühltransporte, Landwirtschaft, Bau und Bergbau, Sicherheits- und Rettungsdienste und noch mehr. Highlights: Erstellen Sie hochgradig individuelle Telematiklösungen. Bluetooth LE 5.4 für drahtlose Konnektivität und Sensorabdeckung. Umfassendes Energiemanagement. Optionale Batterie und IP-geschützte Versiegelung. Mehrere Verkabelungs- und Installationsoptionen. Remote-Management-Plattform für Skriptverwaltung und -konfiguration. Funktionen:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Il s'agit d'une plateforme révolutionnaire pour l'industrie télématique. Le LX-45 est un appareil 4G PROFESSIONNEL destiné aux applications avancées et doté d'une batterie de secours haute capacité. Le LX-45 optimisera l'efficacité de votre flotte grâce à des fonctionnalités telles que les données CAN FMS (J1939), les données CAN carburant (J1708), les données en temps réel du tachygraphe (ligne K), le téléchargement à distance des fichiers du tachygraphe et la compatibilité avec divers périphériques tiers RS232 ou RS485. Ce terminal convient à des applications telles que la logistique internationale, le transport frigorifique, l'agriculture, la construction et l'exploitation minière, les services de sécurité et d'urgence, et bien plus encore. Points forts : Création de solutions télématiques hautement personnalisées ; Bluetooth LE 5.4 pour une connectivité sans fil et une couverture étendue des capteurs ; Gestion complète de l'alimentation ; Batterie et étanchéité IP en option ; Nombreuses options de câblage et d'installation ; Plateforme de contrôle à distance pour la gestion et la configuration des scripts. Caractéristiques :",
+          "body": "Il s'agit d'une plateforme révolutionnaire pour l'industrie télématique. Le LX-45 est un appareil 4G PROFESSIONNEL destiné aux applications avancées et doté d'une batterie de secours haute capacité. Le LX-45 optimisera l'efficacité de votre flotte grâce à des fonctionnalités telles que les données CAN FMS (J1939), les données CAN carburant (J1708), les données en temps réel du tachygraphe (ligne K), le téléchargement à distance des fichiers du tachygraphe et la compatibilité avec divers périphériques tiers RS232 ou RS485. Ce terminal convient à des applications telles que la logistique internationale, le transport frigorifique, l'agriculture, la construction et l'exploitation minière, les services de sécurité et d'urgence, et bien plus encore. Points forts : Création de solutions télématiques hautement personnalisées ; Bluetooth LE 5.4 pour une connectivité sans fil et une couverture étendue des capteurs ; Gestion complète de l'alimentation ; Batterie et étanchéité IP en option ; Nombreuses options de câblage et d'installation ; Plateforme de contrôle à distance pour la gestion et la configuration des scripts. Caractéristiques :",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Il s'agit d'une plateforme révolutionnaire pour l'industrie télématique. Le LX-45 est un appareil 4G PROFESSIONNEL destiné aux applications avancées et doté d'une batterie de secours haute capacité. Le LX-45 optimisera l'efficacité de votre flotte grâce à des fonctionnalités telles que les données CAN FMS (J1939), les données CAN carburant (J1708), les données en temps réel du tachygraphe (ligne K), le téléchargement à distance des fichiers du tachygraphe et la compatibilité avec divers périphériques tiers RS232 ou RS485. Ce terminal convient à des applications telles que la logistique internationale, le transport frigorifique, l'agriculture, la construction et l'exploitation minière, les services de sécurité et d'urgence, et bien plus encore. Points forts : Création de solutions télématiques hautement personnalisées ; Bluetooth LE 5.4 pour une connectivité sans fil et une couverture étendue des capteurs ; Gestion complète de l'alimentation ; Batterie et étanchéité IP en option ; Nombreuses options de câblage et d'installation ; Plateforme de contrôle à distance pour la gestion et la configuration des scripts. Caractéristiques :</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Het vertegenwoordigt een baanbrekend platform voor de telematica-industrie. De LX-45 is een 4G PROFESSIONAL-apparaat voor geavanceerde toepassingen met een back-upbatterij met hoge capaciteit. De Lx45 maximaliseert de efficiëntie van uw wagenpark met functies zoals FMS CAN-gegevens (J1939), brandstof-CAN-gegevens (J1708), live tachograafgegevens (K-Line), het op afstand downloaden van tachograafbestanden en ondersteuning voor diverse RS232- of RS485-apparaten van derden. De terminal is geschikt voor toepassingen zoals internationale logistiek, koeltransport, landbouw, bouw en mijnbouw, beveiliging en hulpdiensten en nog veel meer. Hoogtepunten: Bouw zeer op maat gemaakte telematica-oplossingen Bluetooth LE 5.4 voor draadloze connectiviteit en sensordekking Uitgebreid energiebeheer Optionele batterij en IP-geclassificeerde afdichting Meerdere bedradings- en installatieopties Platform voor afstandsbediening voor scriptbeheer en configuratie Kenmerken:",
+          "body": "Het vertegenwoordigt een baanbrekend platform voor de telematica-industrie. De LX-45 is een 4G PROFESSIONAL-apparaat voor geavanceerde toepassingen met een back-upbatterij met hoge capaciteit. De Lx45 maximaliseert de efficiëntie van uw wagenpark met functies zoals FMS CAN-gegevens (J1939), brandstof-CAN-gegevens (J1708), live tachograafgegevens (K-Line), het op afstand downloaden van tachograafbestanden en ondersteuning voor diverse RS232- of RS485-apparaten van derden. De terminal is geschikt voor toepassingen zoals internationale logistiek, koeltransport, landbouw, bouw en mijnbouw, beveiliging en hulpdiensten en nog veel meer. Hoogtepunten: Bouw zeer op maat gemaakte telematica-oplossingen Bluetooth LE 5.4 voor draadloze connectiviteit en sensordekking Uitgebreid energiebeheer Optionele batterij en IP-geclassificeerde afdichting Meerdere bedradings- en installatieopties Platform voor afstandsbediening voor scriptbeheer en configuratie Kenmerken:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Het vertegenwoordigt een baanbrekend platform voor de telematica-industrie. De LX-45 is een 4G PROFESSIONAL-apparaat voor geavanceerde toepassingen met een back-upbatterij met hoge capaciteit. De Lx45 maximaliseert de efficiëntie van uw wagenpark met functies zoals FMS CAN-gegevens (J1939), brandstof-CAN-gegevens (J1708), live tachograafgegevens (K-Line), het op afstand downloaden van tachograafbestanden en ondersteuning voor diverse RS232- of RS485-apparaten van derden. De terminal is geschikt voor toepassingen zoals internationale logistiek, koeltransport, landbouw, bouw en mijnbouw, beveiliging en hulpdiensten en nog veel meer. Hoogtepunten: Bouw zeer op maat gemaakte telematica-oplossingen Bluetooth LE 5.4 voor draadloze connectiviteit en sensordekking Uitgebreid energiebeheer Optionele batterij en IP-geclassificeerde afdichting Meerdere bedradings- en installatieopties Platform voor afstandsbediening voor scriptbeheer en configuratie Kenmerken:\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Den representerer en banebrytende plattform for telematikkindustrien. LX-45 er en 4G PROFESSIONAL-enhet for avanserte applikasjoner med backupbatteri med høy kapasitet. Lx45 vil maksimere flåtens effektivitet med funksjoner som FMS CAN-data (J1939), drivstoff CAN-data (J1708), fartsskriverdata i sanntid (K-Line), ekstern nedlasting av fartsskriverfiler og støtte for ulike tredjeparts RS232- eller RS485-enheter. Terminalen er egnet for applikasjoner som internasjonal logistikk, kjøletransport, landbruk, bygg og anlegg, sikkerhet og nødetater og enda mer. Høydepunkter: Bygg svært tilpassede telematikkløsninger Bluetooth LE 5.4 for trådløs tilkobling og sensordekning Omfattende strømstyring Valgfritt batteri og IP-klassifisert forsegling Flere kablings- og installasjonsalternativer Fjernkontrollplattform for skriptadministrasjon og konfigurasjon Funksjoner:",
+          "body": "Den representerer en banebrytende plattform for telematikkindustrien. LX-45 er en 4G PROFESSIONAL-enhet for avanserte applikasjoner med backupbatteri med høy kapasitet. Lx45 vil maksimere flåtens effektivitet med funksjoner som FMS CAN-data (J1939), drivstoff CAN-data (J1708), fartsskriverdata i sanntid (K-Line), ekstern nedlasting av fartsskriverfiler og støtte for ulike tredjeparts RS232- eller RS485-enheter. Terminalen er egnet for applikasjoner som internasjonal logistikk, kjøletransport, landbruk, bygg og anlegg, sikkerhet og nødetater og enda mer. Høydepunkter: Bygg svært tilpassede telematikkløsninger Bluetooth LE 5.4 for trådløs tilkobling og sensordekning Omfattende strømstyring Valgfritt batteri og IP-klassifisert forsegling Flere kablings- og installasjonsalternativer Fjernkontrollplattform for skriptadministrasjon og konfigurasjon Funksjoner:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Den representerer en banebrytende plattform for telematikkindustrien. LX-45 er en 4G PROFESSIONAL-enhet for avanserte applikasjoner med backupbatteri med høy kapasitet. Lx45 vil maksimere flåtens effektivitet med funksjoner som FMS CAN-data (J1939), drivstoff CAN-data (J1708), fartsskriverdata i sanntid (K-Line), ekstern nedlasting av fartsskriverfiler og støtte for ulike tredjeparts RS232- eller RS485-enheter. Terminalen er egnet for applikasjoner som internasjonal logistikk, kjøletransport, landbruk, bygg og anlegg, sikkerhet og nødetater og enda mer. Høydepunkter: Bygg svært tilpassede telematikkløsninger Bluetooth LE 5.4 for trådløs tilkobling og sensordekning Omfattende strømstyring Valgfritt batteri og IP-klassifisert forsegling Flere kablings- og installasjonsalternativer Fjernkontrollplattform for skriptadministrasjon og konfigurasjon Funksjoner:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Den representerar en banbrytande plattform för telematikindustrin. LX-45 är en 4G PROFESSIONAL-enhet för avancerade applikationer med högkapacitetsbatteribackup. Lx45 maximerar din flottas effektivitet med funktioner som FMS CAN-data (J1939), bränsle-CAN-data (J1708), färdskrivarens livedata (K-Line), fjärrnedladdning av färdskrivarfiler och stöd för olika tredjeparts RS232- eller RS485-enheter. Terminalen är lämplig för applikationer som internationell logistik, kyltransport, jordbruk, bygg och gruvdrift, säkerhet och räddningstjänster och ännu mer. Höjdpunkter: Bygg mycket anpassade telematiklösningar Bluetooth LE 5.4 för trådlös anslutning och sensortäckning Omfattande strömhantering Valfritt batteri och IP-klassad tätning Flera lednings- och installationsalternativ Fjärrstyrningsplattform för skripthantering och konfiguration Funktioner:",
+          "body": "Den representerar en banbrytande plattform för telematikindustrin. LX-45 är en 4G PROFESSIONAL-enhet för avancerade applikationer med högkapacitetsbatteribackup. Lx45 maximerar din flottas effektivitet med funktioner som FMS CAN-data (J1939), bränsle-CAN-data (J1708), färdskrivarens livedata (K-Line), fjärrnedladdning av färdskrivarfiler och stöd för olika tredjeparts RS232- eller RS485-enheter. Terminalen är lämplig för applikationer som internationell logistik, kyltransport, jordbruk, bygg och gruvdrift, säkerhet och räddningstjänster och ännu mer. Höjdpunkter: Bygg mycket anpassade telematiklösningar Bluetooth LE 5.4 för trådlös anslutning och sensortäckning Omfattande strömhantering Valfritt batteri och IP-klassad tätning Flera lednings- och installationsalternativ Fjärrstyrningsplattform för skripthantering och konfiguration Funktioner:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Den representerar en banbrytande plattform för telematikindustrin. LX-45 är en 4G PROFESSIONAL-enhet för avancerade applikationer med högkapacitetsbatteribackup. Lx45 maximerar din flottas effektivitet med funktioner som FMS CAN-data (J1939), bränsle-CAN-data (J1708), färdskrivarens livedata (K-Line), fjärrnedladdning av färdskrivarfiler och stöd för olika tredjeparts RS232- eller RS485-enheter. Terminalen är lämplig för applikationer som internationell logistik, kyltransport, jordbruk, bygg och gruvdrift, säkerhet och räddningstjänster och ännu mer. Höjdpunkter: Bygg mycket anpassade telematiklösningar Bluetooth LE 5.4 för trådlös anslutning och sensortäckning Omfattande strömhantering Valfritt batteri och IP-klassad tätning Flera lednings- och installationsalternativ Fjärrstyrningsplattform för skripthantering och konfiguration Funktioner:\n</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Telematik sektörü için çığır açan bir platformu temsil ediyor. LX-45, yüksek kapasiteli yedek bataryaya sahip gelişmiş uygulamalar için 4G PROFESYONEL bir cihazdır. LX45, FMS CAN verileri (J1939), yakıt CAN verileri (J1708), takograf canlı verileri (K-Line), takograf dosyalarının uzaktan indirilmesi ve çeşitli üçüncü taraf RS232 veya RS485 cihazları desteği gibi özellikleriyle filo verimliliğinizi en üst düzeye çıkaracaktır. Terminal, uluslararası lojistik, soğutmalı taşımacılık, tarım, inşaat ve madencilik, güvenlik ve acil servisler ve daha birçok uygulama için uygundur. Öne çıkan özellikler: Son derece özelleştirilmiş telematik çözümler oluşturun, kablosuz bağlantı ve sensör kapsamı için Bluetooth LE 5.4, kapsamlı güç yönetimi, isteğe bağlı batarya ve IP dereceli sızdırmazlık, çoklu kablolama ve kurulum seçenekleri, komut dosyası yönetimi ve yapılandırması için uzaktan kumanda platformu. Özellikler:",
+          "body": "Telematik sektörü için çığır açan bir platformu temsil ediyor. LX-45, yüksek kapasiteli yedek bataryaya sahip gelişmiş uygulamalar için 4G PROFESYONEL bir cihazdır. LX45, FMS CAN verileri (J1939), yakıt CAN verileri (J1708), takograf canlı verileri (K-Line), takograf dosyalarının uzaktan indirilmesi ve çeşitli üçüncü taraf RS232 veya RS485 cihazları desteği gibi özellikleriyle filo verimliliğinizi en üst düzeye çıkaracaktır. Terminal, uluslararası lojistik, soğutmalı taşımacılık, tarım, inşaat ve madencilik, güvenlik ve acil servisler ve daha birçok uygulama için uygundur. Öne çıkan özellikler: Son derece özelleştirilmiş telematik çözümler oluşturun, kablosuz bağlantı ve sensör kapsamı için Bluetooth LE 5.4, kapsamlı güç yönetimi, isteğe bağlı batarya ve IP dereceli sızdırmazlık, çoklu kablolama ve kurulum seçenekleri, komut dosyası yönetimi ve yapılandırması için uzaktan kumanda platformu. Özellikler:",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Telematik sektörü için çığır açan bir platformu temsil ediyor. LX-45, yüksek kapasiteli yedek bataryaya sahip gelişmiş uygulamalar için 4G PROFESYONEL bir cihazdır. LX45, FMS CAN verileri (J1939), yakıt CAN verileri (J1708), takograf canlı verileri (K-Line), takograf dosyalarının uzaktan indirilmesi ve çeşitli üçüncü taraf RS232 veya RS485 cihazları desteği gibi özellikleriyle filo verimliliğinizi en üst düzeye çıkaracaktır. Terminal, uluslararası lojistik, soğutmalı taşımacılık, tarım, inşaat ve madencilik, güvenlik ve acil servisler ve daha birçok uygulama için uygundur. Öne çıkan özellikler: Son derece özelleştirilmiş telematik çözümler oluşturun, kablosuz bağlantı ve sensör kapsamı için Bluetooth LE 5.4, kapsamlı güç yönetimi, isteğe bağlı batarya ve IP dereceli sızdırmazlık, çoklu kablolama ve kurulum seçenekleri, komut dosyası yönetimi ve yapılandırması için uzaktan kumanda platformu. Özellikler:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "heading",
+      "order": 19,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Højdepunkter:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Highlights",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Highlights",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Points forts",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoogtepunten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Høydepunkter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Höjdpunkter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Öne Çıkanlar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "iconList",
+      "order": 20,
+      "sectionIndex": 4,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Byg meget tilpassede telematik-løsninger",
+            "Bluetooth LE 5.4 til trådløs tilslutning og sensor-dækning",
+            "Omfattende strømadministration",
+            "Valgfrit batteri og IP-klassificeret tætning",
+            "Flere ledningsmuligheder og installationsmuligheder",
+            "Fjernstyringsplatform til enhedsadministration, scriptadministration og konfiguration",
+            "JaxiCloud Fleet Management is the perfect solution for your company"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Build highly customized telematics solutions",
+            "Bluetooth LE 5.4 for wireless connectivity and sensor coverage",
+            "Comprehensive power management",
+            "Optional battery and IP-rated sealing",
+            "More wiring and installation options",
+            "Remote management platform for device management, script management and configuration",
+            "JaxiCloud Fleet Management is the perfect solution for your company"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Erstellen Sie hochgradig individuelle Telematiklösungen",
+            "Bluetooth LE 5.4 für drahtlose Konnektivität und Sensorabdeckung",
+            "Umfassendes Energiemanagement",
+            "Optionale Batterie und IP-zertifizierte Versiegelung",
+            "Mehr Verkabelungs- und Installationsoptionen",
+            "Remote-Management-Plattform für Geräteverwaltung, Skriptverwaltung und Konfiguration"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Concevoir des solutions télématiques hautement personnalisées",
+            "Bluetooth LE 5.4 pour la connectivité sans fil et la couverture des capteurs",
+            "Gestion complète de l'énergie",
+            "Batterie en option et étanchéité IP",
+            "Plus d'options de câblage et d'installation",
+            "Plateforme de gestion à distance pour la gestion des appareils, des scripts et la configuration",
+            "JaxiCloud Fleet Management est la solution idéale pour votre entreprise."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Bouw zeer op maat gemaakte telematica-oplossingen",
+            "Bluetooth LE 5.4 voor draadloze connectiviteit en sensordekking",
+            "Uitgebreid energiebeheer",
+            "Optionele batterij en IP-geclassificeerde afdichting",
+            "Meer bedradings- en installatieopties",
+            "Platform voor extern beheer voor apparaatbeheer, scriptbeheer en configuratie",
+            "JaxiCloud Fleet Management is de perfecte oplossing voor uw bedrijf"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Bygg svært tilpassede telematikkløsninger",
+            "Bluetooth LE 5.4 for trådløs tilkobling og sensordekning",
+            "Omfattende strømstyring",
+            "Valgfritt batteri og IP-klassifisert forsegling",
+            "Flere kablings- og installasjonsalternativer",
+            "Fjernadministrasjonsplattform for enhetsadministrasjon, skriptadministrasjon og konfigurasjon",
+            "JaxiCloud Fleet Management er den perfekte løsningen for din bedrift"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Bygg mycket anpassade telematiklösningar",
+            "Bluetooth LE 5.4 för trådlös anslutning och sensortäckning",
+            "Omfattande energihantering",
+            "Valfritt batteri och IP-klassad försegling",
+            "Fler lednings- och installationsalternativ",
+            "Fjärrstyrningsplattform för enhetshantering, skripthantering och konfiguration",
+            "Fjärrhanteringsplattformen deJaxiCloud Fleet Management är den perfekta lösningen för ditt företags vice administration, skripthantering och konfiguration"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Son derece özelleştirilmiş telematik çözümler geliştirin.",
+            "Kablosuz bağlantı ve sensör kapsama alanı için Bluetooth LE 5.4.",
+            "Kapsamlı güç yönetimi",
+            "Opsiyonel pil ve IP dereceli sızdırmazlık",
+            "Daha fazla kablolama ve kurulum seçeneği",
+            "Cihaz yönetimi, komut dosyası yönetimi ve yapılandırma için uzaktan yönetim platformu.",
+            "JaxiCloud Filo Yönetimi, şirketiniz için mükemmel bir çözümdür."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "heading",
+      "order": 21,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Features",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Features",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Merkmale",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Caractéristiques",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Functies",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Funksjoner",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Drag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Özellikler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "iconList",
+      "order": 22,
+      "sectionIndex": 4,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Pålidelig global dækning Pålidelig LTE CatM1 forbindelse sikrer bred dækning af dine flådestyringsbehov.",
+            "Fjern-download af tachograf-filer og live data Tachograf live data aflæses via K-Line, ALL-CAN, Tacho CAN eller FMS-forbindelser til daglig chaufførstyring og flådeeffektivitet.",
+            "CAN data-aflæsning fra tunge køretøjer og specialmaskiner Læs J1939-data, som inkluderer standard CAN FMS fra tunge køretøjer som lastbiler og rå J1939-data fra specialmaskiner, såsom byggekraner eller elektriske busser.",
+            "Tilslutning af eksterne enheder 2x RS232 og 1x RS485 serielle kommunikationsgrænseflader til tilslutning af eksterne enheder, såsom termografer, sensorer, RFID-læsere og mere."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Reliable LTE CatM1 connection ensures wide coverage of your fleet management needs.",
+            "Tachograph live data is read via K-Line, ALL-CAN, Tacho CAN or FMS connections for daily driver management and fleet efficiency.",
+            "Read J1939 data, which includes standard CAN FMS from heavy vehicles like trucks and raw J1939 data from specialty machines like construction cranes or electric buses.",
+            "2x RS232 and 1x RS485 serial communication interfaces for connecting external devices, such as thermographs, sensors, RFID readers and more."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Zuverlässige globale Abdeckung Zuverlässige LTE CatM1-Verbindung sorgt für eine breite Abdeckung Ihres Flottenmanagementanforderungen",
+            "Ferndownload von Tachographendateien und Livedaten Livedaten des Fahrtenschreibers werden für das tägliche Fahrermanagement und die Flotteneffizienz über K-Line-, ALL-CAN-, Tacho CAN- oder FMS-Verbindungen gelesen.",
+            "CAN-Datenauslesung von Schwerfahrzeugen und Spezialmaschinen Lesen Sie J1939-Daten, darunter Standard-CAN-FMS von schweren Fahrzeugen wie Lkw und Rohdaten von J1939 von Spezialmaschinen wie Baukränen oder Elektrobussen.",
+            "2x RS232 and 1x RS485 serial communication interfaces for connecting external devices, such as thermographs, sensors, RFID readers and more."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "La connexion LTE CatM1 fiable assure une large couverture pour vos besoins de gestion de flotte.",
+            "Les données en temps réel du tachygraphe sont lues via les connexions K-Line, ALL-CAN, Tacho CAN ou FMS pour la gestion quotidienne des conducteurs et l'efficacité de la flotte.",
+            "Lire les données J1939, qui comprennent le FMS CAN standard des véhicules lourds comme les camions et les données J1939 brutes des machines spécialisées comme les grues de construction ou les autobus électriques.",
+            "2 interfaces de communication série RS232 et 1 interface RS485 pour la connexion de périphériques externes, tels que des thermographes, des capteurs, des lecteurs RFID et plus encore."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "De betrouwbare LTE CatM1-verbinding garandeert een brede dekking van uw wagenparkbeheerbehoeften.",
+            "Live tachograafgegevens worden uitgelezen via K-Line-, ALL-CAN-, Tacho CAN- of FMS-verbindingen voor dagelijks bestuurdersbeheer en efficiënter wagenpark.",
+            "Lees J1939-gegevens, waaronder standaard CAN FMS van zware voertuigen zoals vrachtwagens en ruwe J1939-gegevens van speciale machines zoals bouwkranen of elektrische bussen.",
+            "2x RS232 en 1x RS485 seriële communicatie-interfaces voor het aansluiten van externe apparaten, zoals thermografen, sensoren, RFID-lezers en meer"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Pålitelig LTE CatM1-tilkobling sikrer bred dekning av dine behov for flåtestyring.",
+            "Fartsskriverdata i sanntid leses via K-Line-, ALL-CAN-, Tacho CAN- eller FMS-tilkoblinger for daglig sjåføradministrasjon og flåteeffektivitet.",
+            "Les J1939-data, som inkluderer standard CAN FMS fra tunge kjøretøy som lastebiler og rå J1939-data fra spesialmaskiner som byggekraner eller elektriske busser.",
+            "2x RS232 og 1x RS485 serielle kommunikasjonsgrensesnitt for tilkobling av eksterne enheter, som termografer, sensorer, RFID-lesere og mer."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Tillförlitlig LTE CatM1-anslutning säkerställer bred täckning av dina behov av flotthantering.",
+            "Färdskrivarens livedata läses via K-Line-, ALL-CAN-, Tacho CAN- eller FMS-anslutningar för daglig förarhantering och effektivisering av vagnparken.",
+            "Läs J1939-data, vilket inkluderar standard CAN FMS från tunga fordon som lastbilar och rådata från specialmaskiner som byggkranar eller elbussar.",
+            "2x RS232 och 1x RS485 seriella kommunikationsgränssnitt för anslutning av externa enheter, såsom termografer, sensorer, RFID-läsare med mera."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Güvenilir LTE CatM1 bağlantısı, filo yönetimi ihtiyaçlarınızın geniş kapsamlı olarak karşılanmasını sağlar.",
+            "Takograf canlı verileri, günlük sürücü yönetimi ve filo verimliliği için K-Line, ALL-CAN, Tacho CAN veya FMS bağlantıları üzerinden okunur.",
+            "Kamyon gibi ağır vasıtalardan gelen standart CAN FMS verilerini ve inşaat vinçleri veya elektrikli otobüsler gibi özel makinelerden gelen ham J1939 verilerini içeren J1939 verilerini okuyun.",
+            "Termograflar, sensörler, RFID okuyucular ve daha fazlası gibi harici cihazları bağlamak için 2 adet RS232 ve 1 adet RS485 seri iletişim arayüzü."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "heading",
+      "order": 23,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Løsninger til vores partnere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Solutions for our partners",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Solutions for our partners",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solutions pour nos partenaires",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Oplossingen voor onze partners",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Løsninger for våre partnere",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Lösningar för våra partners",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İş ortaklarımız için çözümler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "image",
+      "order": 24,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 5,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/ppkzosdubnu7ygfvkiwo.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/ppkzosdubnu7ygfvkiwo.jpg",
+          "width": 256,
+          "height": 256
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "image",
+      "order": 25,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.jpg",
+          "width": 225,
+          "height": 225
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "image",
+      "order": 26,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/onetomove.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/onetomove.png",
+          "width": 445,
+          "height": 113
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "image",
+      "order": 27,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.png",
+          "width": 220,
+          "height": 229
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "image",
+      "order": 28,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 5,
+        "columnIndex": 4,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/211_carrier_logo.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/211_carrier_logo.jpg",
+          "width": 866,
+          "height": 650
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

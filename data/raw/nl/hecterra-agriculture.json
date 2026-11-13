@@ -1,0 +1,431 @@
+{
+  "id": 2993,
+  "slug": "hecterra-agriculture-hl",
+  "canonicalSlug": "hecterra-agriculture",
+  "locale": "nl",
+  "title": "Hecterra agriculture – HL",
+  "link": "https://www.jaxicloud.com/nl/hecterra-agriculture-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 2993,
+    "da": 2137,
+    "en": 39,
+    "de": 2532,
+    "fr": 2791,
+    "nb": 3191,
+    "sv": 3382,
+    "tr": 3572
+  },
+  "excerpt": "Hecterra agriculture Hecterra: een oplossing voor GPS-tracking in de landbouw Dit is een eenvoudige maar effectieve toepassing voor de agro-industrie, waarmee veldwerk kan worden aangestuurd op basis van telematicagegevens. Het agrarische GPS-systeem levert transparante gegevens over percelen, vruchtwisseling en veldmanagement aan medewerkers en managers in agrarische bedrijven. Door de exacte informatie te hebben over wie, [&hellip;]",
+  "seo": {
+    "title": "Hecterra agriculture - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T01:47:11",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "9f71c92",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f71c92",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra agriculture",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b75bf35",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "9ca3b12",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ca3b12",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra: een oplossing voor GPS-tracking in de landbouw",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f4ae35",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f4ae35",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Dit is een eenvoudige maar effectieve toepassing voor de agro-industrie, waarmee veldwerk kan worden aangestuurd op basis van telematicagegevens. Het agrarische GPS-systeem levert transparante gegevens over percelen, vruchtwisseling en veldmanagement aan medewerkers en managers in agrarische bedrijven. Door de exacte informatie te hebben over wie, wanneer en hoe de gewassen verbouwde, kunnen klanten hun agrarische bedrijfsprocessen effectief plannen en verbeteren.</p>",
+      "bodyText": "Dit is een eenvoudige maar effectieve toepassing voor de agro-industrie, waarmee veldwerk kan worden aangestuurd op basis van telematicagegevens. Het agrarische GPS-systeem levert transparante gegevens over percelen, vruchtwisseling en veldmanagement aan medewerkers en managers in agrarische bedrijven. Door de exacte informatie te hebben over wie, wanneer en hoe de gewassen verbouwde, kunnen klanten hun agrarische bedrijfsprocessen effectief plannen en verbeteren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "5a37128",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a37128",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c59794f",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c59794f",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Speciale voertuigcontrole",
+      "bodyHtml": "<p>Klanten krijgen duidelijke gegevens over de kwaliteit en het volume van de veldwerkzaamheden, maar ook over de acties van landbouwvoertuigen en voertuigbestuurders.</p>",
+      "bodyText": "Klanten krijgen duidelijke gegevens over de kwaliteit en het volume van de veldwerkzaamheden, maar ook over de acties van landbouwvoertuigen en voertuigbestuurders.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "4dce5dd",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4dce5dd",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Betrouwbare gegevens",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra rekent </span><span class=\"wixui-rich-text__text\">de veldbehandelingen van complex </span><span class=\"wixui-rich-text__text\">vormt en neemt weglatingen, </span><span class=\"wixui-rich-text__text\">overlappingen en onontgonnen gebieden </span><span class=\"wixui-rich-text__text\">de velden in.</span></p>",
+      "bodyText": "Hecterra rekent de veldbehandelingen van complex vormt en neemt weglatingen, overlappingen en onontgonnen gebieden de velden in.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "8828297",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8828297",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Geautomatiseerde berekeningen",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">De Agro-applicatie berekent de bebouwde oppervlakten, het brandstofverbruik, de kilometerstand, de snelheid en andere parameters, waardoor de medewerkers tijd besparen.</span></p>",
+      "bodyText": "De Agro-applicatie berekent de bebouwde oppervlakten, het brandstofverbruik, de kilometerstand, de snelheid en andere parameters, waardoor de medewerkers tijd besparen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "0641184",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0641184",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "API-integratie",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Draag gegevens over van</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra en gebruik deze in elk boekhoudsysteem dat de API gebruikt</span>&nbsp;.</p>",
+      "bodyText": "Draag gegevens over van Hecterra en gebruik deze in elk boekhoudsysteem dat de API gebruikt .",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9387f5b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9387f5b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Zo werkt het GPS-systeem in de landbouw",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "02f4bce",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-02f4bce",
+        "elementor-widget__width-initial",
+        "elementor-align-center",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Importeer geofences als velden; het opzetten van trailers, chauffeurs en eenheden in Wialon voor verder gebruik in Hecterra",
+        "Vul de catalogi in voor gewassen, bewerkingen en gewassen",
+        "Keur de gedetecteerde grondbewerkingen goed of af",
+        "Genereer en exporteer uitgebreide rapporten over veldactiviteiten"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 10,
+    "sectionCount": 4,
+    "htmlBytes": 15789
+  }
+}

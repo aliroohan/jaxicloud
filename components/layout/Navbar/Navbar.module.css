@@ -317,11 +317,19 @@
   overflow: hidden;
 }
 
+.megaMenuPanel2Col {
+  width: min(640px, 92vw);
+}
+
 .megaMenuGrid {
   display: grid;
   grid-template-columns: 1.05fr 1.05fr 250px;
   gap: 1.25rem;
   width: 100%;
+}
+
+.megaMenuGrid2Col {
+  grid-template-columns: 1fr 1fr;
 }
 
 /* Invisible Mouse Hover Bridge */

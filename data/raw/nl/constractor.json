@@ -1,0 +1,896 @@
+{
+  "id": 2931,
+  "slug": "constractor-hl",
+  "canonicalSlug": "constractor",
+  "locale": "nl",
+  "title": "Constractor – HL",
+  "link": "https://www.jaxicloud.com/nl/constractor-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 2931,
+    "da": 2071,
+    "en": 33,
+    "de": 2470,
+    "fr": 2727,
+    "nb": 3125,
+    "sv": 3318,
+    "tr": 3512
+  },
+  "excerpt": "Aannemer Machine- en uitrustingsoplossingen Slimmere controle over uw machines op de bouwplaats Het beheren van bouwmachines in realtime is geen luxe meer — het is een noodzaak. Onze telematica-oplossingen bieden volledig inzicht in uw apparatuur en helpen u kosten te verlagen, de efficiëntie te verbeteren en misbruik te voorkomen. Door toonaangevende platforms zoals Wialon en [&hellip;]",
+  "seo": {
+    "title": "Aannemer - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-04-29T22:17:27",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "c586fdf",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c586fdf",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Aannemer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d70eec6",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "0aa6202",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0aa6202",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Machine- en uitrustingsoplossingen</p>",
+      "bodyText": "Machine- en uitrustingsoplossingen",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c71289a",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "3025fe8",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3025fe8",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Slimmere controle over uw machines op de bouwplaats",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7a1dafe",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "a6a7177",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a6a7177",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"747\" data-end=\"986\">Het beheren van bouwmachines in realtime is geen luxe meer — het is een noodzaak. Onze telematica-oplossingen bieden volledig inzicht in uw apparatuur en helpen u kosten te verlagen, de efficiëntie te verbeteren en misbruik te voorkomen.</p><p data-start=\"988\" data-end=\"1168\">Door toonaangevende platforms zoals Wialon en hardwareoplossingen zoals Xirgo-apparaten te integreren, leveren wij een krachtig systeem dat speciaal is afgestemd op bouwplaatsen.</p><p data-start=\"1170\" data-end=\"1318\">Of uw machines nu worden ingezet op grote infrastructuurprojecten, stedelijke ontwikkelingen of afgelegen terreinen, u behoudt altijd de controle.</p>",
+      "bodyText": "Het beheren van bouwmachines in realtime is geen luxe meer — het is een noodzaak. Onze telematica-oplossingen bieden volledig inzicht in uw apparatuur en helpen u kosten te verlagen, de efficiëntie te verbeteren en misbruik te voorkomen.Door toonaangevende platforms zoals Wialon en hardwareoplossingen zoals Xirgo-apparaten te integreren, leveren wij een krachtig systeem dat speciaal is afgestemd op bouwplaatsen.Of uw machines nu worden ingezet op grote infrastructuurprojecten, stedelijke ontwikkelingen of afgelegen terreinen, u behoudt altijd de controle.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7a1dafe",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "bfbdfc5",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bfbdfc5",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/6cNVzdEvCkvObi0yaIW9W-LmKofRSuERcfPXAZ9o92cOzjiOOYKsCIGqxDG17P3o06Qwm3RnH7TiCY8LqcHVquv2bB3GZG4i5e97842nuC5W6xeR6GK9gjhctojYEp1zv81IDi0REAZNoiu8LioBi79k5kStmWAue3nWv1GNeBtdv5tYCYrMqO2qkFsLixcN-1024x681.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 532
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-7a1dafe",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "c45d557",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c45d557",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_9257e5f8f3ce47a4bbc8ce184443fe85/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "5bd00bc9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5bd00bc9",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Iot-geschikte machine- en apparatuuroplossing",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "622ef37b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-622ef37b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>In een bouwproject kunnen veel soorten machines en uitrusting worden gebruikt, zoals laders, graafmachines, bulldozers, dumpers, walsen en mixers. Als eigenaren, managers of exploitanten van bouwbedrijven kunt u ervoor kiezen om materieel of machines te kopen of huren voor uw behoeften. Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Ondergebruik, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw investeringsrendement, productiviteit en reputatie.</p>",
+      "bodyText": "In een bouwproject kunnen veel soorten machines en uitrusting worden gebruikt, zoals laders, graafmachines, bulldozers, dumpers, walsen en mixers. Als eigenaren, managers of exploitanten van bouwbedrijven kunt u ervoor kiezen om materieel of machines te kopen of huren voor uw behoeften. Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Ondergebruik, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw investeringsrendement, productiviteit en reputatie.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "feab5a5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-feab5a5",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Apparatuur oplossing",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "fbc5d90",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbc5d90",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Onderbenutting, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw rendement op investering, productiviteit en reputatie.</p>",
+      "bodyText": "Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Onderbenutting, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw rendement op investering, productiviteit en reputatie.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "5522332",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5522332",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_0ecf3f503fcc4b258bda60719423083e/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "875241b",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-875241b",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/YwveSPqwsc3so0cws-Z1sJzYDLjiQWEPiduSPhLn107SZuVGq5Eg7J8gSHH6nWxtTLZIiDuiDCHx8pi_VXZ8jm86f5OnfmOHIBSxpcbBwKCyrhQzxgazm5gg8ZH08_mhuE7uyLUbQQWM9hiDj8vIRu2usT-thcJlFAOb7AHqFSoq9DuGIvGeG1KaON09uWl4-1024x755.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 590
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4262e2f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "4abe517",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4abe517",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Volledige machinebewaking in realtime",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4262e2f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "d0f398a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d0f398a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"2136\" data-end=\"2219\">Wij bieden geavanceerde tracking en monitoring van alle kritieke machineparameters:</p><p data-start=\"2804\" data-end=\"2908\">Alle gegevens zijn beschikbaar in een gecentraliseerd dashboard, waardoor u realtime inzichten krijgt.</p>",
+      "bodyText": "Wij bieden geavanceerde tracking en monitoring van alle kritieke machineparameters:Alle gegevens zijn beschikbaar in een gecentraliseerd dashboard, waardoor u realtime inzichten krijgt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "GPS-tracking en bewegingsgeschiedenis – Weet precies waar uw machines zich bevinden en hoe ze worden gebruikt",
+        "CAN-bus data-integratie – Toegang tot motorgegevens, toerental (RPM), werkuren en operationele status",
+        "Brandstofniveau monitoring (sondes) – Detecteer brandstofdiefstal en zorg voor nauwkeurige verbruiksregistratie",
+        "Brandstofverbruik (flowmeters) – Meet het werkelijke verbruik met hoge precisie",
+        "Gewichtssensoren en lastbewaking – Volg productiviteit en voorkom overbelasting",
+        "Stationaire tijd en gebruiksanalyse – Optimaliseer het gebruik en verminder stilstand"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4262e2f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "e7ae24d",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e7ae24d",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/11062b_1bbeafb5adb44aa2b5f3d03dd00c45bf/1080p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-70610dd",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "8dd0364",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8dd0364",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Verbeter efficiëntie en verlaag kosten",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-26d0ba9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 6,
+      "elementorId": "eac6894",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eac6894",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"3367\" data-end=\"3446\">Onze telematica-oplossingen helpen u om data om te zetten in echte besparingen:</p><p data-start=\"3666\" data-end=\"3766\">Met gedetailleerde analyses en rapportages kunt u elke dag betere operationele beslissingen nemen.</p>",
+      "bodyText": "Onze telematica-oplossingen helpen u om data om te zetten in echte besparingen:Met gedetailleerde analyses en rapportages kunt u elke dag betere operationele beslissingen nemen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Verlaag brandstofkosten door nauwkeurige tracking",
+        "Voorkom diefstal en ongeautoriseerd gebruik",
+        "Optimaliseer onderhoudsplanning",
+        "Verleng de levensduur van machines",
+        "Verhoog de totale productiviteit van uw vloot"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-26d0ba9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 6,
+      "elementorId": "3316490",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3316490",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Uw partner in telematica-integratie",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-26d0ba9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "387ad54",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-387ad54",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"4237\" data-end=\"4315\">Wij bieden niet alleen tracking — wij leveren complete telematica-oplossingen:</p><p data-start=\"4507\" data-end=\"4619\">Van één machine tot een volledige vloot helpen wij u volledige controle en inzicht te krijgen in uw operaties.</p>",
+      "bodyText": "Wij bieden niet alleen tracking — wij leveren complete telematica-oplossingen:Van één machine tot een volledige vloot helpen wij u volledige controle en inzicht te krijgen in uw operaties.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Installatie van hardware (trackers, sensoren, sondes)",
+        "Software-integratie en configuratie",
+        "Op maat gemaakte dashboards en rapporten",
+        "Doorlopende ondersteuning en systeemoptimalisatie"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-26d0ba9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "0cf72c3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0cf72c3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/8VbabwNYDubSBT5mMkGCOpbzvIJTyg35AW_9AwiCO9ZELLoSR7su4-99qu9U1xSIzK5DntxzwQXZ7J7PmY4as22br13svfZSWzgfATcBoBW883hW4rAfG979vgR8jYL6u-oYk3xaXBghMO3h_A7tLumFKKjcd1phS7Bnit-gnkRAARifw66D9lwj2dioKa6x-scaled.jpg",
+          "alt": "",
+          "width": 2560,
+          "height": 1707
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5649cca",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 7,
+      "elementorId": "34fb4eb",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-34fb4eb",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"5117\" data-end=\"5194\">Bouwomgevingen zijn dynamisch, veeleisend en vaak onvoorspelbaar.</p><p data-start=\"5196\" data-end=\"5292\">Onze oplossingen zijn speciaal ontworpen om betrouwbaar te presteren onder zware omstandigheden:</p><p data-start=\"5436\" data-end=\"5469\"><br>Met ons systeem kunt u monitoren:</p>",
+      "bodyText": "Bouwomgevingen zijn dynamisch, veeleisend en vaak onvoorspelbaar.Onze oplossingen zijn speciaal ontworpen om betrouwbaar te presteren onder zware omstandigheden:Met ons systeem kunt u monitoren:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Stof, trillingen en extreme temperaturen",
+        "Constante beweging van machines over grote gebieden",
+        "Meerdere operators en wisselende schema’s",
+        "Werktijd versus stilstand",
+        "Ongeautoriseerd gebruik buiten werktijden",
+        "Inefficiënt gedrag van operators",
+        "Werkelijke productiviteit per machine"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5649cca",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 8,
+    "htmlBytes": 25232
+  }
+}

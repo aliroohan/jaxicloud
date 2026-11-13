@@ -1,49 +1,66 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
 import { motion } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight } from "lucide-react";
+import { usePathname } from "next/navigation";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
+import { DEFAULT_LOCALE, stripLocale, withLocale } from "@/lib/i18n/config";
+import type { BlogPost } from "@/lib/types";
 import styles from "./BlogSection.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const BLOG_POSTS = [
-  {
-    id: 1,
-    title: "How AI Telematics is Transforming Fleet Efficiency in 2026",
-    excerpt: "Discover how advanced artificial intelligence and predictive algorithms are optimizing routes, reducing fuel consumption, and preventing breakdowns before they happen.",
-    category: "Insights",
-    date: "Aug 12, 2026",
-    image: "/blog-ai.png",
-    link: "#"
-  },
-  {
-    id: 2,
-    title: "The Transition to Sustainable Commercial EV Fleets",
-    excerpt: "Navigate the complexities of electrifying your fleet. From smart charging infrastructure to battery health monitoring, learn the best practices for a seamless transition.",
-    category: "Sustainability",
-    date: "Aug 05, 2026",
-    image: "/blog-ev.png",
-    link: "#"
-  },
-  {
-    id: 3,
-    title: "Predictive Maintenance: The Power of Edge Computing",
-    excerpt: "Edge computing in heavy vehicles is changing the game. Learn how real-time CANbus data processing prevents critical failures and maximizes vehicle uptime.",
-    category: "Technology",
-    date: "Jul 28, 2026",
-    image: "/blog-maintenance.png",
-    link: "#"
+function formatDate(dateStr?: string | null) {
+  if (!dateStr) return "";
+  try {
+    return new Date(dateStr).toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    });
+  } catch {
+    return "";
   }
-];
+}
 
-export function BlogSection() {
+export function BlogSection({ copy }: { copy: HomeCopy }) {
+  const pathname = usePathname() || "/";
+  const { locale: pathLocale } = stripLocale(pathname);
+  const activeLocale = pathLocale || DEFAULT_LOCALE;
+
+  const [posts, setPosts] = useState<BlogPost[] | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`/api/blog?page=1&locale=${activeLocale}`)
+      .then((res) => (res.ok ? res.json() : { posts: [] }))
+      .then((data) => {
+        if (!cancelled) setPosts((data.posts || []).slice(0, 3));
+      })
+      .catch(() => {
+        if (!cancelled) setPosts([]);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [activeLocale]);
+
+  const BLOG_POSTS = (posts || []).map((post) => ({
+    id: post.id,
+    title: post.title,
+    excerpt: post.excerpt || "",
+    category: post.tags?.[0] || "",
+    date: formatDate(post.publishedAt),
+    image: post.coverImage?.url || "/blog-ai.png",
+    link: withLocale(activeLocale, `/blog/${post.slug}`),
+  }));
+
   const sectionRef = useRef<HTMLDivElement>(null);
   const tagRef = useRef<HTMLDivElement>(null);
   const textMasksRef = useRef<(HTMLSpanElement | null)[]>([]);
@@ -108,7 +125,11 @@ export function BlogSection() {
         if (t.vars.trigger === section) t.kill();
       });
     };
-  }, []);
+  }, [BLOG_POSTS.length]);
+
+  if (posts !== null && posts.length === 0) {
+    return null;
+  }
 
   return (
     <section ref={sectionRef} className={styles.section}>
@@ -117,14 +138,14 @@ export function BlogSection() {
         {/* Section Header */}
         <div className={styles.headerBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
-            NEWS & INSIGHTS
+            {copy.blogTag}
           </div>
           <h2 className={styles.sectionTitle}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>Latest from our</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.blogTitleLine1}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>Intelligence Hub</span>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>{copy.blogTitleLine2}</span>
             </span>
           </h2>
         </div>
@@ -171,7 +192,7 @@ export function BlogSection() {
                 <h3 className={styles.cardTitle}>{post.title}</h3>
                 <p className={styles.excerpt}>{post.excerpt}</p>
                 <div className={styles.readMore}>
-                  Read Article
+                  {copy.blogReadMore}
                   <motion.div
                     className={styles.arrow}
                     variants={{

@@ -1,0 +1,426 @@
+{
+  "id": 2584,
+  "slug": "our-team-de",
+  "canonicalSlug": "our-team",
+  "locale": "de",
+  "title": "Our team – DE",
+  "link": "https://www.jaxicloud.com/de/our-team-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2584,
+    "da": 2183,
+    "en": 41,
+    "fr": 2830,
+    "nl": 3030,
+    "nb": 3230,
+    "sv": 3423,
+    "tr": 3612
+  },
+  "excerpt": "Das team hinter jaxicloud fleet management Gemeinsam weisen wir den Weg Erstellung von Budgets und Finanzstrategien. Überwachung der finanziellen Performance und Berichterstattung des Unternehmens. Sicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich. Management von Investitionen und Kapitalstruktur. Identifizierung von Risiken und Chancen für wirtschaftliches Wachstum. Margit Andreasen CFO Erstellung von Budgets und Finanzstrategien. Überwachung [&hellip;]",
+  "seo": {
+    "title": "Das team hinter jaxicloud fleet management - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:25:13",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Das team hinter jaxicloud fleet management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Gemeinsam weisen wir den Weg</p>",
+      "bodyText": "Gemeinsam weisen wir den Weg",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Erstellung von Budgets und Finanzstrategien.\n\nÜberwachung der finanziellen Performance und Berichterstattung des Unternehmens.\n\nSicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich.\n\nManagement von Investitionen und Kapitalstruktur.\n\nIdentifizierung von Risiken und Chancen für wirtschaftliches Wachstum.</p><p class=\"eael-team-text eael-team-text-overlay\">Erstellung von Budgets und Finanzstrategien.\n\nÜberwachung der finanziellen Performance und Berichterstattung des Unternehmens.\n\nSicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich.\n\nManagement von Investitionen und Kapitalstruktur.\n\nIdentifizierung von Risiken und Chancen für wirtschaftliches Wachstum.</p>",
+      "bodyText": "Erstellung von Budgets und Finanzstrategien. Überwachung der finanziellen Performance und Berichterstattung des Unternehmens. Sicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich. Management von Investitionen und Kapitalstruktur. Identifizierung von Risiken und Chancen für wirtschaftliches Wachstum.Erstellung von Budgets und Finanzstrategien. Überwachung der finanziellen Performance und Berichterstattung des Unternehmens. Sicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich. Management von Investitionen und Kapitalstruktur. Identifizierung von Risiken und Chancen für wirtschaftliches Wachstum.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-2-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p><p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p>",
+      "bodyText": "Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele.\n\nFühren und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten.\n\nÜberwachen und analysieren Sie Vertriebsdaten und -ergebnisse.\n\nIdentifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm.\n\nPflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.</p><p class=\"eael-team-text eael-team-text-overlay\">Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele.\n\nFühren und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten.\n\nÜberwachen und analysieren Sie Vertriebsdaten und -ergebnisse.\n\nIdentifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm.\n\nPflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.</p>",
+      "bodyText": "Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele. Führen und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten. Überwachen und analysieren Sie Vertriebsdaten und -ergebnisse. Identifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm. Pflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele. Führen und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten. Überwachen und analysieren Sie Vertriebsdaten und -ergebnisse. Identifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm. Pflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4-2.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen.\n\nTragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern.\n\nTeilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens.\n\nAls Vorstandsmitglied:\n\nStellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt.\n\nÜberwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens.\n\nTragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei.\n\nStellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen.\n\nTragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern.\n\nTeilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens.\n\nAls Vorstandsmitglied:\n\nStellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt.\n\nÜberwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens.\n\nTragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei.\n\nStellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.</p>",
+      "bodyText": "Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen. Tragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern. Teilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens. Als Vorstandsmitglied: Stellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt. Überwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens. Tragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei. Stellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen. Tragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern. Teilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens. Als Vorstandsmitglied: Stellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt. Überwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens. Tragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei. Stellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2-2.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit.\n\nTeilen Sie die Risiken und Chancen des Unternehmenserfolgs.\n\nAls Berater:\n\nBeraten Sie die Geschäftsleitung strategisch und operativ.\n\nBringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein.\n\nDiskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit.\n\nTeilen Sie die Risiken und Chancen des Unternehmenserfolgs.\n\nAls Berater:\n\nBeraten Sie die Geschäftsleitung strategisch und operativ.\n\nBringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein.\n\nDiskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.</p>",
+      "bodyText": "Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen. Stellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit. Teilen Sie die Risiken und Chancen des Unternehmenserfolgs. Als Berater: Beraten Sie die Geschäftsleitung strategisch und operativ. Bringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein. Diskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen. Stellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit. Teilen Sie die Risiken und Chancen des Unternehmenserfolgs. Als Berater: Beraten Sie die Geschäftsleitung strategisch und operativ. Bringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein. Diskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3-2.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit.\n\nBeteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs.\n\nAls Aufsichtsratsvorsitzender:\n\nLeiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen.\n\nSeien Sie ein strategischer Sparringspartner für das Management und die Eigentümer.\n\nStellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält.\n\nÜberwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften.\n\nVertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit.\n\nBeteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs.\n\nAls Aufsichtsratsvorsitzender:\n\nLeiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen.\n\nSeien Sie ein strategischer Sparringspartner für das Management und die Eigentümer.\n\nStellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält.\n\nÜberwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften.\n\nVertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.</p>",
+      "bodyText": "Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens. Stellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit. Beteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs. Als Aufsichtsratsvorsitzender: Leiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen. Seien Sie ein strategischer Sparringspartner für das Management und die Eigentümer. Stellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält. Überwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften. Vertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens. Stellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit. Beteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs. Als Aufsichtsratsvorsitzender: Leiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen. Seien Sie ein strategischer Sparringspartner für das Management und die Eigentümer. Stellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält. Überwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften. Vertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1-2.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p><p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p>",
+      "bodyText": "Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-2-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 45196
+  }
+}

@@ -1,0 +1,276 @@
+/**
+ * Lorry — match live www.jaxicloud.com/en/lorry/
+ * Tight title, navy intro + product bands, info grid, check columns, partner logos.
+ */
+
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+/* —— 1. Centered page title (tight, like Constructor) —— */
+.hero {
+  text-align: center;
+  padding: clamp(1.25rem, 3vw, 2rem) 0 clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— 2. Navy intro band —— */
+.navyBand {
+  background: var(--accent, #0f172a);
+  color: #fff;
+  padding: clamp(2.5rem, 5vw, 3.75rem) 0;
+}
+
+.navyInner {
+  text-align: center;
+  max-width: 52rem;
+  margin-inline: auto;
+  display: grid;
+  gap: 1rem;
+}
+
+.navyEyebrow {
+  margin: 0;
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.25;
+  color: #fff;
+}
+
+.navyBody {
+  margin: 0;
+  font-size: clamp(0.95rem, 1.5vw, 1.0625rem);
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+/* —— 3. Info grid —— */
+.infoGrid {
+  display: grid;
+  gap: clamp(2rem, 4vw, 3rem);
+  padding: clamp(2.5rem, 5vw, 4rem) 0 clamp(3rem, 6vw, 4.5rem);
+  align-items: start;
+}
+
+@media (min-width: 900px) {
+  .infoGrid {
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(2rem, 4vw, 3.5rem) clamp(2.5rem, 5vw, 4rem);
+  }
+
+  .infoMedia {
+    grid-row: 1 / 2;
+  }
+
+  .infoStack {
+    grid-row: 1 / 2;
+  }
+}
+
+.infoMedia {
+  min-width: 0;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 700 / 494;
+  border-radius: 0.25rem;
+  min-height: 14rem;
+}
+
+.infoStack {
+  display: grid;
+  gap: clamp(2rem, 4vw, 2.75rem);
+  align-content: start;
+}
+
+.infoCard {
+  display: grid;
+  gap: 0.85rem;
+  align-content: start;
+}
+
+.infoTitle {
+  font-size: clamp(1.2rem, 2.2vw, 1.55rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0;
+}
+
+.infoProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.infoProse :global(p) {
+  margin: 0;
+}
+
+.infoProse :global(p + p) {
+  margin-top: 0.75rem;
+}
+
+/* Mid-block labels like "FUEL CONSUMPTION" / "JAXICLOUD FLEET MANAGEMENT" */
+.infoProse :global(p:not(:first-child):not(:last-child)) {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-top: 1rem;
+  margin-bottom: 0.15rem;
+}
+
+.infoCta {
+  margin-top: 0.35rem;
+}
+
+/* —— 4. Navy product band —— */
+.productBand {
+  background: var(--accent, #0f172a);
+  color: #fff;
+  padding: clamp(2.75rem, 6vw, 4.25rem) 0;
+}
+
+.productInner {
+  text-align: center;
+  max-width: 52rem;
+  margin-inline: auto;
+  display: grid;
+  gap: 1rem;
+}
+
+.productTitle {
+  margin: 0;
+  font-size: clamp(1.5rem, 3vw, 2.15rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  color: #fff;
+}
+
+.productLead {
+  margin: 0;
+  font-size: clamp(1.05rem, 1.8vw, 1.2rem);
+  font-weight: 600;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.productBody {
+  margin: 0;
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  line-height: 1.75;
+  color: rgba(255, 255, 255, 0.86);
+}
+
+/* —— 5. Highlights | Features —— */
+.checks {
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 4rem);
+  padding: clamp(3rem, 6vw, 4.5rem) 0;
+}
+
+@media (min-width: 800px) {
+  .checks {
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(2.5rem, 5vw, 5rem);
+    align-items: start;
+  }
+}
+
+.checkCol {
+  display: grid;
+  gap: 1.15rem;
+  align-content: start;
+}
+
+.checkTitle {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: #0f172a;
+}
+
+.checkList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.checkItem {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  font-size: 0.975rem;
+  line-height: 1.55;
+  color: #334155;
+}
+
+.checkIcon {
+  display: grid;
+  place-items: center;
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-top: 0.1rem;
+  border-radius: 999px;
+  background: #16a34a;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+/* —— 6. Partner logos —— */
+.partners {
+  padding: 0 0 clamp(4rem, 8vw, 6rem);
+  text-align: center;
+}
+
+.partnersTitle {
+  margin: 0 0 clamp(1.75rem, 3vw, 2.5rem);
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: #0f172a;
+}
+
+.logoRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: clamp(1.5rem, 4vw, 3rem);
+}
+
+.logoFrame {
+  position: relative;
+  width: clamp(6.5rem, 12vw, 9rem);
+  height: 3.5rem;
+  min-height: 3.5rem;
+  background: transparent;
+}
+
+.logoFrame :global(img) {
+  object-fit: contain;
+}

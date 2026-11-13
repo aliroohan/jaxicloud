@@ -1,0 +1,903 @@
+{
+  "id": 5851,
+  "slug": "safe-start-de",
+  "canonicalSlug": "safe-start",
+  "locale": "de",
+  "title": "Safe start – DE",
+  "link": "https://www.jaxicloud.com/de/safe-start-de/",
+  "pageKind": "solution",
+  "translations": {
+    "de": 5851,
+    "en": 5846,
+    "da": 5812,
+    "fr": 5861,
+    "nl": 5866,
+    "nb": 5871,
+    "sv": 5877,
+    "tr": 5882
+  },
+  "excerpt": "Safe start Plateforme numérique d’inspection des véhicules et de sécurité des flottes Safe Start est une solution numérique moderne d’inspection des véhicules, conçue pour améliorer la sécurité des flottes, la conformité réglementaire et la transparence opérationnelle.La plateforme se compose d’une application mobile pour les conducteurs et d’une application web pour les propriétaires et gestionnaires de [&hellip;]",
+  "seo": {
+    "title": "Safe start - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-21T23:17:41",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "0d48661",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0d48661",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Safe start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-56b5ff1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f03419f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f03419f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Plateforme numérique d’inspection des véhicules et de sécurité des flottes",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "06820c7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-06820c7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start est une solution numérique moderne d’inspection des véhicules, conçue pour améliorer la sécurité des flottes, la conformité réglementaire et la transparence opérationnelle.<br data-start=\"6067\" data-end=\"6070\">La plateforme se compose d’une application mobile pour les conducteurs et d’une application web pour les propriétaires et gestionnaires de flotte, fonctionnant parfaitement ensemble.</p>",
+      "bodyText": "Safe Start est une solution numérique moderne d’inspection des véhicules, conçue pour améliorer la sécurité des flottes, la conformité réglementaire et la transparence opérationnelle.La plateforme se compose d’une application mobile pour les conducteurs et d’une application web pour les propriétaires et gestionnaires de flotte, fonctionnant parfaitement ensemble.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0ed1f19",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0ed1f19",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png",
+          "alt": "",
+          "width": 800,
+          "height": 930
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "041f024",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-041f024",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png",
+          "alt": "",
+          "width": 800,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "8a1e6bb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8a1e6bb",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Inspections intelligentes des véhicules – partout, à tout moment",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "dc4d2d3",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc4d2d3",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"6254\" data-end=\"6671\">Avec l’application mobile Safe Start, les conducteurs peuvent effectuer rapidement et facilement des inspections de véhicules directement depuis leur smartphone ou tablette.<br data-start=\"6498\" data-end=\"6501\">Les listes de contrôle sont entièrement configurables et peuvent être adaptées aux exigences spécifiques des clients, aux types de véhicules ou aux normes réglementaires.</p><p data-start=\"6673\" data-end=\"6882\">Les conducteurs se connectent simplement, sélectionnent un véhicule et réalisent l’inspection en répondant à des questions prédéfinies, en ajoutant des commentaires et en signalant les problèmes en temps réel.</p>",
+      "bodyText": "Avec l’application mobile Safe Start, les conducteurs peuvent effectuer rapidement et facilement des inspections de véhicules directement depuis leur smartphone ou tablette.Les listes de contrôle sont entièrement configurables et peuvent être adaptées aux exigences spécifiques des clients, aux types de véhicules ou aux normes réglementaires.Les conducteurs se connectent simplement, sélectionnent un véhicule et réalisent l’inspection en répondant à des questions prédéfinies, en ajoutant des commentaires et en signalant les problèmes en temps réel.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "db0b2a3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db0b2a3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png",
+          "alt": "",
+          "width": 1066,
+          "height": 1172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "3b79b10",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b79b10",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Listes de contrôle entièrement personnalisables",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "a49203f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a49203f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"6884\" data-end=\"7176\">Chaque flotte est différente. Safe Start permet de personnaliser les questions d’inspection et les flux de travail par client, afin que les inspections correspondent aux procédures internes, aux exigences légales ou aux normes du secteur.</p><p data-start=\"7178\" data-end=\"7222\">Cette flexibilité rend Safe Start adapté à :</p><p data-start=\"7226\" data-end=\"7269\">Les flottes de transport et de logistique</p><p data-start=\"7272\" data-end=\"7313\">La construction et les machines lourdes</p><p data-start=\"7316\" data-end=\"7365\">Les véhicules de service et voitures de société</p><p data-start=\"7368\" data-end=\"7419\">Les remorques, camions et équipements spécialisés</p>",
+      "bodyText": "Chaque flotte est différente. Safe Start permet de personnaliser les questions d’inspection et les flux de travail par client, afin que les inspections correspondent aux procédures internes, aux exigences légales ou aux normes du secteur.Cette flexibilité rend Safe Start adapté à :Les flottes de transport et de logistiqueLa construction et les machines lourdesLes véhicules de service et voitures de sociétéLes remorques, camions et équipements spécialisés",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Les flottes de transport et de logistique",
+        "La construction et les machines lourdes",
+        "Les véhicules de service et voitures de société",
+        "Les remorques, camions et équipements spécialisés"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "82e9ec3",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82e9ec3",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Tableau de bord web centralisé pour la gestion de flotte",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fc4808b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fc4808b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"7421\" data-end=\"7628\">L’application web Safe Start offre aux propriétaires et gestionnaires de flotte une visibilité complète sur toutes les inspections de véhicules.</p><p data-start=\"7630\" data-end=\"7670\">Depuis le tableau de bord, vous pouvez :</p><p data-start=\"7674\" data-end=\"7720\">Voir les inspections terminées en temps réel</p><p data-start=\"7723\" data-end=\"7776\">Suivre l’état des véhicules et les défauts signalés</p><p data-start=\"7779\" data-end=\"7845\">Analyser l’historique des inspections par véhicule ou conducteur</p><p data-start=\"7848\" data-end=\"7917\">Surveiller la conformité et les performances en matière de sécurité</p><p data-start=\"7919\" data-end=\"8038\">Toutes les données d’inspection sont stockées de manière sécurisée et organisées pour un accès et des rapports faciles.</p>",
+      "bodyText": "L’application web Safe Start offre aux propriétaires et gestionnaires de flotte une visibilité complète sur toutes les inspections de véhicules.Depuis le tableau de bord, vous pouvez :Voir les inspections terminées en temps réelSuivre l’état des véhicules et les défauts signalésAnalyser l’historique des inspections par véhicule ou conducteurSurveiller la conformité et les performances en matière de sécuritéToutes les données d’inspection sont stockées de manière sécurisée et organisées pour un accès et des rapports faciles.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Voir les inspections terminées en temps réel",
+        "Suivre l’état des véhicules et les défauts signalés",
+        "Analyser l’historique des inspections par véhicule ou conducteur",
+        "Surveiller la conformité et les performances en matière de sécurité"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "a996c0d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a996c0d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1205
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "f745bed",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f745bed",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "e03978d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e03978d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png",
+          "alt": "",
+          "width": 1186,
+          "height": 1418
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "93d1efd",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-93d1efd",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Rapports professionnels et export PDF",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "a29ea15",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a29ea15",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"8040\" data-end=\"8214\">Tous les rapports d’inspection des véhicules peuvent être exportés en PDF directement depuis l’application web.<br data-start=\"8195\" data-end=\"8198\">Cela permet de :</p><p data-start=\"8218\" data-end=\"8274\">Partager les rapports avec la direction ou les clients</p><p data-start=\"8277\" data-end=\"8338\">Conserver la documentation pour les audits et la conformité</p><p data-start=\"8341\" data-end=\"8409\">Maintenir un historique clair des inspections pour chaque véhicule</p><p data-start=\"8411\" data-end=\"8481\">Les rapports sont structurés, lisibles et adaptés à un usage officiel.</p>",
+      "bodyText": "Tous les rapports d’inspection des véhicules peuvent être exportés en PDF directement depuis l’application web.Cela permet de :Partager les rapports avec la direction ou les clientsConserver la documentation pour les audits et la conformitéMaintenir un historique clair des inspections pour chaque véhiculeLes rapports sont structurés, lisibles et adaptés à un usage officiel.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Partager les rapports avec la direction ou les clients",
+        "Conserver la documentation pour les audits et la conformité",
+        "Maintenir un historique clair des inspections pour chaque véhicule"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "51eca48",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eca48",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Principaux avantages de Safe Start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "bd4dd95",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd4dd95",
+        "elementor-widget__width-initial",
+        "elementor-align-start",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Inspections numériques des véhicules via application mobile",
+        "Questions d’inspection configurables par client",
+        "Données en temps réel disponibles dans le tableau de bord web",
+        "Historique centralisé des inspections de flotte",
+        "Export PDF de tous les rapports d’inspection",
+        "Sécurité, conformité et transparence améliorées"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "e8b922c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e8b922c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Conçu pour les flottes modernes",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "66cc38a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66cc38a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"8859\" data-end=\"9136\">Safe Start remplace les listes papier et les processus manuels par un flux de travail numérique fiable, aidant les flottes à réduire les risques, améliorer la responsabilité et maintenir les véhicules de manière plus sûre et plus efficace.</p>",
+      "bodyText": "Safe Start remplace les listes papier et les processus manuels par un flux de travail numérique fiable, aidant les flottes à réduire les risques, améliorer la responsabilité et maintenir les véhicules de manière plus sûre et plus efficace.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 6,
+    "htmlBytes": 33053
+  }
+}

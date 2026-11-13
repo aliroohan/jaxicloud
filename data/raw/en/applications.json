@@ -1,0 +1,109 @@
+{
+  "id": 1304,
+  "slug": "applications",
+  "canonicalSlug": "applications",
+  "locale": "en",
+  "title": "Applications",
+  "link": "https://www.jaxicloud.com/en/applications/",
+  "pageKind": "marketing",
+  "translations": {
+    "en": 1304,
+    "da": 2054,
+    "de": 2460,
+    "fr": 2717,
+    "nl": 2921,
+    "nb": 3114,
+    "sv": 3307,
+    "tr": 3502
+  },
+  "excerpt": "Applications Click & Connect Login Tacho Simple Login TPMS Login Safe start Login Driver Behaviour Login Tacho Simple Driver Portal Login Safe start Driver Portal Login TPMS Driver Portal Login Driver Behaviour Driver Portal Login Jaxicloud Vision Login",
+  "seo": {
+    "title": "Applications - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-07-20T09:53:06",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "f7091ef",
+      "widgetType": "eael-login-register.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f7091ef",
+        "stax-condition-yes",
+        "stax-user_role_enabled-yes",
+        "elementor-widget",
+        "elementor-widget-eael-login-register"
+      ],
+      "heading": "Login page",
+      "bodyHtml": "<p>You must be logged in to see the content</p><p class=\"forget-menot\">\n                                            <input name=\"eael-rememberme\" type=\"checkbox\" id=\"rememberme\" class=\"remember-me \" value=\"forever\">\n                                            <label for=\"rememberme\" class=\"eael-checkbox-label rememberme\">Remember Me</label>\n                                        </p><p class=\"forget-pass\"><a href=\"https://www.jaxicloud.com/wp-login.php?action=lostpassword\">Forgot Password?</a></p>",
+      "bodyText": "You must be logged in to see the content Remember Me Forgot Password?",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Forgot Password?",
+          "href": "https://www.jaxicloud.com/wp-login.php?action=lostpassword"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ed008ce",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 2,
+      "elementorId": "2eb4e24",
+      "widgetType": "shortcode.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2eb4e24",
+        "elementor-widget",
+        "elementor-widget-shortcode"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5508d51",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 2,
+    "sectionCount": 3,
+    "htmlBytes": 14407
+  }
+}

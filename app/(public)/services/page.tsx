@@ -1,23 +1,11 @@
-"use client";
+import { ServicesPageContent } from "@/components/sections/Services/ServicesPageContent";
+import { DEFAULT_LOCALE } from "@/lib/i18n/config";
+import { getPageCopy } from "@/lib/i18n/pageCopy";
 
-import React, { useEffect } from "react";
-import { ServicesHero } from "@/components/sections/Services/ServicesHero";
-import { ServicesGrid } from "@/components/sections/Services/ServicesGrid";
-import { ServicesStory } from "@/components/sections/Services/ServicesStory";
-import { ServicesCTA } from "@/components/sections/Services/ServicesCTA";
+export const revalidate = 3600;
 
+/** Bare `/services` fallback (proxy redirects to `/{DEFAULT_LOCALE}/services`). */
 export default function ServicesPage() {
-  // Ensure we start at the top on mount
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, []);
-
-  return (
-    <main className="bg-white text-slate-900 min-h-screen">
-      <ServicesHero />
-      <ServicesGrid />
-      <ServicesStory />
-      <ServicesCTA />
-    </main>
-  );
+  const copy = getPageCopy("services", DEFAULT_LOCALE);
+  return <ServicesPageContent copy={copy} />;
 }

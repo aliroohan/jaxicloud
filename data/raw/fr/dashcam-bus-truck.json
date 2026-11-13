@@ -1,0 +1,1074 @@
+{
+  "id": 2747,
+  "slug": "dashcam-bus-truck-fr",
+  "canonicalSlug": "dashcam-bus-truck",
+  "locale": "fr",
+  "title": "DASHCAM BUS TRUCK – FR",
+  "link": "https://www.jaxicloud.com/fr/dashcam-bus-truck-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2747,
+    "da": 2092,
+    "en": 151,
+    "de": 2490,
+    "nl": 2951,
+    "nb": 3145,
+    "sv": 3339,
+    "tr": 3532
+  },
+  "excerpt": "Camion bus avec caméra embarquée Demande et défi du marché Les transports publics constituent un secteur essentiel dans toute ville, mais ils sont confrontés à des défis importants tels que les vols, les embouteillages et les accidents de la route. Pour remédier à ces problèmes, un système de surveillance peut fournir des données fiables permettant [&hellip;]",
+  "seo": {
+    "title": "Camion bus avec caméra embarquée - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:32:10",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "4223398",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4223398",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Camion bus avec caméra embarquée",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-440a9d9",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "db30356",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db30356",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Demande et défi du marché",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "1005720",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1005720",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les transports publics constituent un secteur essentiel dans toute ville, mais ils sont confrontés à des défis importants tels que les vols, les embouteillages et les accidents de la route. Pour remédier à ces problèmes, un système de surveillance peut fournir des données fiables permettant aux flottes de bus de réduire leurs coûts d’exploitation et d’améliorer la sécurité.</p>",
+      "bodyText": "Les transports publics constituent un secteur essentiel dans toute ville, mais ils sont confrontés à des défis importants tels que les vols, les embouteillages et les accidents de la route. Pour remédier à ces problèmes, un système de surveillance peut fournir des données fiables permettant aux flottes de bus de réduire leurs coûts d’exploitation et d’améliorer la sécurité.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "a9f9347",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9f9347",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skrmbillede2024-09-03201202-ezgif.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 460
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a182401",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "4d5b748",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4d5b748",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Exigences importantes pour le système de service d'autobus",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "51f32b5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51f32b5",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Ensuring security procedures",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mettre en œuvre des protocoles de sécurité stricts pour protéger les passagers, notamment un entretien régulier des véhicules, une formation continue des conducteurs et le respect du code de la route. Cela contribue à minimiser les accidents et à garantir la sécurité des passagers.</p>",
+      "bodyText": "Mettre en œuvre des protocoles de sécurité stricts pour protéger les passagers, notamment un entretien régulier des véhicules, une formation continue des conducteurs et le respect du code de la route. Cela contribue à minimiser les accidents et à garantir la sécurité des passagers.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "bc2355b",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bc2355b",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Remedy of Frivolous Lawsuits",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Un système de surveillance fiable fournit des preuves recevables devant les tribunaux, dissuade les poursuites et réduit les frais juridiques pour les exploitants de flottes d’autobus. Ces preuves contribuent à résoudre les litiges et à protéger la réputation du service de transport.</p>",
+      "bodyText": "Un système de surveillance fiable fournit des preuves recevables devant les tribunaux, dissuade les poursuites et réduit les frais juridiques pour les exploitants de flottes d’autobus. Ces preuves contribuent à résoudre les litiges et à protéger la réputation du service de transport.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "44707cf",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-44707cf",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Enregistrement audio et vidéo clair",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Installez des caméras de surveillance à bord des bus afin d’enregistrer clairement les interactions entre le conducteur et les passagers, tant au niveau audio que vidéo. Ces enregistrements constituent des preuves précieuses en cas de litige ou d’incident, favorisent la responsabilisation et permettent de résoudre efficacement les conflits.</p>",
+      "bodyText": "Installez des caméras de surveillance à bord des bus afin d’enregistrer clairement les interactions entre le conducteur et les passagers, tant au niveau audio que vidéo. Ces enregistrements constituent des preuves précieuses en cas de litige ou d’incident, favorisent la responsabilisation et permettent de résoudre efficacement les conflits.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "b10fe41",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b10fe41",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Surveillance d'itinéraire en temps réel",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Utilisez des systèmes de surveillance en temps réel pour suivre la position des bus, contrôler les itinéraires et identifier tout écart ou retard. Cela permet aux exploitants de flottes d’intervenir immédiatement, d’optimiser l’efficacité des itinéraires et d’améliorer la fiabilité globale du service.</p>",
+      "bodyText": "Utilisez des systèmes de surveillance en temps réel pour suivre la position des bus, contrôler les itinéraires et identifier tout écart ou retard. Cela permet aux exploitants de flottes d’intervenir immédiatement, d’optimiser l’efficacité des itinéraires et d’améliorer la fiabilité globale du service.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b80d8ad",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "2c05ef5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2c05ef5",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Fleet Management VSS solution for public bus",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "49dde55",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-49dde55",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_481bb22941ef442eb7cfa201b901fd04mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 687,
+          "height": 285
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "55ffb32",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-55ffb32",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Surveillance",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le DVR mobile assure une vidéosurveillance multicanaux pour les bus.</p>",
+      "bodyText": "Le DVR mobile assure une vidéosurveillance multicanaux pour les bus.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "7f34b8e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7f34b8e",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Rallonges",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Publicité, techniques de communication vocale, etc.</p>",
+      "bodyText": "Publicité, techniques de communication vocale, etc.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "5234a12",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5234a12",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Facturation",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;</p>",
+      "bodyText": "MDT (mobile data terminal) is a kind of robust android industrial tablet in the vehicle. Bus management app can be installed and use RS232 to integrate with RFID validator to realize ticket management;",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "7cd3b26",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7cd3b26",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Les gens comptent",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les enregistrements des recenseurs peuvent être transférés en temps réel via RS232 vers un enregistreur vidéo numérique (MDVR) ou directement vers un système de gestion de contenu (CMS) via 3G/4G. En présence d’un MDVR, il est possible d’étiqueter la vidéo lors du passage d’une personne afin de la consulter ultérieurement et d’effectuer des vérifications manuelles.</p>",
+      "bodyText": "Les enregistrements des recenseurs peuvent être transférés en temps réel via RS232 vers un enregistreur vidéo numérique (MDVR) ou directement vers un système de gestion de contenu (CMS) via 3G/4G. En présence d’un MDVR, il est possible d’étiqueter la vidéo lors du passage d’une personne afin de la consulter ultérieurement et d’effectuer des vérifications manuelles.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "817de7b",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-817de7b",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "ADAS/DMS",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ce système détecte la fatigue au volant, les comportements de conduite dangereux et assure la surveillance des systèmes avancés d’aide à la conduite (ADAS). Il envoie simultanément des alertes vocales et un rapport à la plateforme de gestion. Ainsi, il contribue à la protection du conducteur et à la réduction du nombre d’accidents.</p>",
+      "bodyText": "Ce système détecte la fatigue au volant, les comportements de conduite dangereux et assure la surveillance des systèmes avancés d’aide à la conduite (ADAS). Il envoie simultanément des alertes vocales et un rapport à la plateforme de gestion. Ainsi, il contribue à la protection du conducteur et à la réduction du nombre d’accidents.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-196d894",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "7cc0989",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7cc0989",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ce que nous faisons pour votre entreprise",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-024b566",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "9c57a88",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9c57a88",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Les solutions de gestion de flottes de bus de Jaxicloud offrent un ensemble complet d’avantages en matière de sécurité, d’efficacité opérationnelle et de réduction des coûts, ce qui permet d’améliorer la qualité du service et la satisfaction des clients.</p>",
+      "bodyText": "Les solutions de gestion de flottes de bus de Jaxicloud offrent un ensemble complet d’avantages en matière de sécurité, d’efficacité opérationnelle et de réduction des coûts, ce qui permet d’améliorer la qualité du service et la satisfaction des clients.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-024b566",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 5,
+      "elementorId": "aa98172",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aa98172",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Amélioration de la sécurité",
+      "bodyHtml": "<p>Les solutions de gestion de flottes de bus de Jaxicloud intègrent des systèmes de surveillance avancés comprenant des caméras haute définition, le suivi GPS et la surveillance en temps réel. Ceci garantit la sécurité des passagers, dissuade les actes criminels et fournit des preuves précieuses en cas d’incident.</p>",
+      "bodyText": "Les solutions de gestion de flottes de bus de Jaxicloud intègrent des systèmes de surveillance avancés comprenant des caméras haute définition, le suivi GPS et la surveillance en temps réel. Ceci garantit la sécurité des passagers, dissuade les actes criminels et fournit des preuves précieuses en cas d’incident.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "479b6ae",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-479b6ae",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Améliorer la gestion des indicateurs clés de performance des conducteurs",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Les solutions de gestion de flottes de bus de Jaxicloud permettent un suivi en temps réel de la localisation des bus, des écarts d’itinéraire et du nombre de passagers. Elles aident ainsi les exploitants de flottes à optimiser les itinéraires, à allouer efficacement les ressources et à améliorer l’efficacité opérationnelle globale.</p>",
+      "bodyText": "Les solutions de gestion de flottes de bus de Jaxicloud permettent un suivi en temps réel de la localisation des bus, des écarts d’itinéraire et du nombre de passagers. Elles aident ainsi les exploitants de flottes à optimiser les itinéraires, à allouer efficacement les ressources et à améliorer l’efficacité opérationnelle globale.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "35c5ec0",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-35c5ec0",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Réduction des coûts",
+      "bodyHtml": "<p>En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.</p>",
+      "bodyText": "En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 5,
+      "elementorId": "447095d",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-447095d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Protection juridique",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">La présence d’un système de surveillance fiable, tel que celui proposé par Jaxicloud Fleet Management, contribue à protéger les exploitants de flottes d’autobus contre les fausses déclarations et les poursuites abusives. Les preuves recevables recueillies par le système peuvent servir à se défendre contre les demandes d’indemnisation, permettant ainsi de réduire les frais juridiques.</p>",
+      "bodyText": "La présence d’un système de surveillance fiable, tel que celui proposé par Jaxicloud Fleet Management, contribue à protéger les exploitants de flottes d’autobus contre les fausses déclarations et les poursuites abusives. Les preuves recevables recueillies par le système peuvent servir à se défendre contre les demandes d’indemnisation, permettant ainsi de réduire les frais juridiques.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 5,
+      "elementorId": "1e8d63d",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e8d63d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Analyse et aperçu des données",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.</p>",
+      "bodyText": "En tirant parti des solutions de gestion de flottes de bus Jaxicloud, les exploitants peuvent réduire leurs coûts d’exploitation grâce à une planification optimisée des itinéraires, au suivi de la consommation de carburant et à des programmes de maintenance préventive. Il en résulte une meilleure maîtrise des coûts et une rentabilité accrue.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 5,
+      "elementorId": "5783a69",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5783a69",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Expérience passager améliorée",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Grâce à la surveillance en temps réel, aux horaires précis et aux mesures de sécurité renforcées, les solutions de bus Howen contribuent à une meilleure expérience des passagers. Ces derniers bénéficient ainsi d’une sécurité accrue, d’un service fiable, d’itinéraires optimisés et d’arrivées à l’heure.</p>",
+      "bodyText": "Grâce à la surveillance en temps réel, aux horaires précis et aux mesures de sécurité renforcées, les solutions de bus Howen contribuent à une meilleure expérience des passagers. Ces derniers bénéficient ainsi d’une sécurité accrue, d’un service fiable, d’itinéraires optimisés et d’arrivées à l’heure.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-383bb85",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 6,
+      "elementorId": "ab2c737",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ab2c737",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Clients clés",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 6,
+      "elementorId": "5344e69",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5344e69",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">La solution de gestion de flottes de bus Jaxicloud a su gagner la confiance d’un large éventail de clients clés du secteur des transports. Nos systèmes de surveillance avancés et nos technologies innovantes ont contribué à améliorer la sécurité, à optimiser les opérations et à enrichir l’expérience globale des passagers. Nous sommes fiers de collaborer avec les principaux opérateurs de bus, agences de transport public et sociétés de gestion de flottes qui s’appuient sur nos solutions pour atteindre leurs objectifs d’efficacité, de fiabilité et de satisfaction client.</p>",
+      "bodyText": "La solution de gestion de flottes de bus Jaxicloud a su gagner la confiance d’un large éventail de clients clés du secteur des transports. Nos systèmes de surveillance avancés et nos technologies innovantes ont contribué à améliorer la sécurité, à optimiser les opérations et à enrichir l’expérience globale des passagers. Nous sommes fiers de collaborer avec les principaux opérateurs de bus, agences de transport public et sociétés de gestion de flottes qui s’appuient sur nos solutions pour atteindre leurs objectifs d’efficacité, de fiabilité et de satisfaction client.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 6,
+      "elementorId": "20cd1d5",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-20cd1d5",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "En savoir plus sur la solution",
+          "href": "https://www.jaxicloud.com/en/nimbus/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0e930e0",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 27,
+    "sectionCount": 7,
+    "htmlBytes": 41003
+  }
+}

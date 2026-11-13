@@ -1,0 +1,3358 @@
+{
+  "slug": "logistics-delivery-system",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Logistics delivery system – DA",
+    "en": "Logistics delivery system",
+    "de": "Logistics delivery system – DE",
+    "fr": "Logistics delivery system – FR",
+    "nl": "Logistics delivery system – HL",
+    "nb": "Logistics delivery system – NO",
+    "sv": "Logistics delivery system – SV",
+    "tr": "Logistics delivery system – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Logistik leveringssystem - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Logistics delivery system - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Logistik-Liefersystem - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Système de livraison logistique - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Logistiek leveringssysteem - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Logistikk leveringssystem - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Logistik leveranssystem - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Lojistik teslimat sistemi - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/logistics-delivery-system/",
+    "en": "https://www.jaxicloud.com/en/logistics-delivery-system-2/",
+    "de": "https://www.jaxicloud.com/de/logistics-delivery-system-de/",
+    "fr": "https://www.jaxicloud.com/fr/logistics-delivery-system-fr/",
+    "nl": "https://www.jaxicloud.com/nl/logistics-delivery-system-hl/",
+    "nb": "https://www.jaxicloud.com/nb/logistics-delivery-system-no/",
+    "sv": "https://www.jaxicloud.com/sv/logistics-delivery-system-sv/",
+    "tr": "https://www.jaxicloud.com/tr/logistics-delivery-system-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Logistik leveringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Logistics delivery system",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lieferflottenmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Système de livraison logistique",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Logistiek leveringssysteem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Logistikk leveringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Logistik leveranssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Lojistik teslimat sistemi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Flådestyring af leveringer med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Delivery fleet management with Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lieferflottenmanagement mit Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gestion de flotte de livraison avec Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Beheer van het leveringswagenpark met Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Leveringsflåtestyring med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Leveransflottanshantering med Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi ile teslimat filosu yönetimi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Lad dine kunder udføre en bred vifte af logistikopgaver til levering på sidste kilometer. Implementer flådestyring til levering for at automatisere og digitalisere flådeejerens forretning.Udstyr erhvervsflåder med et værktøj til lastbilchauffører og en mobilapplikation til chauffører. Daglig ordreimport og -distribution, planlægning og optimering af ruter, leveringskontrol, rapporter, notifikationer og muligheder for tredjepartsintegrationer står til rådighed for flådeejeren. Wialon kombinerer GPS-sporing, IoT og flådestyring for at øge profitten fra leveringsflåder. Download demo",
+          "bodyHtml": "<p>Lad dine kunder udføre en bred vifte af logistikopgaver til levering på sidste kilometer. Implementer flådestyring til levering for at automatisere og digitalisere flådeejerens forretning.</p><p>Udstyr erhvervsflåder med et værktøj til lastbilchauffører og en mobilapplikation til chauffører. Daglig ordreimport og -distribution, planlægning og optimering af ruter, leveringskontrol, rapporter, notifikationer og muligheder for tredjepartsintegrationer står til rådighed for flådeejeren. Wialon kombinerer GPS-sporing, IoT og flådestyring for at øge profitten fra leveringsflåder. Download demo</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Let your customers perform a wide range of logistics tasks for last-mile delivery. Implement delivery fleet management to automate and digitize the fleet owner’s business.Equip commercial fleets with a tool for truckers and a mobile application for drivers. Day-to-day order import and distribution, planning and optimization of routes, delivery control, reports, notifications and options for third-party integrations are at the disposal of the fleet owner. Wialon combines GPS tracking, IoT and fleet management to drive more profit from delivery fleets. Download demo",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Let your customers perform a wide range of logistics tasks for last-mile delivery. Implement delivery fleet management to automate and digitize the fleet owner’s business.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Equip commercial fleets with a tool for truckers and a mobile application for drivers. Day-to-day order import and distribution, planning and optimization of routes, delivery control, reports, notifications and options for third-party integrations are at the disposal of the fleet owner. Wialon combines GPS tracking, IoT and fleet management to drive more profit from delivery fleets. Download demo</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Überlassen Sie Ihren Kunden vielfältige Logistikaufgaben für die Zustellung auf der letzten Meile. Implementieren Sie das Lieferflottenmanagement, um das Geschäft des Flottenbesitzers zu automatisieren und zu digitalisieren.Statten Sie gewerbliche Flotten mit einem Tool für Trucker und einer mobilen Anwendung für Fahrer aus. Dem Flottenbesitzer stehen der tägliche Import und die Verteilung von Bestellungen, die Planung und Optimierung von Routen, die Lieferkontrolle, Berichte, Benachrichtigungen und Optionen für die Integration von Drittanbietern zur Verfügung. Wialon kombiniert GPS-Tracking, IoT und Flottenmanagement, um mehr Gewinn aus Lieferflotten zu erzielen",
+          "bodyHtml": "<p>Überlassen Sie Ihren Kunden vielfältige Logistikaufgaben für die Zustellung auf der letzten Meile. Implementieren Sie das Lieferflottenmanagement, um das Geschäft des Flottenbesitzers zu automatisieren und zu digitalisieren.</p><p>Statten Sie gewerbliche Flotten mit einem Tool für Trucker und einer mobilen Anwendung für Fahrer aus. Dem Flottenbesitzer stehen der tägliche Import und die Verteilung von Bestellungen, die Planung und Optimierung von Routen, die Lieferkontrolle, Berichte, Benachrichtigungen und Optionen für die Integration von Drittanbietern zur Verfügung. Wialon kombiniert GPS-Tracking, IoT und Flottenmanagement, um mehr Gewinn aus Lieferflotten zu erzielen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Let your customers perform a wide range of logistics tasks for last-mile delivery. Implement delivery fleet management to automate and digitize the fleet owner’s business.Equip commercial fleets with a tool for truckers and a mobile application for drivers. Day-to-day order import and distribution, planning and optimization of routes, delivery control, reports, notifications and options for third-party integrations are at the disposal of the fleet owner. Wialon combines GPS tracking, IoT and fleet management to drive more profit from delivery fleets. Download demo",
+          "bodyHtml": "<p>Let your customers perform a wide range of logistics tasks for last-mile delivery. Implement delivery fleet management to automate and digitize the fleet owner’s business.</p><p>Equip commercial fleets with a tool for truckers and a mobile application for drivers. Day-to-day order import and distribution, planning and optimization of routes, delivery control, reports, notifications and options for third-party integrations are at the disposal of the fleet owner. Wialon combines GPS tracking, IoT and fleet management to drive more profit from delivery fleets. Download demo</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Laat uw klanten een breed scala aan logistieke taken uitvoeren voor last-mile-levering. Implementeer het beheer van het leveringswagenpark om de activiteiten van de wagenparkeigenaar te automatiseren en te digitaliseren.Rust commerciële wagenparken uit met een tool voor vrachtwagenchauffeurs en een mobiele applicatie voor chauffeurs. De dagelijkse import en distributie van bestellingen, planning en optimalisatie van routes, leveringscontrole, rapporten, meldingen en opties voor integraties met derden staan ter beschikking van de wagenparkeigenaar. Wialon combineert GPS-tracking, IoT en wagenparkbeheer om meer winst uit bezorgvloten te halen. Download demo",
+          "bodyHtml": "<p>Laat uw klanten een breed scala aan logistieke taken uitvoeren voor last-mile-levering. Implementeer het beheer van het leveringswagenpark om de activiteiten van de wagenparkeigenaar te automatiseren en te digitaliseren.</p><p>Rust commerciële wagenparken uit met een tool voor vrachtwagenchauffeurs en een mobiele applicatie voor chauffeurs. De dagelijkse import en distributie van bestellingen, planning en optimalisatie van routes, leveringscontrole, rapporten, meldingen en opties voor integraties met derden staan ter beschikking van de wagenparkeigenaar. Wialon combineert GPS-tracking, IoT en wagenparkbeheer om meer winst uit bezorgvloten te halen. Download demo</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "La kundene dine utføre et bredt spekter av logistikkoppgaver for levering på siste mil. Implementer leveringsflåtestyring for å automatisere og digitalisere flåteeiers virksomhet.Utstyr kommersielle flåter med et verktøy for lastebilsjåfører og en mobilapplikasjon for sjåfører. Dag-til-dag ordreimport og distribusjon, planlegging og optimalisering av ruter, leveringskontroll, rapporter, varslinger og muligheter for tredjepartsintegrasjoner står til disposisjon for flåteeieren. Wialon kombinerer GPS-sporing, IoT og flåtestyring for å generere mer fortjeneste fra leveringsflåter. Last ned demo",
+          "bodyHtml": "<p>La kundene dine utføre et bredt spekter av logistikkoppgaver for levering på siste mil. Implementer leveringsflåtestyring for å automatisere og digitalisere flåteeiers virksomhet.</p><p>Utstyr kommersielle flåter med et verktøy for lastebilsjåfører og en mobilapplikasjon for sjåfører. Dag-til-dag ordreimport og distribusjon, planlegging og optimalisering av ruter, leveringskontroll, rapporter, varslinger og muligheter for tredjepartsintegrasjoner står til disposisjon for flåteeieren. Wialon kombinerer GPS-sporing, IoT og flåtestyring for å generere mer fortjeneste fra leveringsflåter. Last ned demo</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Låt dina kunder utföra ett brett utbud av logistikuppgifter för sista mils leverans. Implementera leveransparkshantering för att automatisera och digitalisera flottans ägares verksamhet.Utrusta kommersiella flottor med ett verktyg för lastbilschaufförer och en mobilapplikation för förare. Dag-till-dag orderimport och distribution, planering och optimering av rutter, leveranskontroll, rapporter, aviseringar och alternativ för tredjepartsintegrationer står till flottans ägares förfogande. Wialon kombinerar GPS-spårning, IoT och fleet management för att få mer vinst från leveransflottor Ladda ner demo",
+          "bodyHtml": "<p>Låt dina kunder utföra ett brett utbud av logistikuppgifter för sista mils leverans. Implementera leveransparkshantering för att automatisera och digitalisera flottans ägares verksamhet.</p><p>Utrusta kommersiella flottor med ett verktyg för lastbilschaufförer och en mobilapplikation för förare. Dag-till-dag orderimport och distribution, planering och optimering av rutter, leveranskontroll, rapporter, aviseringar och alternativ för tredjepartsintegrationer står till flottans ägares förfogande. Wialon kombinerar GPS-spårning, IoT och fleet management för att få mer vinst från leveransflottor Ladda ner demo</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Müşterilerinizin son kilometre teslimatı için çok çeşitli lojistik görevleri gerçekleştirmesine izin verin. Filo sahibinin işini otomatikleştirmek ve dijitalleştirmek için teslimat filosu yönetimini uygulayın.Ticari filoları kamyonculara yönelik bir araç ve sürücülere yönelik bir mobil uygulamayla donatın. Günlük sipariş ithalatı ve dağıtımı, rotaların planlanması ve optimizasyonu, teslimat kontrolü, raporlar, bildirimler ve üçüncü taraf entegrasyon seçenekleri filo sahibinin emrindedir. Wialon, teslimat filolarından daha fazla kâr elde etmek için GPS izlemeyi, IoT’yi ve filo yönetimini birleştirir.",
+          "bodyHtml": "<p>Müşterilerinizin son kilometre teslimatı için çok çeşitli lojistik görevleri gerçekleştirmesine izin verin. Filo sahibinin işini otomatikleştirmek ve dijitalleştirmek için teslimat filosu yönetimini uygulayın.</p><p>Ticari filoları kamyonculara yönelik bir araç ve sürücülere yönelik bir mobil uygulamayla donatın. Günlük sipariş ithalatı ve dağıtımı, rotaların planlanması ve optimizasyonu, teslimat kontrolü, raporlar, bildirimler ve üçüncü taraf entegrasyon seçenekleri filo sahibinin emrindedir. Wialon, teslimat filolarından daha fazla kâr elde etmek için GPS izlemeyi, IoT’yi ve filo yönetimini birleştirir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ca2aa0d842dc4204b24c3c8448123e41mv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ca2aa0d842dc4204b24c3c8448123e41mv2.gif",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjælpe med leveringsflåder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How Jaxicloud Fleet Management can help with delivery fleets",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wie Jaxicloud Fleet Management bei Lieferflotten helfen kann",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment Jaxicloud Fleet Management peut aider les flottes de livraison",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe Jaxicloud Fleet Management kan helpen met bezorgvloten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur Jaxicloud Fleet Management kan hjälpa till med leveransflottor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi teslimat filolarına nasıl yardımcı olabilir?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Mindre manuelt arbejde",
+          "body": "Automatisk ruteoprettelse, ordreimport og dataflow til tredjepartsapps erstatter tidvis af manuelt arbejde for dine kunders medarbejdere.",
+          "bodyHtml": "<p>Automatisk ruteoprettelse, ordreimport og dataflow til tredjepartsapps erstatter tidvis af manuelt arbejde for dine kunders medarbejdere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Less manual work",
+          "body": "Automatic route creation, order import, and data flow to third-party apps replace hours of manual work for your client’s employees.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Automatic route creation, order import, and data flow to third-party apps replace hours of manual work for your client’s employees.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Weniger manuelle Arbeit",
+          "body": "Automatische Routenerstellung, Auftragsimport und Datenfluss zu Drittanbieter-Apps ersetzen stundenlange manuelle Arbeit für die Mitarbeiter Ihres Kunden.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Automatische Routenerstellung, Auftragsimport und Datenfluss zu Drittanbieter-Apps ersetzen stundenlange manuelle Arbeit für die Mitarbeiter Ihres Kunden.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Moins de travail manuel",
+          "body": "La création automatique d’itinéraires, l’importation des commandes et le flux de données vers des applications tierces remplacent des heures de travail manuel pour les employés de votre client.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">La création automatique d’itinéraires, l’importation des commandes et le flux de données vers des applications tierces remplacent des heures de travail manuel pour les employés de votre client.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Minder handmatig werk",
+          "body": "Automatische routecreatie, orderimport en gegevensstroom naar apps van derden vervangen urenlang handmatig werk voor de medewerkers van uw klant.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Automatische routecreatie, orderimport en gegevensstroom naar apps van derden vervangen urenlang handmatig werk voor de medewerkers van uw klant.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kontroll i sanntid",
+          "body": "Ekspeditører holder seg oppdatert via varsler, kommuniserer med sjåfører, overvåker arbeidet deres i sanntid og reagerer raskt for å forbedre tjenestekvaliteten og unngå forsinkelser.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Ekspeditører holder seg oppdatert via varsler, kommuniserer med sjåfører, overvåker arbeidet deres i sanntid og reagerer raskt for å forbedre tjenestekvaliteten og unngå forsinkelser.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Mindre manuellt arbete",
+          "body": "Automatisk rutter skapade, orderimport och dataflöde till tredjepartsappar ersätter timmar av manuellt arbete för dina kunders anställda.",
+          "bodyHtml": "<p>Automatisk rutter skapade, orderimport och dataflöde till tredjepartsappar ersätter timmar av manuellt arbete för dina kunders anställda.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Daha az manuel çalışma",
+          "body": "Otomatik rota oluşturma, siparişlerin içe aktarılması ve üçüncü taraf uygulamalara veri akışı, müşterinizin çalışanlarının saatlerce süren manuel çalışmasının yerini alır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Otomatik rota oluşturma, siparişlerin içe aktarılması ve üçüncü taraf uygulamalara veri akışı, müşterinizin çalışanlarının saatlerce süren manuel çalışmasının yerini alır.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Styring i realtid",
+          "body": "Disponenter holder sig opdateret via notifikationer, kommunikerer med chauffører, overvåger deres arbejde i realtid og reagerer hurtigt for at forbedre servicekvaliteten og undgå forsinkelser.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Disponenter holder sig opdateret via notifikationer, kommunikerer med chauffører, overvåger deres arbejde i realtid og reagerer hurtigt for at forbedre servicekvaliteten og undgå forsinkelser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Real-time control",
+          "body": "Dispatchers stay updated via notifications, communicate with drivers, monitor their work in real time, and respond quickly to improve service quality and avoid delays.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Dispatchers stay updated via notifications, communicate with drivers, monitor their work in real time, and respond quickly to improve service quality and avoid delays.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Echtzeitsteuerung",
+          "body": "Disponenten bleiben über Benachrichtigungen auf dem Laufenden, kommunizieren mit den Fahrern, überwachen deren Arbeit in Echtzeit und reagieren schnell, um die Servicequalität zu verbessern und Verzögerungen zu vermeiden.",
+          "bodyHtml": "<p>Disponenten bleiben über Benachrichtigungen auf dem Laufenden, kommunizieren mit den Fahrern, überwachen deren Arbeit in Echtzeit und reagieren schnell, um die Servicequalität zu verbessern und Verzögerungen zu vermeiden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Contrôle en temps réel",
+          "body": "Les répartiteurs restent informés grâce aux notifications, communiquent avec les chauffeurs, surveillent leur travail en temps réel et réagissent rapidement afin d’améliorer la qualité du service et d’éviter les retards.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les répartiteurs restent informés grâce aux notifications, communiquent avec les chauffeurs, surveillent leur travail en temps réel et réagissent rapidement afin d’améliorer la qualité du service et d’éviter les retards.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Controle in realtime",
+          "body": "Dispatchers blijven op de hoogte via meldingen, communiceren met chauffeurs, volgen hun werk in realtime en reageren snel om de servicekwaliteit te verbeteren en vertragingen te voorkomen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Dispatchers blijven op de hoogte via meldingen, communiceren met chauffeurs, volgen hun werk in realtime en reageren snel om de servicekwaliteit te verbeteren en vertragingen te voorkomen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Tilgjengelighet av historiske data",
+          "body": "Gi klienten din mulighet til å forbedre prosessene sine ved regelmessig å analysere planlagte og faktiske ruter, leveringsvarighet, kjørelengde og mer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Gi klienten din mulighet til å forbedre prosessene sine ved regelmessig å analysere planlagte og faktiske ruter, leveringsvarighet, kjørelengde og mer.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kontroll i realtid",
+          "body": "Ledningsförare håller sig uppdaterade via aviseringar, kommunicerar med förare, övervakar deras arbete i realtid och reagerar snabbt för att förbättra servicekvaliteten och undvika förseningar.",
+          "bodyHtml": "<p>Ledningsförare håller sig uppdaterade via aviseringar, kommunicerar med förare, övervakar deras arbete i realtid och reagerar snabbt för att förbättra servicekvaliteten och undvika förseningar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Gerçek zamanlı kontrol",
+          "body": "Sevk memurları bildirimler yoluyla güncel bilgiler alır, sürücülerle iletişim kurar, işlerini gerçek zamanlı olarak izler ve hizmet kalitesini artırmak ve gecikmeleri önlemek için hızlı bir şekilde tepki verir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sevk memurları bildirimler yoluyla güncel bilgiler alır, sürücülerle iletişim kurar, işlerini gerçek zamanlı olarak izler ve hizmet kalitesini artırmak ve gecikmeleri önlemek için hızlı bir şekilde tepki verir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tilgængelighed af historiske data",
+          "body": "Giv din klient mulighed for at forbedre deres processer ved regelmæssigt at analysere planlagte og faktiske ruter, leveringsvarighed, kilometertal og mere.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Giv din klient mulighed for at forbedre deres processer ved regelmæssigt at analysere planlagte og faktiske ruter, leveringsvarighed, kilometertal og mere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Availability of historical data",
+          "body": "Empower your client to improve their processes by regularly analyzing planned and actual routes, delivery duration, mileage, and more.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Empower your client to improve their processes by regularly analyzing planned and actual routes, delivery duration, mileage, and more.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Verfügbarkeit historischer Daten",
+          "body": "Unterstützen Sie Ihren Kunden bei der Verbesserung seiner Prozesse durch regelmäßige Analysen der geplanten und tatsächlichen Routen, der Lieferdauer, der Kilometerzahl und mehr.",
+          "bodyHtml": "<p>Unterstützen Sie Ihren Kunden bei der Verbesserung seiner Prozesse durch regelmäßige Analysen der geplanten und tatsächlichen Routen, der Lieferdauer, der Kilometerzahl und mehr.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Disponibilité des données historiques",
+          "body": "Donnez à votre client les moyens d’améliorer ses processus en analysant régulièrement les itinéraires prévus et réels, la durée des livraisons, le kilométrage, et bien plus encore.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Donnez à votre client les moyens d’améliorer ses processus en analysant régulièrement les itinéraires prévus et réels, la durée des livraisons, le kilométrage, et bien plus encore.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Beschikbaarheid van historische gegevens",
+          "body": "Geef uw klant de mogelijkheid om zijn processen te verbeteren door regelmatig geplande en daadwerkelijke routes, bezorgduur, kilometerstanden en meer te analyseren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Geef uw klant de mogelijkheid om zijn processen te verbeteren door regelmatig geplande en daadwerkelijke routes, bezorgduur, kilometerstanden en meer te analyseren.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Bevis på utført arbeid",
+          "body": "Med Wialon vet kunden din med sikkerhet at kureren har fullført oppgaven. Bildebevis kan også brukes til å løse problemer med potensielle motparter.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Med Wialon vet kunden din med sikkerhet at kureren har fullført oppgaven. Bildebevis kan også brukes til å løse problemer med potensielle motparter.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tillgänglighet av historiska data",
+          "body": "Ge din kund möjlighet att förbättra sina processer genom att regelbundet analysera planerade och faktiska rutter, leveranstid, körsträcka med mera.",
+          "bodyHtml": "<p>Ge din kund möjlighet att förbättra sina processer genom att regelbundet analysera planerade och faktiska rutter, leveranstid, körsträcka med mera.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Geçmiş verilerin kullanılabilirliği",
+          "body": "Planlanan ve fiili rotaları, teslimat süresini, kilometreyi ve daha fazlasını düzenli olarak analiz ederek müşterinizin süreçlerini iyileştirmesine olanak sağlayın.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Planlanan ve fiili rotaları, teslimat süresini, kilometreyi ve daha fazlasını düzenli olarak analiz ederek müşterinizin süreçlerini iyileştirmesine olanak sağlayın.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Bevis for udført arbejde",
+          "body": "Med Wialon ved din kunde med sikkerhed, at kureren har udført opgaven. Billedbevis kan også bruges til at løse problemer med potentielle modparter.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med Wialon ved din kunde med sikkerhed, at kureren har udført opgaven. Billedbevis kan også bruges til at løse problemer med potentielle modparter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Proof of work performed",
+          "body": "With Wialon, your customer knows for sure that the courier has completed the task. Photo evidence can also be used to resolve issues with potential counterparties.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">With Wialon, your customer knows for sure that the courier has completed the task. Photo evidence can also be used to resolve issues with potential counterparties.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Nachweis der geleisteten Arbeit",
+          "body": "Mit Wialon weiß Ihr Kunde sicher, dass der Kurier die Aufgabe erledigt hat. Fotobeweise können auch zur Lösung von Problemen mit potenziellen Gegenparteien verwendet werden.",
+          "bodyHtml": "<p>Mit Wialon weiß Ihr Kunde sicher, dass der Kurier die Aufgabe erledigt hat. Fotobeweise können auch zur Lösung von Problemen mit potenziellen Gegenparteien verwendet werden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Preuve du travail effectué",
+          "body": "Avec Wialon, votre client a la certitude que le coursier a bien effectué sa livraison. Les preuves photographiques peuvent également servir à résoudre les litiges avec d’éventuels cocontractants.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Avec Wialon, votre client a la certitude que le coursier a bien effectué sa livraison. Les preuves photographiques peuvent également servir à résoudre les litiges avec d’éventuels cocontractants.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bewijs van uitgevoerd werk",
+          "body": "Met Wialon weet uw klant met zekerheid dat de koerier de taak heeft volbracht. Fotobewijs kan ook worden gebruikt om problemen met potentiële tegenpartijen op te lossen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Met Wialon weet uw klant met zekerheid dat de koerier de taak heeft volbracht. Fotobewijs kan ook worden gebruikt om problemen met potentiële tegenpartijen op te lossen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sparer tid",
+          "body": "Kundens ansatte vil droppe Excel-regneark, manuell rutebygging og anrop til flåtebud hver gang ruten deres endrer seg selv den minste bit.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Kundens ansatte vil droppe Excel-regneark, manuell rutebygging og anrop til flåtebud hver gang ruten deres endrer seg selv den minste bit.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Bevis på utfört arbete",
+          "body": "Med Wialon vet din kund säkert att kuriren har slutfört uppgiften. Fotobevis kan också användas för att lösa problem med potentiella motparter.",
+          "bodyHtml": "<p>Med Wialon vet din kund säkert att kuriren har slutfört uppgiften. Fotobevis kan också användas för att lösa problem med potentiella motparter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yapılan işin kanıtı",
+          "body": "Wialon ile müşteriniz kuryenin görevi tamamladığını kesin olarak bilir. Fotoğraf kanıtları, potansiyel karşı taraflarla yaşanan sorunları çözmek için de kullanılabilir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Wialon ile müşteriniz kuryenin görevi tamamladığını kesin olarak bilir. Fotoğraf kanıtları, potansiyel karşı taraflarla yaşanan sorunları çözmek için de kullanılabilir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sparer tid",
+          "body": "Dine kunders medarbejdere vil droppe Excel-regneark, manuel ruteopbygning og opkald til flådekurerer, hver gang deres rute ændrer sig den mindste smule.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dine kunders medarbejdere vil droppe Excel-regneark, manuel ruteopbygning og opkald til flådekurerer, hver gang deres rute ændrer sig den mindste smule.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Saves time",
+          "body": "Your customer’s employees will ditch Excel spreadsheets, manual route building, and calling fleet couriers every time their route changes even the slightest bit.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Your customer’s employees will ditch Excel spreadsheets, manual route building, and calling fleet couriers every time their route changes even the slightest bit.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Spart Zeit",
+          "body": "Die Mitarbeiter Ihres Kunden werden auf Excel-Tabellen, manuelle Routenplanung und das Anrufen von Flottenkurieren bei jeder noch so kleinen Änderung ihrer Route verzichten.",
+          "bodyHtml": "<p>Die Mitarbeiter Ihres Kunden werden auf Excel-Tabellen, manuelle Routenplanung und das Anrufen von Flottenkurieren bei jeder noch so kleinen Änderung ihrer Route verzichten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Gain de temps",
+          "body": "Les employés de votre client abandonneront les feuilles de calcul Excel, la création manuelle d’itinéraires et les appels aux coursiers à chaque modification, même minime, de leur itinéraire.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les employés de votre client abandonneront les feuilles de calcul Excel, la création manuelle d’itinéraires et les appels aux coursiers à chaque modification, même minime, de leur itinéraire.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bespaart tijd",
+          "body": "De medewerkers van uw klant zullen Excel-spreadsheets, het handmatig opstellen van routes en het bellen naar wagenparkkoeriers achterwege laten telkens wanneer hun route ook maar het kleinste beetje verandert.",
+          "bodyHtml": "<p>De medewerkers van uw klant zullen Excel-spreadsheets, het handmatig opstellen van routes en het bellen naar wagenparkkoeriers achterwege laten telkens wanneer hun route ook maar het kleinste beetje verandert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sparer ressurser",
+          "body": "Med ruteoptimalisering som tilbys av appen, leverer kunden din flere bestillinger med mindre drivstoff og slitasje innenfor samme lønnsbudsjett.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Med ruteoptimalisering som tilbys av appen, leverer kunden din flere bestillinger med mindre drivstoff og slitasje innenfor samme lønnsbudsjett.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Sparar tid",
+          "body": "Dina kunders anställda kommer att skippa Excel-ark, manuell ruttbyggande och att ringa flottbud varje gång deras rutt ändras, det minsta.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Dina kunders anställda kommer att skippa Excel-ark, manuell ruttbyggande och att ringa flottbud varje gång deras rutt ändras, det minsta.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Zamandan tasarruf sağlar",
+          "body": "Müşterinizin çalışanları, rotaları en ufak bir şekilde değiştiğinde Excel elektronik tablolarından, manuel rota oluşturmadan ve filo kuryelerini aramaktan vazgeçecek.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Müşterinizin çalışanları, rotaları en ufak bir şekilde değiştiğinde Excel elektronik tablolarından, manuel rota oluşturmadan ve filo kuryelerini aramaktan vazgeçecek.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sparer ressourcer",
+          "body": "Med ruteoptimering, der tilbydes af appen, leverer din kunde flere ordrer med mindre brændstof og slitage inden for det samme lønbudget.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med ruteoptimering, der tilbydes af appen, leverer din kunde flere ordrer med mindre brændstof og slitage inden for det samme lønbudget.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Saves resources",
+          "body": "With route optimization offered by the app, your customer delivers more orders with less fuel and wear and tear within the same salary budget.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">With route optimization offered by the app, your customer delivers more orders with less fuel and wear and tear within the same salary budget.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Spart Ressourcen",
+          "body": "Mit der Routenoptimierung der App liefert Ihr Kunde bei gleichem Gehaltsbudget mehr Aufträge mit weniger Kraftstoffverbrauch und Verschleiß aus.",
+          "bodyHtml": "<p>Mit der Routenoptimierung der App liefert Ihr Kunde bei gleichem Gehaltsbudget mehr Aufträge mit weniger Kraftstoffverbrauch und Verschleiß aus.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Économise des ressources",
+          "body": "Grâce à l’optimisation des itinéraires proposée par l’application, votre client effectue plus de livraisons en consommant moins de carburant et en réduisant l’usure de son véhicule, tout en conservant le même budget salarial.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Grâce à l’optimisation des itinéraires proposée par l’application, votre client effectue plus de livraisons en consommant moins de carburant et en réduisant l’usure de son véhicule, tout en conservant le même budget salarial.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bespaart hulpbronnen",
+          "body": "Met de routeoptimalisatie van de app levert uw klant meer bestellingen met minder brandstof en slijtage binnen hetzelfde salarisbudget.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Met de routeoptimalisatie van de app levert uw klant meer bestellingen met minder brandstof en slijtage binnen hetzelfde salarisbudget.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Sparar resurser",
+          "body": "Med ruttoptimering som erbjuds av appen levererar din kund fler beställningar med mindre bränsle och slitage inom samma lönebudget.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Med ruttoptimering som erbjuds av appen levererar din kund fler beställningar med mindre bränsle och slitage inom samma lönebudget.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kaynakları kaydeder",
+          "body": "Uygulamanın sunduğu rota optimizasyonu sayesinde müşteriniz, aynı maaş bütçesi dahilinde daha az yakıt ve aşınma ve yıpranmayla daha fazla sipariş teslim eder.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Uygulamanın sunduğu rota optimizasyonu sayesinde müşteriniz, aynı maaş bütçesi dahilinde daha az yakıt ve aşınma ve yıpranmayla daha fazla sipariş teslim eder.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2c8c89d43.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2c8c89d43.jpg",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cacc754f.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cacc754f.png",
+          "width": 484,
+          "height": 305
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "image",
+      "order": 14,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cb6821c7-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cb6821c7-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "image",
+      "order": 15,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cbe9373b1-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cbe9373b1-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "heading",
+      "order": 16,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Ordrer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Orders",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Bestellungen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ordres",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bestellingen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Order",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Siparişler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "richText",
+      "order": 17,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Lad kunder oprette, importere og eksportere ordrer i store mængder og manuelt tilføje eller redigere dem efter behov. Indstillinger som brugerdefinerede felter, vedhæftede filer og andet giver kunderne mulighed for at bruge appen til levering i de fleste brancher.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Lad kunder oprette, importere og eksportere ordrer i store mængder og manuelt tilføje eller redigere dem efter behov. Indstillinger som brugerdefinerede felter, vedhæftede filer og andet giver kunderne mulighed for at bruge appen til levering i de fleste brancher.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Let customers create, bulk import and export orders and manually add or edit them as needed. Options like custom fields, attachments and others let customers use the app for delivery in most industries.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Let customers create, bulk import and export orders and manually add or edit them as needed. Options like custom fields, attachments and others let customers use the app for delivery in most industries.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Ermöglichen Sie Kunden das Erstellen, Massenimportieren und -exportieren von Bestellungen und lassen Sie sie bei Bedarf manuell hinzufügen oder bearbeiten. Optionen wie benutzerdefinierte Felder, Anhänge und mehr ermöglichen es Kunden, die App für Lieferungen in den meisten Branchen zu verwenden.",
+          "bodyHtml": "<p>Ermöglichen Sie Kunden das Erstellen, Massenimportieren und -exportieren von Bestellungen und lassen Sie sie bei Bedarf manuell hinzufügen oder bearbeiten. Optionen wie benutzerdefinierte Felder, Anhänge und mehr ermöglichen es Kunden, die App für Lieferungen in den meisten Branchen zu verwenden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Permettez à vos clients de créer, d’importer et d’exporter des commandes en masse, et de les modifier manuellement selon vos besoins. Grâce à des options comme les champs personnalisés, les pièces jointes et autres, ils peuvent utiliser l’application pour la livraison dans la plupart des secteurs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Permettez à vos clients de créer, d’importer et d’exporter des commandes en masse, et de les modifier manuellement selon vos besoins. Grâce à des options comme les champs personnalisés, les pièces jointes et autres, ils peuvent utiliser l’application pour la livraison dans la plupart des secteurs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Laat klanten bestellingen aanmaken, in bulk importeren en exporteren en deze indien nodig handmatig toevoegen of bewerken. Met opties zoals aangepaste velden, bijlagen en andere kunnen klanten de app gebruiken voor levering in de meeste sectoren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Laat klanten bestellingen aanmaken, in bulk importeren en exporteren en deze indien nodig handmatig toevoegen of bewerken. Met opties zoals aangepaste velden, bijlagen en andere kunnen klanten de app gebruiken voor levering in de meeste sectoren.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Müşterilerin siparişleri oluşturmasına, toplu olarak içe ve dışa aktarmasına ve gerektiğinde bunları manuel olarak eklemesine veya düzenlemesine izin verin. Özel alanlar, ekler ve diğerleri gibi seçenekler, müşterilerin çoğu sektörde teslimat için uygulamayı kullanmasına olanak tanır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Müşterilerin siparişleri oluşturmasına, toplu olarak içe ve dışa aktarmasına ve gerektiğinde bunları manuel olarak eklemesine veya düzenlemesine izin verin. Özel alanlar, ekler ve diğerleri gibi seçenekler, müşterilerin çoğu sektörde teslimat için uygulamayı kullanmasına olanak tanır.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "heading",
+      "order": 18,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Rute- og ordreinformation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Route and order information",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Routenplanung für die Lieferung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Informations sur l'itinéraire et la commande",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Route- en bestelinformatie",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rutt- och orderinformation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Rota ve sipariş bilgileri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "richText",
+      "order": 19,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Alle nødvendige oplysninger til leveringen samles i en enkelt app og opdateres i realtid.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Alle nødvendige oplysninger til leveringen samles i en enkelt app og opdateres i realtid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "All necessary information for the delivery is collected in a single app and updated in real time.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">All necessary information for the delivery is collected in a single app and updated in real time.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Lieferlogistik-App erstellt vorläufige Routen für ausgewählte Bestellungen und Fahrzeuge mit geschätzten Ankunftszeiten und Kilometerzahlen. Die angebotenen Routen können während der Planungsphase angepasst werden.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Die Lieferlogistik-App erstellt vorläufige Routen für ausgewählte Bestellungen und Fahrzeuge mit geschätzten Ankunftszeiten und Kilometerzahlen. Die angebotenen Routen können während der Planungsphase angepasst werden.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Toutes les informations nécessaires à la livraison sont collectées dans une seule application et mises à jour en temps réel.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Toutes les informations nécessaires à la livraison sont collectées dans une seule application et mises à jour en temps réel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Alle benodigde informatie voor de bezorging wordt in één app verzameld en in realtime bijgewerkt.",
+          "bodyHtml": "<p>Alle benodigde informatie voor de bezorging wordt in één app verzameld en in realtime bijgewerkt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "All nödvändig information för leveransen samlas i en enda app och uppdateras i realtid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">All nödvändig information för leveransen samlas i en enda app och uppdateras i realtid.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "heading",
+      "order": 20,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Planlægning af leveringsruten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Planning the delivery route",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Überwachung und Benachrichtigungen des Lieferprozesses",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Planification de l'itinéraire de livraison",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Het plannen van de bezorgroute",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Planering av leveransrutt",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Teslimat rotasını planlamak",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "richText",
+      "order": 21,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Leveringslogistikappen opbygger foreløbige ruter for udvalgte ordrer og køretøjer med estimerede ankomsttider og kilometertal. De tilbudte ruter kan justeres i planlægningsfasen.",
+          "bodyHtml": "<p>Leveringslogistikappen opbygger foreløbige ruter for udvalgte ordrer og køretøjer med estimerede ankomsttider og kilometertal. De tilbudte ruter kan justeres i planlægningsfasen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The delivery logistics app builds tentative routes for selected orders and vehicles with estimated arrival times and mileage. The routes offered can be adjusted during the planning phase.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">The delivery logistics app builds tentative routes for selected orders and vehicles with estimated arrival times and mileage. The routes offered can be adjusted during the planning phase.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "L’application de logistique de livraison établit des itinéraires provisoires pour les commandes et les véhicules sélectionnés, avec une estimation des heures d’arrivée et du kilométrage. Ces itinéraires peuvent être modifiés lors de la planification.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">L’application de logistique de livraison établit des itinéraires provisoires pour les commandes et les véhicules sélectionnés, avec une estimation des heures d’arrivée et du kilométrage. Ces itinéraires peuvent être modifiés lors de la planification.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De app voor bezorglogistiek bouwt voorlopige routes voor geselecteerde bestellingen en voertuigen met geschatte aankomsttijden en kilometerstanden. Tijdens de planningsfase kunnen de aangeboden routes worden aangepast.",
+          "bodyHtml": "<p>De app voor bezorglogistiek bouwt voorlopige routes voor geselecteerde bestellingen en voertuigen met geschatte aankomsttijden en kilometerstanden. Tijdens de planningsfase kunnen de aangeboden routes worden aangepast.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Leveranslogistikappen skapar preliminära rutter för utvalda beställningar och fordon med beräknade ankomsttider och körsträcka. De föreslagna rutterna kan justeras under planeringsfasen",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Leveranslogistikappen skapar preliminära rutter för utvalda beställningar och fordon med beräknade ankomsttider och körsträcka. De föreslagna rutterna kan justeras under planeringsfasen</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "heading",
+      "order": 22,
+      "sectionIndex": 8,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kommentarer og billeder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Comments and pictures",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Berichte",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Commentaires et photos",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Opmerkingen en foto's",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kommentarer och bilder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yorumlar ve resimler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "richText",
+      "order": 23,
+      "sectionIndex": 8,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Kurerer og chauffører efterlader kommentarer og billeder på ordrer for at sikre, at alle detaljer om leveringen registreres.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Kurerer og chauffører efterlader kommentarer og billeder på ordrer for at sikre, at alle detaljer om leveringen registreres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Couriers and drivers leave comments and photos on orders to ensure that all details of the delivery are recorded.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Couriers and drivers leave comments and photos on orders to ensure that all details of the delivery are recorded.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Flottenbesitzer können die Berichte anpassen und erstellen und sie zur Analyse und Anpassung mit ihren Kollegen teilen. Ein Statistikblock auf dem Dashboard bietet einen Überblick über die wichtigsten Kennzahlen.",
+          "bodyHtml": "<p>Flottenbesitzer können die Berichte anpassen und erstellen und sie zur Analyse und Anpassung mit ihren Kollegen teilen. Ein Statistikblock auf dem Dashboard bietet einen Überblick über die wichtigsten Kennzahlen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les coursiers et les chauffeurs laissent des commentaires et des photos sur les commandes afin de s’assurer que tous les détails de la livraison sont enregistrés.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les coursiers et les chauffeurs laissent des commentaires et des photos sur les commandes afin de s’assurer que tous les détails de la livraison sont enregistrés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Koeriers en chauffeurs laten opmerkingen en foto’s achter bij bestellingen om ervoor te zorgen dat alle leveringsgegevens worden vastgelegd.",
+          "bodyHtml": "<p>Koeriers en chauffeurs laten opmerkingen en foto’s achter bij bestellingen om ervoor te zorgen dat alle leveringsgegevens worden vastgelegd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kuryeler ve sürücüler, tüm teslimat ayrıntılarının kaydedildiğinden emin olmak için siparişlere yorum ve fotoğraf bırakırlar.",
+          "bodyHtml": "<p>Kuryeler ve sürücüler, tüm teslimat ayrıntılarının kaydedildiğinden emin olmak için siparişlere yorum ve fotoğraf bırakırlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "heading",
+      "order": 24,
+      "sectionIndex": 8,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Overvågning af leveringsprocessen og meddelelser",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Monitoring of the delivery process and notifications",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Routen- und Bestellinformationen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Suivi du processus de livraison et notifications",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Bewaking van het leveringsproces en meldingen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Övervakning och aviseringar av leveransprocessen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Teslimat sürecinin takibi ve bildirimleri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "richText",
+      "order": 25,
+      "sectionIndex": 8,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Agenter sporer aktiv ruteudførelse i realtid, bruger dashboardet og følger de notifikationer, som chauffører og modtagere modtager. Chat med en chauffør kan hjælpe med at løse nye problemer.",
+          "bodyHtml": "<p>Agenter sporer aktiv ruteudførelse i realtid, bruger dashboardet og følger de notifikationer, som chauffører og modtagere modtager. Chat med en chauffør kan hjælpe med at løse nye problemer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Agents track active route execution in real time, use the dashboard and follow the notifications drivers and consignees receive. Chatting with a driver can help resolve new issues.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Agents track active route execution in real time, use the dashboard and follow the notifications drivers and consignees receive. Chatting with a driver can help resolve new issues.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les agents suivent en temps réel l’exécution des itinéraires, utilisent le tableau de bord et consultent les notifications reçues par les chauffeurs et les destinataires. Discuter avec un chauffeur peut aider à résoudre les problèmes rencontrés.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Les agents suivent en temps réel l’exécution des itinéraires, utilisent le tableau de bord et consultent les notifications reçues par les chauffeurs et les destinataires. Discuter avec un chauffeur peut aider à résoudre les problèmes rencontrés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Avlastare spårar aktiv ruttkörning i realtid, använder instrumentpanelen och följer de aviseringar som förare och mottagare får. Att chatta med en förare kan hjälpa till att lösa nya problem.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Avlastare spårar aktiv ruttkörning i realtid, använder instrumentpanelen och följer de aviseringar som förare och mottagare får. Att chatta med en förare kan hjälpa till att lösa nya problem.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Temsilciler aktif rota yürütmeyi gerçek zamanlı olarak izler, kontrol panelini kullanır ve sürücülerin ve alıcıların aldığı bildirimleri takip eder. Bir sürücüyle sohbet etmek yeni sorunların çözülmesine yardımcı olabilir.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Temsilciler aktif rota yürütmeyi gerçek zamanlı olarak izler, kontrol panelini kullanır ve sürücülerin ve alıcıların aldığı bildirimleri takip eder. Bir sürücüyle sohbet etmek yeni sorunların çözülmesine yardımcı olabilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "heading",
+      "order": 26,
+      "sectionIndex": 8,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sporing af sted",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Location tracking",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kommentare und Bilder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Suivi de localisation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Locatie volgen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Platsspårning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Konum takibi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "richText",
+      "order": 27,
+      "sectionIndex": 8,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Det er ikke nødvendigt at udstyre chauffører med GPS-trackere, hvis dit projekt ikke involverer det. Appen fungerer som en tracker, der angiver chaufførens placering.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Det er ikke nødvendigt at udstyre chauffører med GPS-trackere, hvis dit projekt ikke involverer det. Appen fungerer som en tracker, der angiver chaufførens placering.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "There is no need to equip drivers with GPS trackers if your project does not involve it. The app acts as a tracker that indicates the driver’s location.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">There is no need to equip drivers with GPS trackers if your project does not involve it. The app acts as a tracker that indicates the driver’s location.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Kuriere und Fahrer hinterlassen Kommentare und Fotos zu den Bestellungen, um sicherzustellen, dass alle Einzelheiten der Lieferung erfasst werden.",
+          "bodyHtml": "<p>Kuriere und Fahrer hinterlassen Kommentare und Fotos zu den Bestellungen, um sicherzustellen, dass alle Einzelheiten der Lieferung erfasst werden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Il n’est pas nécessaire d’équiper les conducteurs de traceurs GPS si votre projet ne le prévoit pas. L’application fait office de traceur et indique la position du conducteur.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Il n’est pas nécessaire d’équiper les conducteurs de traceurs GPS si votre projet ne le prévoit pas. L’application fait office de traceur et indique la position du conducteur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het is niet nodig om chauffeurs uit te rusten met GPS-trackers als uw project dit niet omvat. De app fungeert als tracker die de locatie van de bestuurder aangeeft.",
+          "bodyHtml": "<p>Het is niet nodig om chauffeurs uit te rusten met GPS-trackers als uw project dit niet omvat. De app fungeert als tracker die de locatie van de bestuurder aangeeft.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Projeniz bunu içermiyorsa, sürücüleri GPS izleyicileriyle donatmanıza gerek yoktur. Uygulama, sürücünün konumunu gösteren bir izleyici görevi görüyor.",
+          "bodyHtml": "<p>Projeniz bunu içermiyorsa, sürücüleri GPS izleyicileriyle donatmanıza gerek yoktur. Uygulama, sürücünün konumunu gösteren bir izleyici görevi görüyor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "heading",
+      "order": 28,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Rapporter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Reports",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Standortverfolgung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Rapports",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Rapporten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Rapporter",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Raporlar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-30",
+      "type": "richText",
+      "order": 29,
+      "sectionIndex": 9,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Flådeejere kan tilpasse og generere rapporterne og dele dem med deres kolleger til analyse og justeringer. En statistikblok på dashboardet giver et overblik over de vigtigste målinger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Flådeejere kan tilpasse og generere rapporterne og dele dem med deres kolleger til analyse og justeringer. En statistikblok på dashboardet giver et overblik over de vigtigste målinger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Fleet owners can customize and generate the reports and share them with their counterparts for analysis and adjustments. A statistics block on the dashboard provides an overview of the most important metrics.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Fleet owners can customize and generate the reports and share them with their counterparts for analysis and adjustments. A statistics block on the dashboard provides an overview of the most important metrics.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Es besteht keine Notwendigkeit, Fahrer mit GPS-Trackern auszustatten, wenn Ihr Projekt dies nicht erfordert. Die App fungiert als Tracker, der den Standort des Fahrers anzeigt.",
+          "bodyHtml": "<p>Es besteht keine Notwendigkeit, Fahrer mit GPS-Trackern auszustatten, wenn Ihr Projekt dies nicht erfordert. Die App fungiert als Tracker, der den Standort des Fahrers anzeigt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les gestionnaires de flottes peuvent personnaliser et générer les rapports, puis les partager avec leurs homologues pour analyse et ajustements. Un bloc de statistiques sur le tableau de bord offre une vue d’ensemble des indicateurs les plus importants.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les gestionnaires de flottes peuvent personnaliser et générer les rapports, puis les partager avec leurs homologues pour analyse et ajustements. Un bloc de statistiques sur le tableau de bord offre une vue d’ensemble des indicateurs les plus importants.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Wagenparkeigenaren kunnen de rapporten aanpassen en genereren en deze delen met hun tegenhangers voor analyse en aanpassingen. Een statistiekenblok op het dashboard geeft een overzicht van de belangrijkste statistieken.",
+          "bodyHtml": "<p>Wagenparkeigenaren kunnen de rapporten aanpassen en genereren en deze delen met hun tegenhangers voor analyse en aanpassingen. Een statistiekenblok op het dashboard geeft een overzicht van de belangrijkste statistieken.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Filo sahipleri raporları özelleştirebilir, oluşturabilir ve bunları analiz ve ayarlamalar için meslektaşlarıyla paylaşabilir. Kontrol panelindeki bir istatistik bloğu, en önemli ölçümlere genel bir bakış sağlar.",
+          "bodyHtml": "<p>Filo sahipleri raporları özelleştirebilir, oluşturabilir ve bunları analiz ve ayarlamalar için meslektaşlarıyla paylaşabilir. Kontrol panelindeki bir istatistik bloğu, en önemli ölçümlere genel bir bakış sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-31",
+      "type": "heading",
+      "order": 30,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Chatter med afsenderen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Chatting with the sender",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Chatten mit dem Absender",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Conversation avec l'expéditeur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Chatten met de afzender",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Meddelanden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Gönderenle sohbet etme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-32",
+      "type": "richText",
+      "order": 31,
+      "sectionIndex": 9,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "An in-app chat is used to notify a sender of any circumstances related to the delivery.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">An in-app chat is used to notify a sender of any circumstances related to the delivery.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "An in-app chat is used to notify a sender of any circumstances related to the delivery.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">An in-app chat is used to notify a sender of any circumstances related to the delivery.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Ein In-App-Chat wird verwendet, um einen Absender über alle Umstände im Zusammenhang mit der Zustellung zu benachrichtigen.",
+          "bodyHtml": "<p>Ein In-App-Chat wird verwendet, um einen Absender über alle Umstände im Zusammenhang mit der Zustellung zu benachrichtigen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Une messagerie intégrée à l’application permet d’informer l’expéditeur de toute circonstance relative à la livraison.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Une messagerie intégrée à l’application permet d’informer l’expéditeur de toute circonstance relative à la livraison.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Via een chat in de app wordt een afzender op de hoogte gesteld van eventuele omstandigheden in verband met de bezorging.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Via een chat in de app wordt een afzender op de hoogte gesteld van eventuele omstandigheden in verband met de bezorging.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Uygulamadaki bir sohbet, göndericiye teslimatla bağlantılı herhangi bir durumu bildirmek için kullanılır.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Uygulamadaki bir sohbet, göndericiye teslimatla bağlantılı herhangi bir durumu bildirmek için kullanılır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-33",
+      "type": "heading",
+      "order": 32,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Beskeder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Messages",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Nachrichten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Messages",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Meldingen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Chatta med avsändaren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Bildirimler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-34",
+      "type": "richText",
+      "order": 33,
+      "sectionIndex": 9,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Chauffører underrettes om rutejusteringer og andre væsentlige ændringer, der kan påvirke deres handlinger på ruten.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Chauffører underrettes om rutejusteringer og andre væsentlige ændringer, der kan påvirke deres handlinger på ruten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Drivers are notified of route adjustments and other significant changes that may affect their actions on the route.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Drivers are notified of route adjustments and other significant changes that may affect their actions on the route.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les conducteurs sont informés des modifications d’itinéraire et autres changements importants susceptibles d’affecter leurs actions sur le trajet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Les conducteurs sont informés des modifications d’itinéraire et autres changements importants susceptibles d’affecter leurs actions sur le trajet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Chauffeurs worden op de hoogte gebracht van routeaanpassingen en andere belangrijke wijzigingen die hun handelen op de route kunnen beïnvloeden.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Chauffeurs worden op de hoogte gebracht van routeaanpassingen en andere belangrijke wijzigingen die hun handelen op de route kunnen beïnvloeden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sürücüler rota ayarlamaları ve rotadaki hareketlerini etkileyebilecek diğer önemli değişiklikler konusunda bilgilendirilir.",
+          "bodyHtml": "<p>Sürücüler rota ayarlamaları ve rotadaki hareketlerini etkileyebilecek diğer önemli değişiklikler konusunda bilgilendirilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

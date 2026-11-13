@@ -1,0 +1,751 @@
+{
+  "id": 3372,
+  "slug": "fuel-management-system-sv",
+  "canonicalSlug": "fuel-management-system",
+  "locale": "sv",
+  "title": "Fuel management system – SV",
+  "link": "https://www.jaxicloud.com/sv/fuel-management-system-sv/",
+  "pageKind": "solution",
+  "translations": {
+    "sv": 3372,
+    "da": 2127,
+    "en": 1087,
+    "de": 2520,
+    "fr": 2777,
+    "nl": 2983,
+    "nb": 3180,
+    "tr": 3562
+  },
+  "excerpt": "Bränslehanteringssystem Bränslehanteringssystem från Jaxicloud Fleet Management Företag med stora flottor stöter oundvikligen på problem med bränslehantering. Och det av goda skäl: bränslekostnaderna står ofta för en betydande del av en flottas totala kostnader. I det här fallet är ett bränsleövervakningssystem den ultimata lösningen för att optimera kostnadsredovisningen. Bränslehanteringssystemet baseras på data från inbyggda datorer eller [&hellip;]",
+  "seo": {
+    "title": "Bränslehanteringssystem - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T15:29:02",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "3036c56",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3036c56",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Bränslehanteringssystem",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-9e0a9cb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "67a5b62",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-67a5b62",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Bränslehanteringssystem från Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba05279",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "3e8dff2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3e8dff2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Företag med stora flottor stöter oundvikligen på problem med bränslehantering. Och det av goda skäl: bränslekostnaderna står ofta för en betydande del av en flottas totala kostnader. I det här fallet är ett bränsleövervakningssystem den ultimata lösningen för att optimera kostnadsredovisningen.</p><p>Bränslehanteringssystemet baseras på data från inbyggda datorer eller eftermarknadsbränslenivåsensorer installerade i ett fordons bränsletank. Data som överförs till spårningssystemet gör det möjligt att upptäcka bränslestöld eller överdriven bränsleförbrukning, vilket hjälper till att hitta sätt att spara 15 % eller mer på bränslekostnaderna och öka flottans effektivitet med 30 % eller mer. Enligt statistik betalar sig implementeringen av Jaxicloud Fleet Managements flotthanteringssystem för bränslekontroll inom 3–4 månader.</p>",
+      "bodyText": "Företag med stora flottor stöter oundvikligen på problem med bränslehantering. Och det av goda skäl: bränslekostnaderna står ofta för en betydande del av en flottas totala kostnader. I det här fallet är ett bränsleövervakningssystem den ultimata lösningen för att optimera kostnadsredovisningen.Bränslehanteringssystemet baseras på data från inbyggda datorer eller eftermarknadsbränslenivåsensorer installerade i ett fordons bränsletank. Data som överförs till spårningssystemet gör det möjligt att upptäcka bränslestöld eller överdriven bränsleförbrukning, vilket hjälper till att hitta sätt att spara 15 % eller mer på bränslekostnaderna och öka flottans effektivitet med 30 % eller mer. Enligt statistik betalar sig implementeringen av Jaxicloud Fleet Managements flotthanteringssystem för bränslekontroll inom 3–4 månader.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba05279",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "81f7948",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-81f7948",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "30%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "483d10d",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-483d10d",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "15%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "6051f92",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6051f92",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "30%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "8d61452",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8d61452",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Fleet Management bränsleförbrukningsövervakning",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8646831",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "d5f88b8",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d5f88b8",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Med hjälp av intelligenta verktyg låter Jaxicloud Fleet Managements bränslehanteringssystem föraren se historiken över bränslenivåvariationer i fordonets tank under en viss period, visas som ett diagram.</p>",
+      "bodyText": "Med hjälp av intelligenta verktyg låter Jaxicloud Fleet Managements bränslehanteringssystem föraren se historiken över bränslenivåvariationer i fordonets tank under en viss period, visas som ett diagram.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8646831",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "d5dd28b",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d5dd28b",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e3bd36c7006e457c918350d91c8e8385mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 564,
+          "height": 339
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "9d98a2f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9d98a2f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Genom att klicka på valfri punkt i grafen kan du se den exakta bränslenivån och fordonets aktuella position. Analysen baseras på data från eftermarknadsbränslenivåsensorer (FLS) eller fordonets inbyggda dator (CAN).</p>",
+      "bodyText": "Genom att klicka på valfri punkt i grafen kan du se den exakta bränslenivån och fordonets aktuella position. Analysen baseras på data från eftermarknadsbränslenivåsensorer (FLS) eller fordonets inbyggda dator (CAN).",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "a3d5f48",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a3d5f48",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/fuel-value-en-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 575,
+          "height": 346
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "ffd4669",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ffd4669",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Jaxicloud Fleet Management bränslespårningssystem möjliggör generering av rapporter över alla bränslepåfyllningar och möjliga bränslestölder med exakt datum, tid, plats och kartmarkörer, initiala och slutliga bränslenivåer samt information om påfyllning/stöld. Genom att använda denna intelligenta flottdata kan ägare vanligtvis minska bränslestölder i sina flottor med 90 %.</p>",
+      "bodyText": "Jaxicloud Fleet Management bränslespårningssystem möjliggör generering av rapporter över alla bränslepåfyllningar och möjliga bränslestölder med exakt datum, tid, plats och kartmarkörer, initiala och slutliga bränslenivåer samt information om påfyllning/stöld. Genom att använda denna intelligenta flottdata kan ägare vanligtvis minska bränslestölder i sina flottor med 90 %.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "3ec9ed1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3ec9ed1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9c2c34909df7454fb522521597899cacmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-20f41d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "c3746be",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c3746be",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_bec4a548f9c64f608043799022a33ff3mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-20f41d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "95aef04",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95aef04",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Med hjälp av specialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysera fordonets faktiska bränsleförbrukning under en given period, jämföra värdet med standarden, omedelbart bedöma besparingar och bränsleförbrukning för varje enskilt fordon och för hela flottan.</p>",
+      "bodyText": "Med hjälp av specialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysera fordonets faktiska bränsleförbrukning under en given period, jämföra värdet med standarden, omedelbart bedöma besparingar och bränsleförbrukning för varje enskilt fordon och för hela flottan.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff936e4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "6987a3d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6987a3d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Efter att bränslehanteringssystemet anpassats efter dina behov kan du få aviseringar om bränslepåfyllning och stölder via e-post, SMS och push-meddelanden på din smartphone med hjälp av Jaxicloud Fleet Managements inbyggda mobilapp tillgänglig för Android och iOS, samt se information om den aktuella bränslenivån på fordonet. De som föredrar spårning i realtid kan använda Dashboard-appen för att spåra relevanta nyckeltal i realtidsläge.</p>",
+      "bodyText": "Efter att bränslehanteringssystemet anpassats efter dina behov kan du få aviseringar om bränslepåfyllning och stölder via e-post, SMS och push-meddelanden på din smartphone med hjälp av Jaxicloud Fleet Managements inbyggda mobilapp tillgänglig för Android och iOS, samt se information om den aktuella bränslenivån på fordonet. De som föredrar spårning i realtid kan använda Dashboard-appen för att spåra relevanta nyckeltal i realtidsläge.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff936e4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 7,
+      "elementorId": "5a12867",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a12867",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Företag använder bränslehanteringssystemet Jaxicloud Fleet Management och lösningar baserade på dess funktionalitet för att eliminera bränslestölder, öka säkerheten och bättre spåra sina tillgångar.</span></p>",
+      "bodyText": "Företag använder bränslehanteringssystemet Jaxicloud Fleet Management och lösningar baserade på dess funktionalitet för att eliminera bränslestölder, öka säkerheten och bättre spåra sina tillgångar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-02bdee4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 7,
+      "elementorId": "0eb1891",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0eb1891",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3c5169c251f641818c1cc195107e21f6mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 548,
+          "height": 331
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-02bdee4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 18,
+    "sectionCount": 8,
+    "htmlBytes": 24922
+  }
+}

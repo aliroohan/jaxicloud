@@ -1,0 +1,382 @@
+{
+  "slug": "faq",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "FAQ DA",
+    "en": "FAQ",
+    "de": "FAQ – DE",
+    "fr": "FAQ – FR",
+    "nl": "FAQ – HL",
+    "nb": "FAQ – NO",
+    "sv": "FAQ – SV",
+    "tr": "FAQ – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "FAQ FAQ - FR - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "FAQ FAQ - NO - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "FAQ - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/faq-da/",
+    "en": "https://www.jaxicloud.com/en/faq/",
+    "de": "https://www.jaxicloud.com/de/faq-de/",
+    "fr": "https://www.jaxicloud.com/fr/faq-fr/",
+    "nl": "https://www.jaxicloud.com/nl/faq-hl/",
+    "nb": "https://www.jaxicloud.com/nb/faq-no/",
+    "sv": "https://www.jaxicloud.com/sv/faq-sv/",
+    "tr": "https://www.jaxicloud.com/tr/faq-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Ofte stillede spørgsmål",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Frequently asked questions",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Häufig gestellte Fragen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Frequently asked questions",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Veelgestelde vragen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Ofte stilte spørsmål",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vanliga frågor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sıkça sorulan sorular",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "richText",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Find hurtige svar på de mest almindelige spørgsmål om JaxiCloud-platformen, funktioner og brug.",
+          "bodyHtml": "<p>Find hurtige svar på de mest almindelige spørgsmål om JaxiCloud-platformen, funktioner og brug.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Find quick answers to the most common questions about the JaxiCloud platform, features, and usage.",
+          "bodyHtml": "<p>Find quick answers to the most common questions about the JaxiCloud platform, features, and usage.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Hier finden Sie schnelle Antworten auf die häufigsten Fragen zur JaxiCloud-Plattform, ihren Funktionen und ihrer Nutzung.",
+          "bodyHtml": "<p>Hier finden Sie schnelle Antworten auf die häufigsten Fragen zur JaxiCloud-Plattform, ihren Funktionen und ihrer Nutzung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Trouvez rapidement des réponses aux questions les plus fréquentes concernant la plateforme JaxiCloud, ses fonctionnalités et son utilisation.",
+          "bodyHtml": "<p>Trouvez rapidement des réponses aux questions les plus fréquentes concernant la plateforme JaxiCloud, ses fonctionnalités et son utilisation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Vind snel antwoorden op de meestgestelde vragen over het JaxiCloud-platform, de functies en het gebruik.",
+          "bodyHtml": "<p>Vind snel antwoorden op de meestgestelde vragen over het JaxiCloud-platform, de functies en het gebruik.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Finn raske svar på de vanligste spørsmålene om JaxiCloud-plattformen, funksjonene og bruken.",
+          "bodyHtml": "<p>Finn raske svar på de vanligste spørsmålene om JaxiCloud-plattformen, funksjonene og bruken.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Hitta snabba svar på de vanligaste frågorna om JaxiCloud-plattformen, funktioner och användning.",
+          "bodyHtml": "<p>Hitta snabba svar på de vanligaste frågorna om JaxiCloud-plattformen, funktioner och användning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "JaxiCloud platformu, özellikleri ve kullanımı hakkında en sık sorulan sorulara hızlı yanıtlar bulun.",
+          "bodyHtml": "<p>JaxiCloud platformu, özellikleri ve kullanımı hakkında en sık sorulan sorulara hızlı yanıtlar bulun.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "faqAccordion",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "eael-adv-accordion.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af den oprettedeFor at komme i gang skal du registrere dig på vores hjemmeside og vælge den pakke, der bedst passer til dine behov. Efter registreringen modtager du instruktioner til installation af vores sporingsenheder og opsætning af din konto.Du kan indtaste vedligeholdelsesplaner i JaxiCloud, som vil minde dig om kommende serviceaftaler og holde styr på vedligeholdelseshistorikken.Ja, JaxiCloud analyserer køremønstre og giver dig indsigt i køreadfærd såsom hastighed, hård opbremsning og accelerationsmønstre, hvilket hjælper med at forbedre sikkerheden og reducere omkostninger.Vi bruger avancerede sikkerhedsforanstaltninger, herunder kryptering og regelmæssige sikkerhedsrevisioner, for at beskytte dine data.Du kan kontakte vores supportteam via e-mail, telefon eller livechat. Supportoplysninger kan findes på vores hjemmeside.Ja, vi tilbyder omfattende træningsmaterialer, herunder videoer, manualer og webinarer, for at hjælpe dig med at få mest muligt ud af JaxiCloud Fleet Management.Vi tilbyder flere forskellige pakker, der er designet til at passe til behovene og størrelserne hos forskellige virksomheder. Besøg vores prisside for at få flere oplysninger om de tilgængelige pakker.Du vil blive faktureret månedligt eller årligt, afhængigt af den valgte abonnementsplan. Fakturering håndteres automatisk via den betalingsmetode, du har valgt ved registreringen.Du skal have JaxiCloud GPS-sporingsenheder installeret i dine køretøjer. Disse enheder er en del af din abonnementspakke.Ja, JaxiCloud tilbyder en mobilapp til både iOS og Android, så du kan administrere din flåde og få opdateringer i realtid, uanset hvor du er.Ja, du kan til enhver tid opgradere eller nedgradere dit abonnement fra dine kontoindstillinger på JaxiCloud-webstedet.",
+          "bodyHtml": "<p>Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af den oprettede</p><p>For at komme i gang skal du registrere dig på vores hjemmeside og vælge den pakke, der bedst passer til dine behov. Efter registreringen modtager du instruktioner til installation af vores sporingsenheder og opsætning af din konto.</p><p>Du kan indtaste vedligeholdelsesplaner i JaxiCloud, som vil minde dig om kommende serviceaftaler og holde styr på vedligeholdelseshistorikken.</p><p>Ja, JaxiCloud analyserer køremønstre og giver dig indsigt i køreadfærd såsom hastighed, hård opbremsning og accelerationsmønstre, hvilket hjælper med at forbedre sikkerheden og reducere omkostninger.</p><p>Vi bruger avancerede sikkerhedsforanstaltninger, herunder kryptering og regelmæssige sikkerhedsrevisioner, for at beskytte dine data.</p><p>Du kan kontakte vores supportteam via e-mail, telefon eller livechat. Supportoplysninger kan findes på vores hjemmeside.</p><p>Ja, vi tilbyder omfattende træningsmaterialer, herunder videoer, manualer og webinarer, for at hjælpe dig med at få mest muligt ud af JaxiCloud Fleet Management.</p><p>Vi tilbyder flere forskellige pakker, der er designet til at passe til behovene og størrelserne hos forskellige virksomheder. Besøg vores prisside for at få flere oplysninger om de tilgængelige pakker.</p><p>Du vil blive faktureret månedligt eller årligt, afhængigt af den valgte abonnementsplan. Fakturering håndteres automatisk via den betalingsmetode, du har valgt ved registreringen.</p><p>Du skal have JaxiCloud GPS-sporingsenheder installeret i dine køretøjer. Disse enheder er en del af din abonnementspakke.</p><p>Ja, JaxiCloud tilbyder en mobilapp til både iOS og Android, så du kan administrere din flåde og få opdateringer i realtid, uanset hvor du er.</p><p>Ja, du kan til enhver tid opgradere eller nedgradere dit abonnement fra dine kontoindstillinger på JaxiCloud-webstedet.</p>",
+          "listItems": [
+            "Sporing i realtid: Overvåg dine køretøjers placering i realtid.",
+            "Vedligeholdelsesplanlægning: Planlæg og overvåg køretøjsvedligeholdelse for at minimere nedetid.",
+            "Brændstofstyring: Overvåg brændstofforbruget og identificer muligheder for besparelser.",
+            "Køreadfærd: Analysér kørselsmønstre for at forbedre sikkerhed og effektivitet.",
+            "Rapportering: Generer detaljerede rapporter om flådens ydeevne og omkostninger."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on the createdThe platform is ideal for all companies that own and operate a fleet of vehicles, including transport and logistics companies, delivery companies, service companies and municipal authorities.To get started, register on our website and choose the package that best suits your needs. After registration, you will receive instructions for installing our tracking devices and setting up your account.You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.Yes, JaxiCloud analyzes driving patterns and gives you insights into driving behavior such as speed, hard braking and acceleration patterns, helping to improve safety and reduce costs.We use advanced security measures, including encryption and regular security audits, to protect your data.You can contact our support team via email, phone or live chat. Support information can be found on our website.Yes, we offer extensive training materials, including videos, manuals and webinars, to help you get the most out of JaxiCloud Fleet Management.We offer several different packages designed to suit the needs and sizes of different businesses. Visit our pricing page for more information on the packages available.You will be billed monthly or annually, depending on the subscription plan chosen. Invoicing is handled automatically via the payment method you have chosen when registering.You need JaxiCloud GPS tracking devices to be installed in your vehicles. These devices come as part of your subscription package.Yes, JaxiCloud offers a mobile app for both iOS and Android so you can manage your fleet and get real-time updates wherever you are.Yes, you can upgrade or downgrade your subscription at any time from your account settings on the JaxiCloud website.",
+          "bodyHtml": "<p>The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on the created</p><p>The platform is ideal for all companies that own and operate a fleet of vehicles, including transport and logistics companies, delivery companies, service companies and municipal authorities.</p><p>To get started, register on our website and choose the package that best suits your needs. After registration, you will receive instructions for installing our tracking devices and setting up your account.</p><p>You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.</p><p>Yes, JaxiCloud analyzes driving patterns and gives you insights into driving behavior such as speed, hard braking and acceleration patterns, helping to improve safety and reduce costs.</p><p>We use advanced security measures, including encryption and regular security audits, to protect your data.</p><p>You can contact our support team via email, phone or live chat. Support information can be found on our website.</p><p>Yes, we offer extensive training materials, including videos, manuals and webinars, to help you get the most out of JaxiCloud Fleet Management.</p><p>We offer several different packages designed to suit the needs and sizes of different businesses. Visit our pricing page for more information on the packages available.</p><p>You will be billed monthly or annually, depending on the subscription plan chosen. Invoicing is handled automatically via the payment method you have chosen when registering.</p><p>You need JaxiCloud GPS tracking devices to be installed in your vehicles. These devices come as part of your subscription package.</p><p>Yes, JaxiCloud offers a mobile app for both iOS and Android so you can manage your fleet and get real-time updates wherever you are.</p><p>Yes, you can upgrade or downgrade your subscription at any time from your account settings on the JaxiCloud website.</p>",
+          "listItems": [
+            "Real-time tracking : Monitor the location of your vehicles in real-time.",
+            "Maintenance Scheduling : Plan and monitor vehicle maintenance to minimize downtime.",
+            "Fuel management : Monitor fuel consumption and identify opportunities for savings.",
+            "Driving behavior : Analyze driving patterns to improve safety and efficiency.",
+            "Reporting : Generate detailed reports on fleet performance and costs."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Eco Driving kann je nach den erstellten Einstellungen weitere Verstöße erfassen.Die Plattform eignet sich ideal für alle Unternehmen, die eine Fahrzeugflotte besitzen und betreiben, darunter Transport- und Logistikunternehmen, Lieferunternehmen, Dienstleistungsunternehmen und kommunale Behörden.Registrieren Sie sich zunächst auf unserer Website und wählen Sie das Paket, das am besten zu Ihren Bedürfnissen passt. Nach der Registrierung erhalten Sie Anweisungen zur Installation unserer Ortungsgeräte und zur Einrichtung Ihres Kontos.Sie können Wartungspläne in JaxiCloud eingeben, die Sie an bevorstehende Servicetermine erinnern und die Wartungshistorie verwalten.Ja, JaxiCloud analysiert Fahrmuster und gibt Ihnen Einblicke in das Fahrverhalten, wie z. B. Geschwindigkeit, starkes Bremsen und Beschleunigungsmuster, was dazu beiträgt, die Sicherheit zu verbessern und Kosten zu senken.Wir setzen fortschrittliche Sicherheitsmaßnahmen ein, darunter Verschlüsselung und regelmäßige Sicherheitsüberprüfungen, um Ihre Daten zu schützen.Sie können unser Support-Team per E-Mail, Telefon oder Live-Chat erreichen. Supportinformationen finden Sie auf unserer Website.Ja, wir bieten umfangreiches Schulungsmaterial, darunter Videos, Handbücher und Webinare, damit Sie JaxiCloud Fleet Management optimal nutzen können.Wir bieten verschiedene Pakete an, die auf die Bedürfnisse und Größen unterschiedlicher Unternehmen zugeschnitten sind. Weitere Informationen zu den verfügbaren Paketen finden Sie auf unserer Preisseite.Die Abrechnung erfolgt monatlich oder jährlich, abhängig vom gewählten Abonnement. Die Rechnungsstellung erfolgt automatisch über die von Ihnen bei der Registrierung angegebene Zahlungsmethode.Sie benötigen JaxiCloud GPS-Ortungsgeräte, die in Ihren Fahrzeugen installiert werden. Diese Geräte sind im Abonnementpaket enthalten.Ja, JaxiCloud bietet eine mobile App für iOS und Android an, mit der Sie Ihre Flotte verwalten und Echtzeit-Updates erhalten können, egal wo Sie sich befinden.Ja, Sie können Ihr Abonnement jederzeit in Ihren Kontoeinstellungen auf der JaxiCloud-Website upgraden oder downgraden.",
+          "bodyHtml": "<p>Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Eco Driving kann je nach den erstellten Einstellungen weitere Verstöße erfassen.</p><p>Die Plattform eignet sich ideal für alle Unternehmen, die eine Fahrzeugflotte besitzen und betreiben, darunter Transport- und Logistikunternehmen, Lieferunternehmen, Dienstleistungsunternehmen und kommunale Behörden.</p><p>Registrieren Sie sich zunächst auf unserer Website und wählen Sie das Paket, das am besten zu Ihren Bedürfnissen passt. Nach der Registrierung erhalten Sie Anweisungen zur Installation unserer Ortungsgeräte und zur Einrichtung Ihres Kontos.</p><p>Sie können Wartungspläne in JaxiCloud eingeben, die Sie an bevorstehende Servicetermine erinnern und die Wartungshistorie verwalten.</p><p>Ja, JaxiCloud analysiert Fahrmuster und gibt Ihnen Einblicke in das Fahrverhalten, wie z. B. Geschwindigkeit, starkes Bremsen und Beschleunigungsmuster, was dazu beiträgt, die Sicherheit zu verbessern und Kosten zu senken.</p><p>Wir setzen fortschrittliche Sicherheitsmaßnahmen ein, darunter Verschlüsselung und regelmäßige Sicherheitsüberprüfungen, um Ihre Daten zu schützen.</p><p>Sie können unser Support-Team per E-Mail, Telefon oder Live-Chat erreichen. Supportinformationen finden Sie auf unserer Website.</p><p>Ja, wir bieten umfangreiches Schulungsmaterial, darunter Videos, Handbücher und Webinare, damit Sie JaxiCloud Fleet Management optimal nutzen können.</p><p>Wir bieten verschiedene Pakete an, die auf die Bedürfnisse und Größen unterschiedlicher Unternehmen zugeschnitten sind. Weitere Informationen zu den verfügbaren Paketen finden Sie auf unserer Preisseite.</p><p>Die Abrechnung erfolgt monatlich oder jährlich, abhängig vom gewählten Abonnement. Die Rechnungsstellung erfolgt automatisch über die von Ihnen bei der Registrierung angegebene Zahlungsmethode.</p><p>Sie benötigen JaxiCloud GPS-Ortungsgeräte, die in Ihren Fahrzeugen installiert werden. Diese Geräte sind im Abonnementpaket enthalten.</p><p>Ja, JaxiCloud bietet eine mobile App für iOS und Android an, mit der Sie Ihre Flotte verwalten und Echtzeit-Updates erhalten können, egal wo Sie sich befinden.</p><p>Ja, Sie können Ihr Abonnement jederzeit in Ihren Kontoeinstellungen auf der JaxiCloud-Website upgraden oder downgraden.</p>",
+          "listItems": [
+            "Echtzeit-Ortung: Verfolgen Sie den Standort Ihrer Fahrzeuge in Echtzeit. Wartungsplanung: Planen und überwachen Sie die Fahrzeugwartung, um Ausfallzeiten zu minimieren. Kraftstoffmanagement: Überwachen Sie den Kraftstoffverbrauch und identifizieren Sie Einsparmöglichkeiten. Fahrverhalten: Analysieren Sie Fahrmuster, um Sicherheit und Effizienz zu verbessern. Reporting: Erstellen Sie detaillierte Berichte zu Flottenleistung und -kosten."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. Eco Driving peut détecter d’autres infractions en fonction des paramètres définis.Cette plateforme est idéale pour toutes les entreprises qui possèdent et exploitent une flotte de véhicules, notamment les entreprises de transport et de logistique, les entreprises de livraison, les sociétés de services et les collectivités locales.Pour commencer, inscrivez-vous sur notre site web et choisissez la formule qui correspond le mieux à vos besoins. Après votre inscription, vous recevrez les instructions pour installer nos dispositifs de suivi et configurer votre compte.Vous pouvez saisir les calendriers de maintenance dans JaxiCloud, qui vous rappellera les rendez-vous d’entretien à venir et conservera l’historique de la maintenance.Oui, JaxiCloud analyse les habitudes de conduite et vous fournit des informations sur le comportement au volant, comme la vitesse, les freinages brusques et les accélérations, contribuant ainsi à améliorer la sécurité et à réduire les coûts.Nous utilisons des mesures de sécurité avancées, notamment le chiffrement et des audits de sécurité réguliers, pour protéger vos données.Vous pouvez contacter notre équipe d’assistance par courriel, par téléphone ou par messagerie instantanée. Vous trouverez des informations sur l’assistance sur notre site web.Oui, nous proposons des supports de formation complets, notamment des vidéos, des manuels et des webinaires, pour vous aider à tirer le meilleur parti de JaxiCloud Fleet Management.Nous proposons différentes formules adaptées aux besoins et à la taille des entreprises. Consultez notre page de tarifs pour plus d’informations sur les formules disponibles.Vous serez facturé mensuellement ou annuellement, selon la formule d’abonnement choisie. La facturation est automatique et s’effectue via le mode de paiement que vous avez sélectionné lors de votre inscription.Vous devez installer des dispositifs de suivi GPS JaxiCloud dans vos véhicules. Ces dispositifs sont inclus dans votre abonnement.Oui, JaxiCloud propose une application mobile pour iOS et Android qui vous permet de gérer votre flotte et d’obtenir des mises à jour en temps réel où que vous soyez.Suivi en temps réel : Surveillez la position de vos véhicules en temps réel.Planification de la maintenance : Planifiez et suivez la maintenance de vos véhicules afin de minimiser les temps d’immobilisation.Gestion du carburant : Surveillez la consommation de carburant et identifiez les pistes d’économies.Analyse du comportement de conduite : Analysez les habitudes de conduite pour améliorer la sécurité et l’efficacité.Rapports : Générez des rapports détaillés sur les performances et les coûts de votre flotte.Oui, vous pouvez modifier votre abonnement à tout moment depuis les paramètres de votre compte sur le site web de JaxiCloud.",
+          "bodyHtml": "<p>Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. Eco Driving peut détecter d’autres infractions en fonction des paramètres définis.</p><p>Cette plateforme est idéale pour toutes les entreprises qui possèdent et exploitent une flotte de véhicules, notamment les entreprises de transport et de logistique, les entreprises de livraison, les sociétés de services et les collectivités locales.</p><p>Pour commencer, inscrivez-vous sur notre site web et choisissez la formule qui correspond le mieux à vos besoins. Après votre inscription, vous recevrez les instructions pour installer nos dispositifs de suivi et configurer votre compte.</p><p>Vous pouvez saisir les calendriers de maintenance dans JaxiCloud, qui vous rappellera les rendez-vous d’entretien à venir et conservera l’historique de la maintenance.</p><p>Oui, JaxiCloud analyse les habitudes de conduite et vous fournit des informations sur le comportement au volant, comme la vitesse, les freinages brusques et les accélérations, contribuant ainsi à améliorer la sécurité et à réduire les coûts.</p><p>Nous utilisons des mesures de sécurité avancées, notamment le chiffrement et des audits de sécurité réguliers, pour protéger vos données.</p><p>Vous pouvez contacter notre équipe d’assistance par courriel, par téléphone ou par messagerie instantanée. Vous trouverez des informations sur l’assistance sur notre site web.</p><p>Oui, nous proposons des supports de formation complets, notamment des vidéos, des manuels et des webinaires, pour vous aider à tirer le meilleur parti de JaxiCloud Fleet Management.</p><p>Nous proposons différentes formules adaptées aux besoins et à la taille des entreprises. Consultez notre page de tarifs pour plus d’informations sur les formules disponibles.</p><p>Vous serez facturé mensuellement ou annuellement, selon la formule d’abonnement choisie. La facturation est automatique et s’effectue via le mode de paiement que vous avez sélectionné lors de votre inscription.</p><p>Vous devez installer des dispositifs de suivi GPS JaxiCloud dans vos véhicules. Ces dispositifs sont inclus dans votre abonnement.</p><p>Oui, JaxiCloud propose une application mobile pour iOS et Android qui vous permet de gérer votre flotte et d’obtenir des mises à jour en temps réel où que vous soyez.</p><p>Suivi en temps réel : Surveillez la position de vos véhicules en temps réel.</p><p>Planification de la maintenance : Planifiez et suivez la maintenance de vos véhicules afin de minimiser les temps d’immobilisation.</p><p>Gestion du carburant : Surveillez la consommation de carburant et identifiez les pistes d’économies.</p><p>Analyse du comportement de conduite : Analysez les habitudes de conduite pour améliorer la sécurité et l’efficacité.</p><p>Rapports : Générez des rapports détaillés sur les performances et les coûts de votre flotte.</p><p>Oui, vous pouvez modifier votre abonnement à tout moment depuis les paramètres de votre compte sur le site web de JaxiCloud.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De mogelijkheid om parameters te selecteren voor de analyse van rijgedrag: acceleratie, remmen, snelheid, roekeloos rijden, acceleratie in bochten. Eco Driving kan andere overtredingen volgen, afhankelijk van de gecreëerdeHet platform is ideaal voor alle bedrijven die een wagenpark bezitten en exploiteren, waaronder transport- en logistieke bedrijven, bezorgbedrijven, dienstverlenende bedrijven en gemeentelijke overheden.Om te beginnen registreert u zich op onze website en kiest u het pakket dat het beste bij u past. Na registratie ontvangt u instructies voor het installeren van onze trackingapparaten en het aanmaken van uw account.You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.Ja, JaxiCloud analyseert rijpatronen en geeft u inzicht in rijgedrag, zoals snelheid, hard remmen en acceleratiepatronen. Zo kunt u de veiligheid verbeteren en kosten verlagen.Om uw gegevens te beschermen, maken wij gebruik van geavanceerde beveiligingsmaatregelen, waaronder encryptie en regelmatige beveiligingsaudits.U kunt contact opnemen met ons supportteam via e-mail, telefoon of livechat. Ondersteuningsinformatie vindt u op onze website.Ja, wij bieden uitgebreid trainingsmateriaal, waaronder video’s, handleidingen en webinars, om u te helpen JaxiCloud Fleet Management optimaal te benutten.We bieden verschillende pakketten aan, afgestemd op de behoeften en omvang van verschillende bedrijven. Bezoek onze prijspagina voor meer informatie over de beschikbare pakketten.Afhankelijk van het gekozen abonnement wordt u maandelijks of jaarlijks gefactureerd. De facturering verloopt automatisch via de betaalmethode die u bij uw registratie heeft gekozen.U hebt JaxiCloud GPS-volgsystemen nodig die in uw voertuigen zijn geïnstalleerd. Deze systemen maken deel uit van uw abonnement.Ja, JaxiCloud biedt een mobiele app voor zowel iOS als Android, zodat u uw wagenpark kunt beheren en overal waar u bent, realtime updates kunt ontvangen.Ja, u kunt uw abonnement op elk gewenst moment upgraden of downgraden via uw accountinstellingen op de JaxiCloud-website.",
+          "bodyHtml": "<p>De mogelijkheid om parameters te selecteren voor de analyse van rijgedrag: acceleratie, remmen, snelheid, roekeloos rijden, acceleratie in bochten. Eco Driving kan andere overtredingen volgen, afhankelijk van de gecreëerde</p><p>Het platform is ideaal voor alle bedrijven die een wagenpark bezitten en exploiteren, waaronder transport- en logistieke bedrijven, bezorgbedrijven, dienstverlenende bedrijven en gemeentelijke overheden.</p><p>Om te beginnen registreert u zich op onze website en kiest u het pakket dat het beste bij u past. Na registratie ontvangt u instructies voor het installeren van onze trackingapparaten en het aanmaken van uw account.</p><p>You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.</p><p>Ja, JaxiCloud analyseert rijpatronen en geeft u inzicht in rijgedrag, zoals snelheid, hard remmen en acceleratiepatronen. Zo kunt u de veiligheid verbeteren en kosten verlagen.</p><p>Om uw gegevens te beschermen, maken wij gebruik van geavanceerde beveiligingsmaatregelen, waaronder encryptie en regelmatige beveiligingsaudits.</p><p>U kunt contact opnemen met ons supportteam via e-mail, telefoon of livechat. Ondersteuningsinformatie vindt u op onze website.</p><p>Ja, wij bieden uitgebreid trainingsmateriaal, waaronder video’s, handleidingen en webinars, om u te helpen JaxiCloud Fleet Management optimaal te benutten.</p><p>We bieden verschillende pakketten aan, afgestemd op de behoeften en omvang van verschillende bedrijven. Bezoek onze prijspagina voor meer informatie over de beschikbare pakketten.</p><p>Afhankelijk van het gekozen abonnement wordt u maandelijks of jaarlijks gefactureerd. De facturering verloopt automatisch via de betaalmethode die u bij uw registratie heeft gekozen.</p><p>U hebt JaxiCloud GPS-volgsystemen nodig die in uw voertuigen zijn geïnstalleerd. Deze systemen maken deel uit van uw abonnement.</p><p>Ja, JaxiCloud biedt een mobiele app voor zowel iOS als Android, zodat u uw wagenpark kunt beheren en overal waar u bent, realtime updates kunt ontvangen.</p><p>Ja, u kunt uw abonnement op elk gewenst moment upgraden of downgraden via uw accountinstellingen op de JaxiCloud-website.</p>",
+          "listItems": [
+            "Realtime tracking: Volg de locatie van uw voertuigen in realtime.Onderhoudsplanning: Plan en monitor voertuigonderhoud om stilstand te minimaliseren.Brandstofbeheer: Monitor het brandstofverbruik en identificeer besparingsmogelijkheden.Rijgedrag: Analyseer rijpatronen om de veiligheid en efficiëntie te verbeteren.Rapportage: Genereer gedetailleerde rapporten over de prestaties en kosten van uw wagenpark."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av den opprettedePlattformen er ideell for alle selskaper som eier og driver en kjøretøyflåte, inkludert transport- og logistikkselskaper, leveringsselskaper, serviceselskaper og kommunale myndigheter.For å komme i gang, registrer deg på nettsiden vår og velg pakken som passer best for dine behov. Etter registreringen vil du motta instruksjoner for installasjon av sporingsenhetene våre og oppsett av kontoen din.You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.Ja, JaxiCloud analyserer kjøremønstre og gir deg innsikt i kjøreatferd som hastighet, hard oppbremsing og akselerasjonsmønstre, noe som bidrar til å forbedre sikkerheten og redusere kostnader.Vi bruker avanserte sikkerhetstiltak, inkludert kryptering og regelmessige sikkerhetsrevisjoner, for å beskytte dataene dine.Du kan kontakte supportteamet vårt via e-post, telefon eller live chat. Støtteinformasjon finner du på nettstedet vårt.Ja, vi tilbyr omfattende opplæringsmateriell, inkludert videoer, manualer og webinarer, for å hjelpe deg med å få mest mulig ut av JaxiCloud Fleet Management.Vi tilbyr flere forskjellige pakker som er utformet for å passe behovene og størrelsene til ulike bedrifter. Besøk vår prisside for mer informasjon om tilgjengelige pakker.Du vil bli fakturert månedlig eller årlig, avhengig av hvilket abonnement du velger. Fakturering håndteres automatisk via betalingsmåten du valgte ved registrering.Du trenger JaxiCloud GPS-sporingsenheter installert i kjøretøyene dine. Disse enhetene følger med som en del av abonnementspakken din.Ja, JaxiCloud tilbyr en mobilapp for både iOS og Android, slik at du kan administrere flåten din og få oppdateringer i sanntid uansett hvor du er.Ja, du kan oppgradere eller nedgradere abonnementet ditt når som helst fra kontoinnstillingene dine på JaxiCloud-nettstedet.",
+          "bodyHtml": "<p>Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av den opprettede</p><p>Plattformen er ideell for alle selskaper som eier og driver en kjøretøyflåte, inkludert transport- og logistikkselskaper, leveringsselskaper, serviceselskaper og kommunale myndigheter.</p><p>For å komme i gang, registrer deg på nettsiden vår og velg pakken som passer best for dine behov. Etter registreringen vil du motta instruksjoner for installasjon av sporingsenhetene våre og oppsett av kontoen din.</p><p>You can enter maintenance schedules in JaxiCloud, which will remind you of upcoming service appointments and keep track of maintenance history.</p><p>Ja, JaxiCloud analyserer kjøremønstre og gir deg innsikt i kjøreatferd som hastighet, hard oppbremsing og akselerasjonsmønstre, noe som bidrar til å forbedre sikkerheten og redusere kostnader.</p><p>Vi bruker avanserte sikkerhetstiltak, inkludert kryptering og regelmessige sikkerhetsrevisjoner, for å beskytte dataene dine.</p><p>Du kan kontakte supportteamet vårt via e-post, telefon eller live chat. Støtteinformasjon finner du på nettstedet vårt.</p><p>Ja, vi tilbyr omfattende opplæringsmateriell, inkludert videoer, manualer og webinarer, for å hjelpe deg med å få mest mulig ut av JaxiCloud Fleet Management.</p><p>Vi tilbyr flere forskjellige pakker som er utformet for å passe behovene og størrelsene til ulike bedrifter. Besøk vår prisside for mer informasjon om tilgjengelige pakker.</p><p>Du vil bli fakturert månedlig eller årlig, avhengig av hvilket abonnement du velger. Fakturering håndteres automatisk via betalingsmåten du valgte ved registrering.</p><p>Du trenger JaxiCloud GPS-sporingsenheter installert i kjøretøyene dine. Disse enhetene følger med som en del av abonnementspakken din.</p><p>Ja, JaxiCloud tilbyr en mobilapp for både iOS og Android, slik at du kan administrere flåten din og få oppdateringer i sanntid uansett hvor du er.</p><p>Ja, du kan oppgradere eller nedgradere abonnementet ditt når som helst fra kontoinnstillingene dine på JaxiCloud-nettstedet.</p>",
+          "listItems": [
+            "Sporing i sanntid: Overvåk kjøretøyenes plassering i sanntid.Vedlikeholdsplanlegging: Planlegg og overvåk kjøretøyvedlikehold for å minimere nedetid.Drivstoffhåndtering: Overvåk drivstofforbruket og identifiser muligheter for besparelser.Kjøreatferd: Analyser kjøremønstre for å forbedre sikkerhet og effektivitet.Rapportering: Generer detaljerte rapporter om flåtens ytelse og kostnader."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Möjlighet att välja parametrar för analys av körbeteende: acceleration, inbromsning, hastighet, vårdslös körning, acceleration i kurvor. Eco Driving kan spåra andra överträdelser beroende på de skapadePlattformen är idealisk för alla företag som äger och driver en fordonsflotta, inklusive transport- och logistikföretag, leveransföretag, serviceföretag och kommuner.För att komma igång, registrera dig på vår webbplats och välj det paket som bäst passar dina behov. Efter registreringen får du instruktioner för hur du installerar våra spårningsenheter och konfigurerar ditt konto.Du kan ange underhållsscheman i JaxiCloud, vilket påminner dig om kommande servicemöten och håller koll på underhållshistoriken.Ja, JaxiCloud analyserar körmönster och ger dig insikter i körbeteenden som hastighet, hårda inbromsningar och accelerationsmönster, vilket bidrar till att förbättra säkerheten och minska kostnaderna.Vi använder avancerade säkerhetsåtgärder, inklusive kryptering och regelbundna säkerhetsrevisioner, för att skydda dina data.Du kan kontakta vårt supportteam via e-post, telefon eller livechatt. Supportinformation finns på vår webbplats.Ja, vi erbjuder omfattande utbildningsmaterial, inklusive videor, manualer och webbseminarier, för att hjälpa dig att få ut det mesta av JaxiCloud Fleet Management.Vi erbjuder flera olika paket utformade för att passa behoven och storleken på olika företag. Besök vår prissida för mer information om de tillgängliga paketen.Du kommer att debiteras månadsvis eller årsvis, beroende på vilket abonnemang du valt. Fakturering hanteras automatiskt via den betalningsmetod du valt vid registreringen.Du behöver JaxiCloud GPS-spårningsenheter installerade i dina fordon. Dessa enheter ingår i ditt prenumerationspaket.Ja, JaxiCloud erbjuder en mobilapp för både iOS och Android så att du kan hantera din flotta och få uppdateringar i realtid var du än är.Ja, du kan uppgradera eller nedgradera din prenumeration när som helst från dina kontoinställningar på JaxiClouds webbplats.",
+          "bodyHtml": "<p>Möjlighet att välja parametrar för analys av körbeteende: acceleration, inbromsning, hastighet, vårdslös körning, acceleration i kurvor. Eco Driving kan spåra andra överträdelser beroende på de skapade</p><p>Plattformen är idealisk för alla företag som äger och driver en fordonsflotta, inklusive transport- och logistikföretag, leveransföretag, serviceföretag och kommuner.</p><p>För att komma igång, registrera dig på vår webbplats och välj det paket som bäst passar dina behov. Efter registreringen får du instruktioner för hur du installerar våra spårningsenheter och konfigurerar ditt konto.</p><p>Du kan ange underhållsscheman i JaxiCloud, vilket påminner dig om kommande servicemöten och håller koll på underhållshistoriken.</p><p>Ja, JaxiCloud analyserar körmönster och ger dig insikter i körbeteenden som hastighet, hårda inbromsningar och accelerationsmönster, vilket bidrar till att förbättra säkerheten och minska kostnaderna.</p><p>Vi använder avancerade säkerhetsåtgärder, inklusive kryptering och regelbundna säkerhetsrevisioner, för att skydda dina data.</p><p>Du kan kontakta vårt supportteam via e-post, telefon eller livechatt. Supportinformation finns på vår webbplats.</p><p>Ja, vi erbjuder omfattande utbildningsmaterial, inklusive videor, manualer och webbseminarier, för att hjälpa dig att få ut det mesta av JaxiCloud Fleet Management.</p><p>Vi erbjuder flera olika paket utformade för att passa behoven och storleken på olika företag. Besök vår prissida för mer information om de tillgängliga paketen.</p><p>Du kommer att debiteras månadsvis eller årsvis, beroende på vilket abonnemang du valt. Fakturering hanteras automatiskt via den betalningsmetod du valt vid registreringen.</p><p>Du behöver JaxiCloud GPS-spårningsenheter installerade i dina fordon. Dessa enheter ingår i ditt prenumerationspaket.</p><p>Ja, JaxiCloud erbjuder en mobilapp för både iOS och Android så att du kan hantera din flotta och få uppdateringar i realtid var du än är.</p><p>Ja, du kan uppgradera eller nedgradera din prenumeration när som helst från dina kontoinställningar på JaxiClouds webbplats.</p>",
+          "listItems": [
+            "Spårning i realtid: Övervaka dina fordons position i realtid.Underhållsschemaläggning: Planera och övervaka fordonsunderhåll för att minimera stilleståndstid.Bränslehantering: Övervaka bränsleförbrukning och identifiera möjligheter till besparingar.Körbeteende: Analysera körmönster för att förbättra säkerhet och effektivitet.Rapportering: Generera detaljerade rapporter om fordonsflottans prestanda och kostnader."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sürüş davranışının analizine yönelik parametreleri seçme imkanı: hızlanma, frenleme, hız, dikkatsiz sürüş, virajlarda hızlanma. Eco Driving, oluşturulan ayarlara bağlı olarak diğer ihlalleri de takip edebilir.Bu platform, taşımacılık ve lojistik şirketleri, teslimat şirketleri, hizmet şirketleri ve belediyeler de dahil olmak üzere, araç filosu sahibi olan ve işleten tüm şirketler için idealdir.Başlamak için web sitemizde kayıt olun ve ihtiyaçlarınıza en uygun paketi seçin. Kayıt olduktan sonra, takip cihazlarımızı kurma ve hesabınızı oluşturma konusunda talimatlar alacaksınız.JaxiCloud’a bakım programları girebilirsiniz; bu sayede yaklaşan servis randevularınız size hatırlatılır ve bakım geçmişiniz takip edilir.Evet, JaxiCloud sürüş modellerini analiz eder ve hız, ani frenleme ve hızlanma gibi sürüş davranışlarına dair bilgiler sunarak güvenliği artırmaya ve maliyetleri düşürmeye yardımcı olur.Verilerinizi korumak için şifreleme ve düzenli güvenlik denetimleri de dahil olmak üzere gelişmiş güvenlik önlemleri kullanıyoruz.Destek ekibimizle e-posta, telefon veya canlı sohbet yoluyla iletişime geçebilirsiniz. Destek bilgilerine web sitemizden ulaşabilirsiniz.Evet, JaxiCloud Filo Yönetimi’nden en iyi şekilde yararlanmanıza yardımcı olmak için videolar, kılavuzlar ve web seminerleri de dahil olmak üzere kapsamlı eğitim materyalleri sunuyoruz.İşletmelerin ihtiyaçlarına ve büyüklüklerine uygun çeşitli paketler sunuyoruz. Mevcut paketler hakkında daha fazla bilgi için fiyatlandırma sayfamızı ziyaret edin.Seçtiğiniz abonelik planına bağlı olarak aylık veya yıllık olarak faturalandırılacaksınız. Faturalandırma, kayıt olurken seçtiğiniz ödeme yöntemiyle otomatik olarak gerçekleştirilir.Araçlarınıza JaxiCloud GPS takip cihazlarının takılması gerekmektedir. Bu cihazlar abonelik paketinizin bir parçası olarak sunulmaktadır.Evet, JaxiCloud hem iOS hem de Android için mobil uygulama sunuyor, böylece nerede olursanız olun filonuzu yönetebilir ve gerçek zamanlı güncellemeler alabilirsiniz.Evet, aboneliğinizi JaxiCloud web sitesindeki hesap ayarlarınızdan istediğiniz zaman yükseltebilir veya düşürebilirsiniz.",
+          "bodyHtml": "<p>Sürüş davranışının analizine yönelik parametreleri seçme imkanı: hızlanma, frenleme, hız, dikkatsiz sürüş, virajlarda hızlanma. Eco Driving, oluşturulan ayarlara bağlı olarak diğer ihlalleri de takip edebilir.</p><p>Bu platform, taşımacılık ve lojistik şirketleri, teslimat şirketleri, hizmet şirketleri ve belediyeler de dahil olmak üzere, araç filosu sahibi olan ve işleten tüm şirketler için idealdir.</p><p>Başlamak için web sitemizde kayıt olun ve ihtiyaçlarınıza en uygun paketi seçin. Kayıt olduktan sonra, takip cihazlarımızı kurma ve hesabınızı oluşturma konusunda talimatlar alacaksınız.</p><p>JaxiCloud’a bakım programları girebilirsiniz; bu sayede yaklaşan servis randevularınız size hatırlatılır ve bakım geçmişiniz takip edilir.</p><p>Evet, JaxiCloud sürüş modellerini analiz eder ve hız, ani frenleme ve hızlanma gibi sürüş davranışlarına dair bilgiler sunarak güvenliği artırmaya ve maliyetleri düşürmeye yardımcı olur.</p><p>Verilerinizi korumak için şifreleme ve düzenli güvenlik denetimleri de dahil olmak üzere gelişmiş güvenlik önlemleri kullanıyoruz.</p><p>Destek ekibimizle e-posta, telefon veya canlı sohbet yoluyla iletişime geçebilirsiniz. Destek bilgilerine web sitemizden ulaşabilirsiniz.</p><p>Evet, JaxiCloud Filo Yönetimi’nden en iyi şekilde yararlanmanıza yardımcı olmak için videolar, kılavuzlar ve web seminerleri de dahil olmak üzere kapsamlı eğitim materyalleri sunuyoruz.</p><p>İşletmelerin ihtiyaçlarına ve büyüklüklerine uygun çeşitli paketler sunuyoruz. Mevcut paketler hakkında daha fazla bilgi için fiyatlandırma sayfamızı ziyaret edin.</p><p>Seçtiğiniz abonelik planına bağlı olarak aylık veya yıllık olarak faturalandırılacaksınız. Faturalandırma, kayıt olurken seçtiğiniz ödeme yöntemiyle otomatik olarak gerçekleştirilir.</p><p>Araçlarınıza JaxiCloud GPS takip cihazlarının takılması gerekmektedir. Bu cihazlar abonelik paketinizin bir parçası olarak sunulmaktadır.</p><p>Evet, JaxiCloud hem iOS hem de Android için mobil uygulama sunuyor, böylece nerede olursanız olun filonuzu yönetebilir ve gerçek zamanlı güncellemeler alabilirsiniz.</p><p>Evet, aboneliğinizi JaxiCloud web sitesindeki hesap ayarlarınızdan istediğiniz zaman yükseltebilir veya düşürebilirsiniz.</p>",
+          "listItems": [
+            "Gerçek Zamanlı Takip: Araçlarınızın konumunu gerçek zamanlı olarak izleyin.Bakım Planlaması: Arıza sürelerini en aza indirmek için araç bakımını planlayın ve izleyin.Yakıt Yönetimi: Yakıt tüketimini izleyin ve tasarruf fırsatlarını belirleyin.Sürüş Davranışı: Güvenliği ve verimliliği artırmak için sürüş modellerini analiz edin.Raporlama: Filo performansı ve maliyetleri hakkında ayrıntılı raporlar oluşturun."
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

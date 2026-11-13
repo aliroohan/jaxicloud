@@ -1,0 +1,896 @@
+{
+  "id": 2727,
+  "slug": "constractor-fr",
+  "canonicalSlug": "constractor",
+  "locale": "fr",
+  "title": "Constractor – FR",
+  "link": "https://www.jaxicloud.com/fr/constractor-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2727,
+    "da": 2071,
+    "en": 33,
+    "de": 2470,
+    "nl": 2931,
+    "nb": 3125,
+    "sv": 3318,
+    "tr": 3512
+  },
+  "excerpt": "Constructeur Solutions de machines et d’équipements Un contrôle plus intelligent de vos machines sur site La gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus. [&hellip;]",
+  "seo": {
+    "title": "Constructeur - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-04-29T22:16:40",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "c586fdf",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c586fdf",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Constructeur",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d70eec6",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "0aa6202",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0aa6202",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Solutions de machines et d’équipements</p>",
+      "bodyText": "Solutions de machines et d’équipements",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c71289a",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "a696c3f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a696c3f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Un contrôle plus intelligent de vos machines sur site",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-fdde803",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "c5d4b3c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5d4b3c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"750\" data-end=\"1005\">La gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.</p><p data-start=\"1007\" data-end=\"1213\">En intégrant des plateformes leaders du secteur comme Wialon ainsi que des solutions matérielles telles que les appareils Xirgo, nous fournissons un système puissant spécialement conçu pour les chantiers.</p><p data-start=\"1215\" data-end=\"1375\">Que vos machines soient utilisées sur de grands projets d’infrastructure, des développements urbains ou des terrains isolés, vous gardez toujours le contrôle.</p>",
+      "bodyText": "La gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.En intégrant des plateformes leaders du secteur comme Wialon ainsi que des solutions matérielles telles que les appareils Xirgo, nous fournissons un système puissant spécialement conçu pour les chantiers.Que vos machines soient utilisées sur de grands projets d’infrastructure, des développements urbains ou des terrains isolés, vous gardez toujours le contrôle.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-fdde803",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "8574c3c",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8574c3c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/6cNVzdEvCkvObi0yaIW9W-LmKofRSuERcfPXAZ9o92cOzjiOOYKsCIGqxDG17P3o06Qwm3RnH7TiCY8LqcHVquv2bB3GZG4i5e97842nuC5W6xeR6GK9gjhctojYEp1zv81IDi0REAZNoiu8LioBi79k5kStmWAue3nWv1GNeBtdv5tYCYrMqO2qkFsLixcN-1024x681.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 532
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-fdde803",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "c45d557",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c45d557",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_9257e5f8f3ce47a4bbc8ce184443fe85/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "5bd00bc9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5bd00bc9",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solution de machines et d'équipements compatibles avec l'iot",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "622ef37b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-622ef37b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De nombreux types de machines et d’équipements, tels que les chargeuses, les excavatrices, les bulldozers, les tombereaux, les rouleaux compresseurs et les malaxeurs, peuvent être utilisés dans un projet de construction. En tant que propriétaires, gestionnaires ou exploitants d’entreprises de construction, vous pouvez choisir d’acheter ou de louer des équipements ou des machines adaptés à vos besoins. Dans tous les cas, il s’agira d’un investissement important. La sous-utilisation, la marche au ralenti, les temps d’arrêt, la consommation de carburant élevée ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.</p>",
+      "bodyText": "De nombreux types de machines et d’équipements, tels que les chargeuses, les excavatrices, les bulldozers, les tombereaux, les rouleaux compresseurs et les malaxeurs, peuvent être utilisés dans un projet de construction. En tant que propriétaires, gestionnaires ou exploitants d’entreprises de construction, vous pouvez choisir d’acheter ou de louer des équipements ou des machines adaptés à vos besoins. Dans tous les cas, il s’agira d’un investissement important. La sous-utilisation, la marche au ralenti, les temps d’arrêt, la consommation de carburant élevée ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "feab5a5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-feab5a5",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solution d'équipement",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "fbc5d90",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbc5d90",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Dans tous les cas, il s’agira de l’investissement le plus important. La sous-utilisation, le fonctionnement au ralenti, les temps d’arrêt, une consommation de carburant excessive ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.</p>",
+      "bodyText": "Dans tous les cas, il s’agira de l’investissement le plus important. La sous-utilisation, le fonctionnement au ralenti, les temps d’arrêt, une consommation de carburant excessive ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "5522332",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5522332",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_0ecf3f503fcc4b258bda60719423083e/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-45515746",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "264aaef",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-264aaef",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/YwveSPqwsc3so0cws-Z1sJzYDLjiQWEPiduSPhLn107SZuVGq5Eg7J8gSHH6nWxtTLZIiDuiDCHx8pi_VXZ8jm86f5OnfmOHIBSxpcbBwKCyrhQzxgazm5gg8ZH08_mhuE7uyLUbQQWM9hiDj8vIRu2usT-thcJlFAOb7AHqFSoq9DuGIvGeG1KaON09uWl4-1024x755.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 590
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e12b056",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "4412ff7",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4412ff7",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Surveillance complète des machines en temps réel",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e12b056",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "14ad187",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14ad187",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"2204\" data-end=\"2303\">Nous proposons un suivi et une surveillance avancés de tous les paramètres critiques des machines :</p><p data-start=\"3001\" data-end=\"3132\">Toutes les données sont disponibles dans un tableau de bord centralisé, vous offrant des informations exploitables en temps réel.</p>",
+      "bodyText": "Nous proposons un suivi et une surveillance avancés de tous les paramètres critiques des machines :Toutes les données sont disponibles dans un tableau de bord centralisé, vous offrant des informations exploitables en temps réel.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Suivi GPS et historique des déplacements – Sachez précisément où se trouvent vos machines et comment elles sont utilisées",
+        "Intégration des données CAN Bus – Accédez aux données moteur, au régime (RPM), aux heures de fonctionnement et au statut opérationnel",
+        "Surveillance du niveau de carburant (sondes) – Détectez les vols de carburant et assurez un suivi précis de la consommation",
+        "Consommation de carburant (débitmètres) – Mesurez la consommation réelle avec une grande précision",
+        "Capteurs de poids et surveillance de charge – Suivez la productivité et évitez les surcharges",
+        "Analyse du temps d’inactivité et d’utilisation – Optimisez l’usage des machines et réduisez les temps d’arrêt"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e12b056",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "e7ae24d",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e7ae24d",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/11062b_1bbeafb5adb44aa2b5f3d03dd00c45bf/1080p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-70610dd",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "99f26ff",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-99f26ff",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Améliorez l’efficacité et réduisez les coûts",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a893670",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 6,
+      "elementorId": "e7e0fce",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e7e0fce",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"3597\" data-end=\"3686\">Nos solutions de télématique vous aident à transformer les données en économies réelles :</p><p data-start=\"3942\" data-end=\"4065\">Grâce à des analyses détaillées et des rapports, vous pouvez prendre de meilleures décisions opérationnelles chaque jour.</p>",
+      "bodyText": "Nos solutions de télématique vous aident à transformer les données en économies réelles :Grâce à des analyses détaillées et des rapports, vous pouvez prendre de meilleures décisions opérationnelles chaque jour.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Réduisez les coûts de carburant grâce à un suivi précis",
+        "Prévenez les vols et les utilisations non autorisées",
+        "Optimisez la planification de la maintenance",
+        "Prolongez la durée de vie des machines",
+        "Augmentez la productivité globale de votre flotte"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a893670",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 6,
+      "elementorId": "f12e4d7",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f12e4d7",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Votre partenaire en intégration télématique",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a893670",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "85cbb43",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-85cbb43",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"4544\" data-end=\"4642\">Nous ne proposons pas seulement du suivi — nous fournissons des solutions télématiques complètes :</p><p data-start=\"4833\" data-end=\"4969\">D’une seule machine à une flotte complète, nous vous aidons à obtenir un contrôle total et une visibilité complète sur vos opérations.</p>",
+      "bodyText": "Nous ne proposons pas seulement du suivi — nous fournissons des solutions télématiques complètes :D’une seule machine à une flotte complète, nous vous aidons à obtenir un contrôle total et une visibilité complète sur vos opérations.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Installation du matériel (trackers, capteurs, sondes)",
+        "Intégration et configuration logicielle",
+        "Tableaux de bord et rapports personnalisés",
+        "Support continu et optimisation du système"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a893670",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "8d9b164",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8d9b164",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/8VbabwNYDubSBT5mMkGCOpbzvIJTyg35AW_9AwiCO9ZELLoSR7su4-99qu9U1xSIzK5DntxzwQXZ7J7PmY4as22br13svfZSWzgfATcBoBW883hW4rAfG979vgR8jYL6u-oYk3xaXBghMO3h_A7tLumFKKjcd1phS7Bnit-gnkRAARifw66D9lwj2dioKa6x-scaled.jpg",
+          "alt": "",
+          "width": 2560,
+          "height": 1707
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5c5214e",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 7,
+      "elementorId": "78beca9",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-78beca9",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"5467\" data-end=\"5566\">Les environnements de construction sont dynamiques, exigeants et souvent imprévisibles.</p><p data-start=\"5568\" data-end=\"5675\">Nos solutions sont spécialement conçues pour fonctionner de manière fiable dans des conditions difficiles :</p><p data-start=\"5831\" data-end=\"5875\"><br>Avec notre système, vous pouvez surveiller :</p>",
+      "bodyText": "Les environnements de construction sont dynamiques, exigeants et souvent imprévisibles.Nos solutions sont spécialement conçues pour fonctionner de manière fiable dans des conditions difficiles :Avec notre système, vous pouvez surveiller :",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Poussière, vibrations et températures extrêmes",
+        "Mouvement constant des machines sur de grandes surfaces",
+        "Multiples opérateurs et horaires changeants",
+        "Temps de travail vs temps d’inactivité",
+        "Utilisation non autorisée en dehors des heures de travail",
+        "Comportement inefficace des opérateurs",
+        "Productivité réelle par machine"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5c5214e",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 8,
+    "htmlBytes": 26203
+  }
+}

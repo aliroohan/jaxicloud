@@ -1,0 +1,243 @@
+/**
+ * NimBus — light B2B product page (live www.jaxicloud.com/en/nimbus/).
+ * White / soft gray surface, navy accents, tight vertical rhythm,
+ * alternating zig-zag functionality rows with scroll reveals.
+ */
+
+.page {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+/* —— 1. Centered page title —— */
+.hero {
+  text-align: center;
+  padding: clamp(1rem, 2.5vw, 1.75rem) 0 clamp(1.25rem, 2.5vw, 1.85rem);
+}
+
+.title {
+  font-size: clamp(2.75rem, 6vw, 4.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: #0f172a;
+  margin: 0;
+}
+
+/* —— 2. Intro: copy left / dashboard right —— */
+.intro {
+  display: grid;
+  gap: clamp(1.5rem, 3.5vw, 2.5rem);
+  align-items: center;
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+}
+
+@media (min-width: 900px) {
+  .intro {
+    grid-template-columns: 1fr 1.05fr;
+    gap: clamp(2rem, 4vw, 3.25rem);
+  }
+}
+
+.introCopy {
+  display: grid;
+  gap: 0.95rem;
+  align-content: start;
+}
+
+.introHeading {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.6vw, 1.85rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+  max-width: 22ch;
+}
+
+.introProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.introProse :global(p) {
+  margin: 0;
+}
+
+.introProse :global(p + p) {
+  margin-top: 0.85rem;
+}
+
+.introCta {
+  margin-top: 0.35rem;
+}
+
+.introMedia {
+  min-width: 0;
+}
+
+.introFrame {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(160deg, #f8fafc 0%, #eef2f7 55%, #e8eef6 100%);
+  aspect-ratio: 16 / 11;
+  border-radius: 0.35rem;
+  min-height: 12rem;
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 18px 40px -28px rgba(15, 23, 42, 0.35);
+}
+
+.introFrame :global(img) {
+  object-fit: contain;
+}
+
+/* —— 3. How it works + navy check list —— */
+.how {
+  padding: 0 0 clamp(2.25rem, 4.5vw, 3.25rem);
+  text-align: center;
+}
+
+.sectionTitle {
+  margin: 0 auto;
+  max-width: 36rem;
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  color: #0f172a;
+  text-align: center;
+}
+
+.checkList {
+  list-style: none;
+  margin: clamp(1.25rem, 2.5vw, 1.75rem) auto 0;
+  padding: 0;
+  display: grid;
+  gap: 0.7rem;
+  max-width: 34rem;
+  text-align: left;
+}
+
+.checkItem {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  font-size: 0.975rem;
+  line-height: 1.55;
+  color: #334155;
+}
+
+.checkIcon {
+  display: grid;
+  place-items: center;
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-top: 0.1rem;
+  border-radius: 999px;
+  background: var(--accent, #0b1f3a);
+  color: #fff;
+  flex-shrink: 0;
+}
+
+/* —— 4. Functionality zig-zag —— */
+.funcs {
+  padding: 0 0 clamp(2.5rem, 5vw, 3.75rem);
+}
+
+.funcs .sectionTitle {
+  margin-bottom: clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.zig {
+  display: grid;
+  gap: clamp(2rem, 4vw, 3rem);
+}
+
+.zigRow {
+  display: grid;
+  gap: clamp(1.35rem, 3vw, 2.25rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .zigRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* Default: text left, media right — DOM order copy then media */
+  .zigMediaRight .mediaSlot {
+    order: 2;
+  }
+
+  .zigMediaRight .copySlot {
+    order: 1;
+  }
+
+  /* Flip: media left, text right */
+  .zigMediaLeft .mediaSlot {
+    order: 1;
+  }
+
+  .zigMediaLeft .copySlot {
+    order: 2;
+  }
+}
+
+.copy {
+  display: grid;
+  gap: 0.75rem;
+  align-content: center;
+  max-width: 28rem;
+}
+
+.zigHeading {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  color: #0f172a;
+}
+
+.zigProse {
+  font-size: 0.975rem;
+  line-height: 1.7;
+  color: #475569;
+}
+
+.zigProse :global(p) {
+  margin: 0;
+}
+
+.zigProse :global(p + p) {
+  margin-top: 0.75rem;
+}
+
+.mediaSlot {
+  min-width: 0;
+}
+
+.mediaFrame {
+  position: relative;
+  overflow: hidden;
+  background: #f1f5f9;
+  aspect-ratio: 16 / 11;
+  border-radius: 0.35rem;
+  box-shadow:
+    0 1px 0 rgba(15, 23, 42, 0.04),
+    0 14px 32px -24px rgba(15, 23, 42, 0.28);
+}
+
+.mediaFrame :global(img) {
+  object-fit: contain;
+}
+
+@media (max-width: 899px) {
+  .copy {
+    max-width: none;
+  }
+}

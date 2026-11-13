@@ -5,13 +5,14 @@ import Image from "next/image";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
+import type { ServicesCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ServicesHero.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-export function ServicesHero() {
+export function ServicesHero({ copy }: { copy: ServicesCopy }) {
   const containerRef = useRef<HTMLElement>(null);
   const textLinesRef = useRef<(HTMLSpanElement | null)[]>([]);
   const subtitleRef = useRef<HTMLParagraphElement>(null);
@@ -144,17 +145,17 @@ export function ServicesHero() {
         <div ref={textColumnRef} className={styles.textColumn}>
           <h1 className={styles.headline}>
             <div className={styles.lineMask}>
-              <span ref={el => { textLinesRef.current[0] = el; }}>Intelligent</span>
+              <span ref={el => { textLinesRef.current[0] = el; }}>{copy.heroLine1}</span>
             </div>
             <div className={styles.lineMask}>
-              <span ref={el => { textLinesRef.current[1] = el; }}>Fleet</span>
+              <span ref={el => { textLinesRef.current[1] = el; }}>{copy.heroLine2}</span>
             </div>
             <div className={styles.lineMask}>
-              <span ref={el => { textLinesRef.current[2] = el; }} className={styles.highlight}>Control.</span>
+              <span ref={el => { textLinesRef.current[2] = el; }} className={styles.highlight}>{copy.heroLine3}</span>
             </div>
           </h1>
           <p ref={subtitleRef} className={styles.subtitle}>
-            Become your own 24/7 emergency center.
+            {copy.heroSub}
           </p>
           <div className={styles.ctaWrapper}>
             <button 
@@ -164,7 +165,7 @@ export function ServicesHero() {
                 document.getElementById('contact-terminal')?.scrollIntoView({ behavior: 'smooth' });
               }}
             >
-              Try Tasks Now
+              {copy.heroCta}
             </button>
           </div>
         </div>
@@ -175,7 +176,7 @@ export function ServicesHero() {
             <div ref={mockupInnerRef} className={styles.mockupInner}>
               <Image
                 src="/images/service_environment.png"
-                alt="Jaxicloud Service Environment"
+                alt={copy.heroMockupAlt}
                 fill
                 priority
                 className={styles.mockupImage}

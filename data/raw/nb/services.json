@@ -1,0 +1,879 @@
+{
+  "id": 3247,
+  "slug": "services-no",
+  "canonicalSlug": "services",
+  "locale": "nb",
+  "title": "Services – NO",
+  "link": "https://www.jaxicloud.com/nb/services-no/",
+  "pageKind": "marketing",
+  "translations": {
+    "nb": 3247,
+    "da": 2043,
+    "en": 17,
+    "de": 2600,
+    "fr": 2847,
+    "nl": 3047,
+    "sv": 3440,
+    "tr": 3629
+  },
+  "excerpt": "JAXICLOUD services JAXICLOUD RESCUE EUROPE – Services Online digitale Flådestyringens fremtid:Bliv din egen 24/7 kontrol central Administration af opgaver Formål med konceptet At give transportvirksomheder, vognmænd og flådeejere adgang til deres egen digitale overvågningscentral. Her kan de selv styre og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end ved ekstern hjælp. JAXICLOUD [&hellip;]",
+  "seo": {
+    "title": "JAXICLOUD services - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:29:01",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "66c8a82",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66c8a82",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD services",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ec9aecf",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "c5f684f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c5f684f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JAXICLOUD RESCUE EUROPE – Services Online digitale Flådestyringens fremtid:<br>Bliv din egen 24/7 kontrol central</p>",
+      "bodyText": "JAXICLOUD RESCUE EUROPE – Services Online digitale Flådestyringens fremtid:Bliv din egen 24/7 kontrol central",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2d5ba94",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 2,
+      "elementorId": "534ac2f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-534ac2f",
+        "elementor-widget__width-initial",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Administration af opgaver",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "1b56085",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b56085",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Formål med konceptet",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0e11e7",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0e11e7",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "At give transportvirksomheder, vognmænd og flådeejere adgang til deres egen digitale overvågningscentral. Her kan de selv styre og reagere på hændelser, nedbrud og driftsforstyrrelser – hurtigere og billigere end ved ekstern hjælp."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "11b562d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11b562d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/708b995c-19a8-47b0-8830-9b2be3bbfde5-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 388
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a43f28",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7e9a1edc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e9a1edc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD RESCUE EUROPE – Tjenester på nett Fremtiden for flåtestyring: Bli ditt eget døgnåpne nødsenter",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "12acee8c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12acee8c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Formålet med konseptet",
+      "bodyHtml": "<p>Å gi transportselskaper, transportører og flåteeiere tilgang til sitt eget digitale overvåkingssenter. Her kan de håndtere og reagere på hendelser, havarier og driftsforstyrrelser selv – raskere og billigere enn med ekstern hjelp.</p>",
+      "bodyText": "Å gi transportselskaper, transportører og flåteeiere tilgang til sitt eget digitale overvåkingssenter. Her kan de håndtere og reagere på hendelser, havarier og driftsforstyrrelser selv – raskere og billigere enn med ekstern hjelp.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/564ca992-f7d4-45b3-86b1-bc3136b9ea4f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "51aad7e5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51aad7e5",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Oppgaveliste",
+      "bodyHtml": "<p>Oppgavelisten viser som standard oppgaver for i dag. Hvis du vil velge en annen tidsperiode eller søke etter og filtrere oppgaver etter andre kriterier, følger du instruksjonene på siden Oppgavebehandling.</p>",
+      "bodyText": "Oppgavelisten viser som standard oppgaver for i dag. Hvis du vil velge en annen tidsperiode eller søke etter og filtrere oppgaver etter andre kriterier, følger du instruksjonene på siden Oppgavebehandling.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/af14f091-4358-4195-af5f-0c3a6406deb6-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "414ff94c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-414ff94c",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD tilbyr:",
+      "bodyHtml": "<p>Installasjon av all maskinvare</p><p>Konfigurering av Jaxicloud-oppgaver og -alarmer Støtte, opplæring og onboarding</p>",
+      "bodyText": "Installasjon av all maskinvareKonfigurering av Jaxicloud-oppgaver og -alarmer Støtte, opplæring og onboarding",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/a191aeb8-4867-41a2-b3bf-5632c572f311-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "fbb4037",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fbb4037",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Slik fungerer det:",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sanntidsovervåking Direkte data fra tilhengere og lastebiler (EBS, TPMS, kjølemaskiner, dashbordkameraer, FMS/CAN) Alarmer for feil, havari, temperaturavvik eller drivstofforbruk</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Live GPS og status fra hele flåten</span></p>",
+      "bodyText": "Sanntidsovervåking Direkte data fra tilhengere og lastebiler (EBS, TPMS, kjølemaskiner, dashbordkameraer, FMS/CAN) Alarmer for feil, havari, temperaturavvik eller drivstofforbrukLive GPS og status fra hele flåten",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/8be00804-6dbb-4b97-9d82-f1e236b0a086-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ef10769",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ef10769",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Døgnkontroll – uten å betale for et tredjeparts sikkerhetssenter",
+      "bodyHtml": "<p>Kortere responstid – egen reaksjon eller nettverk</p><p>Direkte rapportering og dokumentasjon</p><p>Lavere kostnader per oppgave</p><p>Mulighet for å fakturere hjelpen internt (eller viderefakturere)</p>",
+      "bodyText": "Kortere responstid – egen reaksjon eller nettverkDirekte rapportering og dokumentasjonLavere kostnader per oppgaveMulighet for å fakturere hjelpen internt (eller viderefakturere)",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/e2efaffb-4956-47f8-84ec-9a7c8a4c5aee-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "95503a2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95503a2",
+        "eael-infobox-content-align--center",
+        "eael-infobox-shape-square",
+        "eael-infobox-hover-img-shape-square",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "JAXICLOUD redningspartner:",
+      "bodyHtml": "<p>Delt nettverk for oppsøkende partnere</p><p>Rescue Plus: Jaxiclouds bruk av sitt eget døgnåpne nettverk</p><p>RescueSelf: Komplett selvbetjening med egne kjøretøy</p>",
+      "bodyText": "Delt nettverk for oppsøkende partnereRescue Plus: Jaxiclouds bruk av sitt eget døgnåpne nettverkRescueSelf: Komplett selvbetjening med egne kjøretøy",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/c49c90d5-f570-4d3f-a1e1-a4aa5d52260f-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4358d8f4",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "397025ba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-397025ba",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Praktiske oppgaver",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "1c52548a",
+      "widgetType": "eael-feature-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c52548a",
+        "elementor-widget",
+        "elementor-widget-eael-feature-list"
+      ],
+      "heading": "All nødvendig informasjon samlet på ett sted",
+      "bodyHtml": "<p class=\"eael-feature-list-content\">Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.</p><p class=\"eael-feature-list-content\">Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.</p><p class=\"eael-feature-list-content\">Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer.\n</p>",
+      "bodyText": "Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/33442eed-1.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/5e688d25-2.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/6ceb6a1a-3.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "All nødvendig informasjon samlet på ett sted Når en hendelse inntreffer, vises den automatisk som en oppgave på en egen fane under Oppgaver. Fanen viser viktig informasjon for hver oppgave, inkludert prioritet, status, tildelt person, løsning, tidspunkt, beskrivelse og tilhørende enhetsnavn. Brukere kan også åpne det lenkede oppgavekortet for å se ytterligere detaljer som plassering, kommentarer, enhets- og driverinformasjon, geogjerder og andre data. Det intuitive og lettnavigerbare brukergrensesnittet sikrer at operatører raskt kan få tilgang til viktig informasjon, noe som gir bedre oversikt og kontroll over flåteaktiva.",
+        "Ulike interaksjonsalternativer for oppgaver Brukere kan samhandle direkte med oppgaver i Jaxicloud, slik at de kan gjennomgå og redigere viktig informasjon, tildele oppgaver til kolleger, justere prioritet og status, og legge igjen kommentarer. Enkelte handlinger, som å endre status eller tildelte personer, kan utføres samtidig, noe som muliggjør effektiv redigering av flere oppgaver samtidig. Brukere kan også utføre kommandoer direkte fra oppgavekortet eller umiddelbart kontakte sjåføren om nødvendig. Dette sikrer grundig sporing av hver oppgave gjennom hele livssyklusen helt til den er løst og lukket.",
+        "Oppgavehistorikk er tilgjengelig når som helst Fanen samler inn og lagrer informasjon om alle oppgaver, inkludert nye og de som allerede er løst eller avvist, og gir tilgang til en fullstendig historikk når det er nødvendig. Brukere kan sortere oppgaver basert på ulike kriterier, for eksempel dato, status eller type, og se gjennom detaljene for hver oppgave, inkludert utførte handlinger og resultater. Disse dataene gir verdifull innsikt som bidrar til å identifisere mønstre, evaluere koordinatorers ytelse og implementere prosessforbedringer."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "5e03d5b6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e03d5b6",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/tasks.png",
+          "alt": "",
+          "width": 465,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-688fff0a",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "3fd3c73",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fd3c73",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Prøv Huskeliste nå!",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "51eafcb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eafcb",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.",
+      "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.\n\n</p>",
+      "bodyText": "Oppgaver representerer et betydelig skritt fremover i Jaxiclouds kontinuerlige arbeid med å levere mer effektive verktøy for flåtestyring som hjelper bedrifter med å holde seg effektive og organiserte. Flåteeiere kan nå administrere og reagere på hendelser mer effektivt gjennom et sentralisert grensesnitt, og dermed sikre at alle relaterte oppgaver tildeles, spores og løses riktig. Evnen til å gjennomgå og analysere tidligere oppgaver bidrar til å forbedre ytelsen og samle inn statistiske data. Samtidig utvider det nye verktøyet Jaxiclouds liste over kjernefunksjoner, slik at Jaxiclouds partnere bedre kan møte kundenes behov uten å utvikle eller integrere ytterligere tredjepartsløsninger. Vi oppfordrer partnerne våre til å dele tankene sine om den nye funksjonaliteten via tilbakemeldingsskjemaet i Oppgaver-fanen eller direkte med Wialons produktteam på info@jaxicloud.com. Dine innspill og forslag vil veilede den fremtidige utviklingen av denne funksjonen. Hvis du ikke er Jaxicloud-partner ennå, men ønsker å prøve Oppgaver-funksjonen og utforske de mange andre alternativene som Wialon tilbyr, kan du kontakte oss på sales@jaxicloud.com – vi hjelper deg gjerne.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eeca542",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 6,
+      "elementorId": "9a2fb98",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9a2fb98",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Kontakt",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-221ead1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "1987d86",
+      "widgetType": "eael-fluentform.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1987d86",
+        "eael-fluentform-form-button-custom",
+        "eael-ff-step-header-yes",
+        "eael-ff-step-progressbar-yes",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-fluentform"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-623af3b",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 8,
+    "htmlBytes": 33713
+  }
+}

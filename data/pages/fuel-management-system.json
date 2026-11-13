@@ -1,0 +1,1970 @@
+{
+  "slug": "fuel-management-system",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Fuel management system DA",
+    "en": "Fuel management system",
+    "de": "Fuel management system – DE",
+    "fr": "Fuel management system – FR",
+    "nl": "Fuel management system – HL",
+    "nb": "Fuel management system – NO",
+    "sv": "Fuel management system – SV",
+    "tr": "Fuel management system – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Brændstofstyrings system - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Fuel management system - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Kraftstoffmanagementsystem - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Système de gestion du carburant - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Brandstofbeheersysteem - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Drivstoffstyringssystem - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Bränslehanteringssystem - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Yakıt yönetim sistemi - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/fuel-management-system-da/",
+    "en": "https://www.jaxicloud.com/en/fuel-management-system/",
+    "de": "https://www.jaxicloud.com/de/fuel-management-system-de/",
+    "fr": "https://www.jaxicloud.com/fr/fuel-management-system-fr/",
+    "nl": "https://www.jaxicloud.com/nl/fuel-management-system-hl/",
+    "nb": "https://www.jaxicloud.com/nb/fuel-management-system-no/",
+    "sv": "https://www.jaxicloud.com/sv/fuel-management-system-sv/",
+    "tr": "https://www.jaxicloud.com/tr/fuel-management-system-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Brændstofstyrings system",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fuel management system",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kraftstoffmanagementsystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Système de gestion du carburant",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Brandstofbeheersysteem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Drivstoffstyringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Bränslehanteringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yakıt yönetim sistemi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Brændstofstyringssystem fra Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fuel management system from Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kraftstoffmanagementsystem von Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Système de gestion du carburant de Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Brandstofmanagementsysteem van Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Drivstoffstyringssystem fra Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Bränslehanteringssystem från Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi'nden yakıt yönetim sistemi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Virksomheder med store flåder står uundgåeligt over for problemer med brændstofstyring. Og med god grund: Brændstofomkostninger udgør ofte en betydelig del af en flådes samlede udgifter. I dette tilfælde er et brændstofovervågningssystem den ultimative løsning til optimering af udgiftsregnskabet.Brændstofstyringssystemet er baseret på data fra indbyggede computere eller eftermarkedsbrændstofniveausensorer installeret i et køretøjs brændstoftank. Data, der overføres til sporingssystemet, gør det muligt at opdage brændstoftyveri eller for højt brændstofforbrug, hvilket hjælper med at finde måder at spare 15 % eller mere på brændstofomkostninger og øge flådens effektivitet med 30 % eller mere. Ifølge statistikker tjener implementeringen af ​​Jaxicloud Fleet Management-flådestyringssystemet til brændstofkontrol sig selv hjem inden for 3-4 måneder.",
+          "bodyHtml": "<p>Virksomheder med store flåder står uundgåeligt over for problemer med brændstofstyring. Og med god grund: Brændstofomkostninger udgør ofte en betydelig del af en flådes samlede udgifter. I dette tilfælde er et brændstofovervågningssystem den ultimative løsning til optimering af udgiftsregnskabet.</p><p>Brændstofstyringssystemet er baseret på data fra indbyggede computere eller eftermarkedsbrændstofniveausensorer installeret i et køretøjs brændstoftank. Data, der overføres til sporingssystemet, gør det muligt at opdage brændstoftyveri eller for højt brændstofforbrug, hvilket hjælper med at finde måder at spare 15 % eller mere på brændstofomkostninger og øge flådens effektivitet med 30 % eller mere. Ifølge statistikker tjener implementeringen af ​​Jaxicloud Fleet Management-flådestyringssystemet til brændstofkontrol sig selv hjem inden for 3-4 måneder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Companies with large fleets inevitably face fuel management issues. And for good reason: fuel costs often account for a significant portion of a fleet’s total expenses. In this case, a fuel monitoring system is the ultimate solution for optimizing expense accounting.Fuel management system is based on data available from on-board computer or aftermarket fuel level sensors installed in a vehicle’s fuel tank. Data transmitted to the tracking system allows detecting fuel theft or excessive fuel consumption, which helps to find ways to save 15% or more on fuel costs and increase fleet efficiency by 30% or more. According to statistics, Jaxicloud Fleet Management fleet management system implementation for fuel control pays for itself within 3-4 months.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Companies with large fleets inevitably face fuel management issues. And for good reason: fuel costs often account for a significant portion of a fleet’s total expenses. In this case, a fuel monitoring system is the ultimate solution for optimizing expense accounting.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Fuel management system is based on data available from on-board computer or aftermarket fuel level sensors installed in a vehicle’s fuel tank. Data transmitted to the tracking system allows detecting fuel theft or excessive fuel consumption, which helps to find ways to save 15% or more on fuel costs and increase fleet efficiency by 30% or more. According to statistics, Jaxicloud Fleet Management fleet management system implementation for fuel control pays for itself within 3-4 months.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Unternehmen mit großen Fahrzeugflotten stehen unweigerlich vor Herausforderungen im Kraftstoffmanagement. Und das aus gutem Grund: Kraftstoffkosten machen oft einen erheblichen Teil der Gesamtausgaben einer Flotte aus. In diesem Fall ist ein Kraftstoffmonitoringsystem die optimale Lösung zur Kostenoptimierung.Das Kraftstoffmanagementsystem basiert auf Daten des Bordcomputers oder nachträglich im Kraftstofftank installierter Kraftstoffstandsensoren. Die an das Trackingsystem übermittelten Daten ermöglichen die Erkennung von Kraftstoffdiebstahl oder übermäßigem Verbrauch. So lassen sich Einsparpotenziale von 15 % oder mehr bei den Kraftstoffkosten finden und die Flotteneffizienz um 30 % oder mehr steigern. Statistiken zufolge amortisiert sich die Implementierung des Flottenmanagementsystems Jaxicloud Fleet Management zur Kraftstoffkontrolle innerhalb von 3–4 Monaten.",
+          "bodyHtml": "<p>Unternehmen mit großen Fahrzeugflotten stehen unweigerlich vor Herausforderungen im Kraftstoffmanagement. Und das aus gutem Grund: Kraftstoffkosten machen oft einen erheblichen Teil der Gesamtausgaben einer Flotte aus. In diesem Fall ist ein Kraftstoffmonitoringsystem die optimale Lösung zur Kostenoptimierung.</p><p>Das Kraftstoffmanagementsystem basiert auf Daten des Bordcomputers oder nachträglich im Kraftstofftank installierter Kraftstoffstandsensoren. Die an das Trackingsystem übermittelten Daten ermöglichen die Erkennung von Kraftstoffdiebstahl oder übermäßigem Verbrauch. So lassen sich Einsparpotenziale von 15 % oder mehr bei den Kraftstoffkosten finden und die Flotteneffizienz um 30 % oder mehr steigern. Statistiken zufolge amortisiert sich die Implementierung des Flottenmanagementsystems Jaxicloud Fleet Management zur Kraftstoffkontrolle innerhalb von 3–4 Monaten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les entreprises disposant de flottes importantes sont inévitablement confrontées à des problématiques de gestion du carburant. Et pour cause : les coûts de carburant représentent souvent une part significative des dépenses totales d’une flotte. Dans ce contexte, un système de surveillance du carburant constitue la solution idéale pour optimiser la comptabilité des dépenses.Ce système de gestion du carburant s’appuie sur les données fournies par l’ordinateur de bord ou par des capteurs de niveau de carburant installés dans le réservoir du véhicule. Les données transmises au système de suivi permettent de détecter les vols de carburant ou les surconsommations, contribuant ainsi à réaliser des économies de 15 % ou plus sur les coûts de carburant et à améliorer l’efficacité de la flotte de 30 % ou plus. Selon les statistiques, la mise en œuvre du système de gestion de flotte Jaxicloud Fleet Management pour le contrôle du carburant est amortie en 3 à 4 mois.",
+          "bodyHtml": "<p>Les entreprises disposant de flottes importantes sont inévitablement confrontées à des problématiques de gestion du carburant. Et pour cause : les coûts de carburant représentent souvent une part significative des dépenses totales d’une flotte. Dans ce contexte, un système de surveillance du carburant constitue la solution idéale pour optimiser la comptabilité des dépenses.</p><p>Ce système de gestion du carburant s’appuie sur les données fournies par l’ordinateur de bord ou par des capteurs de niveau de carburant installés dans le réservoir du véhicule. Les données transmises au système de suivi permettent de détecter les vols de carburant ou les surconsommations, contribuant ainsi à réaliser des économies de 15 % ou plus sur les coûts de carburant et à améliorer l’efficacité de la flotte de 30 % ou plus. Selon les statistiques, la mise en œuvre du système de gestion de flotte Jaxicloud Fleet Management pour le contrôle du carburant est amortie en 3 à 4 mois.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bedrijven met een groot wagenpark krijgen onvermijdelijk te maken met problemen op het gebied van brandstofbeheer. En niet zonder reden: de brandstofkosten vormen vaak een aanzienlijk deel van de totale kosten van een wagenpark. In dit geval is een brandstofmonitoringsysteem de ultieme oplossing voor het optimaliseren van de onkostenrekening.Het brandstofbeheersysteem is gebaseerd op gegevens die beschikbaar zijn via de boordcomputer of aftermarket-brandstofniveausensoren, geïnstalleerd in de brandstoftank van een voertuig. Gegevens die naar het volgsysteem worden verzonden, maken de detectie van brandstofdiefstallen of overmatig brandstofverbruik mogelijk, waardoor manieren kunnen worden gevonden om 15% of meer op brandstofkosten te besparen en de efficiëntie van het wagenpark met 30% of meer te verhogen. Volgens de statistieken betaalt de implementatie van het Jaxicloud Fleet Management vlootbeheersysteem voor brandstofcontrole zichzelf binnen 3-4 maanden terug.",
+          "bodyHtml": "<p>Bedrijven met een groot wagenpark krijgen onvermijdelijk te maken met problemen op het gebied van brandstofbeheer. En niet zonder reden: de brandstofkosten vormen vaak een aanzienlijk deel van de totale kosten van een wagenpark. In dit geval is een brandstofmonitoringsysteem de ultieme oplossing voor het optimaliseren van de onkostenrekening.</p><p>Het brandstofbeheersysteem is gebaseerd op gegevens die beschikbaar zijn via de boordcomputer of aftermarket-brandstofniveausensoren, geïnstalleerd in de brandstoftank van een voertuig. Gegevens die naar het volgsysteem worden verzonden, maken de detectie van brandstofdiefstallen of overmatig brandstofverbruik mogelijk, waardoor manieren kunnen worden gevonden om 15% of meer op brandstofkosten te besparen en de efficiëntie van het wagenpark met 30% of meer te verhogen. Volgens de statistieken betaalt de implementatie van het Jaxicloud Fleet Management vlootbeheersysteem voor brandstofcontrole zichzelf binnen 3-4 maanden terug.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bedrifter som har store flåter står uunngåelig overfor problemer med drivstoffstyring. Og med god grunn: drivstoffkostnader utgjør ofte en betydelig del av en flåtes totale utgifter. I dette tilfellet er drivstoffovervåkingssystem den ultimate løsningen for å optimalisere utgiftskontoen.Drivstoffstyringssystem er basert på data tilgjengelig fra innebygd datamaskin eller ettermarkedets drivstoffnivåsensorer, installert i et kjøretøys drivstofftank. Data som overføres til sporingssystemet gjør det mulig å oppdage drivstofftyverier eller overdreven drivstoffforbrenning, og hjelper til med å finne måter å spare 15 % eller mer på drivstoffkostnadene og øke flåtens effektivitet med 30 % eller mer. I følge statistikk betaler Jaxicloud Fleet Management flåtestyringssystemimplementering for drivstoffkontroll seg selv innen 3-4 måneder.",
+          "bodyHtml": "<p>Bedrifter som har store flåter står uunngåelig overfor problemer med drivstoffstyring. Og med god grunn: drivstoffkostnader utgjør ofte en betydelig del av en flåtes totale utgifter. I dette tilfellet er drivstoffovervåkingssystem den ultimate løsningen for å optimalisere utgiftskontoen.</p><p>Drivstoffstyringssystem er basert på data tilgjengelig fra innebygd datamaskin eller ettermarkedets drivstoffnivåsensorer, installert i et kjøretøys drivstofftank. Data som overføres til sporingssystemet gjør det mulig å oppdage drivstofftyverier eller overdreven drivstoffforbrenning, og hjelper til med å finne måter å spare 15 % eller mer på drivstoffkostnadene og øke flåtens effektivitet med 30 % eller mer. I følge statistikk betaler Jaxicloud Fleet Management flåtestyringssystemimplementering for drivstoffkontroll seg selv innen 3-4 måneder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Företag med stora flottor stöter oundvikligen på problem med bränslehantering. Och det av goda skäl: bränslekostnaderna står ofta för en betydande del av en flottas totala kostnader. I det här fallet är ett bränsleövervakningssystem den ultimata lösningen för att optimera kostnadsredovisningen.Bränslehanteringssystemet baseras på data från inbyggda datorer eller eftermarknadsbränslenivåsensorer installerade i ett fordons bränsletank. Data som överförs till spårningssystemet gör det möjligt att upptäcka bränslestöld eller överdriven bränsleförbrukning, vilket hjälper till att hitta sätt att spara 15 % eller mer på bränslekostnaderna och öka flottans effektivitet med 30 % eller mer. Enligt statistik betalar sig implementeringen av Jaxicloud Fleet Managements flotthanteringssystem för bränslekontroll inom 3–4 månader.",
+          "bodyHtml": "<p>Företag med stora flottor stöter oundvikligen på problem med bränslehantering. Och det av goda skäl: bränslekostnaderna står ofta för en betydande del av en flottas totala kostnader. I det här fallet är ett bränsleövervakningssystem den ultimata lösningen för att optimera kostnadsredovisningen.</p><p>Bränslehanteringssystemet baseras på data från inbyggda datorer eller eftermarknadsbränslenivåsensorer installerade i ett fordons bränsletank. Data som överförs till spårningssystemet gör det möjligt att upptäcka bränslestöld eller överdriven bränsleförbrukning, vilket hjälper till att hitta sätt att spara 15 % eller mer på bränslekostnaderna och öka flottans effektivitet med 30 % eller mer. Enligt statistik betalar sig implementeringen av Jaxicloud Fleet Managements flotthanteringssystem för bränslekontroll inom 3–4 månader.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Büyük filolara sahip şirketler kaçınılmaz olarak yakıt yönetimi sorunlarıyla karşı karşıya kalıyor. Ve bunun iyi bir nedeni var: Yakıt maliyetleri çoğu zaman bir filonun toplam giderlerinin önemli bir bölümünü oluşturur. Bu durumda yakıt izleme sistemi gider hesabını optimize etmek için nihai çözümdür.Yakıt yönetim sistemi, araç bilgisayarından veya aracın yakıt deposuna takılan satış sonrası yakıt seviyesi sensörlerinden elde edilen verilere dayanmaktadır. Takip sistemine iletilen veriler, yakıt hırsızlıklarının veya aşırı yakıt yanmalarının tespit edilmesini sağlayarak, yakıt maliyetlerinde %15 veya daha fazla tasarruf sağlamanın ve filo verimliliğini %30 veya daha fazla artırmanın yollarını bulmaya yardımcı olur. İstatistiklere göre yakıt kontrolü için Jaxicloud Filo Yönetimi filo yönetim sistemi uygulaması 3-4 ay içerisinde kendini amorti ediyor.",
+          "bodyHtml": "<p>Büyük filolara sahip şirketler kaçınılmaz olarak yakıt yönetimi sorunlarıyla karşı karşıya kalıyor. Ve bunun iyi bir nedeni var: Yakıt maliyetleri çoğu zaman bir filonun toplam giderlerinin önemli bir bölümünü oluşturur. Bu durumda yakıt izleme sistemi gider hesabını optimize etmek için nihai çözümdür.</p><p>Yakıt yönetim sistemi, araç bilgisayarından veya aracın yakıt deposuna takılan satış sonrası yakıt seviyesi sensörlerinden elde edilen verilere dayanmaktadır. Takip sistemine iletilen veriler, yakıt hırsızlıklarının veya aşırı yakıt yanmalarının tespit edilmesini sağlayarak, yakıt maliyetlerinde %15 veya daha fazla tasarruf sağlamanın ve filo verimliliğini %30 veya daha fazla artırmanın yollarını bulmaya yardımcı olur. İstatistiklere göre yakıt kontrolü için Jaxicloud Filo Yönetimi filo yönetim sistemi uygulaması 3-4 ay içerisinde kendini amorti ediyor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "statCounter",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "30%",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "statCounter",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "15%",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "statCounter",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "counter.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": "30%",
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud Fleet Management brændstofforbrugsovervågning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud Fleet Management fuel consumption monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Flottenmanagement Kraftstoffverbrauchsüberwachung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance de la consommation de carburant de Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud Fleet Management monitoring van het brandstofverbruik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud Fleet Management overvåking av drivstofforbruk",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud Fleet Management bränsleförbrukningsövervakning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud Filo Yönetimi yakıt tüketimi izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ved hjælp af intelligente værktøjer giver Jaxicloud Fleet Management-systemet til brændstofstyring føreren mulighed for at se historikken over variationer i brændstofniveauet i køretøjets tank over en bestemt tidsperiode, vist som en graf.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ved hjælp af intelligente værktøjer giver Jaxicloud Fleet Management-systemet til brændstofstyring føreren mulighed for at se historikken over variationer i brændstofniveauet i køretøjets tank over en bestemt tidsperiode, vist som en graf.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Using intelligent tools, the Jaxicloud Fleet Management system for fuel management allows the operator to look through the history of fuel level variations in the vehicle’s tank over a specific period of time, displayed as a graph.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Using intelligent tools, the Jaxicloud Fleet Management system for fuel management allows the operator to look through the history of fuel level variations in the vehicle’s tank over a specific period of time, displayed as a graph.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Mithilfe intelligenter Tools ermöglicht das Jaxicloud Flottenmanagementsystem für das Kraftstoffmanagement dem Bediener, die Historie der Kraftstoffstandschwankungen im Fahrzeugtank über einen bestimmten Zeitraum hinweg in Form eines Diagramms anzuzeigen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Mithilfe intelligenter Tools ermöglicht das Jaxicloud Flottenmanagementsystem für das Kraftstoffmanagement dem Bediener, die Historie der Kraftstoffstandschwankungen im Fahrzeugtank über einen bestimmten Zeitraum hinweg in Form eines Diagramms anzuzeigen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Grâce à des outils intelligents, le système de gestion de flotte Jaxicloud pour la gestion du carburant permet à l’opérateur de consulter l’historique des variations du niveau de carburant dans le réservoir du véhicule sur une période de temps spécifique, affiché sous forme de graphique.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Grâce à des outils intelligents, le système de gestion de flotte Jaxicloud pour la gestion du carburant permet à l’opérateur de consulter l’historique des variations du niveau de carburant dans le réservoir du véhicule sur une période de temps spécifique, affiché sous forme de graphique.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Met behulp van intelligente tools kan de bestuurder met het Jaxicloud Fleet Management-systeem voor brandstofbeheer de geschiedenis van variaties in het brandstofniveau in de tank van het voertuig gedurende een specifieke periode bekijken, weergegeven als een grafiek.",
+          "bodyHtml": "<p>Met behulp van intelligente tools kan de bestuurder met het Jaxicloud Fleet Management-systeem voor brandstofbeheer de geschiedenis van variaties in het brandstofniveau in de tank van het voertuig gedurende een specifieke periode bekijken, weergegeven als een grafiek.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Ved hjelp av intelligente verktøy lar Jaxicloud Fleet Management-systemet for drivstoffstyring operatøren se gjennom historien om drivstoffnivåvariasjoner i kjøretøyets tank over en bestemt tidsperiode, vist som en graf",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ved hjelp av intelligente verktøy lar Jaxicloud Fleet Management-systemet for drivstoffstyring operatøren se gjennom historien om drivstoffnivåvariasjoner i kjøretøyets tank over en bestemt tidsperiode, vist som en graf</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Med hjälp av intelligenta verktyg låter Jaxicloud Fleet Managements bränslehanteringssystem föraren se historiken över bränslenivåvariationer i fordonets tank under en viss period, visas som ett diagram.",
+          "bodyHtml": "<p>Med hjälp av intelligenta verktyg låter Jaxicloud Fleet Managements bränslehanteringssystem föraren se historiken över bränslenivåvariationer i fordonets tank under en viss period, visas som ett diagram.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Akıllı araçlar kullanan yakıt yönetimi için Jaxicloud Filo Yönetim sistemi, operatörün belirli bir zaman periyodu boyunca aracın deposundaki yakıt seviyesi değişimlerinin geçmişini grafik olarak görüntülemesine olanak tanır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Akıllı araçlar kullanan yakıt yönetimi için Jaxicloud Filo Yönetim sistemi, operatörün belirli bir zaman periyodu boyunca aracın deposundaki yakıt seviyesi değişimlerinin geçmişini grafik olarak görüntülemesine olanak tanır.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "image",
+      "order": 8,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e3bd36c7006e457c918350d91c8e8385mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e3bd36c7006e457c918350d91c8e8385mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 564,
+          "height": 339
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "richText",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ved at klikke på et hvilket som helst punkt på grafen kan du se den nøjagtige brændstofniveauværdi og køretøjets aktuelle placering. Analysen er baseret på data fra eftermarkedsbrændstofniveausensorer (FLS) eller køretøjets indbyggede computer (CAN).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ved at klikke på et hvilket som helst punkt på grafen kan du se den nøjagtige brændstofniveauværdi og køretøjets aktuelle placering. Analysen er baseret på data fra eftermarkedsbrændstofniveausensorer (FLS) eller køretøjets indbyggede computer (CAN).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Clicking on any point on the graph allows you to see the exact fuel level value and the vehicle’s current location. The analysis is based on data from aftermarket fuel level sensors (FLS) or the vehicle’s on-board computer (CAN).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Clicking on any point on the graph allows you to see the exact fuel level value and the vehicle’s current location. The analysis is based on data from aftermarket fuel level sensors (FLS) or the vehicle’s on-board computer (CAN).</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Durch Klicken auf einen beliebigen Punkt im Diagramm werden der genaue Kraftstoffstand und der aktuelle Standort des Fahrzeugs angezeigt. Die Analyse basiert auf Daten von nachträglich eingebauten Kraftstoffstandsensoren (FLS) oder dem Bordcomputer (CAN) des Fahrzeugs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Durch Klicken auf einen beliebigen Punkt im Diagramm werden der genaue Kraftstoffstand und der aktuelle Standort des Fahrzeugs angezeigt. Die Analyse basiert auf Daten von nachträglich eingebauten Kraftstoffstandsensoren (FLS) oder dem Bordcomputer (CAN) des Fahrzeugs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "En cliquant sur n’importe quel point du graphique, vous pouvez consulter la valeur exacte du niveau de carburant et la position actuelle du véhicule. L’analyse repose sur les données provenant de capteurs de niveau de carburant (FLS) installés après l’achat du véhicule ou de l’ordinateur de bord (CAN).",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">En cliquant sur n’importe quel point du graphique, vous pouvez consulter la valeur exacte du niveau de carburant et la position actuelle du véhicule. L’analyse repose sur les données provenant de capteurs de niveau de carburant (FLS) installés après l’achat du véhicule ou de l’ordinateur de bord (CAN).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Door op een willekeurig punt in de grafiek te klikken, kunt u de exacte waarde van het brandstofniveau en de huidige locatie van het voertuig zien. De analyse is gebaseerd op gegevens van aftermarket-brandstofniveausensoren (FLS) of boordcomputer (CAN) in het voertuig.",
+          "bodyHtml": "<p>Door op een willekeurig punt in de grafiek te klikken, kunt u de exacte waarde van het brandstofniveau en de huidige locatie van het voertuig zien. De analyse is gebaseerd op gegevens van aftermarket-brandstofniveausensoren (FLS) of boordcomputer (CAN) in het voertuig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Et klikk på et hvilket som helst punkt i grafen lar deg se nøyaktig drivstoffnivåverdi og kjøretøyets nåværende plassering. Analysen er basert på data fra ettermarkedets drivstoffnivåsensorer (FLS) eller innebygd datamaskin (CAN) i kjøretøyet.",
+          "bodyHtml": "<p>Et klikk på et hvilket som helst punkt i grafen lar deg se nøyaktig drivstoffnivåverdi og kjøretøyets nåværende plassering. Analysen er basert på data fra ettermarkedets drivstoffnivåsensorer (FLS) eller innebygd datamaskin (CAN) i kjøretøyet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Genom att klicka på valfri punkt i grafen kan du se den exakta bränslenivån och fordonets aktuella position. Analysen baseras på data från eftermarknadsbränslenivåsensorer (FLS) eller fordonets inbyggda dator (CAN).",
+          "bodyHtml": "<p>Genom att klicka på valfri punkt i grafen kan du se den exakta bränslenivån och fordonets aktuella position. Analysen baseras på data från eftermarknadsbränslenivåsensorer (FLS) eller fordonets inbyggda dator (CAN).</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Grafikteki herhangi bir noktaya tıkladığınızda tam yakıt seviyesi değerini ve aracın mevcut konumunu görebilirsiniz. Analiz, satış sonrası yakıt seviyesi sensörlerinden (FLS) veya araçtaki yerleşik bilgisayardan (CAN) alınan verilere dayanmaktadır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Grafikteki herhangi bir noktaya tıkladığınızda tam yakıt seviyesi değerini ve aracın mevcut konumunu görebilirsiniz. Analiz, satış sonrası yakıt seviyesi sensörlerinden (FLS) veya araçtaki yerleşik bilgisayardan (CAN) alınan verilere dayanmaktadır.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "image",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/fuel-value-en-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/fuel-value-en-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 575,
+          "height": 346
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "richText",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management brændstofsporingssystem giver mulighed for at generere rapporter over alle brændstofpåfyldninger og mulige brændstoftyverier med præcis dato, tidspunkt, placering og kortmarkører, indledende og endelige brændstofniveauer og oplysninger om påfyldning/tyveri. Ved at bruge disse intelligente flådedata kan ejere normalt reducere brændstoftyverier i deres flåder med 90 %.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Fleet Management brændstofsporingssystem giver mulighed for at generere rapporter over alle brændstofpåfyldninger og mulige brændstoftyverier med præcis dato, tidspunkt, placering og kortmarkører, indledende og endelige brændstofniveauer og oplysninger om påfyldning/tyveri. Ved at bruge disse intelligente flådedata kan ejere normalt reducere brændstoftyverier i deres flåder med 90 %.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management fuel tracking system allows generating reports of all fuel fills and possible fuel thefts with precise date, time, location and map markers, initial and final fuel levels and fill/theft information. By using this intelligent fleet data, owners are usually able to reduce fuel thefts in their fleets by 90%.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management fuel tracking system allows generating reports of all fuel fills and possible fuel thefts with precise date, time, location and map markers, initial and final fuel levels and fill/theft information. By using this intelligent fleet data, owners are usually able to reduce fuel thefts in their fleets by 90%.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Das Jaxicloud Flottenmanagement-System zur Kraftstoffverfolgung erstellt Berichte über alle Tankvorgänge und mögliche Kraftstoffdiebstähle mit präzisen Angaben zu Datum, Uhrzeit, Standort und Kartenmarkierungen, Anfangs- und Endfüllstand sowie Informationen zu Tankvorgängen und Diebstählen. Mithilfe dieser intelligenten Flottendaten können Fahrzeughalter Kraftstoffdiebstähle in ihren Flotten in der Regel um 90 % reduzieren.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Das Jaxicloud Flottenmanagement-System zur Kraftstoffverfolgung erstellt Berichte über alle Tankvorgänge und mögliche Kraftstoffdiebstähle mit präzisen Angaben zu Datum, Uhrzeit, Standort und Kartenmarkierungen, Anfangs- und Endfüllstand sowie Informationen zu Tankvorgängen und Diebstählen. Mithilfe dieser intelligenten Flottendaten können Fahrzeughalter Kraftstoffdiebstähle in ihren Flotten in der Regel um 90 % reduzieren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le système de suivi de carburant Jaxicloud Fleet Management génère des rapports détaillés sur tous les ravitaillements et les vols de carburant, avec la date, l’heure, le lieu et un marquage cartographique précis, les niveaux de carburant initiaux et finaux, ainsi que les informations relatives aux ravitaillements et aux vols. Grâce à ces données intelligentes, les gestionnaires de flottes parviennent généralement à réduire les vols de carburant de 90 %.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le système de suivi de carburant Jaxicloud Fleet Management génère des rapports détaillés sur tous les ravitaillements et les vols de carburant, avec la date, l’heure, le lieu et un marquage cartographique précis, les niveaux de carburant initiaux et finaux, ainsi que les informations relatives aux ravitaillements et aux vols. Grâce à ces données intelligentes, les gestionnaires de flottes parviennent généralement à réduire les vols de carburant de 90 %.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het Jaxicloud Fleet Management-brandstofvolgsysteem biedt de mogelijkheid om rapporten te genereren over alle tankbeurten en mogelijke brandstofdiefstallen met nauwkeurige datum, tijd, locatie en kaartmarkeringen, begin- en eindbrandstofniveaus en informatie over tankbeurten/diefstallen. Met behulp van deze intelligente gegevens kunnen wagenparkeigenaren doorgaans de brandstofdiefstal in hun wagenpark met 90% terugdringen.",
+          "bodyHtml": "<p>Het Jaxicloud Fleet Management-brandstofvolgsysteem biedt de mogelijkheid om rapporten te genereren over alle tankbeurten en mogelijke brandstofdiefstallen met nauwkeurige datum, tijd, locatie en kaartmarkeringen, begin- en eindbrandstofniveaus en informatie over tankbeurten/diefstallen. Met behulp van deze intelligente gegevens kunnen wagenparkeigenaren doorgaans de brandstofdiefstal in hun wagenpark met 90% terugdringen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management drivstoffsporingssystem gir muligheten til å generere rapporter om alle drivstofffyllinger og mulige drivstofftyverier med nøyaktig dato, klokkeslett, plassering og kartmarkører, innledende og endelige drivstoffnivåer og informasjon om fyllinger/tyverier. Ved å bruke denne intelligente dataflåten kan eiere vanligvis redusere drivstofftyveri i flåtene sine med 90 %.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management drivstoffsporingssystem gir muligheten til å generere rapporter om alle drivstofffyllinger og mulige drivstofftyverier med nøyaktig dato, klokkeslett, plassering og kartmarkører, innledende og endelige drivstoffnivåer og informasjon om fyllinger/tyverier. Ved å bruke denne intelligente dataflåten kan eiere vanligvis redusere drivstofftyveri i flåtene sine med 90 %.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Jaxicloud Fleet Management bränslespårningssystem möjliggör generering av rapporter över alla bränslepåfyllningar och möjliga bränslestölder med exakt datum, tid, plats och kartmarkörer, initiala och slutliga bränslenivåer samt information om påfyllning/stöld. Genom att använda denna intelligenta flottdata kan ägare vanligtvis minska bränslestölder i sina flottor med 90 %.",
+          "bodyHtml": "<p>Jaxicloud Fleet Management bränslespårningssystem möjliggör generering av rapporter över alla bränslepåfyllningar och möjliga bränslestölder med exakt datum, tid, plats och kartmarkörer, initiala och slutliga bränslenivåer samt information om påfyllning/stöld. Genom att använda denna intelligenta flottdata kan ägare vanligtvis minska bränslestölder i sina flottor med 90 %.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud Filo Yönetimi yakıt takip sistemi, tüm yakıt dolumları ve olası yakıt hırsızlıkları hakkında kesin tarih, saat, konum ve harita işaretleyicileri, ilk ve son yakıt seviyeleri ve dolum/hırsızlık bilgileri ile raporlar oluşturma yeteneği sağlar. Bu akıllı veriyi kullanarak filo sahipleri genellikle filolarındaki yakıt hırsızlığını %90 oranında azaltabilirler.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Filo Yönetimi yakıt takip sistemi, tüm yakıt dolumları ve olası yakıt hırsızlıkları hakkında kesin tarih, saat, konum ve harita işaretleyicileri, ilk ve son yakıt seviyeleri ve dolum/hırsızlık bilgileri ile raporlar oluşturma yeteneği sağlar. Bu akıllı veriyi kullanarak filo sahipleri genellikle filolarındaki yakıt hırsızlığını %90 oranında azaltabilirler.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9c2c34909df7454fb522521597899cacmv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9c2c34909df7454fb522521597899cacmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_bec4a548f9c64f608043799022a33ff3mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_bec4a548f9c64f608043799022a33ff3mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "richText",
+      "order": 14,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ved hjælp af særlige rapporter i Jaxicloud Fleet Management-systemet kan en disponent analysere køretøjets faktiske brændstofforbrug i en given periode, sammenligne værdien med standarden og øjeblikkeligt vurdere besparelser og brændstofforbrug for hvert enkelt køretøj og for hele flåden.",
+          "bodyHtml": "<p>Ved hjælp af særlige rapporter i Jaxicloud Fleet Management-systemet kan en disponent analysere køretøjets faktiske brændstofforbrug i en given periode, sammenligne værdien med standarden og øjeblikkeligt vurdere besparelser og brændstofforbrug for hvert enkelt køretøj og for hele flåden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Using special reports in the Jaxicloud Fleet Management system, a dispatcher can analyze the vehicle’s actual fuel consumption for a given period, compare the value with the standard, and instantly assess savings and fuel consumption for each individual vehicle and for the entire fleet.",
+          "bodyHtml": "<p>Using special reports in the Jaxicloud Fleet Management system, a dispatcher can analyze the vehicle’s actual fuel consumption for a given period, compare the value with the standard, and instantly assess savings and fuel consumption for each individual vehicle and for the entire fleet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Mithilfe spezieller Berichte im Jaxicloud Flottenmanagementsystem kann ein Disponent den tatsächlichen Kraftstoffverbrauch des Fahrzeugs für einen bestimmten Zeitraum analysieren, den Wert mit dem Standard vergleichen und sofort Einsparungen und Kraftstoffverbrauch für jedes einzelne Fahrzeug und für die gesamte Flotte ermitteln.",
+          "bodyHtml": "<p>Mithilfe spezieller Berichte im Jaxicloud Flottenmanagementsystem kann ein Disponent den tatsächlichen Kraftstoffverbrauch des Fahrzeugs für einen bestimmten Zeitraum analysieren, den Wert mit dem Standard vergleichen und sofort Einsparungen und Kraftstoffverbrauch für jedes einzelne Fahrzeug und für die gesamte Flotte ermitteln.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Grâce aux rapports spéciaux du système Jaxicloud Fleet Management, un répartiteur peut analyser la consommation réelle de carburant du véhicule sur une période donnée, comparer cette valeur à la norme et évaluer instantanément les économies et la consommation de carburant pour chaque véhicule et pour l’ensemble de la flotte.",
+          "bodyHtml": "<p>Grâce aux rapports spéciaux du système Jaxicloud Fleet Management, un répartiteur peut analyser la consommation réelle de carburant du véhicule sur une période donnée, comparer cette valeur à la norme et évaluer instantanément les économies et la consommation de carburant pour chaque véhicule et pour l’ensemble de la flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Met behulp van speciale rapporten in het Jaxicloud Fleet Management-systeem kan een coördinator het werkelijke brandstofverbruik van het voertuig in een bepaalde periode analyseren, de waarde vergelijken met de norm en direct de besparingen en het brandstofverbruik beoordelen voor elk afzonderlijk voertuig en voor het gehele wagenpark.",
+          "bodyHtml": "<p>Met behulp van speciale rapporten in het Jaxicloud Fleet Management-systeem kan een coördinator het werkelijke brandstofverbruik van het voertuig in een bepaalde periode analyseren, de waarde vergelijken met de norm en direct de besparingen en het brandstofverbruik beoordelen voor elk afzonderlijk voertuig en voor het gehele wagenpark.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Ved hjelp av spesialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysere kjøretøyets faktiske drivstofforbruk i en gitt periode, sammenligne verdien med standarden, umiddelbart vurdere besparelser og drivstofforbruk for hvert enkelt kjøretøy og for hele flåten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ved hjelp av spesialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysere kjøretøyets faktiske drivstofforbruk i en gitt periode, sammenligne verdien med standarden, umiddelbart vurdere besparelser og drivstofforbruk for hvert enkelt kjøretøy og for hele flåten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Med hjälp av specialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysera fordonets faktiska bränsleförbrukning under en given period, jämföra värdet med standarden, omedelbart bedöma besparingar och bränsleförbrukning för varje enskilt fordon och för hela flottan.",
+          "bodyHtml": "<p>Med hjälp av specialrapporter i Jaxicloud Fleet Management-systemet kan en dispatcher analysera fordonets faktiska bränsleförbrukning under en given period, jämföra värdet med standarden, omedelbart bedöma besparingar och bränsleförbrukning för varje enskilt fordon och för hela flottan.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sevkiyat görevlisi, Jaxicloud Filo Yönetim sistemindeki özel raporları kullanarak aracın belirli bir dönemdeki gerçek yakıt tüketimini analiz edebilir, değeri standartla karşılaştırabilir, her bir araç ve tüm filo için tasarrufları ve yakıt tüketimini anında değerlendirebilir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sevkiyat görevlisi, Jaxicloud Filo Yönetim sistemindeki özel raporları kullanarak aracın belirli bir dönemdeki gerçek yakıt tüketimini analiz edebilir, değeri standartla karşılaştırabilir, her bir araç ve tüm filo için tasarrufları ve yakıt tüketimini anında değerlendirebilir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "richText",
+      "order": 15,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Når brændstofstyringssystemet er tilpasset dine behov, kan du modtage notifikationer om brændstofpåfyldninger og tyverier via e-mail, SMS og push-notifikationer på din smartphone ved hjælp af Jaxicloud Fleet Management-mobilappen, der er tilgængelig til Android og iOS, og se oplysninger om det aktuelle brændstofniveau på køretøjet. De, der foretrækker sporing i realtid, kan bruge Dashboard-appen til at spore relevante KPI’er i realtid.",
+          "bodyHtml": "<p>Når brændstofstyringssystemet er tilpasset dine behov, kan du modtage notifikationer om brændstofpåfyldninger og tyverier via e-mail, SMS og push-notifikationer på din smartphone ved hjælp af Jaxicloud Fleet Management-mobilappen, der er tilgængelig til Android og iOS, og se oplysninger om det aktuelle brændstofniveau på køretøjet. De, der foretrækker sporing i realtid, kan bruge Dashboard-appen til at spore relevante KPI’er i realtid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "After the fuel management system is customized to your needs, you can receive notifications about fuel refills and thefts via email, SMS and push notifications on your smartphone using the Jaxicloud Fleet Management native mobile app available for Android and iOS, and view information about the current fuel level on the vehicle. Those who prefer real-time tracking can use the Dashboard app to track relevant KPIs in real-time mode.",
+          "bodyHtml": "<p>After the fuel management system is customized to your needs, you can receive notifications about fuel refills and thefts via email, SMS and push notifications on your smartphone using the Jaxicloud Fleet Management native mobile app available for Android and iOS, and view information about the current fuel level on the vehicle. Those who prefer real-time tracking can use the Dashboard app to track relevant KPIs in real-time mode.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Nachdem das Kraftstoffmanagementsystem an Ihre Bedürfnisse angepasst wurde, erhalten Sie Benachrichtigungen über Tankvorgänge und Diebstähle per E-Mail, SMS und Push-Benachrichtigung auf Ihr Smartphone über die native Jaxicloud Fleet Management App für Android und iOS. Außerdem können Sie den aktuellen Kraftstoffstand Ihres Fahrzeugs einsehen. Für Echtzeit-Tracking steht Ihnen die Dashboard-App zur Verfügung, mit der Sie relevante KPIs in Echtzeit verfolgen können.",
+          "bodyHtml": "<p>Nachdem das Kraftstoffmanagementsystem an Ihre Bedürfnisse angepasst wurde, erhalten Sie Benachrichtigungen über Tankvorgänge und Diebstähle per E-Mail, SMS und Push-Benachrichtigung auf Ihr Smartphone über die native Jaxicloud Fleet Management App für Android und iOS. Außerdem können Sie den aktuellen Kraftstoffstand Ihres Fahrzeugs einsehen. Für Echtzeit-Tracking steht Ihnen die Dashboard-App zur Verfügung, mit der Sie relevante KPIs in Echtzeit verfolgen können.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Une fois le système de gestion du carburant personnalisé selon vos besoins, vous recevrez des notifications concernant les ravitaillements et les vols de carburant par e-mail, SMS et notifications push sur votre smartphone grâce à l’application mobile native Jaxicloud Fleet Management, disponible pour Android et iOS. Vous pourrez également consulter le niveau de carburant actuel du véhicule. Pour un suivi en temps réel, l’application Tableau de bord permet de suivre les indicateurs clés de performance (KPI) pertinents en temps réel.",
+          "bodyHtml": "<p>Une fois le système de gestion du carburant personnalisé selon vos besoins, vous recevrez des notifications concernant les ravitaillements et les vols de carburant par e-mail, SMS et notifications push sur votre smartphone grâce à l’application mobile native Jaxicloud Fleet Management, disponible pour Android et iOS. Vous pourrez également consulter le niveau de carburant actuel du véhicule. Pour un suivi en temps réel, l’application Tableau de bord permet de suivre les indicateurs clés de performance (KPI) pertinents en temps réel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Nadat het brandstofbeheersysteem is aangepast aan uw behoeften, kunt u via e-mail, sms en pushberichten op uw smartphone meldingen ontvangen over tankbeurten en diefstallen met behulp van de Jaxicloud Fleet Management native mobiele app die beschikbaar is voor Android en iOS, en informatie bekijken over de huidige brandstofpeil van het voertuig. Degenen die liever realtime volgen, kunnen de Dashboard-app gebruiken om relevante KPI’s in realtime te volgen.",
+          "bodyHtml": "<p>Nadat het brandstofbeheersysteem is aangepast aan uw behoeften, kunt u via e-mail, sms en pushberichten op uw smartphone meldingen ontvangen over tankbeurten en diefstallen met behulp van de Jaxicloud Fleet Management native mobiele app die beschikbaar is voor Android en iOS, en informatie bekijken over de huidige brandstofpeil van het voertuig. Degenen die liever realtime volgen, kunnen de Dashboard-app gebruiken om relevante KPI’s in realtime te volgen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Etter at drivstoffstyringssystemet er tilpasset dine behov, kan du motta varsler om drivstoffpåfyll og tyverier via e-post, SMS og push-meldinger på smarttelefonen din ved å bruke Jaxicloud Fleet Management native mobilapp tilgjengelig for Android og iOS, og se informasjon om gjeldende drivstoffnivået på kjøretøyet. De som foretrekker sanntidssporing kan bruke Dashboard-appen til å spore relevante KPIer i sanntidsmodus.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Etter at drivstoffstyringssystemet er tilpasset dine behov, kan du motta varsler om drivstoffpåfyll og tyverier via e-post, SMS og push-meldinger på smarttelefonen din ved å bruke Jaxicloud Fleet Management native mobilapp tilgjengelig for Android og iOS, og se informasjon om gjeldende drivstoffnivået på kjøretøyet. De som foretrekker sanntidssporing kan bruke Dashboard-appen til å spore relevante KPIer i sanntidsmodus.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Efter att bränslehanteringssystemet anpassats efter dina behov kan du få aviseringar om bränslepåfyllning och stölder via e-post, SMS och push-meddelanden på din smartphone med hjälp av Jaxicloud Fleet Managements inbyggda mobilapp tillgänglig för Android och iOS, samt se information om den aktuella bränslenivån på fordonet. De som föredrar spårning i realtid kan använda Dashboard-appen för att spåra relevanta nyckeltal i realtidsläge.",
+          "bodyHtml": "<p>Efter att bränslehanteringssystemet anpassats efter dina behov kan du få aviseringar om bränslepåfyllning och stölder via e-post, SMS och push-meddelanden på din smartphone med hjälp av Jaxicloud Fleet Managements inbyggda mobilapp tillgänglig för Android och iOS, samt se information om den aktuella bränslenivån på fordonet. De som föredrar spårning i realtid kan använda Dashboard-appen för att spåra relevanta nyckeltal i realtidsläge.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yakıt yönetim sistemi ihtiyaçlarınıza göre uyarlandıktan sonra, Android ve iOS için mevcut Jaxicloud Filo Yönetimi yerel mobil uygulamasını kullanarak akıllı telefonunuzdaki e-posta, SMS ve anlık mesajlar yoluyla yakıt doldurma ve hırsızlıklarla ilgili bildirimler alabilir ve güncel yakıt ikmali hakkında bilgileri görebilirsiniz. Araçtaki yakıt seviyesi. Gerçek zamanlı izlemeyi tercih edenler, ilgili KPI’ları gerçek zamanlı modda izlemek için Dashboard uygulamasını kullanabilir.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Yakıt yönetim sistemi ihtiyaçlarınıza göre uyarlandıktan sonra, Android ve iOS için mevcut Jaxicloud Filo Yönetimi yerel mobil uygulamasını kullanarak akıllı telefonunuzdaki e-posta, SMS ve anlık mesajlar yoluyla yakıt doldurma ve hırsızlıklarla ilgili bildirimler alabilir ve güncel yakıt ikmali hakkında bilgileri görebilirsiniz. Araçtaki yakıt seviyesi. Gerçek zamanlı izlemeyi tercih edenler, ilgili KPI’ları gerçek zamanlı modda izlemek için Dashboard uygulamasını kullanabilir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "richText",
+      "order": 16,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Virksomheder bruger Jaxicloud Fleet Management brændstofstyringssystem og løsninger baseret på dets funktionalitet til at eliminere brændstoftyveri, øge sikkerheden og bedre spore deres aktiver.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Virksomheder bruger Jaxicloud Fleet Management brændstofstyringssystem og løsninger baseret på dets funktionalitet til at eliminere brændstoftyveri, øge sikkerheden og bedre spore deres aktiver.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Companies use the Jaxicloud Fleet Management fuel management system and solutions based on its functionality to eliminate fuel theft, increase security, and better track their assets.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Companies use the Jaxicloud Fleet Management fuel management system and solutions based on its functionality to eliminate fuel theft, increase security, and better track their assets.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Unternehmen nutzen das Jaxicloud Fleet Management Kraftstoffmanagementsystem und die darauf basierenden Lösungen, um Kraftstoffdiebstahl zu verhindern, die Sicherheit zu erhöhen und ihre Vermögenswerte besser zu verfolgen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Unternehmen nutzen das Jaxicloud Fleet Management Kraftstoffmanagementsystem und die darauf basierenden Lösungen, um Kraftstoffdiebstahl zu verhindern, die Sicherheit zu erhöhen und ihre Vermögenswerte besser zu verfolgen.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les entreprises utilisent le système de gestion de carburant Jaxicloud Fleet Management et les solutions associées pour éliminer le vol de carburant, renforcer la sécurité et mieux suivre leurs actifs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les entreprises utilisent le système de gestion de carburant Jaxicloud Fleet Management et les solutions associées pour éliminer le vol de carburant, renforcer la sécurité et mieux suivre leurs actifs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bedrijven gebruiken het brandstofbeheersysteem en de oplossingen van Jaxicloud Fleet Management op basis van de functionaliteit ervan om brandstofdiefstal te elimineren, de veiligheid te verhogen en hun activa beter te volgen.",
+          "bodyHtml": "<p>Bedrijven gebruiken het brandstofbeheersysteem en de oplossingen van Jaxicloud Fleet Management op basis van de functionaliteit ervan om brandstofdiefstal te elimineren, de veiligheid te verhogen en hun activa beter te volgen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Bedrifter bruker Jaxicloud Fleet Management drivstoffstyringssystem og løsninger basert på funksjonaliteten for å eliminere drivstofftyveri, øke sikkerheten og bedre spore eiendelene deres.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bedrifter bruker Jaxicloud Fleet Management drivstoffstyringssystem og løsninger basert på funksjonaliteten for å eliminere drivstofftyveri, øke sikkerheten og bedre spore eiendelene deres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Företag använder bränslehanteringssystemet Jaxicloud Fleet Management och lösningar baserade på dess funktionalitet för att eliminera bränslestölder, öka säkerheten och bättre spåra sina tillgångar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Företag använder bränslehanteringssystemet Jaxicloud Fleet Management och lösningar baserade på dess funktionalitet för att eliminera bränslestölder, öka säkerheten och bättre spåra sina tillgångar.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Şirketler, yakıt hırsızlığını ortadan kaldırmak, güvenliği artırmak ve varlıklarını daha iyi takip etmek için Jaxicloud Filo Yönetimi yakıt yönetim sistemini ve bu sistemin işlevselliğine dayalı çözümlerini kullanıyor.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Şirketler, yakıt hırsızlığını ortadan kaldırmak, güvenliği artırmak ve varlıklarını daha iyi takip etmek için Jaxicloud Filo Yönetimi yakıt yönetim sistemini ve bu sistemin işlevselliğine dayalı çözümlerini kullanıyor.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "image",
+      "order": 17,
+      "sectionIndex": 7,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3c5169c251f641818c1cc195107e21f6mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3c5169c251f641818c1cc195107e21f6mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 548,
+          "height": 331
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

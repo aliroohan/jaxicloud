@@ -1,0 +1,2123 @@
+{
+  "slug": "eco-drive",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Eco drive DA",
+    "en": "Eco drive",
+    "de": "Eco drive – DE",
+    "fr": "Eco drive – FR",
+    "nl": "Eco drive – HL",
+    "nb": "Eco drive – NO",
+    "sv": "Eco drive – SV",
+    "tr": "Eco drive – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Eco drive - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Eco drive - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Ökologisches Fahren - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Éco-conduite - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Eco-rijden - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Eco driveEco drive - NO - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Eco drive - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Eko Sürüş - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/eco-drive-da/",
+    "en": "https://www.jaxicloud.com/en/eco-drive/",
+    "de": "https://www.jaxicloud.com/de/eco-drive-de/",
+    "fr": "https://www.jaxicloud.com/fr/eco-drive-fr/",
+    "nl": "https://www.jaxicloud.com/nl/eco-drive-hl/",
+    "nb": "https://www.jaxicloud.com/nb/eco-drive-no/",
+    "sv": "https://www.jaxicloud.com/sv/eco-drive-sv/",
+    "tr": "https://www.jaxicloud.com/tr/eco-drive-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Eco drive",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Eco drive",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Ökologisches Fahren",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Éco-conduite",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Eco-rijden",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Eco drive",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Eco drive",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Eko Sürüş",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Eco Driving: en løsning Til overvågning af køreadfærd",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Eco Driving: a solution for monitoring driving behaviour",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Eco Driving: eine Lösung zur Überwachung des Fahrverhaltens",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Conduite écologique : une solution pour surveiller le comportement au volant",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Eco Driving: een oplossing voor het monitoren van rijgedrag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Økokjøring: en løsning for å overvåke kjøreatferd",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Eco Driving: en lösning för att övervaka körbeteende",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Eco Driving: sürüş davranışını izlemeye yönelik bir çözüm",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Eco Driving er en Jaxicloud Fleet Management -baseret app, der hjælper med at vurdere en chaufførs præstation. Løsningen evaluerer kørefærdigheder baseret på strafpoint for sådanne overtrædelser som hastighedsoverskridelser, unødvendig acceleration, kraftig opbremsning, acceleration i sving osv.Sensorer installeret i et køretøj registrerer overtrædelser. Kørselsadfærdsanalyse hjælper med at disciplinere og uddanne chauffører. Professionel og forsigtig kørsel bidrager til gengæld til at reducere brændstofomkostningerne, forlænger køretøjets levetid og forbedrer flådens sikkerhed for passagerer og gods.Eco Driving: en løsning Til overvågning af køreadfærdEco Driving er en Jaxicloud Fleet Management -baseret app, der hjælper med at vurdere en chaufførs præstation. Løsningen evaluerer kørefærdigheder baseret på strafpoint for sådanne overtrædelser som hastighedsoverskridelser, unødvendig acceleration, kraftig opbremsning, acceleration i sving osv.Sensorer installeret i et køretøj registrerer overtrædelser. Kørselsadfærdsanalyse hjælper med at disciplinere og uddanne chauffører. Professionel og forsigtig kørsel bidrager til gengæld til at reducere brændstofomkostningerne, forlænger køretøjets levetid og forbedrer flådens sikkerhed for passagerer og gods.Detaljeret beskrivelse af overtrædelser•Visualisering af spor og hændelsesmarkører på kortet•Vurdering af kørekvalitet i henhold til foruddefinerede eller brugerdefinerede kriterier•Rangering af chauffører efter antallet af tildelte strafpoint•Notifikationer om hastighedsovertrædelser og andre overtrædelser•Automatiske rapporter om chaufførers adfærdAktiv arbejde overfor hvert køretøjAnalyser statistikker over flåden for at vise dens overordnede tilstandArbejde med chauffører og disponenter for at dække alle nødvendige flådebehov",
+          "bodyHtml": "<p>Eco Driving er en Jaxicloud Fleet Management -baseret app, der hjælper med at vurdere en chaufførs præstation. Løsningen evaluerer kørefærdigheder baseret på strafpoint for sådanne overtrædelser som hastighedsoverskridelser, unødvendig acceleration, kraftig opbremsning, acceleration i sving osv.<br>Sensorer installeret i et køretøj registrerer overtrædelser. Kørselsadfærdsanalyse hjælper med at disciplinere og uddanne chauffører. Professionel og forsigtig kørsel bidrager til gengæld til at reducere brændstofomkostningerne, forlænger køretøjets levetid og forbedrer flådens sikkerhed for passagerer og gods.</p><p><br>Eco Driving: en løsning Til overvågning af køreadfærd<br>Eco Driving er en Jaxicloud Fleet Management -baseret app, der hjælper med at vurdere en chaufførs præstation. Løsningen evaluerer kørefærdigheder baseret på strafpoint for sådanne overtrædelser som hastighedsoverskridelser, unødvendig acceleration, kraftig opbremsning, acceleration i sving osv.<br>Sensorer installeret i et køretøj registrerer overtrædelser. Kørselsadfærdsanalyse hjælper med at disciplinere og uddanne chauffører. Professionel og forsigtig kørsel bidrager til gengæld til at reducere brændstofomkostningerne, forlænger køretøjets levetid og forbedrer flådens sikkerhed for passagerer og gods.</p><p><strong>Detaljeret beskrivelse af overtrædelser</strong></p><p>•Visualisering af spor og hændelsesmarkører på kortet</p><p>•Vurdering af kørekvalitet i henhold til foruddefinerede eller brugerdefinerede kriterier</p><p>•Rangering af chauffører efter antallet af tildelte strafpoint</p><p>•Notifikationer om hastighedsovertrædelser og andre overtrædelser</p><p>•Automatiske rapporter om chaufførers adfærd</p><p>Aktiv arbejde overfor hvert køretøj</p><p>Analyser statistikker over flåden for at vise dens overordnede tilstand</p><p>Arbejde med chauffører og disponenter for at dække alle nødvendige flådebehov</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Eco Driving is a Jaxicloud Fleet Management based app that helps assess a driver’s performance. The solution evaluates driving skills based on penalty points for such violations as speeding, unnecessary acceleration, heavy braking, cornering acceleration, etc.Sensors installed in a vehicle detect violations. Driving behavior analysis helps to discipline and train drivers. Professional and careful driving, in turn, helps reduce fuel costs, extend vehicle life and improve fleet safety for passengers and cargo.Detailed description of violationsActive work towards each vehicle",
+          "bodyHtml": "<p>Eco Driving is a Jaxicloud Fleet Management based app that helps assess a driver’s performance. The solution evaluates driving skills based on penalty points for such violations as speeding, unnecessary acceleration, heavy braking, cornering acceleration, etc.<br>Sensors installed in a vehicle detect violations. Driving behavior analysis helps to discipline and train drivers. Professional and careful driving, in turn, helps reduce fuel costs, extend vehicle life and improve fleet safety for passengers and cargo.</p><p><strong>Detailed description of violations</strong></p><p><strong>Active work towards each vehicle</strong></p>",
+          "listItems": [
+            "Visualization of tracks and event markers on the map",
+            "Evaluation of ride quality according to predefined or user-defined criteria",
+            "Ranking of drivers according to the number of penalty points awarded",
+            "Notifications about speeding and other violations",
+            "Automatic reports on driver behavior",
+            "Analyze statistics of the fleet to show its overall condition",
+            "Work with drivers and dispatchers to cover all necessary fleet needs"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Eco Driving ist eine auf Jaxicloud Fleet Management basierende App, mit deren Hilfe die Leistung eines Fahrers beurteilt werden kann. Die Lösung bewertet das Fahrkönnen anhand von Strafpunkten für Verstöße wie Geschwindigkeitsüberschreitung, unnötige Beschleunigung, starkes Bremsen, Kurvenbeschleunigung usw.In einem Fahrzeug eingebaute Sensoren erkennen Verstöße. Die Analyse des Fahrverhaltens hilft, Fahrer zu disziplinieren und zu schulen. Professionelles und sorgfältiges Fahren trägt wiederum dazu bei, die Kraftstoffkosten zu senken, die Lebensdauer des Fahrzeugs zu verlängern und die Flottensicherheit für Passagiere und Ladung zu verbessern.Detaillierte Beschreibung der VerstößeAktive Arbeit an jedem FahrzeugAnalysieren Sie Statistiken der Flotte, um deren Gesamtzustand anzuzeigenArbeiten Sie mit Fahrern und Disponenten zusammen, um alle notwendigen Flottenbedürfnisse abzudecken",
+          "bodyHtml": "<p>Eco Driving ist eine auf Jaxicloud Fleet Management basierende App, mit deren Hilfe die Leistung eines Fahrers beurteilt werden kann. Die Lösung bewertet das Fahrkönnen anhand von Strafpunkten für Verstöße wie Geschwindigkeitsüberschreitung, unnötige Beschleunigung, starkes Bremsen, Kurvenbeschleunigung usw.<br>In einem Fahrzeug eingebaute Sensoren erkennen Verstöße. Die Analyse des Fahrverhaltens hilft, Fahrer zu disziplinieren und zu schulen. Professionelles und sorgfältiges Fahren trägt wiederum dazu bei, die Kraftstoffkosten zu senken, die Lebensdauer des Fahrzeugs zu verlängern und die Flottensicherheit für Passagiere und Ladung zu verbessern.</p><p>Detaillierte Beschreibung der Verstöße</p><p><br>Aktive Arbeit an jedem Fahrzeug</p><p>Analysieren Sie Statistiken der Flotte, um deren Gesamtzustand anzuzeigen</p><p>Arbeiten Sie mit Fahrern und Disponenten zusammen, um alle notwendigen Flottenbedürfnisse abzudecken</p>",
+          "listItems": [
+            "Visualisierung von Strecken und Ereignismarkierungen auf der Karte",
+            "Bewertung der Fahrqualität nach vordefinierten oder benutzerdefinierten Kriterien",
+            "Rangliste der Fahrer nach der Anzahl der vergebenen Strafpunkte",
+            "Benachrichtigungen über Geschwindigkeitsüberschreitungen und andere Verstöße",
+            "Automatische Berichte zum Fahrerverhalten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Eco Driving est une application de gestion de flotte basée sur Jaxicloud qui évalue les performances des conducteurs. La solution évalue les compétences de conduite en fonction d’un système de points de pénalité pour des infractions telles que les excès de vitesse, les accélérations injustifiées, les freinages brusques, les accélérations en virage, etc.Des capteurs installés dans le véhicule détectent les infractions. L’analyse du comportement de conduite permet de former et de discipliner les conducteurs. Une conduite professionnelle et prudente contribue à réduire les coûts de carburant, à prolonger la durée de vie des véhicules et à améliorer la sécurité de la flotte pour les passagers et le fret.Description détaillée des infractionsVisualisation des trajets et des marqueurs d’événements sur la carteÉvaluation de la qualité de conduite selon des critères prédéfinis ou personnalisésClassement des conducteurs en fonction du nombre de points de pénalitéNotifications en cas d’excès de vitesse et autres infractionsRapports automatiques sur le comportement des conducteursGestion active de chaque véhiculeAnalyse des statistiques de la flotte pour un aperçu de son état généralCollaboration avec les conducteurs et les répartiteurs pour répondre à tous les besoins de la flotte",
+          "bodyHtml": "<p>Eco Driving est une application de gestion de flotte basée sur Jaxicloud qui évalue les performances des conducteurs. La solution évalue les compétences de conduite en fonction d’un système de points de pénalité pour des infractions telles que les excès de vitesse, les accélérations injustifiées, les freinages brusques, les accélérations en virage, etc.</p><p>Des capteurs installés dans le véhicule détectent les infractions. L’analyse du comportement de conduite permet de former et de discipliner les conducteurs. Une conduite professionnelle et prudente contribue à réduire les coûts de carburant, à prolonger la durée de vie des véhicules et à améliorer la sécurité de la flotte pour les passagers et le fret.</p><p>Description détaillée des infractions</p><p>Visualisation des trajets et des marqueurs d’événements sur la carte</p><p>Évaluation de la qualité de conduite selon des critères prédéfinis ou personnalisés</p><p>Classement des conducteurs en fonction du nombre de points de pénalité</p><p>Notifications en cas d’excès de vitesse et autres infractions</p><p>Rapports automatiques sur le comportement des conducteurs</p><p>Gestion active de chaque véhicule</p><p>Analyse des statistiques de la flotte pour un aperçu de son état général</p><p>Collaboration avec les conducteurs et les répartiteurs pour répondre à tous les besoins de la flotte</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Eco Driving is een Jaxicloud Fleet Management-app die helpt bij het beoordelen van de prestaties van chauffeurs. De oplossing evalueert rijvaardigheden op basis van strafpunten voor overtredingen zoals te hard rijden, onnodig optrekken, hard remmen, accelereren in bochten, enz.Sensoren in een voertuig detecteren overtredingen. Analyse van rijgedrag helpt chauffeurs te disciplineren en te trainen. Professioneel en voorzichtig rijden draagt ​​op zijn beurt bij aan lagere brandstofkosten, een langere levensduur van het voertuig en een betere veiligheid van het wagenpark voor passagiers en vracht.Gedetailleerde beschrijving van overtredingenVisualisatie van routes en gebeurtenismarkeringen op de kaartEvaluatie van de rijkwaliteit volgens vooraf gedefinieerde of door de gebruiker gedefinieerde criteriaRangschikking van chauffeurs op basis van het aantal toegekende strafpuntenMeldingen over te hard rijden en andere overtredingenAutomatische rapporten over het rijgedrag van chauffeursActief werk aan elk voertuigAnalyse van statistieken van het wagenpark om de algehele conditie ervan te tonenSamenwerking met chauffeurs en planners om aan alle noodzakelijke behoeften van het wagenpark te voldoen",
+          "bodyHtml": "<p>Eco Driving is een Jaxicloud Fleet Management-app die helpt bij het beoordelen van de prestaties van chauffeurs. De oplossing evalueert rijvaardigheden op basis van strafpunten voor overtredingen zoals te hard rijden, onnodig optrekken, hard remmen, accelereren in bochten, enz.<br>Sensoren in een voertuig detecteren overtredingen. Analyse van rijgedrag helpt chauffeurs te disciplineren en te trainen. Professioneel en voorzichtig rijden draagt ​​op zijn beurt bij aan lagere brandstofkosten, een langere levensduur van het voertuig en een betere veiligheid van het wagenpark voor passagiers en vracht.</p><p>Gedetailleerde beschrijving van overtredingen</p><p>Visualisatie van routes en gebeurtenismarkeringen op de kaart<br>Evaluatie van de rijkwaliteit volgens vooraf gedefinieerde of door de gebruiker gedefinieerde criteria<br>Rangschikking van chauffeurs op basis van het aantal toegekende strafpunten<br>Meldingen over te hard rijden en andere overtredingen<br>Automatische rapporten over het rijgedrag van chauffeurs</p><p>Actief werk aan elk voertuig</p><p>Analyse van statistieken van het wagenpark om de algehele conditie ervan te tonen<br>Samenwerking met chauffeurs en planners om aan alle noodzakelijke behoeften van het wagenpark te voldoen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Eco Driving er en Jaxicloud Fleet Management-basert app som hjelper med å vurdere en sjåførs ytelse. Løsningen evaluerer kjøreferdigheter basert på straffepoeng for brudd som fartsovertredelse, unødvendig akselerasjon, kraftig bremsing, akselerasjon i svinger osv.Sensorer installert i et kjøretøy oppdager brudd. Analyse av kjøreatferd bidrar til å disiplinere og trene sjåfører. Profesjonell og forsiktig kjøring bidrar igjen til å redusere drivstoffkostnader, forlenge kjøretøyets levetid og forbedre flåtesikkerheten for passasjerer og last.Detaljert beskrivelse av bruddVisualisering av spor og hendelsesmarkører på kartetEvaluering av kjørekvalitet i henhold til forhåndsdefinerte eller brukerdefinerte kriterierRangering av sjåfører i henhold til antall tildelte straffepoengVarsler om fartsovertredelse og andre bruddAutomatiske rapporter om sjåføratferdAktivt arbeid mot hvert kjøretøyAnalyser statistikk over flåten for å vise dens generelle tilstandSamarbeid med sjåfører og dispatchere for å dekke alle nødvendige flåtebehov",
+          "bodyHtml": "<p>Eco Driving er en Jaxicloud Fleet Management-basert app som hjelper med å vurdere en sjåførs ytelse. Løsningen evaluerer kjøreferdigheter basert på straffepoeng for brudd som fartsovertredelse, unødvendig akselerasjon, kraftig bremsing, akselerasjon i svinger osv.</p><p>Sensorer installert i et kjøretøy oppdager brudd. Analyse av kjøreatferd bidrar til å disiplinere og trene sjåfører. Profesjonell og forsiktig kjøring bidrar igjen til å redusere drivstoffkostnader, forlenge kjøretøyets levetid og forbedre flåtesikkerheten for passasjerer og last.</p><p>Detaljert beskrivelse av brudd</p><p>Visualisering av spor og hendelsesmarkører på kartet<br>Evaluering av kjørekvalitet i henhold til forhåndsdefinerte eller brukerdefinerte kriterier<br>Rangering av sjåfører i henhold til antall tildelte straffepoeng<br>Varsler om fartsovertredelse og andre brudd<br>Automatiske rapporter om sjåføratferd</p><p>Aktivt arbeid mot hvert kjøretøy</p><p>Analyser statistikk over flåten for å vise dens generelle tilstand<br>Samarbeid med sjåfører og dispatchere for å dekke alle nødvendige flåtebehov</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Eco Driving är en Jaxicloud Fleet Management-baserad app som hjälper till att bedöma en förares prestation. Lösningen utvärderar körförmåga baserat på straffpoäng för sådana överträdelser som fortkörning, onödig acceleration, kraftig inbromsning, kurvacceleration, etc.Sensorer installerade i ett fordon upptäcker överträdelser. Analys av körbeteende hjälper till att disciplinera och utbilda förare. Professionell och försiktig körning bidrar i sin tur till att minska bränslekostnaderna, förlänga fordonets livslängd och förbättra fordonsparkens säkerhet för passagerare och last.Detaljerad beskrivning av överträdelser•Visualisering av spår och händelsemarkörer på kartan•Utvärdering av åkkvalitet enligt fördefinierade eller användardefinierade kriterier•Rankning av förare enligt antalet tilldelade straffpoäng•Underrättelser om fortkörning och andra överträdelser•Automatiska rapporter om förarens beteendeAktivt arbete mot varje fordonAnalysera statistik över flottan för att visa dess övergripande skicK Arbeta med förare och trafikledare för att täcka alla nödvändiga flottans behov",
+          "bodyHtml": "<p>Eco Driving är en Jaxicloud Fleet Management-baserad app som hjälper till att bedöma en förares prestation. Lösningen utvärderar körförmåga baserat på straffpoäng för sådana överträdelser som fortkörning, onödig acceleration, kraftig inbromsning, kurvacceleration, etc.<br>Sensorer installerade i ett fordon upptäcker överträdelser. Analys av körbeteende hjälper till att disciplinera och utbilda förare. Professionell och försiktig körning bidrar i sin tur till att minska bränslekostnaderna, förlänga fordonets livslängd och förbättra fordonsparkens säkerhet för passagerare och last.</p><p>Detaljerad beskrivning av överträdelser</p><p>•Visualisering av spår och händelsemarkörer på kartan</p><p>•Utvärdering av åkkvalitet enligt fördefinierade eller användardefinierade kriterier</p><p>•Rankning av förare enligt antalet tilldelade straffpoäng</p><p>•Underrättelser om fortkörning och andra överträdelser</p><p>•Automatiska rapporter om förarens beteende</p><p>Aktivt arbete mot varje fordon</p><p>Analysera statistik över flottan för att visa dess övergripande skicK Arbeta med förare och trafikledare för att täcka alla nödvändiga flottans behov</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Eco Driving, sürücünün performansını değerlendirmeye yardımcı olan Jaxicloud Filo Yönetimi tabanlı bir uygulamadır. Çözüm, hız yapma, gereksiz hızlanma, sert frenleme, virajlarda hızlanma vb. ihlaller için ceza puanlarına dayalı olarak sürüş becerilerini değerlendirir.Araca takılan sensörler ihlalleri tespit eder. Sürüş davranışı analizi, sürücüleri disipline etmeye ve eğitmeye yardımcı olur. Profesyonel ve dikkatli sürüş, yakıt maliyetlerinin azaltılmasına, araç ömrünün uzatılmasına ve yolcular ve kargo için filo güvenliğinin artırılmasına yardımcı olur.İhlallerin ayrıntılı açıklaması• Harita üzerinde parkurların ve etkinlik işaretleyicilerinin görselleştirilmesi• Sürüş kalitesinin önceden tanımlanmış veya kullanıcı tanımlı kriterlere göre değerlendirilmesi•Verilen ceza puanı sayısına göre sürücülerin sıralaması• Hız yapma ve diğer ihlallere ilişkin bildirimler•Sürücü davranışına ilişkin otomatik raporlarHer araca yönelik aktif çalışmaGenel durumunu göstermek için filonun istatistiklerini analiz edinGerekli tüm filo ihtiyaçlarını karşılamak için sürücüler ve sevkiyat görevlileri ile birlikte çalışın",
+          "bodyHtml": "<p>Eco Driving, sürücünün performansını değerlendirmeye yardımcı olan Jaxicloud Filo Yönetimi tabanlı bir uygulamadır. Çözüm, hız yapma, gereksiz hızlanma, sert frenleme, virajlarda hızlanma vb. ihlaller için ceza puanlarına dayalı olarak sürüş becerilerini değerlendirir.<br>Araca takılan sensörler ihlalleri tespit eder. Sürüş davranışı analizi, sürücüleri disipline etmeye ve eğitmeye yardımcı olur. Profesyonel ve dikkatli sürüş, yakıt maliyetlerinin azaltılmasına, araç ömrünün uzatılmasına ve yolcular ve kargo için filo güvenliğinin artırılmasına yardımcı olur.</p><p><strong>İhlallerin ayrıntılı açıklaması</strong></p><p>• Harita üzerinde parkurların ve etkinlik işaretleyicilerinin görselleştirilmesi</p><p>• Sürüş kalitesinin önceden tanımlanmış veya kullanıcı tanımlı kriterlere göre değerlendirilmesi</p><p>•Verilen ceza puanı sayısına göre sürücülerin sıralaması</p><p>• Hız yapma ve diğer ihlallere ilişkin bildirimler</p><p>•Sürücü davranışına ilişkin otomatik raporlar</p><p>Her araca yönelik aktif çalışma</p><p>Genel durumunu göstermek için filonun istatistiklerini analiz edin</p><p>Gerekli tüm filo ihtiyaçlarını karşılamak için sürücüler ve sevkiyat görevlileri ile birlikte çalışın</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_badb383ac03d48bcac6a060ae6617345mv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_badb383ac03d48bcac6a060ae6617345mv2.gif",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "ECO DRIVE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "ECO DRIVE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "ECO DRIVE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "CONDUITE ÉCO",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "ECO-RIJDEN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "ECO DRIVE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "ECO DRIVE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Eko sürücü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Reduktion af brændstofforbrug",
+          "body": "Eco Driving fungerer som en tilføjelse til Jaxicloud Fleet Management brændstofovervågningssystem . Minimering af barske manøvrer under kørslen, sammen med optimal køretøjets bevægelseshastighed, gør det muligt at reducere brændstofomkostninger og -forbrug.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Eco Driving fungerer som en tilføjelse til Jaxicloud Fleet Management</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">&nbsp;<a class=\"wixui-rich-text__text\" href=\"https://wialon.com/en/fuel-management-system\" target=\"_blank\" rel=\"noreferrer noopener\">brændstofovervågningssystem</a> . Minimering af barske manøvrer under kørslen, sammen med optimal køretøjets bevægelseshastighed, gør det muligt at reducere brændstofomkostninger og -forbrug.</span></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "brændstofovervågningssystem",
+              "href": "https://wialon.com/en/fuel-management-system"
+            }
+          ],
+          "ctaLabel": "brændstofovervågningssystem",
+          "ctaUrl": "https://wialon.com/en/fuel-management-system",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Reduction of fuel consumption",
+          "body": "Eco Driving works as an add-on to Jaxicloud Fleet Management fuel monitoring system . Minimizing harsh maneuvers while driving, along with optimal vehicle movement speed, makes it possible to reduce fuel costs and consumption.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Eco Driving works as an add-on to Jaxicloud Fleet Management </span><span class=\"wixui-rich-text__text\">fuel monitoring system . Minimizing harsh maneuvers while driving, along with optimal vehicle movement speed, makes it possible to reduce fuel costs and consumption.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Reduzierung des Kraftstoffverbrauchs",
+          "body": "Eco Driving funktioniert als Add-on zum Jaxicloud Fleet ManagementKraftstoffüberwachungssystem . Durch die Minimierung abrupter Manöver während der Fahrt und eine optimale Fahrzeuggeschwindigkeit können Kraftstoffkosten und -verbrauch gesenkt werden.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Eco Driving funktioniert als Add-on zum Jaxicloud Fleet Management</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Kraftstoffüberwachungssystem . Durch die Minimierung abrupter Manöver während der Fahrt und eine optimale Fahrzeuggeschwindigkeit können Kraftstoffkosten und -verbrauch gesenkt werden.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Réduction de la consommation de carburant",
+          "body": "L’éco-conduite est un module complémentaire du système de gestion de la consommation de carburant Jaxicloud Fleet Management. En minimisant les manœuvres brusques et en optimisant la vitesse du véhicule, on peut réduire les coûts et la consommation de carburant.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">L’éco-conduite est un module complémentaire du système de gestion de la consommation de carburant Jaxicloud Fleet Management. En minimisant les manœuvres brusques et en optimisant la vitesse du véhicule, on peut réduire les coûts et la consommation de carburant.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Vermindering van het brandstofverbruik",
+          "body": "Eco Driving werkt als een aanvulling op het Jaxicloud Fleet Management brandstofmonitoringsysteem. Door ruwe manoeuvres tijdens het rijden te minimaliseren en de voertuigsnelheid te optimaliseren, kunt u brandstofkosten en -verbruik verlagen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Eco Driving werkt als een aanvulling op het Jaxicloud Fleet Management brandstofmonitoringsysteem. Door ruwe manoeuvres tijdens het rijden te minimaliseren en de voertuigsnelheid te optimaliseren, kunt u brandstofkosten en -verbruik verlagen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Reduksjon av drivstofforbruk",
+          "body": "Eco Driving fungerer som et tillegg til Jaxicloud Fleet Management drivstoffovervåkingssystem. Minimering av harde manøvrer under kjøring, sammen med optimal kjøretøyhastighet, gjør det mulig å redusere drivstoffkostnader og -forbruk.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Eco Driving fungerer som et tillegg til Jaxicloud Fleet Management drivstoffovervåkingssystem. Minimering av harde manøvrer under kjøring, sammen med optimal kjøretøyhastighet, gjør det mulig å redusere drivstoffkostnader og -forbruk.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Minskning av bränsleförbrukningen",
+          "body": "Eco Driving fungerar som ett tillägg till Jaxicloud Fleet Management bränsleövervakningssystem . Att minimera hårda manövrar under körning, tillsammans med optimal fordonshastighet, gör det möjligt att minska bränslekostnader och förbrukning.",
+          "bodyHtml": "<p>Eco Driving fungerar som ett tillägg till Jaxicloud Fleet Management bränsleövervakningssystem . Att minimera hårda manövrar under körning, tillsammans med optimal fordonshastighet, gör det möjligt att minska bränslekostnader och förbrukning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yakıt tüketiminin azaltılması",
+          "body": "Eco Driving, Jaxicloud Filo Yönetimine bir eklenti olarak çalışır yakıt izleme sistemi Sürüş sırasında sert manevraların en aza indirilmesi ve optimum araç hareket hızı, yakıt maliyetlerinin ve tüketimin azaltılmasını mümkün kılar.",
+          "bodyHtml": "<p>Eco Driving, Jaxicloud Filo Yönetimine bir eklenti olarak çalışır yakıt izleme sistemi Sürüş sırasında sert manevraların en aza indirilmesi ve optimum araç hareket hızı, yakıt maliyetlerinin ve tüketimin azaltılmasını mümkün kılar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Flådens sikkerhed",
+          "body": "Føreadfærdsovervågningsystemet hjælper med at sikre transportsikkerheden for gods og passagerer såvel som for ander trafikanter.Eco Dreving forbedrer således den generelle vejsikkerhed",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Føreadfærdsovervågningsystemet hjælper med at sikre transportsikkerheden for gods og passagerer såvel som for ander trafikanter.Eco Dreving forbedrer således den generelle vejsikkerhed&nbsp;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Fleet safety",
+          "body": "The driving behavior monitoring system helps ensure transport safety for goods and passengers as well as for other road users. Eco Driving thus improves general road safety",
+          "bodyHtml": "<p>The driving behavior monitoring system helps ensure transport safety for goods and passengers as well as for other road users. Eco Driving thus improves general road safety</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Flottensicherheit",
+          "body": "Das Fahrverhaltensüberwachungssystem trägt dazu bei, die Transportsicherheit von Gütern und Passagieren sowie anderen Verkehrsteilnehmern zu gewährleisten und verbessert so die allgemeine Verkehrssicherheit",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Das Fahrverhaltensüberwachungssystem trägt dazu bei, die Transportsicherheit von Gütern und Passagieren sowie anderen Verkehrsteilnehmern zu gewährleisten und verbessert so die allgemeine Verkehrssicherheit</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Sécurité de la flotte",
+          "body": "Le système de surveillance du comportement de conduite contribue à garantir la sécurité du transport des marchandises et des passagers, ainsi que celle des autres usagers de la route. L’éco-conduite améliore ainsi la sécurité routière en général.",
+          "bodyHtml": "<p>Le système de surveillance du comportement de conduite contribue à garantir la sécurité du transport des marchandises et des passagers, ainsi que celle des autres usagers de la route. L’éco-conduite améliore ainsi la sécurité routière en général.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Veiligheid van de vloot",
+          "body": "Het rijgedragmonitoringsysteem draagt ​​bij aan de transportveiligheid van goederen en passagiers, maar ook van andere weggebruikers. Eco Driving verbetert zo de algemene verkeersveiligheid.",
+          "bodyHtml": "<p>Het rijgedragmonitoringsysteem draagt ​​bij aan de transportveiligheid van goederen en passagiers, maar ook van andere weggebruikers. Eco Driving verbetert zo de algemene verkeersveiligheid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Flåtesikkerhet",
+          "body": "Systemet for overvåking av kjøreatferd bidrar til å sikre transportsikkerhet for varer og passasjerer, samt for andre trafikanter. Økokjøring forbedrer dermed den generelle trafikksikkerheten.",
+          "bodyHtml": "<p>Systemet for overvåking av kjøreatferd bidrar til å sikre transportsikkerhet for varer og passasjerer, samt for andre trafikanter. Økokjøring forbedrer dermed den generelle trafikksikkerheten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Flottans säkerhet",
+          "body": "Körbeteendeövervakningssystemet hjälper till att säkerställa transportsäkerheten för gods och passagerare samt för andra trafikanter Eco Driving förbättrar därmed den allmänna trafiksäkerheten",
+          "bodyHtml": "<p>Körbeteendeövervakningssystemet hjälper till att säkerställa transportsäkerheten för gods och passagerare samt för andra trafikanter Eco Driving förbättrar därmed den allmänna trafiksäkerheten</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Filo güvenliği",
+          "body": "Sürüş davranışı izleme sistemi, diğer yol kullanıcılarının yanı sıra mallar ve yolcular için de nakliye güvenliğinin sağlanmasına yardımcı olur ve böylece genel yol güvenliğini artırır.",
+          "bodyHtml": "<p>Sürüş davranışı izleme sistemi, diğer yol kullanıcılarının yanı sıra mallar ve yolcular için de nakliye güvenliğinin sağlanmasına yardımcı olur ve böylece genel yol güvenliğini artırır.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Besparelser på vedligeholdelse",
+          "body": "Brugen af Eco Drivning giver Transportvirksomheder mulighed for at holde deres flåder i ordentlig stand og reducere behovet for reparationer",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Brugen af Eco Drivning giver Transportvirksomheder mulighed for at holde deres flåder i ordentlig stand og reducere behovet for reparationer&nbsp;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Staff efficiency",
+          "body": "The system for monitoring lead behavior arms a company with structured information about its employee’s work. it allows managers to quickly detect and train ineffective drivers, identify the best and reward them.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The system for monitoring lead behavior arms a company with structured information about its employee’s work. it allows managers to quickly detect and train ineffective drivers, identify the best and reward them.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Einsparungen bei der Wartung",
+          "body": "Der Einsatz von Eco Driving ermöglicht es Transportunternehmen, ihre Flotten in einwandfreiem Zustand zu halten und den Reparaturbedarf zu reduzieren",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Der Einsatz von Eco Driving ermöglicht es Transportunternehmen, ihre Flotten in einwandfreiem Zustand zu halten und den Reparaturbedarf zu reduzieren</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Efficacité du personnel",
+          "body": "Le système de suivi des performances des responsables d’équipe fournit à l’entreprise des informations structurées sur le travail de ses employés. Il permet aux managers de détecter et de former rapidement les responsables les moins performants, d’identifier les meilleurs et de les récompenser.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Le système de suivi des performances des responsables d’équipe fournit à l’entreprise des informations structurées sur le travail de ses employés. Il permet aux managers de détecter et de former rapidement les responsables les moins performants, d’identifier les meilleurs et de les récompenser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Efficiëntie van het personeel",
+          "body": "Het systeem voor het monitoren van het gedrag van leidinggevenden biedt een bedrijf gestructureerde informatie over het werk van zijn werknemers. Het stelt managers in staat om snel ineffectieve drijfveren op te sporen en te trainen, de beste drijfveren te identificeren en hen te belonen.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Het systeem voor het monitoren van het gedrag van leidinggevenden biedt een bedrijf gestructureerde informatie over het werk van zijn werknemers. Het stelt managers in staat om snel ineffectieve drijfveren op te sporen en te trainen, de beste drijfveren te identificeren en hen te belonen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Personalets effektivitet",
+          "body": "Systemet for å overvåke potensielle kunders atferd gir en bedrift strukturert informasjon om de ansattes arbeid. Det lar ledere raskt oppdage og lære opp ineffektive sjåfører, identifisere de beste og belønne dem.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Systemet for å overvåke potensielle kunders atferd gir en bedrift strukturert informasjon om de ansattes arbeid. Det lar ledere raskt oppdage og lære opp ineffektive sjåfører, identifisere de beste og belønne dem.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Besparingar på underhåll",
+          "body": "Användningen av Eco Driving gör att transportföretag kan hålla sina flottor i gott skick och minska behovet av reparationer",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Användningen av Eco Driving gör att transportföretag kan hålla sina flottor i gott skick och minska behovet av reparationer</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Bakım tasarrufu",
+          "body": "Eco Driving’in kullanılması Taşımacılık şirketlerinin filolarını uygun durumda tutmasına ve onarım ihtiyacını azaltmasına olanak tanır",
+          "bodyHtml": "<p>Eco Driving’in kullanılması Taşımacılık şirketlerinin filolarını uygun durumda tutmasına ve onarım ihtiyacını azaltmasına olanak tanır</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Personalets effektivitet",
+          "body": "Systemet til overvågning af føre adfærd bevæbner en virksomhed med struktureret informationer om dens medarbejders arbejder. det giver ledere mulighed for hurtigt at opdage og uddanne ineffektive chauffører,indntificere de bedste og belønne dem.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Systemet til overvågning af føre adfærd bevæbner en virksomhed med struktureret informationer om dens medarbejders arbejder. det giver ledere mulighed for hurtigt at opdage og uddanne ineffektive chauffører,indntificere de bedste og belønne dem.&nbsp;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Co2 editorial accounting",
+          "body": "Improvements in driving performance and skills reduce fuel consumption. As a result, fewer emissions enter the atmosphere",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Improvements in driving performance and skills reduce fuel consumption. As a result, fewer emissions enter the atmosphere</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Mitarbeitereffizienz",
+          "body": "Das System zur Überwachung des Verhaltens von Leads liefert einem Unternehmen strukturierte Informationen über die Arbeit seiner Mitarbeiter. Es ermöglicht Managern, ineffektive Fahrer schnell zu erkennen und zu schulen, die besten zu identifizieren und zu belohnen.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Das System zur Überwachung des Verhaltens von Leads liefert einem Unternehmen strukturierte Informationen über die Arbeit seiner Mitarbeiter. Es ermöglicht Managern, ineffektive Fahrer schnell zu erkennen und zu schulen, die besten zu identifizieren und zu belohnen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comptabilité éditoriale Co2",
+          "body": "L’amélioration des performances et des compétences de conduite réduit la consommation de carburant. Par conséquent, moins d’émissions sont rejetées dans l’atmosphère.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">L’amélioration des performances et des compétences de conduite réduit la consommation de carburant. Par conséquent, moins d’émissions sont rejetées dans l’atmosphère.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Co2 redactionele boekhouding",
+          "body": "Verbeteringen in rijprestaties en -vaardigheden verminderen het brandstofverbruik. Hierdoor komen er minder emissies in de atmosfeer terecht.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Verbeteringen in rijprestaties en -vaardigheden verminderen het brandstofverbruik. Hierdoor komen er minder emissies in de atmosfeer terecht.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Co2 redaksjonelt regnskap",
+          "body": "Forbedringer i kjøreegenskaper og ferdigheter reduserer drivstofforbruket. Som et resultat slipper færre utslipp ut i atmosfæren.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Forbedringer i kjøreegenskaper og ferdigheter reduserer drivstofforbruket. Som et resultat slipper færre utslipp ut i atmosfæren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Personalens effektivitet",
+          "body": "Systemet för att övervaka leads beteende beväpnar ett företag med strukturerad information om sina anställdas arbete. det gör det möjligt för chefer att snabbt upptäcka och utbilda ineffektiva förare, identifiera de bästa och belöna dem.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Systemet för att övervaka leads beteende beväpnar ett företag med strukturerad information om sina anställdas arbete. det gör det möjligt för chefer att snabbt upptäcka och utbilda ineffektiva förare, identifiera de bästa och belöna dem.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Personel verimliliği",
+          "body": "Lider davranışını izlemeye yönelik sistem, bir şirketi, çalışanlarının çalışmaları hakkında yapılandırılmış bilgilerle donatır. yöneticilerin etkisiz sürücüleri hızlı bir şekilde tespit edip eğitmelerine, en iyilerini belirlemelerine ve onları ödüllendirmelerine olanak tanır.",
+          "bodyHtml": "<p>Lider davranışını izlemeye yönelik sistem, bir şirketi, çalışanlarının çalışmaları hakkında yapılandırılmış bilgilerle donatır. yöneticilerin etkisiz sürücüleri hızlı bir şekilde tespit edip eğitmelerine, en iyilerini belirlemelerine ve onları ödüllendirmelerine olanak tanır.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 4,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Co2 redaktion- regnskab",
+          "body": "Forbedringer af køreegenskaber og færdigheder reducerer brædnstofforbruget.Som et resultat kommer der færre emissioner til atmosfæren",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Forbedringer af køreegenskaber &nbsp; og færdigheder reducerer brædnstofforbruget.Som et resultat kommer der færre emissioner til atmosfæren&nbsp;</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Savings on maintenance",
+          "body": "The use of Eco Driving allows Transport companies to keep their fleets in proper condition and reduce the need for repairs",
+          "bodyHtml": "<p>The use of Eco Driving allows Transport companies to keep their fleets in proper condition and reduce the need for repairs</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Co2-Redaktionsabrechnung",
+          "body": "Verbesserungen der Fahrleistung und des Fahrkönnens senken den Kraftstoffverbrauch. Dadurch gelangen weniger Emissionen in die Atmosphäre",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Verbesserungen der Fahrleistung und des Fahrkönnens senken den Kraftstoffverbrauch. Dadurch gelangen weniger Emissionen in die Atmosphäre</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Économies sur l'entretien",
+          "body": "L’utilisation de l’éco-conduite permet aux entreprises de transport de maintenir leurs flottes en bon état et de réduire les besoins en réparations.",
+          "bodyHtml": "<p>L’utilisation de l’éco-conduite permet aux entreprises de transport de maintenir leurs flottes en bon état et de réduire les besoins en réparations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Besparingen op onderhoud",
+          "body": "Door Eco Driving toe te passen, kunnen transportbedrijven hun wagenpark in goede conditie houden en de noodzaak tot reparaties verminderen.",
+          "bodyHtml": "<p>Door Eco Driving toe te passen, kunnen transportbedrijven hun wagenpark in goede conditie houden en de noodzaak tot reparaties verminderen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Besparelser på vedlikehold",
+          "body": "Bruk av økokjøring lar transportselskaper holde flåtene sine i god stand og redusere behovet for reparasjoner.",
+          "bodyHtml": "<p>Bruk av økokjøring lar transportselskaper holde flåtene sine i god stand og redusere behovet for reparasjoner.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Redaktionell redovisning av CO2",
+          "body": "Förbättringar i körprestanda och färdigheter minskar bränsleförbrukningen. Som ett resultat kommer färre utsläpp ut i atmosfären",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Förbättringar i körprestanda och färdigheter minskar bränsleförbrukningen. Som ett resultat kommer färre utsläpp ut i atmosfären</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Co2 editoryal hesabı",
+          "body": "Sürüş performansı ve becerilerindeki iyileşmeler yakıt tüketimini azaltır, bunun sonucunda atmosfere daha az emisyon salınır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sürüş performansı ve becerilerindeki iyileşmeler yakıt tüketimini azaltır, bunun sonucunda atmosfere daha az emisyon salınır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "heading",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Parametre til vurdering af køreadfærd",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Parameters for assessing driving behaviour",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Parameter zur Beurteilung des Fahrverhaltens",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Paramètres d'évaluation du comportement au volant",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Parameters voor het beoordelen van rijgedrag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Parametre for vurdering av kjøreatferd",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Parametrar för att bedöma körbeteende",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sürüş davranışını değerlendirmeye yönelik parametreler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "richText",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af oprettede sensorer",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af oprettede sensorer</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on sensors set up.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The possibility to select parameters for the analysis of driving behavior: acceleration, braking, speed, reckless driving, acceleration in turns. Eco Driving can track other violations depending on sensors set up.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Abhängig von den eingerichteten Sensoren kann Eco Driving auch andere Verstöße verfolgen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Abhängig von den eingerichteten Sensoren kann Eco Driving auch andere Verstöße verfolgen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. L’Eco Driving peut détecter d’autres infractions en fonction des capteurs configurés.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. L’Eco Driving peut détecter d’autres infractions en fonction des capteurs configurés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "De mogelijkheid om parameters te selecteren voor de analyse van rijgedrag: acceleratie, remmen, snelheid, roekeloos rijden, acceleratie in bochten. Eco Driving kan andere overtredingen detecteren, afhankelijk van de ingestelde sensoren.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">De mogelijkheid om parameters te selecteren voor de analyse van rijgedrag: acceleratie, remmen, snelheid, roekeloos rijden, acceleratie in bochten. Eco Driving kan andere overtredingen detecteren, afhankelijk van de ingestelde sensoren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av sensorer som er konfigurert.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av sensorer som er konfigurert.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Möjligheten att välja parametrar för analys av körbeteende: acceleration, bromsning, hastighet, vårdslös körning, acceleration i svängar. Eco Driving kan spåra andra överträdelser beroende på sensorer som är inställda.",
+          "bodyHtml": "<p>Möjligheten att välja parametrar för analys av körbeteende: acceleration, bromsning, hastighet, vårdslös körning, acceleration i svängar. Eco Driving kan spåra andra överträdelser beroende på sensorer som är inställda.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sürüş davranışının analizi için parametreleri seçme imkanı: hızlanma, frenleme, hız, dikkatsiz sürüş, dönüşlerde hızlanma. Eco Driving, ayarlanan sensörlere bağlı olarak diğer ihlalleri takip edebilir.",
+          "bodyHtml": "<p>Sürüş davranışının analizi için parametreleri seçme imkanı: hızlanma, frenleme, hız, dikkatsiz sürüş, dönüşlerde hızlanma. Eco Driving, ayarlanan sensörlere bağlı olarak diğer ihlalleri takip edebilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f8edd0efd2534aa09eaed224b3e58512mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f8edd0efd2534aa09eaed224b3e58512mv2.jpg",
+          "width": 720,
+          "height": 468
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "richText",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Ture analyseEn detaljeret rapport om ture med et kort og en overtrædelsestabel, chaufførens vurdering vist med hensyn til turens varighed i form af en kolonne.RapporterFlere typer rapporter til en omfattende analyse af køreadfærd: efter chauffør, gruppe af chauffører eller enheder for enhver periode. Eksporter til PDF- og XLSX-filer.",
+          "bodyHtml": "<p><strong>Ture analyse</strong></p><p>En detaljeret rapport om ture med et kort og en overtrædelsestabel, chaufførens vurdering vist med hensyn til turens varighed i form af en kolonne.</p><p><strong>Rapporter</strong></p><p>Flere typer rapporter til en omfattende analyse af køreadfærd: efter chauffør, gruppe af chauffører eller enheder for enhver periode. Eksporter til PDF- og XLSX-filer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Tours analysisA detailed trip report with a map and a violation table, the driver’s rating shown in terms of trip duration in the form of a column.ReportsSeveral types of reports for a comprehensive analysis of driving behavior: by driver, group of drivers or units for any period. Export to PDF and XLSX files.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Tours analysis</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">A detailed trip report with a map and a violation table, the driver’s rating shown in terms of trip duration in the form of a column.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Reports</span></strong></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Several types of reports for a comprehensive analysis of driving behavior: by driver, group of drivers or units for any period. Export to PDF and XLSX files.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "TourenanalyseEin detaillierter Fahrtbericht mit Karte und Verstoßtabelle, die Fahrerbewertung wird in Form einer Spalte in Bezug auf die Fahrtdauer angezeigt.BerichteMehrere Arten von Berichten für eine umfassende Analyse des Fahrverhaltens: nach Fahrer, Fahrergruppe oder Einheit für einen beliebigen Zeitraum. Export in PDF- und XLSX-Dateien.",
+          "bodyHtml": "<p><strong>Tourenanalyse</strong></p><p>Ein detaillierter Fahrtbericht mit Karte und Verstoßtabelle, die Fahrerbewertung wird in Form einer Spalte in Bezug auf die Fahrtdauer angezeigt.</p><p><strong>Berichte</strong></p><p>Mehrere Arten von Berichten für eine umfassende Analyse des Fahrverhaltens: nach Fahrer, Fahrergruppe oder Einheit für einen beliebigen Zeitraum. Export in PDF- und XLSX-Dateien.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Analyse des trajetsUn rapport de trajet détaillé avec carte et tableau des infractions, présentant l’évaluation du conducteur en fonction de la durée du trajet (sous forme de colonne).RapportsPlusieurs types de rapports pour une analyse complète du comportement de conduite : par conducteur, groupe de conducteurs ou unités, pour toute période. Exportation aux formats PDF et XLSX.",
+          "bodyHtml": "<p><strong>Analyse des trajets</strong></p><p>Un rapport de trajet détaillé avec carte et tableau des infractions, présentant l’évaluation du conducteur en fonction de la durée du trajet (sous forme de colonne).</p><p><strong>Rapports</strong></p><p>Plusieurs types de rapports pour une analyse complète du comportement de conduite : par conducteur, groupe de conducteurs ou unités, pour toute période. Exportation aux formats PDF et XLSX.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Analyse van rittenEen gedetailleerd ritrapport met een kaart en een overtredingstabel, waarbij de beoordeling van de chauffeur wordt weergegeven in termen van ritduur in de vorm van een kolom.RapportenVerschillende soorten rapporten voor een uitgebreide analyse van rijgedrag: per chauffeur, groep chauffeurs of eenheden voor elke periode. Exporteren naar PDF- en XLSX-bestanden.",
+          "bodyHtml": "<p><strong>Analyse van ritten</strong></p><p>Een gedetailleerd ritrapport met een kaart en een overtredingstabel, waarbij de beoordeling van de chauffeur wordt weergegeven in termen van ritduur in de vorm van een kolom.</p><p><strong>Rapporten</strong></p><p>Verschillende soorten rapporten voor een uitgebreide analyse van rijgedrag: per chauffeur, groep chauffeurs of eenheden voor elke periode. Exporteren naar PDF- en XLSX-bestanden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "TuranalyseEn detaljert turrapport med kart og en tabell over regelbrudd, hvor sjåførens vurdering vises i form av turens varighet i form av en kolonne.RapporterFlere typer rapporter for en omfattende analyse av kjøreatferd: etter sjåfør, sjåførgruppe eller enheter for en hvilken som helst periode. Eksporter til PDF- og XLSX-filer.",
+          "bodyHtml": "<p><strong>Turanalyse</strong></p><p>En detaljert turrapport med kart og en tabell over regelbrudd, hvor sjåførens vurdering vises i form av turens varighet i form av en kolonne.</p><p><strong>Rapporter</strong></p><p>Flere typer rapporter for en omfattende analyse av kjøreatferd: etter sjåfør, sjåførgruppe eller enheter for en hvilken som helst periode. Eksporter til PDF- og XLSX-filer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "TuranalysEn detaljerad reserapport med en karta och en överträdelsetabell, förarens betyg visas i form av resans längd i form av en kolumn.RapporterFlera typer av rapporter för en omfattande analys av körbeteende: per förare, grupp av förare eller enheter för vilken period som helst. Exportera till PDF- och XLSX-filer.",
+          "bodyHtml": "<p><strong>Turanalys</strong></p><p>En detaljerad reserapport med en karta och en överträdelsetabell, förarens betyg visas i form av resans längd i form av en kolumn.</p><p><strong>Rapporter</strong></p><p>Flera typer av rapporter för en omfattande analys av körbeteende: per förare, grupp av förare eller enheter för vilken period som helst. Exportera till PDF- och XLSX-filer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Tur analiziHarita ve ihlal tablosu içeren ayrıntılı yolculuk raporu, sürücünün yolculuk süresine göre değerlendirmesi sütun şeklinde gösterilir.RaporlarSürüş davranışının kapsamlı bir analizi için çeşitli rapor türleri: herhangi bir dönem için sürücüye, sürücü grubuna veya birimlere göre. PDF ve XLSX dosyalarına aktarın.",
+          "bodyHtml": "<p><strong>Tur analizi</strong></p><p>Harita ve ihlal tablosu içeren ayrıntılı yolculuk raporu, sürücünün yolculuk süresine göre değerlendirmesi sütun şeklinde gösterilir.</p><p><strong>Raporlar</strong></p><p>Sürüş davranışının kapsamlı bir analizi için çeşitli rapor türleri: herhangi bir dönem için sürücüye, sürücü grubuna veya birimlere göre. PDF ve XLSX dosyalarına aktarın.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "featureCard",
+      "order": 14,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management indsamler data fra sensorer installeret i køretøjer og sender dem til Eco Driving-appen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management&nbsp; indsamler data fra sensorer installeret i køretøjer og sender dem til Eco Driving-appen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management collects data from sensors installed in vehicles and sends it to the Eco Driving app",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management collects data from sensors installed in vehicles and sends it to the Eco Driving app</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management sammelt Daten von in Fahrzeugen installierten Sensoren und sendet sie an die Eco Driving App.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Fleet Management sammelt Daten von in Fahrzeugen installierten Sensoren und sendet sie an die Eco Driving App.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management collecte les données des capteurs installés dans les véhicules et les envoie à l’application Eco Driving.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management collecte les données des capteurs installés dans les véhicules et les envoie à l’application Eco Driving.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management verzamelt gegevens van sensoren die in voertuigen zijn geïnstalleerd en stuurt deze naar de Eco Driving-app",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management verzamelt gegevens van sensoren die in voertuigen zijn geïnstalleerd en stuurt deze naar de Eco Driving-app</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management samler inn data fra sensorer installert i kjøretøy og sender dem til Eco Driving-appen",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management samler inn data fra sensorer installert i kjøretøy og sender dem til Eco Driving-appen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "1",
+          "body": "Jaxicloud Fleet Management samlar in data från sensorer installerade i fordon och skickar den till Eco Driving-appen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Fleet Management samlar in data från sensorer installerade i fordon och skickar den till Eco Driving-appen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "1",
+          "body": "Jaxicloud Filo Yönetimi, araçlara takılı sensörlerden veri topluyor ve Eco Driving uygulamasına gönderiyor.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Filo Yönetimi, araçlara takılı sensörlerden veri topluyor ve Eco Driving uygulamasına gönderiyor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "2",
+          "body": "I Jaxicloud Fleet Management vælger en bruger vurderingsparametrene for kørekvalitet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">I Jaxicloud Fleet Management &nbsp;vælger en bruger vurderingsparametrene for kørekvalitet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "2",
+          "body": "In Jaxicloud Fleet Management, a user selects the driving quality assessment parameters.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In Jaxicloud Fleet Management, a user selects the driving quality assessment parameters.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "2",
+          "body": "Im Jaxicloud Fleet Management wählt ein Benutzer die Parameter zur Fahrqualitätsbewertung aus.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Im Jaxicloud Fleet Management wählt ein Benutzer die Parameter zur Fahrqualitätsbewertung aus.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "2",
+          "body": "Dans Jaxicloud Fleet Management, l’utilisateur sélectionne les paramètres d’évaluation de la qualité de conduite.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Dans Jaxicloud Fleet Management, l’utilisateur sélectionne les paramètres d’évaluation de la qualité de conduite.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "2",
+          "body": "In Jaxicloud Fleet Management selecteert een gebruiker de parameters voor de beoordeling van de rijkwaliteit.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">In Jaxicloud Fleet Management selecteert een gebruiker de parameters voor de beoordeling van de rijkwaliteit.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "2",
+          "body": "I Jaxicloud Fleet Management velger en bruker parametere for vurdering av kjørekvalitet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I Jaxicloud Fleet Management velger en bruker parametere for vurdering av kjørekvalitet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "2",
+          "body": "I Jaxicloud Fleet Management väljer en användare parametrarna för bedömning av körkvalitet.",
+          "bodyHtml": "<p>I Jaxicloud Fleet Management väljer en användare parametrarna för bedömning av körkvalitet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "2",
+          "body": "Jaxicloud Filo Yönetimi’nde kullanıcı, sürüş kalitesi değerlendirme parametrelerini seçer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Filo Yönetimi’nde kullanıcı, sürüş kalitesi değerlendirme parametrelerini seçer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "featureCard",
+      "order": 16,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "3",
+          "body": "I Jaxicloud Fleet Management tildeler en bruger også antallet af strafpoint for hver parameter og danner således kørselskvalitetsvurderingssystemet.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">I Jaxicloud Fleet Management &nbsp;tildeler en bruger også antallet af strafpoint for hver parameter og danner således kørselskvalitetsvurderingssystemet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "3",
+          "body": "In Jaxicloud Fleet Management, a user also assigns the number of penalty points for each parameter, thus forming the driving quality rating system.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In Jaxicloud Fleet Management, a user also assigns the number of penalty points for each parameter, thus forming the driving quality rating system.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "3",
+          "body": "Im Jaxicloud Fleet Management vergibt ein Benutzer außerdem die Anzahl der Strafpunkte für jeden Parameter und bildet so das Bewertungssystem für die Fahrqualität.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Im Jaxicloud Fleet Management vergibt ein Benutzer außerdem die Anzahl der Strafpunkte für jeden Parameter und bildet so das Bewertungssystem für die Fahrqualität.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "3",
+          "body": "Dans Jaxicloud Fleet Management, l’utilisateur attribue également un nombre de points de pénalité à chaque paramètre, constituant ainsi le système d’évaluation de la qualité de conduite.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Dans Jaxicloud Fleet Management, l’utilisateur attribue également un nombre de points de pénalité à chaque paramètre, constituant ainsi le système d’évaluation de la qualité de conduite.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "3",
+          "body": "In Jaxicloud Fleet Management kent een gebruiker ook het aantal strafpunten toe aan elke parameter, en zo ontstaat het beoordelingssysteem voor de rijkwaliteit.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">In Jaxicloud Fleet Management kent een gebruiker ook het aantal strafpunten toe aan elke parameter, en zo ontstaat het beoordelingssysteem voor de rijkwaliteit.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "3",
+          "body": "I Jaxicloud Fleet Management tildeler en bruker også antall straffepoeng for hver parameter, og danner dermed systemet for vurdering av kjørekvalitet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I Jaxicloud Fleet Management tildeler en bruker også antall straffepoeng for hver parameter, og danner dermed systemet for vurdering av kjørekvalitet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "3",
+          "body": "I Jaxicloud Fleet Management tilldelar en användare också antalet straffpoäng för varje parameter, vilket bildar körkvalitetsklassificeringssystemet.",
+          "bodyHtml": "<p>I Jaxicloud Fleet Management tilldelar en användare också antalet straffpoäng för varje parameter, vilket bildar körkvalitetsklassificeringssystemet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "3",
+          "body": "Jaxicloud Filo Yönetimi’nde kullanıcı ayrıca her parametre için ceza puanı sayısını atayarak sürüş kalitesi derecelendirme sistemini oluşturur.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Filo Yönetimi’nde kullanıcı ayrıca her parametre için ceza puanı sayısını atayarak sürüş kalitesi derecelendirme sistemini oluşturur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "featureCard",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "4",
+          "body": "Appen viser en chaufførs vurdering, antallet af overtrædelser, bygger banen på kortet og viser, hvor disse overtrædelser blev opdaget",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Appen viser en chaufførs vurdering, antallet af overtrædelser, bygger banen på kortet og viser, hvor disse overtrædelser blev opdaget</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "4",
+          "body": "The app shows a driver’s rating, the number of violations, builds the lane on the map and shows where these violations were detected",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The app shows a driver’s rating, the number of violations, builds the lane on the map and shows where these violations were detected</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "4",
+          "body": "Die App zeigt die Bewertung eines Fahrers, die Anzahl der Verstöße, baut die Fahrspur auf der Karte auf und zeigt an, wo diese Verstöße festgestellt wurden",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Die App zeigt die Bewertung eines Fahrers, die Anzahl der Verstöße, baut die Fahrspur auf der Karte auf und zeigt an, wo diese Verstöße festgestellt wurden</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "4",
+          "body": "L’application affiche la note du conducteur, le nombre d’infractions, trace la voie sur la carte et indique où ces infractions ont été constatées.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">L’application affiche la note du conducteur, le nombre d’infractions, trace la voie sur la carte et indique où ces infractions ont été constatées.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "4",
+          "body": "De app toont de beoordeling van een bestuurder, het aantal overtredingen, bouwt de rijstrook op de kaart en laat zien waar deze overtredingen zijn geconstateerd",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">De app toont de beoordeling van een bestuurder, het aantal overtredingen, bouwt de rijstrook op de kaart en laat zien waar deze overtredingen zijn geconstateerd</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "4",
+          "body": "Appen viser en sjåførs vurdering, antall overtredelser, bygger opp kjørefeltet på kartet og viser hvor disse overtredelsene ble oppdaget.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Appen viser en sjåførs vurdering, antall overtredelser, bygger opp kjørefeltet på kartet og viser hvor disse overtredelsene ble oppdaget.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "4",
+          "body": "Appen visar en förares betyg, antalet överträdelser, bygger körfältet på kartan och visar var dessa överträdelser upptäcktes",
+          "bodyHtml": "<p>Appen visar en förares betyg, antalet överträdelser, bygger körfältet på kartan och visar var dessa överträdelser upptäcktes</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "4",
+          "body": "Uygulama, sürücünün puanını, ihlal sayısını gösterir, harita üzerinde şerit oluşturur ve bu ihlallerin nerede tespit edildiğini gösterir",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Uygulama, sürücünün puanını, ihlal sayısını gösterir, harita üzerinde şerit oluşturur ve bu ihlallerin nerede tespit edildiğini gösterir</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "5",
+          "body": "I driversporingssoftwaren genererer en bruger rapporter baseret på de indsamlede oplysninger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">I driversporingssoftwaren genererer en bruger rapporter baseret på de indsamlede oplysninger.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "5",
+          "body": "In the driver tracking software, a user generates reports based on the information collected.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In the driver tracking software, a user generates reports based on the information collected.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "5",
+          "body": "In der Fahrerverfolgungssoftware erstellt ein Benutzer Berichte basierend auf den gesammelten Informationen.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In der Fahrerverfolgungssoftware erstellt ein Benutzer Berichte basierend auf den gesammelten Informationen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "5",
+          "body": "Dans le logiciel de suivi des conducteurs, un utilisateur génère des rapports à partir des informations collectées.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Dans le logiciel de suivi des conducteurs, un utilisateur génère des rapports à partir des informations collectées.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "5",
+          "body": "In de software voor het bijhouden van chauffeurs genereert een gebruiker rapporten op basis van de verzamelde informatie.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">In de software voor het bijhouden van chauffeurs genereert een gebruiker rapporten op basis van de verzamelde informatie.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "5",
+          "body": "I programvaren for sjåførsporing genererer en bruker rapporter basert på informasjonen som samles inn.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I programvaren for sjåførsporing genererer en bruker rapporter basert på informasjonen som samles inn.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "5",
+          "body": "I förarspårningsmjukvaran genererar en användare rapporter baserat på den insamlade informationen.",
+          "bodyHtml": "<p>I förarspårningsmjukvaran genererar en användare rapporter baserat på den insamlade informationen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "5",
+          "body": "Sürücü takip yazılımında kullanıcı, toplanan bilgilere dayanarak raporlar oluşturur.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sürücü takip yazılımında kullanıcı, toplanan bilgilere dayanarak raporlar oluşturur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "featureCard",
+      "order": 19,
+      "sectionIndex": 5,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "6",
+          "body": "En bruger udnytter dataene fra rapporterne til at forbedre personalets kørefærdigheder, hvilket letter transportsikkerheden for passagerer og gods.",
+          "bodyHtml": "<p>En bruger udnytter dataene fra rapporterne til at forbedre personalets kørefærdigheder, hvilket letter transportsikkerheden for passagerer og gods.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "6",
+          "body": "A user leverages the data from the reports to improve staff driving skills, facilitating the transport safety of passengers and cargo.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">A user leverages the data from the reports to improve staff driving skills, facilitating the transport safety of passengers and cargo.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "6",
+          "body": "Ein Benutzer nutzt die Daten aus den Berichten, um die Fahrfähigkeiten des Personals zu verbessern und so die Transportsicherheit von Passagieren und Fracht zu verbessern.",
+          "bodyHtml": "<p>Ein Benutzer nutzt die Daten aus den Berichten, um die Fahrfähigkeiten des Personals zu verbessern und so die Transportsicherheit von Passagieren und Fracht zu verbessern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "6",
+          "body": "Un utilisateur exploite les données des rapports pour améliorer les compétences de conduite du personnel, facilitant ainsi la sécurité du transport des passagers et des marchandises.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Un utilisateur exploite les données des rapports pour améliorer les compétences de conduite du personnel, facilitant ainsi la sécurité du transport des passagers et des marchandises.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "6",
+          "body": "Een gebruiker gebruikt de gegevens uit de rapporten om de rijvaardigheden van zijn personeel te verbeteren en zo de veiligheid van passagiers en vracht te vergroten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Een gebruiker gebruikt de gegevens uit de rapporten om de rijvaardigheden van zijn personeel te verbeteren en zo de veiligheid van passagiers en vracht te vergroten.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "6",
+          "body": "En bruker utnytter dataene fra rapportene til å forbedre personalets kjøreferdigheter, noe som fremmer transportsikkerheten for passasjerer og last.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">En bruker utnytter dataene fra rapportene til å forbedre personalets kjøreferdigheter, noe som fremmer transportsikkerheten for passasjerer og last.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "6",
+          "body": "En användare utnyttjar data från rapporterna för att förbättra personalens körfärdigheter, vilket underlättar transportsäkerheten för passagerare och gods.",
+          "bodyHtml": "<p>En användare utnyttjar data från rapporterna för att förbättra personalens körfärdigheter, vilket underlättar transportsäkerheten för passagerare och gods.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "6",
+          "body": "Bir kullanıcı, personelin sürüş becerilerini geliştirmek, yolcuların ve kargonun nakliye güvenliğini kolaylaştırmak için raporlardan elde edilen verilerden yararlanır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bir kullanıcı, personelin sürüş becerilerini geliştirmek, yolcuların ve kargonun nakliye güvenliğini kolaylaştırmak için raporlardan elde edilen verilerden yararlanır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

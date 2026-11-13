@@ -1,0 +1,107 @@
+{
+  "id": 2796,
+  "slug": "jaxicloud-gdpr-cyber-compliance-fr",
+  "canonicalSlug": "data-protection",
+  "locale": "fr",
+  "title": "Jaxicloud – GDPR & Cyber Compliance – FR",
+  "link": "https://www.jaxicloud.com/fr/jaxicloud-gdpr-cyber-compliance-fr/",
+  "pageKind": "legal",
+  "translations": {
+    "fr": 2796,
+    "da": 2145,
+    "en": 47,
+    "de": 2543,
+    "nl": 2998,
+    "nb": 3196,
+    "sv": 3387,
+    "tr": 3577
+  },
+  "excerpt": "Jaxicloud – Conformité RGPD et cybersécurité Jaxicloud est un sous-traitant de données. Toutes les données sont hébergées chez Wialon (Gurtam) dans des centres de données certifiés ISO/IEC 27001. Processus clairs pour les violations de données, les droits des utilisateurs et la conformité matérielle. Voici comment nous gérons vos donnéesClient = Responsable du traitement des donnéesJaxicloud [&hellip;]",
+  "seo": {
+    "title": "Jax iCloud – Conformité RGPD et cybersécurité - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-14T21:29:06",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "9539f3c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9539f3c",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud – Conformité RGPD et cybersécurité",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-ae4de44",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "553f837",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-553f837",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": "POLITIQUE DE CONFIDENTIALITÉ DE JAXICLOUD FLEET MANAGEMENT",
+      "bodyHtml": "<p data-start=\"235\" data-end=\"491\">Jaxicloud est un sous-traitant de données. Toutes les données sont hébergées chez Wialon (Gurtam) dans des centres de données certifiés ISO/IEC 27001. Processus clairs pour les violations de données, les droits des utilisateurs et la conformité matérielle.</p><p data-start=\"493\" data-end=\"893\"><strong data-start=\"493\" data-end=\"534\">Voici comment nous gérons vos données</strong><br data-start=\"534\" data-end=\"537\">Client = Responsable du traitement des données<br data-start=\"583\" data-end=\"586\">Jaxicloud = Sous-traitant<br data-start=\"611\" data-end=\"614\">Wialon = Sous-sous-traitant<br data-start=\"641\" data-end=\"644\">Les données sont stockées chez Wialon (UE/autres régions)<br data-start=\"701\" data-end=\"704\">Durées de conservation : GPS 12 mois, données tachygraphes/journaux 5 ans, vidéo 30 jours, données chauffeurs = durée d’emploi<br data-start=\"830\" data-end=\"833\">Droits : Accès, rectification, suppression (via l’employeur)</p><p data-start=\"895\" data-end=\"1096\"><strong data-start=\"895\" data-end=\"912\">Aperçu rapide</strong><br data-start=\"912\" data-end=\"915\">Chiffrement en transit et au repos (Wialon)<br data-start=\"958\" data-end=\"961\">Accès basé sur les rôles &amp; 2FA<br data-start=\"991\" data-end=\"994\">Audit &amp; journalisation du support<br data-start=\"1027\" data-end=\"1030\">Les violations de données sont traitées dans un délai de 72 heures</p><p data-start=\"1098\" data-end=\"1473\"><strong data-start=\"1098\" data-end=\"1125\">Documentation &amp; accords</strong><br data-start=\"1125\" data-end=\"1128\">DPA (Jaxicloud ↔ Client)<br data-start=\"1152\" data-end=\"1155\">DPA (Jaxicloud ↔ Wialon)<br data-start=\"1179\" data-end=\"1182\">Registre des données<br data-start=\"1202\" data-end=\"1205\">Politique de sécurité de l’information<br data-start=\"1243\" data-end=\"1246\">Processus &amp; procédures<br data-start=\"1268\" data-end=\"1271\">Violation de données : Client +<br data-start=\"1302\" data-end=\"1305\">Autorité de protection des données dans les 72 heures<br data-start=\"1358\" data-end=\"1361\">Droits des utilisateurs : réponse sous 30 jours<br data-start=\"1408\" data-end=\"1411\">Journalisation &amp; audit<br data-start=\"1433\" data-end=\"1436\">Tests de restauration des sauvegardes</p><p data-start=\"1475\" data-end=\"1635\"><strong data-start=\"1475\" data-end=\"1500\">Conformité matérielle</strong><br data-start=\"1500\" data-end=\"1503\">Équipements certifiés CE &amp; RED<br data-start=\"1533\" data-end=\"1536\">Firmware pouvant être mis à jour<br data-start=\"1568\" data-end=\"1571\">Checklist &amp; tests Jaxicloud<br data-start=\"1598\" data-end=\"1601\">Documentation fournisseur archivée</p><p data-start=\"1637\" data-end=\"2023\"><strong data-start=\"1637\" data-end=\"1667\">FAQ – Questions fréquentes</strong><br data-start=\"1667\" data-end=\"1670\">Où les données sont-elles stockées ? → Chez Wialon (ISO 27001).<br data-start=\"1733\" data-end=\"1736\">Comment les chauffeurs obtiennent-ils un accès ? → Via l’employeur + Jaxicloud.<br data-start=\"1815\" data-end=\"1818\">Comment gérez-vous les violations de données ? → Enregistrement, évaluation, correction, notification sous 72 heures.<br data-start=\"1935\" data-end=\"1938\">Votre matériel respecte-t-il les exigences de l’UE ? → Oui, certifié CE/RED et testé.</p><p data-start=\"2025\" data-end=\"2036\"><strong data-start=\"2025\" data-end=\"2036\">Contact</strong></p><p data-start=\"2038\" data-end=\"2187\">Jaxicloud Fleet Management ApS<br data-start=\"2068\" data-end=\"2071\">Stamholmen 149, 3e étage, 2650 Hvidovre, Danemark<br data-start=\"2120\" data-end=\"2123\">CVR : [insérer]<br data-start=\"2138\" data-end=\"2141\">Tél : +45 92901010<br data-start=\"2159\" data-end=\"2162\">Mail : <a class=\"decorated-link cursor-pointer\" rel=\"noopener\" data-start=\"2169\" data-end=\"2187\">info@jaxicloud.com</a></p><p data-start=\"2260\" data-end=\"2295\">Dernière mise à jour : 21 août 2023</p><p data-start=\"2297\" data-end=\"2677\">JaxiCloud Fleet Management (« JaxiCloud », « nous », « notre » ou « nos ») est un développeur de solutions télématiques et IoT. JaxiCloud s’engage à protéger votre vie privée. Cette politique de confidentialité vous explique ce que vous pouvez attendre de nous concernant le traitement de vos informations personnelles lorsque vous nous contactez ou utilisez l’un de nos services.</p><p data-start=\"2679\" data-end=\"3350\">Cette politique de confidentialité s’applique aux sites web (<a class=\"decorated-link\" href=\"https://jaxicloud.com/\" target=\"_new\" rel=\"noopener\" data-start=\"2740\" data-end=\"2762\">https://jaxicloud.com/</a> et ses sous-domaines), aux e-mails (<a class=\"decorated-link cursor-pointer\" rel=\"noopener\" data-start=\"2799\" data-end=\"2817\">info@jaxicloud.com</a>, <a class=\"decorated-link cursor-pointer\" rel=\"noopener\" data-start=\"2819\" data-end=\"2840\">support@jaxicloud.com</a>, <a class=\"decorated-link cursor-pointer\" rel=\"noopener\" data-start=\"2842\" data-end=\"2863\">privacy@jaxicloud.com</a>), aux événements en ligne et hors ligne, ainsi qu’aux produits et services détenus ou contrôlés par JaxiCloud et ses sociétés affiliées, y compris mais sans s’y limiter l’application JaxiCloud Fleet Management (« App ») (collectivement nos « Services »). En accédant à nos services ou en les utilisant, vous déclarez avoir lu, compris et accepté notre collecte, conservation, utilisation et divulgation de vos informations personnelles conformément à cette politique de confidentialité.</p><p data-start=\"3352\" data-end=\"3606\">Nous prenons votre vie privée très au sérieux. Toutes les données personnelles seront collectées, stockées et utilisées conformément au Règlement général sur la protection des données (RGPD) de l’UE n° 2016/679 et/ou à toute autre législation applicable.</p><p data-start=\"3677\" data-end=\"3863\">Nous collectons vos données personnelles de plusieurs manières. Parfois automatiquement lorsque vous interagissez avec nos services, parfois directement lorsque vous nous les fournissez.</p><p data-start=\"3934\" data-end=\"4281\">• Prénom et nom<br data-start=\"3949\" data-end=\"3952\">• Nom de l’entreprise<br data-start=\"3973\" data-end=\"3976\">• Informations financières de l’entreprise<br data-start=\"4018\" data-end=\"4021\">• Informations de paiement<br data-start=\"4047\" data-end=\"4050\">• Intitulé du poste<br data-start=\"4069\" data-end=\"4072\">• Identifiant (à des fins limitées)<br data-start=\"4107\" data-end=\"4110\">• Année de naissance<br data-start=\"4130\" data-end=\"4133\">• Sexe<br data-start=\"4139\" data-end=\"4142\">• Adresse e-mail<br data-start=\"4158\" data-end=\"4161\">• Numéro de téléphone<br data-start=\"4182\" data-end=\"4185\">• Mot de passe ou code d’accès<br data-start=\"4215\" data-end=\"4218\">• Adresse personnelle et informations de localisation associées</p><p data-start=\"4329\" data-end=\"4399\"><strong data-start=\"4329\" data-end=\"4363\">Informations de localisation :</strong><br data-start=\"4363\" data-end=\"4366\">• Adresse IP<br data-start=\"4378\" data-end=\"4381\">• Fuseau horaire</p><p data-start=\"4401\" data-end=\"4618\"><strong data-start=\"4401\" data-end=\"4434\">Informations sur l’appareil :</strong><br data-start=\"4434\" data-end=\"4437\">• Modèle de l’appareil<br data-start=\"4459\" data-end=\"4462\">• Identifiants uniques<br data-start=\"4484\" data-end=\"4487\">• Système d’exploitation et version<br data-start=\"4522\" data-end=\"4525\">• Opérateur mobile et informations réseau<br data-start=\"4566\" data-end=\"4569\">• Informations de stockage<br data-start=\"4595\" data-end=\"4598\">• Version du système</p><p data-start=\"4620\" data-end=\"4785\"><strong data-start=\"4620\" data-end=\"4664\">Données sur l’utilisation des services :</strong><br data-start=\"4664\" data-end=\"4667\">• Fréquence d’utilisation<br data-start=\"4692\" data-end=\"4695\">• Zones et fonctionnalités utilisées<br data-start=\"4731\" data-end=\"4734\">• Engagement avec des fonctionnalités spécifiques</p><p data-start=\"4841\" data-end=\"4899\">L’entreprise peut utiliser vos données personnelles pour :</p><p data-start=\"4901\" data-end=\"5251\">• Fournir et maintenir nos services<br data-start=\"4936\" data-end=\"4939\">• Gérer votre compte d’utilisateur<br data-start=\"4973\" data-end=\"4976\">• Exécuter un contrat<br data-start=\"4997\" data-end=\"5000\">• Vous fournir des offres, actualités ou informations pertinentes<br data-start=\"5065\" data-end=\"5068\">• Vous contacter (e-mail, téléphone, notifications push, etc.)<br data-start=\"5130\" data-end=\"5133\">• Gérer vos demandes<br data-start=\"5153\" data-end=\"5156\">• Analyse des données, tendances, efficacité marketing, amélioration des produits et services</p><p data-start=\"5253\" data-end=\"5281\">Les bases légales incluent :</p><p data-start=\"5283\" data-end=\"5374\">• Votre consentement<br data-start=\"5303\" data-end=\"5306\">• Intérêt légitime<br data-start=\"5324\" data-end=\"5327\">• Exécution contractuelle<br data-start=\"5352\" data-end=\"5355\">• Obligation légale</p><p data-start=\"5411\" data-end=\"5617\">Nous conservons vos données uniquement le temps nécessaire pour fournir nos services ou respecter nos obligations légales. Lorsque les données ne sont plus nécessaires, elles sont supprimées ou anonymisées.</p><p data-start=\"5673\" data-end=\"5869\">• Droit d’accès<br data-start=\"5688\" data-end=\"5691\">• Droit à la portabilité<br data-start=\"5715\" data-end=\"5718\">• Droit de rectification<br data-start=\"5742\" data-end=\"5745\">• Droit à l’effacement<br data-start=\"5767\" data-end=\"5770\">• Droit à la limitation du traitement<br data-start=\"5807\" data-end=\"5810\">• Droit d’opposition<br data-start=\"5830\" data-end=\"5833\">• Droit de retirer le consentement</p><p data-start=\"5871\" data-end=\"5914\">Pour toute question : <a class=\"decorated-link cursor-pointer\" rel=\"noopener\" data-start=\"5893\" data-end=\"5914\">privacy@jaxicloud.com</a></p><p data-start=\"5981\" data-end=\"6183\">• Sociétés affiliées<br data-start=\"6001\" data-end=\"6004\">• Partenaires tiers avec votre consentement<br data-start=\"6047\" data-end=\"6050\">• Divulgation sans consentement en cas d’obligation légale<br data-start=\"6108\" data-end=\"6111\">• Prestataires de services (support, e-mails, paiements, enquêtes, etc.)</p><p data-start=\"6185\" data-end=\"6296\">Nous ne vendons ni ne louons vos données personnelles à des tiers à des fins marketing sans votre consentement.</p><p data-start=\"6334\" data-end=\"6415\">Nous n’utilisons pas vos données pour des décisions automatisées ou du profilage.</p><p data-start=\"6442\" data-end=\"6555\">Conformément à l’article 77 du RGPD, vous avez le droit de déposer une plainte auprès d’une autorité de contrôle.</p>",
+      "bodyText": "Jaxicloud est un sous-traitant de données. Toutes les données sont hébergées chez Wialon (Gurtam) dans des centres de données certifiés ISO/IEC 27001. Processus clairs pour les violations de données, les droits des utilisateurs et la conformité matérielle.Voici comment nous gérons vos donnéesClient = Responsable du traitement des donnéesJaxicloud = Sous-traitantWialon = Sous-sous-traitantLes données sont stockées chez Wialon (UE/autres régions)Durées de conservation : GPS 12 mois, données tachygraphes/journaux 5 ans, vidéo 30 jours, données chauffeurs = durée d’emploiDroits : Accès, rectification, suppression (via l’employeur)Aperçu rapideChiffrement en transit et au repos (Wialon)Accès basé sur les rôles & 2FAAudit & journalisation du supportLes violations de données sont traitées dans un délai de 72 heuresDocumentation & accordsDPA (Jaxicloud ↔ Client)DPA (Jaxicloud ↔ Wialon)Registre des donnéesPolitique de sécurité de l’informationProcessus & procéduresViolation de données : Client +Autorité de protection des données dans les 72 heuresDroits des utilisateurs : réponse sous 30 joursJournalisation & auditTests de restauration des sauvegardesConformité matérielleÉquipements certifiés CE & REDFirmware pouvant être mis à jourChecklist & tests JaxicloudDocumentation fournisseur archivéeFAQ – Questions fréquentesOù les données sont-elles stockées ? → Chez Wialon (ISO 27001).Comment les chauffeurs obtiennent-ils un accès ? → Via l’employeur + Jaxicloud.Comment gérez-vous les violations de données ? → Enregistrement, évaluation, correction, notification sous 72 heures.Votre matériel respecte-t-il les exigences de l’UE ? → Oui, certifié CE/RED et testé.ContactJaxicloud Fleet Management ApSStamholmen 149, 3e étage, 2650 Hvidovre, DanemarkCVR : [insérer]Tél : +45 92901010Mail : info@jaxicloud.comDernière mise à jour : 21 août 2023JaxiCloud Fleet Management (« JaxiCloud », « nous », « notre » ou « nos ») est un développeur de solutions télématiques et IoT. JaxiCloud s’engage à protéger votre vie privée. Cette politique de confidentialité vous explique ce que vous pouvez attendre de nous concernant le traitement de vos informations personnelles lorsque vous nous contactez ou utilisez l’un de nos services.Cette politique de confidentialité s’applique aux sites web (https://jaxicloud.com/ et ses sous-domaines), aux e-mails (info@jaxicloud.com, support@jaxicloud.com, privacy@jaxicloud.com), aux événements en ligne et hors ligne, ainsi qu’aux produits et services détenus ou contrôlés par JaxiCloud et ses sociétés affiliées, y compris mais sans s’y limiter l’application JaxiCloud Fleet Management (« App ») (collectivement nos « Services »). En accédant à nos services ou en les utilisant, vous déclarez avoir lu, compris et accepté notre collecte, conservation, utilisation et divulgation de vos informations personnelles conformément à cette politique de confidentialité.Nous prenons votre vie privée très au sérieux. Toutes les données personnelles seront collectées, stockées et utilisées conformément au Règlement général sur la protection des données (RGPD) de l’UE n° 2016/679 et/ou à toute autre législation applicable.Nous collectons vos données personnelles de plusieurs manières. Parfois automatiquement lorsque vous interagissez avec nos services, parfois directement lorsque vous nous les fournissez.• Prénom et nom• Nom de l’entreprise• Informations financières de l’entreprise• Informations de paiement• Intitulé du poste• Identifiant (à des fins limitées)• Année de naissance• Sexe• Adresse e-mail• Numéro de téléphone• Mot de passe ou code d’accès• Adresse personnelle et informations de localisation associéesInformations de localisation :• Adresse IP• Fuseau horaireInformations sur l’appareil :• Modèle de l’appareil• Identifiants uniques• Système d’exploitation et version• Opérateur mobile et informations réseau• Informations de stockage• Version du systèmeDonnées sur l’utilisation des services :• Fréquence d’utilisation• Zones et fonctionnalités utilisées• Engagement avec des fonctionnalités spécifiquesL’entreprise peut utiliser vos données personnelles pour :• Fournir et maintenir nos services• Gérer votre compte d’utilisateur• Exécuter un contrat• Vous fournir des offres, actualités ou informations pertinentes• Vous contacter (e-mail, téléphone, notifications push, etc.)• Gérer vos demandes• Analyse des données, tendances, efficacité marketing, amélioration des produits et servicesLes bases légales incluent :• Votre consentement• Intérêt légitime• Exécution contractuelle• Obligation légaleNous conservons vos données uniquement le temps nécessaire pour fournir nos services ou respecter nos obligations légales. Lorsque les données ne sont plus nécessaires, elles sont supprimées ou anonymisées.• Droit d’accès• Droit à la portabilité• Droit de rectification• Droit à l’effacement• Droit à la limitation du traitement• Droit d’opposition• Droit de retirer le consentementPour toute question : privacy@jaxicloud.com• Sociétés affiliées• Partenaires tiers avec votre consentement• Divulgation sans consentement en cas d’obligation légale• Prestataires de services (support, e-mails, paiements, enquêtes, etc.)Nous ne vendons ni ne louons vos données personnelles à des tiers à des fins marketing sans votre consentement.Nous n’utilisons pas vos données pour des décisions automatisées ou du profilage.Conformément à l’article 77 du RGPD, vous avez le droit de déposer une plainte auprès d’une autorité de contrôle.",
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "https://jaxicloud.com/",
+          "href": "https://jaxicloud.com/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-a6e2c2f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 2,
+    "sectionCount": 2,
+    "htmlBytes": 14478
+  }
+}

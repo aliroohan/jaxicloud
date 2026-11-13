@@ -10,8 +10,6 @@ const PAGE_TITLES: Record<string, string> = {
   "/admin": "Executive Dashboard",
   "/admin/products": "Hardware Products Catalog",
   "/admin/categories": "Taxonomy Categories",
-  "/admin/bundles": "Hardware Bundles",
-  "/admin/solutions": "Industry Solutions Mappings",
   "/admin/inquiries": "Inbound Proposal Inquiries",
 };
 

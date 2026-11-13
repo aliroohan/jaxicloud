@@ -1,0 +1,679 @@
+{
+  "id": 3252,
+  "slug": "tacho-live-no",
+  "canonicalSlug": "tacho-live",
+  "locale": "nb",
+  "title": "Tacho live – NO",
+  "link": "https://www.jaxicloud.com/nb/tacho-live-no/",
+  "pageKind": "solution",
+  "translations": {
+    "nb": 3252,
+    "da": 2205,
+    "en": 79,
+    "de": 2605,
+    "fr": 2853,
+    "nl": 3053,
+    "sv": 3445,
+    "tr": 3635
+  },
+  "excerpt": "Tacho Simple Den komplette løsningen for digital fartsskriver – Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper [&hellip;]",
+  "seo": {
+    "title": "Tacho live - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-23T01:05:39",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "b6efd74",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b6efd74",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Simple",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5dc8040",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "222aa87",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-222aa87",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Den komplette løsningen for digital fartsskriver - Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f7de7d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f7de7d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.</p><p>Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.</p><p>Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.</p>",
+      "bodyText": "JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "42dc456",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42dc456",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_dcaf2b08678b4e9196850b1573366e07mv2.jpg",
+          "alt": "",
+          "width": 654,
+          "height": 457
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "65f79e6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65f79e6",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_cd4c1fd936184433bf787b1390eab1a3mv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 324
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "7568b72e",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7568b72e",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Manager og Tacho View",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "11837854",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11837854",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Den komplette løsningen for digital fartsskriver – Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk.</p><p>bilde.png<br>JaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.</p><p>Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.</p><p>Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.</p><p>image.png<br>Tacho Manager og Tacho View</p><p>Nye muligheter å jobbe med</p><p>fartsskrivere</p><p>Fartsskriverforskrifter ment å bidra til å håndheve reglene om kjøreperioder</p><p>og overvåke kjøretider for profesjonelle, har hatt stor innvirkning på flåtestyringsindustrien. Og</p><p>siden arbeidet med digitale fartsskrivere har sikret mer nøyaktig registrering og lagring av data, har</p><p>Jaxicloud Fleet Management utviklet nå funksjonen for fjernoverføring av data fra fartsskrivere til</p><p>Jaxicloud Fleet Management. Et skritt videre var utviklingen av andre 2 verktøy, rettet mot</p><p>forbedre arbeidet til integratorer i ett system</p><p>Tacho Manager-appen</p><p>Jaxicloud Fleet Management-kunder kan nå nyte fordelene med Tacho Manager-appen, som bringer de nye fordelene til arbeidet til operatører i internasjonale lastebil- og fraktoperasjoner. Applikasjonen viser aktivitet for hvert tilgjengelig løp, for eksempel distanse, hastighet og kjøretider og hvileperioder for sjåføren, disse filene er analysert og knyttet til sjåfører i Jaxicloud Flet Management og kan lastes opp manuelt via Tacho Manager-</p>",
+      "bodyText": "Den komplette løsningen for digital fartsskriver – Tacho-Live og sjåførenes tidsstyring for å overholde EUs regelverk.bilde.pngJaxiCloud tilbyr en integrert løsning for rapportering av sjåførers kjøre-, arbeids- og hviletider fra fartsskriveren og sjåførkortet. Det sikrer at du alltid betaler riktig lønn og at sjåførene overholder reglene for kjøre- og hviletider. I tillegg hjelper systemet deg med å holde bilparken optimalisert.Jaxicloud-nettapplikasjonen tilbyr et brukervennlig dashbord der kunder enkelt kan spore sjåførenes sanntidsstatus enten de er online eller offline, komplett med detaljert informasjon som spornummer, tilkoblede enheter, plassering og ddd-filrapport.Appen viser også når sjåfører sist ble koblet til et kjøretøy i løpet av de siste 30 dagene.image.pngTacho Manager og Tacho ViewNye muligheter å jobbe medfartsskrivereFartsskriverforskrifter ment å bidra til å håndheve reglene om kjøreperioderog overvåke kjøretider for profesjonelle, har hatt stor innvirkning på flåtestyringsindustrien. Ogsiden arbeidet med digitale fartsskrivere har sikret mer nøyaktig registrering og lagring av data, harJaxicloud Fleet Management utviklet nå funksjonen for fjernoverføring av data fra fartsskrivere tilJaxicloud Fleet Management. Et skritt videre var utviklingen av andre 2 verktøy, rettet motforbedre arbeidet til integratorer i ett systemTacho Manager-appenJaxicloud Fleet Management-kunder kan nå nyte fordelene med Tacho Manager-appen, som bringer de nye fordelene til arbeidet til operatører i internasjonale lastebil- og fraktoperasjoner. Applikasjonen viser aktivitet for hvert tilgjengelig løp, for eksempel distanse, hastighet og kjøretider og hvileperioder for sjåføren, disse filene er analysert og knyttet til sjåfører i Jaxicloud Flet Management og kan lastes opp manuelt via Tacho Manager-",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "83f6882",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-83f6882",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Filene lastes automatisk opp via GPS-trackeren. Dette nye verktøyet støttes nå av flere enheter, inkludert kontrollerene fra ITD og flere andre. Filer lagres og lastes opp av Disketta-applikasjonen . Programgrensesnittet er forenklet til nedlastingslinjen og listen over filer for å hjelpe avsenderen med relevant informasjon.</p>",
+      "bodyText": "Filene lastes automatisk opp via GPS-trackeren. Dette nye verktøyet støttes nå av flere enheter, inkludert kontrollerene fra ITD og flere andre. Filer lagres og lastes opp av Disketta-applikasjonen . Programgrensesnittet er forenklet til nedlastingslinjen og listen over filer for å hjelpe avsenderen med relevant informasjon.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "daca0fa",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-daca0fa",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7bcf5e78435b4f3fbf719423702340fbmv2.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 354
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-34ed951",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "306b04a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-306b04a",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho View ‒ mot en forbedret dataanalyse",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "60a424b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-60a424b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Tatt i betraktning AETR- og EU-spesifikasjonene, har Gurtam gitt ut en annen app kalt Tacho View , som vil være basert på spesifikasjoner for internasjonale veitransportstandarder. Tacho View behandler data mottatt fra fartsskriverfiler. Det gir mulighet til å reflektere førerens aktivitet basert på en såkalt «tidslinje» for bedre visuell analyse. Appen viser kjøretider og hviletider for den registrerte sjåføren. Du kan bruke en kalender (på høyre side) for å velge ønsket dato. Kalenderen kan også skaleres etter behov.</p>",
+      "bodyText": "Tatt i betraktning AETR- og EU-spesifikasjonene, har Gurtam gitt ut en annen app kalt Tacho View , som vil være basert på spesifikasjoner for internasjonale veitransportstandarder. Tacho View behandler data mottatt fra fartsskriverfiler. Det gir mulighet til å reflektere førerens aktivitet basert på en såkalt «tidslinje» for bedre visuell analyse. Appen viser kjøretider og hviletider for den registrerte sjåføren. Du kan bruke en kalender (på høyre side) for å velge ønsket dato. Kalenderen kan også skaleres etter behov.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fa651b9",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa651b9",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "040f771",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-040f771",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Registreringene vurderes på følgende måte: • «Sjåføraktivitet» . Informasjonen vises i en tabell. Ved å velge ønsket dato kan brukeren se den detaljerte sjåførens aktivitet over den angitte perioden. • “Aktivitetsdiagram” . Den valgte tidsperioden er delt inn i dager, hvis informasjon vises i diagrammer (markører korrelerer med visse aktivitetsegenskaper).</p>",
+      "bodyText": "Registreringene vurderes på følgende måte: • «Sjåføraktivitet» . Informasjonen vises i en tabell. Ved å velge ønsket dato kan brukeren se den detaljerte sjåførens aktivitet over den angitte perioden. • “Aktivitetsdiagram” . Den valgte tidsperioden er delt inn i dager, hvis informasjon vises i diagrammer (markører korrelerer med visse aktivitetsegenskaper).",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-fe263b4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "0c1ffc7",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0c1ffc7",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5189a419538745de8e9df538b4989d7amv2-1.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 343
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "ffa6bb3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ffa6bb3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "fa5cf0c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa5cf0c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Oppføringene kan skrives ut i form av en rapport direkte fra appen. I nær fremtid vil Tacho View inneholde spesifikasjoner for alle land der fartsskriverforskrifter er til stede. Og ettersom produsenter forbedrer teknologiene sine hvert år ved å gjøre fartsskrivere enklere å bruke, håper vi at vårt bidrag stimulerer til praksis og garanterer rettferdig konkurranse og internasjonal trafikksikkerhet.</p>",
+      "bodyText": "Oppføringene kan skrives ut i form av en rapport direkte fra appen. I nær fremtid vil Tacho View inneholde spesifikasjoner for alle land der fartsskriverforskrifter er til stede. Og ettersom produsenter forbedrer teknologiene sine hvert år ved å gjøre fartsskrivere enklere å bruke, håper vi at vårt bidrag stimulerer til praksis og garanterer rettferdig konkurranse og internasjonal trafikksikkerhet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-edc9ce7",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 16,
+    "sectionCount": 7,
+    "htmlBytes": 20583
+  }
+}

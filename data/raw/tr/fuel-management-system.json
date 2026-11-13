@@ -1,0 +1,751 @@
+{
+  "id": 3562,
+  "slug": "fuel-management-system-tur",
+  "canonicalSlug": "fuel-management-system",
+  "locale": "tr",
+  "title": "Fuel management system – TUR",
+  "link": "https://www.jaxicloud.com/tr/fuel-management-system-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 3562,
+    "da": 2127,
+    "en": 1087,
+    "de": 2520,
+    "fr": 2777,
+    "nl": 2983,
+    "nb": 3180,
+    "sv": 3372
+  },
+  "excerpt": "Yakıt yönetim sistemi Jaxicloud Filo Yönetimi’nden yakıt yönetim sistemi Büyük filolara sahip şirketler kaçınılmaz olarak yakıt yönetimi sorunlarıyla karşı karşıya kalıyor. Ve bunun iyi bir nedeni var: Yakıt maliyetleri çoğu zaman bir filonun toplam giderlerinin önemli bir bölümünü oluşturur. Bu durumda yakıt izleme sistemi gider hesabını optimize etmek için nihai çözümdür. Yakıt yönetim sistemi, araç [&hellip;]",
+  "seo": {
+    "title": "Yakıt yönetim sistemi - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T15:28:58",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "3036c56",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3036c56",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Yakıt yönetim sistemi",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-9e0a9cb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "67a5b62",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-67a5b62",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Filo Yönetimi'nden yakıt yönetim sistemi",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba05279",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "3e8dff2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3e8dff2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Büyük filolara sahip şirketler kaçınılmaz olarak yakıt yönetimi sorunlarıyla karşı karşıya kalıyor. Ve bunun iyi bir nedeni var: Yakıt maliyetleri çoğu zaman bir filonun toplam giderlerinin önemli bir bölümünü oluşturur. Bu durumda yakıt izleme sistemi gider hesabını optimize etmek için nihai çözümdür.</p><p>Yakıt yönetim sistemi, araç bilgisayarından veya aracın yakıt deposuna takılan satış sonrası yakıt seviyesi sensörlerinden elde edilen verilere dayanmaktadır. Takip sistemine iletilen veriler, yakıt hırsızlıklarının veya aşırı yakıt yanmalarının tespit edilmesini sağlayarak, yakıt maliyetlerinde %15 veya daha fazla tasarruf sağlamanın ve filo verimliliğini %30 veya daha fazla artırmanın yollarını bulmaya yardımcı olur. İstatistiklere göre yakıt kontrolü için Jaxicloud Filo Yönetimi filo yönetim sistemi uygulaması 3-4 ay içerisinde kendini amorti ediyor.</p>",
+      "bodyText": "Büyük filolara sahip şirketler kaçınılmaz olarak yakıt yönetimi sorunlarıyla karşı karşıya kalıyor. Ve bunun iyi bir nedeni var: Yakıt maliyetleri çoğu zaman bir filonun toplam giderlerinin önemli bir bölümünü oluşturur. Bu durumda yakıt izleme sistemi gider hesabını optimize etmek için nihai çözümdür.Yakıt yönetim sistemi, araç bilgisayarından veya aracın yakıt deposuna takılan satış sonrası yakıt seviyesi sensörlerinden elde edilen verilere dayanmaktadır. Takip sistemine iletilen veriler, yakıt hırsızlıklarının veya aşırı yakıt yanmalarının tespit edilmesini sağlayarak, yakıt maliyetlerinde %15 veya daha fazla tasarruf sağlamanın ve filo verimliliğini %30 veya daha fazla artırmanın yollarını bulmaya yardımcı olur. İstatistiklere göre yakıt kontrolü için Jaxicloud Filo Yönetimi filo yönetim sistemi uygulaması 3-4 ay içerisinde kendini amorti ediyor.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba05279",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 2,
+      "elementorId": "81f7948",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-81f7948",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "30%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "483d10d",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-483d10d",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "15%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "6051f92",
+      "widgetType": "counter.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6051f92",
+        "elementor-widget",
+        "elementor-widget-counter"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": "30%",
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1448e3f",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "8d61452",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8d61452",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Filo Yönetimi yakıt tüketimi izleme",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8646831",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "d5f88b8",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d5f88b8",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Akıllı araçlar kullanan yakıt yönetimi için Jaxicloud Filo Yönetim sistemi, operatörün belirli bir zaman periyodu boyunca aracın deposundaki yakıt seviyesi değişimlerinin geçmişini grafik olarak görüntülemesine olanak tanır.</span></p>",
+      "bodyText": "Akıllı araçlar kullanan yakıt yönetimi için Jaxicloud Filo Yönetim sistemi, operatörün belirli bir zaman periyodu boyunca aracın deposundaki yakıt seviyesi değişimlerinin geçmişini grafik olarak görüntülemesine olanak tanır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8646831",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "d5dd28b",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d5dd28b",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_e3bd36c7006e457c918350d91c8e8385mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 564,
+          "height": 339
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "9d98a2f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9d98a2f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Grafikteki herhangi bir noktaya tıkladığınızda tam yakıt seviyesi değerini ve aracın mevcut konumunu görebilirsiniz. Analiz, satış sonrası yakıt seviyesi sensörlerinden (FLS) veya araçtaki yerleşik bilgisayardan (CAN) alınan verilere dayanmaktadır.</span></p>",
+      "bodyText": "Grafikteki herhangi bir noktaya tıkladığınızda tam yakıt seviyesi değerini ve aracın mevcut konumunu görebilirsiniz. Analiz, satış sonrası yakıt seviyesi sensörlerinden (FLS) veya araçtaki yerleşik bilgisayardan (CAN) alınan verilere dayanmaktadır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "a3d5f48",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a3d5f48",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/fuel-value-en-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 575,
+          "height": 346
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "ffd4669",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ffd4669",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Filo Yönetimi yakıt takip sistemi, tüm yakıt dolumları ve olası yakıt hırsızlıkları hakkında kesin tarih, saat, konum ve harita işaretleyicileri, ilk ve son yakıt seviyeleri ve dolum/hırsızlık bilgileri ile raporlar oluşturma yeteneği sağlar. Bu akıllı veriyi kullanarak filo sahipleri genellikle filolarındaki yakıt hırsızlığını %90 oranında azaltabilirler.</span></p>",
+      "bodyText": "Jaxicloud Filo Yönetimi yakıt takip sistemi, tüm yakıt dolumları ve olası yakıt hırsızlıkları hakkında kesin tarih, saat, konum ve harita işaretleyicileri, ilk ve son yakıt seviyeleri ve dolum/hırsızlık bilgileri ile raporlar oluşturma yeteneği sağlar. Bu akıllı veriyi kullanarak filo sahipleri genellikle filolarındaki yakıt hırsızlığını %90 oranında azaltabilirler.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2788d8f",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "3ec9ed1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3ec9ed1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9c2c34909df7454fb522521597899cacmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-20f41d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "c3746be",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c3746be",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_bec4a548f9c64f608043799022a33ff3mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 558,
+          "height": 336
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-20f41d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "95aef04",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-95aef04",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sevkiyat görevlisi, Jaxicloud Filo Yönetim sistemindeki özel raporları kullanarak aracın belirli bir dönemdeki gerçek yakıt tüketimini analiz edebilir, değeri standartla karşılaştırabilir, her bir araç ve tüm filo için tasarrufları ve yakıt tüketimini anında değerlendirebilir.</span></p>",
+      "bodyText": "Sevkiyat görevlisi, Jaxicloud Filo Yönetim sistemindeki özel raporları kullanarak aracın belirli bir dönemdeki gerçek yakıt tüketimini analiz edebilir, değeri standartla karşılaştırabilir, her bir araç ve tüm filo için tasarrufları ve yakıt tüketimini anında değerlendirebilir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff936e4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "6987a3d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6987a3d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Yakıt yönetim sistemi ihtiyaçlarınıza göre uyarlandıktan sonra, Android ve iOS için mevcut Jaxicloud Filo Yönetimi yerel mobil uygulamasını kullanarak akıllı telefonunuzdaki e-posta, SMS ve anlık mesajlar yoluyla yakıt doldurma ve hırsızlıklarla ilgili bildirimler alabilir ve güncel yakıt ikmali hakkında bilgileri görebilirsiniz. Araçtaki yakıt seviyesi. Gerçek zamanlı izlemeyi tercih edenler, ilgili KPI’ları gerçek zamanlı modda izlemek için Dashboard uygulamasını kullanabilir.</span></p>",
+      "bodyText": "Yakıt yönetim sistemi ihtiyaçlarınıza göre uyarlandıktan sonra, Android ve iOS için mevcut Jaxicloud Filo Yönetimi yerel mobil uygulamasını kullanarak akıllı telefonunuzdaki e-posta, SMS ve anlık mesajlar yoluyla yakıt doldurma ve hırsızlıklarla ilgili bildirimler alabilir ve güncel yakıt ikmali hakkında bilgileri görebilirsiniz. Araçtaki yakıt seviyesi. Gerçek zamanlı izlemeyi tercih edenler, ilgili KPI’ları gerçek zamanlı modda izlemek için Dashboard uygulamasını kullanabilir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff936e4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 7,
+      "elementorId": "5a12867",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a12867",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Şirketler, yakıt hırsızlığını ortadan kaldırmak, güvenliği artırmak ve varlıklarını daha iyi takip etmek için Jaxicloud Filo Yönetimi yakıt yönetim sistemini ve bu sistemin işlevselliğine dayalı çözümlerini kullanıyor.</span></p>",
+      "bodyText": "Şirketler, yakıt hırsızlığını ortadan kaldırmak, güvenliği artırmak ve varlıklarını daha iyi takip etmek için Jaxicloud Filo Yönetimi yakıt yönetim sistemini ve bu sistemin işlevselliğine dayalı çözümlerini kullanıyor.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-02bdee4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 7,
+      "elementorId": "0eb1891",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0eb1891",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3c5169c251f641818c1cc195107e21f6mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 548,
+          "height": 331
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-02bdee4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 18,
+    "sectionCount": 8,
+    "htmlBytes": 26081
+  }
+}

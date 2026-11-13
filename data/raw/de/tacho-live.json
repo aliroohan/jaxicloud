@@ -1,0 +1,679 @@
+{
+  "id": 2605,
+  "slug": "tacho-live-de",
+  "canonicalSlug": "tacho-live",
+  "locale": "de",
+  "title": "Tacho live – DE",
+  "link": "https://www.jaxicloud.com/de/tacho-live-de/",
+  "pageKind": "solution",
+  "translations": {
+    "de": 2605,
+    "da": 2205,
+    "en": 79,
+    "fr": 2853,
+    "nl": 3053,
+    "nb": 3252,
+    "sv": 3445,
+    "tr": 3635
+  },
+  "excerpt": "Tacho Simple Die Komplettlösung für digitale Fahrtenschreiber – Tacho-Live – und Fahrerzeitmanagement zur Einhaltung der EU-Vorschriften JaxiCloud bietet eine integrierte Lösung zur Erfassung der Fahr-, Arbeits- und Ruhezeiten Ihrer Fahrer anhand von Fahrtenschreiber und Fahrerkarte. So stellen Sie sicher, dass Sie stets die korrekten Löhne zahlen und die Fahrer die Lenk- und Ruhezeitvorschriften einhalten. Zudem [&hellip;]",
+  "seo": {
+    "title": "Tacho live - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-23T01:02:24",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "b6efd74",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b6efd74",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Simple",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5dc8040",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "222aa87",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-222aa87",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Die Komplettlösung für digitale Fahrtenschreiber – Tacho-Live – und Fahrerzeitmanagement zur Einhaltung der EU-Vorschriften",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f7de7d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f7de7d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JaxiCloud bietet eine integrierte Lösung zur Erfassung der Fahr-, Arbeits- und Ruhezeiten Ihrer Fahrer anhand von Fahrtenschreiber und Fahrerkarte. So stellen Sie sicher, dass Sie stets die korrekten Löhne zahlen und die Fahrer die Lenk- und Ruhezeitvorschriften einhalten. Zudem unterstützt Sie die Lösung bei der Optimierung Ihres Fuhrparks.</p><p>Die JaxiCloud-Webanwendung bietet ein benutzerfreundliches Dashboard, auf dem Kunden den Status ihrer Fahrer in Echtzeit verfolgen können – online wie offline – inklusive detaillierter Informationen wie Zeitfensternummern, verbundene Geräte, Standort und DDD-Dateibericht.</p><p>Die App zeigt außerdem an, wann ein Fahrer in den letzten 30 Tagen zuletzt mit einem Fahrzeug verbunden war.</p>",
+      "bodyText": "JaxiCloud bietet eine integrierte Lösung zur Erfassung der Fahr-, Arbeits- und Ruhezeiten Ihrer Fahrer anhand von Fahrtenschreiber und Fahrerkarte. So stellen Sie sicher, dass Sie stets die korrekten Löhne zahlen und die Fahrer die Lenk- und Ruhezeitvorschriften einhalten. Zudem unterstützt Sie die Lösung bei der Optimierung Ihres Fuhrparks.Die JaxiCloud-Webanwendung bietet ein benutzerfreundliches Dashboard, auf dem Kunden den Status ihrer Fahrer in Echtzeit verfolgen können – online wie offline – inklusive detaillierter Informationen wie Zeitfensternummern, verbundene Geräte, Standort und DDD-Dateibericht.Die App zeigt außerdem an, wann ein Fahrer in den letzten 30 Tagen zuletzt mit einem Fahrzeug verbunden war.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "42dc456",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42dc456",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_dcaf2b08678b4e9196850b1573366e07mv2.jpg",
+          "alt": "",
+          "width": 654,
+          "height": 457
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "65f79e6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65f79e6",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_cd4c1fd936184433bf787b1390eab1a3mv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 324
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "7568b72e",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7568b72e",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Manager und Tacho View",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "11837854",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11837854",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Neue Möglichkeiten für die Arbeit mit Fahrtenschreibern</p><p>Die Fahrtenschreiberverordnung zur Einhaltung der Lenk- und Ruhezeiten von Berufskraftfahrern hat die Flottenmanagementbranche maßgeblich beeinflusst. Da digitale Fahrtenschreiber eine präzisere Datenerfassung und -speicherung ermöglichen, hat Jaxicloud Fleet Management nun die Funktion zur Datenübertragung von Fahrtenschreibern an Jaxicloud Fleet Management entwickelt. Darüber hinaus wurden zwei weitere Tools entwickelt, die die Arbeit von Systemintegratoren optimieren.</p><p>Tacho Manager App</p><p>Kunden von Jaxicloud Fleet Management profitieren ab sofort von der Tacho Manager App, die Spediteuren im internationalen Lkw- und Frachtverkehr neue Vorteile bietet. Die Anwendung zeigt die Aktivitäten jeder verfügbaren Fahrt an, wie z. B. Strecke, Geschwindigkeit, Fahr- und Ruhezeiten des Fahrers. Diese Daten werden analysiert, den Fahrern in Jaxicloud Fleet Management zugeordnet und können manuell über den Tacho Manager hochgeladen werden.</p>",
+      "bodyText": "Neue Möglichkeiten für die Arbeit mit FahrtenschreibernDie Fahrtenschreiberverordnung zur Einhaltung der Lenk- und Ruhezeiten von Berufskraftfahrern hat die Flottenmanagementbranche maßgeblich beeinflusst. Da digitale Fahrtenschreiber eine präzisere Datenerfassung und -speicherung ermöglichen, hat Jaxicloud Fleet Management nun die Funktion zur Datenübertragung von Fahrtenschreibern an Jaxicloud Fleet Management entwickelt. Darüber hinaus wurden zwei weitere Tools entwickelt, die die Arbeit von Systemintegratoren optimieren.Tacho Manager AppKunden von Jaxicloud Fleet Management profitieren ab sofort von der Tacho Manager App, die Spediteuren im internationalen Lkw- und Frachtverkehr neue Vorteile bietet. Die Anwendung zeigt die Aktivitäten jeder verfügbaren Fahrt an, wie z. B. Strecke, Geschwindigkeit, Fahr- und Ruhezeiten des Fahrers. Diese Daten werden analysiert, den Fahrern in Jaxicloud Fleet Management zugeordnet und können manuell über den Tacho Manager hochgeladen werden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "83f6882",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-83f6882",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Die Dateien werden automatisch über den GPS-Tracker hochgeladen. Dieses neue Tool wird nun von verschiedenen Geräten unterstützt, darunter die Steuergeräte von ITD und einige weitere. Dateien werden mit der Anwendung Disketta gespeichert und hochgeladen. Die Programmoberfläche wurde vereinfacht und zeigt nun nur noch die Downloadleiste und die Dateiliste an, um dem Absender alle relevanten Informationen bereitzustellen.</p>",
+      "bodyText": "Die Dateien werden automatisch über den GPS-Tracker hochgeladen. Dieses neue Tool wird nun von verschiedenen Geräten unterstützt, darunter die Steuergeräte von ITD und einige weitere. Dateien werden mit der Anwendung Disketta gespeichert und hochgeladen. Die Programmoberfläche wurde vereinfacht und zeigt nun nur noch die Downloadleiste und die Dateiliste an, um dem Absender alle relevanten Informationen bereitzustellen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "daca0fa",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-daca0fa",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7bcf5e78435b4f3fbf719423702340fbmv2.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 354
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-34ed951",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "306b04a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-306b04a",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho View – hin zu einer verbesserten Datenanalyse",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "60a424b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-60a424b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Nach Berücksichtigung der AETR- und EU-Vorgaben hat Gurtam die App „Tacho View“ veröffentlicht, die auf internationalen Standards für den Straßentransport basiert. Tacho View verarbeitet Daten aus Fahrtenschreiberdateien und visualisiert die Fahreraktivität anhand einer Zeitleiste. Die App zeigt Fahr- und Ruhezeiten des registrierten Fahrers an. Über einen Kalender (rechts) lässt sich das gewünschte Datum auswählen. Der Kalender ist skalierbar.</p>",
+      "bodyText": "Nach Berücksichtigung der AETR- und EU-Vorgaben hat Gurtam die App „Tacho View“ veröffentlicht, die auf internationalen Standards für den Straßentransport basiert. Tacho View verarbeitet Daten aus Fahrtenschreiberdateien und visualisiert die Fahreraktivität anhand einer Zeitleiste. Die App zeigt Fahr- und Ruhezeiten des registrierten Fahrers an. Über einen Kalender (rechts) lässt sich das gewünschte Datum auswählen. Der Kalender ist skalierbar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fa651b9",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa651b9",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "040f771",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-040f771",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die Einträge werden folgendermaßen ausgewertet: • „Fahreraktivität“. Die Informationen werden in einer Tabelle angezeigt. Durch Auswahl des gewünschten Datums kann der Benutzer die detaillierte Fahreraktivität im angegebenen Zeitraum einsehen. • „Aktivitätsdiagramm“. Der ausgewählte Zeitraum wird in Tage unterteilt, wobei die Informationen in Diagrammen dargestellt werden (Markierungen entsprechen bestimmten Aktivitätsmerkmalen).</p>",
+      "bodyText": "Die Einträge werden folgendermaßen ausgewertet: • „Fahreraktivität“. Die Informationen werden in einer Tabelle angezeigt. Durch Auswahl des gewünschten Datums kann der Benutzer die detaillierte Fahreraktivität im angegebenen Zeitraum einsehen. • „Aktivitätsdiagramm“. Der ausgewählte Zeitraum wird in Tage unterteilt, wobei die Informationen in Diagrammen dargestellt werden (Markierungen entsprechen bestimmten Aktivitätsmerkmalen).",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-fe263b4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "0c1ffc7",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0c1ffc7",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5189a419538745de8e9df538b4989d7amv2-1.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 343
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "ffa6bb3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ffa6bb3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "fa5cf0c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa5cf0c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Die Einträge können direkt aus der App als Bericht ausgedruckt werden. In Kürze wird Tacho View Spezifikationen für alle Länder mit Tachographenvorschriften enthalten. Da die Hersteller ihre Technologien jährlich verbessern und die Bedienung von Tachographen vereinfachen, hoffen wir, dass unser Beitrag die Praxis fördert und fairen Wettbewerb sowie internationale Verkehrssicherheit gewährleistet.</p>",
+      "bodyText": "Die Einträge können direkt aus der App als Bericht ausgedruckt werden. In Kürze wird Tacho View Spezifikationen für alle Länder mit Tachographenvorschriften enthalten. Da die Hersteller ihre Technologien jährlich verbessern und die Bedienung von Tachographen vereinfachen, hoffen wir, dass unser Beitrag die Praxis fördert und fairen Wettbewerb sowie internationale Verkehrssicherheit gewährleistet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-edc9ce7",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 16,
+    "sectionCount": 7,
+    "htmlBytes": 19862
+  }
+}

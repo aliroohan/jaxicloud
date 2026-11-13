@@ -1,0 +1,247 @@
+{
+  "id": 3433,
+  "slug": "product-video-sv",
+  "canonicalSlug": "product-video",
+  "locale": "sv",
+  "title": "Product video – SV",
+  "link": "https://www.jaxicloud.com/sv/product-video-sv/",
+  "pageKind": "marketing",
+  "translations": {
+    "sv": 3433,
+    "da": 2193,
+    "en": 21,
+    "de": 2579,
+    "fr": 2840,
+    "nl": 3040,
+    "nb": 3240,
+    "tr": 3622
+  },
+  "excerpt": "JAXICLOUD VIDEO TV https://www.jaxicloud.com/wp-content/uploads/2025/12/Introduction-1-1.mp4https://www.jaxicloud.com/wp-content/uploads/2025/12/monitoring-1-1.mp4 Monitoring-Platform",
+  "seo": {
+    "title": "Product video - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-05T23:29:04",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "c8c9de8",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c8c9de8",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "JAXICLOUD VIDEO TV",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-47e8c56",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 0,
+      "elementorId": "5303885",
+      "widgetType": "spacer.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5303885",
+        "elementor-widget",
+        "elementor-widget-spacer"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-47e8c56",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 0,
+      "elementorId": "82420b2",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82420b2",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_e8bdf289f50349dbba6e5627bd2b15c4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 576,
+          "height": 232
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Introduction-1-1.mp4",
+          "provider": "hosted",
+          "poster": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_e8bdf289f50349dbba6e5627bd2b15c4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "lightbox": true
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-47e8c56",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "1c62bca",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1c62bca",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/Screenshot-2025-10-28-101823.png",
+          "alt": "",
+          "width": 744,
+          "height": 399
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/monitoring-1-1.mp4",
+          "provider": "hosted",
+          "poster": "https://www.jaxicloud.com/wp-content/uploads/2025/10/Screenshot-2025-10-28-101823.png",
+          "lightbox": true
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5287e2d",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "250584d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-250584d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Monitoring-Platform",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5287e2d",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 5,
+    "sectionCount": 2,
+    "htmlBytes": 10695
+  }
+}

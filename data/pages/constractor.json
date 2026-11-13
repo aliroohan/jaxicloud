@@ -1,0 +1,2324 @@
+{
+  "slug": "constractor",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Constractor DA",
+    "en": "Constractor",
+    "de": "Constractor – DE",
+    "fr": "Constractor – FR",
+    "nl": "Constractor – HL",
+    "nb": "Constractor – NO",
+    "sv": "Constractor – SV",
+    "tr": "Constractor – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Konstruktør - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Constractor - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Konstrukteur - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Constructeur - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Aannemer - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Entreprenør - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Entreprenör - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Yükleni̇ci̇ - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/constractor-da/",
+    "en": "https://www.jaxicloud.com/en/constractor/",
+    "de": "https://www.jaxicloud.com/de/constractor-de/",
+    "fr": "https://www.jaxicloud.com/fr/constractor-fr/",
+    "nl": "https://www.jaxicloud.com/nl/constractor-hl/",
+    "nb": "https://www.jaxicloud.com/nb/constractor-no/",
+    "sv": "https://www.jaxicloud.com/sv/constractor-sv/",
+    "tr": "https://www.jaxicloud.com/tr/constractor-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Konstruktør",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Constructor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Konstrukteur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Constructeur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Aannemer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Entreprenør",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Entreprenör",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yükleni̇ci̇",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "richText",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Maskin- og udstyrsløsninger",
+          "bodyHtml": "<p>Maskin- og udstyrsløsninger</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Machine and equipment solutions",
+          "bodyHtml": "<p>Machine and equipment solutions</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "MASCHINEN- UND GERÄTELÖSUNGEN",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">MASCHINEN- UND GERÄTELÖSUNGEN</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Solutions de machines et d’équipements",
+          "bodyHtml": "<p>Solutions de machines et d’équipements</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Machine- en uitrustingsoplossingen",
+          "bodyHtml": "<p>Machine- en uitrustingsoplossingen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Maskin- og utstyrsløsninger",
+          "bodyHtml": "<p>Maskin- og utstyrsløsninger</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Maskin- och utrustningslösningar",
+          "bodyHtml": "<p>Maskin- och utrustningslösningar</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Makine ve ekipman çözümleri",
+          "bodyHtml": "<p>Makine ve ekipman çözümleri</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Smarter kontrol over dine maskiner på byggepladsen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Smarter Control Over Your Machines on Site",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Intelligentere Kontrolle über Ihre Maschinen auf der Baustelle",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Un contrôle plus intelligent de vos machines sur site",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Slimmere controle over uw machines op de bouwplaats",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Smarter kontroll over maskinene dine på byggeplassen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Smartare kontroll över dina maskiner på byggarbetsplatsen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sahada makineleriniz üzerinde daha akıllı kontrol",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "richText",
+      "order": 3,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Styring af entreprenørmaskiner i realtid er ikke længere en luksus — det er en nødvendighed. Vores telematikløsninger giver fuldt overblik over dit udstyr og hjælper dig med at reducere omkostninger, forbedre effektiviteten og forhindre misbrug.Ved at integrere førende platforme som Wialon og hardwareløsninger såsom Xirgo-enheder leverer vi et kraftfuldt system, der er skræddersyet specifikt til byggepladser.Uanset om dine maskiner arbejder på store infrastrukturprojekter, byudvikling eller i afsides områder, har du altid fuld kontrol.",
+          "bodyHtml": "<p data-start=\"827\" data-end=\"1074\">Styring af entreprenørmaskiner i realtid er ikke længere en luksus — det er en nødvendighed. Vores telematikløsninger giver fuldt overblik over dit udstyr og hjælper dig med at reducere omkostninger, forbedre effektiviteten og forhindre misbrug.</p><p data-start=\"1076\" data-end=\"1245\">Ved at integrere førende platforme som Wialon og hardwareløsninger såsom Xirgo-enheder leverer vi et kraftfuldt system, der er skræddersyet specifikt til byggepladser.</p><p data-start=\"1247\" data-end=\"1378\">Uanset om dine maskiner arbejder på store infrastrukturprojekter, byudvikling eller i afsides områder, har du altid fuld kontrol.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Managing construction machinery in real time is no longer a luxury — it’s a necessity. Our telematics solutions provide full visibility into your equipment, helping you reduce costs, improve efficiency, and prevent misuse.By integrating industry-leading platforms like Wialon and hardware solutions such as Xirgo devices, we deliver a powerful system tailored specifically for construction sites.Whether your machines are operating on large infrastructure projects, urban developments, or remote terrains, you always stay in control.",
+          "bodyHtml": "<p data-start=\"327\" data-end=\"549\">Managing construction machinery in real time is no longer a luxury — it’s a necessity. Our telematics solutions provide full visibility into your equipment, helping you reduce costs, improve efficiency, and prevent misuse.</p><p data-start=\"551\" data-end=\"788\">By integrating industry-leading platforms like <span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"><span class=\"whitespace-normal\">Wialon</span></span> and hardware solutions such as <span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"><span class=\"whitespace-normal\">Xirgo</span></span> devices, we deliver a powerful system tailored specifically for construction sites.</p><p data-start=\"790\" data-end=\"927\">Whether your machines are operating on large infrastructure projects, urban developments, or remote terrains, you always stay in control.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Die Verwaltung von Baumaschinen in Echtzeit ist kein Luxus mehr — sondern eine Notwendigkeit. Unsere Telematiklösungen bieten vollständige Transparenz über Ihre Geräte und helfen Ihnen, Kosten zu senken, die Effizienz zu steigern und Missbrauch zu verhindern.Durch die Integration führender Plattformen wie Wialon sowie Hardwarelösungen wie Xirgo-Geräten liefern wir ein leistungsstarkes System, das speziell für Baustellen entwickelt wurde.Ob Ihre Maschinen auf großen Infrastrukturprojekten, in städtischen Entwicklungen oder in abgelegenen Gebieten im Einsatz sind – Sie behalten jederzeit die volle Kontrolle.",
+          "bodyHtml": "<p data-start=\"768\" data-end=\"1029\">Die Verwaltung von Baumaschinen in Echtzeit ist kein Luxus mehr — sondern eine Notwendigkeit. Unsere Telematiklösungen bieten vollständige Transparenz über Ihre Geräte und helfen Ihnen, Kosten zu senken, die Effizienz zu steigern und Missbrauch zu verhindern.</p><p data-start=\"1031\" data-end=\"1215\">Durch die Integration führender Plattformen wie Wialon sowie Hardwarelösungen wie Xirgo-Geräten liefern wir ein leistungsstarkes System, das speziell für Baustellen entwickelt wurde.</p><p data-start=\"1217\" data-end=\"1391\">Ob Ihre Maschinen auf großen Infrastrukturprojekten, in städtischen Entwicklungen oder in abgelegenen Gebieten im Einsatz sind – Sie behalten jederzeit die volle Kontrolle.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "La gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.En intégrant des plateformes leaders du secteur comme Wialon ainsi que des solutions matérielles telles que les appareils Xirgo, nous fournissons un système puissant spécialement conçu pour les chantiers.Que vos machines soient utilisées sur de grands projets d’infrastructure, des développements urbains ou des terrains isolés, vous gardez toujours le contrôle.",
+          "bodyHtml": "<p data-start=\"750\" data-end=\"1005\">La gestion des engins de construction en temps réel n’est plus un luxe — c’est une nécessité. Nos solutions de télématique offrent une visibilité complète sur vos équipements, vous aidant à réduire les coûts, améliorer l’efficacité et prévenir les abus.</p><p data-start=\"1007\" data-end=\"1213\">En intégrant des plateformes leaders du secteur comme Wialon ainsi que des solutions matérielles telles que les appareils Xirgo, nous fournissons un système puissant spécialement conçu pour les chantiers.</p><p data-start=\"1215\" data-end=\"1375\">Que vos machines soient utilisées sur de grands projets d’infrastructure, des développements urbains ou des terrains isolés, vous gardez toujours le contrôle.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het beheren van bouwmachines in realtime is geen luxe meer — het is een noodzaak. Onze telematica-oplossingen bieden volledig inzicht in uw apparatuur en helpen u kosten te verlagen, de efficiëntie te verbeteren en misbruik te voorkomen.Door toonaangevende platforms zoals Wialon en hardwareoplossingen zoals Xirgo-apparaten te integreren, leveren wij een krachtig systeem dat speciaal is afgestemd op bouwplaatsen.Of uw machines nu worden ingezet op grote infrastructuurprojecten, stedelijke ontwikkelingen of afgelegen terreinen, u behoudt altijd de controle.",
+          "bodyHtml": "<p data-start=\"747\" data-end=\"986\">Het beheren van bouwmachines in realtime is geen luxe meer — het is een noodzaak. Onze telematica-oplossingen bieden volledig inzicht in uw apparatuur en helpen u kosten te verlagen, de efficiëntie te verbeteren en misbruik te voorkomen.</p><p data-start=\"988\" data-end=\"1168\">Door toonaangevende platforms zoals Wialon en hardwareoplossingen zoals Xirgo-apparaten te integreren, leveren wij een krachtig systeem dat speciaal is afgestemd op bouwplaatsen.</p><p data-start=\"1170\" data-end=\"1318\">Of uw machines nu worden ingezet op grote infrastructuurprojecten, stedelijke ontwikkelingen of afgelegen terreinen, u behoudt altijd de controle.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Å administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.Ved å integrere ledende plattformer som Wialon og maskinvareløsninger som Xirgo-enheter leverer vi et kraftig system skreddersydd spesielt for byggeplasser.Enten maskinene dine opererer på store infrastrukturprosjekter, i urbane områder eller i avsidesliggende terreng, har du alltid full kontroll.",
+          "bodyHtml": "<p data-start=\"750\" data-end=\"992\">Å administrere anleggsmaskiner i sanntid er ikke lenger en luksus — det er en nødvendighet. Våre telematikkløsninger gir full oversikt over utstyret ditt og hjelper deg med å redusere kostnader, forbedre effektiviteten og forhindre misbruk.</p><p data-start=\"994\" data-end=\"1152\">Ved å integrere ledende plattformer som Wialon og maskinvareløsninger som Xirgo-enheter leverer vi et kraftig system skreddersydd spesielt for byggeplasser.</p><p data-start=\"1154\" data-end=\"1298\">Enten maskinene dine opererer på store infrastrukturprosjekter, i urbane områder eller i avsidesliggende terreng, har du alltid full kontroll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Att hantera entreprenadmaskiner i realtid är inte längre en lyx — det är en nödvändighet. Våra telematiklösningar ger full insyn i din utrustning och hjälper dig att minska kostnader, förbättra effektiviteten och förhindra missbruk.Genom att integrera ledande plattformar som Wialon och hårdvarulösningar som Xirgo-enheter levererar vi ett kraftfullt system som är särskilt anpassat för byggarbetsplatser.Oavsett om dina maskiner används på stora infrastrukturprojekt, stadsutveckling eller i avlägsna områden har du alltid full kontroll.",
+          "bodyHtml": "<p data-start=\"751\" data-end=\"985\">Att hantera entreprenadmaskiner i realtid är inte längre en lyx — det är en nödvändighet. Våra telematiklösningar ger full insyn i din utrustning och hjälper dig att minska kostnader, förbättra effektiviteten och förhindra missbruk.</p><p data-start=\"987\" data-end=\"1162\">Genom att integrera ledande plattformar som Wialon och hårdvarulösningar som Xirgo-enheter levererar vi ett kraftfullt system som är särskilt anpassat för byggarbetsplatser.</p><p data-start=\"1164\" data-end=\"1299\">Oavsett om dina maskiner används på stora infrastrukturprojekt, stadsutveckling eller i avlägsna områden har du alltid full kontroll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "İnşaat makinelerini gerçek zamanlı yönetmek artık bir lüks değil — bir gerekliliktir. Telematik çözümlerimiz ekipmanlarınız üzerinde tam görünürlük sağlar, maliyetleri azaltmanıza, verimliliği artırmanıza ve kötüye kullanımı önlemenize yardımcı olur.Wialon gibi sektör lideri platformları ve Xirgo cihazları gibi donanım çözümlerini entegre ederek, özellikle şantiyeler için tasarlanmış güçlü bir sistem sunuyoruz.Makineleriniz büyük altyapı projelerinde, kentsel gelişim alanlarında veya uzak bölgelerde çalışıyor olsa da her zaman kontrol sizde olur.",
+          "bodyHtml": "<p data-start=\"753\" data-end=\"1005\">İnşaat makinelerini gerçek zamanlı yönetmek artık bir lüks değil — bir gerekliliktir. Telematik çözümlerimiz ekipmanlarınız üzerinde tam görünürlük sağlar, maliyetleri azaltmanıza, verimliliği artırmanıza ve kötüye kullanımı önlemenize yardımcı olur.</p><p data-start=\"1007\" data-end=\"1173\">Wialon gibi sektör lideri platformları ve Xirgo cihazları gibi donanım çözümlerini entegre ederek, özellikle şantiyeler için tasarlanmış güçlü bir sistem sunuyoruz.</p><p data-start=\"1175\" data-end=\"1315\">Makineleriniz büyük altyapı projelerinde, kentsel gelişim alanlarında veya uzak bölgelerde çalışıyor olsa da her zaman kontrol sizde olur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/04/6cNVzdEvCkvObi0yaIW9W-LmKofRSuERcfPXAZ9o92cOzjiOOYKsCIGqxDG17P3o06Qwm3RnH7TiCY8LqcHVquv2bB3GZG4i5e97842nuC5W6xeR6GK9gjhctojYEp1zv81IDi0REAZNoiu8LioBi79k5kStmWAue3nWv1GNeBtdv5tYCYrMqO2qkFsLixcN-1024x681.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/6cNVzdEvCkvObi0yaIW9W-LmKofRSuERcfPXAZ9o92cOzjiOOYKsCIGqxDG17P3o06Qwm3RnH7TiCY8LqcHVquv2bB3GZG4i5e97842nuC5W6xeR6GK9gjhctojYEp1zv81IDi0REAZNoiu8LioBi79k5kStmWAue3nWv1GNeBtdv5tYCYrMqO2qkFsLixcN-1024x681.jpg",
+          "width": 800,
+          "height": 532
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "videoEmbed",
+      "order": 5,
+      "sectionIndex": 3,
+      "widgetType": "video.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_9257e5f8f3ce47a4bbc8ce184443fe85/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "IoT-aktiverede maskiner",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Iot-enabled machinery",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Iot-fähige maschinen- und ausrüstungslösung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution de machines et d'équipements compatibles avec l'iot",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Iot-geschikte machine- en apparatuuroplossing",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Iot-aktivert løsning for maskin og utstyr",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Iot-kompatibla maskin- och utrustningslösning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Iot destekli̇ maki̇ne ve eki̇pman çözümü",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Mange typer maskiner og udstyr, såsom læssere, gravemaskiner, bulldozere, dumpere, vejtromler og blandere, kan bruges i et byggeprojekt. Som ejere, ledere eller operatører af byggefirmaer kan du vælge enten at købe eller leje udstyr eller maskiner til dine behov.",
+          "bodyHtml": "<p>Mange typer maskiner og udstyr, såsom læssere, gravemaskiner, bulldozere, dumpere, vejtromler og blandere, kan bruges i et byggeprojekt. Som ejere, ledere eller operatører af byggefirmaer kan du vælge enten at købe eller leje udstyr eller maskiner til dine behov.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Many types of machinery and equipment, such as loaders, excavators, dozers, dumpers, road rollers, mixers can be used in a construction project. As owners, managers or operators of construction companies, you can choose to either buy or rent equipment or machinery for your needs.",
+          "bodyHtml": "<p>Many types of machinery and equipment, such as loaders, excavators, dozers, dumpers, road rollers, mixers can be used in a construction project. As owners, managers or operators of construction companies, you can choose to either buy or rent equipment or machinery for your needs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Bei einem Bauprojekt können viele Arten von Maschinen und Geräten zum Einsatz kommen, beispielsweise Lader, Bagger, Planierraupen, Muldenkipper, Straßenwalzen und Mischer. Als Eigentümer, Manager oder Betreiber eines Bauunternehmens können Sie die für Ihren Bedarf benötigte Ausrüstung bzw. Maschinen entweder kaufen oder mieten. Unabhängig davon wird es die größte Kapitalinvestition sein. Unterauslastung, Leerlauf, Ausfallzeiten, hoher Kraftstoffverbrauch oder Diebstahl haben erhebliche Folgen für Ihre Kapitalrendite, Produktivität und Ihren Ruf.",
+          "bodyHtml": "<p>Bei einem Bauprojekt können viele Arten von Maschinen und Geräten zum Einsatz kommen, beispielsweise Lader, Bagger, Planierraupen, Muldenkipper, Straßenwalzen und Mischer. Als Eigentümer, Manager oder Betreiber eines Bauunternehmens können Sie die für Ihren Bedarf benötigte Ausrüstung bzw. Maschinen entweder kaufen oder mieten. Unabhängig davon wird es die größte Kapitalinvestition sein. Unterauslastung, Leerlauf, Ausfallzeiten, hoher Kraftstoffverbrauch oder Diebstahl haben erhebliche Folgen für Ihre Kapitalrendite, Produktivität und Ihren Ruf.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "De nombreux types de machines et d’équipements, tels que les chargeuses, les excavatrices, les bulldozers, les tombereaux, les rouleaux compresseurs et les malaxeurs, peuvent être utilisés dans un projet de construction. En tant que propriétaires, gestionnaires ou exploitants d’entreprises de construction, vous pouvez choisir d’acheter ou de louer des équipements ou des machines adaptés à vos besoins. Dans tous les cas, il s’agira d’un investissement important. La sous-utilisation, la marche au ralenti, les temps d’arrêt, la consommation de carburant élevée ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.",
+          "bodyHtml": "<p>De nombreux types de machines et d’équipements, tels que les chargeuses, les excavatrices, les bulldozers, les tombereaux, les rouleaux compresseurs et les malaxeurs, peuvent être utilisés dans un projet de construction. En tant que propriétaires, gestionnaires ou exploitants d’entreprises de construction, vous pouvez choisir d’acheter ou de louer des équipements ou des machines adaptés à vos besoins. Dans tous les cas, il s’agira d’un investissement important. La sous-utilisation, la marche au ralenti, les temps d’arrêt, la consommation de carburant élevée ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "In een bouwproject kunnen veel soorten machines en uitrusting worden gebruikt, zoals laders, graafmachines, bulldozers, dumpers, walsen en mixers. Als eigenaren, managers of exploitanten van bouwbedrijven kunt u ervoor kiezen om materieel of machines te kopen of huren voor uw behoeften. Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Ondergebruik, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw investeringsrendement, productiviteit en reputatie.",
+          "bodyHtml": "<p>In een bouwproject kunnen veel soorten machines en uitrusting worden gebruikt, zoals laders, graafmachines, bulldozers, dumpers, walsen en mixers. Als eigenaren, managers of exploitanten van bouwbedrijven kunt u ervoor kiezen om materieel of machines te kopen of huren voor uw behoeften. Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Ondergebruik, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw investeringsrendement, productiviteit en reputatie.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Mange typer maskiner og utstyr som lastere, gravemaskiner, dozere, dumpere, veivalser, blandere kan brukes i et byggeprosjekt. Som eiere, ledere eller operatører av byggefirmaer kan du velge å enten kjøpe eller leie utstyr eller maskiner for dine behov. Det vil uansett være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelig innvirkning på din avkastning, produktivitet og omdømme.",
+          "bodyHtml": "<p>Mange typer maskiner og utstyr som lastere, gravemaskiner, dozere, dumpere, veivalser, blandere kan brukes i et byggeprosjekt. Som eiere, ledere eller operatører av byggefirmaer kan du velge å enten kjøpe eller leie utstyr eller maskiner for dine behov. Det vil uansett være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelig innvirkning på din avkastning, produktivitet og omdømme.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Många typer av maskiner och utrustning, såsom lastmaskiner, grävmaskiner, bulldozers, dumprar, vägvältar och blandare, kan användas i ett byggprojekt. Som ägare, chefer eller operatörer av byggföretag kan du välja att antingen köpa eller hyra utrustning eller maskiner för dina behov. Oavsett vilket kommer det att vara den största kapitalinvesteringen. Underutnyttjande, tomgångskörning, driftstopp, hög bränsleförbrukning eller stöld kommer att få betydande konsekvenser för din avkastning på investeringen, produktivitet och rykte.",
+          "bodyHtml": "<p>Många typer av maskiner och utrustning, såsom lastmaskiner, grävmaskiner, bulldozers, dumprar, vägvältar och blandare, kan användas i ett byggprojekt. Som ägare, chefer eller operatörer av byggföretag kan du välja att antingen köpa eller hyra utrustning eller maskiner för dina behov. Oavsett vilket kommer det att vara den största kapitalinvesteringen. Underutnyttjande, tomgångskörning, driftstopp, hög bränsleförbrukning eller stöld kommer att få betydande konsekvenser för din avkastning på investeringen, produktivitet och rykte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bir inşaat projesinde yükleyici, ekskavatör, dozer, damperli kamyon, yol silindiri, mikser gibi pek çok türde makine ve ekipman kullanılabilmektedir. İnşaat şirketlerinin sahibi, yöneticisi veya işletmecisi olarak ihtiyaçlarınıza uygun ekipman veya makine satın almayı veya kiralamayı seçebilirsiniz. Ne olursa olsun, en büyük sermaye yatırımı olacak. Yetersiz kullanım, rölanti, arıza süresi, yüksek yakıt tüketimi veya hırsızlık, yatırım getiriniz, üretkenliğiniz ve itibarınız üzerinde önemli etkiler yaratacaktır.",
+          "bodyHtml": "<p>Bir inşaat projesinde yükleyici, ekskavatör, dozer, damperli kamyon, yol silindiri, mikser gibi pek çok türde makine ve ekipman kullanılabilmektedir. İnşaat şirketlerinin sahibi, yöneticisi veya işletmecisi olarak ihtiyaçlarınıza uygun ekipman veya makine satın almayı veya kiralamayı seçebilirsiniz. Ne olursa olsun, en büyük sermaye yatırımı olacak. Yetersiz kullanım, rölanti, arıza süresi, yüksek yakıt tüketimi veya hırsızlık, yatırım getiriniz, üretkenliğiniz ve itibarınız üzerinde önemli etkiler yaratacaktır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Udstyrsløsning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Equipment solution",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Gerätelösung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Solution d'équipement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Apparatuur oplossing",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Utstyrsløsning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Utrustningslösning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "richText",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Uanset hvad vil det være den største kapitalinvestering. Underudnyttelse, tomgang, nedetid, højt brændstofforbrug eller tyveri vil have betydelige konsekvenser for dit investeringsafkast, produktivitet og omdømme.",
+          "bodyHtml": "<p>Uanset hvad vil det være den største kapitalinvestering. Underudnyttelse, tomgang, nedetid, højt brændstofforbrug eller tyveri vil have betydelige konsekvenser for dit investeringsafkast, produktivitet og omdømme.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Either way, it will be the largest capital investment. Underutilization, idling, downtime, high fuel consumption or theft will have significant consequences for your return on investment, productivity and reputation.",
+          "bodyHtml": "<p>Either way, it will be the largest capital investment. Underutilization, idling, downtime, high fuel consumption or theft will have significant consequences for your return on investment, productivity and reputation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "In jedem Fall handelt es sich um die größte Kapitalinvestition. Unterauslastung, Leerlaufzeiten, Ausfallzeiten, hoher Kraftstoffverbrauch oder Diebstahl werden erhebliche Folgen für Ihre Kapitalrendite, Produktivität und Ihren Ruf haben.",
+          "bodyHtml": "<p>In jedem Fall handelt es sich um die größte Kapitalinvestition. Unterauslastung, Leerlaufzeiten, Ausfallzeiten, hoher Kraftstoffverbrauch oder Diebstahl werden erhebliche Folgen für Ihre Kapitalrendite, Produktivität und Ihren Ruf haben.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Dans tous les cas, il s’agira de l’investissement le plus important. La sous-utilisation, le fonctionnement au ralenti, les temps d’arrêt, une consommation de carburant excessive ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.",
+          "bodyHtml": "<p>Dans tous les cas, il s’agira de l’investissement le plus important. La sous-utilisation, le fonctionnement au ralenti, les temps d’arrêt, une consommation de carburant excessive ou le vol auront des conséquences importantes sur votre retour sur investissement, votre productivité et votre réputation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Onderbenutting, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw rendement op investering, productiviteit en reputatie.",
+          "bodyHtml": "<p>Hoe dan ook, het zal de grootste kapitaalinvestering zijn. Onderbenutting, stationair draaien, stilstand, hoog brandstofverbruik of diefstal zullen aanzienlijke gevolgen hebben voor uw rendement op investering, productiviteit en reputatie.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Uansett vil det være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelige konsekvenser for avkastning på investeringen, produktivitet og omdømme.",
+          "bodyHtml": "<p>Uansett vil det være den største kapitalinvesteringen. Underutnyttelse, tomgang, nedetid, høyt drivstofforbruk eller tyveri vil ha betydelige konsekvenser for avkastning på investeringen, produktivitet og omdømme.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Hur som helst kommer det att vara den största kapitalinvesteringen. Underutnyttjande, tomgångskörning, driftstopp, hög bränsleförbrukning eller stöld kommer att få betydande konsekvenser för din avkastning på investeringen, produktivitet och rykte.",
+          "bodyHtml": "<p>Hur som helst kommer det att vara den största kapitalinvesteringen. Underutnyttjande, tomgångskörning, driftstopp, hög bränsleförbrukning eller stöld kommer att få betydande konsekvenser för din avkastning på investeringen, produktivitet och rykte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "videoEmbed",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "video.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_0ecf3f503fcc4b258bda60719423083e/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "image",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/04/YwveSPqwsc3so0cws-Z1sJzYDLjiQWEPiduSPhLn107SZuVGq5Eg7J8gSHH6nWxtTLZIiDuiDCHx8pi_VXZ8jm86f5OnfmOHIBSxpcbBwKCyrhQzxgazm5gg8ZH08_mhuE7uyLUbQQWM9hiDj8vIRu2usT-thcJlFAOb7AHqFSoq9DuGIvGeG1KaON09uWl4-1024x755.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/YwveSPqwsc3so0cws-Z1sJzYDLjiQWEPiduSPhLn107SZuVGq5Eg7J8gSHH6nWxtTLZIiDuiDCHx8pi_VXZ8jm86f5OnfmOHIBSxpcbBwKCyrhQzxgazm5gg8ZH08_mhuE7uyLUbQQWM9hiDj8vIRu2usT-thcJlFAOb7AHqFSoq9DuGIvGeG1KaON09uWl4-1024x755.jpg",
+          "width": 800,
+          "height": 590
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "heading",
+      "order": 12,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Komplet maskinovervågning i realtid",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Complete Machine Monitoring in Real Time",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Umfassende Maschinenüberwachung in Echtzeit",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance complète des machines en temps réel",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Volledige machinebewaking in realtime",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fullstendig maskinovervåking i sanntid",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fullständig maskinövervakning i realtid",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Verimliliği artırın ve maliyetleri azaltın",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "richText",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Vi tilbyder avanceret sporing og overvågning af alle kritiske maskinparametre:Alle data er tilgængelige i et centralt dashboard, som giver dig indsigt i realtid.",
+          "bodyHtml": "<p data-start=\"2194\" data-end=\"2272\">Vi tilbyder avanceret sporing og overvågning af alle kritiske maskinparametre:</p><p>Alle data er tilgængelige i et centralt dashboard, som giver dig indsigt i realtid.</p>",
+          "listItems": [
+            "GPS-sporing og bevægelseshistorik – Se præcis hvor dine maskiner er, og hvordan de bruges",
+            "CAN Bus dataintegration – Få adgang til motordata, RPM, arbejdstimer og driftsstatus",
+            "Overvågning af brændstofniveau (sonder) – Opdag tyveri og sikr præcis registrering af forbrug",
+            "Brændstofforbrug (flowmålere) – Mål det faktiske forbrug med høj præcision",
+            "Vægtsensorer og lastovervågning – Følg produktivitet og undgå overbelastning",
+            "Tomgangstid og udnyttelsesanalyse –",
+            "Optimer brug og reducer nedetid"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "We provide advanced tracking and monitoring of all critical machine parameters:All data is available in a centralized dashboard, giving you actionable insights in real time.",
+          "bodyHtml": "<p data-start=\"1020\" data-end=\"1099\">We provide advanced tracking and monitoring of all critical machine parameters:</p><p data-start=\"1657\" data-end=\"1751\">All data is available in a centralized dashboard, giving you actionable insights in real time.</p>",
+          "listItems": [
+            "GPS tracking & movement history – Know exactly where your machines are and how they are used",
+            "CAN Bus data integration – Access engine data, RPM, working hours, and operational status",
+            "Fuel level monitoring (probes) – Detect fuel theft and ensure accurate consumption tracking",
+            "Fuel consumption (flowmeters) – Measure real fuel usage with high precision",
+            "Weight sensors & load monitoring – Track productivity and prevent overloading",
+            "Idle time & utilization analysis – Optimize machine usage and reduce downtime"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wir bieten fortschrittliches Tracking und Monitoring aller kritischen Maschinenparameter:Alle Daten sind in einem zentralen Dashboard verfügbar und liefern Ihnen verwertbare Erkenntnisse in Echtzeit.",
+          "bodyHtml": "<p data-start=\"2215\" data-end=\"2304\">Wir bieten fortschrittliches Tracking und Monitoring aller kritischen Maschinenparameter:</p><p data-start=\"2935\" data-end=\"3047\">Alle Daten sind in einem zentralen Dashboard verfügbar und liefern Ihnen verwertbare Erkenntnisse in Echtzeit.</p>",
+          "listItems": [
+            "GPS-Tracking und Bewegungsverlauf – Wissen Sie genau, wo sich Ihre Maschinen befinden und wie sie genutzt werden",
+            "CAN-Bus-Datenintegration – Zugriff auf Motordaten, Drehzahl,",
+            "Betriebsstunden und Status",
+            "Überwachung des Kraftstoffstands (Sonden) – Erkennen Sie Diebstahl und sichern Sie eine genaue",
+            "Verbrauchserfassung Kraftstoffverbrauch (Durchflussmesser) – Messen Sie den tatsächlichen Verbrauch mit hoher Präzision",
+            "Gewichtssensoren und Lastüberwachung – Verfolgen Sie die Produktivität und vermeiden Sie",
+            "Überlastung Leerlaufzeit – und Auslastungsanalyse –",
+            "Optimieren Sie die Nutzung und reduzieren Sie Ausfallzeiten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Nous proposons un suivi et une surveillance avancés de tous les paramètres critiques des machines :Toutes les données sont disponibles dans un tableau de bord centralisé, vous offrant des informations exploitables en temps réel.",
+          "bodyHtml": "<p data-start=\"2204\" data-end=\"2303\">Nous proposons un suivi et une surveillance avancés de tous les paramètres critiques des machines :</p><p data-start=\"3001\" data-end=\"3132\">Toutes les données sont disponibles dans un tableau de bord centralisé, vous offrant des informations exploitables en temps réel.</p>",
+          "listItems": [
+            "Suivi GPS et historique des déplacements – Sachez précisément où se trouvent vos machines et comment elles sont utilisées",
+            "Intégration des données CAN Bus – Accédez aux données moteur, au régime (RPM), aux heures de fonctionnement et au statut opérationnel",
+            "Surveillance du niveau de carburant (sondes) – Détectez les vols de carburant et assurez un suivi précis de la consommation",
+            "Consommation de carburant (débitmètres) – Mesurez la consommation réelle avec une grande précision",
+            "Capteurs de poids et surveillance de charge – Suivez la productivité et évitez les surcharges",
+            "Analyse du temps d’inactivité et d’utilisation – Optimisez l’usage des machines et réduisez les temps d’arrêt"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Wij bieden geavanceerde tracking en monitoring van alle kritieke machineparameters:Alle gegevens zijn beschikbaar in een gecentraliseerd dashboard, waardoor u realtime inzichten krijgt.",
+          "bodyHtml": "<p data-start=\"2136\" data-end=\"2219\">Wij bieden geavanceerde tracking en monitoring van alle kritieke machineparameters:</p><p data-start=\"2804\" data-end=\"2908\">Alle gegevens zijn beschikbaar in een gecentraliseerd dashboard, waardoor u realtime inzichten krijgt.</p>",
+          "listItems": [
+            "GPS-tracking en bewegingsgeschiedenis – Weet precies waar uw machines zich bevinden en hoe ze worden gebruikt",
+            "CAN-bus data-integratie – Toegang tot motorgegevens, toerental (RPM), werkuren en operationele status",
+            "Brandstofniveau monitoring (sondes) – Detecteer brandstofdiefstal en zorg voor nauwkeurige verbruiksregistratie",
+            "Brandstofverbruik (flowmeters) – Meet het werkelijke verbruik met hoge precisie",
+            "Gewichtssensoren en lastbewaking – Volg productiviteit en voorkom overbelasting",
+            "Stationaire tijd en gebruiksanalyse – Optimaliseer het gebruik en verminder stilstand"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Vi tilbyr avansert sporing og overvåking av alle kritiske maskinparametere:Alle data er tilgjengelige i et sentralisert dashbord som gir deg innsikt i sanntid.",
+          "bodyHtml": "<p data-start=\"2117\" data-end=\"2192\">Vi tilbyr avansert sporing og overvåking av alle kritiske maskinparametere:</p><p data-start=\"2716\" data-end=\"2802\"><br>Alle data er tilgjengelige i et sentralisert dashbord som gir deg innsikt i sanntid.</p>",
+          "listItems": [
+            "GPS-sporing og bevegelseshistorikk – Vit nøyaktig hvor maskinene dine er og hvordan de brukes",
+            "CAN-buss dataintegrasjon – Få tilgang til motordata, turtall (RPM), arbeidstimer og driftsstatus",
+            "Overvåking av drivstoffnivå (sonder) – Oppdag drivstofftyveri og sikre nøyaktig forbruksregistrering",
+            "Drivstofforbruk (flowmålere) – Mål faktisk forbruk med høy presisjon",
+            "Vektsensorer og lastovervåking – Følg produktivitet og unngå overbelastning",
+            "Tomgangstid og utnyttelsesanalyse – Optimaliser bruk og reduser nedetid"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Vi erbjuder avancerad spårning och övervakning av alla kritiska maskinparametrar:All data är tillgänglig i en centraliserad dashboard som ger dig insikter i realtid.",
+          "bodyHtml": "<p data-start=\"2119\" data-end=\"2200\">Vi erbjuder avancerad spårning och övervakning av alla kritiska maskinparametrar:</p><p data-start=\"2741\" data-end=\"2827\">All data är tillgänglig i en centraliserad dashboard som ger dig insikter i realtid.</p>",
+          "listItems": [
+            "GPS-spårning och rörelsehistorik – Vet exakt var dina maskiner är och hur de används",
+            "CAN-bussdataintegration – Få tillgång till motordata, varvtal (RPM), arbetstimmar och driftstatus",
+            "Bränslenivåövervakning (sonder) – Upptäck bränslestöld och säkerställ noggrann förbrukningsuppföljning",
+            "Bränsleförbrukning (flödesmätare) – Mät verklig förbrukning med hög precision",
+            "Viktsensorer och lastövervakning – Följ produktivitet och förhindra överbelastning",
+            "Tomgångstid och användningsanalys – Optimera användning och minska stillestånd"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Telematik çözümlerimiz verileri gerçek tasarruflara dönüştürmenize yardımcı olur:Detaylı analiz ve raporlama ile her gün daha akıllı operasyonel kararlar alabilirsiniz.",
+          "bodyHtml": "<p data-start=\"3375\" data-end=\"3456\">Telematik çözümlerimiz verileri gerçek tasarruflara dönüştürmenize yardımcı olur:</p><p data-start=\"3641\" data-end=\"3730\">Detaylı analiz ve raporlama ile her gün daha akıllı operasyonel kararlar alabilirsiniz.</p>",
+          "listItems": [
+            "Doğru takip ile yakıt maliyetlerini azaltın",
+            "Hırsızlığı ve yetkisiz kullanımı önleyin",
+            "Bakım planlamasını optimize edin",
+            "Makine ömrünü uzatın",
+            "Filo genel verimliliğini artırın"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "videoEmbed",
+      "order": 14,
+      "sectionIndex": 5,
+      "widgetType": "video.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/11062b_1bbeafb5adb44aa2b5f3d03dd00c45bf/1080p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "heading",
+      "order": 15,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Forbedr effektiviteten og reducer omkostninger",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Improve Efficiency and Reduce Costs",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Effizienz steigern und Kosten senken",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Améliorez l’efficacité et réduisez les coûts",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Verbeter efficiëntie en verlaag kosten",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Forbedre effektivitet og reduser kostnader",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Förbättra effektiviteten och minska kostnaderna",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "richText",
+      "order": 16,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Vores telematikløsninger hjælper dig med at omdanne data til reelle besparelser:Med detaljeret analyse og rapportering kan du træffe bedre beslutninger hver dag.",
+          "bodyHtml": "<p data-start=\"3328\" data-end=\"3408\">Vores telematikløsninger hjælper dig med at omdanne data til reelle besparelser:</p><p data-start=\"3604\" data-end=\"3687\">Med detaljeret analyse og rapportering kan du træffe bedre beslutninger hver dag.</p>",
+          "listItems": [
+            "Reducer brændstofomkostninger med præcis sporing",
+            "Forebyg tyveri og uautoriseret brug",
+            "Optimer vedligeholdelsesplanlægning",
+            "Forlæng maskinernes levetid",
+            "Øg den samlede flådeproduktivitet"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Our telematics solutions help you turn data into real savings:With detailed analytics and reporting, you can make smarter operational decisions every day.",
+          "bodyHtml": "<p data-start=\"2402\" data-end=\"2464\">Our telematics solutions help you turn data into real savings:</p><p data-start=\"2660\" data-end=\"2752\">With detailed analytics and reporting, you can make smarter operational decisions every day.</p>",
+          "listItems": [
+            "Reduce fuel costs through accurate tracking",
+            "Prevent theft and unauthorized usage",
+            "Optimize maintenance scheduling",
+            "Extend machine lifespan",
+            "Increase overall fleet productivity"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Unsere Telematiklösungen helfen Ihnen, Daten in echte Einsparungen umzuwandeln:Mit detaillierten Analysen und Berichten treffen Sie jeden Tag bessere Entscheidungen.",
+          "bodyHtml": "<p data-start=\"3504\" data-end=\"3583\">Unsere Telematiklösungen helfen Ihnen, Daten in echte Einsparungen umzuwandeln:</p><p data-start=\"3827\" data-end=\"3915\">Mit detaillierten Analysen und Berichten treffen Sie jeden Tag bessere Entscheidungen.</p>",
+          "listItems": [
+            "Reduzieren Sie Kraftstoffkosten durch präzises Tracking",
+            "Verhindern Sie Diebstahl und unbefugte Nutzung",
+            "Optimieren Sie Wartungsplanung",
+            "Verlängern Sie die Lebensdauer Ihrer Maschinen",
+            "Steigern Sie die Gesamtproduktivität Ihrer Flotte"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Nos solutions de télématique vous aident à transformer les données en économies réelles :Grâce à des analyses détaillées et des rapports, vous pouvez prendre de meilleures décisions opérationnelles chaque jour.",
+          "bodyHtml": "<p data-start=\"3597\" data-end=\"3686\">Nos solutions de télématique vous aident à transformer les données en économies réelles :</p><p data-start=\"3942\" data-end=\"4065\">Grâce à des analyses détaillées et des rapports, vous pouvez prendre de meilleures décisions opérationnelles chaque jour.</p>",
+          "listItems": [
+            "Réduisez les coûts de carburant grâce à un suivi précis",
+            "Prévenez les vols et les utilisations non autorisées",
+            "Optimisez la planification de la maintenance",
+            "Prolongez la durée de vie des machines",
+            "Augmentez la productivité globale de votre flotte"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Onze telematica-oplossingen helpen u om data om te zetten in echte besparingen:Met gedetailleerde analyses en rapportages kunt u elke dag betere operationele beslissingen nemen.",
+          "bodyHtml": "<p data-start=\"3367\" data-end=\"3446\">Onze telematica-oplossingen helpen u om data om te zetten in echte besparingen:</p><p data-start=\"3666\" data-end=\"3766\">Met gedetailleerde analyses en rapportages kunt u elke dag betere operationele beslissingen nemen.</p>",
+          "listItems": [
+            "Verlaag brandstofkosten door nauwkeurige tracking",
+            "Voorkom diefstal en ongeautoriseerd gebruik",
+            "Optimaliseer onderhoudsplanning",
+            "Verleng de levensduur van machines",
+            "Verhoog de totale productiviteit van uw vloot"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Våre telematikkløsninger hjelper deg med å omgjøre data til reelle besparelser:Med detaljerte analyser og rapporter kan du ta smartere beslutninger hver dag.",
+          "bodyHtml": "<p data-start=\"3265\" data-end=\"3344\">Våre telematikkløsninger hjelper deg med å omgjøre data til reelle besparelser:</p><p data-start=\"3547\" data-end=\"3627\"><br>Med detaljerte analyser og rapporter kan du ta smartere beslutninger hver dag.</p>",
+          "listItems": [
+            "Reduser drivstoffkostnader gjennom nøyaktig sporing",
+            "Forhindre tyveri og uautorisert bruk",
+            "Optimaliser vedlikeholdsplanlegging",
+            "Forleng maskinens levetid",
+            "Øk den totale produktiviteten i flåten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Våra telematiklösningar hjälper dig att omvandla data till verkliga besparingar:Med detaljerad analys och rapportering kan du fatta smartare beslut varje dag.",
+          "bodyHtml": "<p data-start=\"3295\" data-end=\"3375\">Våra telematiklösningar hjälper dig att omvandla data till verkliga besparingar:</p><p data-start=\"3586\" data-end=\"3666\">Med detaljerad analys och rapportering kan du fatta smartare beslut varje dag.</p>",
+          "listItems": [
+            "Minska bränslekostnader genom noggrann spårning",
+            "Förhindra stöld och obehörig användning",
+            "Optimera underhållsplanering",
+            "Förläng maskinernas livslängd",
+            "Öka den totala produktiviteten i din fordonsflotta"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Din partner inden for telematikintegration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Your Partner in Telematics Integration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Ihr Partner für Telematik-Integration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Votre partenaire en intégration télématique",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Uw partner in telematica-integratie",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Your Partner in Telematics Integration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Din partner inom telematikintegration",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "richText",
+      "order": 18,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Vi tilbyder ikke kun sporing — vi leverer komplette telematikløsninger:Fra én maskine til en hel flåde hjælper vi dig med fuld kontrol og overblik.",
+          "bodyHtml": "<p data-start=\"4165\" data-end=\"4236\">Vi tilbyder ikke kun sporing — vi leverer komplette telematikløsninger:</p><p data-start=\"4406\" data-end=\"4484\">Fra én maskine til en hel flåde hjælper vi dig med fuld kontrol og overblik.</p>",
+          "listItems": [
+            "Installation af hardware (trackere, sensorer, sonder)",
+            "Softwareintegration og konfiguration",
+            "Skræddersyede dashboards og rapporter",
+            "Løbende support og optimering"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "We don’t just provide tracking — we deliver complete telematics solutions:From a single machine to an entire fleet, we help you gain full control and visibility over your operations.",
+          "bodyHtml": "<p data-start=\"3108\" data-end=\"3182\">We don’t just provide tracking — we deliver complete telematics solutions:</p><p data-start=\"3360\" data-end=\"3468\">From a single machine to an entire fleet, we help you gain full control and visibility over your operations.</p>",
+          "listItems": [
+            "Hardware installation (trackers, sensors, probes)",
+            "Software integration and configuration",
+            "Custom dashboards and reports",
+            "Ongoing support and system optimization"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wir bieten nicht nur Tracking — wir liefern komplette Telematiklösungen:Von einer einzelnen Maschine bis hin zur gesamten Flotte helfen wir Ihnen, volle Kontrolle und Transparenz über Ihre Abläufe zu gewinnen.",
+          "bodyHtml": "<p data-start=\"4388\" data-end=\"4460\">Wir bieten nicht nur Tracking — wir liefern komplette Telematiklösungen:</p><p data-start=\"4640\" data-end=\"4779\">Von einer einzelnen Maschine bis hin zur gesamten Flotte helfen wir Ihnen, volle Kontrolle und Transparenz über Ihre Abläufe zu gewinnen.</p>",
+          "listItems": [
+            "Installation von Hardware (Tracker, Sensoren, Sonden)",
+            "Softwareintegration und Konfiguration",
+            "Individuelle Dashboards und Berichte",
+            "Laufender Support und Systemoptimierung"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Nous ne proposons pas seulement du suivi — nous fournissons des solutions télématiques complètes :D’une seule machine à une flotte complète, nous vous aidons à obtenir un contrôle total et une visibilité complète sur vos opérations.",
+          "bodyHtml": "<p data-start=\"4544\" data-end=\"4642\">Nous ne proposons pas seulement du suivi — nous fournissons des solutions télématiques complètes :</p><p data-start=\"4833\" data-end=\"4969\">D’une seule machine à une flotte complète, nous vous aidons à obtenir un contrôle total et une visibilité complète sur vos opérations.</p>",
+          "listItems": [
+            "Installation du matériel (trackers, capteurs, sondes)",
+            "Intégration et configuration logicielle",
+            "Tableaux de bord et rapports personnalisés",
+            "Support continu et optimisation du système"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Wij bieden niet alleen tracking — wij leveren complete telematica-oplossingen:Van één machine tot een volledige vloot helpen wij u volledige controle en inzicht te krijgen in uw operaties.",
+          "bodyHtml": "<p data-start=\"4237\" data-end=\"4315\">Wij bieden niet alleen tracking — wij leveren complete telematica-oplossingen:</p><p data-start=\"4507\" data-end=\"4619\">Van één machine tot een volledige vloot helpen wij u volledige controle en inzicht te krijgen in uw operaties.</p>",
+          "listItems": [
+            "Installatie van hardware (trackers, sensoren, sondes)",
+            "Software-integratie en configuratie",
+            "Op maat gemaakte dashboards en rapporten",
+            "Doorlopende ondersteuning en systeemoptimalisatie"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Din partner for telematikk-integrasjonVi tilbyr ikke bare sporing — vi leverer komplette telematikkløsninger:Fra én maskin til en hel flåte hjelper vi deg med å få full kontroll og oversikt over driften.",
+          "bodyHtml": "<p data-start=\"4049\" data-end=\"4099\">Din partner for telematikk-integrasjon</p><p data-start=\"4101\" data-end=\"4172\">Vi tilbyr ikke bare sporing — vi leverer komplette telematikkløsninger:</p><p data-start=\"4352\" data-end=\"4448\"><br>Fra én maskin til en hel flåte hjelper vi deg med å få full kontroll og oversikt over driften.</p>",
+          "listItems": [
+            "Installasjon av maskinvare (trackere, sensorer, sonder)",
+            "Programvareintegrasjon og konfigurasjon",
+            "Tilpassede dashbord og rapporter",
+            "Løpende support og systemoptimalisering"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Vi erbjuder inte bara spårning — vi levererar kompletta telematiklösningar:Från en enskild maskin till en hel flotta hjälper vi dig att få full kontroll och överblick över din verksamhet.",
+          "bodyHtml": "<p data-start=\"4139\" data-end=\"4214\">Vi erbjuder inte bara spårning — vi levererar kompletta telematiklösningar:</p><p data-start=\"4392\" data-end=\"4506\">Från en enskild maskin till en hel flotta hjälper vi dig att få full kontroll och överblick över din verksamhet.</p>",
+          "listItems": [
+            "Installation av hårdvara (trackers, sensorer, sonder)",
+            "Programvaruintegration och konfiguration",
+            "Anpassade dashboards och rapporter",
+            "Löpande support och systemoptimering"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "image",
+      "order": 19,
+      "sectionIndex": 7,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/04/8VbabwNYDubSBT5mMkGCOpbzvIJTyg35AW_9AwiCO9ZELLoSR7su4-99qu9U1xSIzK5DntxzwQXZ7J7PmY4as22br13svfZSWzgfATcBoBW883hW4rAfG979vgR8jYL6u-oYk3xaXBghMO3h_A7tLumFKKjcd1phS7Bnit-gnkRAARifw66D9lwj2dioKa6x-scaled.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/04/8VbabwNYDubSBT5mMkGCOpbzvIJTyg35AW_9AwiCO9ZELLoSR7su4-99qu9U1xSIzK5DntxzwQXZ7J7PmY4as22br13svfZSWzgfATcBoBW883hW4rAfG979vgR8jYL6u-oYk3xaXBghMO3h_A7tLumFKKjcd1phS7Bnit-gnkRAARifw66D9lwj2dioKa6x-scaled.jpg",
+          "width": 2560,
+          "height": 1707
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "richText",
+      "order": 20,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Byggepladser er dynamiske, krævende og ofte uforudsigelige.Vores løsninger er designet til at fungere stabilt under hårde forhold:Med vores system kan du overvåge:",
+          "bodyHtml": "<p data-start=\"4982\" data-end=\"5053\">Byggepladser er dynamiske, krævende og ofte uforudsigelige.</p><p data-start=\"5055\" data-end=\"5126\">Vores løsninger er designet til at fungere stabilt under hårde forhold:</p><p><br>Med vores system kan du overvåge:</p>",
+          "listItems": [
+            "Støv, vibrationer og ekstreme temperaturer",
+            "Konstant bevægelse over store områder",
+            "Flere operatører og skiftende arbejdstider",
+            "Arbejdstid vs. tomgang",
+            "Uautoriseret brug uden for arbejdstid",
+            "Ineffektiv operatøradfærd",
+            "Reel produktivitet pr. maskine"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Construction environments are dynamic, demanding, and often unpredictable. Our solutions are specifically designed to perform reliably under tough conditions:With our system, you can monitor:",
+          "bodyHtml": "<p data-start=\"1832\" data-end=\"1990\">Construction environments are dynamic, demanding, and often unpredictable.&nbsp;</p><p data-start=\"1832\" data-end=\"1990\">Our solutions are specifically designed to perform reliably under tough conditions:</p><p data-start=\"2134\" data-end=\"2167\">With our system, you can monitor:</p>",
+          "listItems": [
+            "Dust, vibration, and extreme temperatures",
+            "Constant machine movement across large areas",
+            "Multiple operators and shifting schedules",
+            "Machine working vs idle time",
+            "Unauthorized usage outside working hours",
+            "Inefficient operator behavior",
+            "Real productivity per machine"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Baustellenumgebungen sind dynamisch, anspruchsvoll und oft unvorhersehbar.Unsere Lösungen sind speziell dafür entwickelt, auch unter schwierigen Bedingungen zuverlässig zu funktionieren:Mit unserem System können Sie überwachen:",
+          "bodyHtml": "<p data-start=\"5277\" data-end=\"5363\">Baustellenumgebungen sind dynamisch, anspruchsvoll und oft unvorhersehbar.</p><p data-start=\"5365\" data-end=\"5477\">Unsere Lösungen sind speziell dafür entwickelt, auch unter schwierigen Bedingungen zuverlässig zu funktionieren:</p><p data-start=\"5626\" data-end=\"5667\"><br>Mit unserem System können Sie überwachen:</p>",
+          "listItems": [
+            "Staub, Vibrationen und extreme Temperaturen",
+            "Ständige Bewegung der Maschinen über große Flächen",
+            "Mehrere Bediener und wechselnde Einsatzpläne",
+            "Arbeitszeit im Vergleich zur Leerlaufzeit",
+            "Unbefugte Nutzung außerhalb der Arbeitszeiten",
+            "Ineffizientes Bedienerverhalten",
+            "Tatsächliche Produktivität pro Maschine"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les environnements de construction sont dynamiques, exigeants et souvent imprévisibles.Nos solutions sont spécialement conçues pour fonctionner de manière fiable dans des conditions difficiles :Avec notre système, vous pouvez surveiller :",
+          "bodyHtml": "<p data-start=\"5467\" data-end=\"5566\">Les environnements de construction sont dynamiques, exigeants et souvent imprévisibles.</p><p data-start=\"5568\" data-end=\"5675\">Nos solutions sont spécialement conçues pour fonctionner de manière fiable dans des conditions difficiles :</p><p data-start=\"5831\" data-end=\"5875\"><br>Avec notre système, vous pouvez surveiller :</p>",
+          "listItems": [
+            "Poussière, vibrations et températures extrêmes",
+            "Mouvement constant des machines sur de grandes surfaces",
+            "Multiples opérateurs et horaires changeants",
+            "Temps de travail vs temps d’inactivité",
+            "Utilisation non autorisée en dehors des heures de travail",
+            "Comportement inefficace des opérateurs",
+            "Productivité réelle par machine"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bouwomgevingen zijn dynamisch, veeleisend en vaak onvoorspelbaar.Onze oplossingen zijn speciaal ontworpen om betrouwbaar te presteren onder zware omstandigheden:Met ons systeem kunt u monitoren:",
+          "bodyHtml": "<p data-start=\"5117\" data-end=\"5194\">Bouwomgevingen zijn dynamisch, veeleisend en vaak onvoorspelbaar.</p><p data-start=\"5196\" data-end=\"5292\">Onze oplossingen zijn speciaal ontworpen om betrouwbaar te presteren onder zware omstandigheden:</p><p data-start=\"5436\" data-end=\"5469\"><br>Met ons systeem kunt u monitoren:</p>",
+          "listItems": [
+            "Stof, trillingen en extreme temperaturen",
+            "Constante beweging van machines over grote gebieden",
+            "Meerdere operators en wisselende schema’s",
+            "Werktijd versus stilstand",
+            "Ongeautoriseerd gebruik buiten werktijden",
+            "Inefficiënt gedrag van operators",
+            "Werkelijke productiviteit per machine"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Byggeplasser er dynamiske, krevende og ofte uforutsigbare.Våre løsninger er spesielt utviklet for å fungere pålitelig under krevende forhold:Med vårt system kan du overvåke:",
+          "bodyHtml": "<p data-start=\"4946\" data-end=\"5016\">Byggeplasser er dynamiske, krevende og ofte uforutsigbare.</p><p data-start=\"5018\" data-end=\"5101\">Våre løsninger er spesielt utviklet for å fungere pålitelig under krevende forhold:</p><p data-start=\"5247\" data-end=\"5279\"><br>Med vårt system kan du overvåke:</p>",
+          "listItems": [
+            "Støv, vibrasjoner og ekstreme temperaturer",
+            "Konstant bevegelse av maskiner over store områder",
+            "Flere operatører og skiftende arbeidsplaner",
+            "Arbeidstid kontra tomgangstid",
+            "Uautorisert bruk utenfor arbeidstid",
+            "Ineffektiv operatøratferd",
+            "Reell produktivitet per maskin"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Byggmiljöer är dynamiska, krävande och ofta oförutsägbara.Våra lösningar är särskilt utformade för att fungera tillförlitligt under tuffa förhållanden:Med vårt system kan du övervaka:",
+          "bodyHtml": "<p data-start=\"5004\" data-end=\"5074\">Byggmiljöer är dynamiska, krävande och ofta oförutsägbara.</p><p data-start=\"5076\" data-end=\"5169\">Våra lösningar är särskilt utformade för att fungera tillförlitligt under tuffa förhållanden:</p><p data-start=\"5314\" data-end=\"5346\">Med vårt system kan du övervaka:</p>",
+          "listItems": [
+            "Damm, vibrationer och extrema temperaturer",
+            "Konstant rörelse av maskiner över stora områden",
+            "Flera operatörer och skiftande arbetsscheman",
+            "Arbetstid jämfört med tomgångstid",
+            "Obehörig användning utanför arbetstid",
+            "Ineffektivt operatörsbeteende",
+            "Verklig produktivitet per maskin"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

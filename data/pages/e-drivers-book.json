@@ -1,0 +1,1458 @@
+{
+  "slug": "e-drivers-book",
+  "pageKind": "solution",
+  "titles": {
+    "da": "E drivers book DA",
+    "en": "E drivers book",
+    "de": "E drivers book – DE",
+    "fr": "E drivers book – FR",
+    "nl": "E drivers book – HL",
+    "nb": "E drivers book – NO",
+    "sv": "E-Book – SV",
+    "tr": "E drivers book – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "E- KØREBOG - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "E drivers book - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "E-Fahrerbuch - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Livret électronique des conducteurs​ - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "E-chauffeursboek - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Elektronisk driverbok - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Elektronisk förarbok - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "E sürücüleri kitabı - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/e-drivers-book-da/",
+    "en": "https://www.jaxicloud.com/en/e-drivers-book/",
+    "de": "https://www.jaxicloud.com/de/e-drivers-book-de/",
+    "fr": "https://www.jaxicloud.com/fr/e-drivers-book-fr/",
+    "nl": "https://www.jaxicloud.com/nl/e-drivers-book-hl/",
+    "nb": "https://www.jaxicloud.com/nb/e-drivers-book-no/",
+    "sv": "https://www.jaxicloud.com/sv/e-book-sv/",
+    "tr": "https://www.jaxicloud.com/tr/e-drivers-book-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "E- KØREBOG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "E drivers book",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "E-Fahrerbuch",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Livret électronique des conducteurs​",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "E-chauffeursboek",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Elektronisk driverbok",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Elektronisk förarbok",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "E sürücüleri kitabı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT E.KØREBOG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud fleet management electronic driver book",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Flottenmanagement elektronisches Fahrerbuch",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Livre de pilote électronique de gestion de flotte jaxicloud",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud fleet management elektronisch rijboek",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud fleet management elektronisk driverbok",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud fleet management elektronisk förarbok",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud fi̇lo yöneti̇mi̇ elektroni̇k sürücü ki̇tabi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "​Bruger du din bil til arbejde? Om det er et hurtigt ærinde i byen eller et møde på tværs i landet, kørebogen indsamler, registrerer og rapporterer alle kørsels detaljer, så du ikke behøver at tænke på det. Vores løsning kan anvendes i personbil, varebil, lastbil og kassevogn.",
+          "bodyHtml": "<p>​Bruger du din bil til arbejde? Om det er et hurtigt ærinde i byen eller et møde på tværs i landet, kørebogen indsamler, registrerer og rapporterer alle kørsels detaljer, så du ikke behøver at tænke på det. Vores løsning kan anvendes i personbil, varebil, lastbil og kassevogn.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Web application for tracking fleet maintenance: plan, control and expense recording. We developed Fleetrun for those who want to reduce operating costs, avoid critical breakdowns and reduce time spent at the service station. With this application you can control all kinds of services and expenses for individual spare parts, vehicles and even mileage. Fleetrun will show the services that the fleet needs, their intervals and costs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Web application for tracking fleet maintenance: plan, control and expense recording. We developed Fleetrun for those who want to reduce operating costs, avoid critical breakdowns and reduce time spent at the service station. With this application you can control all kinds of services and expenses for individual spare parts, vehicles and even mileage. Fleetrun will show the services that the fleet needs, their intervals and costs.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Webanwendung zur Flottenwartung: Planung, Steuerung und Kostenerfassung. Wir haben Fleetrun für alle entwickelt, die Betriebskosten senken, kritische Ausfälle vermeiden und die Zeit in der Werkstatt reduzieren möchten. Mit dieser Anwendung behalten Sie den Überblick über alle Serviceleistungen und Kosten für einzelne Ersatzteile, Fahrzeuge und sogar die gefahrenen Kilometer. Fleetrun zeigt Ihnen die benötigten Serviceleistungen Ihrer Flotte, deren Intervalle und Kosten an.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Webanwendung zur Flottenwartung: Planung, Steuerung und Kostenerfassung. Wir haben Fleetrun für alle entwickelt, die Betriebskosten senken, kritische Ausfälle vermeiden und die Zeit in der Werkstatt reduzieren möchten. Mit dieser Anwendung behalten Sie den Überblick über alle Serviceleistungen und Kosten für einzelne Ersatzteile, Fahrzeuge und sogar die gefahrenen Kilometer. Fleetrun zeigt Ihnen die benötigten Serviceleistungen Ihrer Flotte, deren Intervalle und Kosten an.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Utilisez-vous votre voiture pour le travail ? Qu’il s’agisse d’une petite course en ville ou d’une réunion à travers le pays, le journal de bord collecte, enregistre et rapporte tous les détails de conduite afin que vous n’ayez pas à y penser. Notre solution peut être utilisée dans les voitures, camionnettes, camions et fourgons.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Utilisez-vous votre voiture pour le travail ? Qu’il s’agisse d’une petite course en ville ou d’une réunion à travers le pays, le journal de bord collecte, enregistre et rapporte tous les détails de conduite afin que vous n’ayez pas à y penser. Notre solution peut être utilisée dans les voitures, camionnettes, camions et fourgons.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "​Gebruikt u uw auto voor uw werk? Of het nu gaat om een snelle boodschap in de stad of een vergadering in het hele land, het logboek verzamelt, registreert en rapporteert alle rijgegevens, zodat u er niet over hoeft na te denken. Onze oplossing kan worden gebruikt in auto’s, bestelwagens, vrachtwagens en bestelwagens.",
+          "bodyHtml": "<p>​Gebruikt u uw auto voor uw werk? Of het nu gaat om een snelle boodschap in de stad of een vergadering in het hele land, het logboek verzamelt, registreert en rapporteert alle rijgegevens, zodat u er niet over hoeft na te denken. Onze oplossing kan worden gebruikt in auto’s, bestelwagens, vrachtwagens en bestelwagens.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "​Bruker du bilen din på jobb? Enten det er et raskt ærend i byen eller et møte over hele landet, samler loggboken inn, registrerer og rapporterer alle kjøredetaljer slik at du ikke trenger å tenke på det. Vår løsning kan brukes i personbiler, varebiler, lastebiler og kassebiler.",
+          "bodyHtml": "<p>​Bruker du bilen din på jobb? Enten det er et raskt ærend i byen eller et møte over hele landet, samler loggboken inn, registrerer og rapporterer alle kjøredetaljer slik at du ikke trenger å tenke på det. Vår løsning kan brukes i personbiler, varebiler, lastebiler og kassebiler.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "​Använder du din bil på jobbet? Oavsett om det är ett snabbt ärende på stan eller ett möte över hela landet, samlar loggboken in, registrerar och rapporterar alla kördetaljer så att du inte behöver tänka på det. Vår lösning kan användas i personbilar, skåpbilar, lastbilar och skåpbilar.",
+          "bodyHtml": "<p>​Använder du din bil på jobbet? Oavsett om det är ett snabbt ärende på stan eller ett möte över hela landet, samlar loggboken in, registrerar och rapporterar alla kördetaljer så att du inte behöver tänka på det. Vår lösning kan användas i personbilar, skåpbilar, lastbilar och skåpbilar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Arabanızı iş için mi kullanıyorsunuz? İster şehirdeki kısa bir iş, ister ülke çapındaki bir toplantı olsun, kayıt defteri tüm sürüş ayrıntılarını toplar, kaydeder ve rapor eder, böylece düşünmenize gerek kalmaz. Çözümümüz otomobillerde, kamyonetlerde, kamyonlarda ve kapalı kasa kamyonetlerde kullanılabilir.",
+          "bodyHtml": "<p>Arabanızı iş için mi kullanıyorsunuz? İster şehirdeki kısa bir iş, ister ülke çapındaki bir toplantı olsun, kayıt defteri tüm sürüş ayrıntılarını toplar, kaydeder ve rapor eder, böylece düşünmenize gerek kalmaz. Çözümümüz otomobillerde, kamyonetlerde, kamyonlarda ve kapalı kasa kamyonetlerde kullanılabilir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_d712ec73218840feadc7f5604045aa5dmv2-1024x404.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_d712ec73218840feadc7f5604045aa5dmv2-1024x404.jpg",
+          "width": 800,
+          "height": 316
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "featureCard",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_a62d8db4c4fa401aa719fa04bd90c649mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_a62d8db4c4fa401aa719fa04bd90c649mv2.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Alle køreture registreres automatisk, komplet med adresser, antal kørte km og tid pr. køretur.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Alle køreture registreres automatisk, komplet med adresser, antal kørte km og tid pr. køretur.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": "All driving trips are registered automatically, complete with addresses, number of kilometers driven and time per drive.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">All driving trips are registered automatically, complete with addresses, number of kilometers driven and time per drive.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": "Alle Fahrten werden automatisch mit Adresse, Kilometerzahl und Dauer pro Fahrt aufgezeichnet. fahren.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Alle Fahrten werden automatisch mit Adresse, Kilometerzahl und Dauer pro Fahrt aufgezeichnet. fahren.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": "Tous les déplacements en voiture sont enregistrés automatiquement, avec les adresses, le nombre de kilomètres parcourus et la durée par trajet. conduire.",
+          "bodyHtml": "<p>Tous les déplacements en voiture sont enregistrés automatiquement, avec les adresses, le nombre de kilomètres parcourus et la durée par trajet. conduire.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": "Alle ritten worden automatisch geregistreerd, compleet met adressen, aantal gereden kilometers en tijd per rit drijfveer.",
+          "bodyHtml": "<p>Alle ritten worden automatisch geregistreerd, compleet met adressen, aantal gereden kilometers en tijd per rit drijfveer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": "Alle kjøreturer registreres automatisk, komplett med adresser, antall kjørte kilometer og tid pr kjøre.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Alle kjøreturer registreres automatisk, komplett med adresser, antall kjørte kilometer og tid pr kjøre.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": "Alla resor registreras automatiskt, komplett med adresser, antal körda kilometer och tid pr köra.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Alla resor registreras automatiskt, komplett med adresser, antal körda kilometer och tid pr köra.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": "Tüm sürüş yolculukları, adresler, kat edilen kilometre sayısı ve yolculuk başına süre bilgileri ile birlikte otomatik olarak kaydedilir. sürmek.",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Tüm sürüş yolculukları, adresler, kat edilen kilometre sayısı ve yolculuk başına süre bilgileri ile birlikte otomatik olarak kaydedilir. sürmek.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_89c7495b5bf244d2a26fd31672623a9bmv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_89c7495b5bf244d2a26fd31672623a9bmv2.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Spar tid og besvær med JaxiCloud Elektronisk Kørebog",
+          "bodyHtml": "<p>Spar tid og besvær med JaxiCloud Elektronisk Kørebog</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": "Save time and effort with JaxiCloud Electronic Driving record",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Save time and effort with JaxiCloud Electronic </span><span class=\"wixui-rich-text__text\">Driving record</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": "Sparen Sie Zeit und Mühe mit JaxiCloud Electronic Fahraufzeichnung",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Sparen Sie Zeit und Mühe mit JaxiCloud Electronic </span><span class=\"wixui-rich-text__text\">Fahraufzeichnung</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": "Gagnez du temps et des efforts avec JaxiCloud Electronic Dossier de conduite",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Gagnez du temps et des efforts avec JaxiCloud Electronic </span><span class=\"wixui-rich-text__text\">Dossier de conduite</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bespaar tijd en moeite met JaxiCloud Electronic",
+          "bodyHtml": "<p>Bespaar tijd en moeite met JaxiCloud Electronic</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": "Spar tid og krefter med JaxiCloud Electronic Kjørerekord",
+          "bodyHtml": "<p>Spar tid og krefter med JaxiCloud Electronic Kjørerekord</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": "Spara tid och ansträngning med JaxiCloud Electronic Körrekord",
+          "bodyHtml": "<p>Spara tid och ansträngning med JaxiCloud Electronic Körrekord</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": "JaxiCloud Electronic ile zamandan ve emekten tasarruf edin Sürüş rekoru",
+          "bodyHtml": "<p>JaxiCloud Electronic ile zamandan ve emekten tasarruf edin Sürüş rekoru</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Billede3.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Billede3.jpg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Giver beviseligt reduktion i den løbende kørselsgodtgørelse udbetaling til medarbejdere",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Giver beviseligt reduktion i den løbende kørselsgodtgørelse udbetaling til medarbejdere</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": "Provides a demonstrable reduction in the current driving allowance paid to employees",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Provides a demonstrable reduction in the current driving allowance paid to employees</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": "Bietet eine nachweisbare Reduzierung der aktuellen Fahrvergütung, die den Mitarbeitern gezahlt wird",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bietet eine nachweisbare Reduzierung der aktuellen Fahrvergütung, die den Mitarbeitern gezahlt wird</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": "Fournit une réduction démontrable de l’indemnité de conduite actuelle versée aux employés",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Fournit une réduction démontrable de l’indemnité de conduite actuelle versée aux employés</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": "Zorgt voor een aantoonbare verlaging van de huidige rijvergoeding die aan medewerkers wordt betaald",
+          "bodyHtml": "<p>Zorgt voor een aantoonbare verlaging van de huidige rijvergoeding die aan medewerkers wordt betaald</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": "Ger en påvisbar minskning av det nuvarande körbidraget som betalas ut till anställda",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Ger en påvisbar minskning av det nuvarande körbidraget som betalas ut till anställda</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": "Çalışanlara ödenen mevcut sürüş ücretinde gözle görülür bir azalma sağlar",
+          "bodyHtml": "<p>Çalışanlara ödenen mevcut sürüş ücretinde gözle görülür bir azalma sağlar</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/0b494e63-30ce-47e6-a3c8-b5148128ca9c.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/0b494e63-30ce-47e6-a3c8-b5148128ca9c.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Overholder SKATs krav",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overholder SKATs krav</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": "Complies with SKAT’s requirements",
+          "bodyHtml": "<p>Complies with SKAT’s requirements</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": "Entspricht den Anforderungen von SKAT",
+          "bodyHtml": "<p>Entspricht den Anforderungen von SKAT</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": "Conforme aux exigences du SKAT",
+          "bodyHtml": "<p>Conforme aux exigences du SKAT</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": "Voldoet aan de eisen van SKAT",
+          "bodyHtml": "<p>Voldoet aan de eisen van SKAT</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": "Overholder SKATs krav",
+          "bodyHtml": "<p>Overholder SKATs krav</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": "Uppfyller SKATs krav",
+          "bodyHtml": "<p>Uppfyller SKATs krav</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": "SKAT gerekliliklerine uygundur",
+          "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">SKAT gerekliliklerine uygundur</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "image",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skaermbillede-2024-08-22-190046.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skaermbillede-2024-08-22-190046.jpg",
+          "width": 606,
+          "height": 261
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "image",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_c89e901a5f264d8ea47470e18bbb58b9mv2.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_c89e901a5f264d8ea47470e18bbb58b9mv2.png",
+          "width": 600,
+          "height": 364
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "image",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skaermbillede-2024-08-25-223229-288x300.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/Skaermbillede-2024-08-25-223229-288x300.png",
+          "width": 288,
+          "height": 300
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "image",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/jaxi.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/jaxi.png",
+          "width": 800,
+          "height": 404
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

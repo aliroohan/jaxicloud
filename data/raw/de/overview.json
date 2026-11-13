@@ -1,0 +1,692 @@
+{
+  "id": 2589,
+  "slug": "overview-de",
+  "canonicalSlug": "overview",
+  "locale": "de",
+  "title": "Overview – DE",
+  "link": "https://www.jaxicloud.com/de/overview-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2589,
+    "da": 2188,
+    "en": 23,
+    "fr": 2835,
+    "nl": 3035,
+    "nb": 3235,
+    "sv": 3428,
+    "tr": 3617
+  },
+  "excerpt": "Überblick Jaxicloud Flottenmanagement Jaxicloud Flottenmanagement – ​​Cloudbasiertes Flottenmanagementsystem Das Überwachungssystem wird in unseren Rechenzentren gespeichert und verwaltet. JaxiCloud-Überwachungssystem direkt im Browser. Starten Sie Ihr Integrator-Business mit nur einem Laptop. Rennwagen PLANUNG EFFIZIENTES FAHREN MATERIAL FINDEN SICHERHEIT Unser Angebot Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können. Schnellstart Wir starten den Cloud-Dienst [&hellip;]",
+  "seo": {
+    "title": "Überblick Jaxicloud Flottenmanagement - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-24T09:43:53",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "713241b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-713241b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Überblick Jaxicloud Flottenmanagement",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-93e1344",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "6b47433",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6b47433",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/hosting-main-1.png",
+          "alt": "",
+          "width": 393,
+          "height": 166
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "5db9ca5",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5db9ca5",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Jaxicloud Flottenmanagement – ​​Cloudbasiertes Flottenmanagementsystem",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "045e894",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-045e894",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Das Überwachungssystem wird in unseren Rechenzentren gespeichert und verwaltet. JaxiCloud-Überwachungssystem direkt im Browser. Starten Sie Ihr Integrator-Business mit nur einem Laptop.</p>",
+      "bodyText": "Das Überwachungssystem wird in unseren Rechenzentren gespeichert und verwaltet. JaxiCloud-Überwachungssystem direkt im Browser. Starten Sie Ihr Integrator-Business mit nur einem Laptop.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "83dd34e",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-83dd34e",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "Rennwagen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "042f690",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-042f690",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "PLANUNG",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "9dd786d",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9dd786d",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "EFFIZIENTES FAHREN",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "29f2ffe",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-29f2ffe",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "MATERIAL FINDEN",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "34b11b2",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-34b11b2",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "SICHERHEIT",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 4,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "17a6d23d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-17a6d23d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Unser Angebot",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "639a9b66",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-639a9b66",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.</p>",
+      "bodyText": "Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "52227ba5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-52227ba5",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Schnellstart",
+      "bodyHtml": "<p>Wir starten den Cloud-Dienst und fügen innerhalb einer Stunde Erweiterungen hinzu.</p>",
+      "bodyText": "Wir starten den Cloud-Dienst und fügen innerhalb einer Stunde Erweiterungen hinzu.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "1706726c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1706726c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Bequemlichkeit",
+      "bodyHtml": "<p>Befreien Sie sich von einer einmaligen Zahlung.</p>",
+      "bodyText": "Befreien Sie sich von einer einmaligen Zahlung.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "32afdb7a",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-32afdb7a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Regular updates",
+      "bodyHtml": "<p>Jeden Monat fügen wir neue Funktionen hinzu, darunter auch solche, die auf Anfragen unserer Partner basieren.</p>",
+      "bodyText": "Jeden Monat fügen wir neue Funktionen hinzu, darunter auch solche, die auf Anfragen unserer Partner basieren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "31ef5508",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31ef5508",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stability",
+      "bodyHtml": "<p>We guarantee 99.5% system stability and specify it in the SLA</p>",
+      "bodyText": "We guarantee 99.5% system stability and specify it in the SLA",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "dba6705",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dba6705",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kostenlose Server",
+      "bodyHtml": "<p>Flottenmanagement-SaaS-Lösungen werden in JAXICLOUD-Rechenzentren gespeichert und verwaltet.</p>",
+      "bodyText": "Flottenmanagement-SaaS-Lösungen werden in JAXICLOUD-Rechenzentren gespeichert und verwaltet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "51190dc0",
+      "widgetType": "button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51190dc0",
+        "elementor-mobile-align-center",
+        "elementor-align-center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Mehr sehen",
+          "href": "/de/about-us-de/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 17,
+    "sectionCount": 4,
+    "htmlBytes": 21696
+  }
+}

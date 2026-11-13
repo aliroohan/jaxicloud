@@ -5,7 +5,8 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { MotionPathPlugin } from "gsap/MotionPathPlugin";
 import { TrendingUp } from "lucide-react";
-import { STAT_DETAILS } from "./constants";
+import type { HomeCopy } from "@/lib/i18n/pageCopy";
+import type { StatDetail } from "./constants";
 import { StatCard } from "./StatCard";
 import { ConnectorSVG } from "./ConnectorSVG";
 import styles from "./StatsSection.module.css";
@@ -14,7 +15,14 @@ if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);
 }
 
-export function StatsSection() {
+export function StatsSection({ copy }: { copy: HomeCopy }) {
+  const STAT_DETAILS: StatDetail[] = [
+    { id: "vehicles", number: 500000, suffix: copy.statVehiclesSuffix, name: copy.statVehiclesName, description: copy.statVehiclesDesc },
+    { id: "countries", number: 45, suffix: copy.statCountriesSuffix, name: copy.statCountriesName, description: copy.statCountriesDesc },
+    { id: "uptime", number: 99.98, suffix: copy.statUptimeSuffix, name: copy.statUptimeName, description: copy.statUptimeDesc },
+    { id: "hardware", number: 120, suffix: copy.statHardwareSuffix, name: copy.statHardwareName, description: copy.statHardwareDesc },
+  ];
+
   const sectionRef = useRef<HTMLDivElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const headerRef = useRef<HTMLDivElement>(null);
@@ -175,14 +183,14 @@ export function StatsSection() {
       <div className={styles.layoutContainer}>
         <div ref={headerRef} className={styles.headerBlock}>
           <div ref={tagRef} className={styles.sectionTag}>
-            GLOBAL INFRASTRUCTURE SCALE
+            {copy.countersTag}
           </div>
           <h2 className={styles.sectionTitle}>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={styles.textMaskInner}>Engineered to Power Commercial Fleets</span>
+              <span ref={addToTextMasks} className={styles.textMaskInner}>{copy.countersTitleLine1}</span>
             </span>
             <span className={styles.textMask}>
-              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>At Global Standard.</span>
+              <span ref={addToTextMasks} className={`${styles.textMaskInner} ${styles.sectionTitleHighlight}`}>{copy.countersTitleLine2}</span>
             </span>
           </h2>
         </div>

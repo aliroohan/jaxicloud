@@ -1,0 +1,648 @@
+{
+  "id": 3058,
+  "slug": "temperature-monitoring-work-hl",
+  "canonicalSlug": "temperature-monitoring-work",
+  "locale": "nl",
+  "title": "Temperature monitoring work – HL",
+  "link": "https://www.jaxicloud.com/nl/temperature-monitoring-work-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 3058,
+    "da": 2210,
+    "en": 1221,
+    "de": 2610,
+    "fr": 2858,
+    "nb": 3257,
+    "sv": 3450,
+    "tr": 3640
+  },
+  "excerpt": "Temperatuur monitoring Wat is temperatuurbewaking op afstand? In de transportsector is naleving van de koelketen een belangrijk probleem, zowel om volksgezondheids- als economische redenen. Het transport van warmtegevoelige goederen is onderworpen aan talrijke normen en voorschriften (bijv. EN12830 en EN13486), waardoor spelers in de sector zich moeten uitrusten met innovatieve, connected telematica-oplossingen. Een onderbreking in [&hellip;]",
+  "seo": {
+    "title": "Temperatuurbewakingswerkzaamheden - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-17T23:49:27",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "126703a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-126703a",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Temperatuur monitoring",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-a032943",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f1a5ba6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f1a5ba6",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Wat is temperatuurbewaking op afstand?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "ca333e2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ca333e2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>In de transportsector is naleving van de koelketen een belangrijk probleem, zowel om volksgezondheids- als economische redenen. Het transport van warmtegevoelige goederen is onderworpen aan talrijke normen en voorschriften (bijv. EN12830 en EN13486), waardoor spelers in de sector zich moeten uitrusten met innovatieve, connected telematica-oplossingen. Een onderbreking in de koelketen kan namelijk ernstige gevolgen hebben en moet nauwkeurig en zeer regelmatig worden gecontroleerd.</p><p>Om deze uitdaging aan te gaan en vervoerders in staat te stellen de goederen waarvoor zij verantwoordelijk zijn te beveiligen, adviseren wij u om temperatuurbewaking op afstand te integreren in uw IoT-oplossing dankzij Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensoren.</p>",
+      "bodyText": "In de transportsector is naleving van de koelketen een belangrijk probleem, zowel om volksgezondheids- als economische redenen. Het transport van warmtegevoelige goederen is onderworpen aan talrijke normen en voorschriften (bijv. EN12830 en EN13486), waardoor spelers in de sector zich moeten uitrusten met innovatieve, connected telematica-oplossingen. Een onderbreking in de koelketen kan namelijk ernstige gevolgen hebben en moet nauwkeurig en zeer regelmatig worden gecontroleerd.Om deze uitdaging aan te gaan en vervoerders in staat te stellen de goederen waarvoor zij verantwoordelijk zijn te beveiligen, adviseren wij u om temperatuurbewaking op afstand te integreren in uw IoT-oplossing dankzij Jaxicloud Fleet Management Innovation Bluetooth Low Energy-sensoren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0aee9fc",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0aee9fc",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_de426acbdd9c46ed94c6612d0d861201mv2.jpg",
+          "alt": "",
+          "width": 474,
+          "height": 474
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "40e6846",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-40e6846",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ea186e658be24056a4321d95caf43dfcmv2.jpg",
+          "alt": "",
+          "width": 429,
+          "height": 429
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "7869de9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7869de9",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hoe werkt temperatuurbewaking op afstand?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "f3e1ebe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f3e1ebe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De temperatuursensoren kunnen op verschillende plaatsen worden bevestigd: in een koelwagen, in een isothermische transportbox of in een koelkast. Omdat de sensoren 100% autonoom zijn, meten en registreren ze de temperatuur met regelmatige (instelbare) tussenpozen. De historie (datalogger) wordt door de sensor via Bluetooth Low Energy naar de ingebouwde telematicabox verzonden. De box fungeert vervolgens als gateway en stuurt de informatie via het mobiele 3G/4G-netwerk naar uw IoT-platform.</p><p>De gebruiker kan vervolgens de historie van de variaties visualiseren in de vorm van grafieken en rapporten op uw platform. De klant kan ook alarmdrempels instellen via uw verbonden platform. In dat geval wordt er, wanneer de temperatuur de vooraf gedefinieerde drempel overschrijdt, in realtime een waarschuwing naar de chauffeur op zijn smartphone gestuurd.</p>",
+      "bodyText": "De temperatuursensoren kunnen op verschillende plaatsen worden bevestigd: in een koelwagen, in een isothermische transportbox of in een koelkast. Omdat de sensoren 100% autonoom zijn, meten en registreren ze de temperatuur met regelmatige (instelbare) tussenpozen. De historie (datalogger) wordt door de sensor via Bluetooth Low Energy naar de ingebouwde telematicabox verzonden. De box fungeert vervolgens als gateway en stuurt de informatie via het mobiele 3G/4G-netwerk naar uw IoT-platform.De gebruiker kan vervolgens de historie van de variaties visualiseren in de vorm van grafieken en rapporten op uw platform. De klant kan ook alarmdrempels instellen via uw verbonden platform. In dat geval wordt er, wanneer de temperatuur de vooraf gedefinieerde drempel overschrijdt, in realtime een waarschuwing naar de chauffeur op zijn smartphone gestuurd.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "fdea029",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fdea029",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "/nl/cooling-monitoring-hl/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "2440230",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2440230",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>We vervoeren bloemen en vele andere gekoelde goederen door heel Europa, dus dankzij de temperatuursensoren kunnen we onze leveringen controleren. We bieden onze klanten toegang tot temperatuurgrafieken, zodat ze onze leveringen in realtime kunnen volgen door hun positie te volgen en de koelketen te beheren. Zo kunnen we voldoen aan de charters en regelgeving voor het vervoer van farmaceutische producten.</p>",
+      "bodyText": "We vervoeren bloemen en vele andere gekoelde goederen door heel Europa, dus dankzij de temperatuursensoren kunnen we onze leveringen controleren. We bieden onze klanten toegang tot temperatuurgrafieken, zodat ze onze leveringen in realtime kunnen volgen door hun positie te volgen en de koelketen te beheren. Zo kunnen we voldoen aan de charters en regelgeving voor het vervoer van farmaceutische producten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e9e91e9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "a7b01e1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a7b01e1",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Waarom zou u Jaxicloud Fleet Management Innovation-temperatuursensoren integreren in uw telematica-oplossing?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec6a218",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "304373a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-304373a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De industriële temperatuursensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het beantwoorden van de behoefte aan remote temperatuurmonitoring, om verschillende redenen:</p><p><strong>100% onafhankelijk</strong></p><p>Dankzij hun werking op batterijen bieden ze tot 18 jaar autonomie, wat zorgt voor een competitieve totale eigendomskost.</p><p><strong>Gecertificeerd EN12830 – 2018</strong></p><p>De sensoren zijn COFRAC-gecertificeerd (EN12830 – 2018), wat hun nauwkeurigheid en kalibratie bevestigt volgens normen die voldoen aan de regelgeving. Deze certificering is internationaal geldig, aangezien COFRAC is aangesloten bij ILAC.<br>ELA Innovation biedt bovendien een kalibratieservice voor temperatuursensoren om betrouwbare data gedurende de volledige levensduur van het product te garanderen.</p><p><strong>Breed meetbereik en real-time gegevens</strong></p><p>Met een meetbereik van -40 °C tot +85 °C (en zelfs -80 °C tot +200 °C voor de Blue PUCK T-PROBE) en een configureerbare transmissieperiode, kunnen deze sensoren de belangrijkste toepassingsscenario’s in het vervoer van temperatuurgevoelige goederen afdekken door de geregistreerde gegevens in real time te verzenden.</p><p><strong>Compatibel met telematicaboxen</strong></p><p>Uitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en is geen extra integratie vereist.</p><p><strong>Snelle en eenvoudige installatie</strong></p><p>De installatie is uiterst eenvoudig dankzij verschillende bevestigingsmethoden (hoogwaardige dubbelzijdige tape of montagebeugel). De sensoren kunnen op elk type oppervlak worden geplaatst en vereisen geen bekabeling.</p>",
+      "bodyText": "De industriële temperatuursensoren van Jaxicloud Fleet Management Innovation zijn ideaal voor het beantwoorden van de behoefte aan remote temperatuurmonitoring, om verschillende redenen:100% onafhankelijkDankzij hun werking op batterijen bieden ze tot 18 jaar autonomie, wat zorgt voor een competitieve totale eigendomskost.Gecertificeerd EN12830 – 2018De sensoren zijn COFRAC-gecertificeerd (EN12830 – 2018), wat hun nauwkeurigheid en kalibratie bevestigt volgens normen die voldoen aan de regelgeving. Deze certificering is internationaal geldig, aangezien COFRAC is aangesloten bij ILAC.ELA Innovation biedt bovendien een kalibratieservice voor temperatuursensoren om betrouwbare data gedurende de volledige levensduur van het product te garanderen.Breed meetbereik en real-time gegevensMet een meetbereik van -40 °C tot +85 °C (en zelfs -80 °C tot +200 °C voor de Blue PUCK T-PROBE) en een configureerbare transmissieperiode, kunnen deze sensoren de belangrijkste toepassingsscenario’s in het vervoer van temperatuurgevoelige goederen afdekken door de geregistreerde gegevens in real time te verzenden.Compatibel met telematicaboxenUitgerust met Bluetooth Low Energy-technologie zijn deze sensoren compatibel met de meeste ingebouwde telematicaboxen op de markt en is geen extra integratie vereist.Snelle en eenvoudige installatieDe installatie is uiterst eenvoudig dankzij verschillende bevestigingsmethoden (hoogwaardige dubbelzijdige tape of montagebeugel). De sensoren kunnen op elk type oppervlak worden geplaatst en vereisen geen bekabeling.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec6a218",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 5,
+      "elementorId": "3fda5ce",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fda5ce",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Welke ELA Innovation temperatuursensoren moet u gebruiken?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "1063be7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1063be7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bent u een leverancier van IoT-oplossingen en wilt u temperatuurbewaking op afstand integreren in uw aanbod? Dan raden wij u de volgende ELA Innovation-producten aan:</p>",
+      "bodyText": "Bent u een leverancier van IoT-oplossingen en wilt u temperatuurbewaking op afstand integreren in uw aanbod? Dan raden wij u de volgende ELA Innovation-producten aan:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "add6b4b",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-add6b4b",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_07f4811d76b846238e0d702f9c49e677mv2.jpg",
+          "alt": "",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "8f649f1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f649f1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3a856706029342119340e9a4080cb083mv2.jpg",
+          "alt": "",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 15,
+    "sectionCount": 6,
+    "htmlBytes": 18014
+  }
+}
