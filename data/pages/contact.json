@@ -1,0 +1,932 @@
+{
+  "slug": "contact",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Contact DA",
+    "en": "Contact",
+    "de": "Contact DE",
+    "fr": "Contact – FR",
+    "nl": "Contact – HL",
+    "nb": "Contact – NO",
+    "sv": "Contact – SV",
+    "tr": "Contact – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Kontaktoplysninger - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Contact informations - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Kontaktinformationen - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Coordonnées - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Contactgegevens - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Contactgegevens - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Kontaktinformation - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "İletişim bilgileri - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/contact-da/",
+    "en": "https://www.jaxicloud.com/en/contact-2/",
+    "de": "https://www.jaxicloud.com/de/contact-de/",
+    "fr": "https://www.jaxicloud.com/fr/contact-fr/",
+    "nl": "https://www.jaxicloud.com/nl/contact-hl/",
+    "nb": "https://www.jaxicloud.com/nb/contact-no/",
+    "sv": "https://www.jaxicloud.com/sv/contact-sv/",
+    "tr": "https://www.jaxicloud.com/tr/contact-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kontaktoplysninger",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Contact informations",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kontaktinformationen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Coordonnées​",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Contactgegevens",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kontaktinformasjon",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kontaktinformation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İletişim bilgileri",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "formEmbed",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kontaktadresse::",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Contact Address:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kontaktadresse:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Adresse de contact :",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Contactadres",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kontaktadresse",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kontaktadress:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İletişim Adresi:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "richText",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Hvis du støder på problemer af nogen art, kan du kontakte vores supportteam når som helst og hvor som helst.",
+          "bodyHtml": "<p>Hvis du støder på problemer af nogen art, kan du kontakte vores supportteam når som helst og hvor som helst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "If you face any type of problem, reach out to our support team anytime from anywhere.",
+          "bodyHtml": "<p>If you face any type of problem, reach out to our support team anytime from anywhere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Sollten Sie auf irgendein Problem stoßen, können Sie sich jederzeit und von überall an unser Support-Team wenden.",
+          "bodyHtml": "<p>Sollten Sie auf irgendein Problem stoßen, können Sie sich jederzeit und von überall an unser Support-Team wenden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Si vous rencontrez le moindre problème, n’hésitez pas à contacter notre équipe d’assistance à tout moment et de n’importe où.",
+          "bodyHtml": "<p>Si vous rencontrez le moindre problème, n’hésitez pas à contacter notre équipe d’assistance à tout moment et de n’importe où.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Als u problemen ondervindt, kunt u op elk moment en vanaf elke locatie contact opnemen met ons ondersteuningsteam.",
+          "bodyHtml": "<p>Als u problemen ondervindt, kunt u op elk moment en vanaf elke locatie contact opnemen met ons ondersteuningsteam.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hvis du støter på noen form for problem, kan du kontakte supportteamet vårt når som helst og hvor som helst.",
+          "bodyHtml": "<p>Hvis du støter på noen form for problem, kan du kontakte supportteamet vårt når som helst og hvor som helst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Om du stöter på någon form av problem kan du kontakta vårt supportteam när som helst och var som helst.",
+          "bodyHtml": "<p>Om du stöter på någon form av problem kan du kontakta vårt supportteam när som helst och var som helst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Herhangi bir sorunla karşılaşırsanız, dilediğiniz zaman ve dilediğiniz yerden destek ekibimizle iletişime geçebilirsiniz.",
+          "bodyHtml": "<p>Herhangi bir sorunla karşılaşırsanız, dilediğiniz zaman ve dilediğiniz yerden destek ekibimizle iletişime geçebilirsiniz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "iconList",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "+45 92 90 90 10",
+            "info@jaxicloud.com support@jaxicloud.com",
+            "Greve Main 38 DK–2670 Greve"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "heading",
+      "order": 5,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Følg os:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Follow us:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Folgen Sie uns:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Suivez-nous:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Volg ons:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Følg oss:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Följ oss:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Bizi takip edin:",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "socialIcons",
+      "order": 6,
+      "sectionIndex": 1,
+      "widgetType": "social-icons.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk"
+            }
+          ],
+          "ctaLabel": "Linkedin",
+          "ctaUrl": "https://www.linkedin.com/company/jaxicloud/?trk=public_post_main-feed-card_reshare_feed-actor-image&originalSubdomain=dk",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "mapEmbed",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "google_maps.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

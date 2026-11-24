@@ -1,0 +1,818 @@
+{
+  "id": 3163,
+  "slug": "eco-drive-no",
+  "canonicalSlug": "eco-drive",
+  "locale": "nb",
+  "title": "Eco drive – NO",
+  "link": "https://www.jaxicloud.com/nb/eco-drive-no/",
+  "pageKind": "solution",
+  "translations": {
+    "nb": 3163,
+    "da": 2111,
+    "en": 85,
+    "de": 2505,
+    "fr": 2762,
+    "nl": 2966,
+    "sv": 3354,
+    "tr": 3547
+  },
+  "excerpt": "Eco drive Økokjøring: en løsning for å overvåke kjøreatferd Eco Driving er en Jaxicloud Fleet Management-basert app som hjelper med å vurdere en sjåførs ytelse. Løsningen evaluerer kjøreferdigheter basert på straffepoeng for brudd som fartsovertredelse, unødvendig akselerasjon, kraftig bremsing, akselerasjon i svinger osv. Sensorer installert i et kjøretøy oppdager brudd. Analyse av kjøreatferd bidrar til [&hellip;]",
+  "seo": {
+    "title": "Eco driveEco drive - NO - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:01:01",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "cfcbbf1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cfcbbf1",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Eco drive",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-56cfc9f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f7beaba",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f7beaba",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Økokjøring: en løsning for å overvåke kjøreatferd",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f745f8e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "96d5e56",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-96d5e56",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Eco Driving er en Jaxicloud Fleet Management-basert app som hjelper med å vurdere en sjåførs ytelse. Løsningen evaluerer kjøreferdigheter basert på straffepoeng for brudd som fartsovertredelse, unødvendig akselerasjon, kraftig bremsing, akselerasjon i svinger osv.</p><p>Sensorer installert i et kjøretøy oppdager brudd. Analyse av kjøreatferd bidrar til å disiplinere og trene sjåfører. Profesjonell og forsiktig kjøring bidrar igjen til å redusere drivstoffkostnader, forlenge kjøretøyets levetid og forbedre flåtesikkerheten for passasjerer og last.</p><p>Detaljert beskrivelse av brudd</p><p>Visualisering av spor og hendelsesmarkører på kartet<br>Evaluering av kjørekvalitet i henhold til forhåndsdefinerte eller brukerdefinerte kriterier<br>Rangering av sjåfører i henhold til antall tildelte straffepoeng<br>Varsler om fartsovertredelse og andre brudd<br>Automatiske rapporter om sjåføratferd</p><p>Aktivt arbeid mot hvert kjøretøy</p><p>Analyser statistikk over flåten for å vise dens generelle tilstand<br>Samarbeid med sjåfører og dispatchere for å dekke alle nødvendige flåtebehov</p>",
+      "bodyText": "Eco Driving er en Jaxicloud Fleet Management-basert app som hjelper med å vurdere en sjåførs ytelse. Løsningen evaluerer kjøreferdigheter basert på straffepoeng for brudd som fartsovertredelse, unødvendig akselerasjon, kraftig bremsing, akselerasjon i svinger osv.Sensorer installert i et kjøretøy oppdager brudd. Analyse av kjøreatferd bidrar til å disiplinere og trene sjåfører. Profesjonell og forsiktig kjøring bidrar igjen til å redusere drivstoffkostnader, forlenge kjøretøyets levetid og forbedre flåtesikkerheten for passasjerer og last.Detaljert beskrivelse av bruddVisualisering av spor og hendelsesmarkører på kartetEvaluering av kjørekvalitet i henhold til forhåndsdefinerte eller brukerdefinerte kriterierRangering av sjåfører i henhold til antall tildelte straffepoengVarsler om fartsovertredelse og andre bruddAutomatiske rapporter om sjåføratferdAktivt arbeid mot hvert kjøretøyAnalyser statistikk over flåten for å vise dens generelle tilstandSamarbeid med sjåfører og dispatchere for å dekke alle nødvendige flåtebehov",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f745f8e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "bc29275",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bc29275",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_badb383ac03d48bcac6a060ae6617345mv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f745f8e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "8c0add2",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8c0add2",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "ECO DRIVE",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "3ac2536",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3ac2536",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Reduksjon av drivstofforbruk",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Eco Driving fungerer som et tillegg til Jaxicloud Fleet Management drivstoffovervåkingssystem. Minimering av harde manøvrer under kjøring, sammen med optimal kjøretøyhastighet, gjør det mulig å redusere drivstoffkostnader og -forbruk.</p>",
+      "bodyText": "Eco Driving fungerer som et tillegg til Jaxicloud Fleet Management drivstoffovervåkingssystem. Minimering av harde manøvrer under kjøring, sammen med optimal kjøretøyhastighet, gjør det mulig å redusere drivstoffkostnader og -forbruk.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "99aa8f7",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-99aa8f7",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Flåtesikkerhet",
+      "bodyHtml": "<p>Systemet for overvåking av kjøreatferd bidrar til å sikre transportsikkerhet for varer og passasjerer, samt for andre trafikanter. Økokjøring forbedrer dermed den generelle trafikksikkerheten.</p>",
+      "bodyText": "Systemet for overvåking av kjøreatferd bidrar til å sikre transportsikkerhet for varer og passasjerer, samt for andre trafikanter. Økokjøring forbedrer dermed den generelle trafikksikkerheten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "fac8238",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fac8238",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Personalets effektivitet",
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Systemet for å overvåke potensielle kunders atferd gir en bedrift strukturert informasjon om de ansattes arbeid. Det lar ledere raskt oppdage og lære opp ineffektive sjåfører, identifisere de beste og belønne dem.</p>",
+      "bodyText": "Systemet for å overvåke potensielle kunders atferd gir en bedrift strukturert informasjon om de ansattes arbeid. Det lar ledere raskt oppdage og lære opp ineffektive sjåfører, identifisere de beste og belønne dem.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "ed40152",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ed40152",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Co2 redaksjonelt regnskap",
+      "bodyHtml": "<p class=\"font_2 wixui-rich-text__text\">Forbedringer i kjøreegenskaper og ferdigheter reduserer drivstofforbruket. Som et resultat slipper færre utslipp ut i atmosfæren.</p>",
+      "bodyText": "Forbedringer i kjøreegenskaper og ferdigheter reduserer drivstofforbruket. Som et resultat slipper færre utslipp ut i atmosfæren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 2,
+      "elementorId": "c7abc83",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c7abc83",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Besparelser på vedlikehold",
+      "bodyHtml": "<p>Bruk av økokjøring lar transportselskaper holde flåtene sine i god stand og redusere behovet for reparasjoner.</p>",
+      "bodyText": "Bruk av økokjøring lar transportselskaper holde flåtene sine i god stand og redusere behovet for reparasjoner.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 4,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1e3147",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "906ebd3",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-906ebd3",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Parametre for vurdering av kjøreatferd",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-add2fae",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "e4098ba",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e4098ba",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av sensorer som er konfigurert.</p>",
+      "bodyText": "Muligheten til å velge parametere for analyse av kjøreatferd: akselerasjon, bremsing, hastighet, hensynsløs kjøring, akselerasjon i svinger. Eco Driving kan spore andre overtredelser avhengig av sensorer som er konfigurert.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-add2fae",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "acd07ad",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-acd07ad",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f8edd0efd2534aa09eaed224b3e58512mv2.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 468
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ce93f4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "ad8ca2c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ad8ca2c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p><strong>Turanalyse</strong></p><p>En detaljert turrapport med kart og en tabell over regelbrudd, hvor sjåførens vurdering vises i form av turens varighet i form av en kolonne.</p><p><strong>Rapporter</strong></p><p>Flere typer rapporter for en omfattende analyse av kjøreatferd: etter sjåfør, sjåførgruppe eller enheter for en hvilken som helst periode. Eksporter til PDF- og XLSX-filer.</p>",
+      "bodyText": "TuranalyseEn detaljert turrapport med kart og en tabell over regelbrudd, hvor sjåførens vurdering vises i form av turens varighet i form av en kolonne.RapporterFlere typer rapporter for en omfattende analyse av kjøreatferd: etter sjåfør, sjåførgruppe eller enheter for en hvilken som helst periode. Eksporter til PDF- og XLSX-filer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2ce93f4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "1426936",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1426936",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "1",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Jaxicloud Fleet Management samler inn data fra sensorer installert i kjøretøy og sender dem til Eco Driving-appen</p>",
+      "bodyText": "Jaxicloud Fleet Management samler inn data fra sensorer installert i kjøretøy og sender dem til Eco Driving-appen",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 5,
+      "elementorId": "62fbb8e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-62fbb8e",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "2",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I Jaxicloud Fleet Management velger en bruker parametere for vurdering av kjørekvalitet.</p>",
+      "bodyText": "I Jaxicloud Fleet Management velger en bruker parametere for vurdering av kjørekvalitet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "2e17b96",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2e17b96",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "3",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I Jaxicloud Fleet Management tildeler en bruker også antall straffepoeng for hver parameter, og danner dermed systemet for vurdering av kjørekvalitet.</p>",
+      "bodyText": "I Jaxicloud Fleet Management tildeler en bruker også antall straffepoeng for hver parameter, og danner dermed systemet for vurdering av kjørekvalitet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "a55d6af",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a55d6af",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "4",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Appen viser en sjåførs vurdering, antall overtredelser, bygger opp kjørefeltet på kartet og viser hvor disse overtredelsene ble oppdaget.</p>",
+      "bodyText": "Appen viser en sjåførs vurdering, antall overtredelser, bygger opp kjørefeltet på kartet og viser hvor disse overtredelsene ble oppdaget.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 5,
+      "elementorId": "0cdd165",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0cdd165",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "5",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">I programvaren for sjåførsporing genererer en bruker rapporter basert på informasjonen som samles inn.</p>",
+      "bodyText": "I programvaren for sjåførsporing genererer en bruker rapporter basert på informasjonen som samles inn.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "2c168e1",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2c168e1",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "6",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">En bruker utnytter dataene fra rapportene til å forbedre personalets kjøreferdigheter, noe som fremmer transportsikkerheten for passasjerer og last.</p><p>&nbsp;</p>",
+      "bodyText": "En bruker utnytter dataene fra rapportene til å forbedre personalets kjøreferdigheter, noe som fremmer transportsikkerheten for passasjerer og last.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3f57946",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 20,
+    "sectionCount": 6,
+    "htmlBytes": 28753
+  }
+}

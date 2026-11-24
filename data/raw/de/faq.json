@@ -1,0 +1,144 @@
+{
+  "id": 2510,
+  "slug": "faq-de",
+  "canonicalSlug": "faq",
+  "locale": "de",
+  "title": "FAQ – DE",
+  "link": "https://www.jaxicloud.com/de/faq-de/",
+  "pageKind": "marketing",
+  "translations": {
+    "de": 2510,
+    "da": 2117,
+    "en": 43,
+    "fr": 2767,
+    "nl": 2972,
+    "nb": 3168,
+    "sv": 3362,
+    "tr": 3552
+  },
+  "excerpt": "Häufig gestellte Fragen Hier finden Sie schnelle Antworten auf die häufigsten Fragen zur JaxiCloud-Plattform, ihren Funktionen und ihrer Nutzung. Was ist JaxiCloud Flottenmanagement? Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Eco Driving kann je nach den erstellten Einstellungen weitere Verstöße erfassen. Wer kann JaxiCloud Fleet [&hellip;]",
+  "seo": {
+    "title": "FAQ - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:45:10",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "130d4a6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-130d4a6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Häufig gestellte Fragen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-dec2534",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "31860ef",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31860ef",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Hier finden Sie schnelle Antworten auf die häufigsten Fragen zur JaxiCloud-Plattform, ihren Funktionen und ihrer Nutzung.</p>",
+      "bodyText": "Hier finden Sie schnelle Antworten auf die häufigsten Fragen zur JaxiCloud-Plattform, ihren Funktionen und ihrer Nutzung.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "d2d2d8a",
+      "widgetType": "eael-adv-accordion.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d2d2d8a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-adv-accordion"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Eco Driving kann je nach den erstellten Einstellungen weitere Verstöße erfassen.</p><p>Die Plattform eignet sich ideal für alle Unternehmen, die eine Fahrzeugflotte besitzen und betreiben, darunter Transport- und Logistikunternehmen, Lieferunternehmen, Dienstleistungsunternehmen und kommunale Behörden.</p><p>Registrieren Sie sich zunächst auf unserer Website und wählen Sie das Paket, das am besten zu Ihren Bedürfnissen passt. Nach der Registrierung erhalten Sie Anweisungen zur Installation unserer Ortungsgeräte und zur Einrichtung Ihres Kontos.</p><p>Sie können Wartungspläne in JaxiCloud eingeben, die Sie an bevorstehende Servicetermine erinnern und die Wartungshistorie verwalten.</p><p>Ja, JaxiCloud analysiert Fahrmuster und gibt Ihnen Einblicke in das Fahrverhalten, wie z. B. Geschwindigkeit, starkes Bremsen und Beschleunigungsmuster, was dazu beiträgt, die Sicherheit zu verbessern und Kosten zu senken.</p><p>Wir setzen fortschrittliche Sicherheitsmaßnahmen ein, darunter Verschlüsselung und regelmäßige Sicherheitsüberprüfungen, um Ihre Daten zu schützen.</p><p>Sie können unser Support-Team per E-Mail, Telefon oder Live-Chat erreichen. Supportinformationen finden Sie auf unserer Website.</p><p>Ja, wir bieten umfangreiches Schulungsmaterial, darunter Videos, Handbücher und Webinare, damit Sie JaxiCloud Fleet Management optimal nutzen können.</p><p>Wir bieten verschiedene Pakete an, die auf die Bedürfnisse und Größen unterschiedlicher Unternehmen zugeschnitten sind. Weitere Informationen zu den verfügbaren Paketen finden Sie auf unserer Preisseite.</p><p>Die Abrechnung erfolgt monatlich oder jährlich, abhängig vom gewählten Abonnement. Die Rechnungsstellung erfolgt automatisch über die von Ihnen bei der Registrierung angegebene Zahlungsmethode.</p><p>Sie benötigen JaxiCloud GPS-Ortungsgeräte, die in Ihren Fahrzeugen installiert werden. Diese Geräte sind im Abonnementpaket enthalten.</p><p>Ja, JaxiCloud bietet eine mobile App für iOS und Android an, mit der Sie Ihre Flotte verwalten und Echtzeit-Updates erhalten können, egal wo Sie sich befinden.</p><p>Ja, Sie können Ihr Abonnement jederzeit in Ihren Kontoeinstellungen auf der JaxiCloud-Website upgraden oder downgraden.</p>",
+      "bodyText": "Die Möglichkeit, Parameter für die Analyse des Fahrverhaltens auszuwählen: Beschleunigung, Bremsen, Geschwindigkeit, rücksichtsloses Fahren, Beschleunigung in Kurven. Eco Driving kann je nach den erstellten Einstellungen weitere Verstöße erfassen.Die Plattform eignet sich ideal für alle Unternehmen, die eine Fahrzeugflotte besitzen und betreiben, darunter Transport- und Logistikunternehmen, Lieferunternehmen, Dienstleistungsunternehmen und kommunale Behörden.Registrieren Sie sich zunächst auf unserer Website und wählen Sie das Paket, das am besten zu Ihren Bedürfnissen passt. Nach der Registrierung erhalten Sie Anweisungen zur Installation unserer Ortungsgeräte und zur Einrichtung Ihres Kontos.Sie können Wartungspläne in JaxiCloud eingeben, die Sie an bevorstehende Servicetermine erinnern und die Wartungshistorie verwalten.Ja, JaxiCloud analysiert Fahrmuster und gibt Ihnen Einblicke in das Fahrverhalten, wie z. B. Geschwindigkeit, starkes Bremsen und Beschleunigungsmuster, was dazu beiträgt, die Sicherheit zu verbessern und Kosten zu senken.Wir setzen fortschrittliche Sicherheitsmaßnahmen ein, darunter Verschlüsselung und regelmäßige Sicherheitsüberprüfungen, um Ihre Daten zu schützen.Sie können unser Support-Team per E-Mail, Telefon oder Live-Chat erreichen. Supportinformationen finden Sie auf unserer Website.Ja, wir bieten umfangreiches Schulungsmaterial, darunter Videos, Handbücher und Webinare, damit Sie JaxiCloud Fleet Management optimal nutzen können.Wir bieten verschiedene Pakete an, die auf die Bedürfnisse und Größen unterschiedlicher Unternehmen zugeschnitten sind. Weitere Informationen zu den verfügbaren Paketen finden Sie auf unserer Preisseite.Die Abrechnung erfolgt monatlich oder jährlich, abhängig vom gewählten Abonnement. Die Rechnungsstellung erfolgt automatisch über die von Ihnen bei der Registrierung angegebene Zahlungsmethode.Sie benötigen JaxiCloud GPS-Ortungsgeräte, die in Ihren Fahrzeugen installiert werden. Diese Geräte sind im Abonnementpaket enthalten.Ja, JaxiCloud bietet eine mobile App für iOS und Android an, mit der Sie Ihre Flotte verwalten und Echtzeit-Updates erhalten können, egal wo Sie sich befinden.Ja, Sie können Ihr Abonnement jederzeit in Ihren Kontoeinstellungen auf der JaxiCloud-Website upgraden oder downgraden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Echtzeit-Ortung: Verfolgen Sie den Standort Ihrer Fahrzeuge in Echtzeit. Wartungsplanung: Planen und überwachen Sie die Fahrzeugwartung, um Ausfallzeiten zu minimieren. Kraftstoffmanagement: Überwachen Sie den Kraftstoffverbrauch und identifizieren Sie Einsparmöglichkeiten. Fahrverhalten: Analysieren Sie Fahrmuster, um Sicherheit und Effizienz zu verbessern. Reporting: Erstellen Sie detaillierte Berichte zu Flottenleistung und -kosten."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 23052
+  }
+}

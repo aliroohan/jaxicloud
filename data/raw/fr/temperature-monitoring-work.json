@@ -1,0 +1,648 @@
+{
+  "id": 2858,
+  "slug": "temperature-monitoring-work-fr",
+  "canonicalSlug": "temperature-monitoring-work",
+  "locale": "fr",
+  "title": "Temperature monitoring work – FR",
+  "link": "https://www.jaxicloud.com/fr/temperature-monitoring-work-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2858,
+    "da": 2210,
+    "en": 1221,
+    "de": 2610,
+    "nl": 3058,
+    "nb": 3257,
+    "sv": 3450,
+    "tr": 3640
+  },
+  "excerpt": "Travaux de surveillance de la température Qu’est-ce que la surveillance de température à distance ? Dans le secteur des transports, le respect de la chaîne du froid est un enjeu majeur, tant pour des raisons de santé publique qu’économiques. Le transport de marchandises thermosensibles est soumis à de nombreuses normes et réglementations (par exemple, les [&hellip;]",
+  "seo": {
+    "title": "Travaux de surveillance de la température - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-17T23:30:02",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "126703a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-126703a",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Travaux de surveillance de la température",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-a032943",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f1a5ba6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f1a5ba6",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Qu'est-ce que la surveillance de température à distance ?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "ca333e2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ca333e2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Dans le secteur des transports, le respect de la chaîne du froid est un enjeu majeur, tant pour des raisons de santé publique qu’économiques. Le transport de marchandises thermosensibles est soumis à de nombreuses normes et réglementations (par exemple, les normes EN12830 et EN13486), ce qui incite les acteurs du secteur à se doter de solutions télématiques connectées et innovantes. En effet, une rupture de la chaîne du froid peut avoir de graves conséquences et doit être contrôlée avec précision et régularité.</p><p>Pour relever ce défi et permettre aux transporteurs de garantir la sécurité des marchandises dont ils sont responsables, nous vous conseillons d’intégrer la surveillance à distance de la température à votre solution IoT grâce aux capteurs Bluetooth Low Energy de Jaxicloud Fleet Management Innovation.</p>",
+      "bodyText": "Dans le secteur des transports, le respect de la chaîne du froid est un enjeu majeur, tant pour des raisons de santé publique qu’économiques. Le transport de marchandises thermosensibles est soumis à de nombreuses normes et réglementations (par exemple, les normes EN12830 et EN13486), ce qui incite les acteurs du secteur à se doter de solutions télématiques connectées et innovantes. En effet, une rupture de la chaîne du froid peut avoir de graves conséquences et doit être contrôlée avec précision et régularité.Pour relever ce défi et permettre aux transporteurs de garantir la sécurité des marchandises dont ils sont responsables, nous vous conseillons d’intégrer la surveillance à distance de la température à votre solution IoT grâce aux capteurs Bluetooth Low Energy de Jaxicloud Fleet Management Innovation.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0aee9fc",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0aee9fc",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_de426acbdd9c46ed94c6612d0d861201mv2.jpg",
+          "alt": "",
+          "width": 474,
+          "height": 474
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf1bdcf",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "40e6846",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-40e6846",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ea186e658be24056a4321d95caf43dfcmv2.jpg",
+          "alt": "",
+          "width": 429,
+          "height": 429
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "7869de9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7869de9",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Comment fonctionne la surveillance de température à distance ?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "f3e1ebe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f3e1ebe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Les capteurs de température peuvent être installés à différents endroits : dans un camion frigorifique, une caisse isotherme ou un réfrigérateur. Entièrement autonomes, ils mesurent et enregistrent la température à intervalles réguliers (configurables). L’historique des données est transmis par le capteur au boîtier télématique intégré via Bluetooth Low Energy. Ce boîtier sert ensuite de passerelle et transfère les informations vers votre plateforme IoT via le réseau mobile 3G/4G.</p><p>L’utilisateur peut alors visualiser l’historique des variations sous forme de graphiques et de rapports sur votre plateforme. Il peut également définir des seuils d’alarme via votre plateforme connectée. Dans ce cas, si la température dépasse le seuil prédéfini, une alerte est envoyée en temps réel au conducteur sur son smartphone.</p>",
+      "bodyText": "Les capteurs de température peuvent être installés à différents endroits : dans un camion frigorifique, une caisse isotherme ou un réfrigérateur. Entièrement autonomes, ils mesurent et enregistrent la température à intervalles réguliers (configurables). L’historique des données est transmis par le capteur au boîtier télématique intégré via Bluetooth Low Energy. Ce boîtier sert ensuite de passerelle et transfère les informations vers votre plateforme IoT via le réseau mobile 3G/4G.L’utilisateur peut alors visualiser l’historique des variations sous forme de graphiques et de rapports sur votre plateforme. Il peut également définir des seuils d’alarme via votre plateforme connectée. Dans ce cas, si la température dépasse le seuil prédéfini, une alerte est envoyée en temps réel au conducteur sur son smartphone.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "fdea029",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fdea029",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Voir plus",
+          "href": "/fr/cooling-monitoring-fr/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6369834",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "2440230",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2440230",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">« Nous transportons des fleurs et de nombreux autres produits réfrigérés dans toute l’Europe. Grâce aux capteurs de température, nous maîtrisons nos livraisons. Nous mettons à la disposition de nos clients des graphiques de température, leur permettant de suivre leurs livraisons en temps réel et de garantir le maintien de la chaîne du froid. Cela nous permet de respecter les chartes et réglementations régissant le transport des produits pharmaceutiques. »</p>",
+      "bodyText": "« Nous transportons des fleurs et de nombreux autres produits réfrigérés dans toute l’Europe. Grâce aux capteurs de température, nous maîtrisons nos livraisons. Nous mettons à la disposition de nos clients des graphiques de température, leur permettant de suivre leurs livraisons en temps réel et de garantir le maintien de la chaîne du froid. Cela nous permet de respecter les chartes et réglementations régissant le transport des produits pharmaceutiques. »",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-e9e91e9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "a7b01e1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a7b01e1",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Pourquoi intégrer les capteurs de température Jaxicloud Fleet Management Innovation à votre solution télématique ?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec6a218",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "304373a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-304373a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Les capteurs de température industriels de Jaxicloud Fleet Management Innovation sont idéaux pour répondre aux besoins de surveillance à distance de la température pour de nombreuses raisons :</p><p><strong>100 % autonomes</strong></p><p>Leur fonctionnement sur batterie leur assure jusqu’à 18 ans d’autonomie, garantissant un coût total de possession très compétitif.</p><p><strong>Certifiés EN12830 – 2018</strong></p><p>Les capteurs sont certifiés COFRAC (EN12830 – 2018), ce qui atteste de leur précision et de leur étalonnage conformément aux normes en vigueur.<br>Cette certification est valable à l’échelle internationale, puisque l’organisme COFRAC est affilié à l’ILAC.<br>ELA Innovation propose également un service d’étalonnage pour garantir la fiabilité des données tout au long de la durée de vie du produit.</p><p><strong>Large plage de mesure et données en temps réel</strong></p><p>Avec une plage de mesure de -40 °C à +85 °C (et même -80 °C à +200 °C pour le Blue PUCK T-PROBE) ainsi qu’une période de transmission configurable, ces capteurs couvrent les principaux cas d’usage dans le transport de marchandises sensibles à la température, en transmettant les données enregistrées en temps réel.</p><p><strong>Compatibles avec les boîtiers télématiques</strong></p><p>Équipés de la technologie Bluetooth Low Energy, ces capteurs sont compatibles avec la plupart des boîtiers télématiques intégrés disponibles sur le marché et ne nécessitent aucune intégration supplémentaire.</p><p><strong>Installation rapide et facile</strong></p><p>Très simples à installer grâce aux différents moyens de fixation (adhésif double face haute performance ou support vissé), ces capteurs peuvent être montés sur tout type de surface et ne nécessitent aucun câblage.</p>",
+      "bodyText": "Les capteurs de température industriels de Jaxicloud Fleet Management Innovation sont idéaux pour répondre aux besoins de surveillance à distance de la température pour de nombreuses raisons :100 % autonomesLeur fonctionnement sur batterie leur assure jusqu’à 18 ans d’autonomie, garantissant un coût total de possession très compétitif.Certifiés EN12830 – 2018Les capteurs sont certifiés COFRAC (EN12830 – 2018), ce qui atteste de leur précision et de leur étalonnage conformément aux normes en vigueur.Cette certification est valable à l’échelle internationale, puisque l’organisme COFRAC est affilié à l’ILAC.ELA Innovation propose également un service d’étalonnage pour garantir la fiabilité des données tout au long de la durée de vie du produit.Large plage de mesure et données en temps réelAvec une plage de mesure de -40 °C à +85 °C (et même -80 °C à +200 °C pour le Blue PUCK T-PROBE) ainsi qu’une période de transmission configurable, ces capteurs couvrent les principaux cas d’usage dans le transport de marchandises sensibles à la température, en transmettant les données enregistrées en temps réel.Compatibles avec les boîtiers télématiquesÉquipés de la technologie Bluetooth Low Energy, ces capteurs sont compatibles avec la plupart des boîtiers télématiques intégrés disponibles sur le marché et ne nécessitent aucune intégration supplémentaire.Installation rapide et facileTrès simples à installer grâce aux différents moyens de fixation (adhésif double face haute performance ou support vissé), ces capteurs peuvent être montés sur tout type de surface et ne nécessitent aucun câblage.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec6a218",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 5,
+      "elementorId": "3fda5ce",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3fda5ce",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Quels capteurs de température ELA Innovation devez-vous utiliser ?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "1063be7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1063be7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la surveillance à distance de la température à votre offre, voici les produits ELA Innovation que nous recommandons :</p>",
+      "bodyText": "Si vous êtes un fournisseur de solutions IoT et que vous souhaitez intégrer la surveillance à distance de la température à votre offre, voici les produits ELA Innovation que nous recommandons :",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "add6b4b",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-add6b4b",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_07f4811d76b846238e0d702f9c49e677mv2.jpg",
+          "alt": "",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "8f649f1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f649f1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_3a856706029342119340e9a4080cb083mv2.jpg",
+          "alt": "",
+          "width": 255,
+          "height": 159
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-418b47a",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 15,
+    "sectionCount": 6,
+    "htmlBytes": 18852
+  }
+}

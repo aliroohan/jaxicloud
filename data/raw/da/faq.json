@@ -1,0 +1,148 @@
+{
+  "id": 2117,
+  "slug": "faq-da",
+  "canonicalSlug": "faq",
+  "locale": "da",
+  "title": "FAQ DA",
+  "link": "https://www.jaxicloud.com/faq-da/",
+  "pageKind": "marketing",
+  "translations": {
+    "da": 2117,
+    "en": 43,
+    "de": 2510,
+    "fr": 2767,
+    "nl": 2972,
+    "nb": 3168,
+    "sv": 3362,
+    "tr": 3552
+  },
+  "excerpt": "Ofte stillede spørgsmål Find hurtige svar på de mest almindelige spørgsmål om JaxiCloud-platformen, funktioner og brug. Hvad er JaxiCloud flådestyring Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af den oprettede Hvem kan bruge JaxiCloud flådestyring? Platformen er ideel [&hellip;]",
+  "seo": {
+    "title": "FAQ - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:44:36",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "130d4a6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-130d4a6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ofte stillede spørgsmål",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-dec2534",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "31860ef",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31860ef",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Find hurtige svar på de mest almindelige spørgsmål om JaxiCloud-platformen, funktioner og brug.</p>",
+      "bodyText": "Find hurtige svar på de mest almindelige spørgsmål om JaxiCloud-platformen, funktioner og brug.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "d2d2d8a",
+      "widgetType": "eael-adv-accordion.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d2d2d8a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-adv-accordion"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af den oprettede</p><p>For at komme i gang skal du registrere dig på vores hjemmeside og vælge den pakke, der bedst passer til dine behov. Efter registreringen modtager du instruktioner til installation af vores sporingsenheder og opsætning af din konto.</p><p>Du kan indtaste vedligeholdelsesplaner i JaxiCloud, som vil minde dig om kommende serviceaftaler og holde styr på vedligeholdelseshistorikken.</p><p>Ja, JaxiCloud analyserer køremønstre og giver dig indsigt i køreadfærd såsom hastighed, hård opbremsning og accelerationsmønstre, hvilket hjælper med at forbedre sikkerheden og reducere omkostninger.</p><p>Vi bruger avancerede sikkerhedsforanstaltninger, herunder kryptering og regelmæssige sikkerhedsrevisioner, for at beskytte dine data.</p><p>Du kan kontakte vores supportteam via e-mail, telefon eller livechat. Supportoplysninger kan findes på vores hjemmeside.</p><p>Ja, vi tilbyder omfattende træningsmaterialer, herunder videoer, manualer og webinarer, for at hjælpe dig med at få mest muligt ud af JaxiCloud Fleet Management.</p><p>Vi tilbyder flere forskellige pakker, der er designet til at passe til behovene og størrelserne hos forskellige virksomheder. Besøg vores prisside for at få flere oplysninger om de tilgængelige pakker.</p><p>Du vil blive faktureret månedligt eller årligt, afhængigt af den valgte abonnementsplan. Fakturering håndteres automatisk via den betalingsmetode, du har valgt ved registreringen.</p><p>Du skal have JaxiCloud GPS-sporingsenheder installeret i dine køretøjer. Disse enheder er en del af din abonnementspakke.</p><p>Ja, JaxiCloud tilbyder en mobilapp til både iOS og Android, så du kan administrere din flåde og få opdateringer i realtid, uanset hvor du er.</p><p>Ja, du kan til enhver tid opgradere eller nedgradere dit abonnement fra dine kontoindstillinger på JaxiCloud-webstedet.</p>",
+      "bodyText": "Muligheden for at vælge parametre til analyse af køreadfærd: acceleration, bremsning, hastighed, hensynsløs kørsel, acceleration i sving. Eco Driving kan spore andre overtrædelser afhængigt af den oprettedeFor at komme i gang skal du registrere dig på vores hjemmeside og vælge den pakke, der bedst passer til dine behov. Efter registreringen modtager du instruktioner til installation af vores sporingsenheder og opsætning af din konto.Du kan indtaste vedligeholdelsesplaner i JaxiCloud, som vil minde dig om kommende serviceaftaler og holde styr på vedligeholdelseshistorikken.Ja, JaxiCloud analyserer køremønstre og giver dig indsigt i køreadfærd såsom hastighed, hård opbremsning og accelerationsmønstre, hvilket hjælper med at forbedre sikkerheden og reducere omkostninger.Vi bruger avancerede sikkerhedsforanstaltninger, herunder kryptering og regelmæssige sikkerhedsrevisioner, for at beskytte dine data.Du kan kontakte vores supportteam via e-mail, telefon eller livechat. Supportoplysninger kan findes på vores hjemmeside.Ja, vi tilbyder omfattende træningsmaterialer, herunder videoer, manualer og webinarer, for at hjælpe dig med at få mest muligt ud af JaxiCloud Fleet Management.Vi tilbyder flere forskellige pakker, der er designet til at passe til behovene og størrelserne hos forskellige virksomheder. Besøg vores prisside for at få flere oplysninger om de tilgængelige pakker.Du vil blive faktureret månedligt eller årligt, afhængigt af den valgte abonnementsplan. Fakturering håndteres automatisk via den betalingsmetode, du har valgt ved registreringen.Du skal have JaxiCloud GPS-sporingsenheder installeret i dine køretøjer. Disse enheder er en del af din abonnementspakke.Ja, JaxiCloud tilbyder en mobilapp til både iOS og Android, så du kan administrere din flåde og få opdateringer i realtid, uanset hvor du er.Ja, du kan til enhver tid opgradere eller nedgradere dit abonnement fra dine kontoindstillinger på JaxiCloud-webstedet.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Sporing i realtid: Overvåg dine køretøjers placering i realtid.",
+        "Vedligeholdelsesplanlægning: Planlæg og overvåg køretøjsvedligeholdelse for at minimere nedetid.",
+        "Brændstofstyring: Overvåg brændstofforbruget og identificer muligheder for besparelser.",
+        "Køreadfærd: Analysér kørselsmønstre for at forbedre sikkerhed og effektivitet.",
+        "Rapportering: Generer detaljerede rapporter om flådens ydeevne og omkostninger."
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 23205
+  }
+}

@@ -1,0 +1,1394 @@
+{
+  "id": 1069,
+  "slug": "logistics-delivery-system",
+  "canonicalSlug": "logistics-delivery-system",
+  "locale": "da",
+  "title": "Logistics delivery system – DA",
+  "link": "https://www.jaxicloud.com/logistics-delivery-system/",
+  "pageKind": "solution",
+  "translations": {
+    "da": 1069,
+    "en": 1084,
+    "de": 2557,
+    "fr": 2807,
+    "nl": 3008,
+    "nb": 3207,
+    "sv": 3401,
+    "tr": 3589
+  },
+  "excerpt": "Logistik leveringssystem Flådestyring af leveringer med Jaxicloud Fleet Management Lad dine kunder udføre en bred vifte af logistikopgaver til levering på sidste kilometer. Implementer flådestyring til levering for at automatisere og digitalisere flådeejerens forretning. Udstyr erhvervsflåder med et værktøj til lastbilchauffører og en mobilapplikation til chauffører. Daglig ordreimport og -distribution, planlægning og optimering af ruter, [&hellip;]",
+  "seo": {
+    "title": "Logistik leveringssystem - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T09:43:53",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "522869f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-522869f",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Logistik leveringssystem",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-6a9c196",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "2b5d7e4",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2b5d7e4",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Flådestyring af leveringer med Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "b1d3868",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b1d3868",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Lad dine kunder udføre en bred vifte af logistikopgaver til levering på sidste kilometer. Implementer flådestyring til levering for at automatisere og digitalisere flådeejerens forretning.</p><p>Udstyr erhvervsflåder med et værktøj til lastbilchauffører og en mobilapplikation til chauffører. Daglig ordreimport og -distribution, planlægning og optimering af ruter, leveringskontrol, rapporter, notifikationer og muligheder for tredjepartsintegrationer står til rådighed for flådeejeren. Wialon kombinerer GPS-sporing, IoT og flådestyring for at øge profitten fra leveringsflåder. Download demo</p>",
+      "bodyText": "Lad dine kunder udføre en bred vifte af logistikopgaver til levering på sidste kilometer. Implementer flådestyring til levering for at automatisere og digitalisere flådeejerens forretning.Udstyr erhvervsflåder med et værktøj til lastbilchauffører og en mobilapplikation til chauffører. Daglig ordreimport og -distribution, planlægning og optimering af ruter, leveringskontrol, rapporter, notifikationer og muligheder for tredjepartsintegrationer står til rådighed for flådeejeren. Wialon kombinerer GPS-sporing, IoT og flådestyring for at øge profitten fra leveringsflåder. Download demo",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "a4ca921",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a4ca921",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ca2aa0d842dc4204b24c3c8448123e41mv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "5246b1c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5246b1c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvordan Jaxicloud Fleet Management kan hjælpe med leveringsflåder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb059c4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "d6b3564",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d6b3564",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4e8c017",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 4,
+      "elementorId": "e593b27",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e593b27",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Mindre manuelt arbejde",
+      "bodyHtml": "<p>Automatisk ruteoprettelse, ordreimport og dataflow til tredjepartsapps erstatter tidvis af manuelt arbejde for dine kunders medarbejdere.</p>",
+      "bodyText": "Automatisk ruteoprettelse, ordreimport og dataflow til tredjepartsapps erstatter tidvis af manuelt arbejde for dine kunders medarbejdere.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 4,
+      "elementorId": "190989c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-190989c",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Styring i realtid",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Disponenter holder sig opdateret via notifikationer, kommunikerer med chauffører, overvåger deres arbejde i realtid og reagerer hurtigt for at forbedre servicekvaliteten og undgå forsinkelser.</p>",
+      "bodyText": "Disponenter holder sig opdateret via notifikationer, kommunikerer med chauffører, overvåger deres arbejde i realtid og reagerer hurtigt for at forbedre servicekvaliteten og undgå forsinkelser.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "04a3adc",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-04a3adc",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tilgængelighed af historiske data",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Giv din klient mulighed for at forbedre deres processer ved regelmæssigt at analysere planlagte og faktiske ruter, leveringsvarighed, kilometertal og mere.</p>",
+      "bodyText": "Giv din klient mulighed for at forbedre deres processer ved regelmæssigt at analysere planlagte og faktiske ruter, leveringsvarighed, kilometertal og mere.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "f969e81",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f969e81",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Bevis for udført arbejde",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med Wialon ved din kunde med sikkerhed, at kureren har udført opgaven. Billedbevis kan også bruges til at løse problemer med potentielle modparter.</p>",
+      "bodyText": "Med Wialon ved din kunde med sikkerhed, at kureren har udført opgaven. Billedbevis kan også bruges til at løse problemer med potentielle modparter.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "28cfdc2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-28cfdc2",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Sparer tid",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dine kunders medarbejdere vil droppe Excel-regneark, manuel ruteopbygning og opkald til flådekurerer, hver gang deres rute ændrer sig den mindste smule.</p>",
+      "bodyText": "Dine kunders medarbejdere vil droppe Excel-regneark, manuel ruteopbygning og opkald til flådekurerer, hver gang deres rute ændrer sig den mindste smule.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "3b4edd8",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b4edd8",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Sparer ressourcer",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Med ruteoptimering, der tilbydes af appen, leverer din kunde flere ordrer med mindre brændstof og slitage inden for det samme lønbudget.</p>",
+      "bodyText": "Med ruteoptimering, der tilbydes af appen, leverer din kunde flere ordrer med mindre brændstof og slitage inden for det samme lønbudget.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "e75c360",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e75c360",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2c8c89d43.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4e761d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "9ae60a6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ae60a6",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cacc754f.png",
+          "alt": "",
+          "width": 484,
+          "height": 305
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4e761d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "b64345f",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b64345f",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cb6821c7-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dce43f9",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "527ca66",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-527ca66",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cbe9373b1-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dce43f9",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 7,
+      "elementorId": "0283d3a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0283d3a",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ordrer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 7,
+      "elementorId": "b5ca27e",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b5ca27e",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Lad kunder oprette, importere og eksportere ordrer i store mængder og manuelt tilføje eller redigere dem efter behov. Indstillinger som brugerdefinerede felter, vedhæftede filer og andet giver kunderne mulighed for at bruge appen til levering i de fleste brancher.</p>",
+      "bodyText": "Lad kunder oprette, importere og eksportere ordrer i store mængder og manuelt tilføje eller redigere dem efter behov. Indstillinger som brugerdefinerede felter, vedhæftede filer og andet giver kunderne mulighed for at bruge appen til levering i de fleste brancher.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 7,
+      "elementorId": "e038114",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e038114",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Rute- og ordreinformation",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "dd9c715",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dd9c715",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Alle nødvendige oplysninger til leveringen samles i en enkelt app og opdateres i realtid.</p>",
+      "bodyText": "Alle nødvendige oplysninger til leveringen samles i en enkelt app og opdateres i realtid.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 7,
+      "elementorId": "0b7b33d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0b7b33d",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Planlægning af leveringsruten",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 7,
+      "elementorId": "e88e2e7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e88e2e7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Leveringslogistikappen opbygger foreløbige ruter for udvalgte ordrer og køretøjer med estimerede ankomsttider og kilometertal. De tilbudte ruter kan justeres i planlægningsfasen.</p>",
+      "bodyText": "Leveringslogistikappen opbygger foreløbige ruter for udvalgte ordrer og køretøjer med estimerede ankomsttider og kilometertal. De tilbudte ruter kan justeres i planlægningsfasen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 8,
+      "elementorId": "71c42bd",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-71c42bd",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Kommentarer og billeder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 8,
+      "elementorId": "3befe6a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3befe6a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Kurerer og chauffører efterlader kommentarer og billeder på ordrer for at sikre, at alle detaljer om leveringen registreres.</p>",
+      "bodyText": "Kurerer og chauffører efterlader kommentarer og billeder på ordrer for at sikre, at alle detaljer om leveringen registreres.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 8,
+      "elementorId": "c3f8f22",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c3f8f22",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Overvågning af leveringsprocessen og meddelelser",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 8,
+      "elementorId": "e224199",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e224199",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Agenter sporer aktiv ruteudførelse i realtid, bruger dashboardet og følger de notifikationer, som chauffører og modtagere modtager. Chat med en chauffør kan hjælpe med at løse nye problemer.</p>",
+      "bodyText": "Agenter sporer aktiv ruteudførelse i realtid, bruger dashboardet og følger de notifikationer, som chauffører og modtagere modtager. Chat med en chauffør kan hjælpe med at løse nye problemer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 8,
+      "elementorId": "c936822",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c936822",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Sporing af sted",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-28",
+      "order": 27,
+      "sectionIndex": 8,
+      "elementorId": "198581d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-198581d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Det er ikke nødvendigt at udstyre chauffører med GPS-trackere, hvis dit projekt ikke involverer det. Appen fungerer som en tracker, der angiver chaufførens placering.</p>",
+      "bodyText": "Det er ikke nødvendigt at udstyre chauffører med GPS-trackere, hvis dit projekt ikke involverer det. Appen fungerer som en tracker, der angiver chaufførens placering.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-29",
+      "order": 28,
+      "sectionIndex": 9,
+      "elementorId": "413dc19",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-413dc19",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Rapporter",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-30",
+      "order": 29,
+      "sectionIndex": 9,
+      "elementorId": "e70eafe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e70eafe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Flådeejere kan tilpasse og generere rapporterne og dele dem med deres kolleger til analyse og justeringer. En statistikblok på dashboardet giver et overblik over de vigtigste målinger.</p>",
+      "bodyText": "Flådeejere kan tilpasse og generere rapporterne og dele dem med deres kolleger til analyse og justeringer. En statistikblok på dashboardet giver et overblik over de vigtigste målinger.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-31",
+      "order": 30,
+      "sectionIndex": 9,
+      "elementorId": "a830e3f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a830e3f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Chatter med afsenderen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-32",
+      "order": 31,
+      "sectionIndex": 9,
+      "elementorId": "e51e53f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e51e53f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">An in-app chat is used to notify a sender of any circumstances related to the delivery.</p>",
+      "bodyText": "An in-app chat is used to notify a sender of any circumstances related to the delivery.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-33",
+      "order": 32,
+      "sectionIndex": 9,
+      "elementorId": "8f9bd99",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f9bd99",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Beskeder",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-34",
+      "order": 33,
+      "sectionIndex": 9,
+      "elementorId": "6d5cc68",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6d5cc68",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Chauffører underrettes om rutejusteringer og andre væsentlige ændringer, der kan påvirke deres handlinger på ruten.</p>",
+      "bodyText": "Chauffører underrettes om rutejusteringer og andre væsentlige ændringer, der kan påvirke deres handlinger på ruten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 34,
+    "sectionCount": 10,
+    "htmlBytes": 36497
+  }
+}

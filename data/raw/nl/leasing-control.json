@@ -1,0 +1,574 @@
+{
+  "id": 3003,
+  "slug": "leasing-control-hl",
+  "canonicalSlug": "leasing-control",
+  "locale": "nl",
+  "title": "Leasing control – HL",
+  "link": "https://www.jaxicloud.com/nl/leasing-control-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 3003,
+    "da": 2150,
+    "en": 35,
+    "de": 2549,
+    "fr": 2801,
+    "nb": 3202,
+    "sv": 3395,
+    "tr": 3583
+  },
+  "excerpt": "Leasing-autoverhuur GPS-trackingoplossing voor autolease- en autofinancieringsmaatschappijen Betrouwbare autoleasesoftware voor het lokaliseren en terugvinden Autofinancieringen, autoleningen en autoleasing zijn een aantrekkelijke, maar zeer risicovolle markt. Autodiefstal, betalingsachterstanden, wanbetalingen en dure invorderingsprocedures ontmoedigen autodealers en financieringsmaatschappijen om te groeien of de status quo te handhaven. Dat geldt ook voor de onbetrouwbare GPS-trackingtools die gewoon niet helpen. Hier [&hellip;]",
+  "seo": {
+    "title": "LeaseControl - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:46:56",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Leasing-autoverhuur",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "GPS-trackingoplossing voor autolease- en autofinancieringsmaatschappijen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Betrouwbare autoleasesoftware voor het lokaliseren en terugvinden</p><p>Autofinancieringen, autoleningen en autoleasing zijn een aantrekkelijke, maar zeer risicovolle markt. Autodiefstal, betalingsachterstanden, wanbetalingen en dure invorderingsprocedures ontmoedigen autodealers en financieringsmaatschappijen om te groeien of de status quo te handhaven. Dat geldt ook voor de onbetrouwbare GPS-trackingtools die gewoon niet helpen.</p><p>Hier verandert u het landschap met LeaseControl, autoleasingsoftware. Introductie van zijn telematica- en IoT-mogelijkheden om gefinancierde voertuigen te beschermen, de winsten van dealers te beschermen en hen echte bedrijfswaarde te bieden.</p>",
+      "bodyText": "Betrouwbare autoleasesoftware voor het lokaliseren en terugvindenAutofinancieringen, autoleningen en autoleasing zijn een aantrekkelijke, maar zeer risicovolle markt. Autodiefstal, betalingsachterstanden, wanbetalingen en dure invorderingsprocedures ontmoedigen autodealers en financieringsmaatschappijen om te groeien of de status quo te handhaven. Dat geldt ook voor de onbetrouwbare GPS-trackingtools die gewoon niet helpen.Hier verandert u het landschap met LeaseControl, autoleasingsoftware. Introductie van zijn telematica- en IoT-mogelijkheden om gefinancierde voertuigen te beschermen, de winsten van dealers te beschermen en hen echte bedrijfswaarde te bieden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "De belangrijkste functies van Jaxicloud vlootbeheer Leasingcontrole",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Return of vehicles",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Lokaliseer voertuigen en schakel motoren op afstand uit</p>",
+      "bodyText": "Lokaliseer voertuigen en schakel motoren op afstand uit",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stressvrij herstel",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Voorkom diefstal en ongeoorloofde verplaatsing van gefinancierde voertuigen.</p>",
+      "bodyText": "Voorkom diefstal en ongeoorloofde verplaatsing van gefinancierde voertuigen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Op maat gemaakt Oplossing",
+      "bodyHtml": "<p>Speciaal ontworpen voor autoleasebeheer.</p>",
+      "bodyText": "Speciaal ontworpen voor autoleasebeheer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Snelle roi",
+      "bodyHtml": "<p>Krachtige tools die de investeringen van autodealers vanaf dag één beschermen.</p>",
+      "bodyText": "Krachtige tools die de investeringen van autodealers vanaf dag één beschermen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 2,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>In een wereld waar autoleasing en autofinanciering zowel een zegen als een uitdaging zijn geworden, vormt JaxiCloud het baken van veiligheid en betrouwbaarheid. Deze geavanceerde oplossing voor het volgen van wagenparken is op maat gemaakt voor leasing- en autofinancieringsmaatschappijen, waardoor activa altijd binnen handbereik zijn. Met geavanceerde telematica, IoT-mogelijkheden en realtime trackingmogelijkheden beschermt JaxiCloud niet alleen gefinancierde voertuigen, maar stelt het dealers ook in staat risico’s te beperken, de winst te verhogen en ongeëvenaarde waarde te leveren. Stap in de toekomst van autoleasebeheer met JaxiCloud.</p><p>VEILIGHEID VAN OVEREENKOMSTEN MET HOOG RISICO</p><p>Uitdagingen: Gestolen voertuigen en betalingsachterstanden op de markt voor gebruikte autoleningen en subprime-autoleningen.</p><p>Oplossing: de tools van Jaxicloud om voertuigen te volgen, lokaliseren en op afstand te bedienen.</p><p>Resultaat: Verminderde risico’s en geminimaliseerde kosten die gepaard gaan met het bergen van het voertuig.</p>",
+      "bodyText": "In een wereld waar autoleasing en autofinanciering zowel een zegen als een uitdaging zijn geworden, vormt JaxiCloud het baken van veiligheid en betrouwbaarheid. Deze geavanceerde oplossing voor het volgen van wagenparken is op maat gemaakt voor leasing- en autofinancieringsmaatschappijen, waardoor activa altijd binnen handbereik zijn. Met geavanceerde telematica, IoT-mogelijkheden en realtime trackingmogelijkheden beschermt JaxiCloud niet alleen gefinancierde voertuigen, maar stelt het dealers ook in staat risico’s te beperken, de winst te verhogen en ongeëvenaarde waarde te leveren. Stap in de toekomst van autoleasebeheer met JaxiCloud.VEILIGHEID VAN OVEREENKOMSTEN MET HOOG RISICOUitdagingen: Gestolen voertuigen en betalingsachterstanden op de markt voor gebruikte autoleningen en subprime-autoleningen.Oplossing: de tools van Jaxicloud om voertuigen te volgen, lokaliseren en op afstand te bedienen.Resultaat: Verminderde risico’s en geminimaliseerde kosten die gepaard gaan met het bergen van het voertuig.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 2,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Op afstand bedienende mortelbesturing",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Motoren extern blokkeren of deblokkeren.</p>",
+      "bodyText": "Motoren extern blokkeren of deblokkeren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 2,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Gedetailleerde rapporten",
+      "bodyHtml": "<p>Uitgebreide gegevens over voertuigactiviteiten.</p>",
+      "bodyText": "Uitgebreide gegevens over voertuigactiviteiten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 2,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Sporen van voertuigen",
+      "bodyHtml": "<p>Toegang tot de rijgeschiedenis van het voertuig tot 90 dagen .</p>",
+      "bodyText": "Toegang tot de rijgeschiedenis van het voertuig tot 90 dagen .",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 2,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Snelle uitbetaling",
+      "bodyHtml": "<p>Effectieve controlemiddelen maken autodealers vanaf de eerste dag winstgevend door het risico op verlies van een voertuig of te late betaling te verkleinen.</p>",
+      "bodyText": "Effectieve controlemiddelen maken autodealers vanaf de eerste dag winstgevend door het risico op verlies van een voertuig of te late betaling te verkleinen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 14,
+    "sectionCount": 3,
+    "htmlBytes": 18107
+  }
+}

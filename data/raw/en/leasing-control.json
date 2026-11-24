@@ -1,0 +1,762 @@
+{
+  "id": 35,
+  "slug": "leasing-control",
+  "canonicalSlug": "leasing-control",
+  "locale": "en",
+  "title": "Leasing control",
+  "link": "https://www.jaxicloud.com/en/leasing-control/",
+  "pageKind": "solution",
+  "translations": {
+    "en": 35,
+    "da": 2150,
+    "de": 2549,
+    "fr": 2801,
+    "nl": 3003,
+    "nb": 3202,
+    "sv": 3395,
+    "tr": 3583
+  },
+  "excerpt": "Leasing-car rental GPS tracking solution for car leasing and car finance companies A reliable vehicle leasing software for locating and recovering Car financing, car loans and car leasing is an attractive, yet very risky market. Car theft, late payments, defaults and expensive recovery procedures discourage car dealers and finance companies from growing or maintaining the [&hellip;]",
+  "seo": {
+    "title": "Leasing control - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:29:00",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Leasing-car rental",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "GPS tracking solution for car leasing and car finance companies",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">A reliable vehicle leasing software for locating and recovering</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Car financing, car loans and car leasing is an attractive, yet very risky market. Car theft, late payments, defaults and expensive recovery procedures discourage car dealers and finance companies from growing or maintaining the status quo. So do the unreliable GPS tracking tools that just don’t help.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This is where you change the landscape with LeaseControl, an auto leasing software. Introduce its telematics and IoT capabilities to protect financed vehicles, protect dealers’ profits and provide them with real business value.</span></p>",
+      "bodyText": "A reliable vehicle leasing software for locating and recoveringCar financing, car loans and car leasing is an attractive, yet very risky market. Car theft, late payments, defaults and expensive recovery procedures discourage car dealers and finance companies from growing or maintaining the status quo. So do the unreliable GPS tracking tools that just don’t help.This is where you change the landscape with LeaseControl, an auto leasing software. Introduce its telematics and IoT capabilities to protect financed vehicles, protect dealers’ profits and provide them with real business value.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "9bd7a6b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd7a6b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Why choose Jaxicloud fleet management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "b3a9548",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b3a9548",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+      "bodyText": "See what Jaxicloud enables you to manage your business in the easiest way",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "0fd41ab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0fd41ab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Market expansion venture into new niches",
+      "bodyHtml": "<p><strong>Integration features</strong><br>Easily integrate with other systems using SDK</p><p><strong>For service providers:<br></strong>Proven technology<br>Based on reliable JaxiCloud platform.</p><p><strong>Experienced provider:<br></strong>Backed by two decades in telematics and IoT.</p><p><strong>Expert community<br></strong>Access to a large community of telematics and IoT experts.</p><p><strong>AGE OF FLEET TRACKING </strong><strong>ENJOY IT </strong><strong>USER-FRIENDLY</strong></p>",
+      "bodyText": "Integration featuresEasily integrate with other systems using SDKFor service providers:Proven technologyBased on reliable JaxiCloud platform.Experienced provider:Backed by two decades in telematics and IoT.Expert communityAccess to a large community of telematics and IoT experts.AGE OF FLEET TRACKING ENJOY IT USER-FRIENDLY",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "14362b3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14362b3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Age of fleet tracking enjoy it",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Market dynamics:<br></span></strong><span class=\"wixui-rich-text__text\">Growth in the auto lending market despite challenges.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>JaxiCloud’s offering:</strong> <br>A GPS tracking solution designed for automatic financing.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Essentials:<br></span></strong><span class=\"wixui-rich-text__text\">Tools for tracking and restoring vehicle location.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Industry risks and solutions:<br></span></strong><span class=\"wixui-rich-text__text\">Addressing challenges faced by auto lenders with JaxiCloud.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Detecting risks:<br></strong> Using geofences and notifications to anticipate potential problems.</span></p><p class=\"font_7 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Quick answers:<br></span></strong><span class=\"wixui-rich-text__text\">Remote engine stop setting. Data insights: Access detailed vehicle activity data and tracks.</span></p>",
+      "bodyText": "Market dynamics:Growth in the auto lending market despite challenges.JaxiCloud’s offering: A GPS tracking solution designed for automatic financing.Essentials:Tools for tracking and restoring vehicle location.Industry risks and solutions:Addressing challenges faced by auto lenders with JaxiCloud.Detecting risks: Using geofences and notifications to anticipate potential problems.Quick answers:Remote engine stop setting. Data insights: Access detailed vehicle activity data and tracks.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "f51d805",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f51d805",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "User-friendly",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Remote control:</strong><br></span>Remotely start or stop a vehicle’s engine based on payment status.</p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Custom Geofences:<br></span></strong>Configure geographic boundaries and get alerts about violations.</p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Connection monitoring:<br></span></strong>Receive alerts about loss of connection.</p><p class=\"font_8 wixui-rich-text__text\"><strong>Notification flexibility:<br></strong> Choose notification methods.</p>",
+      "bodyText": "Remote control:Remotely start or stop a vehicle’s engine based on payment status.Custom Geofences:Configure geographic boundaries and get alerts about violations.Connection monitoring:Receive alerts about loss of connection.Notification flexibility: Choose notification methods.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "The main functions of Jaxicloud fleet management - Leasing control",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Return of vehicles",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Locate vehicles and disable engines remotely</span></p>",
+      "bodyText": "Locate vehicles and disable engines remotely",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stress free recovery",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"color_36 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Prevent theft and unauthorized movement of financed vehicles.</span></span></p>",
+      "bodyText": "Prevent theft and unauthorized movement of financed vehicles.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tailored solution",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Designed specifically for vehicle lease management.</span></p>",
+      "bodyText": "Designed specifically for vehicle lease management.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Fast roi",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Powerful tools that protect car dealers’ investments from day one.</span></p>",
+      "bodyText": "Powerful tools that protect car dealers’ investments from day one.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": "Securing highrisk contracts",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">A reliable vehicle leasing software for location and recovery|</p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In a world where vehicle leasing and car financing have become both a blessing and a challenge, JaxiCloud stands as a beacon of security and reliability. This cutting-edge fleet tracking solution is tailor-made for leasing and car financing companies, ensuring that assets are always within reach. With advanced telematics, IoT capabilities, and real-time tracking capabilities, JaxiCloud not only protects financed vehicles, but also empowers dealers to mitigate risk, increase profits, and deliver unmatched value. Step into the future of vehicle leasing management with JaxiCloud.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Challenges:</strong> Stolen vehicles and late payments in the used and subprime auto loan market.</span></p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><strong>Solution:</strong> Jaxicloud’s tools to track, locate and remotely control vehicles.</span></p><p class=\"font_8 wixui-rich-text__text\"><strong><span class=\"wixui-rich-text__text\">Result: </span></strong><span class=\"wixui-rich-text__text\">Reduced risks and minimized costs associated with vehicle recovery.</span></p>",
+      "bodyText": "A reliable vehicle leasing software for location and recovery|In a world where vehicle leasing and car financing have become both a blessing and a challenge, JaxiCloud stands as a beacon of security and reliability. This cutting-edge fleet tracking solution is tailor-made for leasing and car financing companies, ensuring that assets are always within reach. With advanced telematics, IoT capabilities, and real-time tracking capabilities, JaxiCloud not only protects financed vehicles, but also empowers dealers to mitigate risk, increase profits, and deliver unmatched value. Step into the future of vehicle leasing management with JaxiCloud.Challenges: Stolen vehicles and late payments in the used and subprime auto loan market.Solution: Jaxicloud’s tools to track, locate and remotely control vehicles.Result: Reduced risks and minimized costs associated with vehicle recovery.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Remote control mortar control",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Block or unblock motors externally.</span></p>",
+      "bodyText": "Block or unblock motors externally.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Detailed reports",
+      "bodyHtml": "<p>COMPREHENSIVE data on vehicle activities.</p>",
+      "bodyText": "COMPREHENSIVE data on vehicle activities.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Tracks of vihacles",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Access the vehicle’s driving history for up to 90 days .</span></p>",
+      "bodyText": "Access the vehicle’s driving history for up to 90 days .",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Fast payouts",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Effective control tools make car dealers profitable from day one by reducing the risk of losing a vehicle or late payment.</span></p>",
+      "bodyText": "Effective control tools make car dealers profitable from day one by reducing the risk of losing a vehicle or late payment.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 4,
+    "htmlBytes": 26703
+  }
+}

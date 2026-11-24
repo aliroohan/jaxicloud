@@ -1,0 +1,10 @@
+/* archetype: compactChecklist */
+.page{background:#fff;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#115e59}
+
+.hero{display:grid;gap:2rem;padding:clamp(3rem,7vw,5rem) 0}@media(min-width:900px){.hero{grid-template-columns:1fr 1fr;align-items:center}}
+.title{font-size:clamp(2.2rem,4.5vw,3.4rem);max-width:14ch}
+.shot{aspect-ratio:4/3;border-radius:1.25rem}
+.check{padding:clamp(2rem,5vw,4rem) 0 5rem;max-width:42rem}
+

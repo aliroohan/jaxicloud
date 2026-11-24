@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Boxes, FolderTree, Inbox, Layers, Package } from "lucide-react";
+import { ArrowRight, FolderTree, Inbox, Package } from "lucide-react";
 import { getCategories, getPublishedProducts } from "@/lib/queries";
 import styles from "@/components/admin/AdminConsole.module.css";
 
@@ -25,13 +25,6 @@ export default async function AdminDashboardPage() {
       sub: "5 Industry Sectors",
       icon: FolderTree,
       href: "/admin/categories",
-    },
-    {
-      label: "Hardware Bundles",
-      val: 4,
-      sub: "Pre-Configured Kits",
-      icon: Boxes,
-      href: "/admin/bundles",
     },
     {
       label: "Inbound Inquiries",

@@ -1,0 +1,12 @@
+/* archetype: hubSpokes */
+.page{background:#f8fafc;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#0f766e}
+
+.hero{padding:clamp(3.5rem,8vw,6rem) 0;text-align:center;max-width:44rem;margin-inline:auto}
+.title{font-size:clamp(2.5rem,5.5vw,4rem)}
+.hub{display:grid;gap:1.5rem;padding:2rem 0 5rem}
+.spoke{display:grid;gap:1rem;padding:1.75rem;background:#fff;border-radius:1.25rem;box-shadow:0 10px 40px rgba(15,23,42,.05)}
+@media(min-width:800px){.spoke{grid-template-columns:1.2fr .8fr;align-items:center}}
+.shot{aspect-ratio:16/11;border-radius:.75rem}
+

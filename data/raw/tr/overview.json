@@ -1,0 +1,692 @@
+{
+  "id": 3617,
+  "slug": "overview-tur",
+  "canonicalSlug": "overview",
+  "locale": "tr",
+  "title": "Overview  – TUR",
+  "link": "https://www.jaxicloud.com/tr/overview-tur/",
+  "pageKind": "marketing",
+  "translations": {
+    "tr": 3617,
+    "da": 2188,
+    "en": 23,
+    "de": 2589,
+    "fr": 2835,
+    "nl": 3035,
+    "nb": 3235,
+    "sv": 3428
+  },
+  "excerpt": "Jaxicloud filo yönetimine genel bakış Jaxicloud fi̇lo yöneti̇mi̇ Bulut tabanli fi̇lo yöneti̇m si̇stemi̇ İzleme sistemi veri merkezlerimizde saklanır ve yönetilir. JaxiCloud izleme sistemi tarayıcınızda. Entegratör işine yalnızca bir dizüstü bilgisayarla başlarsınız. PALET ARAÇLARI VERİMLİ SÜRÜŞ MALZEME BUL PLANLAMA GÜVENLİK Ne sunuyoruz Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün. Hızlı başlangıç Bulut hizmetini başlatıyoruz [&hellip;]",
+  "seo": {
+    "title": "Jaxicloud filo yönetimine genel bakış - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-15T23:52:10",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "713241b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-713241b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud filo yönetimine genel bakış",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-93e1344",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "6b47433",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6b47433",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/hosting-main-1.png",
+          "alt": "",
+          "width": 393,
+          "height": 166
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "5db9ca5",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5db9ca5",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Jaxicloud fi̇lo yöneti̇mi̇ Bulut tabanli fi̇lo yöneti̇m si̇stemi̇",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "045e894",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-045e894",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>İzleme sistemi veri merkezlerimizde saklanır ve yönetilir. JaxiCloud izleme sistemi tarayıcınızda. Entegratör işine yalnızca bir dizüstü bilgisayarla başlarsınız.</p>",
+      "bodyText": "İzleme sistemi veri merkezlerimizde saklanır ve yönetilir. JaxiCloud izleme sistemi tarayıcınızda. Entegratör işine yalnızca bir dizüstü bilgisayarla başlarsınız.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb9566b",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "83dd34e",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-83dd34e",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "PALET ARAÇLARI",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "042f690",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-042f690",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "VERİMLİ SÜRÜŞ",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "9dd786d",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9dd786d",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "MALZEME BUL",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "29f2ffe",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-29f2ffe",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "PLANLAMA",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "34b11b2",
+      "widgetType": "icon-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-34b11b2",
+        "e-transform",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-box"
+      ],
+      "heading": "GÜVENLİK",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 5,
+        "columnIndex": 4,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5e622e7",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "17a6d23d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-17a6d23d",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ne sunuyoruz",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "639a9b66",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-639a9b66",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.</p>",
+      "bodyText": "Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "52227ba5",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-52227ba5",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hızlı başlangıç",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "1706726c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1706726c",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Düzenli güncellemeler",
+      "bodyHtml": "<p>İş ortaklarının isteklerine dayalı olanlar da dahil olmak üzere her ay yeni özellikler ekliyoruz</p>",
+      "bodyText": "İş ortaklarının isteklerine dayalı olanlar da dahil olmak üzere her ay yeni özellikler ekliyoruz",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "32afdb7a",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-32afdb7a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kararlılık",
+      "bodyHtml": "<p>%99,5 sistem kararlılığını garanti ediyoruz ve bunu SLA’da belirtiyoruz</p>",
+      "bodyText": "%99,5 sistem kararlılığını garanti ediyoruz ve bunu SLA’da belirtiyoruz",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "31ef5508",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31ef5508",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Ücretsiz sunucular",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Filo yönetimi SaaS çözümleri JAXICLOUD veri merkezlerinde depolanır ve yönetilir</p>",
+      "bodyText": "Filo yönetimi SaaS çözümleri JAXICLOUD veri merkezlerinde depolanır ve yönetilir",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "dba6705",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dba6705",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Kolaylık",
+      "bodyHtml": "<p>Tek seferlik ödemeden kurtulun</p>",
+      "bodyText": "Tek seferlik ödemeden kurtulun",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "51190dc0",
+      "widgetType": "button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51190dc0",
+        "elementor-mobile-align-center",
+        "elementor-align-center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Daha fazlasını gör",
+          "href": "/tr/about-us-tur/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-3cfbbc74",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 17,
+    "sectionCount": 4,
+    "htmlBytes": 21808
+  }
+}

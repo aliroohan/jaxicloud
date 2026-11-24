@@ -5,52 +5,53 @@ import Image from "next/image";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight } from "lucide-react";
+import type { ServicesCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ServicesGrid.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const PANELS = [
-  {
-    id: "purpose",
-    title: "Purpose of the concept",
-    text: "To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves - faster and cheaper than with external help.",
-    image: "/images/service_environment.png"
-  },
-  {
-    id: "task-list",
-    title: "Task list with cases",
-    text: "All incidents, e.g. from the AI cameras, from driver alarms or error codes in the engine, appear as active tasks on a clear dashboard. From there they can be investigated, commented on and resolved.",
-    image: "/images/task_1.png"
-  },
-  {
-    id: "offers",
-    title: "Dynamic Rules",
-    text: "Define whether the respective case is active or inactive and which specific rules apply, such as speed limit, time limit, required sensors and which actions are triggered when an alarm occurs.",
-    image: "/images/route_optimization.png"
-  },
-  {
-    id: "how-it-works",
-    title: "How it works in practice",
-    text: "As soon as an alarm is triggered, it appears in the task list. The dispatcher checks the data, decides on the measures and records the progress until the case is completed and archived.",
-    image: "/images/task_2.png"
-  },
-  {
-    id: "control",
-    title: "24/7 Control Center",
-    text: "Act as your own monitoring center. Instead of relying on a third-party alarm center, you get full control, can respond immediately and save time and money on every incident.",
-    image: "/images/control_center.png"
-  },
-  {
-    id: "partner",
-    title: "Rescue Partner",
-    text: "A Rescue partner manages emergency alarms and security for transport companies, ensuring quick responses and optimal safety at all times.",
-    image: "/images/driver_safety.png"
-  }
-];
+export function ServicesGrid({ copy }: { copy: ServicesCopy }) {
+  const PANELS = [
+    {
+      id: "purpose",
+      title: copy.panelPurposeTitle,
+      text: copy.panelPurposeText,
+      image: "/images/service_environment.png"
+    },
+    {
+      id: "task-list",
+      title: copy.panelTaskListTitle,
+      text: copy.panelTaskListText,
+      image: "/images/task_1.png"
+    },
+    {
+      id: "offers",
+      title: copy.panelOffersTitle,
+      text: copy.panelOffersText,
+      image: "/images/route_optimization.png"
+    },
+    {
+      id: "how-it-works",
+      title: copy.panelHowTitle,
+      text: copy.panelHowText,
+      image: "/images/task_2.png"
+    },
+    {
+      id: "control",
+      title: copy.panelControlTitle,
+      text: copy.panelControlText,
+      image: "/images/control_center.png"
+    },
+    {
+      id: "partner",
+      title: copy.panelPartnerTitle,
+      text: copy.panelPartnerText,
+      image: "/images/driver_safety.png"
+    }
+  ];
 
-export function ServicesGrid() {
   const sectionRef = useRef<HTMLDivElement>(null);
   const trackRef = useRef<HTMLDivElement>(null);
   const imagesRef = useRef<(HTMLImageElement | null)[]>([]);
@@ -108,11 +109,14 @@ export function ServicesGrid() {
         {/* Intro Panel */}
         <div className={styles.introPanel}>
           <div className={styles.introContent}>
-            <div className={styles.tagline}>CAPABILITIES</div>
-            <h2 className={styles.introTitle}>Everything you need to <br/>take full <span className={styles.highlight}>control.</span></h2>
-            <p className={styles.introDesc}>Scroll to explore the features that turn your daily operations into a seamless workflow.</p>
+            <div className={styles.tagline}>{copy.gridTag}</div>
+            <h2 className={styles.introTitle}>
+              {copy.gridIntroTitleBefore}{" "}
+              <span className={styles.highlight}>{copy.gridIntroTitleHighlight}</span>
+            </h2>
+            <p className={styles.introDesc}>{copy.gridIntroDesc}</p>
             <div className={styles.scrollIndicator}>
-              <span>Scroll</span>
+              <span>{copy.gridScrollHint}</span>
               <ArrowRight className={styles.arrowIcon} />
             </div>
           </div>

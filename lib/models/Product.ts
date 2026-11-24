@@ -57,7 +57,6 @@ const ProductSchema = new Schema(
     },
     metaTitle: { type: String, default: "" },
     metaDescription: { type: String, default: "" },
-    solutionIds: [{ type: Schema.Types.ObjectId, ref: "Solution" }],
   },
   { timestamps: true },
 );

@@ -1,0 +1,1114 @@
+{
+  "slug": "our-team",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Our team – DA",
+    "en": "Our team",
+    "de": "Our team – DE",
+    "fr": "Our team – FR",
+    "nl": "Our team – HL",
+    "nb": "Our team – NO",
+    "sv": "Our team – SV",
+    "tr": "Our team – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Teamet bag Jaxycloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "The team behind Jaxycloud Fleet Management​ - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Das team hinter jaxicloud fleet management - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "L'équipe derrière Jaxycloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Het team achter Jaxycloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Teamet bak Jaxycloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Teamet bakom Jaxycloud Fleet Management - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Jaxycloud Filo Yönetimi ekibiOur team - TUR - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/our-team-da/",
+    "en": "https://www.jaxicloud.com/en/our-team/",
+    "de": "https://www.jaxicloud.com/de/our-team-de/",
+    "fr": "https://www.jaxicloud.com/fr/our-team-fr/",
+    "nl": "https://www.jaxicloud.com/nl/our-team-hl/",
+    "nb": "https://www.jaxicloud.com/nb/our-team-no/",
+    "sv": "https://www.jaxicloud.com/sv/our-team-sv/",
+    "tr": "https://www.jaxicloud.com/tr/our-team-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Teamet bag Jaxicloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "The team behind Jaxycloud Fleet Management​",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Das team hinter jaxicloud fleet management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "L'équipe derrière Jaxycloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Het team achter Jaxycloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Teamet bak Jaxycloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Teamet bakom Jaxycloud Fleet Management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxycloud Filo Yönetimi ekibi",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "richText",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "TOGATHER WE SHOW THE WAY",
+          "bodyHtml": "<p>TOGATHER WE SHOW THE WAY</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "together we show the way",
+          "bodyHtml": "<p>together we show the way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Gemeinsam weisen wir den Weg",
+          "bodyHtml": "<p>Gemeinsam weisen wir den Weg</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Ensemble, nous montrons la voie",
+          "bodyHtml": "<p>Ensemble, nous montrons la voie</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "samen wijzen we de weg",
+          "bodyHtml": "<p>samen wijzen we de weg</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "sammen viser vi veien",
+          "bodyHtml": "<p>sammen viser vi veien</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "tillsammans visar vi vägen",
+          "bodyHtml": "<p>tillsammans visar vi vägen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "birlikte yolu gösteriyoruz",
+          "bodyHtml": "<p>birlikte yolu gösteriyoruz</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "teamMember",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-300x300.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-300x300.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Margit Andreasen",
+          "body": "Udarbejdelse af budgetter og finansielle strategier. Overvågning af virksomhedens økonomiske præstation og rapportering. Sikring af overholdelse af lovgivning og regulering inden for det finansielle område. Forvaltning af investeringer og kapitalstruktur. Identificering af risici og muligheder for økonomisk vækst.Udarbejdelse af budgetter og finansielle strategier. Overvågning af virksomhedens økonomiske præstation og rapportering. Sikring af overholdelse af lovgivning og regulering inden for det finansielle område. Forvaltning af investeringer og kapitalstruktur. Identificering af risici og muligheder for økonomisk vækst.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Udarbejdelse af budgetter og finansielle strategier.\n\nOvervågning af virksomhedens økonomiske præstation og rapportering.\n\nSikring af overholdelse af lovgivning og regulering inden for det finansielle område.\n\nForvaltning af investeringer og kapitalstruktur.\n\nIdentificering af risici og muligheder for økonomisk vækst.</p><p class=\"eael-team-text eael-team-text-overlay\">Udarbejdelse af budgetter og finansielle strategier.\n\nOvervågning af virksomhedens økonomiske præstation og rapportering.\n\nSikring af overholdelse af lovgivning og regulering inden for det finansielle område.\n\nForvaltning af investeringer og kapitalstruktur.\n\nIdentificering af risici og muligheder for økonomisk vækst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Margit Andreasen",
+          "body": "Preparation of budgets and financial strategies. Monitoring the company's financial performance and reporting. Ensure compliance with legislation and regulation in the financial area. Management of investments and capital structure. Identify risks and opportunities for economic growth.Preparation of budgets and financial strategies. Monitoring the company's financial performance and reporting. Ensure compliance with legislation and regulation in the financial area. Management of investments and capital structure. Identify risks and opportunities for economic growth.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Preparation of budgets and financial strategies.\n\nMonitoring the company's financial performance and reporting.\n\nEnsure compliance with legislation and regulation in the financial area.\n\nManagement of investments and capital structure.\n\nIdentify risks and opportunities for economic growth.</p><p class=\"eael-team-text eael-team-text-overlay\">Preparation of budgets and financial strategies.\n\nMonitoring the company's financial performance and reporting.\n\nEnsure compliance with legislation and regulation in the financial area.\n\nManagement of investments and capital structure.\n\nIdentify risks and opportunities for economic growth.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Margit Andreasen",
+          "body": "Erstellung von Budgets und Finanzstrategien. Überwachung der finanziellen Performance und Berichterstattung des Unternehmens. Sicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich. Management von Investitionen und Kapitalstruktur. Identifizierung von Risiken und Chancen für wirtschaftliches Wachstum.Erstellung von Budgets und Finanzstrategien. Überwachung der finanziellen Performance und Berichterstattung des Unternehmens. Sicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich. Management von Investitionen und Kapitalstruktur. Identifizierung von Risiken und Chancen für wirtschaftliches Wachstum.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Erstellung von Budgets und Finanzstrategien.\n\nÜberwachung der finanziellen Performance und Berichterstattung des Unternehmens.\n\nSicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich.\n\nManagement von Investitionen und Kapitalstruktur.\n\nIdentifizierung von Risiken und Chancen für wirtschaftliches Wachstum.</p><p class=\"eael-team-text eael-team-text-overlay\">Erstellung von Budgets und Finanzstrategien.\n\nÜberwachung der finanziellen Performance und Berichterstattung des Unternehmens.\n\nSicherstellung der Einhaltung von Gesetzen und Vorschriften im Finanzbereich.\n\nManagement von Investitionen und Kapitalstruktur.\n\nIdentifizierung von Risiken und Chancen für wirtschaftliches Wachstum.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Margit Andreasen",
+          "body": "Élaboration des budgets et des stratégies financières. Suivi des performances financières et reporting de l'entreprise. Garantie de la conformité à la législation et à la réglementation en matière financière. Gestion des investissements et de la structure du capital. Identification des risques et des opportunités de croissance économique.Élaboration des budgets et des stratégies financières. Suivi des performances financières et reporting de l'entreprise. Garantie de la conformité à la législation et à la réglementation en matière financière. Gestion des investissements et de la structure du capital. Identification des risques et des opportunités de croissance économique.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Élaboration des budgets et des stratégies financières.\n\nSuivi des performances financières et reporting de l'entreprise.\n\nGarantie de la conformité à la législation et à la réglementation en matière financière.\n\nGestion des investissements et de la structure du capital.\n\nIdentification des risques et des opportunités de croissance économique.</p><p class=\"eael-team-text eael-team-text-overlay\">Élaboration des budgets et des stratégies financières.\n\nSuivi des performances financières et reporting de l'entreprise.\n\nGarantie de la conformité à la législation et à la réglementation en matière financière.\n\nGestion des investissements et de la structure du capital.\n\nIdentification des risques et des opportunités de croissance économique.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Margit Andreasen",
+          "body": "Het opstellen van budgetten en financiële strategieën. Het monitoren van de financiële prestaties en rapportage van het bedrijf. Zorgen voor naleving van wet- en regelgeving op financieel gebied. Beheer van investeringen en kapitaalstructuur. Identificeren van risico's en kansen voor economische groei.Het opstellen van budgetten en financiële strategieën. Het monitoren van de financiële prestaties en rapportage van het bedrijf. Zorgen voor naleving van wet- en regelgeving op financieel gebied. Beheer van investeringen en kapitaalstructuur. Identificeren van risico's en kansen voor economische groei.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Het opstellen van budgetten en financiële strategieën.\n\nHet monitoren van de financiële prestaties en rapportage van het bedrijf.\n\nZorgen voor naleving van wet- en regelgeving op financieel gebied.\n\nBeheer van investeringen en kapitaalstructuur.\n\nIdentificeren van risico's en kansen voor economische groei.</p><p class=\"eael-team-text eael-team-text-overlay\">Het opstellen van budgetten en financiële strategieën.\n\nHet monitoren van de financiële prestaties en rapportage van het bedrijf.\n\nZorgen voor naleving van wet- en regelgeving op financieel gebied.\n\nBeheer van investeringen en kapitaalstructuur.\n\nIdentificeren van risico's en kansen voor economische groei.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Margit Andreasen",
+          "body": "Utarbeidelse av budsjetter og økonomiske strategier. Overvåking av selskapets økonomiske resultater og rapportering. Sørge for samsvar med lover og forskrifter innen finansområdet. Forvaltning av investeringer og kapitalstruktur. Identifisering av risikoer og muligheter for økonomisk vekst.Utarbeidelse av budsjetter og økonomiske strategier. Overvåking av selskapets økonomiske resultater og rapportering. Sørge for samsvar med lover og forskrifter innen finansområdet. Forvaltning av investeringer og kapitalstruktur. Identifisering av risikoer og muligheter for økonomisk vekst.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Utarbeidelse av budsjetter og økonomiske strategier.\n\nOvervåking av selskapets økonomiske resultater og rapportering.\n\nSørge for samsvar med lover og forskrifter innen finansområdet.\n\nForvaltning av investeringer og kapitalstruktur.\n\nIdentifisering av risikoer og muligheter for økonomisk vekst.</p><p class=\"eael-team-text eael-team-text-overlay\">Utarbeidelse av budsjetter og økonomiske strategier.\n\nOvervåking av selskapets økonomiske resultater og rapportering.\n\nSørge for samsvar med lover og forskrifter innen finansområdet.\n\nForvaltning av investeringer og kapitalstruktur.\n\nIdentifisering av risikoer og muligheter for økonomisk vekst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Margit Andreasen",
+          "body": "Upprättande av budgetar och finansiella strategier. Övervakning av företagets finansiella resultat och rapportering. Säkerställa efterlevnad av lagstiftning och regler inom det finansiella området. Hantering av investeringar och kapitalstruktur. Identifiera risker och möjligheter för ekonomisk tillväxt.Upprättande av budgetar och finansiella strategier. Övervakning av företagets finansiella resultat och rapportering. Säkerställa efterlevnad av lagstiftning och regler inom det finansiella området. Hantering av investeringar och kapitalstruktur. Identifiera risker och möjligheter för ekonomisk tillväxt.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Upprättande av budgetar och finansiella strategier.\n\nÖvervakning av företagets finansiella resultat och rapportering.\n\nSäkerställa efterlevnad av lagstiftning och regler inom det finansiella området.\n\nHantering av investeringar och kapitalstruktur.\n\nIdentifiera risker och möjligheter för ekonomisk tillväxt.</p><p class=\"eael-team-text eael-team-text-overlay\">Upprättande av budgetar och finansiella strategier.\n\nÖvervakning av företagets finansiella resultat och rapportering.\n\nSäkerställa efterlevnad av lagstiftning och regler inom det finansiella området.\n\nHantering av investeringar och kapitalstruktur.\n\nIdentifiera risker och möjligheter för ekonomisk tillväxt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Margit Andreasen",
+          "body": "Bütçelerin ve finansal stratejilerin hazırlanması. Şirketin finansal performansının izlenmesi ve raporlanması. Finansal alanda mevzuat ve düzenlemelere uyumun sağlanması. Yatırımların ve sermaye yapısının yönetimi. Ekonomik büyüme için risklerin ve fırsatların belirlenmesi.Bütçelerin ve finansal stratejilerin hazırlanması. Şirketin finansal performansının izlenmesi ve raporlanması. Finansal alanda mevzuat ve düzenlemelere uyumun sağlanması. Yatırımların ve sermaye yapısının yönetimi. Ekonomik büyüme için risklerin ve fırsatların belirlenmesi.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Bütçelerin ve finansal stratejilerin hazırlanması.\n\nŞirketin finansal performansının izlenmesi ve raporlanması.\n\nFinansal alanda mevzuat ve düzenlemelere uyumun sağlanması.\n\nYatırımların ve sermaye yapısının yönetimi.\n\nEkonomik büyüme için risklerin ve fırsatların belirlenmesi.</p><p class=\"eael-team-text eael-team-text-overlay\">Bütçelerin ve finansal stratejilerin hazırlanması.\n\nŞirketin finansal performansının izlenmesi ve raporlanması.\n\nFinansal alanda mevzuat ve düzenlemelere uyumun sağlanması.\n\nYatırımların ve sermaye yapısının yönetimi.\n\nEkonomik büyüme için risklerin ve fırsatların belirlenmesi.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "teamMember",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål. Den administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder. \"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål. Den administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder. \"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål.\n\nDen administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder.\n\n\"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål.\n\nDen administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder.\n\n\"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p><p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals. The CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities. “Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p><p class=\"eael-team-text eael-team-text-overlay\">Our co-owner and CEO is the driving force behind our company's vision and strategic direction. With a passion for innovation and a sharp focus on growth, he/she leads the company with integrity and decisiveness. As a co-owner, the CEO brings not only management experience, but also a personal investment in the company's success, ensuring dedication and commitment to achieving our goals.\n\nThe CEO is a strategic thinker who combines deep business understanding with the ability to build strong relationships, both internally and externally. With this combination, we ensure solid leadership and a future full of opportunities.\n\n“Leadership is about inspiring, collaborating and creating results together – and that is our mission every day.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs. Le/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités. « Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs. Le/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités. « Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs.\n\nLe/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités.\n\n« Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »</p><p class=\"eael-team-text eael-team-text-overlay\">Notre co-propriétaire et PDG est le moteur de la vision et de la stratégie de notre entreprise. Passionné(e) par l'innovation et résolument tourné(e) vers la croissance, il/elle dirige l'entreprise avec intégrité et détermination. En tant que co-propriétaire, le/la PDG apporte non seulement son expérience managériale, mais aussi un engagement personnel dans la réussite de l'entreprise, garantissant ainsi le dévouement et l'implication nécessaires à la réalisation de nos objectifs.\n\nLe/La PDG est un(e) stratège qui allie une fine compréhension des enjeux commerciaux à une capacité à nouer des relations solides, tant en interne qu'en externe. Grâce à cette combinaison, nous assurons un leadership solide et un avenir riche en opportunités.\n\n« Le leadership, c'est inspirer, collaborer et obtenir des résultats ensemble – et c'est notre mission au quotidien. »</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken. De CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen. \"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken. De CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen. \"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken.\n\nDe CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen.\n\n\"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken.\n\nDe CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen.\n\n\"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Vår medeier og administrerende direktør er drivkraften bak selskapets visjon og strategiske retning. Med en lidenskap for innovasjon og et skarpt fokus på vekst, leder han/hun selskapet med integritet og besluttsomhet. Som medeier bringer administrerende direktør ikke bare ledererfaring, men også en personlig investering i selskapets suksess, noe som sikrer dedikasjon og engasjement for å nå våre mål. Administrerende direktør er en strategisk tenker som kombinerer dyp forretningsforståelse med evnen til å bygge sterke relasjoner, både internt og eksternt. Med denne kombinasjonen sikrer vi solid lederskap og en fremtid full av muligheter. «Lederskap handler om å inspirere, samarbeide og skape resultater sammen – og det er vårt oppdrag hver dag.»Vår medeier og administrerende direktør er drivkraften bak selskapets visjon og strategiske retning. Med en lidenskap for innovasjon og et skarpt fokus på vekst, leder han/hun selskapet med integritet og besluttsomhet. Som medeier bringer administrerende direktør ikke bare ledererfaring, men også en personlig investering i selskapets suksess, noe som sikrer dedikasjon og engasjement for å nå våre mål. Administrerende direktør er en strategisk tenker som kombinerer dyp forretningsforståelse med evnen til å bygge sterke relasjoner, både internt og eksternt. Med denne kombinasjonen sikrer vi solid lederskap og en fremtid full av muligheter. «Lederskap handler om å inspirere, samarbeide og skape resultater sammen – og det er vårt oppdrag hver dag.»",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Vår medeier og administrerende direktør er drivkraften bak selskapets visjon og strategiske retning. Med en lidenskap for innovasjon og et skarpt fokus på vekst, leder han/hun selskapet med integritet og besluttsomhet. Som medeier bringer administrerende direktør ikke bare ledererfaring, men også en personlig investering i selskapets suksess, noe som sikrer dedikasjon og engasjement for å nå våre mål.\n\nAdministrerende direktør er en strategisk tenker som kombinerer dyp forretningsforståelse med evnen til å bygge sterke relasjoner, både internt og eksternt. Med denne kombinasjonen sikrer vi solid lederskap og en fremtid full av muligheter.\n\n«Lederskap handler om å inspirere, samarbeide og skape resultater sammen – og det er vårt oppdrag hver dag.»</p><p class=\"eael-team-text eael-team-text-overlay\">Vår medeier og administrerende direktør er drivkraften bak selskapets visjon og strategiske retning. Med en lidenskap for innovasjon og et skarpt fokus på vekst, leder han/hun selskapet med integritet og besluttsomhet. Som medeier bringer administrerende direktør ikke bare ledererfaring, men også en personlig investering i selskapets suksess, noe som sikrer dedikasjon og engasjement for å nå våre mål.\n\nAdministrerende direktør er en strategisk tenker som kombinerer dyp forretningsforståelse med evnen til å bygge sterke relasjoner, både internt og eksternt. Med denne kombinasjonen sikrer vi solid lederskap og en fremtid full av muligheter.\n\n«Lederskap handler om å inspirere, samarbeide og skape resultater sammen – og det er vårt oppdrag hver dag.»</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål. VD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter. \"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål. VD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter. \"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål.\n\nVD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter.\n\n\"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Vår delägare och VD är drivkraften bakom vårt företags vision och strategiska inriktning. Med en passion för innovation och ett starkt fokus på tillväxt leder han/hon företaget med integritet och beslutsamhet. Som delägare bidrar VD:n inte bara med ledarskapserfarenhet, utan också en personlig investering i företagets framgång, vilket säkerställer engagemang och engagemang för att uppnå våra mål.\n\nVD:n är en strategisk tänkare som kombinerar djup affärsförståelse med förmågan att bygga starka relationer, både internt och externt. Med denna kombination säkerställer vi ett gediget ledarskap och en framtid full av möjligheter.\n\n\"Ledarskap handlar om att inspirera, samarbeta och skapa resultat tillsammans – och det är vårt uppdrag varje dag.\"</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Brian Marktwian Clemens",
+          "body": "Şirketimizin vizyonu ve stratejik yönünün arkasındaki itici güç, ortak sahibi ve CEO'muzdur. Yeniliğe olan tutkusu ve büyümeye olan keskin odaklanmasıyla, şirketi dürüstlük ve kararlılıkla yönetmektedir. Ortak sahibi olarak CEO, sadece yönetim deneyimi değil, aynı zamanda şirketin başarısına kişisel bir yatırım da getirerek, hedeflerimize ulaşma konusunda özveri ve bağlılık sağlamaktadır. CEO, derin iş anlayışını hem iç hem de dış ilişkilerde güçlü bağlar kurma yeteneğiyle birleştiren stratejik bir düşünürdür. Bu kombinasyonla, sağlam bir liderlik ve fırsatlarla dolu bir gelecek sağlıyoruz. “Liderlik, ilham vermek, iş birliği yapmak ve birlikte sonuçlar yaratmakla ilgilidir – ve bu, her günkü misyonumuzdur.”Şirketimizin vizyonu ve stratejik yönünün arkasındaki itici güç, ortak sahibi ve CEO'muzdur. Yeniliğe olan tutkusu ve büyümeye olan keskin odaklanmasıyla, şirketi dürüstlük ve kararlılıkla yönetmektedir. Ortak sahibi olarak CEO, sadece yönetim deneyimi değil, aynı zamanda şirketin başarısına kişisel bir yatırım da getirerek, hedeflerimize ulaşma konusunda özveri ve bağlılık sağlamaktadır. CEO, derin iş anlayışını hem iç hem de dış ilişkilerde güçlü bağlar kurma yeteneğiyle birleştiren stratejik bir düşünürdür. Bu kombinasyonla, sağlam bir liderlik ve fırsatlarla dolu bir gelecek sağlıyoruz. “Liderlik, ilham vermek, iş birliği yapmak ve birlikte sonuçlar yaratmakla ilgilidir – ve bu, her günkü misyonumuzdur.”",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Şirketimizin vizyonu ve stratejik yönünün arkasındaki itici güç, ortak sahibi ve CEO'muzdur. Yeniliğe olan tutkusu ve büyümeye olan keskin odaklanmasıyla, şirketi dürüstlük ve kararlılıkla yönetmektedir. Ortak sahibi olarak CEO, sadece yönetim deneyimi değil, aynı zamanda şirketin başarısına kişisel bir yatırım da getirerek, hedeflerimize ulaşma konusunda özveri ve bağlılık sağlamaktadır.\n\nCEO, derin iş anlayışını hem iç hem de dış ilişkilerde güçlü bağlar kurma yeteneğiyle birleştiren stratejik bir düşünürdür. Bu kombinasyonla, sağlam bir liderlik ve fırsatlarla dolu bir gelecek sağlıyoruz.\n\n“Liderlik, ilham vermek, iş birliği yapmak ve birlikte sonuçlar yaratmakla ilgilidir – ve bu, her günkü misyonumuzdur.”</p><p class=\"eael-team-text eael-team-text-overlay\">Şirketimizin vizyonu ve stratejik yönünün arkasındaki itici güç, ortak sahibi ve CEO'muzdur. Yeniliğe olan tutkusu ve büyümeye olan keskin odaklanmasıyla, şirketi dürüstlük ve kararlılıkla yönetmektedir. Ortak sahibi olarak CEO, sadece yönetim deneyimi değil, aynı zamanda şirketin başarısına kişisel bir yatırım da getirerek, hedeflerimize ulaşma konusunda özveri ve bağlılık sağlamaktadır.\n\nCEO, derin iş anlayışını hem iç hem de dış ilişkilerde güçlü bağlar kurma yeteneğiyle birleştiren stratejik bir düşünürdür. Bu kombinasyonla, sağlam bir liderlik ve fırsatlarla dolu bir gelecek sağlıyoruz.\n\n“Liderlik, ilham vermek, iş birliği yapmak ve birlikte sonuçlar yaratmakla ilgilidir – ve bu, her günkü misyonumuzdur.”</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "teamMember",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Alex R. Ataei",
+          "body": "Udvikle og implementere salgsstrategier for at nå virksomhedens mål. Lede og motivere salgsteamet for at sikre høj præstation. Overvåge og analysere salgsdata og præstation. Identificere nye markedsmuligheder og udvide kundebasen. Sikre stærke relationer med kunder og nøglepartnere.Udvikle og implementere salgsstrategier for at nå virksomhedens mål. Lede og motivere salgsteamet for at sikre høj præstation. Overvåge og analysere salgsdata og præstation. Identificere nye markedsmuligheder og udvide kundebasen. Sikre stærke relationer med kunder og nøglepartnere.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Udvikle og implementere salgsstrategier for at nå virksomhedens mål.\n\nLede og motivere salgsteamet for at sikre høj præstation.\n\nOvervåge og analysere salgsdata og præstation.\n\nIdentificere nye markedsmuligheder og udvide kundebasen.\n\nSikre stærke relationer med kunder og nøglepartnere.</p><p class=\"eael-team-text eael-team-text-overlay\">Udvikle og implementere salgsstrategier for at nå virksomhedens mål.\n\nLede og motivere salgsteamet for at sikre høj præstation.\n\nOvervåge og analysere salgsdata og præstation.\n\nIdentificere nye markedsmuligheder og udvide kundebasen.\n\nSikre stærke relationer med kunder og nøglepartnere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Alex R. Ataei",
+          "body": "Develop and implement sales strategies to achieve company goals. Lead and motivate the sales team to ensure high performance. Monitor and analyze sales data and performance. Identify new market opportunities and expand the customer base. Ensure strong relationships with customers and key partners.Develop and implement sales strategies to achieve company goals. Lead and motivate the sales team to ensure high performance. Monitor and analyze sales data and performance. Identify new market opportunities and expand the customer base. Ensure strong relationships with customers and key partners.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Develop and implement sales strategies to achieve company goals.\n\nLead and motivate the sales team to ensure high performance.\n\nMonitor and analyze sales data and performance.\n\nIdentify new market opportunities and expand the customer base.\n\nEnsure strong relationships with customers and key partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Develop and implement sales strategies to achieve company goals.\n\nLead and motivate the sales team to ensure high performance.\n\nMonitor and analyze sales data and performance.\n\nIdentify new market opportunities and expand the customer base.\n\nEnsure strong relationships with customers and key partners.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Alex R. Ataei",
+          "body": "Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele. Führen und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten. Überwachen und analysieren Sie Vertriebsdaten und -ergebnisse. Identifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm. Pflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele. Führen und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten. Überwachen und analysieren Sie Vertriebsdaten und -ergebnisse. Identifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm. Pflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele.\n\nFühren und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten.\n\nÜberwachen und analysieren Sie Vertriebsdaten und -ergebnisse.\n\nIdentifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm.\n\nPflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.</p><p class=\"eael-team-text eael-team-text-overlay\">Entwickeln und implementieren Sie Vertriebsstrategien zur Erreichung der Unternehmensziele.\n\nFühren und motivieren Sie das Vertriebsteam, um Höchstleistungen zu gewährleisten.\n\nÜberwachen und analysieren Sie Vertriebsdaten und -ergebnisse.\n\nIdentifizieren Sie neue Marktchancen und erweitern Sie den Kundenstamm.\n\nPflegen Sie enge Beziehungen zu Kunden und wichtigen Partnern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Alex R. Ataei",
+          "body": "Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise. Diriger et motiver l'équipe commerciale pour garantir une performance optimale. Suivre et analyser les données et les performances des ventes. Identifier de nouvelles opportunités de marché et développer la clientèle. Entretenir des relations solides avec les clients et les partenaires clés.Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise. Diriger et motiver l'équipe commerciale pour garantir une performance optimale. Suivre et analyser les données et les performances des ventes. Identifier de nouvelles opportunités de marché et développer la clientèle. Entretenir des relations solides avec les clients et les partenaires clés.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise.\n\nDiriger et motiver l'équipe commerciale pour garantir une performance optimale.\n\nSuivre et analyser les données et les performances des ventes.\n\nIdentifier de nouvelles opportunités de marché et développer la clientèle.\n\nEntretenir des relations solides avec les clients et les partenaires clés.</p><p class=\"eael-team-text eael-team-text-overlay\">Élaborer et mettre en œuvre des stratégies de vente pour atteindre les objectifs de l'entreprise.\n\nDiriger et motiver l'équipe commerciale pour garantir une performance optimale.\n\nSuivre et analyser les données et les performances des ventes.\n\nIdentifier de nouvelles opportunités de marché et développer la clientèle.\n\nEntretenir des relations solides avec les clients et les partenaires clés.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Alex R. Ataei",
+          "body": "Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken. Leid en motiveer het verkoopteam om hoge prestaties te garanderen. Monitor en analyseer verkoopgegevens en -prestaties. Identificeer nieuwe marktkansen en breid het klantenbestand uit. Zorg voor sterke relaties met klanten en belangrijke partners.Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken. Leid en motiveer het verkoopteam om hoge prestaties te garanderen. Monitor en analyseer verkoopgegevens en -prestaties. Identificeer nieuwe marktkansen en breid het klantenbestand uit. Zorg voor sterke relaties met klanten en belangrijke partners.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken.\n\nLeid en motiveer het verkoopteam om hoge prestaties te garanderen.\n\nMonitor en analyseer verkoopgegevens en -prestaties.\n\nIdentificeer nieuwe marktkansen en breid het klantenbestand uit.\n\nZorg voor sterke relaties met klanten en belangrijke partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken.\n\nLeid en motiveer het verkoopteam om hoge prestaties te garanderen.\n\nMonitor en analyseer verkoopgegevens en -prestaties.\n\nIdentificeer nieuwe marktkansen en breid het klantenbestand uit.\n\nZorg voor sterke relaties met klanten en belangrijke partners.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Alex R. Ataei",
+          "body": "Utvikle og implementere salgsstrategier for å nå selskapets mål. Lede og motivere salgsteamet for å sikre høy ytelse. Overvåke og analysere salgsdata og ytelse. Identifisere nye markedsmuligheter og utvide kundebasen. Sørge for sterke relasjoner med kunder og viktige partnere.Utvikle og implementere salgsstrategier for å nå selskapets mål. Lede og motivere salgsteamet for å sikre høy ytelse. Overvåke og analysere salgsdata og ytelse. Identifisere nye markedsmuligheter og utvide kundebasen. Sørge for sterke relasjoner med kunder og viktige partnere.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Utvikle og implementere salgsstrategier for å nå selskapets mål.\n\nLede og motivere salgsteamet for å sikre høy ytelse.\n\nOvervåke og analysere salgsdata og ytelse.\n\nIdentifisere nye markedsmuligheter og utvide kundebasen.\n\nSørge for sterke relasjoner med kunder og viktige partnere.</p><p class=\"eael-team-text eael-team-text-overlay\">Utvikle og implementere salgsstrategier for å nå selskapets mål.\n\nLede og motivere salgsteamet for å sikre høy ytelse.\n\nOvervåke og analysere salgsdata og ytelse.\n\nIdentifisere nye markedsmuligheter og utvide kundebasen.\n\nSørge for sterke relasjoner med kunder og viktige partnere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Alex R. Ataei",
+          "body": "Utveckla och implementera försäljningsstrategier för att uppnå företagets mål. Leda och motivera säljteamet för att säkerställa hög prestanda. Övervaka och analysera försäljningsdata och prestanda. Identifiera nya marknadsmöjligheter och utöka kundbasen. Säkerställa starka relationer med kunder och viktiga partners.Utveckla och implementera försäljningsstrategier för att uppnå företagets mål. Leda och motivera säljteamet för att säkerställa hög prestanda. Övervaka och analysera försäljningsdata och prestanda. Identifiera nya marknadsmöjligheter och utöka kundbasen. Säkerställa starka relationer med kunder och viktiga partners.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Utveckla och implementera försäljningsstrategier för att uppnå företagets mål.\n\nLeda och motivera säljteamet för att säkerställa hög prestanda.\n\nÖvervaka och analysera försäljningsdata och prestanda.\n\nIdentifiera nya marknadsmöjligheter och utöka kundbasen.\n\nSäkerställa starka relationer med kunder och viktiga partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Utveckla och implementera försäljningsstrategier för att uppnå företagets mål.\n\nLeda och motivera säljteamet för att säkerställa hög prestanda.\n\nÖvervaka och analysera försäljningsdata och prestanda.\n\nIdentifiera nya marknadsmöjligheter och utöka kundbasen.\n\nSäkerställa starka relationer med kunder och viktiga partners.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Alex R. Ataei",
+          "body": "Şirket hedeflerine ulaşmak için satış stratejileri geliştirin ve uygulayın. Yüksek performans sağlamak için satış ekibini yönetin ve motive edin. Satış verilerini ve performansını izleyin ve analiz edin. Yeni pazar fırsatlarını belirleyin ve müşteri tabanını genişletin. Müşteriler ve kilit ortaklarla güçlü ilişkiler kurun.Şirket hedeflerine ulaşmak için satış stratejileri geliştirin ve uygulayın. Yüksek performans sağlamak için satış ekibini yönetin ve motive edin. Satış verilerini ve performansını izleyin ve analiz edin. Yeni pazar fırsatlarını belirleyin ve müşteri tabanını genişletin. Müşteriler ve kilit ortaklarla güçlü ilişkiler kurun.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Şirket hedeflerine ulaşmak için satış stratejileri geliştirin ve uygulayın.\n\nYüksek performans sağlamak için satış ekibini yönetin ve motive edin.\n\nSatış verilerini ve performansını izleyin ve analiz edin.\n\nYeni pazar fırsatlarını belirleyin ve müşteri tabanını genişletin.\n\nMüşteriler ve kilit ortaklarla güçlü ilişkiler kurun.</p><p class=\"eael-team-text eael-team-text-overlay\">Şirket hedeflerine ulaşmak için satış stratejileri geliştirin ve uygulayın.\n\nYüksek performans sağlamak için satış ekibini yönetin ve motive edin.\n\nSatış verilerini ve performansını izleyin ve analiz edin.\n\nYeni pazar fırsatlarını belirleyin ve müşteri tabanını genişletin.\n\nMüşteriler ve kilit ortaklarla güçlü ilişkiler kurun.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "teamMember",
+      "order": 5,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jan Andersen",
+          "body": "Deltag i beslutninger, der påvirker virksomhedens vækst og drift. Bidrag med kapital og viden for at sikre virksomhedens succes. Del risiko og afkast af virksomhedens økonomiske præstation. Som bestyrelsesmedlem: Sørg for, at virksomhedens strategi understøtter ejernes interesser. Overvåg virksomhedens ledelse og økonomiske præstation. Bidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål. Sørg for, at virksomheden overholder relevante love og regler.Deltag i beslutninger, der påvirker virksomhedens vækst og drift. Bidrag med kapital og viden for at sikre virksomhedens succes. Del risiko og afkast af virksomhedens økonomiske præstation. Som bestyrelsesmedlem: Sørg for, at virksomhedens strategi understøtter ejernes interesser. Overvåg virksomhedens ledelse og økonomiske præstation. Bidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål. Sørg for, at virksomheden overholder relevante love og regler.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens vækst og drift.\n\nBidrag med kapital og viden for at sikre virksomhedens succes.\n\nDel risiko og afkast af virksomhedens økonomiske præstation.\n\nSom bestyrelsesmedlem:\n\nSørg for, at virksomhedens strategi understøtter ejernes interesser.\n\nOvervåg virksomhedens ledelse og økonomiske præstation.\n\nBidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål.\n\nSørg for, at virksomheden overholder relevante love og regler.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens vækst og drift.\n\nBidrag med kapital og viden for at sikre virksomhedens succes.\n\nDel risiko og afkast af virksomhedens økonomiske præstation.\n\nSom bestyrelsesmedlem:\n\nSørg for, at virksomhedens strategi understøtter ejernes interesser.\n\nOvervåg virksomhedens ledelse og økonomiske præstation.\n\nBidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål.\n\nSørg for, at virksomheden overholder relevante love og regler.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Jan Andersen",
+          "body": "Participate in decisions that affect the company's growth and operations. Contribute capital and knowledge to ensure the company's success. Share the risk and reward of the company's financial performance. As a Board Member: Ensure that the company's strategy supports the interests of the owners. Monitor the company's management and financial performance. Contribute to the development of the company's vision, mission and long-term goals. Ensure that the company complies with relevant laws and regulations.Participate in decisions that affect the company's growth and operations. Contribute capital and knowledge to ensure the company's success. Share the risk and reward of the company's financial performance. As a Board Member: Ensure that the company's strategy supports the interests of the owners. Monitor the company's management and financial performance. Contribute to the development of the company's vision, mission and long-term goals. Ensure that the company complies with relevant laws and regulations.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's growth and operations.\n\nContribute capital and knowledge to ensure the company's success.\n\nShare the risk and reward of the company's financial performance.\n\nAs a Board Member:\n\nEnsure that the company's strategy supports the interests of the owners.\n\nMonitor the company's management and financial performance.\n\nContribute to the development of the company's vision, mission and long-term goals.\n\nEnsure that the company complies with relevant laws and regulations.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's growth and operations.\n\nContribute capital and knowledge to ensure the company's success.\n\nShare the risk and reward of the company's financial performance.\n\nAs a Board Member:\n\nEnsure that the company's strategy supports the interests of the owners.\n\nMonitor the company's management and financial performance.\n\nContribute to the development of the company's vision, mission and long-term goals.\n\nEnsure that the company complies with relevant laws and regulations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Jan Andersen",
+          "body": "Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen. Tragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern. Teilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens. Als Vorstandsmitglied: Stellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt. Überwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens. Tragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei. Stellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen. Tragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern. Teilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens. Als Vorstandsmitglied: Stellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt. Überwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens. Tragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei. Stellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen.\n\nTragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern.\n\nTeilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens.\n\nAls Vorstandsmitglied:\n\nStellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt.\n\nÜberwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens.\n\nTragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei.\n\nStellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die das Wachstum und die Geschäftstätigkeit des Unternehmens beeinflussen.\n\nTragen Sie Kapital und Fachwissen ein, um den Erfolg des Unternehmens zu sichern.\n\nTeilen Sie die Risiken und Chancen der finanziellen Entwicklung des Unternehmens.\n\nAls Vorstandsmitglied:\n\nStellen Sie sicher, dass die Unternehmensstrategie die Interessen der Eigentümer berücksichtigt.\n\nÜberwachen Sie die Geschäftsführung und die finanzielle Performance des Unternehmens.\n\nTragen Sie zur Entwicklung der Vision, Mission und der langfristigen Ziele des Unternehmens bei.\n\nStellen Sie sicher, dass das Unternehmen alle geltenden Gesetze und Vorschriften einhält.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Jan Andersen",
+          "body": "Participer aux décisions qui affectent la croissance et les opérations de l'entreprise. Apporter des capitaux et des connaissances pour assurer le succès de l'entreprise. Partager les risques et les bénéfices liés à la performance financière de l'entreprise. En tant que membre du conseil d'administration : Veiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires. Suivre la gestion et la performance financière de l'entreprise. Contribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise. S'assurer que l'entreprise respecte les lois et réglementations en vigueur.Participer aux décisions qui affectent la croissance et les opérations de l'entreprise. Apporter des capitaux et des connaissances pour assurer le succès de l'entreprise. Partager les risques et les bénéfices liés à la performance financière de l'entreprise. En tant que membre du conseil d'administration : Veiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires. Suivre la gestion et la performance financière de l'entreprise. Contribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise. S'assurer que l'entreprise respecte les lois et réglementations en vigueur.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui affectent la croissance et les opérations de l'entreprise.\n\nApporter des capitaux et des connaissances pour assurer le succès de l'entreprise.\n\nPartager les risques et les bénéfices liés à la performance financière de l'entreprise.\n\nEn tant que membre du conseil d'administration :\n\nVeiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires.\n\nSuivre la gestion et la performance financière de l'entreprise.\n\nContribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise.\n\nS'assurer que l'entreprise respecte les lois et réglementations en vigueur.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui affectent la croissance et les opérations de l'entreprise.\n\nApporter des capitaux et des connaissances pour assurer le succès de l'entreprise.\n\nPartager les risques et les bénéfices liés à la performance financière de l'entreprise.\n\nEn tant que membre du conseil d'administration :\n\nVeiller à ce que la stratégie de l'entreprise soit conforme aux intérêts des actionnaires.\n\nSuivre la gestion et la performance financière de l'entreprise.\n\nContribuer à l'élaboration de la vision, de la mission et des objectifs à long terme de l'entreprise.\n\nS'assurer que l'entreprise respecte les lois et réglementations en vigueur.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Jan Andersen",
+          "body": "Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf. Draag kapitaal en kennis bij om het succes van het bedrijf te waarborgen. Deel de risico's en voordelen van de financiële prestaties van het bedrijf. Als bestuurslid: Zorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt. Bewaak het management en de financiële prestaties van het bedrijf. Draag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf. Zorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf. Draag kapitaal en kennis bij om het succes van het bedrijf te waarborgen. Deel de risico's en voordelen van de financiële prestaties van het bedrijf. Als bestuurslid: Zorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt. Bewaak het management en de financiële prestaties van het bedrijf. Draag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf. Zorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en kennis bij om het succes van het bedrijf te waarborgen.\n\nDeel de risico's en voordelen van de financiële prestaties van het bedrijf.\n\nAls bestuurslid:\n\nZorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt.\n\nBewaak het management en de financiële prestaties van het bedrijf.\n\nDraag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf.\n\nZorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en kennis bij om het succes van het bedrijf te waarborgen.\n\nDeel de risico's en voordelen van de financiële prestaties van het bedrijf.\n\nAls bestuurslid:\n\nZorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt.\n\nBewaak het management en de financiële prestaties van het bedrijf.\n\nDraag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf.\n\nZorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Jan Andersen",
+          "body": "Delta i beslutninger som påvirker selskapets vekst og drift. Bidra med kapital og kunnskap for å sikre selskapets suksess. Del risiko og avkastning knyttet til selskapets økonomiske resultater. Som styremedlem: Sørge for at selskapets strategi støtter eiernes interesser. Overvåke selskapets ledelse og økonomiske resultater. Bidra til utviklingen av selskapets visjon, oppdrag og langsiktige mål. Sørge for at selskapet overholder relevante lover og forskrifter.Delta i beslutninger som påvirker selskapets vekst og drift. Bidra med kapital og kunnskap for å sikre selskapets suksess. Del risiko og avkastning knyttet til selskapets økonomiske resultater. Som styremedlem: Sørge for at selskapets strategi støtter eiernes interesser. Overvåke selskapets ledelse og økonomiske resultater. Bidra til utviklingen av selskapets visjon, oppdrag og langsiktige mål. Sørge for at selskapet overholder relevante lover og forskrifter.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger som påvirker selskapets vekst og drift.\n\nBidra med kapital og kunnskap for å sikre selskapets suksess.\n\nDel risiko og avkastning knyttet til selskapets økonomiske resultater.\n\nSom styremedlem:\n\nSørge for at selskapets strategi støtter eiernes interesser.\n\nOvervåke selskapets ledelse og økonomiske resultater.\n\nBidra til utviklingen av selskapets visjon, oppdrag og langsiktige mål.\n\nSørge for at selskapet overholder relevante lover og forskrifter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger som påvirker selskapets vekst og drift.\n\nBidra med kapital og kunnskap for å sikre selskapets suksess.\n\nDel risiko og avkastning knyttet til selskapets økonomiske resultater.\n\nSom styremedlem:\n\nSørge for at selskapets strategi støtter eiernes interesser.\n\nOvervåke selskapets ledelse og økonomiske resultater.\n\nBidra til utviklingen av selskapets visjon, oppdrag og langsiktige mål.\n\nSørge for at selskapet overholder relevante lover og forskrifter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Jan Andersen",
+          "body": "Delta i beslut som påverkar företagets tillväxt och verksamhet. Bidra med kapital och kunskap för att säkerställa företagets framgång. Dela risk och belöning för företagets finansiella resultat. Som styrelseledamot: Säkerställa att företagets strategi stöder ägarnas intressen. Övervaka företagets ledning och finansiella resultat. Bidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål. Säkerställa att företaget följer relevanta lagar och förordningar.Delta i beslut som påverkar företagets tillväxt och verksamhet. Bidra med kapital och kunskap för att säkerställa företagets framgång. Dela risk och belöning för företagets finansiella resultat. Som styrelseledamot: Säkerställa att företagets strategi stöder ägarnas intressen. Övervaka företagets ledning och finansiella resultat. Bidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål. Säkerställa att företaget följer relevanta lagar och förordningar.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets tillväxt och verksamhet.\n\nBidra med kapital och kunskap för att säkerställa företagets framgång.\n\nDela risk och belöning för företagets finansiella resultat.\n\nSom styrelseledamot:\n\nSäkerställa att företagets strategi stöder ägarnas intressen.\n\nÖvervaka företagets ledning och finansiella resultat.\n\nBidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål.\n\nSäkerställa att företaget följer relevanta lagar och förordningar.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets tillväxt och verksamhet.\n\nBidra med kapital och kunskap för att säkerställa företagets framgång.\n\nDela risk och belöning för företagets finansiella resultat.\n\nSom styrelseledamot:\n\nSäkerställa att företagets strategi stöder ägarnas intressen.\n\nÖvervaka företagets ledning och finansiella resultat.\n\nBidra till utvecklingen av företagets vision, uppdrag och långsiktiga mål.\n\nSäkerställa att företaget följer relevanta lagar och förordningar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Jan Andersen",
+          "body": "Şirketin büyümesini ve faaliyetlerini etkileyen kararlara katılın. Şirketin başarısını sağlamak için sermaye ve bilgi birikimiyle katkıda bulunun. Şirketin finansal performansının riskini ve getirisini paylaşın. Yönetim Kurulu Üyesi olarak: Şirketin stratejisinin sahiplerin çıkarlarını desteklediğinden emin olun. Şirketin yönetimini ve finansal performansını izleyin. Şirketin vizyonunun, misyonunun ve uzun vadeli hedeflerinin geliştirilmesine katkıda bulunun. Şirketin ilgili yasa ve yönetmeliklere uyduğundan emin olun.Şirketin büyümesini ve faaliyetlerini etkileyen kararlara katılın. Şirketin başarısını sağlamak için sermaye ve bilgi birikimiyle katkıda bulunun. Şirketin finansal performansının riskini ve getirisini paylaşın. Yönetim Kurulu Üyesi olarak: Şirketin stratejisinin sahiplerin çıkarlarını desteklediğinden emin olun. Şirketin yönetimini ve finansal performansını izleyin. Şirketin vizyonunun, misyonunun ve uzun vadeli hedeflerinin geliştirilmesine katkıda bulunun. Şirketin ilgili yasa ve yönetmeliklere uyduğundan emin olun.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Şirketin büyümesini ve faaliyetlerini etkileyen kararlara katılın.\n\nŞirketin başarısını sağlamak için sermaye ve bilgi birikimiyle katkıda bulunun.\n\nŞirketin finansal performansının riskini ve getirisini paylaşın.\n\nYönetim Kurulu Üyesi olarak:\n\nŞirketin stratejisinin sahiplerin çıkarlarını desteklediğinden emin olun.\n\nŞirketin yönetimini ve finansal performansını izleyin.\n\nŞirketin vizyonunun, misyonunun ve uzun vadeli hedeflerinin geliştirilmesine katkıda bulunun.\n\nŞirketin ilgili yasa ve yönetmeliklere uyduğundan emin olun.</p><p class=\"eael-team-text eael-team-text-overlay\">Şirketin büyümesini ve faaliyetlerini etkileyen kararlara katılın.\n\nŞirketin başarısını sağlamak için sermaye ve bilgi birikimiyle katkıda bulunun.\n\nŞirketin finansal performansının riskini ve getirisini paylaşın.\n\nYönetim Kurulu Üyesi olarak:\n\nŞirketin stratejisinin sahiplerin çıkarlarını desteklediğinden emin olun.\n\nŞirketin yönetimini ve finansal performansını izleyin.\n\nŞirketin vizyonunun, misyonunun ve uzun vadeli hedeflerinin geliştirilmesine katkıda bulunun.\n\nŞirketin ilgili yasa ve yönetmeliklere uyduğundan emin olun.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "teamMember",
+      "order": 6,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Ib Andersen",
+          "body": "Deltag i beslutninger, der påvirker virksomhedens udvikling og drift. Bidrag med kapital og ressourcer for at understøtte vækst. Del risici og fordele ved virksomhedens præstation. Som rådgiver: Yd strategisk og operationel rådgivning til ledelsen. Bidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing. Sparring med ledelsen om beslutningstagning og langsigtet planlægning. Tilbyd løsninger på udfordringer og identificer nye vækstmuligheder.Deltag i beslutninger, der påvirker virksomhedens udvikling og drift. Bidrag med kapital og ressourcer for at understøtte vækst. Del risici og fordele ved virksomhedens præstation. Som rådgiver: Yd strategisk og operationel rådgivning til ledelsen. Bidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing. Sparring med ledelsen om beslutningstagning og langsigtet planlægning. Tilbyd løsninger på udfordringer og identificer nye vækstmuligheder.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens udvikling og drift.\n\nBidrag med kapital og ressourcer for at understøtte vækst.\n\nDel risici og fordele ved virksomhedens præstation.\n\nSom rådgiver:\n\nYd strategisk og operationel rådgivning til ledelsen.\n\nBidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing.\n\nSparring med ledelsen om beslutningstagning og langsigtet planlægning.\n\nTilbyd løsninger på udfordringer og identificer nye vækstmuligheder.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens udvikling og drift.\n\nBidrag med kapital og ressourcer for at understøtte vækst.\n\nDel risici og fordele ved virksomhedens præstation.\n\nSom rådgiver:\n\nYd strategisk og operationel rådgivning til ledelsen.\n\nBidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing.\n\nSparring med ledelsen om beslutningstagning og langsigtet planlægning.\n\nTilbyd løsninger på udfordringer og identificer nye vækstmuligheder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Ib Andersen",
+          "body": "Participate in decisions that affect the company's development and operations. Contribute capital and resources to support growth. Share the risks and rewards of the company's performance. As an Advisor: Provide strategic and operational advice to management. Contribute expertise in specific areas, such as sales, finance, operations or marketing. Sparring with management on decision-making and long-term planning. Offer solutions to challenges and identify new opportunities for growth.Participate in decisions that affect the company's development and operations. Contribute capital and resources to support growth. Share the risks and rewards of the company's performance. As an Advisor: Provide strategic and operational advice to management. Contribute expertise in specific areas, such as sales, finance, operations or marketing. Sparring with management on decision-making and long-term planning. Offer solutions to challenges and identify new opportunities for growth.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's development and operations.\n\nContribute capital and resources to support growth.\n\nShare the risks and rewards of the company's performance.\n\nAs an Advisor:\n\nProvide strategic and operational advice to management.\n\nContribute expertise in specific areas, such as sales, finance, operations or marketing.\n\nSparring with management on decision-making and long-term planning.\n\nOffer solutions to challenges and identify new opportunities for growth.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions that affect the company's development and operations.\n\nContribute capital and resources to support growth.\n\nShare the risks and rewards of the company's performance.\n\nAs an Advisor:\n\nProvide strategic and operational advice to management.\n\nContribute expertise in specific areas, such as sales, finance, operations or marketing.\n\nSparring with management on decision-making and long-term planning.\n\nOffer solutions to challenges and identify new opportunities for growth.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Ib Andersen",
+          "body": "Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen. Stellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit. Teilen Sie die Risiken und Chancen des Unternehmenserfolgs. Als Berater: Beraten Sie die Geschäftsleitung strategisch und operativ. Bringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein. Diskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen. Stellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit. Teilen Sie die Risiken und Chancen des Unternehmenserfolgs. Als Berater: Beraten Sie die Geschäftsleitung strategisch und operativ. Bringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein. Diskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit.\n\nTeilen Sie die Risiken und Chancen des Unternehmenserfolgs.\n\nAls Berater:\n\nBeraten Sie die Geschäftsleitung strategisch und operativ.\n\nBringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein.\n\nDiskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen, die die Entwicklung und den Betrieb des Unternehmens betreffen.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung des Wachstums bereit.\n\nTeilen Sie die Risiken und Chancen des Unternehmenserfolgs.\n\nAls Berater:\n\nBeraten Sie die Geschäftsleitung strategisch und operativ.\n\nBringen Sie Ihre Expertise in spezifischen Bereichen wie Vertrieb, Finanzen, Betrieb oder Marketing ein.\n\nDiskutieren Sie mit der Geschäftsleitung über Entscheidungsfindung und langfristige Planung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Ib Andersen",
+          "body": "Participer aux décisions qui influencent le développement et les opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir la croissance. Partager les risques et les bénéfices liés à la performance de l'entreprise. En tant que conseiller : Fournir des conseils stratégiques et opérationnels à la direction. Apporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing. Contribuer à la prise de décision et à la planification à long terme en collaboration avec la direction. Proposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.Participer aux décisions qui influencent le développement et les opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir la croissance. Partager les risques et les bénéfices liés à la performance de l'entreprise. En tant que conseiller : Fournir des conseils stratégiques et opérationnels à la direction. Apporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing. Contribuer à la prise de décision et à la planification à long terme en collaboration avec la direction. Proposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui influencent le développement et les opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir la croissance.\n\nPartager les risques et les bénéfices liés à la performance de l'entreprise.\n\nEn tant que conseiller :\n\nFournir des conseils stratégiques et opérationnels à la direction.\n\nApporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing.\n\nContribuer à la prise de décision et à la planification à long terme en collaboration avec la direction.\n\nProposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions qui influencent le développement et les opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir la croissance.\n\nPartager les risques et les bénéfices liés à la performance de l'entreprise.\n\nEn tant que conseiller :\n\nFournir des conseils stratégiques et opérationnels à la direction.\n\nApporter son expertise dans des domaines spécifiques, tels que les ventes, la finance, les opérations ou le marketing.\n\nContribuer à la prise de décision et à la planification à long terme en collaboration avec la direction.\n\nProposer des solutions aux défis rencontrés et identifier de nouvelles opportunités de croissance.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Ib Andersen",
+          "body": "Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de groei. Deel de risico's en voordelen van de prestaties van het bedrijf. Als adviseur: Geef strategisch en operationeel advies aan het management. Draag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing. Spreek met het management over besluitvorming en langetermijnplanning. Bied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de groei. Deel de risico's en voordelen van de prestaties van het bedrijf. Als adviseur: Geef strategisch en operationeel advies aan het management. Draag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing. Spreek met het management over besluitvorming en langetermijnplanning. Bied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de groei.\n\nDeel de risico's en voordelen van de prestaties van het bedrijf.\n\nAls adviseur:\n\nGeef strategisch en operationeel advies aan het management.\n\nDraag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing.\n\nSpreek met het management over besluitvorming en langetermijnplanning.\n\nBied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de groei.\n\nDeel de risico's en voordelen van de prestaties van het bedrijf.\n\nAls adviseur:\n\nGeef strategisch en operationeel advies aan het management.\n\nDraag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing.\n\nSpreek met het management over besluitvorming en langetermijnplanning.\n\nBied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Ib Andersen",
+          "body": "Delta i beslutninger som påvirker selskapets utvikling og drift. Bidra med kapital og ressurser for å støtte vekst. Del risiko og avkastning ved selskapets resultater. Som rådgiver: Gi strategisk og operasjonell rådgivning til ledelsen. Bidra med ekspertise innen spesifikke områder, som salg, finans, drift eller markedsføring. Sparre med ledelsen om beslutningstaking og langsiktig planlegging. Tilby løsninger på utfordringer og identifisere nye muligheter for vekst.Delta i beslutninger som påvirker selskapets utvikling og drift. Bidra med kapital og ressurser for å støtte vekst. Del risiko og avkastning ved selskapets resultater. Som rådgiver: Gi strategisk og operasjonell rådgivning til ledelsen. Bidra med ekspertise innen spesifikke områder, som salg, finans, drift eller markedsføring. Sparre med ledelsen om beslutningstaking og langsiktig planlegging. Tilby løsninger på utfordringer og identifisere nye muligheter for vekst.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger som påvirker selskapets utvikling og drift.\n\nBidra med kapital og ressurser for å støtte vekst.\n\nDel risiko og avkastning ved selskapets resultater.\n\nSom rådgiver:\n\nGi strategisk og operasjonell rådgivning til ledelsen.\n\nBidra med ekspertise innen spesifikke områder, som salg, finans, drift eller markedsføring.\n\nSparre med ledelsen om beslutningstaking og langsiktig planlegging.\n\nTilby løsninger på utfordringer og identifisere nye muligheter for vekst.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger som påvirker selskapets utvikling og drift.\n\nBidra med kapital og ressurser for å støtte vekst.\n\nDel risiko og avkastning ved selskapets resultater.\n\nSom rådgiver:\n\nGi strategisk og operasjonell rådgivning til ledelsen.\n\nBidra med ekspertise innen spesifikke områder, som salg, finans, drift eller markedsføring.\n\nSparre med ledelsen om beslutningstaking og langsiktig planlegging.\n\nTilby løsninger på utfordringer og identifisere nye muligheter for vekst.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Ib Andersen",
+          "body": "Delta i beslut som påverkar företagets utveckling och verksamhet. Bidra med kapital och resurser för att stödja tillväxt. Dela risker och fördelar med företagets resultat. Som rådgivare: Ge strategisk och operativ rådgivning till ledningen. Bidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring. Sparra med ledningen om beslutsfattande och långsiktig planering. Erbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.Delta i beslut som påverkar företagets utveckling och verksamhet. Bidra med kapital och resurser för att stödja tillväxt. Dela risker och fördelar med företagets resultat. Som rådgivare: Ge strategisk och operativ rådgivning till ledningen. Bidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring. Sparra med ledningen om beslutsfattande och långsiktig planering. Erbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets utveckling och verksamhet.\n\nBidra med kapital och resurser för att stödja tillväxt.\n\nDela risker och fördelar med företagets resultat.\n\nSom rådgivare:\n\nGe strategisk och operativ rådgivning till ledningen.\n\nBidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring.\n\nSparra med ledningen om beslutsfattande och långsiktig planering.\n\nErbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut som påverkar företagets utveckling och verksamhet.\n\nBidra med kapital och resurser för att stödja tillväxt.\n\nDela risker och fördelar med företagets resultat.\n\nSom rådgivare:\n\nGe strategisk och operativ rådgivning till ledningen.\n\nBidra med expertis inom specifika områden, såsom försäljning, ekonomi, drift eller marknadsföring.\n\nSparra med ledningen om beslutsfattande och långsiktig planering.\n\nErbjud lösningar på utmaningar och identifiera nya tillväxtmöjligheter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Ib Andersen",
+          "body": "Şirketin gelişimini ve faaliyetlerini etkileyen kararlara katılın. Büyümeyi desteklemek için sermaye ve kaynak katkısında bulunun. Şirketin performansının risklerini ve getirilerini paylaşın. Danışman olarak: Yönetime stratejik ve operasyonel tavsiyelerde bulunun. Satış, finans, operasyon veya pazarlama gibi belirli alanlarda uzmanlık katkısında bulunun. Karar alma ve uzun vadeli planlama konusunda yönetimle fikir alışverişinde bulunun. Zorluklara çözümler sunun ve büyüme için yeni fırsatlar belirleyin.Şirketin gelişimini ve faaliyetlerini etkileyen kararlara katılın. Büyümeyi desteklemek için sermaye ve kaynak katkısında bulunun. Şirketin performansının risklerini ve getirilerini paylaşın. Danışman olarak: Yönetime stratejik ve operasyonel tavsiyelerde bulunun. Satış, finans, operasyon veya pazarlama gibi belirli alanlarda uzmanlık katkısında bulunun. Karar alma ve uzun vadeli planlama konusunda yönetimle fikir alışverişinde bulunun. Zorluklara çözümler sunun ve büyüme için yeni fırsatlar belirleyin.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Şirketin gelişimini ve faaliyetlerini etkileyen kararlara katılın.\n\nBüyümeyi desteklemek için sermaye ve kaynak katkısında bulunun.\n\nŞirketin performansının risklerini ve getirilerini paylaşın.\n\nDanışman olarak:\n\nYönetime stratejik ve operasyonel tavsiyelerde bulunun.\n\nSatış, finans, operasyon veya pazarlama gibi belirli alanlarda uzmanlık katkısında bulunun.\n\nKarar alma ve uzun vadeli planlama konusunda yönetimle fikir alışverişinde bulunun.\n\nZorluklara çözümler sunun ve büyüme için yeni fırsatlar belirleyin.</p><p class=\"eael-team-text eael-team-text-overlay\">Şirketin gelişimini ve faaliyetlerini etkileyen kararlara katılın.\n\nBüyümeyi desteklemek için sermaye ve kaynak katkısında bulunun.\n\nŞirketin performansının risklerini ve getirilerini paylaşın.\n\nDanışman olarak:\n\nYönetime stratejik ve operasyonel tavsiyelerde bulunun.\n\nSatış, finans, operasyon veya pazarlama gibi belirli alanlarda uzmanlık katkısında bulunun.\n\nKarar alma ve uzun vadeli planlama konusunda yönetimle fikir alışverişinde bulunun.\n\nZorluklara çözümler sunun ve büyüme için yeni fırsatlar belirleyin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "teamMember",
+      "order": 7,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Tommy Andersen",
+          "body": "Deltag i beslutninger om virksomhedens vækst og drift. Bidrag med kapital og ressourcer for at understøtte virksomhedens udvikling. Del risikoen og afkastet fra virksomhedens succes. Som bestyrelsesformand: Led bestyrelsesmøder og sørg for effektive diskussioner og beslutninger. Vær en strategisk sparringspartner for ledelsen og ejerne. Sørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier. Overvåg virksomhedens ledelse og sørg for overholdelse af love og regler. Repræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.Deltag i beslutninger om virksomhedens vækst og drift. Bidrag med kapital og ressourcer for at understøtte virksomhedens udvikling. Del risikoen og afkastet fra virksomhedens succes. Som bestyrelsesformand: Led bestyrelsesmøder og sørg for effektive diskussioner og beslutninger. Vær en strategisk sparringspartner for ledelsen og ejerne. Sørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier. Overvåg virksomhedens ledelse og sørg for overholdelse af love og regler. Repræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger om virksomhedens vækst og drift.\n\nBidrag med kapital og ressourcer for at understøtte virksomhedens udvikling.\n\nDel risikoen og afkastet fra virksomhedens succes.\n\nSom bestyrelsesformand:\n\nLed bestyrelsesmøder og sørg for effektive diskussioner og beslutninger.\n\nVær en strategisk sparringspartner for ledelsen og ejerne.\n\nSørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier.\n\nOvervåg virksomhedens ledelse og sørg for overholdelse af love og regler.\n\nRepræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger om virksomhedens vækst og drift.\n\nBidrag med kapital og ressourcer for at understøtte virksomhedens udvikling.\n\nDel risikoen og afkastet fra virksomhedens succes.\n\nSom bestyrelsesformand:\n\nLed bestyrelsesmøder og sørg for effektive diskussioner og beslutninger.\n\nVær en strategisk sparringspartner for ledelsen og ejerne.\n\nSørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier.\n\nOvervåg virksomhedens ledelse og sørg for overholdelse af love og regler.\n\nRepræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Tommy Andersen",
+          "body": "Participate in decisions about the company's growth and operations. Contribute capital and resources to support the company's development. Share the risk and return from the company's success. As Chairman of the Board: Lead board meetings and ensure effective discussions and decisions. Be a strategic sparring partner for the management and the owners Ensure that the board maintains focus on the company's long-term goals and strategies. Monitor the company's management and ensure compliance with laws and regulations. Represent the board of directors to other owners, investors and other stakeholders.Participate in decisions about the company's growth and operations. Contribute capital and resources to support the company's development. Share the risk and return from the company's success. As Chairman of the Board: Lead board meetings and ensure effective discussions and decisions. Be a strategic sparring partner for the management and the owners Ensure that the board maintains focus on the company's long-term goals and strategies. Monitor the company's management and ensure compliance with laws and regulations. Represent the board of directors to other owners, investors and other stakeholders.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions about the company's growth and operations.\n\nContribute capital and resources to support the company's development.\n\nShare the risk and return from the company's success.\n\nAs Chairman of the Board:\n\nLead board meetings and ensure effective discussions and decisions.\n\nBe a strategic sparring partner for the management and the owners\n\nEnsure that the board maintains focus on the company's long-term goals and strategies.\n\nMonitor the company's management and ensure compliance with laws and regulations.\n\nRepresent the board of directors to other owners, investors and other stakeholders.</p><p class=\"eael-team-text eael-team-text-overlay\">Participate in decisions about the company's growth and operations.\n\nContribute capital and resources to support the company's development.\n\nShare the risk and return from the company's success.\n\nAs Chairman of the Board:\n\nLead board meetings and ensure effective discussions and decisions.\n\nBe a strategic sparring partner for the management and the owners\n\nEnsure that the board maintains focus on the company's long-term goals and strategies.\n\nMonitor the company's management and ensure compliance with laws and regulations.\n\nRepresent the board of directors to other owners, investors and other stakeholders.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Tommy Andersen",
+          "body": "Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens. Stellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit. Beteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs. Als Aufsichtsratsvorsitzender: Leiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen. Seien Sie ein strategischer Sparringspartner für das Management und die Eigentümer. Stellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält. Überwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften. Vertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens. Stellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit. Beteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs. Als Aufsichtsratsvorsitzender: Leiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen. Seien Sie ein strategischer Sparringspartner für das Management und die Eigentümer. Stellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält. Überwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften. Vertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit.\n\nBeteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs.\n\nAls Aufsichtsratsvorsitzender:\n\nLeiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen.\n\nSeien Sie ein strategischer Sparringspartner für das Management und die Eigentümer.\n\nStellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält.\n\nÜberwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften.\n\nVertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.</p><p class=\"eael-team-text eael-team-text-overlay\">Beteiligen Sie sich an Entscheidungen über Wachstum und Geschäftstätigkeit des Unternehmens.\n\nStellen Sie Kapital und Ressourcen zur Unterstützung der Unternehmensentwicklung bereit.\n\nBeteiligen Sie sich am Risiko und am Gewinn des Unternehmenserfolgs.\n\nAls Aufsichtsratsvorsitzender:\n\nLeiten Sie die Aufsichtsratssitzungen und gewährleisten Sie effektive Diskussionen und Entscheidungen.\n\nSeien Sie ein strategischer Sparringspartner für das Management und die Eigentümer.\n\nStellen Sie sicher, dass der Aufsichtsrat die langfristigen Ziele und Strategien des Unternehmens im Blick behält.\n\nÜberwachen Sie das Management des Unternehmens und gewährleisten Sie die Einhaltung von Gesetzen und Vorschriften.\n\nVertreten Sie den Aufsichtsrat gegenüber anderen Eigentümern, Investoren und Stakeholdern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Tommy Andersen",
+          "body": "Participer aux décisions relatives à la croissance et aux opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir le développement de l'entreprise. Partager les risques et les bénéfices liés au succès de l'entreprise. En tant que président du conseil d'administration : Animer les réunions du conseil et veiller à l'efficacité des discussions et des décisions. Être un partenaire stratégique pour la direction et les actionnaires. S'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise. Superviser la direction de l'entreprise et garantir le respect des lois et réglementations. Représenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.Participer aux décisions relatives à la croissance et aux opérations de l'entreprise. Apporter des capitaux et des ressources pour soutenir le développement de l'entreprise. Partager les risques et les bénéfices liés au succès de l'entreprise. En tant que président du conseil d'administration : Animer les réunions du conseil et veiller à l'efficacité des discussions et des décisions. Être un partenaire stratégique pour la direction et les actionnaires. S'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise. Superviser la direction de l'entreprise et garantir le respect des lois et réglementations. Représenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions relatives à la croissance et aux opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir le développement de l'entreprise.\n\nPartager les risques et les bénéfices liés au succès de l'entreprise.\n\nEn tant que président du conseil d'administration :\n\nAnimer les réunions du conseil et veiller à l'efficacité des discussions et des décisions.\n\nÊtre un partenaire stratégique pour la direction et les actionnaires.\n\nS'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise.\n\nSuperviser la direction de l'entreprise et garantir le respect des lois et réglementations.\n\nReprésenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.</p><p class=\"eael-team-text eael-team-text-overlay\">Participer aux décisions relatives à la croissance et aux opérations de l'entreprise.\n\nApporter des capitaux et des ressources pour soutenir le développement de l'entreprise.\n\nPartager les risques et les bénéfices liés au succès de l'entreprise.\n\nEn tant que président du conseil d'administration :\n\nAnimer les réunions du conseil et veiller à l'efficacité des discussions et des décisions.\n\nÊtre un partenaire stratégique pour la direction et les actionnaires.\n\nS'assurer que le conseil d'administration reste concentré sur les objectifs et les stratégies à long terme de l'entreprise.\n\nSuperviser la direction de l'entreprise et garantir le respect des lois et réglementations.\n\nReprésenter le conseil d'administration auprès des autres actionnaires, investisseurs et parties prenantes.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Tommy Andersen",
+          "body": "Neem deel aan beslissingen over de groei en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf. Deel het risico en rendement van het succes van het bedrijf. Als voorzitter van de raad van bestuur: Leid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming. Wees een strategische sparringpartner voor het management en de eigenaren. Zorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf. Bewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving. Vertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.Neem deel aan beslissingen over de groei en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf. Deel het risico en rendement van het succes van het bedrijf. Als voorzitter van de raad van bestuur: Leid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming. Wees een strategische sparringpartner voor het management en de eigenaren. Zorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf. Bewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving. Vertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen over de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf.\n\nDeel het risico en rendement van het succes van het bedrijf.\n\nAls voorzitter van de raad van bestuur:\n\nLeid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming.\n\nWees een strategische sparringpartner voor het management en de eigenaren.\n\nZorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf.\n\nBewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving.\n\nVertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen over de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf.\n\nDeel het risico en rendement van het succes van het bedrijf.\n\nAls voorzitter van de raad van bestuur:\n\nLeid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming.\n\nWees een strategische sparringpartner voor het management en de eigenaren.\n\nZorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf.\n\nBewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving.\n\nVertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Tommy Andersen",
+          "body": "Delta i beslutninger om selskapets vekst og drift. Bidra med kapital og ressurser for å støtte selskapets utvikling. Dele risiko og avkastning fra selskapets suksess. Som styreleder: Lede styremøter og sørge for effektive diskusjoner og beslutninger. Være en strategisk sparringspartner for ledelsen og eierne. Sørge for at styret opprettholder fokus på selskapets langsiktige mål og strategier. Overvåke selskapets ledelse og sørge for samsvar med lover og forskrifter. Representere styret overfor andre eiere, investorer og andre interessenter.Delta i beslutninger om selskapets vekst og drift. Bidra med kapital og ressurser for å støtte selskapets utvikling. Dele risiko og avkastning fra selskapets suksess. Som styreleder: Lede styremøter og sørge for effektive diskusjoner og beslutninger. Være en strategisk sparringspartner for ledelsen og eierne. Sørge for at styret opprettholder fokus på selskapets langsiktige mål og strategier. Overvåke selskapets ledelse og sørge for samsvar med lover og forskrifter. Representere styret overfor andre eiere, investorer og andre interessenter.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger om selskapets vekst og drift.\n\nBidra med kapital og ressurser for å støtte selskapets utvikling.\n\nDele risiko og avkastning fra selskapets suksess.\n\nSom styreleder:\n\nLede styremøter og sørge for effektive diskusjoner og beslutninger.\n\nVære en strategisk sparringspartner for ledelsen og eierne.\n\nSørge for at styret opprettholder fokus på selskapets langsiktige mål og strategier.\n\nOvervåke selskapets ledelse og sørge for samsvar med lover og forskrifter.\n\nRepresentere styret overfor andre eiere, investorer og andre interessenter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslutninger om selskapets vekst og drift.\n\nBidra med kapital og ressurser for å støtte selskapets utvikling.\n\nDele risiko og avkastning fra selskapets suksess.\n\nSom styreleder:\n\nLede styremøter og sørge for effektive diskusjoner og beslutninger.\n\nVære en strategisk sparringspartner for ledelsen og eierne.\n\nSørge for at styret opprettholder fokus på selskapets langsiktige mål og strategier.\n\nOvervåke selskapets ledelse og sørge for samsvar med lover og forskrifter.\n\nRepresentere styret overfor andre eiere, investorer og andre interessenter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Tommy Andersen",
+          "body": "Delta i beslut om företagets tillväxt och verksamhet. Bidra med kapital och resurser för att stödja företagets utveckling. Dela risken och avkastningen från företagets framgång. Som styrelseordförande: Leda styrelsemöten och säkerställa effektiva diskussioner och beslut. Vara en strategisk sparringspartner för ledningen och ägarna. Säkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier. Övervaka företagets ledning och säkerställa efterlevnad av lagar och regler. Representera styrelsen gentemot andra ägare, investerare och andra intressenter.Delta i beslut om företagets tillväxt och verksamhet. Bidra med kapital och resurser för att stödja företagets utveckling. Dela risken och avkastningen från företagets framgång. Som styrelseordförande: Leda styrelsemöten och säkerställa effektiva diskussioner och beslut. Vara en strategisk sparringspartner för ledningen och ägarna. Säkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier. Övervaka företagets ledning och säkerställa efterlevnad av lagar och regler. Representera styrelsen gentemot andra ägare, investerare och andra intressenter.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut om företagets tillväxt och verksamhet.\n\nBidra med kapital och resurser för att stödja företagets utveckling.\n\nDela risken och avkastningen från företagets framgång.\n\nSom styrelseordförande:\n\nLeda styrelsemöten och säkerställa effektiva diskussioner och beslut.\n\nVara en strategisk sparringspartner för ledningen och ägarna.\n\nSäkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier.\n\nÖvervaka företagets ledning och säkerställa efterlevnad av lagar och regler.\n\nRepresentera styrelsen gentemot andra ägare, investerare och andra intressenter.</p><p class=\"eael-team-text eael-team-text-overlay\">Delta i beslut om företagets tillväxt och verksamhet.\n\nBidra med kapital och resurser för att stödja företagets utveckling.\n\nDela risken och avkastningen från företagets framgång.\n\nSom styrelseordförande:\n\nLeda styrelsemöten och säkerställa effektiva diskussioner och beslut.\n\nVara en strategisk sparringspartner för ledningen och ägarna.\n\nSäkerställa att styrelsen bibehåller fokus på företagets långsiktiga mål och strategier.\n\nÖvervaka företagets ledning och säkerställa efterlevnad av lagar och regler.\n\nRepresentera styrelsen gentemot andra ägare, investerare och andra intressenter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Tommy Andersen",
+          "body": "Şirketin büyümesi ve faaliyetleri hakkındaki kararlara katılın. Şirketin gelişimini desteklemek için sermaye ve kaynak katkısında bulunun. Şirketin başarısından kaynaklanan risk ve getiriyi paylaşın. Yönetim Kurulu Başkanı olarak: Yönetim kurulu toplantılarına liderlik edin ve etkili tartışmalar ve kararlar alınmasını sağlayın. Yönetim ve sahipler için stratejik bir danışman olun. Yönetim kurulunun şirketin uzun vadeli hedeflerine ve stratejilerine odaklanmasını sağlayın. Şirket yönetimini izleyin ve yasa ve yönetmeliklere uyumu sağlayın. Yönetim kurulunu diğer sahipler, yatırımcılar ve diğer paydaşlar nezdinde temsil edin.Şirketin büyümesi ve faaliyetleri hakkındaki kararlara katılın. Şirketin gelişimini desteklemek için sermaye ve kaynak katkısında bulunun. Şirketin başarısından kaynaklanan risk ve getiriyi paylaşın. Yönetim Kurulu Başkanı olarak: Yönetim kurulu toplantılarına liderlik edin ve etkili tartışmalar ve kararlar alınmasını sağlayın. Yönetim ve sahipler için stratejik bir danışman olun. Yönetim kurulunun şirketin uzun vadeli hedeflerine ve stratejilerine odaklanmasını sağlayın. Şirket yönetimini izleyin ve yasa ve yönetmeliklere uyumu sağlayın. Yönetim kurulunu diğer sahipler, yatırımcılar ve diğer paydaşlar nezdinde temsil edin.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Şirketin büyümesi ve faaliyetleri hakkındaki kararlara katılın.\n\nŞirketin gelişimini desteklemek için sermaye ve kaynak katkısında bulunun.\n\nŞirketin başarısından kaynaklanan risk ve getiriyi paylaşın.\n\nYönetim Kurulu Başkanı olarak:\n\nYönetim kurulu toplantılarına liderlik edin ve etkili tartışmalar ve kararlar alınmasını sağlayın.\n\nYönetim ve sahipler için stratejik bir danışman olun.\n\nYönetim kurulunun şirketin uzun vadeli hedeflerine ve stratejilerine odaklanmasını sağlayın.\n\nŞirket yönetimini izleyin ve yasa ve yönetmeliklere uyumu sağlayın.\n\nYönetim kurulunu diğer sahipler, yatırımcılar ve diğer paydaşlar nezdinde temsil edin.</p><p class=\"eael-team-text eael-team-text-overlay\">Şirketin büyümesi ve faaliyetleri hakkındaki kararlara katılın.\n\nŞirketin gelişimini desteklemek için sermaye ve kaynak katkısında bulunun.\n\nŞirketin başarısından kaynaklanan risk ve getiriyi paylaşın.\n\nYönetim Kurulu Başkanı olarak:\n\nYönetim kurulu toplantılarına liderlik edin ve etkili tartışmalar ve kararlar alınmasını sağlayın.\n\nYönetim ve sahipler için stratejik bir danışman olun.\n\nYönetim kurulunun şirketin uzun vadeli hedeflerine ve stratejilerine odaklanmasını sağlayın.\n\nŞirket yönetimini izleyin ve yasa ve yönetmeliklere uyumu sağlayın.\n\nYönetim kurulunu diğer sahipler, yatırımcılar ve diğer paydaşlar nezdinde temsil edin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "teamMember",
+      "order": 8,
+      "sectionIndex": 1,
+      "widgetType": "eael-team-member.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-300x300.jpeg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-300x300.jpeg",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jan Rasmussen",
+          "body": "Driftsstyring i flådestyring Driftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.Driftsstyring i flådestyring Driftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Driftsstyring i flådestyring\n\nDriftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.</p><p class=\"eael-team-text eael-team-text-overlay\">Driftsstyring i flådestyring\n\nDriftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": "Jan Rasmussen",
+          "body": "Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p><p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": "Jan Rasmussen",
+          "body": "Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.Operational control in Fleet Management Operational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p><p class=\"eael-team-text eael-team-text-overlay\">Operational control in Fleet Management\n\nOperational Control in a Fleet Management department plays a crucial role in ensuring the daily operation and efficiency of the company's fleet. The role requires structured work, problem solving and ongoing communication with IT Developer and management to ensure a smooth Fleet Management platform.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": "Jan Rasmussen",
+          "body": "Contrôle opérationnel en gestion de flotte Le contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.Contrôle opérationnel en gestion de flotte Le contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Contrôle opérationnel en gestion de flotte\n\nLe contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.</p><p class=\"eael-team-text eael-team-text-overlay\">Contrôle opérationnel en gestion de flotte\n\nLe contrôle opérationnel au sein d'un service de gestion de flotte joue un rôle crucial pour garantir le bon fonctionnement et l'efficacité des opérations quotidiennes de la flotte de l'entreprise. Ce rôle exige une organisation rigoureuse, la capacité à résoudre les problèmes et une communication constante avec l'équipe de développement informatique et la direction afin d'assurer le bon fonctionnement de la plateforme de gestion de flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": "Jan Rasmussen",
+          "body": "Operationele controle binnen vlootbeheer Operationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.Operationele controle binnen vlootbeheer Operationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operationele controle binnen vlootbeheer\n\nOperationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.</p><p class=\"eael-team-text eael-team-text-overlay\">Operationele controle binnen vlootbeheer\n\nOperationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": "Jan Rasmussen",
+          "body": "Driftskontroll i flåtestyring Driftskontroll i en flåtestyringsavdeling spiller en avgjørende rolle i å sikre den daglige driften og effektiviteten til selskapets flåte. Rollen krever strukturert arbeid, problemløsning og kontinuerlig kommunikasjon med IT-utvikler og ledelse for å sikre en smidig flåtestyringsplattform.Driftskontroll i flåtestyring Driftskontroll i en flåtestyringsavdeling spiller en avgjørende rolle i å sikre den daglige driften og effektiviteten til selskapets flåte. Rollen krever strukturert arbeid, problemløsning og kontinuerlig kommunikasjon med IT-utvikler og ledelse for å sikre en smidig flåtestyringsplattform.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Driftskontroll i flåtestyring\n\nDriftskontroll i en flåtestyringsavdeling spiller en avgjørende rolle i å sikre den daglige driften og effektiviteten til selskapets flåte. Rollen krever strukturert arbeid, problemløsning og kontinuerlig kommunikasjon med IT-utvikler og ledelse for å sikre en smidig flåtestyringsplattform.</p><p class=\"eael-team-text eael-team-text-overlay\">Driftskontroll i flåtestyring\n\nDriftskontroll i en flåtestyringsavdeling spiller en avgjørende rolle i å sikre den daglige driften og effektiviteten til selskapets flåte. Rollen krever strukturert arbeid, problemløsning og kontinuerlig kommunikasjon med IT-utvikler og ledelse for å sikre en smidig flåtestyringsplattform.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": "Jan Rasmussen",
+          "body": "Driftstyrning inom flotthantering Driftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.Driftstyrning inom flotthantering Driftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Driftstyrning inom flotthantering\n\nDriftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.</p><p class=\"eael-team-text eael-team-text-overlay\">Driftstyrning inom flotthantering\n\nDriftstyrning inom en flotthanteringsavdelning spelar en avgörande roll för att säkerställa den dagliga driften och effektiviteten hos företagets flotta. Rollen kräver strukturerat arbete, problemlösning och kontinuerlig kommunikation med IT-utvecklare och ledning för att säkerställa en smidig flotthanteringsplattform.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": "Jan Rasmussen",
+          "body": "Filo Yönetiminde Operasyonel Kontrol Filo Yönetimi departmanında operasyonel kontrol, şirketin filosunun günlük operasyonunu ve verimliliğini sağlamada çok önemli bir rol oynar. Bu rol, sorunsuz bir Filo Yönetimi platformu sağlamak için yapılandırılmış çalışma, problem çözme ve BT Geliştiricisi ve yönetimle sürekli iletişim gerektirir.Filo Yönetiminde Operasyonel Kontrol Filo Yönetimi departmanında operasyonel kontrol, şirketin filosunun günlük operasyonunu ve verimliliğini sağlamada çok önemli bir rol oynar. Bu rol, sorunsuz bir Filo Yönetimi platformu sağlamak için yapılandırılmış çalışma, problem çözme ve BT Geliştiricisi ve yönetimle sürekli iletişim gerektirir.",
+          "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Filo Yönetiminde Operasyonel Kontrol\n\nFilo Yönetimi departmanında operasyonel kontrol, şirketin filosunun günlük operasyonunu ve verimliliğini sağlamada çok önemli bir rol oynar. Bu rol, sorunsuz bir Filo Yönetimi platformu sağlamak için yapılandırılmış çalışma, problem çözme ve BT Geliştiricisi ve yönetimle sürekli iletişim gerektirir.</p><p class=\"eael-team-text eael-team-text-overlay\">Filo Yönetiminde Operasyonel Kontrol\n\nFilo Yönetimi departmanında operasyonel kontrol, şirketin filosunun günlük operasyonunu ve verimliliğini sağlamada çok önemli bir rol oynar. Bu rol, sorunsuz bir Filo Yönetimi platformu sağlamak için yapılandırılmış çalışma, problem çözme ve BT Geliştiricisi ve yönetimle sürekli iletişim gerektirir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+/**
+ * Fuel management — centered title, tinted stat band, and paired UI-screenshot
+ * rows with captions beneath (matches live section rhythm, own visual system).
+ */
+
+.page.page {
+  --sol-accent: var(--accent, #0f172a);
+  --sol-accent-bright: var(--accent, #0f172a);
+}
+
+.page {
+  background: #ffffff;
+}
+
+.hero {
+  position: relative;
+  padding: clamp(2.5rem, 5vw, 3.5rem) 0 clamp(2.5rem, 5vw, 3.5rem);
+  display: grid;
+  justify-items: center;
+  text-align: center;
+}
+
+.title {
+  margin-top: 0.75rem;
+  font-size: clamp(2.25rem, 5vw, 3.75rem);
+  max-width: 26ch;
+}
+
+.introBlock {
+  margin-top: clamp(1.5rem, 3.5vw, 2.5rem);
+  display: grid;
+  justify-items: center;
+  max-width: 58rem;
+}
+
+.subheading {
+  font-size: clamp(1.25rem, 2.2vw, 1.75rem);
+  max-width: 34ch;
+}
+
+.introProse {
+  margin-top: 1rem;
+  max-width: 120ch;
+}
+
+.introProse :global(p) {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--sol-muted);
+}
+
+.heroCta {
+  margin-top: 1.5rem;
+}
+
+.stats {
+  position: relative;
+  background: var(--sol-surface);
+  border-top: 1px solid var(--sol-line);
+  border-bottom: 1px solid var(--sol-line);
+}
+
+.statsGrid {
+  display: grid;
+  gap: 2.5rem;
+  padding: clamp(2.25rem, 5vw, 3.25rem) 0;
+}
+
+@media (min-width: 800px) {
+  .statsGrid {
+    grid-template-columns: 1.2fr 1fr 1fr;
+    gap: 0;
+  }
+}
+
+.statCell {
+  display: grid;
+  gap: 0.65rem;
+  padding: 0 0 0 0;
+  transition: transform 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+@media (min-width: 800px) {
+  .statCell {
+    padding: 0 2rem;
+    border-left: 1px solid var(--sol-line);
+  }
+
+  .statCell:first-child {
+    padding-left: 0;
+    border-left: none;
+  }
+}
+
+.statCell:hover {
+  transform: translateY(-2px);
+}
+
+.statValue {
+  font-family: var(--font-outfit), system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--sol-ink);
+  font-size: clamp(2.5rem, 5vw, 3.5rem);
+  transition: color 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.statCellLead .statValue {
+  font-size: clamp(3.25rem, 7vw, 5rem);
+  color: var(--sol-accent);
+  position: relative;
+}
+
+.statCell:hover .statValue {
+  color: var(--sol-accent);
+}
+
+.statLabel {
+  display: block;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--sol-muted);
+  max-width: 20ch;
+}
+
+.statCellLead .statLabel {
+  font-size: 0.9375rem;
+  color: var(--sol-ink);
+}
+
+.monitorIntro {
+  padding: clamp(3rem, 6vw, 4.5rem) 0 clamp(1.75rem, 3vw, 2.5rem);
+  display: grid;
+  justify-items: center;
+  text-align: center;
+}
+
+.monitorTitle {
+  font-size: clamp(1.75rem, 3.4vw, 2.5rem);
+  max-width: 24ch;
+}
+
+.monitorLead {
+  margin-top: 0.85rem;
+  max-width: 54ch;
+}
+
+.monitorLead :global(p) {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--sol-muted);
+}
+
+.shotSection {
+  padding: 0 0 clamp(2.5rem, 5vw, 3.5rem);
+}
+
+.shotGrid {
+  display: grid;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+@media (min-width: 800px) {
+  .shotGrid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+.shotCell {
+  display: flex;
+  justify-content: center;
+}
+
+/* Screenshots ship at ~560px native width; capping the frame keeps them
+   crisp instead of upscaling into blur. */
+.shot {
+  width: 100%;
+  max-width: 30rem;
+  aspect-ratio: 5 / 3;
+  border-radius: 0.75rem;
+  background: var(--sol-surface);
+  box-shadow: 0 0 0 1px var(--sol-line);
+}
+
+.shot img {
+  object-fit: contain;
+}
+
+.captionGrid {
+  margin-top: 1.25rem;
+  display: grid;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+@media (min-width: 800px) {
+  .captionGrid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    max-width: none;
+  }
+}
+
+.caption {
+  max-width: 30rem;
+  justify-self: center;
+}
+
+.caption :global(p) {
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  color: var(--sol-muted);
+  text-align: center;
+}
+
+.close {
+  padding: clamp(3rem, 6vw, 4.5rem) 0 clamp(4rem, 7vw, 5.5rem);
+  display: grid;
+  gap: clamp(2rem, 4vw, 3rem);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .close {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.closeCopy :global(p) {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--sol-muted);
+}
+
+.closeActions {
+  margin-top: 1.5rem;
+}
+
+.closeMediaWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.closeMedia {
+  width: 100%;
+  max-width: 28rem;
+  aspect-ratio: 5 / 3;
+  border-radius: 0.75rem;
+  background: var(--sol-surface);
+  box-shadow: 0 0 0 1px var(--sol-line);
+}
+
+.closeMedia img {
+  object-fit: contain;
+}

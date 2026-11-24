@@ -1,0 +1,728 @@
+{
+  "id": 6123,
+  "slug": "wia-tag-tur",
+  "canonicalSlug": "wia-tag",
+  "locale": "tr",
+  "title": "WIA tag – TUR",
+  "link": "https://www.jaxicloud.com/tr/wia-tag-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 6123,
+    "en": 5998,
+    "da": 5990,
+    "de": 6031,
+    "fr": 6039,
+    "nl": 6057,
+    "nb": 6083,
+    "sv": 6103
+  },
+  "excerpt": "WIA tag Mobil İş Gücü Yönetimi Çözümü – Wia Tag Her iş alanında iş yönetimi verimliliğini bir üst seviyeye taşıyan bir çözümdür. Uygulama, JaxiCloud Filo Yönetimi GPS takip platformuna her zaman ve her yerden erişim sağlar. Hareket halindeyken sistemin web sürümündeki hem temel hem de gelişmiş özellikleri kullanabilirsiniz. What is this for? WiaTag is an [&hellip;]",
+  "seo": {
+    "title": "WIA tag - TUR - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:07:09",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "0c7d4ef",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0c7d4ef",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "WIA tag",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c6e5d22",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "4e1c627",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1c627",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Mobil İş Gücü Yönetimi Çözümü – Wia Tag",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-986516e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "1e6b657",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e6b657",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"44\" data-end=\"172\">Her iş alanında iş yönetimi verimliliğini bir üst seviyeye taşıyan bir çözümdür.</p><p data-start=\"174\" data-end=\"372\">Uygulama, JaxiCloud Filo Yönetimi GPS takip platformuna her zaman ve her yerden erişim sağlar. Hareket halindeyken sistemin web sürümündeki hem temel hem de gelişmiş özellikleri kullanabilirsiniz.</p>",
+      "bodyText": "Her iş alanında iş yönetimi verimliliğini bir üst seviyeye taşıyan bir çözümdür.Uygulama, JaxiCloud Filo Yönetimi GPS takip platformuna her zaman ve her yerden erişim sağlar. Hareket halindeyken sistemin web sürümündeki hem temel hem de gelişmiş özellikleri kullanabilirsiniz.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-986516e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "bd73f2f",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd73f2f",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7e3b912c62674094a35bca2d90d595b9mv2-193x300.png",
+          "alt": "",
+          "width": 193,
+          "height": 300
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-986516e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "8f69f8d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f69f8d",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "What is this for?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6119080",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "71a41ef",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-71a41ef",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>WiaTag is an app for efficient mobile workforce management.</p>",
+      "bodyText": "WiaTag is an app for efficient mobile workforce management.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6119080",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "818dead",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-818dead",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Latest available data",
+      "bodyHtml": "<p>Reliable data on worker movements and performance is always within reach.</p>",
+      "bodyText": "Reliable data on worker movements and performance is always within reach.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "ba506f4",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ba506f4",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Optimization of work processes",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Decide whether integration with Google Maps should be activated.</span></p>",
+      "bodyText": "Decide whether integration with Google Maps should be activated.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "eb62fbc",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb62fbc",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Possibility of customized statuses",
+      "bodyHtml": "<p>The app notifies the user about the worker’s availability, absence from the workplace, and other situations.</p>",
+      "bodyText": "The app notifies the user about the worker’s availability, absence from the workplace, and other situations.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "78bde36",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-78bde36",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Security",
+      "bodyHtml": "<p>Workers can send snapshots, SOS messages, or location data in emergency situations.</p>",
+      "bodyText": "Workers can send snapshots, SOS messages, or location data in emergency situations.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "48797c7",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-48797c7",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Remote control",
+      "bodyHtml": "<p>The possibility of requesting a camera snapshot or a service stop</p>",
+      "bodyText": "The possibility of requesting a camera snapshot or a service stop",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "f3e21c4",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f3e21c4",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Communication with employees",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save </span><span class=\"wixui-rich-text__text\">time.</span></p>",
+      "bodyText": "Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save time.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "3440c57",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3440c57",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Service industry",
+      "bodyHtml": "<p>Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.</p>",
+      "bodyText": "Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "2a15525",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2a15525",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Healthcare",
+      "bodyHtml": "<p>Coordinators monitor the location of field workers during calls and coordinate their work.</p>",
+      "bodyText": "Coordinators monitor the location of field workers during calls and coordinate their work.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "1a72e61",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1a72e61",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Delivery",
+      "bodyHtml": "<p>Delivery services ensure that couriers follow instructions and work schedules</p>",
+      "bodyText": "Delivery services ensure that couriers follow instructions and work schedules",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "d9d8e30",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d9d8e30",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Public utilities",
+      "bodyHtml": "<p>Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.</p>",
+      "bodyText": "Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "0406d4e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0406d4e",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Security",
+      "bodyHtml": "<p>The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.</p>",
+      "bodyText": "The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "2625ea7",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2625ea7",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Your company",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.</span></p>",
+      "bodyText": "WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-0adc6fc",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 18,
+    "sectionCount": 4,
+    "htmlBytes": 24137
+  }
+}

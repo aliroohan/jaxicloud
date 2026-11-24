@@ -1,0 +1,762 @@
+{
+  "id": 2801,
+  "slug": "leasing-control-fr",
+  "canonicalSlug": "leasing-control",
+  "locale": "fr",
+  "title": "Leasing control – FR",
+  "link": "https://www.jaxicloud.com/fr/leasing-control-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2801,
+    "da": 2150,
+    "en": 35,
+    "de": 2549,
+    "nl": 3003,
+    "nb": 3202,
+    "sv": 3395,
+    "tr": 3583
+  },
+  "excerpt": "location de voiture Solution de suivi GPS pour les sociétés de leasing et de financement automobile Un logiciel de leasing automobile fiable pour localiser et récupérer les véhicules Le financement, les prêts et le leasing automobile constituent un marché attractif, mais très risqué. Le vol de véhicules, les retards de paiement, les défauts de paiement [&hellip;]",
+  "seo": {
+    "title": "Contrôle du bail - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:44:26",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "location de voiture",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Solution de suivi GPS pour les sociétés de leasing et de financement automobile",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Un logiciel de leasing automobile fiable pour localiser et récupérer les véhicules</p><p>Le financement, les prêts et le leasing automobile constituent un marché attractif, mais très risqué. Le vol de véhicules, les retards de paiement, les défauts de paiement et les procédures de récupération coûteuses découragent les concessionnaires et les sociétés de financement de se développer ou de maintenir leur activité. Les outils de géolocalisation peu fiables, voire inefficaces, contribuent également à ce phénomène.</p><p>C’est là que LeaseControl, un logiciel de leasing automobile, change la donne. Grâce à ses fonctionnalités télématiques et IoT, protégez les véhicules financés, préservez la rentabilité des concessionnaires et apportez-leur une réelle valeur ajoutée.</p>",
+      "bodyText": "Un logiciel de leasing automobile fiable pour localiser et récupérer les véhiculesLe financement, les prêts et le leasing automobile constituent un marché attractif, mais très risqué. Le vol de véhicules, les retards de paiement, les défauts de paiement et les procédures de récupération coûteuses découragent les concessionnaires et les sociétés de financement de se développer ou de maintenir leur activité. Les outils de géolocalisation peu fiables, voire inefficaces, contribuent également à ce phénomène.C’est là que LeaseControl, un logiciel de leasing automobile, change la donne. Grâce à ses fonctionnalités télématiques et IoT, protégez les véhicules financés, préservez la rentabilité des concessionnaires et apportez-leur une réelle valeur ajoutée.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "9bd7a6b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd7a6b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Pourquoi choisir la gestion de flotte Jaxicloud ?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "b3a9548",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b3a9548",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Découvrez comment Jaxicloud vous permet de gérer votre entreprise en toute simplicité.</p>",
+      "bodyText": "Découvrez comment Jaxicloud vous permet de gérer votre entreprise en toute simplicité.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "0fd41ab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0fd41ab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "expansion du marché vers de nouveaux créneaux",
+      "bodyHtml": "<p><strong>Fonctionnalités d’intégration</strong></p><p>Intégration facile avec d’autres systèmes grâce au SDK</p><p>Pour les fournisseurs de services :</p><p><strong>Technologie éprouvée</strong></p><p>Basée sur la plateforme fiable JaxiCloud.</p><p><strong>Fournisseur expérimenté :</strong></p><p>Fort de vingt ans d’expérience en télématique et IoT.</p><p><strong>Communauté d’experts</strong></p><p>Accès à une vaste communauté d’experts en télématique et IoT.</p><p><br>L’ÈRE DU SUIVI DE FLOTTE : UNE UTILISATION CONVIVIALE</p>",
+      "bodyText": "Fonctionnalités d’intégrationIntégration facile avec d’autres systèmes grâce au SDKPour les fournisseurs de services :Technologie éprouvéeBasée sur la plateforme fiable JaxiCloud.Fournisseur expérimenté :Fort de vingt ans d’expérience en télématique et IoT.Communauté d’expertsAccès à une vaste communauté d’experts en télématique et IoT.L’ÈRE DU SUIVI DE FLOTTE : UNE UTILISATION CONVIVIALE",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "14362b3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14362b3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "L'ère du suivi de flotte, profitez-en",
+      "bodyHtml": "<p><strong>Dynamique du marché :</strong></p><p>Croissance du marché du financement automobile malgré les difficultés.</p><p><strong>Offre de JaxiCloud :</strong></p><p>Une solution de géolocalisation conçue pour le financement automatique.</p><p><strong>Fonctionnalités essentielles :</strong></p><p>Outils de suivi et de restauration de la position du véhicule.</p><p><strong>Risques et solutions pour le secteur :</strong></p><p>Relever les défis rencontrés par les organismes de financement automobile grâce à JaxiCloud.</p><p><strong>Détection des risques :</strong></p><p>Utilisation de zones géographiques et de notifications pour anticiper les problèmes potentiels.</p><p><strong>Solutions rapides :</strong><br>Démarrage à distance de l’arrêt moteur. Analyse des données : Accès aux données et aux trajets détaillés des véhicules.</p>",
+      "bodyText": "Dynamique du marché :Croissance du marché du financement automobile malgré les difficultés.Offre de JaxiCloud :Une solution de géolocalisation conçue pour le financement automatique.Fonctionnalités essentielles :Outils de suivi et de restauration de la position du véhicule.Risques et solutions pour le secteur :Relever les défis rencontrés par les organismes de financement automobile grâce à JaxiCloud.Détection des risques :Utilisation de zones géographiques et de notifications pour anticiper les problèmes potentiels.Solutions rapides :Démarrage à distance de l’arrêt moteur. Analyse des données : Accès aux données et aux trajets détaillés des véhicules.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "f51d805",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f51d805",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Convivial",
+      "bodyHtml": "<p><strong>Contrôle à distance :</strong></p><p>Démarrez ou arrêtez le moteur d’un véhicule à distance en fonction du statut de paiement.</p><p><strong>Géorepérage personnalisé :</strong></p><p>Configurez des zones géographiques et recevez des alertes en cas de dépassement.</p><p><strong>Surveillance de la connexion :</strong></p><p>Recevez des alertes en cas de perte de connexion.</p><p><strong>Flexibilité des notifications :</strong></p><p>Choisissez votre mode de notification.</p>",
+      "bodyText": "Contrôle à distance :Démarrez ou arrêtez le moteur d’un véhicule à distance en fonction du statut de paiement.Géorepérage personnalisé :Configurez des zones géographiques et recevez des alertes en cas de dépassement.Surveillance de la connexion :Recevez des alertes en cas de perte de connexion.Flexibilité des notifications :Choisissez votre mode de notification.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Les principales fonctions de la gestion de flotte Jaxicloud - Contrôle des contrats de location",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Restitution des véhicules",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Localiser les véhicules et désactiver les moteurs à distance</p>",
+      "bodyText": "Localiser les véhicules et désactiver les moteurs à distance",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Récupération sans stress",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Prévenir le vol et le déplacement non autorisé des véhicules financés.</p>",
+      "bodyText": "Prévenir le vol et le déplacement non autorisé des véhicules financés.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Solution sur mesure",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Conçu spécifiquement pour la gestion des contrats de location de véhicules.</p>",
+      "bodyText": "Conçu spécifiquement pour la gestion des contrats de location de véhicules.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Retour sur investissement rapide",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Des outils performants qui protègent les investissements des concessionnaires automobiles dès le premier jour.</p>",
+      "bodyText": "Des outils performants qui protègent les investissements des concessionnaires automobiles dès le premier jour.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Un logiciel de leasing automobile fiable pour la localisation et la récupération des véhicules |</p><p>Dans un monde où le leasing et le financement automobile représentent à la fois un atout et un défi, JaxiCloud se distingue par sa sécurité et sa fiabilité. Cette solution de suivi de flotte de pointe est conçue sur mesure pour les sociétés de leasing et de financement automobile, garantissant un accès permanent aux véhicules. Grâce à des technologies télématiques avancées, des capacités IoT et un suivi en temps réel, JaxiCloud protège non seulement les véhicules financés, mais permet également aux concessionnaires de réduire les risques, d’accroître leurs profits et d’offrir une valeur ajoutée inégalée. Entrez dans l’avenir de la gestion du leasing automobile avec JaxiCloud.</p><p>Sécurisation des contrats à haut risque</p><p>Problèmes : Vols de véhicules et retards de paiement sur le marché des prêts automobiles d’occasion et à risque.</p><p>Solution : Les outils JaxiCloud pour suivre, localiser et contrôler les véhicules à distance.</p><p>Résultat : Réduction des risques et des coûts liés à la récupération des véhicules.</p>",
+      "bodyText": "Un logiciel de leasing automobile fiable pour la localisation et la récupération des véhicules |Dans un monde où le leasing et le financement automobile représentent à la fois un atout et un défi, JaxiCloud se distingue par sa sécurité et sa fiabilité. Cette solution de suivi de flotte de pointe est conçue sur mesure pour les sociétés de leasing et de financement automobile, garantissant un accès permanent aux véhicules. Grâce à des technologies télématiques avancées, des capacités IoT et un suivi en temps réel, JaxiCloud protège non seulement les véhicules financés, mais permet également aux concessionnaires de réduire les risques, d’accroître leurs profits et d’offrir une valeur ajoutée inégalée. Entrez dans l’avenir de la gestion du leasing automobile avec JaxiCloud.Sécurisation des contrats à haut risqueProblèmes : Vols de véhicules et retards de paiement sur le marché des prêts automobiles d’occasion et à risque.Solution : Les outils JaxiCloud pour suivre, localiser et contrôler les véhicules à distance.Résultat : Réduction des risques et des coûts liés à la récupération des véhicules.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Commande de mortier à distance",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bloquer ou débloquer les moteurs de l’extérieur.</p>",
+      "bodyText": "Bloquer ou débloquer les moteurs de l’extérieur.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Rapports détaillés",
+      "bodyHtml": "<p>Données complètes sur l’activité des véhicules.</p>",
+      "bodyText": "Données complètes sur l’activité des véhicules.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Traces de véhicules",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Accédez à l’historique de conduite du véhicule jusqu’à 90 jours.</p>",
+      "bodyText": "Accédez à l’historique de conduite du véhicule jusqu’à 90 jours.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Paiements rapides",
+      "bodyHtml": "<p>Des outils de contrôle efficaces permettent aux concessionnaires automobiles d’être rentables dès le premier jour en réduisant le risque de perte d’un véhicule ou de retard de paiement.</p>",
+      "bodyText": "Des outils de contrôle efficaces permettent aux concessionnaires automobiles d’être rentables dès le premier jour en réduisant le risque de perte d’un véhicule ou de retard de paiement.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 4,
+    "htmlBytes": 25093
+  }
+}

@@ -1,0 +1,1394 @@
+{
+  "id": 3008,
+  "slug": "logistics-delivery-system-hl",
+  "canonicalSlug": "logistics-delivery-system",
+  "locale": "nl",
+  "title": "Logistics delivery system – HL",
+  "link": "https://www.jaxicloud.com/nl/logistics-delivery-system-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 3008,
+    "en": 1084,
+    "da": 1069,
+    "de": 2557,
+    "fr": 2807,
+    "nb": 3207,
+    "sv": 3401,
+    "tr": 3589
+  },
+  "excerpt": "Logistiek leveringssysteem Beheer van het leveringswagenpark met Jaxicloud Fleet Management Laat uw klanten een breed scala aan logistieke taken uitvoeren voor last-mile-levering. Implementeer het beheer van het leveringswagenpark om de activiteiten van de wagenparkeigenaar te automatiseren en te digitaliseren. Rust commerciële wagenparken uit met een tool voor vrachtwagenchauffeurs en een mobiele applicatie voor chauffeurs. De [&hellip;]",
+  "seo": {
+    "title": "Logistiek leveringssysteem - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T10:01:48",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "522869f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-522869f",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Logistiek leveringssysteem",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-6a9c196",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "2b5d7e4",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2b5d7e4",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Beheer van het leveringswagenpark met Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "b1d3868",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b1d3868",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Laat uw klanten een breed scala aan logistieke taken uitvoeren voor last-mile-levering. Implementeer het beheer van het leveringswagenpark om de activiteiten van de wagenparkeigenaar te automatiseren en te digitaliseren.</p><p>Rust commerciële wagenparken uit met een tool voor vrachtwagenchauffeurs en een mobiele applicatie voor chauffeurs. De dagelijkse import en distributie van bestellingen, planning en optimalisatie van routes, leveringscontrole, rapporten, meldingen en opties voor integraties met derden staan ter beschikking van de wagenparkeigenaar. Wialon combineert GPS-tracking, IoT en wagenparkbeheer om meer winst uit bezorgvloten te halen. Download demo</p>",
+      "bodyText": "Laat uw klanten een breed scala aan logistieke taken uitvoeren voor last-mile-levering. Implementeer het beheer van het leveringswagenpark om de activiteiten van de wagenparkeigenaar te automatiseren en te digitaliseren.Rust commerciële wagenparken uit met een tool voor vrachtwagenchauffeurs en een mobiele applicatie voor chauffeurs. De dagelijkse import en distributie van bestellingen, planning en optimalisatie van routes, leveringscontrole, rapporten, meldingen en opties voor integraties met derden staan ter beschikking van de wagenparkeigenaar. Wialon combineert GPS-tracking, IoT en wagenparkbeheer om meer winst uit bezorgvloten te halen. Download demo",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "a4ca921",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a4ca921",
+        "elementor-widget__width-initial",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_ca2aa0d842dc4204b24c3c8448123e41mv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d032774",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "5246b1c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5246b1c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hoe Jaxicloud Fleet Management kan helpen met bezorgvloten",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-eb059c4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "11f60e2",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11f60e2",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvordan Jaxicloud Fleet Management kan hjelpe med leveringsflåter",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-88192fb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 4,
+      "elementorId": "e593b27",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e593b27",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Minder handmatig werk",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Automatische routecreatie, orderimport en gegevensstroom naar apps van derden vervangen urenlang handmatig werk voor de medewerkers van uw klant.</span></p>",
+      "bodyText": "Automatische routecreatie, orderimport en gegevensstroom naar apps van derden vervangen urenlang handmatig werk voor de medewerkers van uw klant.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 4,
+      "elementorId": "190989c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-190989c",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Controle in realtime",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Dispatchers blijven op de hoogte via meldingen, communiceren met chauffeurs, volgen hun werk in realtime en reageren snel om de servicekwaliteit te verbeteren en vertragingen te voorkomen.</span></p>",
+      "bodyText": "Dispatchers blijven op de hoogte via meldingen, communiceren met chauffeurs, volgen hun werk in realtime en reageren snel om de servicekwaliteit te verbeteren en vertragingen te voorkomen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "04a3adc",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-04a3adc",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Beschikbaarheid van historische gegevens",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Geef uw klant de mogelijkheid om zijn processen te verbeteren door regelmatig geplande en daadwerkelijke routes, bezorgduur, kilometerstanden en meer te analyseren.</span></p>",
+      "bodyText": "Geef uw klant de mogelijkheid om zijn processen te verbeteren door regelmatig geplande en daadwerkelijke routes, bezorgduur, kilometerstanden en meer te analyseren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "f969e81",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f969e81",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Bewijs van uitgevoerd werk",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Met Wialon weet uw klant met zekerheid dat de koerier de taak heeft volbracht. Fotobewijs kan ook worden gebruikt om problemen met potentiële tegenpartijen op te lossen.</span></p>",
+      "bodyText": "Met Wialon weet uw klant met zekerheid dat de koerier de taak heeft volbracht. Fotobewijs kan ook worden gebruikt om problemen met potentiële tegenpartijen op te lossen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "28cfdc2",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-28cfdc2",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Bespaart tijd",
+      "bodyHtml": "<p>De medewerkers van uw klant zullen Excel-spreadsheets, het handmatig opstellen van routes en het bellen naar wagenparkkoeriers achterwege laten telkens wanneer hun route ook maar het kleinste beetje verandert.</p>",
+      "bodyText": "De medewerkers van uw klant zullen Excel-spreadsheets, het handmatig opstellen van routes en het bellen naar wagenparkkoeriers achterwege laten telkens wanneer hun route ook maar het kleinste beetje verandert.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "3b4edd8",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b4edd8",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Bespaart hulpbronnen",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Met de routeoptimalisatie van de app levert uw klant meer bestellingen met minder brandstof en slijtage binnen hetzelfde salarisbudget.</span></p>",
+      "bodyText": "Met de routeoptimalisatie van de app levert uw klant meer bestellingen met minder brandstof en slijtage binnen hetzelfde salarisbudget.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-5711770",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "e75c360",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e75c360",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2c8c89d43.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4e761d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "9ae60a6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ae60a6",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cacc754f.png",
+          "alt": "",
+          "width": 484,
+          "height": 305
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4e761d3",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "b64345f",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b64345f",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cb6821c7-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dce43f9",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "527ca66",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-527ca66",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/5fdb2cbe9373b1-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 600,
+          "height": 375
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dce43f9",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 7,
+      "elementorId": "0283d3a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0283d3a",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Bestellingen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 7,
+      "elementorId": "b5ca27e",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b5ca27e",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Laat klanten bestellingen aanmaken, in bulk importeren en exporteren en deze indien nodig handmatig toevoegen of bewerken. Met opties zoals aangepaste velden, bijlagen en andere kunnen klanten de app gebruiken voor levering in de meeste sectoren.</span></p>",
+      "bodyText": "Laat klanten bestellingen aanmaken, in bulk importeren en exporteren en deze indien nodig handmatig toevoegen of bewerken. Met opties zoals aangepaste velden, bijlagen en andere kunnen klanten de app gebruiken voor levering in de meeste sectoren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 7,
+      "elementorId": "e038114",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e038114",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Route- en bestelinformatie",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 7,
+      "elementorId": "dd9c715",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dd9c715",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Alle benodigde informatie voor de bezorging wordt in één app verzameld en in realtime bijgewerkt.</p>",
+      "bodyText": "Alle benodigde informatie voor de bezorging wordt in één app verzameld en in realtime bijgewerkt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 7,
+      "elementorId": "0b7b33d",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0b7b33d",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Het plannen van de bezorgroute",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 7,
+      "elementorId": "e88e2e7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e88e2e7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De app voor bezorglogistiek bouwt voorlopige routes voor geselecteerde bestellingen en voertuigen met geschatte aankomsttijden en kilometerstanden. Tijdens de planningsfase kunnen de aangeboden routes worden aangepast.</p>",
+      "bodyText": "De app voor bezorglogistiek bouwt voorlopige routes voor geselecteerde bestellingen en voertuigen met geschatte aankomsttijden en kilometerstanden. Tijdens de planningsfase kunnen de aangeboden routes worden aangepast.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9594b7c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 8,
+      "elementorId": "71c42bd",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-71c42bd",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Opmerkingen en foto's",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 8,
+      "elementorId": "3befe6a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3befe6a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Koeriers en chauffeurs laten opmerkingen en foto’s achter bij bestellingen om ervoor te zorgen dat alle leveringsgegevens worden vastgelegd.</p>",
+      "bodyText": "Koeriers en chauffeurs laten opmerkingen en foto’s achter bij bestellingen om ervoor te zorgen dat alle leveringsgegevens worden vastgelegd.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 8,
+      "elementorId": "c3f8f22",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c3f8f22",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Bewaking van het leveringsproces en meldingen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 8,
+      "elementorId": "e224199",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e224199",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 8,
+      "elementorId": "c936822",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c936822",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Locatie volgen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-28",
+      "order": 27,
+      "sectionIndex": 8,
+      "elementorId": "198581d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-198581d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Het is niet nodig om chauffeurs uit te rusten met GPS-trackers als uw project dit niet omvat. De app fungeert als tracker die de locatie van de bestuurder aangeeft.</p>",
+      "bodyText": "Het is niet nodig om chauffeurs uit te rusten met GPS-trackers als uw project dit niet omvat. De app fungeert als tracker die de locatie van de bestuurder aangeeft.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-87df629",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-29",
+      "order": 28,
+      "sectionIndex": 9,
+      "elementorId": "413dc19",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-413dc19",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Rapporten",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-30",
+      "order": 29,
+      "sectionIndex": 9,
+      "elementorId": "e70eafe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e70eafe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Wagenparkeigenaren kunnen de rapporten aanpassen en genereren en deze delen met hun tegenhangers voor analyse en aanpassingen. Een statistiekenblok op het dashboard geeft een overzicht van de belangrijkste statistieken.</p>",
+      "bodyText": "Wagenparkeigenaren kunnen de rapporten aanpassen en genereren en deze delen met hun tegenhangers voor analyse en aanpassingen. Een statistiekenblok op het dashboard geeft een overzicht van de belangrijkste statistieken.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-31",
+      "order": 30,
+      "sectionIndex": 9,
+      "elementorId": "a830e3f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a830e3f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Chatten met de afzender",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-32",
+      "order": 31,
+      "sectionIndex": 9,
+      "elementorId": "e51e53f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e51e53f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Via een chat in de app wordt een afzender op de hoogte gesteld van eventuele omstandigheden in verband met de bezorging.</p>",
+      "bodyText": "Via een chat in de app wordt een afzender op de hoogte gesteld van eventuele omstandigheden in verband met de bezorging.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-33",
+      "order": 32,
+      "sectionIndex": 9,
+      "elementorId": "8f9bd99",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8f9bd99",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Meldingen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-34",
+      "order": 33,
+      "sectionIndex": 9,
+      "elementorId": "6d5cc68",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6d5cc68",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Chauffeurs worden op de hoogte gebracht van routeaanpassingen en andere belangrijke wijzigingen die hun handelen op de route kunnen beïnvloeden.</p>",
+      "bodyText": "Chauffeurs worden op de hoogte gebracht van routeaanpassingen en andere belangrijke wijzigingen die hun handelen op de route kunnen beïnvloeden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-dcdc1a6",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 34,
+    "sectionCount": 10,
+    "htmlBytes": 37047
+  }
+}

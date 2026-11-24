@@ -3,9 +3,10 @@
 import React, { useRef } from "react";
 import { motion, useInView, Variants } from "framer-motion";
 import { ArrowRight, Terminal } from "lucide-react";
+import type { ServicesCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ServicesCTA.module.css";
 
-export function ServicesCTA() {
+export function ServicesCTA({ copy }: { copy: ServicesCopy }) {
   const containerRef = useRef<HTMLDivElement>(null);
   const isInView = useInView(containerRef, { once: true, margin: "-100px" });
 
@@ -40,9 +41,12 @@ export function ServicesCTA() {
             animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
             transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
           >
-            <h2 className={styles.title}>Ready to take <span className={styles.highlight}>control?</span></h2>
+            <h2 className={styles.title}>
+              {copy.ctaTitleBefore}{" "}
+              <span className={styles.highlight}>{copy.ctaTitleHighlight}</span>
+            </h2>
             <p className={styles.subtitle}>
-              Stop relying on third-party centers. Build your own digital monitoring hub in days, not months.
+              {copy.ctaSub}
             </p>
           </motion.div>
         </div>
@@ -71,7 +75,7 @@ export function ServicesCTA() {
                 </div>
                 <div className={styles.terminalTitle}>
                   <Terminal size={14} />
-                  <span>initiate_contact.sh</span>
+                  <span>{copy.ctaTerminalTitle}</span>
                 </div>
               </div>
 
@@ -83,21 +87,21 @@ export function ServicesCTA() {
                 animate={isInView ? "visible" : "hidden"}
               >
                 <motion.div className={styles.inputGroup} variants={itemVariants}>
-                  <label>Full Name</label>
-                  <input type="text" placeholder="Jane Doe" className={styles.input} />
+                  <label>{copy.ctaLabelName}</label>
+                  <input type="text" placeholder={copy.ctaPlaceholderName} className={styles.input} />
                 </motion.div>
 
                 <motion.div className={styles.inputGroup} variants={itemVariants}>
-                  <label>Work Email</label>
-                  <input type="email" placeholder="jane@company.com" className={styles.input} />
+                  <label>{copy.ctaLabelEmail}</label>
+                  <input type="email" placeholder={copy.ctaPlaceholderEmail} className={styles.input} />
                 </motion.div>
 
                 <motion.div className={styles.inputGroup} variants={itemVariants}>
-                  <label>Company Size</label>
+                  <label>{copy.ctaLabelCompanySize}</label>
                   <select className={styles.select}>
-                    <option>1-50 vehicles</option>
-                    <option>51-200 vehicles</option>
-                    <option>201+ vehicles</option>
+                    <option>{copy.ctaFleetOpt1}</option>
+                    <option>{copy.ctaFleetOpt2}</option>
+                    <option>{copy.ctaFleetOpt3}</option>
                   </select>
                 </motion.div>
 
@@ -108,7 +112,7 @@ export function ServicesCTA() {
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                 >
-                  <span>Request Access</span>
+                  <span>{copy.ctaSubmit}</span>
                   <ArrowRight size={18} />
                 </motion.button>
               </motion.form>

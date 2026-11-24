@@ -1,0 +1,1122 @@
+{
+  "slug": "hecterra-agriculture",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Hecterra agriculture DA",
+    "en": "Hecterra agriculture",
+    "de": "Hecterra agriculture  – DE",
+    "fr": "Hecterra agriculture – FR",
+    "nl": "Hecterra agriculture – HL",
+    "nb": "Hecterra agriculture – NO",
+    "sv": "Hecterra agriculture – SV",
+    "tr": "Hecterra agriculture – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Hecterra landbrug - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Hecterra agriculture - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Hecterra Landwirtschaft - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Hecterra agriculture - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Hecterra agriculture - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Hecterra jordbruk - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Hecterra jordbruk - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Hekterra tarımı - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/hecterra-agriculture-da/",
+    "en": "https://www.jaxicloud.com/en/hecterra-agriculture/",
+    "de": "https://www.jaxicloud.com/de/hecterra-agriculture-de/",
+    "fr": "https://www.jaxicloud.com/fr/hecterra-agriculture-fr/",
+    "nl": "https://www.jaxicloud.com/nl/hecterra-agriculture-hl/",
+    "nb": "https://www.jaxicloud.com/nb/hecterra-agriculture-no/",
+    "sv": "https://www.jaxicloud.com/sv/hecterra-agriculture-sv/",
+    "tr": "https://www.jaxicloud.com/tr/hecterra-agriculture-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hecterra landbrug",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Hecterra agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Hecterra Landwirtschaft",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Hecterra agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hecterra agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hecterra jordbruk",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hecterra jordbruk",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hekterra tarımı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hecterra: en løsning til GPS-sporing i landbruget",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Hecterra: a solution for GPS tracking in agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Hecterra: eine Lösung für GPS-Tracking in der Landwirtschaft",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Hecterra : une solution de suivi GPS en agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hecterra: een oplossing voor GPS-tracking in de landbouw",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hecterra: en løsning for GPS-sporing i landbruket",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hecterra: en lösning för GPS-spårning inom jordbruket",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hecterra: tarımda GPS takibi için bir çözüm",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Dette er en enkel, men effektiv applikation til agroindustrien, som gør det muligt at kontrollere feltarbejde baseret på telematikdata. Landbrugets gps-system leverer gennemsigtige data om marker, sædskifte og markdrift til ansatte og ledere i landbrugsvirksomheder. Ved at have den nøjagtige information om, hvem, hvornår og hvordan, der dyrkede afgrøderne, kan kunderne effektivt planlægge og forbedre agribusiness-processerne.",
+          "bodyHtml": "<p>Dette er en enkel, men effektiv applikation til agroindustrien, som gør det muligt at kontrollere feltarbejde baseret på telematikdata. Landbrugets gps-system leverer gennemsigtige data om marker, sædskifte og markdrift til ansatte og ledere i landbrugsvirksomheder. Ved at have den nøjagtige information om, hvem, hvornår og hvordan, der dyrkede afgrøderne, kan kunderne effektivt planlægge og forbedre agribusiness-processerne.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "This is a simple but effective application for the agro industry, which allows field work to be controlled based on telematics data. The agricultural GPS system provides transparent data about fields, crop rotation and field management to employees and managers in agricultural companies. By having the exact information about who, when and how grew the crops, customers can effectively plan and improve agribusiness processes.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This is a simple but effective application for the agro industry, which allows field work to be controlled based on telematics data. The agricultural GPS system provides transparent data about fields, crop rotation and field management to employees and managers in agricultural companies. By having the exact information about who, when and how grew the crops, customers can effectively plan and improve agribusiness processes.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Dabei handelt es sich um eine einfache, aber effektive Anwendung für die Agrarindustrie, mit der die Feldarbeit auf Basis von Telematikdaten gesteuert werden kann. Das landwirtschaftliche GPS-System stellt Mitarbeitern und Führungskräften in landwirtschaftlichen Betrieben transparente Daten über Felder, Fruchtfolge und Feldbewirtschaftung zur Verfügung. Durch die genauen Informationen darüber, wer, wann und wie die Pflanzen angebaut wurden, können Kunden die Prozesse in der Agrarwirtschaft effektiv planen und verbessern.",
+          "bodyHtml": "<p>Dabei handelt es sich um eine einfache, aber effektive Anwendung für die Agrarindustrie, mit der die Feldarbeit auf Basis von Telematikdaten gesteuert werden kann. Das landwirtschaftliche GPS-System stellt Mitarbeitern und Führungskräften in landwirtschaftlichen Betrieben transparente Daten über Felder, Fruchtfolge und Feldbewirtschaftung zur Verfügung. Durch die genauen Informationen darüber, wer, wann und wie die Pflanzen angebaut wurden, können Kunden die Prozesse in der Agrarwirtschaft effektiv planen und verbessern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Il s’agit d’une application simple mais efficace pour l’agro-industrie, qui permet de contrôler le travail des champs à partir de données télématiques. Le système GPS agricole fournit des données transparentes sur les champs, la rotation des cultures et la gestion des champs aux employés et dirigeants des entreprises agricoles. En disposant d’informations exactes sur qui, quand et comment a cultivé les cultures, les clients peuvent planifier et améliorer efficacement les processus agro-industriels.",
+          "bodyHtml": "<p>Il s’agit d’une application simple mais efficace pour l’agro-industrie, qui permet de contrôler le travail des champs à partir de données télématiques. Le système GPS agricole fournit des données transparentes sur les champs, la rotation des cultures et la gestion des champs aux employés et dirigeants des entreprises agricoles. En disposant d’informations exactes sur qui, quand et comment a cultivé les cultures, les clients peuvent planifier et améliorer efficacement les processus agro-industriels.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Dit is een eenvoudige maar effectieve toepassing voor de agro-industrie, waarmee veldwerk kan worden aangestuurd op basis van telematicagegevens. Het agrarische GPS-systeem levert transparante gegevens over percelen, vruchtwisseling en veldmanagement aan medewerkers en managers in agrarische bedrijven. Door de exacte informatie te hebben over wie, wanneer en hoe de gewassen verbouwde, kunnen klanten hun agrarische bedrijfsprocessen effectief plannen en verbeteren.",
+          "bodyHtml": "<p>Dit is een eenvoudige maar effectieve toepassing voor de agro-industrie, waarmee veldwerk kan worden aangestuurd op basis van telematicagegevens. Het agrarische GPS-systeem levert transparante gegevens over percelen, vruchtwisseling en veldmanagement aan medewerkers en managers in agrarische bedrijven. Door de exacte informatie te hebben over wie, wanneer en hoe de gewassen verbouwde, kunnen klanten hun agrarische bedrijfsprocessen effectief plannen en verbeteren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Dette er en enkel, men effektiv applikasjon for agroindustrien, som lar feltarbeid kontrolleres basert på telematikkdata. Landbrukets GPS-system gir transparente data om åker, vekstskifte og åkerforvaltning til ansatte og ledere i landbruksbedrifter. Ved å ha nøyaktig informasjon om hvem, når og hvordan dyrket avlingene, kan kundene effektivt planlegge og forbedre landbruksprosesser.",
+          "bodyHtml": "<p>Dette er en enkel, men effektiv applikasjon for agroindustrien, som lar feltarbeid kontrolleres basert på telematikkdata. Landbrukets GPS-system gir transparente data om åker, vekstskifte og åkerforvaltning til ansatte og ledere i landbruksbedrifter. Ved å ha nøyaktig informasjon om hvem, når og hvordan dyrket avlingene, kan kundene effektivt planlegge og forbedre landbruksprosesser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Detta är en enkel men effektiv applikation för agroindustrin, som gör det möjligt att styra fältarbete baserat på telematikdata. Jordbrukets GPS-system ger transparenta data om åkrar, växtföljd och åkerhantering till anställda och chefer i jordbruksföretag. Genom att ha den exakta informationen om vem, när och hur odlade grödorna kan kunderna effektivt planera och förbättra jordbruksprocesser.",
+          "bodyHtml": "<p>Detta är en enkel men effektiv applikation för agroindustrin, som gör det möjligt att styra fältarbete baserat på telematikdata. Jordbrukets GPS-system ger transparenta data om åkrar, växtföljd och åkerhantering till anställda och chefer i jordbruksföretag. Genom att ha den exakta informationen om vem, när och hur odlade grödorna kan kunderna effektivt planera och förbättra jordbruksprocesser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Bu, tarım endüstrisi için saha çalışmasının telematik verilere dayalı olarak kontrol edilmesini sağlayan basit ama etkili bir uygulamadır. Tarımsal GPS sistemi, tarım şirketlerindeki çalışanlara ve yöneticilere tarlalar, ürün rotasyonu ve tarla yönetimi hakkında şeffaf veriler sağlar. Mahsulleri kimin, ne zaman ve nasıl yetiştirdiği hakkında kesin bilgiye sahip olan müşteriler, tarımsal işletme süreçlerini etkili bir şekilde planlayabilir ve geliştirebilir.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Bu, tarım endüstrisi için saha çalışmasının telematik verilere dayalı olarak kontrol edilmesini sağlayan basit ama etkili bir uygulamadır. Tarımsal GPS sistemi, tarım şirketlerindeki çalışanlara ve yöneticilere tarlalar, ürün rotasyonu ve tarla yönetimi hakkında şeffaf veriler sağlar. Mahsulleri kimin, ne zaman ve nasıl yetiştirdiği hakkında kesin bilgiye sahip olan müşteriler, tarımsal işletme süreçlerini etkili bir şekilde planlayabilir ve geliştirebilir.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "featureCard",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Speciel køretøjskontrol",
+          "body": "Kunderne får klare data om kvaliteten og volumen af ​​feltoperationerne samt om landbrugskøretøjernes og køretøjsoperatørernes handlinger.",
+          "bodyHtml": "<p>Kunderne får klare data om kvaliteten og volumen af ​​feltoperationerne samt om landbrugskøretøjernes og køretøjsoperatørernes handlinger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Special vehicle inspection",
+          "body": "Customers receive clear data on the quality and volume of field operations, as well as on the actions of agricultural vehicles and vehicle operators.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Customers receive clear data on the quality and volume of field operations, as well as on the actions of agricultural vehicles and vehicle operators.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Spezielle Fahrzeuguntersuchung",
+          "body": "Kunden erhalten klare Daten zur Qualität und zum Volumen der Feldarbeiten sowie zu den Aktionen der landwirtschaftlichen Fahrzeuge und Fahrzeugführer.",
+          "bodyHtml": "<p>Kunden erhalten klare Daten zur Qualität und zum Volumen der Feldarbeiten sowie zu den Aktionen der landwirtschaftlichen Fahrzeuge und Fahrzeugführer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Contrôle des véhicules spéciaux",
+          "body": "Les clients obtiennent des données claires sur la qualité et le volume des opérations sur le terrain, ainsi que sur les actions des véhicules agricoles et des opérateurs de véhicules.",
+          "bodyHtml": "<p>Les clients obtiennent des données claires sur la qualité et le volume des opérations sur le terrain, ainsi que sur les actions des véhicules agricoles et des opérateurs de véhicules.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Speciale voertuigcontrole",
+          "body": "Klanten krijgen duidelijke gegevens over de kwaliteit en het volume van de veldwerkzaamheden, maar ook over de acties van landbouwvoertuigen en voertuigbestuurders.",
+          "bodyHtml": "<p>Klanten krijgen duidelijke gegevens over de kwaliteit en het volume van de veldwerkzaamheden, maar ook over de acties van landbouwvoertuigen en voertuigbestuurders.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Spesiell kjøretøykontroll",
+          "body": "Kundene får klare data om kvaliteten og volumet av feltoperasjoner, samt om handlingene til landbrukskjøretøyer og kjøretøyoperatører.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Kundene får klare data om kvaliteten og volumet av feltoperasjoner, samt om handlingene til landbrukskjøretøyer og kjøretøyoperatører.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Särskild fordonsbesiktning",
+          "body": "Kunderna får tydliga data om kvaliteten och volymen av fältarbetet, samt om jordbruksfordonens och fordonsförarnas åtgärder",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Kunderna får tydliga data om kvaliteten och volymen av fältarbetet, samt om jordbruksfordonens och fordonsförarnas åtgärder</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Özel araç kontrolü",
+          "body": "Müşteriler, saha operasyonlarının kalitesi ve hacminin yanı sıra tarım araçlarının ve araç operatörlerinin eylemlerine ilişkin net verilere sahip oluyor.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Müşteriler, saha operasyonlarının kalitesi ve hacminin yanı sıra tarım araçlarının ve araç operatörlerinin eylemlerine ilişkin net verilere sahip oluyor.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Pålidelige data",
+          "body": "Hecterra beregner Pålidelige data markbearbejdningerne af komplekse former og tager udeladelser, overlapninger og udyrkede arealer inde i markerne ind.",
+          "bodyHtml": "<p>Hecterra beregner Pålidelige data markbearbejdningerne af komplekse former og tager udeladelser, overlapninger og udyrkede arealer inde i markerne ind.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Reliable data",
+          "body": "Hecterra calculatesthe field processing of complexforms and takes omissions,overlaps and uncultivated areasinside the fields.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra calculates</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">the field processing of complex</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">forms and takes omissions,</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">overlaps and uncultivated areas</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">inside the fields.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Zuverlässige Daten",
+          "body": "Hecterra berechnet die Feldbearbeitung komplexer Formen und nimmt Auslassungen vor, Überlappungen und Brachflächen innerhalb der Felder.",
+          "bodyHtml": "<p>Hecterra berechnet die Feldbearbeitung komplexer Formen und nimmt Auslassungen vor, Überlappungen und Brachflächen innerhalb der Felder.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Des données fiables",
+          "body": "Hecterra calcule les traitements sur le terrain des complexes forme et prend des omissions, chevauchements et zones non cultivées dans les champs.",
+          "bodyHtml": "<p>Hecterra calcule les traitements sur le terrain des complexes forme et prend des omissions, chevauchements et zones non cultivées dans les champs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Betrouwbare gegevens",
+          "body": "Hecterra rekent de veldbehandelingen van complex vormt en neemt weglatingen, overlappingen en onontgonnen gebieden de velden in.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra rekent </span><span class=\"wixui-rich-text__text\">de veldbehandelingen van complex </span><span class=\"wixui-rich-text__text\">vormt en neemt weglatingen, </span><span class=\"wixui-rich-text__text\">overlappingen en onontgonnen gebieden </span><span class=\"wixui-rich-text__text\">de velden in.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Pålitelige data",
+          "body": "Hecterra beregner feltbehandlinger av kompleks former og tar utelatelser, overlappinger og udyrkede arealer inn i feltene.",
+          "bodyHtml": "<p>Hecterra beregner feltbehandlinger av kompleks former og tar utelatelser, overlappinger og udyrkede arealer inn i feltene.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Tillförlitliga data",
+          "body": "Hecterra beräknar fältbearbetningen av komplexa former och tar utelämnanden, överlappningar och oodlade områden inne på fälten.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra beräknar </span><span class=\"wixui-rich-text__text\">fältbearbetningen av komplexa </span><span class=\"wixui-rich-text__text\">former och tar utelämnanden, </span><span class=\"wixui-rich-text__text\">överlappningar och oodlade områden </span><span class=\"wixui-rich-text__text\">inne på fälten.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Güvenilir veriler",
+          "body": "Hecterra hesaplıyor kompleksin saha tedavileri oluşturur ve ihmalleri alır, örtüşmeler ve ekilmemiş alanlar tarlalara.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra hesaplıyor </span><span class=\"wixui-rich-text__text\">kompleksin saha tedavileri </span><span class=\"wixui-rich-text__text\">oluşturur ve ihmalleri alır, </span><span class=\"wixui-rich-text__text\">örtüşmeler ve ekilmemiş alanlar </span><span class=\"wixui-rich-text__text\">tarlalara.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Automatiserede beregninger",
+          "body": "Agro-applikationen beregner de dyrkede markarealer, brændstofforbrug, kilometertal, hastighed og andre parametre, hvilket sparer medarbejdernes tid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro-applikationen beregner de dyrkede markarealer, brændstofforbrug, kilometertal, hastighed og andre parametre, hvilket sparer medarbejdernes tid.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Automated calculations",
+          "body": "The Agro application calculates the cultivated field areas, fuel consumption, mileage, speed and other parameters, saving employees’ time.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The Agro application calculates the cultivated field areas, fuel consumption, mileage, speed and other parameters, saving employees’ time.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "The Agro Automatisierte Berechnungen",
+          "body": "Die Agro-Anwendung berechnet die bearbeiteten Feldflächen, den Kraftstoffverbrauch, die Kilometerleistung, die Geschwindigkeit und andere Parameter und spart so den Mitarbeitern Zeit. application calculates the cultivated field areas, fuel consumption, mileage, speed and other parameters, saving employees‘ time.",
+          "bodyHtml": "<p>Die Agro-Anwendung berechnet die bearbeiteten Feldflächen, den Kraftstoffverbrauch, die Kilometerleistung, die Geschwindigkeit und andere Parameter und spart so den Mitarbeitern Zeit. <span class=\"wixui-rich-text__text\">application calculates the cultivated field areas, fuel consumption, mileage, speed and other parameters, saving employees‘ time.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Calculs automatisés",
+          "body": "L’application Agro calcule les superficies cultivées, la consommation de carburant, le kilométrage, la vitesse et d’autres paramètres, permettant ainsi aux employés de gagner du temps.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">L’application Agro calcule les superficies cultivées, la consommation de carburant, le kilométrage, la vitesse et d’autres paramètres, permettant ainsi aux employés de gagner du temps.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Geautomatiseerde berekeningen",
+          "body": "De Agro-applicatie berekent de bebouwde oppervlakten, het brandstofverbruik, de kilometerstand, de snelheid en andere parameters, waardoor de medewerkers tijd besparen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">De Agro-applicatie berekent de bebouwde oppervlakten, het brandstofverbruik, de kilometerstand, de snelheid en andere parameters, waardoor de medewerkers tijd besparen.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Automatiserte beregninger",
+          "body": "Agro-applikasjonen beregner de dyrkede åkerarealene, drivstofforbruk, kjørelengde, hastighet og andre parametere, og sparer de ansattes tid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro-applikasjonen beregner de dyrkede åkerarealene, drivstofforbruk, kjørelengde, hastighet og andre parametere, og sparer de ansattes tid.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Automatiserade beräkningar",
+          "body": "Agro-applikationen beräknar odlad areal, bränsleförbrukning, körsträcka, hastighet och andra parametrar, vilket sparar tid för anställda.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro-applikationen beräknar odlad areal, bränsleförbrukning, körsträcka, hastighet och andra parametrar, vilket sparar tid för anställda.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Otomatik hesaplamalar",
+          "body": "Agro uygulaması, ekilen tarla alanını, yakıt tüketimini, kilometreyi, hızı ve diğer parametreleri hesaplayarak çalışanların zamanından tasarruf etmesini sağlar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro uygulaması, ekilen tarla alanını, yakıt tüketimini, kilometreyi, hızı ve diğer parametreleri hesaplayarak çalışanların zamanından tasarruf etmesini sağlar.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "API integration",
+          "body": "Overfør data fra Hecterra og anvend dem i ethvert regnskabssystem, der bruger API.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overfør data fra</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra og anvend dem i ethvert regnskabssystem, der bruger API</span>.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "API integration",
+          "body": "API integrationTransfer data fromHecterra and use it in any accounting system that uses API .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">API integrationTransfer data fromHecterra and use it in any accounting system that uses API .</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "API-Integration",
+          "body": "Übertragen Sie Daten von Hecterra und verwenden Sie sie in jedem Buchhaltungssystem, das API verwendet .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Übertragen Sie Daten von Hecterra und verwenden Sie sie in jedem Buchhaltungssystem, das API verwendet .</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Intégration API",
+          "body": "Transférez les données de Hecterra et utilisez-les dans n’importe quel système comptable utilisant l’API .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Transférez les données de</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra et utilisez-les dans n’importe quel système comptable utilisant l’API</span>&nbsp;.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "API-integratie",
+          "body": "Draag gegevens over van Hecterra en gebruik deze in elk boekhoudsysteem dat de API gebruikt .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Draag gegevens over van</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra en gebruik deze in elk boekhoudsysteem dat de API gebruikt</span>&nbsp;.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "API-integrasjon",
+          "body": "Overfør data fra Hecterra og bruk dem i ethvert regnskapssystem som bruker API",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Overfør data fra Hecterra og bruk dem i ethvert regnskapssystem som bruker API</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "API-integration",
+          "body": "Överför data från Hecterra och använd den i alla redovisningssystem som använder API .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Överför data från</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra och använd den i alla redovisningssystem som använder API</span>&nbsp;.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "API entegrasyonu",
+          "body": "Hecterra’dan veri aktarın ve API’yi kullanan herhangi bir muhasebe sisteminde kullanın .",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Hecterra’dan veri aktarın ve API’yi kullanan herhangi bir muhasebe sisteminde kullanın</span>&nbsp;.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "heading",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sådan fungerer GPS-systemet i landbruget",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How the GPS system works in agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "So funktioniert das GPS-System in der Landwirtschaft",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Voici comment fonctionne le système GPS dans l'agriculture",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Zo werkt het GPS-systeem in de landbouw",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Slik fungerer GPS-systemet i landbruket",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur GPS-systemet fungerar inom jordbruket",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Tarımda GPS sistemi böyle çalışıyor",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "iconList",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importer geofences som felter; opsætte trailere, chauffører og enheder i Wialon til videre brug i Hecterra",
+            "Udfyld katalogerne for afgrøder, operationer og afgrøder",
+            "Godkend eller afslå de opdagede markbearbejdninger",
+            "Generer og eksporter omfattende rapporter om feltoperationer"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Import geofences as fields; set up trailers, drivers and devices in Wialon for further use in Hecterra",
+            "Complete the crop, operation and crop catalogs",
+            "Approve or reject the detected field treatments",
+            "Generate and export comprehensive reports on field operations"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importieren Sie Geofences als Felder; Anhänger, Fahrer und Geräte in Wialon für den weiteren Einsatz in Hecterra einrichten",
+            "Vervollständigen Sie die Ernte-, Betriebs- und Erntekataloge",
+            "Genehmigen oder Ablehnen der erkannten Feldbehandlungen",
+            "Erstellen und exportieren Sie umfassende Berichte zu Feldeinsätzen"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importez des clôtures géographiques sous forme de champs ; installer des remorques, des chauffeurs et des unités à Wialon pour une utilisation ultérieure à Hecterra",
+            "Compléter les catalogues de cultures, d'exploitations et de cultures",
+            "Approuver ou rejeter les labours détectés",
+            "Générez et exportez des rapports complets sur les opérations sur le terrain"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importeer geofences als velden; het opzetten van trailers, chauffeurs en eenheden in Wialon voor verder gebruik in Hecterra",
+            "Vul de catalogi in voor gewassen, bewerkingen en gewassen",
+            "Keur de gedetecteerde grondbewerkingen goed of af",
+            "Genereer en exporteer uitgebreide rapporten over veldactiviteiten"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importer geofences som felt; sette opp tilhengere, sjåfører og enheter i Wialon for videre bruk i Hecterra",
+            "Fullfør katalogene for avlinger, operasjoner og avlinger",
+            "Godkjenne eller avvise de oppdagede jordarbeidingene",
+            "Generer og eksporter omfattende rapporter om feltoperasjoner"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Importera geofences som fält; konfigurera släpvagnar, förare och enheter i Wialon för vidare användning i Hecterra",
+            "Fyll i gröd-, drifts- och grödkatalogerna",
+            "Godkänn eller avvisa de upptäckta fältbehandlingarna",
+            "Generera och exportera omfattande rapporter om fältoperationer"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Coğrafi sınırları alanlar olarak içe aktarın; Hecterra'da daha fazla kullanılmak üzere Wialon'da römorklar, sürücüler ve üniteler kurun",
+            "Mahsuller, operasyonlar ve mahsuller için katalogları tamamlayın",
+            "Tespit edilen toprak işlemelerini onaylayın veya reddedin",
+            "Saha operasyonlarına ilişkin kapsamlı raporlar oluşturun ve dışa aktarın"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

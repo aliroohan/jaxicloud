@@ -1,0 +1,2353 @@
+{
+  "slug": "homepage",
+  "pageKind": "marketing",
+  "titles": {
+    "en": "Homepage"
+  },
+  "seo": {
+    "en": {
+      "title": "JaxiCloud Fleet Management - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "en": "https://www.jaxicloud.com/en/homepage/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "image",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_5ec45eadefa04418a19d7f95b1e65be1mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_5ec45eadefa04418a19d7f95b1e65be1mv2.jpg",
+          "width": 794,
+          "height": 625
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "image",
+      "order": 1,
+      "sectionIndex": 0,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/banner3.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/banner3.jpg",
+          "width": 320,
+          "height": 500
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "videoEmbed",
+      "order": 2,
+      "sectionIndex": 0,
+      "widgetType": "eael-sticky-video.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_ca33059a2b3442f385c727cb40bdab74/480p/mp4/file.mp4#t=,",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "heading",
+      "order": 3,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Fleet management solution that empowers businesses worldwide",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 0,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT is a leading fleet management solution with over 20 years of experience in the market. With millions of connected vehicles worldwide, including cars and trucks, JAXICLOUD FLEET MANAGEMENT provides fleet owners with comprehensive control and the ability to monitor every aspect of their fleet. This solution empowers businesses globally to optimize operations and efficiency. JAXICLOUD FLEET MANAGEMENT is the ideal partner for those looking to improve their fleet management.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "ctaButton",
+      "order": 5,
+      "sectionIndex": 0,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More About us",
+              "href": "https://www.jaxicloud.com/en/about-us/"
+            }
+          ],
+          "ctaLabel": "Learn More About us",
+          "ctaUrl": "https://www.jaxicloud.com/en/about-us/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Applications",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 4,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/19503ec0-image1.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/19503ec0-image1.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Click & Connect",
+          "body": "Innovative solution that provides customers with a hassle-free way to register their tracking devices.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Innovative solution that provides customers with a hassle-free way to register their tracking devices.&nbsp;</span></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More",
+              "href": "https://www.jaxicloud.com/en/click-connect/"
+            }
+          ],
+          "ctaLabel": "Learn More",
+          "ctaUrl": "https://www.jaxicloud.com/en/click-connect/",
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 4,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/48af0740-image2.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/48af0740-image2.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Tacho live app",
+          "body": "Tacho-Live and driver time management to comply with EU regulations.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Tacho-Live and driver time management to comply with EU regulations.</span></p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More",
+              "href": "https://www.jaxicloud.com/en/tacho-live/"
+            }
+          ],
+          "ctaLabel": "Learn More",
+          "ctaUrl": "https://www.jaxicloud.com/en/tacho-live/",
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 4,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/99e37ec2-image3.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/99e37ec2-image3.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Eco drive",
+          "body": "The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere.",
+          "bodyHtml": "<p>The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere.</p>",
+          "listItems": [],
+          "links": [
+            {
+              "label": "Learn More",
+              "href": "https://www.jaxicloud.com/en/eco-drive/"
+            }
+          ],
+          "ctaLabel": "Learn More",
+          "ctaUrl": "https://www.jaxicloud.com/en/eco-drive/",
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 1,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 4,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/356f452e-image4.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/356f452e-image4.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Safe start",
+          "body": "The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere.",
+          "bodyHtml": "<p>The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "heading",
+      "order": 11,
+      "sectionIndex": 2,
+      "widgetType": "elementskit-heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT​",
+          "body": "The complete platform for different needs​",
+          "bodyHtml": "<p>The complete platform for different needs​</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "dualCta",
+      "order": 12,
+      "sectionIndex": 2,
+      "widgetType": "elementskit-dual-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Video monitoring",
+          "body": "Transporting valuable goods requires strong safety oversight, while effective driver behavior management is key to ensuring safe and efficient long-distance operations.",
+          "bodyHtml": "<p>Transporting valuable goods requires strong safety oversight, while effective driver behavior management is key to ensuring safe and efficient long-distance operations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "featureCard",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Eco drive",
+          "body": "Stay connected on the go and use both essential and advanced features from the web system directly on your mobile device.",
+          "bodyHtml": "<p>Stay connected on the go and use both essential and advanced features from the web system directly on your mobile device. </p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Fuel management system",
+          "body": "The fuel management system uses onboard data and tank sensors to detect fuel theft, reduce excessive consumption, and cut fuel costs by 15% or more.",
+          "bodyHtml": "<p>The fuel management system uses onboard data and tank sensors to detect fuel theft, reduce excessive consumption, and cut fuel costs by 15% or more. </p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "featureCard",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Tracking platform",
+          "body": "Monitor your entire fleet on an advanced level — manage drivers, vehicles, and all key processes in one place.",
+          "bodyHtml": "<p>Monitor your entire fleet on an advanced level — manage drivers, vehicles, and all key processes in one place.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "featureCard",
+      "order": 17,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "TPMS Solution",
+          "body": "As an industry leader, we continue to innovate with BLE connectivity, tire-mounted sensors, and virtual sensors that deliver insights beyond pressure and temperature.",
+          "bodyHtml": "<p>As an industry leader, we continue to innovate with BLE connectivity, tire-mounted sensors, and virtual sensors that deliver insights beyond pressure and temperature.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "featureCard",
+      "order": 18,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Maintanence",
+          "body": "A web application for full fleet maintenance control — planning, monitoring, and expense tracking. Fleetrun is built for companies that want to cut operating costs, prevent critical breakdowns, and minimize time spent in service.",
+          "bodyHtml": "<p>A web application for full fleet maintenance control — planning, monitoring, and expense tracking. Fleetrun is built for companies that want to cut operating costs, prevent critical breakdowns, and minimize time spent in service. </p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "featureCard",
+      "order": 19,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Constractor",
+          "body": "Any underutilization, idling, downtime, excessive fuel consumption or theft can seriously impact your ROI, productivity and company reputation.",
+          "bodyHtml": "<p>Any underutilization, idling, downtime, excessive fuel consumption or theft can seriously impact your ROI, productivity and company reputation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "featureCard",
+      "order": 20,
+      "sectionIndex": 3,
+      "widgetType": "elementskit-icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Tachogtaph",
+          "body": "The complete solution for digital tachograph - Tacho-Live and driver time management to comply with EU regulations",
+          "bodyHtml": "<p>The complete solution for digital tachograph - Tacho-Live and driver time management to comply with EU regulations</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "heading",
+      "order": 21,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Features",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "heading",
+      "order": 22,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT key functionality",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "iconList",
+      "order": 23,
+      "sectionIndex": 4,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Track vehicles, machines or other assets on the map",
+            "Get notifications and respond quickly to any incidents"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "image",
+      "order": 24,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/real-time-fleet-tracking.jpg",
+          "width": 717,
+          "height": 398
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "image",
+      "order": 25,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/9cc854c8-object-07.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/9cc854c8-object-07.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-27",
+      "type": "image",
+      "order": 26,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f9df9b8bb8b74fa381104a28676515b3mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_f9df9b8bb8b74fa381104a28676515b3mv2.jpg",
+          "width": 710,
+          "height": 380
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-28",
+      "type": "heading",
+      "order": 27,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Features",
+          "body": "Features",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">Features</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-29",
+      "type": "heading",
+      "order": 28,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Route optimization",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-30",
+      "type": "iconList",
+      "order": 29,
+      "sectionIndex": 5,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Customize the dashboard with different widgets",
+            "Customize the dashboard with different widgets"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-31",
+      "type": "heading",
+      "order": 30,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Features",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-32",
+      "type": "heading",
+      "order": 31,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Fuel control",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-33",
+      "type": "iconList",
+      "order": 32,
+      "sectionIndex": 6,
+      "widgetType": "icon-list.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [
+            "Calculate fuel consumption with the greatest accuracy",
+            "Detect any fuel leaks or misuse"
+          ],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-34",
+      "type": "image",
+      "order": 33,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_503b5a57477946249072cb6b4d8e4f48mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_503b5a57477946249072cb6b4d8e4f48mv2.jpg",
+          "width": 711,
+          "height": 389
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-35",
+      "type": "ctaButton",
+      "order": 34,
+      "sectionIndex": 7,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "SEE MORE JAXICLOUD KEY FUNCTIONALITY",
+              "href": "https://www.jaxicloud.com/en/services/"
+            }
+          ],
+          "ctaLabel": "SEE MORE JAXICLOUD KEY FUNCTIONALITY",
+          "ctaUrl": "https://www.jaxicloud.com/en/services/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-36",
+      "type": "videoEmbed",
+      "order": 35,
+      "sectionIndex": 8,
+      "widgetType": "video.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/129284_fedecc277ed04ecea25da74ec2af7ced/720p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-37",
+      "type": "heading",
+      "order": 36,
+      "sectionIndex": 9,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT product highlights and benefits",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-38",
+      "type": "featureCard",
+      "order": 37,
+      "sectionIndex": 9,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Perfect fit for any industry",
+          "body": "JAXICLOUD FLEET MANAGEMENT fleet management software is designed to meet the needs of various industries.",
+          "bodyHtml": "<p><span class=\"wixui-rich-text__text\">JAXICLOUD FLEET MANAGEMENT</span> fleet management software is designed to meet the needs of various industries.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-39",
+      "type": "featureCard",
+      "order": 38,
+      "sectionIndex": 9,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Seamless integrations",
+          "body": "JAXICLOUD FLEET MANAGEMENT SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications.",
+          "bodyHtml": "<p><span class=\"wixui-rich-text__text\">JAXICLOUD FLEET MANAGEMENT</span>&nbsp;SDK and open API enable seamless integration of customized solutions with other systems, including ERP, BI and accounting applications.&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-40",
+      "type": "featureCard",
+      "order": 39,
+      "sectionIndex": 9,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Hardware-agnostic solution",
+          "body": "integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.",
+          "bodyHtml": "<p><span class=\"wixui-rich-text__text\">integrates with most GPS device models — from small scooter trackers to complex devices with multiple inputs, CAN bus and OBD support.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-41",
+      "type": "ctaButton",
+      "order": 40,
+      "sectionIndex": 9,
+      "widgetType": "button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See all product highlights and benefits",
+              "href": "https://www.jaxicloud.com/en/overview/"
+            }
+          ],
+          "ctaLabel": "See all product highlights and benefits",
+          "ctaUrl": "https://www.jaxicloud.com/en/overview/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-42",
+      "type": "heading",
+      "order": 41,
+      "sectionIndex": 10,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD FLEET MANAGEMENT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-43",
+      "type": "heading",
+      "order": 42,
+      "sectionIndex": 10,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "The complete platform for different needs",
+          "body": "The complete platform for different needs",
+          "bodyHtml": "<p class=\"elementor-heading-title elementor-size-default\">The complete platform for different needs</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-44",
+      "type": "featureCard",
+      "order": 43,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Lease Control",
+          "body": "Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery",
+          "bodyHtml": "<p>Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-45",
+      "type": "featureCard",
+      "order": 44,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Jaxicloud Fleet Management can help with delivery fleets",
+          "body": "Delivery Fleet ManagementStreamline deliveries through efficient fleet management and route planning",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Delivery Fleet ManagementStreamline deliveries through efficient fleet management and route planning</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-46",
+      "type": "featureCard",
+      "order": 45,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Lease Control",
+          "body": "Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery",
+          "bodyHtml": "<p>Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-47",
+      "type": "featureCard",
+      "order": 46,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Lease Control",
+          "body": "Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery",
+          "bodyHtml": "<p>Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-48",
+      "type": "image",
+      "order": 47,
+      "sectionIndex": 10,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2.gif"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2.gif",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-49",
+      "type": "featureCard",
+      "order": 48,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Lease Control",
+          "body": "Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery",
+          "bodyHtml": "<p>Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-50",
+      "type": "featureCard",
+      "order": 49,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "solution for GPS tracking in agriculture",
+          "body": "Smart FarmingOptimize the agricultural industry with seamless control over field operations",
+          "bodyHtml": "<p>Smart FarmingOptimize the agricultural industry with seamless control over field operations</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-51",
+      "type": "featureCard",
+      "order": 50,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Eco drive",
+          "body": "Driver Behavior Monitoring Improves driving safety and ensures regulatory compliance by evaluating driving quality based on recorded risky events",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Driver Behavior Monitoring Improves driving safety and ensures regulatory compliance by evaluating driving quality based on recorded risky events</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-52",
+      "type": "featureCard",
+      "order": 51,
+      "sectionIndex": 10,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Lease Control",
+          "body": "Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery",
+          "bodyHtml": "<p>Vehicle Leasing SolutionEasily track and locate leased fleets, or remotely shut down financed cars for quick recovery</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-53",
+      "type": "heading",
+      "order": 52,
+      "sectionIndex": 11,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Solutions for our partners",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-54",
+      "type": "image",
+      "order": 53,
+      "sectionIndex": 12,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 5,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/ppkzosdubnu7ygfvkiwo.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/ppkzosdubnu7ygfvkiwo.jpg",
+          "width": 256,
+          "height": 256
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-55",
+      "type": "image",
+      "order": 54,
+      "sectionIndex": 12,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.jpg",
+          "width": 225,
+          "height": 225
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-56",
+      "type": "image",
+      "order": 55,
+      "sectionIndex": 12,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 2,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/onetomove.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/onetomove.png",
+          "width": 445,
+          "height": 113
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-57",
+      "type": "image",
+      "order": 56,
+      "sectionIndex": 12,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": null,
+        "columnCount": 5,
+        "columnIndex": 3,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/images.png",
+          "width": 220,
+          "height": 229
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-58",
+      "type": "image",
+      "order": 57,
+      "sectionIndex": 12,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 5,
+        "columnIndex": 4,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/211_carrier_logo.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/211_carrier_logo.jpg",
+          "width": 866,
+          "height": 650
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-59",
+      "type": "image",
+      "order": 58,
+      "sectionIndex": 13,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/3efb7664-object-04.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/3efb7664-object-04.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-60",
+      "type": "heading",
+      "order": 59,
+      "sectionIndex": 13,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "JAXICLOUD RESCUE EUROPE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-61",
+      "type": "richText",
+      "order": 60,
+      "sectionIndex": 13,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": "Services Online – The future of fleet management: Become your own 24/7 emergency centerTo give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.",
+          "bodyHtml": "<p>Services Online – The future of fleet management: Become your own 24/7 emergency center</p><p>To give transport companies, hauliers and fleet owners access to their own digital monitoring center. Here they can manage and respond to incidents, breakdowns and operational disruptions themselves – faster and cheaper than with external help.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-62",
+      "type": "ctaButton",
+      "order": 61,
+      "sectionIndex": 13,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-63",
+      "type": "image",
+      "order": 62,
+      "sectionIndex": 13,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/322f7205-object-05.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/322f7205-object-05.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-64",
+      "type": "featureCard",
+      "order": 63,
+      "sectionIndex": 13,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Modular system – use only what you need",
+          "body": "✅ EBS monitoring✅ TPMS and temperature✅ DTC/OBD errors from CAN bus✅ Dashcam with auto-upload and stream✅ Weight✅ Integration with API for your ERP or TMS",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">✅ <span class=\"wixui-rich-text__text\">EBS monitoring<br></span><span class=\"wixui-rich-text__text\">✅ TPMS and temperature<br></span><span class=\"wixui-rich-text__text\">✅ DTC/OBD errors from CAN bus<br></span><span class=\"wixui-rich-text__text\">✅ Dashcam with auto-upload and stream<br></span><span class=\"wixui-rich-text__text\">✅ Weight<br></span><span class=\"wixui-rich-text__text\">✅ Integration with API for your ERP or TMS</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-65",
+      "type": "featureCard",
+      "order": 64,
+      "sectionIndex": 13,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Benefits for the fleet owner",
+          "body": "✅ 24/7 control – without paying for a third-party security center✅ Shorter response time – own reaction or network✅ Direct reporting and documentation✅ Lower costs per task✅ Possibility to invoice the help internally (or re-invoice)",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">✅ <span class=\"wixui-rich-text__text\">24/7 control – without paying for a third-party security center<br></span><span class=\"wixui-rich-text__text\">✅ Shorter response time – own reaction or network<br></span><span class=\"wixui-rich-text__text\">✅ Direct reporting and documentation<br></span><span class=\"wixui-rich-text__text\">✅ Lower costs per task<br></span><span class=\"wixui-rich-text__text\">✅ Possibility to invoice the help internally (or re-invoice)</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-66",
+      "type": "featureCard",
+      "order": 65,
+      "sectionIndex": 13,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Setup and support",
+          "body": "JAXICLOUD offers:✅ Installation of all hardware✅ Setting up Jaxicloud tasks and alarmsSupport, training and onboarding",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">JAXICLOUD offers:<br></span><span class=\"wixui-rich-text__text\">✅ Installation of all hardware<br></span><span class=\"wixui-rich-text__text\">✅ Setting up Jaxicloud tasks and alarmsSupport, training and onboarding</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-67",
+      "type": "image",
+      "order": 66,
+      "sectionIndex": 13,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/f8e45a4f-object-06.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/f8e45a4f-object-06.png",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-68",
+      "type": "featureCard",
+      "order": 67,
+      "sectionIndex": 13,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Optional packages",
+          "body": "RescuePartner:✅ Shared network for outreach partners✅ RescuePlus: Jaxicloud’s use of its own 24/7 network✅ RescueSelf: Complete self-service with own vehicles",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">RescuePartner:<br></span><span class=\"wixui-rich-text__text\">✅ Shared network for outreach partners<br></span><span class=\"wixui-rich-text__text\">✅ RescuePlus: Jaxicloud’s use of its own 24/7 network<br></span><span class=\"wixui-rich-text__text\">✅ RescueSelf: Complete self-service with own vehicles</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-69",
+      "type": "heading",
+      "order": 68,
+      "sectionIndex": 14,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Contact us for demo or setup",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-70",
+      "type": "heading",
+      "order": 69,
+      "sectionIndex": 14,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": "Ready to become your own rescue center?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-71",
+      "type": "formEmbed",
+      "order": 70,
+      "sectionIndex": 14,
+      "widgetType": "eael-fluentform.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

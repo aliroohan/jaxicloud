@@ -4,37 +4,38 @@ import React, { useRef, useEffect } from "react";
 import Image from "next/image";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import type { ServicesCopy } from "@/lib/i18n/pageCopy";
 import styles from "./ServicesStory.module.css";
 
 if (typeof window !== "undefined") {
   gsap.registerPlugin(ScrollTrigger);
 }
 
-const STORY_STEPS = [
-  {
-    id: "step1",
-    num: "01",
-    title: "All necessary information gathered in one place",
-    text: "When an incident occurs, it automatically appears as a task in a dedicated tab under Tasks. The intuitive interface ensures dispatchers can quickly access critical information, providing greater visibility and control over fleet assets.",
-    image: "/images/task_1.png"
-  },
-  {
-    id: "step2",
-    num: "02",
-    title: "Different interaction options for tasks",
-    text: "Users can interact directly with tasks in Jaxicloud, allowing them to review and edit important information, assign tasks to colleagues, adjust their priority and status, and leave comments. This ensures thorough tracking of each task.",
-    image: "/images/task_2.png"
-  },
-  {
-    id: "step3",
-    num: "03",
-    title: "Task history is available at any time",
-    text: "The tab collects and stores information about all tasks, providing access to a full history when needed. This data provides valuable insights that help identify patterns, evaluate dispatcher performance, and implement process improvements.",
-    image: "/images/task_3.png"
-  }
-];
+export function ServicesStory({ copy }: { copy: ServicesCopy }) {
+  const STORY_STEPS = [
+    {
+      id: "step1",
+      num: copy.step1Num,
+      title: copy.step1Title,
+      text: copy.step1Text,
+      image: "/images/task_1.png"
+    },
+    {
+      id: "step2",
+      num: copy.step2Num,
+      title: copy.step2Title,
+      text: copy.step2Text,
+      image: "/images/task_2.png"
+    },
+    {
+      id: "step3",
+      num: copy.step3Num,
+      title: copy.step3Title,
+      text: copy.step3Text,
+      image: "/images/task_3.png"
+    }
+  ];
 
-export function ServicesStory() {
   const containerRef = useRef<HTMLDivElement>(null);
   const cardContainersRef = useRef<(HTMLDivElement | null)[]>([]);
   const cardInnersRef = useRef<(HTMLDivElement | null)[]>([]);
@@ -75,8 +76,11 @@ export function ServicesStory() {
   return (
     <section className={styles.stackingSection}>
       <div className={styles.introHeader}>
-        <h2 className={styles.sectionTitle}>Practical <span className={styles.highlight}>tasks</span></h2>
-        <p className={styles.sectionDesc}>Experience the complete lifecycle of task management.</p>
+        <h2 className={styles.sectionTitle}>
+          {copy.tasksTitleBefore}{" "}
+          <span className={styles.highlight}>{copy.tasksTitleHighlight}</span>
+        </h2>
+        <p className={styles.sectionDesc}>{copy.tasksDesc}</p>
       </div>
 
       <div ref={containerRef} className={styles.cardsWrapper}>

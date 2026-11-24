@@ -1,0 +1,161 @@
+/* archetype: platformLight — light base, teal accent, clean enterprise feel */
+.page { background: #fff; color: #0f172a; }
+
+/* ── Hero ── */
+.hero {
+  position: relative;
+  padding: clamp(3.5rem, 7vw, 5.5rem) 0 clamp(3rem, 6vw, 4.5rem);
+  background: linear-gradient(155deg, #f8fafc 0%, #f0fdfa 40%, #e0f2fe 100%);
+  overflow: hidden;
+}
+.heroGrid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .heroGrid {
+    grid-template-columns: 1.05fr 1fr;
+    gap: 3.5rem;
+  }
+}
+.heroPill {
+  display: flex;
+  flex-direction: column;
+}
+.heroTitle {
+  font-size: clamp(2.4rem, 4.5vw, 3.75rem);
+  color: #0f172a;
+  margin-top: 0.75rem;
+  line-height: 1.05;
+}
+.heroTagline {
+  margin-top: 0.85rem;
+  font-size: clamp(1.2rem, 2.2vw, 1.65rem);
+  color: #0f766e;
+  line-height: 1.25;
+}
+.heroBody {
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #475569;
+}
+.heroCta { margin-top: 1.75rem; }
+.heroImageCol {
+  width: 100%;
+}
+.heroShot {
+  aspect-ratio: 16/10;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(15,23,42,.12);
+  border: 1px solid #e2e8f0;
+}
+.heroDeco { position: absolute; inset: 0; pointer-events: none; }
+
+/* ── Feature grid ── */
+.featSection {
+  padding: clamp(3.5rem, 8vw, 6rem) 0;
+  background: #f8fafc;
+}
+.featHeading {
+  font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+  color: #0f172a;
+  margin-bottom: 2rem;
+  max-width: 24ch;
+}
+.featGrid {
+  display: grid;
+  gap: 1px;
+  background: #e2e8f0;
+  border-radius: 1.25rem;
+  overflow: hidden;
+}
+@media (min-width: 700px) { .featGrid { grid-template-columns: repeat(3, 1fr); } }
+.featCard {
+  background: #fff;
+  padding: 2rem 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: background 0.25s ease;
+}
+.featCard:hover { background: #f0fdfa; }
+.featCardWide {}
+.featIconWrap { color: #0f766e; }
+
+/* ── How it works section ── */
+.howItWorksSection {
+  padding: clamp(3.5rem, 8vw, 6rem) 0;
+  background: #fff;
+}
+.howItWorksMedia {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: clamp(2.5rem, 5vw, 4rem);
+}
+@media (min-width: 768px) {
+  .howItWorksMedia {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.howItWorksShot {
+  aspect-ratio: 16/10;
+  border-radius: 1.25rem;
+  overflow: hidden;
+  box-shadow: 0 12px 36px rgba(15,23,42,.08);
+  border: 1px solid #e2e8f0;
+}
+.howItWorksCenter {
+  max-width: 46rem;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+.howItWorksHeading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  color: #0f172a;
+  line-height: 1.2;
+}
+.listCard {
+  width: 100%;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 1.25rem;
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  text-align: left;
+  box-shadow: 0 4px 16px rgba(15,23,42,.04);
+}
+
+/* ── CTA ── */
+.ctaSection {
+  padding: clamp(3rem, 7vw, 5.5rem) 0;
+  background: #f8fafc;
+}
+.ctaInner {
+  padding: clamp(2.5rem, 5vw, 4rem) clamp(2rem, 5vw, 4rem);
+  background: linear-gradient(150deg, #0f172a 0%, #1e293b 100%);
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+.ctaTitle {
+  font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+  color: #f8fafc;
+  max-width: 24ch;
+  line-height: 1.15;
+}
+.ctaSub {
+  font-size: 1.0625rem;
+  color: rgba(248,250,252,.65);
+  line-height: 1.7;
+  max-width: 42ch;
+}

@@ -1,0 +1,431 @@
+{
+  "id": 2137,
+  "slug": "hecterra-agriculture-da",
+  "canonicalSlug": "hecterra-agriculture",
+  "locale": "da",
+  "title": "Hecterra agriculture DA",
+  "link": "https://www.jaxicloud.com/hecterra-agriculture-da/",
+  "pageKind": "solution",
+  "translations": {
+    "da": 2137,
+    "en": 39,
+    "de": 2532,
+    "fr": 2791,
+    "nl": 2993,
+    "nb": 3191,
+    "sv": 3382,
+    "tr": 3572
+  },
+  "excerpt": "Hecterra landbrug Hecterra: en løsning til GPS-sporing i landbruget Dette er en enkel, men effektiv applikation til agroindustrien, som gør det muligt at kontrollere feltarbejde baseret på telematikdata. Landbrugets gps-system leverer gennemsigtige data om marker, sædskifte og markdrift til ansatte og ledere i landbrugsvirksomheder. Ved at have den nøjagtige information om, hvem, hvornår og hvordan, [&hellip;]",
+  "seo": {
+    "title": "Hecterra landbrug - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T01:47:19",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "9f71c92",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f71c92",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra landbrug",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b75bf35",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "9ca3b12",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ca3b12",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra: en løsning til GPS-sporing i landbruget",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f4ae35",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f4ae35",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Dette er en enkel, men effektiv applikation til agroindustrien, som gør det muligt at kontrollere feltarbejde baseret på telematikdata. Landbrugets gps-system leverer gennemsigtige data om marker, sædskifte og markdrift til ansatte og ledere i landbrugsvirksomheder. Ved at have den nøjagtige information om, hvem, hvornår og hvordan, der dyrkede afgrøderne, kan kunderne effektivt planlægge og forbedre agribusiness-processerne.</p>",
+      "bodyText": "Dette er en enkel, men effektiv applikation til agroindustrien, som gør det muligt at kontrollere feltarbejde baseret på telematikdata. Landbrugets gps-system leverer gennemsigtige data om marker, sædskifte og markdrift til ansatte og ledere i landbrugsvirksomheder. Ved at have den nøjagtige information om, hvem, hvornår og hvordan, der dyrkede afgrøderne, kan kunderne effektivt planlægge og forbedre agribusiness-processerne.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "5a37128",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a37128",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c59794f",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c59794f",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Speciel køretøjskontrol",
+      "bodyHtml": "<p>Kunderne får klare data om kvaliteten og volumen af ​​feltoperationerne samt om landbrugskøretøjernes og køretøjsoperatørernes handlinger.</p>",
+      "bodyText": "Kunderne får klare data om kvaliteten og volumen af ​​feltoperationerne samt om landbrugskøretøjernes og køretøjsoperatørernes handlinger.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "4dce5dd",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4dce5dd",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Pålidelige data",
+      "bodyHtml": "<p>Hecterra beregner Pålidelige data markbearbejdningerne af komplekse former og tager udeladelser, overlapninger og udyrkede arealer inde i markerne ind.</p>",
+      "bodyText": "Hecterra beregner Pålidelige data markbearbejdningerne af komplekse former og tager udeladelser, overlapninger og udyrkede arealer inde i markerne ind.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "8828297",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8828297",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Automatiserede beregninger",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Agro-applikationen beregner de dyrkede markarealer, brændstofforbrug, kilometertal, hastighed og andre parametre, hvilket sparer medarbejdernes tid.</span></p>",
+      "bodyText": "Agro-applikationen beregner de dyrkede markarealer, brændstofforbrug, kilometertal, hastighed og andre parametre, hvilket sparer medarbejdernes tid.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "0641184",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0641184",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "API integration",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overfør data fra</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra og anvend dem i ethvert regnskabssystem, der bruger API</span>.</p>",
+      "bodyText": "Overfør data fra Hecterra og anvend dem i ethvert regnskabssystem, der bruger API.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9387f5b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9387f5b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Sådan fungerer GPS-systemet i landbruget",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "02f4bce",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-02f4bce",
+        "elementor-widget__width-initial",
+        "elementor-align-center",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Importer geofences som felter; opsætte trailere, chauffører og enheder i Wialon til videre brug i Hecterra",
+        "Udfyld katalogerne for afgrøder, operationer og afgrøder",
+        "Godkend eller afslå de opdagede markbearbejdninger",
+        "Generer og eksporter omfattende rapporter om feltoperationer"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 10,
+    "sectionCount": 4,
+    "htmlBytes": 15664
+  }
+}

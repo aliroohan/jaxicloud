@@ -1,0 +1,903 @@
+{
+  "id": 5882,
+  "slug": "safe-start-tur",
+  "canonicalSlug": "safe-start",
+  "locale": "tr",
+  "title": "Safe start – TUR",
+  "link": "https://www.jaxicloud.com/tr/safe-start-tur/",
+  "pageKind": "solution",
+  "translations": {
+    "tr": 5882,
+    "en": 5846,
+    "da": 5812,
+    "de": 5851,
+    "fr": 5861,
+    "nl": 5866,
+    "nb": 5871,
+    "sv": 5877
+  },
+  "excerpt": "Safe start Dijital Araç Muayene ve Filo Güvenliği Platformu Safe Start, filo güvenliğini, mevzuata uyumu ve operasyonel şeffaflığı artırmak için tasarlanmış modern bir dijital araç muayene çözümüdür.Platform, sürücüler için bir mobil uygulama ve filo sahipleri ile yöneticileri için bir web uygulamasından oluşur ve sorunsuz bir şekilde birlikte çalışır. Akıllı Araç Muayeneleri – Her Yerde, Her [&hellip;]",
+  "seo": {
+    "title": "Safe start - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-21T23:05:31",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "0d48661",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0d48661",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Safe start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-56b5ff1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f03419f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f03419f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Dijital Araç Muayene ve Filo Güvenliği Platformu",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "06820c7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-06820c7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start, filo güvenliğini, mevzuata uyumu ve operasyonel şeffaflığı artırmak için tasarlanmış modern bir dijital araç muayene çözümüdür.<br data-start=\"17846\" data-end=\"17849\">Platform, sürücüler için bir mobil uygulama ve filo sahipleri ile yöneticileri için bir web uygulamasından oluşur ve sorunsuz bir şekilde birlikte çalışır.</p>",
+      "bodyText": "Safe Start, filo güvenliğini, mevzuata uyumu ve operasyonel şeffaflığı artırmak için tasarlanmış modern bir dijital araç muayene çözümüdür.Platform, sürücüler için bir mobil uygulama ve filo sahipleri ile yöneticileri için bir web uygulamasından oluşur ve sorunsuz bir şekilde birlikte çalışır.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0ed1f19",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0ed1f19",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png",
+          "alt": "",
+          "width": 800,
+          "height": 930
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "041f024",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-041f024",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png",
+          "alt": "",
+          "width": 800,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "8a1e6bb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8a1e6bb",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Akıllı Araç Muayeneleri – Her Yerde, Her Zaman",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "dc4d2d3",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc4d2d3",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"18006\" data-end=\"18357\">Safe Start mobil uygulaması ile sürücüler, araç muayenelerini doğrudan akıllı telefon veya tabletlerinden hızlı ve kolay bir şekilde gerçekleştirebilir.<br data-start=\"18211\" data-end=\"18214\">Muayene kontrol listeleri tamamen yapılandırılabilir olup, müşteri gereksinimlerine, araç türlerine veya yasal standartlara göre uyarlanabilir.</p><p data-start=\"18359\" data-end=\"18533\">Sürücüler yalnızca giriş yapar, bir araç seçer ve önceden tanımlanmış soruları yanıtlayarak, yorum ekleyerek ve sorunları gerçek zamanlı olarak bildirerek muayeneyi tamamlar.</p>",
+      "bodyText": "Safe Start mobil uygulaması ile sürücüler, araç muayenelerini doğrudan akıllı telefon veya tabletlerinden hızlı ve kolay bir şekilde gerçekleştirebilir.Muayene kontrol listeleri tamamen yapılandırılabilir olup, müşteri gereksinimlerine, araç türlerine veya yasal standartlara göre uyarlanabilir.Sürücüler yalnızca giriş yapar, bir araç seçer ve önceden tanımlanmış soruları yanıtlayarak, yorum ekleyerek ve sorunları gerçek zamanlı olarak bildirerek muayeneyi tamamlar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "db0b2a3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db0b2a3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png",
+          "alt": "",
+          "width": 1066,
+          "height": 1172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "3b79b10",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b79b10",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Tamamen Özelleştirilebilir Muayene Kontrol Listeleri",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "a49203f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a49203f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"18535\" data-end=\"18822\">Her filo farklıdır. Safe Start, müşteri bazında muayene sorularının ve iş akışlarının özelleştirilmesine olanak tanır; böylece muayeneler şirket içi prosedürlere, yasal gerekliliklere veya sektör standartlarına uygun hale gelir.</p><p data-start=\"18824\" data-end=\"18878\">Bu esneklik, Safe Start’ı şu alanlar için uygun kılar:</p><p data-start=\"18882\" data-end=\"18916\">Taşımacılık ve lojistik filoları</p><p data-start=\"18919\" data-end=\"18949\">İnşaat ve ağır iş makineleri</p><p data-start=\"18952\" data-end=\"18992\">Servis araçları ve şirket otomobilleri</p><p data-start=\"18995\" data-end=\"19037\">Treylerler, kamyonlar ve özel ekipmanlar</p>",
+      "bodyText": "Her filo farklıdır. Safe Start, müşteri bazında muayene sorularının ve iş akışlarının özelleştirilmesine olanak tanır; böylece muayeneler şirket içi prosedürlere, yasal gerekliliklere veya sektör standartlarına uygun hale gelir.Bu esneklik, Safe Start’ı şu alanlar için uygun kılar:Taşımacılık ve lojistik filolarıİnşaat ve ağır iş makineleriServis araçları ve şirket otomobilleriTreylerler, kamyonlar ve özel ekipmanlar",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Taşımacılık ve lojistik filoları",
+        "İnşaat ve ağır iş makineleri",
+        "Servis araçları ve şirket otomobilleri",
+        "Treylerler, kamyonlar ve özel ekipmanlar"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "82e9ec3",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82e9ec3",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Filo Yönetimi için Merkezi Web Paneli",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fc4808b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fc4808b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"19039\" data-end=\"19195\">Safe Start web uygulaması, filo sahipleri ve yöneticilerine tüm araç muayeneleri üzerinde tam görünürlük sağlar.</p><p data-start=\"19197\" data-end=\"19236\">Panel üzerinden şunları yapabilirsiniz:</p><p data-start=\"19240\" data-end=\"19292\">Tamamlanan muayeneleri gerçek zamanlı görüntülemek</p><p data-start=\"19295\" data-end=\"19346\">Araç durumunu ve bildirilen arızaları takip etmek</p><p data-start=\"19349\" data-end=\"19406\">Araç veya sürücü bazında muayene geçmişini analiz etmek</p><p data-start=\"19409\" data-end=\"19449\">Uyum ve güvenlik performansını izlemek</p><p data-start=\"19451\" data-end=\"19547\">Tüm muayene verileri güvenli bir şekilde saklanır ve kolay erişim ile raporlama için düzenlenir.</p>",
+      "bodyText": "Safe Start web uygulaması, filo sahipleri ve yöneticilerine tüm araç muayeneleri üzerinde tam görünürlük sağlar.Panel üzerinden şunları yapabilirsiniz:Tamamlanan muayeneleri gerçek zamanlı görüntülemekAraç durumunu ve bildirilen arızaları takip etmekAraç veya sürücü bazında muayene geçmişini analiz etmekUyum ve güvenlik performansını izlemekTüm muayene verileri güvenli bir şekilde saklanır ve kolay erişim ile raporlama için düzenlenir.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Tamamlanan muayeneleri gerçek zamanlı görüntülemek",
+        "Araç durumunu ve bildirilen arızaları takip etmek",
+        "Araç veya sürücü bazında muayene geçmişini analiz etmek",
+        "Uyum ve güvenlik performansını izlemek"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "a996c0d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a996c0d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1205
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "f745bed",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f745bed",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "e03978d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e03978d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png",
+          "alt": "",
+          "width": 1186,
+          "height": 1418
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "93d1efd",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-93d1efd",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Profesyonel Raporlar ve PDF Dışa Aktarma",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "a29ea15",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a29ea15",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"19549\" data-end=\"19700\">Tüm araç muayene raporları web uygulaması üzerinden doğrudan PDF olarak dışa aktarılabilir.<br data-start=\"19687\" data-end=\"19690\">Bu sayede:</p><p data-start=\"19704\" data-end=\"19755\">Raporları yöneticiler veya müşterilerle paylaşmak</p><p data-start=\"19758\" data-end=\"19811\">Denetimler ve mevzuat uyumu için belgeleri saklamak</p><p data-start=\"19814\" data-end=\"19860\">Her araç için net bir muayene geçmişi tutmak</p><p data-start=\"19862\" data-end=\"19943\">kolaylaşır. Raporlar yapılandırılmış, okunabilir ve resmi kullanım için uygundur.</p>",
+      "bodyText": "Tüm araç muayene raporları web uygulaması üzerinden doğrudan PDF olarak dışa aktarılabilir.Bu sayede:Raporları yöneticiler veya müşterilerle paylaşmakDenetimler ve mevzuat uyumu için belgeleri saklamakHer araç için net bir muayene geçmişi tutmakkolaylaşır. Raporlar yapılandırılmış, okunabilir ve resmi kullanım için uygundur.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Raporları yöneticiler veya müşterilerle paylaşmak",
+        "Denetimler ve mevzuat uyumu için belgeleri saklamak",
+        "Her araç için net bir muayene geçmişi tutmak"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "51eca48",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eca48",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Safe Start’ın Temel Avantajları",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "bd4dd95",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd4dd95",
+        "elementor-widget__width-initial",
+        "elementor-align-start",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Mobil uygulama ile dijital araç muayeneleri",
+        "Müşteri bazında yapılandırılabilir muayene soruları",
+        "Web panelinde gerçek zamanlı veriler",
+        "Merkezi filo muayene geçmişi",
+        "Tüm muayene raporları için PDF dışa aktarma",
+        "Artırılmış güvenlik, mevzuata uyum ve şeffaflık"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "e8b922c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e8b922c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Modern Filolar için Tasarlandı",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "66cc38a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66cc38a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"2633\" data-end=\"2833\">Safe Start, kağıt kontrol listelerini ve manuel süreçleri güvenilir bir dijital iş akışıyla değiştirerek filoların riski azaltmasına, hesap verebilirliği artırmasına ve araçları daha güvenli ve verimli bir şekilde yönetmesine yardımcı olur.</p>",
+      "bodyText": "Safe Start, kağıt kontrol listelerini ve manuel süreçleri güvenilir bir dijital iş akışıyla değiştirerek filoların riski azaltmasına, hesap verebilirliği artırmasına ve araçları daha güvenli ve verimli bir şekilde yönetmesine yardımcı olur.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 6,
+    "htmlBytes": 32791
+  }
+}

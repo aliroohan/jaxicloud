@@ -1,0 +1,1822 @@
+{
+  "slug": "overview",
+  "pageKind": "marketing",
+  "titles": {
+    "da": "Overview – DA",
+    "en": "Overview",
+    "de": "Overview – DE",
+    "fr": "Overview – FR",
+    "nl": "Overview – HL",
+    "nb": "Overview – NO",
+    "sv": "Overview – SV",
+    "tr": "Overview  – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Oversigt Jaxicloud flådestyring - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Overview Jaxicloud fleet management - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Überblick Jaxicloud Flottenmanagement - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Aperçu de la gestion de flotte Jaxicloud - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Overview - HLOverzicht Jaxicloud vlootbeheer - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Oversikt jaxicloud fleet management - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Översikt jaxicloud flotthanteringslösningar - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Jaxicloud filo yönetimine genel bakış - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/overview-da/",
+    "en": "https://www.jaxicloud.com/en/overview/",
+    "de": "https://www.jaxicloud.com/de/overview-de/",
+    "fr": "https://www.jaxicloud.com/fr/overview-fr/",
+    "nl": "https://www.jaxicloud.com/nl/overview-hl/",
+    "nb": "https://www.jaxicloud.com/nb/overview-no/",
+    "sv": "https://www.jaxicloud.com/sv/overview-sv/",
+    "tr": "https://www.jaxicloud.com/tr/overview-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Oversigt Jaxicloud flådestyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Overview Jaxicloud fleet management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Überblick Jaxicloud Flottenmanagement",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Aperçu de la gestion de flotte Jaxicloud",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Overzicht Jaxicloud vlootbeheer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Oversikt jaxicloud fleet management",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Översikt jaxicloud flotthanteringslösningar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud filo yönetimine genel bakış",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "image",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/10/hosting-main-1.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/hosting-main-1.png",
+          "width": 393,
+          "height": 166
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "heading",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "eael-dual-color-header.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Jaxicloud flådestyring Cloudbaseret flådestyringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Jaxicloud fleet management Cloud-based fleet management system",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Jaxicloud Flottenmanagement – ​​Cloudbasiertes Flottenmanagementsystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Jaxicloud, système de gestion de flotte basé sur le cloud",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jaxicloud vlootbeheer Cloudgebaseerd vlootbeheersysteem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Jaxicloud fleet management Skybasert flåtestyringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Jaxicloud flotthantering Molnbaserat flotthanteringssystem",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Jaxicloud fi̇lo yöneti̇mi̇ Bulut tabanli fi̇lo yöneti̇m si̇stemi̇",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "richText",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": true,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Overvågningssystemet gemmes og administreres i vores datacentre. JaxiCloud-overvågningssystem i din browser. Du starter en integratorvirksomhed med blot en bærbar computer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Overvågningssystemet gemmes og administreres i vores datacentre. JaxiCloud-overvågningssystem i din browser. Du starter en integratorvirksomhed med blot en bærbar computer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "The monitoring system is stored and managed in our data centers. JaxiCloud monitoring system in your browser. You start an integrator business with just a laptop.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">The monitoring system is stored and managed in our data centers. JaxiCloud monitoring system in your browser. You start an integrator business with just a laptop.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Das Überwachungssystem wird in unseren Rechenzentren gespeichert und verwaltet. JaxiCloud-Überwachungssystem direkt im Browser. Starten Sie Ihr Integrator-Business mit nur einem Laptop.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Das Überwachungssystem wird in unseren Rechenzentren gespeichert und verwaltet. JaxiCloud-Überwachungssystem direkt im Browser. Starten Sie Ihr Integrator-Business mit nur einem Laptop.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Le système de surveillance est hébergé et géré dans nos centres de données. Accédez au système de surveillance JaxiCloud directement depuis votre navigateur. Lancez votre activité d’intégrateur avec un simple ordinateur portable.",
+          "bodyHtml": "<p>Le système de surveillance est hébergé et géré dans nos centres de données. Accédez au système de surveillance JaxiCloud directement depuis votre navigateur. Lancez votre activité d’intégrateur avec un simple ordinateur portable.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Het monitoringsysteem wordt opgeslagen en beheerd in onze datacenters. JaxiCloud monitoringsysteem in uw browser. U start een integratorbedrijf met alleen een laptop.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Het monitoringsysteem wordt opgeslagen en beheerd in onze datacenters. JaxiCloud monitoringsysteem in uw browser. U start een integratorbedrijf met alleen een laptop.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Overvåkingssystemet lagres og administreres i våre datasentre. JaxiCloud overvåkingssystem i nettleseren din. Du starter en integratorbedrift med bare en bærbar datamaskin.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Overvåkingssystemet lagres og administreres i våre datasentre. JaxiCloud overvåkingssystem i nettleseren din. Du starter en integratorbedrift med bare en bærbar datamaskin.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Övervakningssystemet lagras och hanteras i våra datacenter. JaxiCloud-övervakningssystem i din webbläsare. Du startar ett integratorföretag med bara en bärbar dator.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Övervakningssystemet lagras och hanteras i våra datacenter. JaxiCloud-övervakningssystem i din webbläsare. Du startar ett integratorföretag med bara en bärbar dator.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "İzleme sistemi veri merkezlerimizde saklanır ve yönetilir. JaxiCloud izleme sistemi tarayıcınızda. Entegratör işine yalnızca bir dizüstü bilgisayarla başlarsınız.",
+          "bodyHtml": "<p>İzleme sistemi veri merkezlerimizde saklanır ve yönetilir. JaxiCloud izleme sistemi tarayıcınızda. Entegratör işine yalnızca bir dizüstü bilgisayarla başlarsınız.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "featureCard",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "BÆLTEKØRETØJER",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "TRACK VEHICLES",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Rennwagen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "VÉHICULES À CHENILLES",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "SPOOR VOERTUIGEN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "BORTEKJØRETØY",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "BANDFORDON",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "PALET ARAÇLARI",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "featureCard",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "PLANLÆGNING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "PLANNING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "PLANUNG",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "PLANIFICATION",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "PLANNING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "EFFEKTIV KJØRING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "EFFEKTIV KÖRNING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "VERİMLİ SÜRÜŞ",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "EFFEKTIV KØRSEL",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "EFFICIENT DRIVING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "EFFIZIENTES FAHREN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "CONDUITE EFFICACE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "EFFICIËNT RIJDEN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "FINN MATERIALER",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "HITTA MATERIAL",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "MALZEME BUL",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 3,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "FIND MATERIALE",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "FIND MATERIAL",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "MATERIAL FINDEN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "TROUVER DU MATÉRIEL",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "VIND MATERIALEN",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "PLANLEGGER",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "PLANERING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "PLANLAMA",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "icon-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 5,
+        "columnIndex": 4,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "SIKKERHED",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "SECURITY",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "SICHERHEIT",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "SÉCURITÉ",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "BEVEILIGING",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "SIKKERHET",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "SÄKERHET",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "GÜVENLİK",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad vi tilbyder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What we offer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Unser Angebot",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Ce que nous proposons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "What we offer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva vi tilbyr",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad vi erbjuder",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ne sunuyoruz",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "richText",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Lær hvordan Jaxicloud gør det nemmere at administrere din virksomhed.",
+          "bodyHtml": "<p>Lær hvordan Jaxicloud gør det nemmere at administrere din virksomhed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.",
+          "bodyHtml": "<p>Erfahren Sie, wie Sie mit Jaxicloud Ihr Unternehmen am einfachsten verwalten können.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "See what Jaxicloud enables you to manage your business in the easiest way",
+          "bodyHtml": "<p>See what Jaxicloud enables you to manage your business in the easiest way</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Se hva Jaxicloud lar deg administrere virksomheten din på den enkleste måten",
+          "bodyHtml": "<p>Se hva Jaxicloud lar deg administrere virksomheten din på den enkleste måten</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt",
+          "bodyHtml": "<p>Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.",
+          "bodyHtml": "<p>Jaxicloud’un işletmenizi en kolay şekilde yönetmenizi nasıl sağladığını görün.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hurtig start",
+          "body": "Vi lancerer cloudtjenesten og tilføjer udvidelser inden for en time",
+          "bodyHtml": "<p>Vi lancerer cloudtjenesten og tilføjer udvidelser inden for en time</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Quick start",
+          "body": "We launch the Cloud service and add extensions within an hour",
+          "bodyHtml": "<p>We launch the Cloud service and add extensions within an hour</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Schnellstart",
+          "body": "Wir starten den Cloud-Dienst und fügen innerhalb einer Stunde Erweiterungen hinzu.",
+          "bodyHtml": "<p>Wir starten den Cloud-Dienst und fügen innerhalb einer Stunde Erweiterungen hinzu.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Démarrage rapide",
+          "body": "Nous lançons le service Cloud et ajoutons des extensions en une heure.",
+          "bodyHtml": "<p>Nous lançons le service Cloud et ajoutons des extensions en une heure.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Snel beginnen",
+          "body": "We lanceren de Cloud-service en voegen binnen een uur extensies toe",
+          "bodyHtml": "<p>We lanceren de Cloud-service en voegen binnen een uur extensies toe</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kjapp start",
+          "body": "Vi lanserer skytjenesten og legger til utvidelser innen en time",
+          "bodyHtml": "<p>Vi lanserer skytjenesten og legger til utvidelser innen en time</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Snabbstart",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hızlı başlangıç",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Brugervenlighed",
+          "body": "Frigør dig selv fra en engangsbetaling",
+          "bodyHtml": "<p>Frigør dig selv fra en engangsbetaling</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Convenience",
+          "body": "Free yourself from a one-time payment",
+          "bodyHtml": "<p>Free yourself from a one-time payment</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Bequemlichkeit",
+          "body": "Befreien Sie sich von einer einmaligen Zahlung.",
+          "bodyHtml": "<p>Befreien Sie sich von einer einmaligen Zahlung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Commodité",
+          "body": "Libérez-vous d’un paiement unique",
+          "bodyHtml": "<p>Libérez-vous d’un paiement unique</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gemak",
+          "body": "Bevrijd uzelf van een eenmalige betaling",
+          "bodyHtml": "<p>Bevrijd uzelf van een eenmalige betaling</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Bekvemmelighet",
+          "body": "Frigjør deg selv fra en engangsbetaling",
+          "bodyHtml": "<p>Frigjør deg selv fra en engangsbetaling</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Regelbundna uppdateringar",
+          "body": "Varje månad lägger vi till nya funktioner, inklusive de som är baserade på partnerförfrågningar",
+          "bodyHtml": "<p>Varje månad lägger vi till nya funktioner, inklusive de som är baserade på partnerförfrågningar</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Düzenli güncellemeler",
+          "body": "İş ortaklarının isteklerine dayalı olanlar da dahil olmak üzere her ay yeni özellikler ekliyoruz",
+          "bodyHtml": "<p>İş ortaklarının isteklerine dayalı olanlar da dahil olmak üzere her ay yeni özellikler ekliyoruz</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Regelmæssige opdateringer",
+          "body": "Hver måned tilføjer vi nye funktioner, herunder dem baseret på partneranmodninger",
+          "bodyHtml": "<p>Hver måned tilføjer vi nye funktioner, herunder dem baseret på partneranmodninger</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Regular updates",
+          "body": "Every mounth we add new features, including those based on partner requests",
+          "bodyHtml": "<p>Every mounth we add new features, including those based on partner requests</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Regular updates",
+          "body": "Jeden Monat fügen wir neue Funktionen hinzu, darunter auch solche, die auf Anfragen unserer Partner basieren.",
+          "bodyHtml": "<p>Jeden Monat fügen wir neue Funktionen hinzu, darunter auch solche, die auf Anfragen unserer Partner basieren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Mises à jour régulières",
+          "body": "Nous ajoutons chaque mois de nouvelles fonctionnalités, y compris celles basées sur les demandes de nos partenaires.",
+          "bodyHtml": "<p>Nous ajoutons chaque mois de nouvelles fonctionnalités, y compris celles basées sur les demandes de nos partenaires.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Regelmatige updates",
+          "body": "Elke maand voegen we nieuwe functies toe, inclusief functies die gebaseerd zijn op verzoeken van partners",
+          "bodyHtml": "<p>Elke maand voegen we nieuwe functies toe, inclusief functies die gebaseerd zijn op verzoeken van partners</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Stabilitet",
+          "body": "Vi garanterer 99,5 % systemstabilitet og spesifiserer det i SLA",
+          "bodyHtml": "<p>Vi garanterer 99,5 % systemstabilitet og spesifiserer det i SLA</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Stabilitet",
+          "body": "Vi garanterar 99,5 % systemstabilitet och specificerar det i SLA:et",
+          "bodyHtml": "<p>Vi garanterar 99,5 % systemstabilitet och specificerar det i SLA:et</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kararlılık",
+          "body": "%99,5 sistem kararlılığını garanti ediyoruz ve bunu SLA’da belirtiyoruz",
+          "bodyHtml": "<p>%99,5 sistem kararlılığını garanti ediyoruz ve bunu SLA’da belirtiyoruz</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "featureCard",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Stabilitet",
+          "body": "Vi garanterer 99,5% systemstabilitet og specificerer det i SLA’en",
+          "bodyHtml": "<p>Vi garanterer 99,5% systemstabilitet og specificerer det i SLA’en</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Stability",
+          "body": "We guarantee 99.5% system stability and specify it in the SLA",
+          "bodyHtml": "<p>We guarantee 99.5% system stability and specify it in the SLA</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Stability",
+          "body": "We guarantee 99.5% system stability and specify it in the SLA",
+          "bodyHtml": "<p>We guarantee 99.5% system stability and specify it in the SLA</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Stabilité",
+          "body": "Nous garantissons une stabilité système de 99,5 % et cela est spécifié dans le SLA.",
+          "bodyHtml": "<p>Nous garantissons une stabilité système de 99,5 % et cela est spécifié dans le SLA.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Stabiliteit",
+          "body": "Wij garanderen 99,5% systeemstabiliteit en specificeren dit in de SLA",
+          "bodyHtml": "<p>Wij garanderen 99,5% systeemstabiliteit en specificeren dit in de SLA</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Regelmessige oppdateringer",
+          "body": "Hver måned legger vi til nye funksjoner, inkludert de som er basert på partnerforespørsler",
+          "bodyHtml": "<p>Hver måned legger vi til nye funksjoner, inkludert de som er basert på partnerforespørsler</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Gratisservrar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ücretsiz sunucular",
+          "body": "Filo yönetimi SaaS çözümleri JAXICLOUD veri merkezlerinde depolanır ve yönetilir",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Filo yönetimi SaaS çözümleri JAXICLOUD veri merkezlerinde depolanır ve yönetilir</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hosting",
+          "body": "SaaS-løsninger til flådestyring opbevares og administreres i JAXICLOUD-datacentre",
+          "bodyHtml": "<p>SaaS-løsninger til flådestyring opbevares og administreres i JAXICLOUD-datacentre</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Free servers",
+          "body": "Fleet management SaaS solutions are stored and managed in JAXICLOUD data centers",
+          "bodyHtml": "<p>Fleet management SaaS solutions are stored and managed in JAXICLOUD data centers</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kostenlose Server",
+          "body": "Flottenmanagement-SaaS-Lösungen werden in JAXICLOUD-Rechenzentren gespeichert und verwaltet.",
+          "bodyHtml": "<p>Flottenmanagement-SaaS-Lösungen werden in JAXICLOUD-Rechenzentren gespeichert und verwaltet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Serveurs gratuits",
+          "body": "Les solutions SaaS de gestion de flotte sont stockées et gérées dans les centres de données JAXICLOUD.",
+          "bodyHtml": "<p>Les solutions SaaS de gestion de flotte sont stockées et gérées dans les centres de données JAXICLOUD.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gratis servers",
+          "body": "SaaS-oplossingen voor wagenparkbeheer worden opgeslagen en beheerd in JAXICLOUD-datacenters",
+          "bodyHtml": "<p>SaaS-oplossingen voor wagenparkbeheer worden opgeslagen en beheerd in JAXICLOUD-datacenters</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Gratis servere",
+          "body": "Flåtestyring SaaS-løsninger lagres og administreres i JAXICLOUD-datasentre",
+          "bodyHtml": "<p>Flåtestyring SaaS-løsninger lagres og administreres i JAXICLOUD-datasentre</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Bekvämlighet",
+          "body": "Befria dig från en engångsbetalning",
+          "bodyHtml": "<p>Befria dig från en engångsbetalning</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kolaylık",
+          "body": "Tek seferlik ödemeden kurtulun",
+          "bodyHtml": "<p>Tek seferlik ödemeden kurtulun</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "ctaButton",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "/aom-os/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "/aom-os/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See more",
+              "href": "/en/about-us/"
+            }
+          ],
+          "ctaLabel": "See more",
+          "ctaUrl": "/en/about-us/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr sehen",
+              "href": "/de/about-us-de/"
+            }
+          ],
+          "ctaLabel": "Mehr sehen",
+          "ctaUrl": "/de/about-us-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/about-us-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/about-us-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/over-ons/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/over-ons/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/about-us-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/about-us-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/about-us-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/about-us-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha fazlasını gör",
+              "href": "/tr/about-us-tur/"
+            }
+          ],
+          "ctaLabel": "Daha fazlasını gör",
+          "ctaUrl": "/tr/about-us-tur/",
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

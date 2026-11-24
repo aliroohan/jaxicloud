@@ -1,0 +1,1882 @@
+{
+  "slug": "wia-tag",
+  "pageKind": "solution",
+  "titles": {
+    "da": "WIA tag -DA",
+    "en": "WIA tag – en",
+    "de": "WIA tag – DE",
+    "fr": "WIA tag – FR",
+    "nl": "WIA tag – HL",
+    "nb": "WIA tag – NO",
+    "sv": "WIA tag – SV",
+    "tr": "WIA tag – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "WIA tag -DA - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "WIA tag - en - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "WIA tag - DE - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "WIA tag - FR - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "WIA tag - HL - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "WIA tag - NO - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "WIA tag - SV - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "WIA tag - TUR - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/wia-tag/",
+    "en": "https://www.jaxicloud.com/en/wia-tag-en/",
+    "de": "https://www.jaxicloud.com/de/wia-tag-de/",
+    "fr": "https://www.jaxicloud.com/fr/wia-tag-fr/",
+    "nl": "https://www.jaxicloud.com/nl/wia-tag-hl/",
+    "nb": "https://www.jaxicloud.com/nb/wia-tag-no/",
+    "sv": "https://www.jaxicloud.com/sv/wia-tag-sv/",
+    "tr": "https://www.jaxicloud.com/tr/wia-tag-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "WIA tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Den mobile løsning til medarbejderstyring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "The mobile workforce management solution",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Die mobile Workforce-Management-Lösung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "La solution de gestion de la main-d'œuvre mobile",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "De oplossing voor mobiel personeelsbeheer",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Den mobile arbeidsstyrkeadministrasjonsløsningen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Den mobila lösningen för arbetskraftshantering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Mobil İş Gücü Yönetimi Çözümü – Wia Tag",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Wia TagTager effektiviteten af ​​arbejdsstyring til det næste niveau i ethvert forretningsområde.Appen giver adgang til JaxiCloud Fleet Management GPS-sporingsplatformen når som helst og hvor som helst. Du kan bruge både den grundlæggende og avancerede funktionalitet fra webversionen af ​​systemet, mens du er mobil. Kom i gang",
+          "bodyHtml": "<p>Wia Tag<br>Tager effektiviteten af ​​arbejdsstyring til det næste niveau i ethvert forretningsområde.<br>Appen giver adgang til JaxiCloud Fleet Management GPS-sporingsplatformen når som helst og hvor som helst. Du kan bruge både den grundlæggende og avancerede funktionalitet fra webversionen af ​​systemet, mens du er mobil. Kom i gang</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Wia TagTaking the efficiency of work management management to the next level in any business area.The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere. You can use both the basic and advanced functionality from the web version of the system while you are mobile. Get started",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Wia Tag<br>Taking the efficiency of work management management to the next level in any business area.<br>The app provides access to the JaxiCloud Fleet Management GPS tracking platform anytime, anywhere. You can use both the basic and advanced functionality from the web version of the system while you are mobile. Get started</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wia TagOptimieren Sie Ihr Arbeitsmanagement in jedem Geschäftsbereich.Die App bietet Ihnen jederzeit und überall Zugriff auf die GPS-Tracking-Plattform JaxiCloud Fleet Management. Nutzen Sie unterwegs sowohl die Basisfunktionen als auch die erweiterten Funktionen der Webversion. Jetzt loslegen!",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Wia Tag<br>Optimieren Sie Ihr Arbeitsmanagement in jedem Geschäftsbereich.<br>Die App bietet Ihnen jederzeit und überall Zugriff auf die GPS-Tracking-Plattform JaxiCloud Fleet Management. Nutzen Sie unterwegs sowohl die Basisfunktionen als auch die erweiterten Funktionen der Webversion. Jetzt loslegen!</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Wia TagOptimisez la gestion de votre travail, quel que soit votre secteur d’activité.L’application vous permet d’accéder à la plateforme de suivi GPS JaxiCloud Fleet Management où que vous soyez, à tout moment. Profitez des fonctionnalités de base et avancées de la version web, même en déplacement. Lancez-vous !",
+          "bodyHtml": "<p>Wia Tag</p><p>Optimisez la gestion de votre travail, quel que soit votre secteur d’activité.</p><p>L’application vous permet d’accéder à la plateforme de suivi GPS JaxiCloud Fleet Management où que vous soyez, à tout moment. Profitez des fonctionnalités de base et avancées de la version web, même en déplacement. Lancez-vous !</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Wia TagTil de efficiëntie van werkbeheer naar een hoger niveau, in elke bedrijfsomgeving.De app biedt altijd en overal toegang tot het JaxiCloud Fleet Management GPS-trackingplatform. U kunt zowel de basis- als de geavanceerde functionaliteit van de webversie van het systeem gebruiken terwijl u mobiel bent. Aan de slag",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Wia Tag<br>Til de efficiëntie van werkbeheer naar een hoger niveau, in elke bedrijfsomgeving.<br>De app biedt altijd en overal toegang tot het JaxiCloud Fleet Management GPS-trackingplatform. U kunt zowel de basis- als de geavanceerde functionaliteit van de webversie van het systeem gebruiken terwijl u mobiel bent. Aan de slag</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "WiaTag tar effektiviteten av arbeidsledelse til neste nivå i ethvert forretningsområde.",
+          "bodyHtml": "<p>WiaTag tar effektiviteten av arbeidsledelse til neste nivå i ethvert forretningsområde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Wia TagTar effektiviteten i arbetsledning till nästa nivå inom alla affärsområden.Appen ger tillgång till JaxiCloud Fleet Management GPS-spårningsplattform när som helst, var som helst. Du kan använda både grundläggande och avancerade funktioner från webbversionen av systemet medan du är mobil. Kom igång",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Wia Tag<br>Tar effektiviteten i arbetsledning till nästa nivå inom alla affärsområden.<br>Appen ger tillgång till JaxiCloud Fleet Management GPS-spårningsplattform när som helst, var som helst. Du kan använda både grundläggande och avancerade funktioner från webbversionen av systemet medan du är mobil. Kom igång</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Her iş alanında iş yönetimi verimliliğini bir üst seviyeye taşıyan bir çözümdür.Uygulama, JaxiCloud Filo Yönetimi GPS takip platformuna her zaman ve her yerden erişim sağlar. Hareket halindeyken sistemin web sürümündeki hem temel hem de gelişmiş özellikleri kullanabilirsiniz.",
+          "bodyHtml": "<p data-start=\"44\" data-end=\"172\">Her iş alanında iş yönetimi verimliliğini bir üst seviyeye taşıyan bir çözümdür.</p><p data-start=\"174\" data-end=\"372\">Uygulama, JaxiCloud Filo Yönetimi GPS takip platformuna her zaman ve her yerden erişim sağlar. Hareket halindeyken sistemin web sürümündeki hem temel hem de gelişmiş özellikleri kullanabilirsiniz.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7e3b912c62674094a35bca2d90d595b9mv2-193x300.png"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7e3b912c62674094a35bca2d90d595b9mv2-193x300.png",
+          "width": 193,
+          "height": 300
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad er dette til?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What is this for?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wozu dient das?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "À quoi ça sert ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Waar is dit voor?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva brukes dette til?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad är detta till för?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "What is this for?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "WiaTag is an app for efficient mobile workforce management.",
+          "bodyHtml": "<p>WiaTag is an app for efficient mobile workforce management.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "WiaTag is an app for efficient mobile workforce management.",
+          "bodyHtml": "<p>WiaTag is an app for efficient mobile workforce management.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "WiaTag ist eine App für effizientes mobiles Workforce-Management.",
+          "bodyHtml": "<p>WiaTag ist eine App für effizientes mobiles Workforce-Management.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "WiaTag est une application pour une gestion efficace des équipes mobiles.",
+          "bodyHtml": "<p>WiaTag est une application pour une gestion efficace des équipes mobiles.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "WiaTag is een app voor efficiënt beheer van mobiele werknemers.",
+          "bodyHtml": "<p>WiaTag is een app voor efficiënt beheer van mobiele werknemers.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "WiaTag er en app for effektiv mobil arbeidsstyrkeadministrasjon. Siste data tilgjengeli",
+          "bodyHtml": "<p>WiaTag er en app for effektiv mobil arbeidsstyrkeadministrasjon. Siste data tilgjengeli</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "WiaTag är en app för effektiv mobil arbetskraftshantering.",
+          "bodyHtml": "<p>WiaTag är en app för effektiv mobil arbetskraftshantering.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "WiaTag is an app for efficient mobile workforce management.",
+          "bodyHtml": "<p>WiaTag is an app for efficient mobile workforce management.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "featureCard",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Seneste tilgængelige data",
+          "body": "Pålidelige data om medarbejderbevægelser og -præstationer er altid inden for rækkevidde.",
+          "bodyHtml": "<p>Pålidelige data om medarbejderbevægelser og -præstationer er altid inden for rækkevidde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Latest available data",
+          "body": "Reliable data on worker movements and performance is always within reach.",
+          "bodyHtml": "<p>Reliable data on worker movements and performance is always within reach.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Neueste verfügbare Daten",
+          "body": "Zuverlässige Daten über die Bewegungen und die Leistung der Arbeiter sind jederzeit verfügbar.",
+          "bodyHtml": "<p>Zuverlässige Daten über die Bewegungen und die Leistung der Arbeiter sind jederzeit verfügbar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Dernières données disponibles",
+          "body": "Des données fiables sur les déplacements et les performances des travailleurs sont toujours accessibles.",
+          "bodyHtml": "<p>Des données fiables sur les déplacements et les performances des travailleurs sont toujours accessibles.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Laatst beschikbare gegevens",
+          "body": "Betrouwbare gegevens over de bewegingen en prestaties van werknemers zijn altijd binnen handbereik.",
+          "bodyHtml": "<p>Betrouwbare gegevens over de bewegingen en prestaties van werknemers zijn altijd binnen handbereik.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Siste data tilgjengelig",
+          "body": "Pålitelige data om arbeiderbevegelser og ytelse er alltid innen rekkevidde.",
+          "bodyHtml": "<p>Pålitelige data om arbeiderbevegelser og ytelse er alltid innen rekkevidde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Senaste tillgängliga data",
+          "body": "Tillförlitliga data om arbetarrörelser och prestationer finns alltid inom räckhåll.",
+          "bodyHtml": "<p>Tillförlitliga data om arbetarrörelser och prestationer finns alltid inom räckhåll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Latest available data",
+          "body": "Reliable data on worker movements and performance is always within reach.",
+          "bodyHtml": "<p>Reliable data on worker movements and performance is always within reach.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "featureCard",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Optimering af arbejdsprocesser",
+          "body": "Beslut om integration med Google Maps skal aktiveres.",
+          "bodyHtml": "<p>Beslut om integration med Google Maps skal aktiveres.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Optimization of work processes",
+          "body": "Decide whether integration with Google Maps should be activated.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Decide whether integration with Google Maps should be activated.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Optimierung von Arbeitsabläufen",
+          "body": "Entscheiden Sie, ob die Integration mit Google Maps aktiviert werden soll.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Entscheiden Sie, ob die Integration mit Google Maps aktiviert werden soll.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Optimisation des processus de travail",
+          "body": "Décidez si l’intégration avec Google Maps doit être activée.",
+          "bodyHtml": "<p>Décidez si l’intégration avec Google Maps doit être activée.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Optimalisatie van werkprocessen",
+          "body": "Bepaal of de integratie met Google Maps moet worden geactiveerd.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bepaal of de integratie met Google Maps moet worden geactiveerd.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Optimalisering av arbeidsprosesser",
+          "body": "Data mottatt gjennom WiaTag hjelper med å optimere personalarbeidet og øke effektiviteten.",
+          "bodyHtml": "<p>Data mottatt gjennom WiaTag hjelper med å optimere personalarbeidet og øke effektiviteten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Optimering av arbetsprocesser",
+          "body": "Bestäm om integration med Google Maps ska aktiveras.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Bestäm om integration med Google Maps ska aktiveras.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Optimization of work processes",
+          "body": "Decide whether integration with Google Maps should be activated.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Decide whether integration with Google Maps should be activated.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Mulighed for tilpassede statusser",
+          "body": "Appen giver brugeren besked om medarbejderens tilgængelighed, fravær fra arbejdspladsen og andre situationer.",
+          "bodyHtml": "<p>Appen giver brugeren besked om medarbejderens tilgængelighed, fravær fra arbejdspladsen og andre situationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Possibility of customized statuses",
+          "body": "The app notifies the user about the worker’s availability, absence from the workplace, and other situations.",
+          "bodyHtml": "<p>The app notifies the user about the worker’s availability, absence from the workplace, and other situations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Möglichkeit benutzerdefinierter Status",
+          "body": "Die App benachrichtigt den Benutzer über die Verfügbarkeit des Mitarbeiters, dessen Abwesenheit vom Arbeitsplatz und andere Situationen.",
+          "bodyHtml": "<p>Die App benachrichtigt den Benutzer über die Verfügbarkeit des Mitarbeiters, dessen Abwesenheit vom Arbeitsplatz und andere Situationen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Possibilité de statuts personnalisés",
+          "body": "L’application informe l’utilisateur de la disponibilité du travailleur, de son absence du lieu de travail et d’autres situations.",
+          "bodyHtml": "<p>L’application informe l’utilisateur de la disponibilité du travailleur, de son absence du lieu de travail et d’autres situations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Mogelijkheid tot aangepaste statussen",
+          "body": "De app informeert de gebruiker over de beschikbaarheid van de werknemer, afwezigheid van de werkplek en andere situaties.",
+          "bodyHtml": "<p>De app informeert de gebruiker over de beschikbaarheid van de werknemer, afwezigheid van de werkplek en andere situaties.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Mulighet for tilpassede statuser",
+          "body": "Appen varsler brukeren om arbeiderens tilgjengelighet, fravær på arbeidsplassen og andre situasjoner.",
+          "bodyHtml": "<p>Appen varsler brukeren om arbeiderens tilgjengelighet, fravær på arbeidsplassen og andre situasjoner.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Möjlighet till anpassade statusar",
+          "body": "Appen meddelar användaren om medarbetarens tillgänglighet, frånvaro från arbetsplatsen och andra situationer.",
+          "bodyHtml": "<p>Appen meddelar användaren om medarbetarens tillgänglighet, frånvaro från arbetsplatsen och andra situationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Possibility of customized statuses",
+          "body": "The app notifies the user about the worker’s availability, absence from the workplace, and other situations.",
+          "bodyHtml": "<p>The app notifies the user about the worker’s availability, absence from the workplace, and other situations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sikkerhed",
+          "body": "Medarbejdere kan sende øjebliksbilleder, SOS-beskeder eller positionsdata i nødsituationer.",
+          "bodyHtml": "<p>Medarbejdere kan sende øjebliksbilleder, SOS-beskeder eller positionsdata i nødsituationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Security",
+          "body": "Workers can send snapshots, SOS messages, or location data in emergency situations.",
+          "bodyHtml": "<p>Workers can send snapshots, SOS messages, or location data in emergency situations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Sicherheit",
+          "body": "Arbeiter können in Notfallsituationen Schnappschüsse, SOS-Nachrichten oder Standortdaten senden.",
+          "bodyHtml": "<p>Arbeiter können in Notfallsituationen Schnappschüsse, SOS-Nachrichten oder Standortdaten senden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Sécurité",
+          "body": "En cas d’urgence, les travailleurs peuvent envoyer des instantanés, des messages SOS ou des données de localisation.",
+          "bodyHtml": "<p>En cas d’urgence, les travailleurs peuvent envoyer des instantanés, des messages SOS ou des données de localisation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Beveiliging",
+          "body": "Medewerkers kunnen in noodsituaties momentopnames, SOS-berichten of locatiegegevens versturen.",
+          "bodyHtml": "<p>Medewerkers kunnen in noodsituaties momentopnames, SOS-berichten of locatiegegevens versturen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sikkerhet",
+          "body": "Arbeiderne kan sende øyeblikksbilder, SOS-meldinger eller stedsdata i nødssituasjoner.",
+          "bodyHtml": "<p>Arbeiderne kan sende øyeblikksbilder, SOS-meldinger eller stedsdata i nødssituasjoner.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Säkerhet",
+          "body": "Arbetare kan skicka ögonblicksbilder, SOS-meddelanden eller platsdata i nödsituationer.",
+          "bodyHtml": "<p>Arbetare kan skicka ögonblicksbilder, SOS-meddelanden eller platsdata i nödsituationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Security",
+          "body": "Workers can send snapshots, SOS messages, or location data in emergency situations.",
+          "bodyHtml": "<p>Workers can send snapshots, SOS messages, or location data in emergency situations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fjernbetjening",
+          "body": "Muligheden for at anmode om et kamerabillede eller et servicestop",
+          "bodyHtml": "<p>Muligheden for at anmode om et kamerabillede eller et servicestop</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Remote control",
+          "body": "The possibility of requesting a camera snapshot or a service stop",
+          "bodyHtml": "<p>The possibility of requesting a camera snapshot or a service stop</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Fernbedienung",
+          "body": "Die Möglichkeit, ein Kamerafoto oder einen Servicestopp anzufordern.",
+          "bodyHtml": "<p>Die Möglichkeit, ein Kamerafoto oder einen Servicestopp anzufordern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Télécommande",
+          "body": "La possibilité de demander une photo prise par la caméra ou un arrêt de service",
+          "bodyHtml": "<p>La possibilité de demander une photo prise par la caméra ou un arrêt de service</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Afstandsbediening",
+          "body": "De mogelijkheid om een ​​camerabeeld of een servicestop aan te vragen",
+          "bodyHtml": "<p>De mogelijkheid om een ​​camerabeeld of een servicestop aan te vragen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fjernkontroll",
+          "body": "Muligheten til å be om en kamerastillbilde eller et servicestopp",
+          "bodyHtml": "<p class=\"font_5 wixui-rich-text__text\">Muligheten til å be om en kamerastillbilde eller et servicestopp</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fjärrkontroll",
+          "body": "Möjligheten att begära en kamerabild eller ett servicestopp",
+          "bodyHtml": "<p>Möjligheten att begära en kamerabild eller ett servicestopp</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Remote control",
+          "body": "The possibility of requesting a camera snapshot or a service stop",
+          "bodyHtml": "<p>The possibility of requesting a camera snapshot or a service stop</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Kommunikation med medarbejdere",
+          "body": "Send og modtag forskellige typer beskeder fra feltarbejdere for tæt og detaljeret daglig kommunikation. Send massekommandoer eller beskeder til et stort antal arbejdere for at spare tid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Send og modtag forskellige typer beskeder fra feltarbejdere for tæt og detaljeret daglig kommunikation. Send massekommandoer eller beskeder til et stort antal arbejdere for at spare tid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Communication with employees",
+          "body": "Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save time.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save </span><span class=\"wixui-rich-text__text\">time.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Kommunikation mit Mitarbeitern",
+          "body": "Senden und empfangen Sie verschiedene Arten von Nachrichten von Ihren Außendienstmitarbeitern für eine enge und detaillierte tägliche Kommunikation. Versenden Sie Massenbefehle oder -nachrichten an eine große Anzahl von Mitarbeitern, um Zeit zu sparen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Senden und empfangen Sie verschiedene Arten von Nachrichten von Ihren Außendienstmitarbeitern für eine enge und detaillierte tägliche Kommunikation. Versenden Sie Massenbefehle oder -nachrichten an eine große Anzahl von Mitarbeitern, um Zeit zu sparen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Communication avec les employés",
+          "body": "Envoyez et recevez différents types de messages des travailleurs sur le terrain pour une communication quotidienne étroite et détaillée. Diffusez des ordres ou des messages groupés à un grand nombre de travailleurs pour gagner du temps.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Envoyez et recevez différents types de messages des travailleurs sur le terrain pour une communication quotidienne étroite et détaillée. Diffusez des ordres ou des messages groupés à un grand nombre de travailleurs pour gagner du temps.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Communicatie met medewerkers",
+          "body": "Verstuur en ontvang verschillende soorten berichten van veldwerkers voor nauwe en gedetailleerde dagelijkse communicatie. Stuur massale opdrachten of berichten naar een groot aantal medewerkers om tijd te besparen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Verstuur en ontvang verschillende soorten berichten van veldwerkers voor nauwe en gedetailleerde dagelijkse communicatie. Stuur massale opdrachten of berichten naar een groot aantal medewerkers om tijd te besparen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Kommunikasjon med ansatte",
+          "body": "Send og motta ulike typer meldinger fra ansatte i felten for nær og detaljert daglig kommunikasjon. Send massekommandoer eller meldinger til et stort antall ansatte for å lagretid..",
+          "bodyHtml": "<p>Send og motta ulike typer meldinger fra ansatte i felten for nær og detaljert daglig kommunikasjon. Send massekommandoer eller meldinger til et stort antall ansatte for å lagre</p><p>tid..</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Kommunikation med anställda",
+          "body": "Skicka och ta emot olika typer av meddelanden från fältarbetare för nära och detaljerad daglig kommunikation. Skicka masskommandon eller meddelanden till ett stort antal arbetare för att spara tid.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Skicka och ta emot olika typer av meddelanden från fältarbetare för nära och detaljerad daglig kommunikation. Skicka masskommandon eller meddelanden till ett stort antal arbetare för att spara tid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Communication with employees",
+          "body": "Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save time.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Send and receive various types of messages from field workers for close and detailed daily communication. Send mass commands or messages to a large number of workers to save </span><span class=\"wixui-rich-text__text\">time.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "featureCard",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Servicebranchen",
+          "body": "Virksomheder styrer placeringen og arbejdsbyrden for feltarbejdere, lukker logistiske huller, analyserer resultater og optimerer forretningsprocesser.",
+          "bodyHtml": "<p>Virksomheder styrer placeringen og arbejdsbyrden for feltarbejdere, lukker logistiske huller, analyserer resultater og optimerer forretningsprocesser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Service industry",
+          "body": "Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.",
+          "bodyHtml": "<p>Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Dienstleistungsbranche",
+          "body": "Unternehmen verwalten den Einsatzort und die Arbeitsbelastung ihrer Außendienstmitarbeiter, schließen logistische Lücken, analysieren Ergebnisse und optimieren Geschäftsprozesse.",
+          "bodyHtml": "<p>Unternehmen verwalten den Einsatzort und die Arbeitsbelastung ihrer Außendienstmitarbeiter, schließen logistische Lücken, analysieren Ergebnisse und optimieren Geschäftsprozesse.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Industrie des services",
+          "body": "Les entreprises gèrent la localisation et la charge de travail des employés sur le terrain, comblent les lacunes logistiques, analysent les résultats et optimisent les processus métier.",
+          "bodyHtml": "<p>Les entreprises gèrent la localisation et la charge de travail des employés sur le terrain, comblent les lacunes logistiques, analysent les résultats et optimisent les processus métier.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Dienstverlenende industrie",
+          "body": "Bedrijven beheren de locatie en de werklast van veldwerkers, dichten logistieke hiaten, analyseren resultaten en optimaliseren bedrijfsprocessen.",
+          "bodyHtml": "<p>Bedrijven beheren de locatie en de werklast van veldwerkers, dichten logistieke hiaten, analyseren resultaten en optimaliseren bedrijfsprocessen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Servicenæringen",
+          "body": "Bedrifter administrerer lokaliseringen og arbeidsmengden til feltarbeiderne, tetter logistiske hull, analyserer resultatene og optimerer forretningsprosessene.",
+          "bodyHtml": "<p>Bedrifter administrerer lokaliseringen og arbeidsmengden til feltarbeiderne, tetter logistiske hull, analyserer resultatene og optimerer forretningsprosessene.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Servicebranschen",
+          "body": "Företag hanterar fältarbetarnas plats och arbetsbelastning, täcker logistiska luckor, analyserar resultat och optimerar affärsprocesser.",
+          "bodyHtml": "<p>Företag hanterar fältarbetarnas plats och arbetsbelastning, täcker logistiska luckor, analyserar resultat och optimerar affärsprocesser.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Service industry",
+          "body": "Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.",
+          "bodyHtml": "<p>Companies manage the location and workload of field workers, close logistical gaps, analyze results, and optimize business processes.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "featureCard",
+      "order": 13,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sundhedspleje",
+          "body": "Koordinatorer overvåger feltarbejdernes placering under opkald og koordinerer deres arbejde.",
+          "bodyHtml": "<p>Koordinatorer overvåger feltarbejdernes placering under opkald og koordinerer deres arbejde.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Healthcare",
+          "body": "Coordinators monitor the location of field workers during calls and coordinate their work.",
+          "bodyHtml": "<p>Coordinators monitor the location of field workers during calls and coordinate their work.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Gesundheitspflege",
+          "body": "Die Koordinatoren überwachen den Standort der Außendienstmitarbeiter während der Anrufe und koordinieren deren Arbeit.",
+          "bodyHtml": "<p>Die Koordinatoren überwachen den Standort der Außendienstmitarbeiter während der Anrufe und koordinieren deren Arbeit.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Soins de santé",
+          "body": "Les coordinateurs surveillent la localisation des travailleurs de terrain pendant les interventions et coordonnent leur travail.",
+          "bodyHtml": "<p>Les coordinateurs surveillent la localisation des travailleurs de terrain pendant les interventions et coordonnent leur travail.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gezondheidszorg",
+          "body": "Coördinatoren houden tijdens gesprekken toezicht op de locatie van de veldwerkers en coördineren hun werk.",
+          "bodyHtml": "<p>Coördinatoren houden tijdens gesprekken toezicht op de locatie van de veldwerkers en coördineren hun werk.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Helsevesenet",
+          "body": "Koordinatorer overvåker plasseringen av feltarbeidere under samtaler og koordinerer arbeidet deres.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Koordinatorer overvåker plasseringen av feltarbeidere under samtaler og koordinerer arbeidet deres.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Sjukvård",
+          "body": "Koordinatorer övervakar fältarbetarnas plats under samtal och samordnar deras arbete.",
+          "bodyHtml": "<p>Koordinatorer övervakar fältarbetarnas plats under samtal och samordnar deras arbete.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Healthcare",
+          "body": "Coordinators monitor the location of field workers during calls and coordinate their work.",
+          "bodyHtml": "<p>Coordinators monitor the location of field workers during calls and coordinate their work.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "featureCard",
+      "order": 14,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Levering",
+          "body": "Leveringstjenester sikrer, at kurerer følger instruktioner og arbejdsplaner",
+          "bodyHtml": "<p>Leveringstjenester sikrer, at kurerer følger instruktioner og arbejdsplaner</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Delivery",
+          "body": "Delivery services ensure that couriers follow instructions and work schedules",
+          "bodyHtml": "<p>Delivery services ensure that couriers follow instructions and work schedules</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lieferung",
+          "body": "Zustelldienste stellen sicher, dass die Kuriere die Anweisungen und Arbeitspläne befolgen.",
+          "bodyHtml": "<p>Zustelldienste stellen sicher, dass die Kuriere die Anweisungen und Arbeitspläne befolgen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Livraison",
+          "body": "Les services de livraison veillent à ce que les coursiers respectent les instructions et les horaires de travail.",
+          "bodyHtml": "<p>Les services de livraison veillent à ce que les coursiers respectent les instructions et les horaires de travail.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Levering",
+          "body": "Bezorgdiensten zorgen ervoor dat koeriers de instructies en werkschema’s volgen",
+          "bodyHtml": "<p>Bezorgdiensten zorgen ervoor dat koeriers de instructies en werkschema’s volgen</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Leveranse",
+          "body": "Leveringstjenester sikrer at tilbudene følger instruksjonene og arbeidsplanen",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Leveringstjenester sikrer at tilbudene følger instruksjonene og arbeidsplanen</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Leverans",
+          "body": "Leveranstjänster säkerställer att kurirer följer instruktioner och arbetsscheman",
+          "bodyHtml": "<p>Leveranstjänster säkerställer att kurirer följer instruktioner och arbetsscheman</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Delivery",
+          "body": "Delivery services ensure that couriers follow instructions and work schedules",
+          "bodyHtml": "<p>Delivery services ensure that couriers follow instructions and work schedules</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "featureCard",
+      "order": 15,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Offentlige forsyninger",
+          "body": "Forsyningskoordinatorer administrerer vedligeholdelsen af ​​ejendomme og kontorer med hjælp fra feltarbejdere og sikrer rettidig og kvalitetsbevidst service.",
+          "bodyHtml": "<p>Forsyningskoordinatorer administrerer vedligeholdelsen af ​​ejendomme og kontorer med hjælp fra feltarbejdere og sikrer rettidig og kvalitetsbevidst service.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Public utilities",
+          "body": "Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.",
+          "bodyHtml": "<p>Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Öffentliche Versorgungsbetriebe",
+          "body": "Die Koordinatoren für Versorgungsleistungen verwalten die Instandhaltung von Immobilien und Büros mithilfe von Außendienstmitarbeitern und gewährleisten so einen zeitnahen und qualitativ hochwertigen Service.",
+          "bodyHtml": "<p>Die Koordinatoren für Versorgungsleistungen verwalten die Instandhaltung von Immobilien und Büros mithilfe von Außendienstmitarbeitern und gewährleisten so einen zeitnahen und qualitativ hochwertigen Service.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Services publics",
+          "body": "Les coordinateurs des services publics gèrent l’entretien des propriétés et des bureaux avec l’aide d’agents de terrain, garantissant ainsi des services rapides et de qualité.",
+          "bodyHtml": "<p>Les coordinateurs des services publics gèrent l’entretien des propriétés et des bureaux avec l’aide d’agents de terrain, garantissant ainsi des services rapides et de qualité.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Openbare nutsvoorzieningen",
+          "body": "Coördinatoren van nutsbedrijven beheren het onderhoud van panden en kantoren met de hulp van veldwerkers, waarbij ze zorgen voor tijdige en kwalitatief goede dienstverlening.",
+          "bodyHtml": "<p>Coördinatoren van nutsbedrijven beheren het onderhoud van panden en kantoren met de hulp van veldwerkers, waarbij ze zorgen voor tijdige en kwalitatief goede dienstverlening.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Offentlige verktøy",
+          "body": "Verktøykoordinatorer administrerer vedlikehold av eiendommer og kontorer ved hjelp av feltarbeidere og sikrer tidsriktige og kvalitetstjenester",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Verktøykoordinatorer administrerer vedlikehold av eiendommer og kontorer ved hjelp av feltarbeidere og sikrer tidsriktige og kvalitetstjenester</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Allmännyttiga företag",
+          "body": "Samordnare för allmännyttiga tjänster hanterar underhållet av fastigheter och kontor med hjälp av fältarbetare, vilket säkerställer snabba och högkvalitativa tjänster.",
+          "bodyHtml": "<p>Samordnare för allmännyttiga tjänster hanterar underhållet av fastigheter och kontor med hjälp av fältarbetare, vilket säkerställer snabba och högkvalitativa tjänster.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Public utilities",
+          "body": "Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.",
+          "bodyHtml": "<p>Utility coordinators manage the maintenance of properties and offices with the help of field workers, ensuring timely and quality services.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "featureCard",
+      "order": 16,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sikkerhed",
+          "body": "Koordinatorerne i vagtselskaberne optimerer patruljerne og giver rettidige instruktioner til personalet.",
+          "bodyHtml": "<p>Koordinatorerne i vagtselskaberne optimerer patruljerne og giver rettidige instruktioner til personalet.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Security",
+          "body": "The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.",
+          "bodyHtml": "<p>The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Sicherheit",
+          "body": "Die Koordinatoren in den Sicherheitsfirmen optimieren die Patrouillen und geben den Mitarbeitern zeitnah Anweisungen.",
+          "bodyHtml": "<p>Die Koordinatoren in den Sicherheitsfirmen optimieren die Patrouillen und geben den Mitarbeitern zeitnah Anweisungen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Sécurité",
+          "body": "Les coordinateurs des sociétés de sécurité optimisent les patrouilles et fournissent des instructions opportunes au personnel.",
+          "bodyHtml": "<p>Les coordinateurs des sociétés de sécurité optimisent les patrouilles et fournissent des instructions opportunes au personnel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Beveiliging",
+          "body": "De coördinatoren van de beveiligingsbedrijven optimaliseren de patrouilles en geven tijdig instructies aan het personeel.",
+          "bodyHtml": "<p>De coördinatoren van de beveiligingsbedrijven optimaliseren de patrouilles en geven tijdig instructies aan het personeel.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Sikkerhet",
+          "body": "Koordinatorene i vaktselskapene optimerer vaktrundene og gir rettidige instruksjoner til personalet.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Koordinatorene i vaktselskapene optimerer vaktrundene og gir rettidige instruksjoner til personalet.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Säkerhet",
+          "body": "Samordnarna i säkerhetsföretagen optimerar patrullerna och ger personalen instruktioner i rätt tid.",
+          "bodyHtml": "<p>Samordnarna i säkerhetsföretagen optimerar patrullerna och ger personalen instruktioner i rätt tid.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Security",
+          "body": "The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.",
+          "bodyHtml": "<p>The coordinators in the security companies optimize the patrols and provide timely instructions to the staff.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "featureCard",
+      "order": 17,
+      "sectionIndex": 3,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 3,
+        "columnIndex": 2,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Din virksomhed",
+          "body": "WiaTag hjælper med at administrere den mobile arbejdsstyrke i enhver branche. Kontakt os, så fortæller vi dig præcis, hvordan appen kan hjælpe din virksomhed.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">WiaTag hjælper med at administrere den mobile arbejdsstyrke i enhver branche. Kontakt os, så fortæller vi dig præcis, hvordan appen kan hjælpe din virksomhed.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Your company",
+          "body": "WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Ihr Unternehmen",
+          "body": "WiaTag unterstützt das Management mobiler Mitarbeiter in jeder Branche. Kontaktieren Sie uns, und wir erklären Ihnen genau, wie die App Ihr ​​Unternehmen unterstützen kann.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">WiaTag unterstützt das Management mobiler Mitarbeiter in jeder Branche. Kontaktieren Sie uns, und wir erklären Ihnen genau, wie die App Ihr ​​Unternehmen unterstützen kann.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Votre entreprise",
+          "body": "WiaTag facilite la gestion des équipes mobiles dans tous les secteurs d’activité. Contactez-nous et nous vous expliquerons en détail comment l’application peut aider votre entreprise.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">WiaTag facilite la gestion des équipes mobiles dans tous les secteurs d’activité. Contactez-nous et nous vous expliquerons en détail comment l’application peut aider votre entreprise.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Jouw bedrijf",
+          "body": "WiaTag helpt bij het managen van mobiele medewerkers in elke branche. Neem contact met ons op en we vertellen u precies hoe de app uw bedrijf kan helpen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">WiaTag helpt bij het managen van mobiele medewerkers in elke branche. Neem contact met ons op en we vertellen u precies hoe de app uw bedrijf kan helpen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Din bedrift",
+          "body": "WiaTag hjelper deg med å administrere den mobile arbeidsstyrken i alle bransjer. Kontakt oss, så forteller vi deg nøyaktig hvordan appen kan hjelpe din bedrift.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">WiaTag hjelper deg med å administrere den mobile arbeidsstyrken i alle bransjer. Kontakt oss, så forteller vi deg nøyaktig hvordan appen kan hjelpe din bedrift.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Ditt företag",
+          "body": "WiaTag hjälper till att hantera den mobila arbetsstyrkan i alla branscher. Kontakta oss så berättar vi exakt hur appen kan hjälpa ditt företag.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">WiaTag hjälper till att hantera den mobila arbetsstyrkan i alla branscher. Kontakta oss så berättar vi exakt hur appen kan hjälpa ditt företag.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Your company",
+          "body": "WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">WiaTag helps manage the mobile workforce in any industry. Contact us and we’ll tell you exactly how the app can help your business.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

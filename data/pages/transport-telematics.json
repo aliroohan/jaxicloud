@@ -1,0 +1,2974 @@
+{
+  "slug": "transport-telematics",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Transport & telematics – DA",
+    "en": "Transport & telematics",
+    "de": "Transport & telematics – DE",
+    "fr": "Transport & telematics – FR",
+    "nl": "Transport & telematics – HL",
+    "nb": "Transport & telematics – NO",
+    "sv": "Transport & telematics – SV",
+    "tr": "Transport & telematics – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Transport &amp; telematics - DA - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Transport & telematics - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Transport &amp; telematics - DE - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Transport &amp; telematics - FR - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Transport &amp; telematics - HL - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Transport &amp; telematics - NO - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Transport &amp; telematics - SV - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "Transport &amp; telematics - TUR - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/transport-telematics-da/",
+    "en": "https://www.jaxicloud.com/en/transport-telematics/",
+    "de": "https://www.jaxicloud.com/de/transport-telematics-de/",
+    "fr": "https://www.jaxicloud.com/fr/transport-telematics-fr/",
+    "nl": "https://www.jaxicloud.com/nl/transport-telematics-hl/",
+    "nb": "https://www.jaxicloud.com/nb/transport-telematics-no/",
+    "sv": "https://www.jaxicloud.com/sv/transport-telematics-sv/",
+    "tr": "https://www.jaxicloud.com/tr/transport-telematics-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Transport og telematik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Transport & telematics",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Transport & Telematik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Transport et télématique",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Transport en telematica",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Transport og telematikk",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Transport och telematik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Ulaşım ve telematik",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Fjerntemperaturovervågning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Remote temperature monitoring",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Fernüberwachung der Temperatur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Surveillance de la température à distance",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Temperatuurbewaking op afstand",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Fjernovervåking av temperatur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Fjärrstyrd temperaturövervakning",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Uzaktan sıcaklık izleme",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Overvåg og sikr transporten af ​​temperaturfølsomme varer med trådløse Bluetooth-temperatursensorer. For at gøre sporbarheden af ​​kølekæden mere pålidelig og sikre overholdelse af gældende regler er det nødvendigt for transportører at udstyre sig med en temperaturstyringsløsning. Opdag hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer imødekommer disse udfordringer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Overvåg og sikr transporten af ​​temperaturfølsomme varer med trådløse Bluetooth-temperatursensorer. For at gøre sporbarheden af ​​kølekæden mere pålidelig og sikre overholdelse af gældende regler er det nødvendigt for transportører at udstyre sig med en temperaturstyringsløsning. Opdag hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer imødekommer disse udfordringer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Monitor and secure the transport of temperature-sensitive goods with wireless Bluetooth temperature sensors. To make the traceability of the cold chain more reliable and ensure compliance with applicable regulations, it is necessary for transporters to equip themselves with a temperature management solution. Discover how and why Jaxicloud Fleet Management Innovations Bluetooth temperature sensors meet these challenges.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Monitor and secure the transport of temperature-sensitive goods with wireless Bluetooth temperature sensors. To make the traceability of the cold chain more reliable and ensure compliance with applicable regulations, it is necessary for transporters to equip themselves with a temperature management solution. Discover how and why Jaxicloud Fleet Management Innovations Bluetooth temperature sensors meet these challenges.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Überwachen und sichern Sie den Transport temperaturempfindlicher Güter mit drahtlosen Bluetooth-Temperatursensoren. Um die Rückverfolgbarkeit der Kühlkette zu verbessern und die Einhaltung geltender Vorschriften zu gewährleisten, benötigen Transportunternehmen eine Temperaturmanagementlösung. Erfahren Sie, wie und warum die Bluetooth-Temperatursensoren von Jaxicloud Fleet Management Innovations diese Herausforderungen meistern.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Überwachen und sichern Sie den Transport temperaturempfindlicher Güter mit drahtlosen Bluetooth-Temperatursensoren. Um die Rückverfolgbarkeit der Kühlkette zu verbessern und die Einhaltung geltender Vorschriften zu gewährleisten, benötigen Transportunternehmen eine Temperaturmanagementlösung. Erfahren Sie, wie und warum die Bluetooth-Temperatursensoren von Jaxicloud Fleet Management Innovations diese Herausforderungen meistern.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Surveillez et sécurisez le transport de marchandises thermosensibles grâce à des capteurs de température Bluetooth sans fil. Pour une traçabilité plus fiable de la chaîne du froid et la conformité aux réglementations en vigueur, les transporteurs doivent s’équiper d’une solution de gestion de la température. Découvrez comment et pourquoi les capteurs de température Bluetooth de Jaxicloud Fleet Management Innovations répondent à ces enjeux.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Surveillez et sécurisez le transport de marchandises thermosensibles grâce à des capteurs de température Bluetooth sans fil. Pour une traçabilité plus fiable de la chaîne du froid et la conformité aux réglementations en vigueur, les transporteurs doivent s’équiper d’une solution de gestion de la température. Découvrez comment et pourquoi les capteurs de température Bluetooth de Jaxicloud Fleet Management Innovations répondent à ces enjeux.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bewaak en beveilig het transport van temperatuurgevoelige goederen met draadloze Bluetooth-temperatuursensoren. Om de traceerbaarheid van de koelketen betrouwbaarder te maken en naleving van de geldende regelgeving te garanderen, is het noodzakelijk dat transporteurs zich uitrusten met een temperatuurbeheeroplossing. Ontdek hoe en waarom de Bluetooth-temperatuursensoren van Jaxicloud Fleet Management Innovations aan deze uitdagingen voldoen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bewaak en beveilig het transport van temperatuurgevoelige goederen met draadloze Bluetooth-temperatuursensoren. Om de traceerbaarheid van de koelketen betrouwbaarder te maken en naleving van de geldende regelgeving te garanderen, is het noodzakelijk dat transporteurs zich uitrusten met een temperatuurbeheeroplossing. Ontdek hoe en waarom de Bluetooth-temperatuursensoren van Jaxicloud Fleet Management Innovations aan deze uitdagingen voldoen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Overvåk og sikre transporten av temperaturfølsomme varer med trådløse Bluetooth-temperatursensorer. For å gjøre sporbarheten i kjølekjeden mer pålitelig og sikre samsvar med gjeldende forskrifter, er det nødvendig for transportører å utstyre seg med en temperaturstyringsløsning. Oppdag hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer møter disse utfordringene.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Overvåk og sikre transporten av temperaturfølsomme varer med trådløse Bluetooth-temperatursensorer. For å gjøre sporbarheten i kjølekjeden mer pålitelig og sikre samsvar med gjeldende forskrifter, er det nødvendig for transportører å utstyre seg med en temperaturstyringsløsning. Oppdag hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer møter disse utfordringene.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Övervaka och säkra transporten av temperaturkänsliga varor med trådlösa Bluetooth-temperatursensorer. För att göra spårbarheten i kylkedjan mer tillförlitlig och säkerställa efterlevnad av gällande föreskrifter är det nödvändigt för transportörer att utrusta sig med en temperaturhanteringslösning. Upptäck hur och varför Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer möter dessa utmaningar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Övervaka och säkra transporten av temperaturkänsliga varor med trådlösa Bluetooth-temperatursensorer. För att göra spårbarheten i kylkedjan mer tillförlitlig och säkerställa efterlevnad av gällande föreskrifter är det nödvändigt för transportörer att utrusta sig med en temperaturhanteringslösning. Upptäck hur och varför Jaxicloud Fleet Management Innovations Bluetooth-temperatursensorer möter dessa utmaningar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Sıcaklığa duyarlı ürünlerin taşınmasını kablosuz Bluetooth sıcaklık sensörleriyle izleyin ve güvenliğini sağlayın. Soğuk zincirin izlenebilirliğini daha güvenilir hale getirmek ve ilgili düzenlemelere uyumu sağlamak için, nakliyecilerin bir sıcaklık yönetim çözümüne sahip olmaları gerekmektedir. Jaxicloud Filo Yönetimi İnovasyonları Bluetooth sıcaklık sensörlerinin bu zorlukların üstesinden nasıl ve neden geldiğini keşfedin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sıcaklığa duyarlı ürünlerin taşınmasını kablosuz Bluetooth sıcaklık sensörleriyle izleyin ve güvenliğini sağlayın. Soğuk zincirin izlenebilirliğini daha güvenilir hale getirmek ve ilgili düzenlemelere uyumu sağlamak için, nakliyecilerin bir sıcaklık yönetim çözümüne sahip olmaları gerekmektedir. Jaxicloud Filo Yönetimi İnovasyonları Bluetooth sıcaklık sensörlerinin bu zorlukların üstesinden nasıl ve neden geldiğini keşfedin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "ctaButton",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "https://www.jaxicloud.com/en/temperature-monitoring-work/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "image",
+      "order": 4,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_20f593b1eb3f4a97b119d8ec60a519f2mv2-ezgif.com-avif-to-jpg-converter-1.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_20f593b1eb3f4a97b119d8ec60a519f2mv2-ezgif.com-avif-to-jpg-converter-1.jpg",
+          "width": 443,
+          "height": 297
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "image",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5406d61d53d54a669217d1732d01876amv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5406d61d53d54a669217d1732d01876amv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 384,
+          "height": 245
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Registrering af åbning af lastbildør",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Registration of truck door opening",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Registrierung der LKW-Türöffnung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Enregistrement de l'ouverture de la porte du camion",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Registratie van het openen van de vrachtwagendeur",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Registrering av åpning av lastebildør",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Registrering av öppning av lastbilsdörr",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon kapısı açılışının kaydı",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Sikr godstransport med detektion af åbning af lastbildøre. For at bekæmpe tyveri og aggression advares chaufføren i realtid på sin smartphone, når døren åbnes i et uautoriseret område, takket være Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer hjælper med at sikre transport mod tyveri.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikr godstransport med detektion af åbning af lastbildøre. For at bekæmpe tyveri og aggression advares chaufføren i realtid på sin smartphone, når døren åbnes i et uautoriseret område, takket være Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer hjælper med at sikre transport mod tyveri.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Secure the transport of goods with the detection of the opening of truck doors . To combat theft and aggression, thanks to Jaxicloud Fleet Management Innovation’s magnetic Bluetooth sensors, the driver is alerted in real time on his smartphone when the door is opened in an unauthorized area. Find out how and why Jaxicloud Fleet Management Innovations magnetic Bluetooth sensors help secure transportation against theft.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Secure the transport of goods with the detection of the opening of truck doors&nbsp;. To combat theft and aggression, thanks to Jaxicloud Fleet Management Innovation’s magnetic Bluetooth sensors, the driver is alerted in real time on his smartphone when the door is opened in an unauthorized area.&nbsp;Find out how and why Jaxicloud Fleet Management Innovations magnetic Bluetooth sensors help secure transportation against theft.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Sichern Sie den Warentransport durch die Erkennung geöffneter LKW-Türen. Um Diebstahl und Vandalismus vorzubeugen, alarmiert die Lösung Jaxicloud Fleet Management Innovation mit magnetischen Bluetooth-Sensoren den Fahrer in Echtzeit auf seinem Smartphone, sobald die Tür in einem unbefugten Bereich geöffnet wird. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovation den Transport vor Diebstahl schützen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sichern Sie den Warentransport durch die Erkennung geöffneter LKW-Türen. Um Diebstahl und Vandalismus vorzubeugen, alarmiert die Lösung Jaxicloud Fleet Management Innovation mit magnetischen Bluetooth-Sensoren den Fahrer in Echtzeit auf seinem Smartphone, sobald die Tür in einem unbefugten Bereich geöffnet wird. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovation den Transport vor Diebstahl schützen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Sécurisez le transport de vos marchandises grâce à la détection d’ouverture des portes de camion. Pour lutter contre le vol et les agressions, les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovation alertent le conducteur en temps réel sur son smartphone lorsqu’une porte est ouverte dans une zone non autorisée. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovation contribuent à sécuriser le transport contre le vol.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sécurisez le transport de vos marchandises grâce à la détection d’ouverture des portes de camion. Pour lutter contre le vol et les agressions, les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovation alertent le conducteur en temps réel sur son smartphone lorsqu’une porte est ouverte dans une zone non autorisée. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovation contribuent à sécuriser le transport contre le vol.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Beveilig het transport van goederen met de detectie van het openen van vrachtwagendeuren. Om diefstal en agressie te bestrijden, wordt de chauffeur dankzij de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovation in realtime op zijn smartphone gewaarschuwd wanneer de deur wordt geopend in een niet-geautoriseerde zone. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations helpen het transport te beveiligen tegen diefstal.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveilig het transport van goederen met de detectie van het openen van vrachtwagendeuren. Om diefstal en agressie te bestrijden, wordt de chauffeur dankzij de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovation in realtime op zijn smartphone gewaarschuwd wanneer de deur wordt geopend in een niet-geautoriseerde zone. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations helpen het transport te beveiligen tegen diefstal.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Sikre godstransporten med deteksjon av åpning av lastebildører. For å bekjempe tyveri og aggresjon, takket være Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer, varsles sjåføren i sanntid på smarttelefonen sin når døren åpnes i et uautorisert område. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer bidrar til å sikre transport mot tyveri.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikre godstransporten med deteksjon av åpning av lastebildører. For å bekjempe tyveri og aggresjon, takket være Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer, varsles sjåføren i sanntid på smarttelefonen sin når døren åpnes i et uautorisert område. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer bidrar til å sikre transport mot tyveri.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Säkra godstransporter med detektering av öppning av lastbilsdörrar. För att bekämpa stöld och aggression, tack vare Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer, varnas föraren i realtid på sin smartphone när dörren öppnas i ett obehörigt område. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer hjälper till att säkra transporter mot stöld.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Säkra godstransporter med detektering av öppning av lastbilsdörrar. För att bekämpa stöld och aggression, tack vare Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer, varnas föraren i realtid på sin smartphone när dörren öppnas i ett obehörigt område. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer hjälper till att säkra transporter mot stöld.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kamyon kapılarının açılmasını algılayarak malların taşınmasını güvence altına alın. Hırsızlık ve saldırganlıkla mücadele etmek için, Jaxicloud Filo Yönetimi İnovasyonunun manyetik Bluetooth sensörleri sayesinde, kapı yetkisiz bir alanda açıldığında sürücü akıllı telefonunda gerçek zamanlı olarak uyarılır. Jaxicloud Filo Yönetimi İnovasyonunun manyetik Bluetooth sensörlerinin hırsızlığa karşı taşımacılığı nasıl ve neden güvence altına aldığını öğrenin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Kamyon kapılarının açılmasını algılayarak malların taşınmasını güvence altına alın. Hırsızlık ve saldırganlıkla mücadele etmek için, Jaxicloud Filo Yönetimi İnovasyonunun manyetik Bluetooth sensörleri sayesinde, kapı yetkisiz bir alanda açıldığında sürücü akıllı telefonunda gerçek zamanlı olarak uyarılır. Jaxicloud Filo Yönetimi İnovasyonunun manyetik Bluetooth sensörlerinin hırsızlığa karşı taşımacılığı nasıl ve neden güvence altına aldığını öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "ctaButton",
+      "order": 8,
+      "sectionIndex": 2,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "heading",
+      "order": 9,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Geolokalisering af lastbiler og traileridentifikation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Truck geolocation and trailer identification",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Lkw-Geolokalisierung und Anhängeridentifizierung",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Géolocalisation des camions et identification des remorques",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Geolocatie van vrachtwagens en identificatie van opleggers",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Geolokalisering av lastebil og tilhengeridentifikasjon",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Geolokalisering av lastbilar och släpvagnsidentifiering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyon konum belirleme ve römork tanımlama",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "richText",
+      "order": 10,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Optimer og sikr til- og frakobling af lastbiltrailere med automatisk identifikation. Ved at udstyre trailere med identifikationsfyr er det muligt at automatisere flådeopgørelse og spare tid for operatører.Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-fyr hjælper med at optimere flådestyringen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Optimer og sikr til- og frakobling af lastbiltrailere med automatisk identifikation. Ved at udstyre trailere med identifikationsfyr er det muligt at automatisere flådeopgørelse og spare tid for operatører.</p><p>Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-fyr hjælper med at optimere flådestyringen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Optimize and secure coupling and uncoupling of truck trailers with automatic identification. By equipping trailers with identification beacons, it is possible to automate fleet inventory and save time for operators.Find out how and why Jaxicloud Fleet Management Innovations Bluetooth beacons help optimize fleet management.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Optimize and secure coupling and uncoupling of truck trailers&nbsp;with automatic identification. By equipping trailers with identification beacons, it is possible to automate fleet inventory and save time for operators.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Find out how and why Jaxicloud Fleet Management Innovations Bluetooth beacons help optimize fleet management.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Optimieren und sichern Sie das An- und Abkuppeln von Lkw-Anhängern durch automatische Identifizierung. Durch die Ausstattung von Anhängern mit Identifikations-Beacons lässt sich die Flottenverwaltung automatisieren und den Fahrern Zeit sparen.Erfahren Sie, wie und warum die Bluetooth-Beacons von Jaxicloud Fleet Management Innovations zur Optimierung des Flottenmanagements beitragen.",
+          "bodyHtml": "<p>Optimieren und sichern Sie das An- und Abkuppeln von Lkw-Anhängern durch automatische Identifizierung. Durch die Ausstattung von Anhängern mit Identifikations-Beacons lässt sich die Flottenverwaltung automatisieren und den Fahrern Zeit sparen.</p><p>Erfahren Sie, wie und warum die Bluetooth-Beacons von Jaxicloud Fleet Management Innovations zur Optimierung des Flottenmanagements beitragen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Optimisez et sécurisez l’attelage et le dételage des semi-remorques grâce à l’identification automatique. En équipant les semi-remorques de balises d’identification, vous automatisez la gestion de votre flotte et gagnez du temps pour vos opérateurs.Découvrez comment et pourquoi les balises Bluetooth de Jaxicloud Fleet Management Innovations contribuent à optimiser la gestion de votre flotte.",
+          "bodyHtml": "<p>Optimisez et sécurisez l’attelage et le dételage des semi-remorques grâce à l’identification automatique. En équipant les semi-remorques de balises d’identification, vous automatisez la gestion de votre flotte et gagnez du temps pour vos opérateurs.</p><p>Découvrez comment et pourquoi les balises Bluetooth de Jaxicloud Fleet Management Innovations contribuent à optimiser la gestion de votre flotte.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Optimaliseer en beveilig het aan- en afkoppelen van opleggers met automatische identificatie. Door opleggers uit te rusten met identificatiebakens, kunt u de inventarisatie van uw wagenpark automatiseren en tijd besparen voor operators.Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations helpen bij het optimaliseren van wagenparkbeheer.",
+          "bodyHtml": "<p>Optimaliseer en beveilig het aan- en afkoppelen van opleggers met automatische identificatie. Door opleggers uit te rusten met identificatiebakens, kunt u de inventarisatie van uw wagenpark automatiseren en tijd besparen voor operators.</p><p>Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations helpen bij het optimaliseren van wagenparkbeheer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Optimaliser og sikre til- og frakobling av lastebilhengere med automatisk identifikasjon. Ved å utstyre tilhengere med identifikasjonsbeacons er det mulig å automatisere flåtebeholdning og spare tid for operatørene.Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons bidrar til å optimalisere flåtestyringen.",
+          "bodyHtml": "<p>Optimaliser og sikre til- og frakobling av lastebilhengere med automatisk identifikasjon. Ved å utstyre tilhengere med identifikasjonsbeacons er det mulig å automatisere flåtebeholdning og spare tid for operatørene.</p><p>Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons bidrar til å optimalisere flåtestyringen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Optimera och säkra till- och frånkoppling av lastbilssläp med automatisk identifiering. Genom att utrusta släp med identifieringsfyrar är det möjligt att automatisera flottans inventering och spara tid för operatörerna.Ta reda på hur och varför Jaxicloud Fleet Management Innovations Bluetooth-fyrar hjälper till att optimera flotthanteringen.",
+          "bodyHtml": "<p>Optimera och säkra till- och frånkoppling av lastbilssläp med automatisk identifiering. Genom att utrusta släp med identifieringsfyrar är det möjligt att automatisera flottans inventering och spara tid för operatörerna.</p><p>Ta reda på hur och varför Jaxicloud Fleet Management Innovations Bluetooth-fyrar hjälper till att optimera flotthanteringen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Otomatik tanımlama ile kamyon römorklarının bağlanma ve ayrılma işlemlerini optimize edin ve güvenli hale getirin. Römorklara tanımlama işaretçileri takarak, filo envanterini otomatikleştirmek ve operatörler için zamandan tasarruf sağlamak mümkündür.Jaxicloud Filo Yönetimi Yenilikleri Bluetooth işaretçilerinin filo yönetimini nasıl ve neden optimize ettiğini öğrenin.",
+          "bodyHtml": "<p>Otomatik tanımlama ile kamyon römorklarının bağlanma ve ayrılma işlemlerini optimize edin ve güvenli hale getirin. Römorklara tanımlama işaretçileri takarak, filo envanterini otomatikleştirmek ve operatörler için zamandan tasarruf sağlamak mümkündür.</p><p>Jaxicloud Filo Yönetimi Yenilikleri Bluetooth işaretçilerinin filo yönetimini nasıl ve neden optimize ettiğini öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "ctaButton",
+      "order": 11,
+      "sectionIndex": 3,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "image",
+      "order": 12,
+      "sectionIndex": 3,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9b94e58c5f384ff58b9fa24a1aea6905mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9b94e58c5f384ff58b9fa24a1aea6905mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 483,
+          "height": 323
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "image",
+      "order": 13,
+      "sectionIndex": 4,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_80ebf413fd864e2a922044d7eda891a4mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_80ebf413fd864e2a922044d7eda891a4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 435,
+          "height": 292
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "heading",
+      "order": 14,
+      "sectionIndex": 4,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Registrering af åbning af lastbilens sidepaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Detection of opening of the truck's side panels",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Erkennung des Öffnens der Seitenwände des Lkw",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Détection de l'ouverture des panneaux latéraux du camion",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Detectie van het openen van de zijpanelen van de vrachtwagen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Deteksjon av åpning av lastebilens sidepaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Detektering av öppning av lastbilens sidopaneler",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kamyonun yan panellerinin açılmasının tespiti",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-16",
+      "type": "richText",
+      "order": 15,
+      "sectionIndex": 4,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Sikr hydrauliske dumpere med registrering af åbning af sidepaneler. For at overholde gældende regler skal du udstyre dine lastbiler med trådløse magnetiske sensorer. I tilfælde af uautoriseret åbning advares chaufføren i realtid. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggør overholdelse af regler for vognmandsforretninger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikr hydrauliske dumpere med registrering af åbning af sidepaneler. For at overholde gældende regler skal du udstyre dine lastbiler med trådløse magnetiske sensorer. I tilfælde af uautoriseret åbning advares chaufføren i realtid. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggør overholdelse af regler for vognmandsforretninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Secure hydraulic dumpers with side panel opening detection. To comply with current regulations, you must equip your trucks with wireless magnetic sensors. In case of unauthorized opening, the driver will be warned in real time. Find out how and why Jaxicloud Fleet Masnagement Innovations magnetic Bluetooth sensors enable hauler compliance.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Secure hydraulic dumpers with side panel opening detection.&nbsp;To comply with current regulations, you must equip your trucks with wireless magnetic sensors. In case of unauthorized opening, the driver will be warned in real time.&nbsp;Find out how and why Jaxicloud Fleet Masnagement Innovations magnetic Bluetooth sensors enable hauler compliance.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Sichern Sie hydraulische Muldenkipper mit Seitenwandöffnungserkennung. Um den geltenden Vorschriften zu entsprechen, müssen Sie Ihre Lkw mit drahtlosen Magnetsensoren ausstatten. Bei unbefugtem Öffnen wird der Fahrer in Echtzeit gewarnt. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovations die Einhaltung der Vorschriften ermöglichen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sichern Sie hydraulische Muldenkipper mit Seitenwandöffnungserkennung. Um den geltenden Vorschriften zu entsprechen, müssen Sie Ihre Lkw mit drahtlosen Magnetsensoren ausstatten. Bei unbefugtem Öffnen wird der Fahrer in Echtzeit gewarnt. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovations die Einhaltung der Vorschriften ermöglichen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Sécurisez vos tombereaux hydrauliques grâce à la détection d’ouverture des panneaux latéraux. Pour être en conformité avec la réglementation en vigueur, vos camions doivent être équipés de capteurs magnétiques sans fil. En cas d’ouverture non autorisée, le conducteur est averti en temps réel. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovations permettent aux transporteurs de se conformer à la réglementation.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sécurisez vos tombereaux hydrauliques grâce à la détection d’ouverture des panneaux latéraux. Pour être en conformité avec la réglementation en vigueur, vos camions doivent être équipés de capteurs magnétiques sans fil. En cas d’ouverture non autorisée, le conducteur est averti en temps réel. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovations permettent aux transporteurs de se conformer à la réglementation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Sikre hydrauliske dumpere med deteksjon av åpning av sidepaneler. For å overholde gjeldende forskrifter må du utstyre lastebilene dine med trådløse magnetiske sensorer. Ved uautorisert åpning vil sjåføren bli advart i sanntid. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggjør samsvar med kravene for transportører.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikre hydrauliske dumpere med deteksjon av åpning av sidepaneler. For å overholde gjeldende forskrifter må du utstyre lastebilene dine med trådløse magnetiske sensorer. Ved uautorisert åpning vil sjåføren bli advart i sanntid. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggjør samsvar med kravene for transportører.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Säkra hydrauliska dumprar med detektering av öppning av sidopaneler. För att följa gällande föreskrifter måste du utrusta dina lastbilar med trådlösa magnetiska sensorer. Vid obehörig öppning varnas föraren i realtid. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer möjliggör efterlevnad av transportörers regler.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Säkra hydrauliska dumprar med detektering av öppning av sidopaneler. För att följa gällande föreskrifter måste du utrusta dina lastbilar med trådlösa magnetiska sensorer. Vid obehörig öppning varnas föraren i realtid. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer möjliggör efterlevnad av transportörers regler.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yan panel açılma algılama özelliğine sahip güvenli hidrolik damperli kamyonlar. Mevcut düzenlemelere uymak için kamyonlarınızı kablosuz manyetik sensörlerle donatmanız gerekmektedir. Yetkisiz açılma durumunda sürücü gerçek zamanlı olarak uyarılacaktır. Jaxicloud Filo Yönetim İnovasyonlarının manyetik Bluetooth sensörlerinin nakliyecilerin uyumluluğunu nasıl ve neden sağladığını öğrenin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Yan panel açılma algılama özelliğine sahip güvenli hidrolik damperli kamyonlar. Mevcut düzenlemelere uymak için kamyonlarınızı kablosuz manyetik sensörlerle donatmanız gerekmektedir. Yetkisiz açılma durumunda sürücü gerçek zamanlı olarak uyarılacaktır. Jaxicloud Filo Yönetim İnovasyonlarının manyetik Bluetooth sensörlerinin nakliyecilerin uyumluluğunu nasıl ve neden sağladığını öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-17",
+      "type": "ctaButton",
+      "order": 16,
+      "sectionIndex": 4,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Erfahren Sie mehr",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Erfahren Sie mehr",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/",
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-18",
+      "type": "heading",
+      "order": 17,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Udfører identifikation",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Conducts identification",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Führt die Identifizierung durch",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Effectue l'identification",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Conducts identification",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Foretar identifikasjon",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Utför identifiering",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Kimlik tespitini gerçekleştirir",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-19",
+      "type": "richText",
+      "order": 18,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Optimer styringen af ​​køretøjsflåden og sørg for medarbejdernes sikkerhed med fører- og passageridentifikation. Ved at udstyre hver chauffør med en Bluetooth-beacon er det muligt at vide, hvilken person der bruger hvilket køretøj, samtidig med at RGPD-reglerne overholdes.Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons hjælper med at optimere B2B-flådestyring.",
+          "bodyHtml": "<p>Optimer styringen af ​​køretøjsflåden og sørg for medarbejdernes sikkerhed med fører- og passageridentifikation. Ved at udstyre hver chauffør med en Bluetooth-beacon er det muligt at vide, hvilken person der bruger hvilket køretøj, samtidig med at RGPD-reglerne overholdes.</p><p>Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons hjælper med at optimere B2B-flådestyring.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Optimize the management of the vehicle fleet and ensure employee safety with driver and passenger identification. By equipping each driver with a Bluetooth beacon, it is possible to know which person is using which vehicle while complying with RGPD regulations.Find out how and why Jaxicloud Fleet Management Innovations Bluetooth beacons help optimize B2B fleet management.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Optimize the management of the vehicle fleet and ensure employee safety with driver and passenger identification.&nbsp;By equipping each driver with a Bluetooth beacon, it is possible to know which person is using which vehicle while complying with RGPD regulations.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Find out how and why Jaxicloud Fleet Management Innovations Bluetooth beacons help optimize B2B fleet management.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Optimieren Sie Ihr Fuhrparkmanagement und gewährleisten Sie die Sicherheit Ihrer Mitarbeiter durch Fahrer- und Beifahreridentifizierung. Mit einem Bluetooth-Beacon für jeden Fahrer lässt sich jederzeit nachvollziehen, welche Person welches Fahrzeug nutzt – ganz im Sinne der DSGVO.Erfahren Sie, wie und warum die Bluetooth-Beacons von Jaxicloud Fleet Management Innovations Ihr B2B-Fuhrparkmanagement optimieren.",
+          "bodyHtml": "<p>Optimieren Sie Ihr Fuhrparkmanagement und gewährleisten Sie die Sicherheit Ihrer Mitarbeiter durch Fahrer- und Beifahreridentifizierung. Mit einem Bluetooth-Beacon für jeden Fahrer lässt sich jederzeit nachvollziehen, welche Person welches Fahrzeug nutzt – ganz im Sinne der DSGVO.</p><p>Erfahren Sie, wie und warum die Bluetooth-Beacons von Jaxicloud Fleet Management Innovations Ihr B2B-Fuhrparkmanagement optimieren.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Optimisez la gestion de votre flotte de véhicules et assurez la sécurité de vos employés grâce à l’identification des conducteurs et des passagers. En équipant chaque conducteur d’une balise Bluetooth, vous pouvez savoir qui utilise quel véhicule, tout en respectant le RGPD.Découvrez comment et pourquoi les balises Bluetooth de Jaxicloud Fleet Management Innovations contribuent à optimiser la gestion des flottes B2B.",
+          "bodyHtml": "<p>Optimisez la gestion de votre flotte de véhicules et assurez la sécurité de vos employés grâce à l’identification des conducteurs et des passagers. En équipant chaque conducteur d’une balise Bluetooth, vous pouvez savoir qui utilise quel véhicule, tout en respectant le RGPD.</p><p>Découvrez comment et pourquoi les balises Bluetooth de Jaxicloud Fleet Management Innovations contribuent à optimiser la gestion des flottes B2B.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Optimaliseer het beheer van het wagenpark en waarborg de veiligheid van uw medewerkers met bestuurders- en passagiersidentificatie. Door elke bestuurder uit te rusten met een Bluetooth-baken, kunt u zien welke persoon welk voertuig gebruikt en tegelijkertijd voldoen aan de AVG-regelgeving.Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations bijdragen aan het optimaliseren van B2B-wagenparkbeheer.",
+          "bodyHtml": "<p>Optimaliseer het beheer van het wagenpark en waarborg de veiligheid van uw medewerkers met bestuurders- en passagiersidentificatie. Door elke bestuurder uit te rusten met een Bluetooth-baken, kunt u zien welke persoon welk voertuig gebruikt en tegelijkertijd voldoen aan de AVG-regelgeving.</p><p>Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations bijdragen aan het optimaliseren van B2B-wagenparkbeheer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Optimaliser administrasjonen av kjøretøyflåten og sørg for ansattes sikkerhet med sjåfør- og passasjeridentifikasjon. Ved å utstyre hver sjåfør med en Bluetooth-beacons er det mulig å vite hvilken person som bruker hvilket kjøretøy, samtidig som man overholder RGPD-forskriftene.Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons bidrar til å optimalisere B2B-flåteadministrasjon.",
+          "bodyHtml": "<p>Optimaliser administrasjonen av kjøretøyflåten og sørg for ansattes sikkerhet med sjåfør- og passasjeridentifikasjon. Ved å utstyre hver sjåfør med en Bluetooth-beacons er det mulig å vite hvilken person som bruker hvilket kjøretøy, samtidig som man overholder RGPD-forskriftene.</p><p>Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations Bluetooth-beacons bidrar til å optimalisere B2B-flåteadministrasjon.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Optimera hanteringen av fordonsflottan och säkerställ medarbetarnas säkerhet med förar- och passageraridentifiering. Genom att utrusta varje förare med en Bluetooth-beacon är det möjligt att veta vilken person som använder vilket fordon samtidigt som man följer RGPD-föreskrifterna.Ta reda på hur och varför Jaxicloud Fleet Management Innovations Bluetooth-beacons hjälper till att optimera B2B-flotthantering.",
+          "bodyHtml": "<p>Optimera hanteringen av fordonsflottan och säkerställ medarbetarnas säkerhet med förar- och passageraridentifiering. Genom att utrusta varje förare med en Bluetooth-beacon är det möjligt att veta vilken person som använder vilket fordon samtidigt som man följer RGPD-föreskrifterna.</p><p>Ta reda på hur och varför Jaxicloud Fleet Management Innovations Bluetooth-beacons hjälper till att optimera B2B-flotthantering.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Araç filosunun yönetimini optimize edin ve sürücü ve yolcu tanımlamasıyla çalışan güvenliğini sağlayın. Her sürücüye bir Bluetooth işaretçisi takarak, RGPD yönetmeliklerine uyarken hangi kişinin hangi aracı kullandığını bilmek mümkün olur.Jaxicloud Filo Yönetimi İnovasyonları Bluetooth işaretçilerinin B2B filo yönetimini nasıl ve neden optimize ettiğini öğrenin.",
+          "bodyHtml": "<p>Araç filosunun yönetimini optimize edin ve sürücü ve yolcu tanımlamasıyla çalışan güvenliğini sağlayın. Her sürücüye bir Bluetooth işaretçisi takarak, RGPD yönetmeliklerine uyarken hangi kişinin hangi aracı kullandığını bilmek mümkün olur.</p><p>Jaxicloud Filo Yönetimi İnovasyonları Bluetooth işaretçilerinin B2B filo yönetimini nasıl ve neden optimize ettiğini öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-20",
+      "type": "image",
+      "order": 19,
+      "sectionIndex": 5,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_103574a5126f4c4581d5a04d384cd3d0mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_103574a5126f4c4581d5a04d384cd3d0mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 428,
+          "height": 286
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-21",
+      "type": "image",
+      "order": 20,
+      "sectionIndex": 6,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "left",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_210e346510264d1f9a76356d80973089mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_210e346510264d1f9a76356d80973089mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 458,
+          "height": 305
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-22",
+      "type": "heading",
+      "order": 21,
+      "sectionIndex": 6,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Geolokalisering af containervogne",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Geolocation of container dollies",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Geolokalisierung von Containerwagen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Géolocalisation des chariots porte-conteneurs",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Geolocatie van containerwagens",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Geolokalisering av containertraller",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Geolokalisering av containervagnar",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "konteyner taşıma arabalarının coğrafi konumlandırılması",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-23",
+      "type": "richText",
+      "order": 22,
+      "sectionIndex": 6,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Sikr hydrauliske dumpere med registrering af åbning af sidepaneler. For at overholde gældende regler skal du udstyre dine lastbiler med trådløse magnetiske sensorer. I tilfælde af uautoriseret åbning advares chaufføren i realtid. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggør overholdelse af regler for vognmandsforretninger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikr hydrauliske dumpere med registrering af åbning af sidepaneler. For at overholde gældende regler skal du udstyre dine lastbiler med trådløse magnetiske sensorer. I tilfælde af uautoriseret åbning advares chaufføren i realtid. Find ud af, hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggør overholdelse af regler for vognmandsforretninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Secure hydraulic dumpers with side panel opening detection. To comply with current regulations, you must equip your trucks with wireless magnetic sensors. In case of unauthorized opening, the driver will be warned in real time. Find out how and why Jaxicloud Fleet Masnagement Innovations magnetic Bluetooth sensors enable hauler compliance.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Secure hydraulic dumpers with side panel opening detection.&nbsp;To comply with current regulations, you must equip your trucks with wireless magnetic sensors. In case of unauthorized opening, the driver will be warned in real time.&nbsp;Find out how and why Jaxicloud Fleet Masnagement Innovations magnetic Bluetooth sensors enable hauler compliance.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Sichern Sie hydraulische Muldenkipper mit Seitenwandöffnungserkennung. Um den geltenden Vorschriften zu entsprechen, müssen Sie Ihre Lkw mit drahtlosen Magnetsensoren ausstatten. Bei unbefugtem Öffnen wird der Fahrer in Echtzeit gewarnt. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovations die Einhaltung der Vorschriften ermöglichen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sichern Sie hydraulische Muldenkipper mit Seitenwandöffnungserkennung. Um den geltenden Vorschriften zu entsprechen, müssen Sie Ihre Lkw mit drahtlosen Magnetsensoren ausstatten. Bei unbefugtem Öffnen wird der Fahrer in Echtzeit gewarnt. Erfahren Sie, wie und warum die magnetischen Bluetooth-Sensoren von Jaxicloud Fleet Management Innovations die Einhaltung der Vorschriften ermöglichen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Sécurisez vos tombereaux hydrauliques grâce à la détection d’ouverture des panneaux latéraux. Pour être en conformité avec la réglementation en vigueur, vos camions doivent être équipés de capteurs magnétiques sans fil. En cas d’ouverture non autorisée, le conducteur est averti en temps réel. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovations permettent aux transporteurs de se conformer à la réglementation.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sécurisez vos tombereaux hydrauliques grâce à la détection d’ouverture des panneaux latéraux. Pour être en conformité avec la réglementation en vigueur, vos camions doivent être équipés de capteurs magnétiques sans fil. En cas d’ouverture non autorisée, le conducteur est averti en temps réel. Découvrez comment et pourquoi les capteurs magnétiques Bluetooth de Jaxicloud Fleet Management Innovations permettent aux transporteurs de se conformer à la réglementation.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Sikre hydrauliske dumpere med deteksjon av åpning av sidepaneler. For å overholde gjeldende forskrifter må du utstyre lastebilene dine med trådløse magnetiske sensorer. Ved uautorisert åpning vil sjåføren bli advart i sanntid. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggjør samsvar med kravene for transportører.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sikre hydrauliske dumpere med deteksjon av åpning av sidepaneler. For å overholde gjeldende forskrifter må du utstyre lastebilene dine med trådløse magnetiske sensorer. Ved uautorisert åpning vil sjåføren bli advart i sanntid. Finn ut hvordan og hvorfor Jaxicloud Fleet Management Innovations magnetiske Bluetooth-sensorer muliggjør samsvar med kravene for transportører.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Säkra hydrauliska dumprar med detektering av öppning av sidopaneler. För att följa gällande föreskrifter måste du utrusta dina lastbilar med trådlösa magnetiska sensorer. Vid obehörig öppning varnas föraren i realtid. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer möjliggör efterlevnad av transportörers regler.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Säkra hydrauliska dumprar med detektering av öppning av sidopaneler. För att följa gällande föreskrifter måste du utrusta dina lastbilar med trådlösa magnetiska sensorer. Vid obehörig öppning varnas föraren i realtid. Ta reda på hur och varför Jaxicloud Fleet Management Innovations magnetiska Bluetooth-sensorer möjliggör efterlevnad av transportörers regler.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Yan panel açılma algılama özelliğine sahip güvenli hidrolik damperli kamyonlar. Mevcut düzenlemelere uymak için kamyonlarınızı kablosuz manyetik sensörlerle donatmanız gerekmektedir. Yetkisiz açılma durumunda sürücü gerçek zamanlı olarak uyarılacaktır. Jaxicloud Filo Yönetim İnovasyonlarının manyetik Bluetooth sensörlerinin nakliyecilerin uyumluluğunu nasıl ve neden sağladığını öğrenin.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Yan panel açılma algılama özelliğine sahip güvenli hidrolik damperli kamyonlar. Mevcut düzenlemelere uymak için kamyonlarınızı kablosuz manyetik sensörlerle donatmanız gerekmektedir. Yetkisiz açılma durumunda sürücü gerçek zamanlı olarak uyarılacaktır. Jaxicloud Filo Yönetim İnovasyonlarının manyetik Bluetooth sensörlerinin nakliyecilerin uyumluluğunu nasıl ve neden sağladığını öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-24",
+      "type": "heading",
+      "order": 23,
+      "sectionIndex": 7,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Sundhedsvæsen Optimer administrationen af ​​hospitalsudstyr og sørg for hospitalspersonalets sikkerhed med IoT-beacons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Healthcare Optimize hospital equipment management and ensure hospital staff safety with IoT beacons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Optimierung des Gerätemanagements im Krankenhaus und Gewährleistung der Sicherheit des Krankenhauspersonals mit IoT-Beacons.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Optimisez la gestion des équipements hospitaliers et assurez la sécurité du personnel grâce aux balises IoT.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Gezondheidszorg Optimaliseer het beheer van ziekenhuisapparatuur en zorg voor de veiligheid van ziekenhuispersoneel met IoT-beacons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Helsevesen Optimaliser administrasjonen av sykehusutstyr og sørg for sykehuspersonalets sikkerhet med IoT-beacons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Optimera hanteringen av sjukhusutrustning och säkerställ sjukhuspersonalens säkerhet med IoT-beacons",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sağlık sektörü: IoT işaretçileriyle hastane ekipman yönetimini optimize edin ve hastane personelinin güvenliğini sağlayın.",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-25",
+      "type": "richText",
+      "order": 24,
+      "sectionIndex": 7,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Gør søgningen efter medicinsk udstyr lettere og hurtigere med indendørs geolokalisering. Ved at automatisere lagerbeholdningen af ​​udstyrspuljen vil dette optimere administrationen og begrænse den tid og de omkostninger, der er forbundet med køb af mistet udstyr.Find ud af, hvordan og hvorfor Jaxicloud Innovations lokationsbeacons vil muliggøre digitalisering af administration af medicinsk udstyr.",
+          "bodyHtml": "<p>Gør søgningen efter medicinsk udstyr lettere og hurtigere med indendørs geolokalisering. Ved at automatisere lagerbeholdningen af ​​udstyrspuljen vil dette optimere administrationen og begrænse den tid og de omkostninger, der er forbundet med køb af mistet udstyr.</p><p>Find ud af, hvordan og hvorfor Jaxicloud Innovations lokationsbeacons vil muliggøre digitalisering af administration af medicinsk udstyr.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Ease and accelerate the search for medical equipment with indoor geolocation. By automating the inventory of the equipment pool, this will optimize its management and limit the time and costs associated with the purchase of lost equipment.Find out how and why Jaxicloud Innovation’s location beacons will enable the digitization of medical device management.",
+          "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Ease and accelerate the search for medical equipment</span>&nbsp;with indoor geolocation. By automating the inventory of the equipment pool, this will optimize its management and limit the time and costs associated with the purchase of lost equipment.</p><p class=\"font_8 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Find out how and why Jaxicloud Innovation’s location beacons will enable the digitization of medical device management.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Vereinfachen und beschleunigen Sie die Suche nach medizinischen Geräten mit Indoor-Geolokalisierung. Durch die Automatisierung der Bestandsverwaltung optimieren Sie das Gerätemanagement und reduzieren Zeitaufwand und Kosten für die Ersatzbeschaffung verlorener Geräte.Erfahren Sie, wie und warum die Standort-Beacons von Jaxicloud Innovation die Digitalisierung des Medizingerätemanagements ermöglichen.",
+          "bodyHtml": "<p>Vereinfachen und beschleunigen Sie die Suche nach medizinischen Geräten mit Indoor-Geolokalisierung. Durch die Automatisierung der Bestandsverwaltung optimieren Sie das Gerätemanagement und reduzieren Zeitaufwand und Kosten für die Ersatzbeschaffung verlorener Geräte.</p><p>Erfahren Sie, wie und warum die Standort-Beacons von Jaxicloud Innovation die Digitalisierung des Medizingerätemanagements ermöglichen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Simplifiez et accélérez la recherche de matériel médical grâce à la géolocalisation intérieure. En automatisant l’inventaire du parc de matériel, vous optimiserez sa gestion et réduirez les coûts et les délais liés au remplacement de matériel perdu.Découvrez comment et pourquoi les balises de localisation de Jaxicloud Innovation permettent la digitalisation de la gestion des dispositifs médicaux.",
+          "bodyHtml": "<p>Simplifiez et accélérez la recherche de matériel médical grâce à la géolocalisation intérieure. En automatisant l’inventaire du parc de matériel, vous optimiserez sa gestion et réduirez les coûts et les délais liés au remplacement de matériel perdu.</p><p>Découvrez comment et pourquoi les balises de localisation de Jaxicloud Innovation permettent la digitalisation de la gestion des dispositifs médicaux.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Vereenvoudig en versnel het zoeken naar medische apparatuur met indoor geolocatie. Door de inventarisatie van de apparatuur te automatiseren, optimaliseert u het beheer ervan en beperkt u de tijd en kosten die gepaard gaan met de aanschaf van verloren apparatuur.Ontdek hoe en waarom de locatiebeacons van Jaxicloud Innovation de digitalisering van het beheer van medische apparatuur mogelijk maken.",
+          "bodyHtml": "<p>Vereenvoudig en versnel het zoeken naar medische apparatuur met indoor geolocatie. Door de inventarisatie van de apparatuur te automatiseren, optimaliseert u het beheer ervan en beperkt u de tijd en kosten die gepaard gaan met de aanschaf van verloren apparatuur.</p><p>Ontdek hoe en waarom de locatiebeacons van Jaxicloud Innovation de digitalisering van het beheer van medische apparatuur mogelijk maken.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Gjør søket etter medisinsk utstyr enklere og raskere med innendørs geolokalisering. Ved å automatisere inventaret til utstyrsbassenget vil dette optimalisere administrasjonen og begrense tiden og kostnadene forbundet med kjøp av tapt utstyr.Finn ut hvordan og hvorfor Jaxicloud Innovations lokasjonsbeacons vil muliggjøre digitalisering av administrasjon av medisinsk utstyr.",
+          "bodyHtml": "<p>Gjør søket etter medisinsk utstyr enklere og raskere med innendørs geolokalisering. Ved å automatisere inventaret til utstyrsbassenget vil dette optimalisere administrasjonen og begrense tiden og kostnadene forbundet med kjøp av tapt utstyr.</p><p>Finn ut hvordan og hvorfor Jaxicloud Innovations lokasjonsbeacons vil muliggjøre digitalisering av administrasjon av medisinsk utstyr.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Förenkla och snabba upp sökningen efter medicinsk utrustning med geolokalisering inomhus. Genom att automatisera inventeringen av utrustningspoolen kommer detta att optimera hanteringen och begränsa tiden och kostnaderna i samband med inköp av förlorad utrustning.Ta reda på hur och varför Jaxicloud Innovations positioneringsfyrar möjliggör digitalisering av hantering av medicintekniska produkter.",
+          "bodyHtml": "<p>Förenkla och snabba upp sökningen efter medicinsk utrustning med geolokalisering inomhus. Genom att automatisera inventeringen av utrustningspoolen kommer detta att optimera hanteringen och begränsa tiden och kostnaderna i samband med inköp av förlorad utrustning.</p><p>Ta reda på hur och varför Jaxicloud Innovations positioneringsfyrar möjliggör digitalisering av hantering av medicintekniska produkter.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Kapalı alan konum belirleme teknolojisi ile tıbbi ekipman arama sürecini kolaylaştırın ve hızlandırın. Ekipman havuzunun envanterini otomatikleştirerek, yönetimini optimize edin ve kayıp ekipman satın alımıyla ilgili zaman ve maliyetleri sınırlayın.Jaxicloud Innovation’ın konum belirleme cihazlarının tıbbi cihaz yönetiminin dijitalleşmesini nasıl ve neden sağlayacağını öğrenin.",
+          "bodyHtml": "<p>Kapalı alan konum belirleme teknolojisi ile tıbbi ekipman arama sürecini kolaylaştırın ve hızlandırın. Ekipman havuzunun envanterini otomatikleştirerek, yönetimini optimize edin ve kayıp ekipman satın alımıyla ilgili zaman ve maliyetleri sınırlayın.</p><p>Jaxicloud Innovation’ın konum belirleme cihazlarının tıbbi cihaz yönetiminin dijitalleşmesini nasıl ve neden sağlayacağını öğrenin.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-26",
+      "type": "image",
+      "order": 25,
+      "sectionIndex": 7,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7d0ff56fbb4a458990a938171680b1e9mv2-ezgif.com-avif-to-jpg-converter.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7d0ff56fbb4a458990a938171680b1e9mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "width": 523,
+          "height": 296
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}

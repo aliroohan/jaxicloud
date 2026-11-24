@@ -1,0 +1,736 @@
+{
+  "id": 5638,
+  "slug": "jaxicloud-platform-hl",
+  "canonicalSlug": "jaxicloud-platform",
+  "locale": "nl",
+  "title": "Jaxicloud Platform – HL",
+  "link": "https://www.jaxicloud.com/nl/jaxicloud-platform-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 5638,
+    "en": 5632,
+    "da": 5604,
+    "de": 5634,
+    "fr": 5636,
+    "nb": 5640,
+    "sv": 5642,
+    "tr": 5644
+  },
+  "excerpt": "Jaxicloud Platform Eén platform. Volledige controle over uw wagenpark en assets. Het JaxiCloud-platform is een uitgebreid GPS-tracking- en fleetmanagementplatform van JaxiCloud dat wereldwijd wordt gebruikt om voertuigen, materieel, personen en assets in realtime te monitoren.Het platform biedt functies zoals route-optimalisatie, brandstofbeheer, analyse van rijgedrag, geofencing, sensormonitoring en geavanceerde rapportages voor diverse sectoren – van logistiek [&hellip;]",
+  "seo": {
+    "title": "Jaxicloud Platform - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-18T01:48:35",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "3db0a91",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3db0a91",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud Platform",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c777db0",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "b6fded5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b6fded5",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Eén platform. Volledige controle over uw wagenpark en assets.",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-acb2517",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "108e4e2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-108e4e2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Het JaxiCloud-platform is een uitgebreid GPS-tracking- en fleetmanagementplatform van JaxiCloud dat wereldwijd wordt gebruikt om voertuigen, materieel, personen en assets in realtime te monitoren.<br>Het platform biedt functies zoals route-optimalisatie, brandstofbeheer, analyse van rijgedrag, geofencing, sensormonitoring en geavanceerde rapportages voor diverse sectoren – van logistiek tot landbouw – en stelt serviceproviders in staat om hun eigen op maat gemaakte oplossingen te bouwen.</p>",
+      "bodyText": "Het JaxiCloud-platform is een uitgebreid GPS-tracking- en fleetmanagementplatform van JaxiCloud dat wereldwijd wordt gebruikt om voertuigen, materieel, personen en assets in realtime te monitoren.Het platform biedt functies zoals route-optimalisatie, brandstofbeheer, analyse van rijgedrag, geofencing, sensormonitoring en geavanceerde rapportages voor diverse sectoren – van logistiek tot landbouw – en stelt serviceproviders in staat om hun eigen op maat gemaakte oplossingen te bouwen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-acb2517",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "51805f5",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51805f5",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.12-1024x554.png",
+          "alt": "",
+          "width": 800,
+          "height": 433
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-acb2517",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "3558367",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3558367",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Belangrijkste functies & mogelijkheden",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2f607f2",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "192b5ac",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-192b5ac",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Realtime tracking",
+      "bodyHtml": "<p>Bekijk locaties, snelheid en status van eenheden op de kaart</p>",
+      "bodyText": "Bekijk locaties, snelheid en status van eenheden op de kaart",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "61557aa",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-61557aa",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Monitoring & analyse",
+      "bodyHtml": "<p>Volg brandstof-, temperatuur- en andere sensorgegevens; analyseer trends met grafieken</p>",
+      "bodyText": "Volg brandstof-, temperatuur- en andere sensorgegevens; analyseer trends met grafieken",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "04d57e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-04d57e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Geofencing",
+      "bodyHtml": "<p>Definieer virtuele zones en ontvang meldingen bij in- en uitrijden</p>",
+      "bodyText": "Definieer virtuele zones en ontvang meldingen bij in- en uitrijden",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "2155949",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2155949",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Routemanagement",
+      "bodyHtml": "<p>Routes en taken aanmaken, optimaliseren en beheren</p>",
+      "bodyText": "Routes en taken aanmaken, optimaliseren en beheren",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "51e3bef",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51e3bef",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Chauffeursbeheer",
+      "bodyHtml": "<p>Rijgedrag monitoren, berichten versturen en diensten beheren</p>",
+      "bodyText": "Rijgedrag monitoren, berichten versturen en diensten beheren",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "7c40402",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7c40402",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Video-telematica",
+      "bodyHtml": "<p>Bekijk live video- en camerafeeds van voertuigen en units</p>",
+      "bodyText": "Bekijk live video- en camerafeeds van voertuigen en units",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "ea2957a",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ea2957a",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Rapportages",
+      "bodyHtml": "<p>Genereer gedetailleerde rapporten en grafieken voor analys</p>",
+      "bodyText": "Genereer gedetailleerde rapporten en grafieken voor analys",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "0c48b66",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0c48b66",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Maatwerk & branding",
+      "bodyHtml": "<p>No-code platform voor serviceproviders om eigen branded oplossingen te creëren (Wialon-platform)</p>",
+      "bodyText": "No-code platform voor serviceproviders om eigen branded oplossingen te creëren (Wialon-platform)",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c23b1e4",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c23b1e4",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "IoT-integratie",
+      "bodyHtml": "<p>Monitoring van diverse IoT-apparaten en sensoren</p>",
+      "bodyText": "Monitoring van diverse IoT-apparaten en sensoren",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-738adaa",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "4c8a49d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4c8a49d",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.09.06-1-1024x484.png",
+          "alt": "",
+          "width": 800,
+          "height": 378
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-cb0ea20",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "3208725",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3208725",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.08.46-1024x507.png",
+          "alt": "",
+          "width": 800,
+          "height": 396
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-cb0ea20",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 5,
+      "elementorId": "ba25c5c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ba25c5c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hoe het werkt",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e1fdd43",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "fdf5f74",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fdf5f74",
+        "elementor-widget__width-initial",
+        "elementor-align-center",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Verbindt met GPS-trackers en IoT-apparaten",
+        "Verwerkt gegevens (realtime, analyses, gebeurtenissen)",
+        "Biedt toegang via webinterface, mobiele app en beheertools (zoals CMS Manager)",
+        "Maakt het mogelijk om opdrachten, berichten en taken naar eenheden te verzenden"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e1fdd43",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 18,
+    "sectionCount": 6,
+    "htmlBytes": 24142
+  }
+}

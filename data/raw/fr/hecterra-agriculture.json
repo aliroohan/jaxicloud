@@ -1,0 +1,431 @@
+{
+  "id": 2791,
+  "slug": "hecterra-agriculture-fr",
+  "canonicalSlug": "hecterra-agriculture",
+  "locale": "fr",
+  "title": "Hecterra agriculture – FR",
+  "link": "https://www.jaxicloud.com/fr/hecterra-agriculture-fr/",
+  "pageKind": "solution",
+  "translations": {
+    "fr": 2791,
+    "da": 2137,
+    "en": 39,
+    "de": 2532,
+    "nl": 2993,
+    "nb": 3191,
+    "sv": 3382,
+    "tr": 3572
+  },
+  "excerpt": "Hecterra agriculture Hecterra : une solution de suivi GPS en agriculture Il s’agit d’une application simple mais efficace pour l’agro-industrie, qui permet de contrôler le travail des champs à partir de données télématiques. Le système GPS agricole fournit des données transparentes sur les champs, la rotation des cultures et la gestion des champs aux employés [&hellip;]",
+  "seo": {
+    "title": "Hecterra agriculture - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T01:47:14",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "9f71c92",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f71c92",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra agriculture",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b75bf35",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "9ca3b12",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9ca3b12",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hecterra : une solution de suivi GPS en agriculture",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f4ae35",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f4ae35",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Il s’agit d’une application simple mais efficace pour l’agro-industrie, qui permet de contrôler le travail des champs à partir de données télématiques. Le système GPS agricole fournit des données transparentes sur les champs, la rotation des cultures et la gestion des champs aux employés et dirigeants des entreprises agricoles. En disposant d’informations exactes sur qui, quand et comment a cultivé les cultures, les clients peuvent planifier et améliorer efficacement les processus agro-industriels.</p>",
+      "bodyText": "Il s’agit d’une application simple mais efficace pour l’agro-industrie, qui permet de contrôler le travail des champs à partir de données télématiques. Le système GPS agricole fournit des données transparentes sur les champs, la rotation des cultures et la gestion des champs aux employés et dirigeants des entreprises agricoles. En disposant d’informations exactes sur qui, quand et comment a cultivé les cultures, les clients peuvent planifier et améliorer efficacement les processus agro-industriels.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "5a37128",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5a37128",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_bce137ce68d24fe99319592d088f145amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a320bab",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "c59794f",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c59794f",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Contrôle des véhicules spéciaux",
+      "bodyHtml": "<p>Les clients obtiennent des données claires sur la qualité et le volume des opérations sur le terrain, ainsi que sur les actions des véhicules agricoles et des opérateurs de véhicules.</p>",
+      "bodyText": "Les clients obtiennent des données claires sur la qualité et le volume des opérations sur le terrain, ainsi que sur les actions des véhicules agricoles et des opérateurs de véhicules.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "4dce5dd",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4dce5dd",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Des données fiables",
+      "bodyHtml": "<p>Hecterra calcule les traitements sur le terrain des complexes forme et prend des omissions, chevauchements et zones non cultivées dans les champs.</p>",
+      "bodyText": "Hecterra calcule les traitements sur le terrain des complexes forme et prend des omissions, chevauchements et zones non cultivées dans les champs.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "8828297",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8828297",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Calculs automatisés",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">L’application Agro calcule les superficies cultivées, la consommation de carburant, le kilométrage, la vitesse et d’autres paramètres, permettant ainsi aux employés de gagner du temps.</span></p>",
+      "bodyText": "L’application Agro calcule les superficies cultivées, la consommation de carburant, le kilométrage, la vitesse et d’autres paramètres, permettant ainsi aux employés de gagner du temps.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "0641184",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0641184",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Intégration API",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Transférez les données de</span>&nbsp;<span class=\"wixui-rich-text__text\">Hecterra et utilisez-les dans n’importe quel système comptable utilisant l’API</span>&nbsp;.</p><p>&nbsp;</p>",
+      "bodyText": "Transférez les données de Hecterra et utilisez-les dans n’importe quel système comptable utilisant l’API .",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-836a430",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "9387f5b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9387f5b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Voici comment fonctionne le système GPS dans l'agriculture",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "02f4bce",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-02f4bce",
+        "elementor-widget__width-initial",
+        "elementor-align-center",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Importez des clôtures géographiques sous forme de champs ; installer des remorques, des chauffeurs et des unités à Wialon pour une utilisation ultérieure à Hecterra",
+        "Compléter les catalogues de cultures, d'exploitations et de cultures",
+        "Approuver ou rejeter les labours détectés",
+        "Générez et exportez des rapports complets sur les opérations sur le terrain"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-e0353ab",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 10,
+    "sectionCount": 4,
+    "htmlBytes": 15904
+  }
+}

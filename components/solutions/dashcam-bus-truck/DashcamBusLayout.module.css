@@ -1,0 +1,12 @@
+/* archetype: challengeSplit */
+.page{background:#fff;color:#0f172a}
+.muted{color:#64748b}
+.accent{color:#b45309}
+
+.hero{background:#0f172a;color:#fff;padding:clamp(4rem,9vw,7rem) 0}
+.title{font-size:clamp(2.5rem,5.5vw,4rem);max-width:14ch;color:#fff}
+.split{display:grid;gap:0}@media(min-width:900px){.split{grid-template-columns:1fr 1fr}}
+.chal{background:#fff7ed;padding:clamp(2.5rem,5vw,4rem)}.sol{background:#ecfdf5;padding:clamp(2.5rem,5vw,4rem)}
+.featGrid{display:grid;gap:1.5rem;padding:clamp(3rem,6vw,5rem) 0}@media(min-width:800px){.featGrid{grid-template-columns:repeat(3,1fr)}}
+.shot{aspect-ratio:16/10;border-radius:1rem;margin:1rem 0}
+

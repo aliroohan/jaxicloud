@@ -7,10 +7,19 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "seed": "tsx scripts/seed.ts"
+    "seed": "tsx scripts/seed.ts",
+    "extract:legacy": "tsx scripts/extract-legacy.ts",
+    "analyze:blocks": "tsx scripts/analyze-blocks.ts",
+    "merge:pages": "tsx scripts/merge-pages.ts"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
+    "@tiptap/extension-image": "^3.30.0",
+    "@tiptap/extension-link": "^3.30.0",
+    "@tiptap/extension-placeholder": "^3.30.0",
+    "@tiptap/pm": "^3.30.0",
+    "@tiptap/react": "^3.30.0",
+    "@tiptap/starter-kit": "^3.30.0",
     "bcryptjs": "^3.0.3",
     "cloudinary": "^2.10.0",
     "framer-motion": "^12.42.2",
@@ -22,6 +31,7 @@
     "next": "16.2.11",
     "react": "19.2.4",
     "react-dom": "19.2.4",
+    "sanitize-html": "^2.17.6",
     "slugify": "^1.6.9",
     "zod": "^4.4.3",
     "zustand": "^5.0.14"
@@ -32,6 +42,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/sanitize-html": "^2.16.1",
+    "cheerio": "^1.2.0",
     "dotenv": "^17.4.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.11",

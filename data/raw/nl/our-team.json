@@ -1,0 +1,426 @@
+{
+  "id": 3030,
+  "slug": "our-team-hl",
+  "canonicalSlug": "our-team",
+  "locale": "nl",
+  "title": "Our team – HL",
+  "link": "https://www.jaxicloud.com/nl/our-team-hl/",
+  "pageKind": "marketing",
+  "translations": {
+    "nl": 3030,
+    "da": 2183,
+    "en": 41,
+    "de": 2584,
+    "fr": 2830,
+    "nb": 3230,
+    "sv": 3423,
+    "tr": 3612
+  },
+  "excerpt": "Het team achter Jaxycloud Fleet Management samen wijzen we de weg Het opstellen van budgetten en financiële strategieën. Het monitoren van de financiële prestaties en rapportage van het bedrijf. Zorgen voor naleving van wet- en regelgeving op financieel gebied. Beheer van investeringen en kapitaalstructuur. Identificeren van risico’s en kansen voor economische groei. Margit Andreasen CFO [&hellip;]",
+  "seo": {
+    "title": "Het team achter Jaxycloud Fleet Management - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:26:45",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Het team achter Jaxycloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>samen wijzen we de weg</p>",
+      "bodyText": "samen wijzen we de weg",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Het opstellen van budgetten en financiële strategieën.\n\nHet monitoren van de financiële prestaties en rapportage van het bedrijf.\n\nZorgen voor naleving van wet- en regelgeving op financieel gebied.\n\nBeheer van investeringen en kapitaalstructuur.\n\nIdentificeren van risico's en kansen voor economische groei.</p><p class=\"eael-team-text eael-team-text-overlay\">Het opstellen van budgetten en financiële strategieën.\n\nHet monitoren van de financiële prestaties en rapportage van het bedrijf.\n\nZorgen voor naleving van wet- en regelgeving op financieel gebied.\n\nBeheer van investeringen en kapitaalstructuur.\n\nIdentificeren van risico's en kansen voor economische groei.</p>",
+      "bodyText": "Het opstellen van budgetten en financiële strategieën. Het monitoren van de financiële prestaties en rapportage van het bedrijf. Zorgen voor naleving van wet- en regelgeving op financieel gebied. Beheer van investeringen en kapitaalstructuur. Identificeren van risico's en kansen voor economische groei.Het opstellen van budgetten en financiële strategieën. Het monitoren van de financiële prestaties en rapportage van het bedrijf. Zorgen voor naleving van wet- en regelgeving op financieel gebied. Beheer van investeringen en kapitaalstructuur. Identificeren van risico's en kansen voor economische groei.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken.\n\nDe CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen.\n\n\"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken.\n\nDe CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen.\n\n\"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"</p>",
+      "bodyText": "Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken. De CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen. \"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"Onze mede-eigenaar en CEO is de drijvende kracht achter de visie en strategische richting van ons bedrijf. Met een passie voor innovatie en een scherpe focus op groei leidt hij/zij het bedrijf met integriteit en daadkracht. Als mede-eigenaar brengt de CEO niet alleen managementervaring mee, maar ook een persoonlijke investering in het succes van het bedrijf, wat toewijding en inzet garandeert om onze doelen te bereiken. De CEO is een strategische denker die diepgaand zakelijk inzicht combineert met het vermogen om sterke relaties op te bouwen, zowel intern als extern. Met deze combinatie garanderen we solide leiderschap en een toekomst vol kansen. \"Leiderschap draait om inspireren, samenwerken en samen resultaten creëren – en dat is onze missie, elke dag opnieuw.\"",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken.\n\nLeid en motiveer het verkoopteam om hoge prestaties te garanderen.\n\nMonitor en analyseer verkoopgegevens en -prestaties.\n\nIdentificeer nieuwe marktkansen en breid het klantenbestand uit.\n\nZorg voor sterke relaties met klanten en belangrijke partners.</p><p class=\"eael-team-text eael-team-text-overlay\">Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken.\n\nLeid en motiveer het verkoopteam om hoge prestaties te garanderen.\n\nMonitor en analyseer verkoopgegevens en -prestaties.\n\nIdentificeer nieuwe marktkansen en breid het klantenbestand uit.\n\nZorg voor sterke relaties met klanten en belangrijke partners.</p>",
+      "bodyText": "Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken. Leid en motiveer het verkoopteam om hoge prestaties te garanderen. Monitor en analyseer verkoopgegevens en -prestaties. Identificeer nieuwe marktkansen en breid het klantenbestand uit. Zorg voor sterke relaties met klanten en belangrijke partners.Ontwikkel en implementeer verkoopstrategieën om de bedrijfsdoelen te bereiken. Leid en motiveer het verkoopteam om hoge prestaties te garanderen. Monitor en analyseer verkoopgegevens en -prestaties. Identificeer nieuwe marktkansen en breid het klantenbestand uit. Zorg voor sterke relaties met klanten en belangrijke partners.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en kennis bij om het succes van het bedrijf te waarborgen.\n\nDeel de risico's en voordelen van de financiële prestaties van het bedrijf.\n\nAls bestuurslid:\n\nZorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt.\n\nBewaak het management en de financiële prestaties van het bedrijf.\n\nDraag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf.\n\nZorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en kennis bij om het succes van het bedrijf te waarborgen.\n\nDeel de risico's en voordelen van de financiële prestaties van het bedrijf.\n\nAls bestuurslid:\n\nZorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt.\n\nBewaak het management en de financiële prestaties van het bedrijf.\n\nDraag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf.\n\nZorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.</p>",
+      "bodyText": "Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf. Draag kapitaal en kennis bij om het succes van het bedrijf te waarborgen. Deel de risico's en voordelen van de financiële prestaties van het bedrijf. Als bestuurslid: Zorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt. Bewaak het management en de financiële prestaties van het bedrijf. Draag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf. Zorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.Neem deel aan beslissingen die van invloed zijn op de groei en activiteiten van het bedrijf. Draag kapitaal en kennis bij om het succes van het bedrijf te waarborgen. Deel de risico's en voordelen van de financiële prestaties van het bedrijf. Als bestuurslid: Zorg ervoor dat de strategie van het bedrijf de belangen van de eigenaren ondersteunt. Bewaak het management en de financiële prestaties van het bedrijf. Draag bij aan de ontwikkeling van de visie, missie en langetermijndoelen van het bedrijf. Zorg ervoor dat het bedrijf voldoet aan de relevante wet- en regelgeving.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de groei.\n\nDeel de risico's en voordelen van de prestaties van het bedrijf.\n\nAls adviseur:\n\nGeef strategisch en operationeel advies aan het management.\n\nDraag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing.\n\nSpreek met het management over besluitvorming en langetermijnplanning.\n\nBied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de groei.\n\nDeel de risico's en voordelen van de prestaties van het bedrijf.\n\nAls adviseur:\n\nGeef strategisch en operationeel advies aan het management.\n\nDraag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing.\n\nSpreek met het management over besluitvorming en langetermijnplanning.\n\nBied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.</p>",
+      "bodyText": "Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de groei. Deel de risico's en voordelen van de prestaties van het bedrijf. Als adviseur: Geef strategisch en operationeel advies aan het management. Draag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing. Spreek met het management over besluitvorming en langetermijnplanning. Bied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.Neem deel aan beslissingen die van invloed zijn op de ontwikkeling en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de groei. Deel de risico's en voordelen van de prestaties van het bedrijf. Als adviseur: Geef strategisch en operationeel advies aan het management. Draag expertise bij op specifieke gebieden, zoals verkoop, financiën, bedrijfsvoering of marketing. Spreek met het management over besluitvorming en langetermijnplanning. Bied oplossingen voor uitdagingen en identificeer nieuwe groeimogelijkheden.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen over de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf.\n\nDeel het risico en rendement van het succes van het bedrijf.\n\nAls voorzitter van de raad van bestuur:\n\nLeid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming.\n\nWees een strategische sparringpartner voor het management en de eigenaren.\n\nZorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf.\n\nBewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving.\n\nVertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.</p><p class=\"eael-team-text eael-team-text-overlay\">Neem deel aan beslissingen over de groei en activiteiten van het bedrijf.\n\nDraag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf.\n\nDeel het risico en rendement van het succes van het bedrijf.\n\nAls voorzitter van de raad van bestuur:\n\nLeid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming.\n\nWees een strategische sparringpartner voor het management en de eigenaren.\n\nZorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf.\n\nBewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving.\n\nVertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.</p>",
+      "bodyText": "Neem deel aan beslissingen over de groei en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf. Deel het risico en rendement van het succes van het bedrijf. Als voorzitter van de raad van bestuur: Leid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming. Wees een strategische sparringpartner voor het management en de eigenaren. Zorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf. Bewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving. Vertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.Neem deel aan beslissingen over de groei en activiteiten van het bedrijf. Draag kapitaal en middelen bij ter ondersteuning van de ontwikkeling van het bedrijf. Deel het risico en rendement van het succes van het bedrijf. Als voorzitter van de raad van bestuur: Leid bestuursvergaderingen en zorg voor effectieve discussies en besluitvorming. Wees een strategische sparringpartner voor het management en de eigenaren. Zorg ervoor dat de raad van bestuur zich blijft richten op de langetermijndoelen en -strategieën van het bedrijf. Bewaak het management van het bedrijf en zorg voor naleving van wet- en regelgeving. Vertegenwoordig de raad van bestuur bij andere eigenaren, investeerders en andere belanghebbenden.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1-3.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Operationele controle binnen vlootbeheer\n\nOperationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.</p><p class=\"eael-team-text eael-team-text-overlay\">Operationele controle binnen vlootbeheer\n\nOperationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.</p>",
+      "bodyText": "Operationele controle binnen vlootbeheer Operationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.Operationele controle binnen vlootbeheer Operationele controle binnen een vlootbeheerafdeling speelt een cruciale rol bij het waarborgen van de dagelijkse werking en efficiëntie van het wagenpark van het bedrijf. Deze rol vereist gestructureerd werken, probleemoplossing en voortdurende communicatie met IT-ontwikkelaars en het management om een ​​soepel vlootbeheerplatform te garanderen.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-3-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 44927
+  }
+}

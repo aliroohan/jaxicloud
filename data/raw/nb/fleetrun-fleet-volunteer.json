@@ -1,0 +1,274 @@
+{
+  "id": 3175,
+  "slug": "fleetrun-fleet-volunteer-no",
+  "canonicalSlug": "fleetrun-fleet-volunteer",
+  "locale": "nb",
+  "title": "FLEETRUN FLEET VOLUNTEER – NO",
+  "link": "https://www.jaxicloud.com/nb/fleetrun-fleet-volunteer-no/",
+  "pageKind": "solution",
+  "translations": {
+    "nb": 3175,
+    "da": 2122,
+    "en": 82,
+    "de": 2515,
+    "fr": 2772,
+    "nl": 2978,
+    "sv": 3367,
+    "tr": 3557
+  },
+  "excerpt": "Fleetrun En løsning for administrasjon av flåtevedlikehold Webapplikasjon for sporing av flåtevedlikehold: plan, kontroll og utgiftsregistrering. Vi utviklet Fleetrun for de som ønsker å redusere driftskostnadene, unngå kritiske havarier og redusere tidsbruken på bensinstasjonen. Med denne applikasjonen kan du sjekke alle slags tjenester og utgifter for individuelle reservedeler, kjøretøy og til og med kjørelengde. Fleetrun [&hellip;]",
+  "seo": {
+    "title": "Fleetrun - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-16T14:57:28",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "608dc4b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-608dc4b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Fleetrun",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-1df90b7",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "ca6f26f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ca6f26f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "En løsning for administrasjon av flåtevedlikehold",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "69e3075",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-69e3075",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Webapplikasjon for sporing av flåtevedlikehold: plan, kontroll og utgiftsregistrering. Vi utviklet Fleetrun for de som ønsker å redusere driftskostnadene, unngå kritiske havarier og redusere tidsbruken på bensinstasjonen. Med denne applikasjonen kan du sjekke alle slags tjenester og utgifter for individuelle reservedeler, kjøretøy og til og med kjørelengde. Fleetrun vil vise tjenestene flåten trenger, deres intervaller og kostnader.</p>",
+      "bodyText": "Webapplikasjon for sporing av flåtevedlikehold: plan, kontroll og utgiftsregistrering. Vi utviklet Fleetrun for de som ønsker å redusere driftskostnadene, unngå kritiske havarier og redusere tidsbruken på bensinstasjonen. Med denne applikasjonen kan du sjekke alle slags tjenester og utgifter for individuelle reservedeler, kjøretøy og til og med kjørelengde. Fleetrun vil vise tjenestene flåten trenger, deres intervaller og kostnader.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "59250f8",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-59250f8",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_0654fc7a119d4bf5b21116938f54475amv2.gif",
+          "alt": "",
+          "width": 720,
+          "height": 509
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bfc3178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "59fb7d2",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-59fb7d2",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hvordan flåtevedlikeholdsstyringssystemet fungerer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43b8bcb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "42ce20b",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42ce20b",
+        "elementor-widget__width-initial",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Lag en liste over enheter",
+        "Angi serviceintervall",
+        "verk og reservedeler",
+        "Legg til oppgaver: verksted og reservedeler"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-43b8bcb",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 6,
+    "sectionCount": 3,
+    "htmlBytes": 7413
+  }
+}

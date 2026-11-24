@@ -1,0 +1,762 @@
+{
+  "id": 3395,
+  "slug": "leasing-control-sv",
+  "canonicalSlug": "leasing-control",
+  "locale": "sv",
+  "title": "Leasing control – SV",
+  "link": "https://www.jaxicloud.com/sv/leasing-control-sv/",
+  "pageKind": "solution",
+  "translations": {
+    "sv": 3395,
+    "da": 2150,
+    "en": 35,
+    "de": 2549,
+    "fr": 2801,
+    "nl": 3003,
+    "nb": 3202,
+    "tr": 3583
+  },
+  "excerpt": "Leasing-biluthyrning GPS-spårningslösning för billeasing- och bilfinansieringsföretag En pålitlig programvara för fordonsleasing för att lokalisera och återkräva Bilfinansiering, billån och billeasing är en attraktiv, men mycket riskabel marknad. Bilstölder, sena betalningar, betalningsförsummelser och dyra återhämtningsförfaranden avskräcker bilhandlare och finansbolag från att växa eller bibehålla status quo. Det gör även de opålitliga GPS-spårningsverktygen som helt enkelt inte [&hellip;]",
+  "seo": {
+    "title": "Leasing kontroll - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T00:50:48",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "398460b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-398460b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Leasing-biluthyrning",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-367d065",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "8bce31b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8bce31b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "GPS-spårningslösning för billeasing- och bilfinansieringsföretag",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "726e73d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-726e73d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>En pålitlig programvara för fordonsleasing för att lokalisera och återkräva</p><p>Bilfinansiering, billån och billeasing är en attraktiv, men mycket riskabel marknad. Bilstölder, sena betalningar, betalningsförsummelser och dyra återhämtningsförfaranden avskräcker bilhandlare och finansbolag från att växa eller bibehålla status quo. Det gör även de opålitliga GPS-spårningsverktygen som helt enkelt inte hjälper.</p><p>Det är här du förändrar landskapet med LeaseControl, en programvara för fordonsleasing. Introducera dess telematik- och IoT-funktioner för att skydda finansierade fordon, skydda återförsäljarnas vinster och ge dem verkligt affärsvärde.</p>",
+      "bodyText": "En pålitlig programvara för fordonsleasing för att lokalisera och återkrävaBilfinansiering, billån och billeasing är en attraktiv, men mycket riskabel marknad. Bilstölder, sena betalningar, betalningsförsummelser och dyra återhämtningsförfaranden avskräcker bilhandlare och finansbolag från att växa eller bibehålla status quo. Det gör även de opålitliga GPS-spårningsverktygen som helt enkelt inte hjälper.Det är här du förändrar landskapet med LeaseControl, en programvara för fordonsleasing. Introducera dess telematik- och IoT-funktioner för att skydda finansierade fordon, skydda återförsäljarnas vinster och ge dem verkligt affärsvärde.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "987ae71",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-987ae71",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/10/70a4f5_8d069b0b98504f228fa09a4258468eddmv2-1.gif",
+          "alt": "",
+          "width": 700,
+          "height": 494
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-67d149b",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "9bd7a6b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9bd7a6b",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Varför välja Jaxicloud flotthantering",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "b3a9548",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b3a9548",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt</p>",
+      "bodyText": "Se vad Jaxicloud gör för att du ska kunna hantera ditt företag på enklast möjliga sätt",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "0fd41ab",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0fd41ab",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Marknadsexpansionssatsning in i nya nischer",
+      "bodyHtml": "<p>Integrationsfunktioner<br>Enkel integrering med andra system med hjälp av SDK</p><p>För tjänsteleverantörer:<br>Beprövad teknik<br>Baserad på pålitlig JaxiCloud-plattform.</p><p>Erfaren leverantör:<br>Backad av två decenniers erfarenhet inom telematik och IoT.</p><p>Expertgemenskap<br>Tillgång till en stor gemenskap av telematik- och IoT-experter.</p><p>FLOTTSPÅRNINGENS TIDSPÄRNING – NJUT AV DET ANVÄNDARVÄNLIGT</p>",
+      "bodyText": "IntegrationsfunktionerEnkel integrering med andra system med hjälp av SDKFör tjänsteleverantörer:Beprövad teknikBaserad på pålitlig JaxiCloud-plattform.Erfaren leverantör:Backad av två decenniers erfarenhet inom telematik och IoT.ExpertgemenskapTillgång till en stor gemenskap av telematik- och IoT-experter.FLOTTSPÅRNINGENS TIDSPÄRNING – NJUT AV DET ANVÄNDARVÄNLIGT",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "14362b3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-14362b3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Åldern av flottspårning, njut av det",
+      "bodyHtml": "<p>Marknadsdynamik:<br>Tillväxt på billånemarknaden trots utmaningar.</p><p>JaxiClouds erbjudande:<br>En GPS-spårningslösning utformad för automatisk finansiering.</p><p>Nödvändigheter:<br>Verktyg för att spåra och återställa fordonsposition.</p><p>Branschrisker och lösningar:<br>Att hantera utmaningar som billångivare står inför med JaxiCloud.</p><p>Upptäcka risker:<br>Använda geofences och aviseringar för att förutse potentiella problem.</p><p>Snabba svar:<br>Fjärrinställning av motorstopp. Datainsikter: Få tillgång till detaljerad data om fordonsaktivitet och spår.</p>",
+      "bodyText": "Marknadsdynamik:Tillväxt på billånemarknaden trots utmaningar.JaxiClouds erbjudande:En GPS-spårningslösning utformad för automatisk finansiering.Nödvändigheter:Verktyg för att spåra och återställa fordonsposition.Branschrisker och lösningar:Att hantera utmaningar som billångivare står inför med JaxiCloud.Upptäcka risker:Använda geofences och aviseringar för att förutse potentiella problem.Snabba svar:Fjärrinställning av motorstopp. Datainsikter: Få tillgång till detaljerad data om fordonsaktivitet och spår.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "f51d805",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f51d805",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "User-friendly",
+      "bodyHtml": "<p>Fjärrkontroll:<br>Starta eller stoppa ett fordons motor på distans baserat på betalningsstatus.</p><p>Anpassade geofences:<br>Konfigurera geografiska gränser och få aviseringar om överträdelser.</p><p>Anslutningsövervakning:<br>Få aviseringar om anslutningsförlust.</p><p>Aviseringsflexibilitet:<br>Välj aviseringsmetoder.</p>",
+      "bodyText": "Fjärrkontroll:Starta eller stoppa ett fordons motor på distans baserat på betalningsstatus.Anpassade geofences:Konfigurera geografiska gränser och få aviseringar om överträdelser.Anslutningsövervakning:Få aviseringar om anslutningsförlust.Aviseringsflexibilitet:Välj aviseringsmetoder.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-71dbeb8",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "c0cc966",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0cc966",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Huvudfunktionerna i Jaxiclouds flotthantering - Leasingkontroll",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "eb7b72e",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb7b72e",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Återlämning av fordon",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Lokalisera fordon och avaktivera motorer på distans</p>",
+      "bodyText": "Lokalisera fordon och avaktivera motorer på distans",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "09b9ba9",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-09b9ba9",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Stressfri återhämtning",
+      "bodyHtml": "<p>Förhindra stöld och obehörig förflyttning av finansierade fordon.</p>",
+      "bodyText": "Förhindra stöld och obehörig förflyttning av finansierade fordon.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "965b3e3",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-965b3e3",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Skräddarsydd lösning",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Speciellt utformad för hantering av fordonsleasing.</p>",
+      "bodyText": "Speciellt utformad för hantering av fordonsleasing.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "c21b806",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c21b806",
+        "eael-infobox-content-align--center",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Snabb roi",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Kraftfulla verktyg som skyddar bilhandlares investeringar från dag ett.</p>",
+      "bodyText": "Kraftfulla verktyg som skyddar bilhandlares investeringar från dag ett.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "4604703",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4604703",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>En pålitlig programvara för fordonsleasing för lokalisering och återvinning|</p><p>I en värld där fordonsleasing och bilfinansiering har blivit både en välsignelse och en utmaning, står JaxiCloud som en ledstjärna för säkerhet och tillförlitlighet. Denna banbrytande lösning för fordonsflottspårning är skräddarsydd för leasing- och bilfinansieringsföretag och säkerställer att tillgångar alltid finns inom räckhåll. Med avancerad telematik, IoT-funktioner och spårningsfunktioner i realtid skyddar JaxiCloud inte bara finansierade fordon, utan ger även återförsäljare möjlighet att minska risker, öka vinsterna och leverera oöverträffat värde. Kliv in i framtiden för fordonsleasinghantering med JaxiCloud.</p><p>Säkra högriskkontrakt</p><p>Utmaningar: Stulna fordon och sena betalningar på marknaden för begagnade och subprime-billån.</p><p>Lösning: Jaxiclouds verktyg för att spåra, lokalisera och fjärrstyra fordon.</p><p>Resultat: Minskade risker och minimerade kostnader i samband med fordonsåtervinning.</p>",
+      "bodyText": "En pålitlig programvara för fordonsleasing för lokalisering och återvinning|I en värld där fordonsleasing och bilfinansiering har blivit både en välsignelse och en utmaning, står JaxiCloud som en ledstjärna för säkerhet och tillförlitlighet. Denna banbrytande lösning för fordonsflottspårning är skräddarsydd för leasing- och bilfinansieringsföretag och säkerställer att tillgångar alltid finns inom räckhåll. Med avancerad telematik, IoT-funktioner och spårningsfunktioner i realtid skyddar JaxiCloud inte bara finansierade fordon, utan ger även återförsäljare möjlighet att minska risker, öka vinsterna och leverera oöverträffat värde. Kliv in i framtiden för fordonsleasinghantering med JaxiCloud.Säkra högriskkontraktUtmaningar: Stulna fordon och sena betalningar på marknaden för begagnade och subprime-billån.Lösning: Jaxiclouds verktyg för att spåra, lokalisera och fjärrstyra fordon.Resultat: Minskade risker och minimerade kostnader i samband med fordonsåtervinning.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "a27b271",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a27b271",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Fjärrstyrd murbrukskontroll",
+      "bodyHtml": "<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\"><span class=\"Y2IQFc\">Blockera eller avblockera motorer externt.</span></p>",
+      "bodyText": "Blockera eller avblockera motorer externt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "aad53e6",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-aad53e6",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Detaljerade rapporter",
+      "bodyHtml": "<p>OMFATTANDE data om fordonsaktiviteter.</p>",
+      "bodyText": "OMFATTANDE data om fordonsaktiviteter.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 3,
+      "elementorId": "8424612",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8424612",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Spår av fordon",
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Få åtkomst till fordonets körhistorik i upp till 90 dagar.</p>",
+      "bodyText": "Få åtkomst till fordonets körhistorik i upp till 90 dagar.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 2,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 3,
+      "elementorId": "5f6b3ea",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5f6b3ea",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Snabba utbetalningar",
+      "bodyHtml": "<p>Effektiva kontrollverktyg gör bilhandlare lönsamma från dag ett genom att minska risken för att förlora ett fordon eller försenad betalning.</p>",
+      "bodyText": "Effektiva kontrollverktyg gör bilhandlare lönsamma från dag ett genom att minska risken för att förlora ett fordon eller försenad betalning.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 4,
+        "columnIndex": 3,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-731ca56",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 19,
+    "sectionCount": 4,
+    "htmlBytes": 23675
+  }
+}

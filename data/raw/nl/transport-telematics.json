@@ -1,0 +1,1114 @@
+{
+  "id": 3073,
+  "slug": "transport-telematics-hl",
+  "canonicalSlug": "transport-telematics",
+  "locale": "nl",
+  "title": "Transport & telematics – HL",
+  "link": "https://www.jaxicloud.com/nl/transport-telematics-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 3073,
+    "da": 2225,
+    "en": 1159,
+    "de": 2625,
+    "fr": 2873,
+    "nb": 3272,
+    "sv": 3466,
+    "tr": 3655
+  },
+  "excerpt": "Transport en telematica Temperatuurbewaking op afstand Bewaak en beveilig het transport van temperatuurgevoelige goederen met draadloze Bluetooth-temperatuursensoren. Om de traceerbaarheid van de koelketen betrouwbaarder te maken en naleving van de geldende regelgeving te garanderen, is het noodzakelijk dat transporteurs zich uitrusten met een temperatuurbeheeroplossing. Ontdek hoe en waarom de Bluetooth-temperatuursensoren van Jaxicloud Fleet Management Innovations [&hellip;]",
+  "seo": {
+    "title": "Transport &amp; telematics - HL - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-08T13:16:11",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "7a92845",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7a92845",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Transport en telematica",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b343998",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "21aae16",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-21aae16",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Temperatuurbewaking op afstand",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2cc7de5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "697e6fe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-697e6fe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bewaak en beveilig het transport van temperatuurgevoelige goederen met draadloze Bluetooth-temperatuursensoren. Om de traceerbaarheid van de koelketen betrouwbaarder te maken en naleving van de geldende regelgeving te garanderen, is het noodzakelijk dat transporteurs zich uitrusten met een temperatuurbeheeroplossing. Ontdek hoe en waarom de Bluetooth-temperatuursensoren van Jaxicloud Fleet Management Innovations aan deze uitdagingen voldoen.</p>",
+      "bodyText": "Bewaak en beveilig het transport van temperatuurgevoelige goederen met draadloze Bluetooth-temperatuursensoren. Om de traceerbaarheid van de koelketen betrouwbaarder te maken en naleving van de geldende regelgeving te garanderen, is het noodzakelijk dat transporteurs zich uitrusten met een temperatuurbeheeroplossing. Ontdek hoe en waarom de Bluetooth-temperatuursensoren van Jaxicloud Fleet Management Innovations aan deze uitdagingen voldoen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2cc7de5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "4784199",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4784199",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "https://www.jaxicloud.com/en/temperature-monitoring-work/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2cc7de5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "addee3e",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-addee3e",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_20f593b1eb3f4a97b119d8ec60a519f2mv2-ezgif.com-avif-to-jpg-converter-1.jpg",
+          "alt": "",
+          "width": 443,
+          "height": 297
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-2cc7de5",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "a60dd37",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a60dd37",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5406d61d53d54a669217d1732d01876amv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 384,
+          "height": 245
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf4d89d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "3a7f345",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3a7f345",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Registratie van het openen van de vrachtwagendeur",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf4d89d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "3622494",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3622494",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveilig het transport van goederen met de detectie van het openen van vrachtwagendeuren. Om diefstal en agressie te bestrijden, wordt de chauffeur dankzij de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovation in realtime op zijn smartphone gewaarschuwd wanneer de deur wordt geopend in een niet-geautoriseerde zone. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations helpen het transport te beveiligen tegen diefstal.</p>",
+      "bodyText": "Beveilig het transport van goederen met de detectie van het openen van vrachtwagendeuren. Om diefstal en agressie te bestrijden, wordt de chauffeur dankzij de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovation in realtime op zijn smartphone gewaarschuwd wanneer de deur wordt geopend in een niet-geautoriseerde zone. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations helpen het transport te beveiligen tegen diefstal.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf4d89d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "55112c1",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-55112c1",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "https://www.jaxicloud.com/en/registration-of-truck-door-opening/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bf4d89d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "8593fc6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8593fc6",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Geolocatie van vrachtwagens en identificatie van opleggers",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bdda294",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "ab0d5e4",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ab0d5e4",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Optimaliseer en beveilig het aan- en afkoppelen van opleggers met automatische identificatie. Door opleggers uit te rusten met identificatiebakens, kunt u de inventarisatie van uw wagenpark automatiseren en tijd besparen voor operators.</p><p>Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations helpen bij het optimaliseren van wagenparkbeheer.</p>",
+      "bodyText": "Optimaliseer en beveilig het aan- en afkoppelen van opleggers met automatische identificatie. Door opleggers uit te rusten met identificatiebakens, kunt u de inventarisatie van uw wagenpark automatiseren en tijd besparen voor operators.Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations helpen bij het optimaliseren van wagenparkbeheer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bdda294",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "b870ef8",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b870ef8",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bdda294",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "6fa7001",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6fa7001",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9b94e58c5f384ff58b9fa24a1aea6905mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 483,
+          "height": 323
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-bdda294",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 4,
+      "elementorId": "bc9e3f9",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bc9e3f9",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_80ebf413fd864e2a922044d7eda891a4mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 435,
+          "height": 292
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-138ef8d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 4,
+      "elementorId": "9d530e2",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9d530e2",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Detectie van het openen van de zijpanelen van de vrachtwagen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-138ef8d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 4,
+      "elementorId": "eed4ca8",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eed4ca8",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.</p>",
+      "bodyText": "Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-138ef8d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 4,
+      "elementorId": "c4f9a31",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c4f9a31",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "https://www.jaxicloud.com/en/opening-detection-of-truck-side-panels/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-138ef8d",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 5,
+      "elementorId": "a707238",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a707238",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Conducts identification",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9ef8e2c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 5,
+      "elementorId": "a9924fe",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9924fe",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Optimaliseer het beheer van het wagenpark en waarborg de veiligheid van uw medewerkers met bestuurders- en passagiersidentificatie. Door elke bestuurder uit te rusten met een Bluetooth-baken, kunt u zien welke persoon welk voertuig gebruikt en tegelijkertijd voldoen aan de AVG-regelgeving.</p><p>Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations bijdragen aan het optimaliseren van B2B-wagenparkbeheer.</p>",
+      "bodyText": "Optimaliseer het beheer van het wagenpark en waarborg de veiligheid van uw medewerkers met bestuurders- en passagiersidentificatie. Door elke bestuurder uit te rusten met een Bluetooth-baken, kunt u zien welke persoon welk voertuig gebruikt en tegelijkertijd voldoen aan de AVG-regelgeving.Ontdek hoe en waarom de Bluetooth-bakens van Jaxicloud Fleet Management Innovations bijdragen aan het optimaliseren van B2B-wagenparkbeheer.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9ef8e2c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "3f89b58",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3f89b58",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_103574a5126f4c4581d5a04d384cd3d0mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 428,
+          "height": 286
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-9ef8e2c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 6,
+      "elementorId": "c9753c1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c9753c1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_210e346510264d1f9a76356d80973089mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 458,
+          "height": 305
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1c23108",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 6,
+      "elementorId": "1e5a5b7",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1e5a5b7",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Geolocatie van containerwagens",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1c23108",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 6,
+      "elementorId": "528dcc4",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-528dcc4",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.</p>",
+      "bodyText": "Beveiligde hydraulische dumpers met detectie van het openen van de zijpanelen. Om te voldoen aan de huidige regelgeving, moet u uw vrachtwagens uitrusten met draadloze magneetsensoren. Bij ongeoorloofd openen wordt de chauffeur in realtime gewaarschuwd. Ontdek hoe en waarom de magnetische Bluetooth-sensoren van Jaxicloud Fleet Management Innovations voldoen aan de regelgeving voor transporteurs.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1c23108",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 7,
+      "elementorId": "80642e5",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-80642e5",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Gezondheidszorg Optimaliseer het beheer van ziekenhuisapparatuur en zorg voor de veiligheid van ziekenhuispersoneel met IoT-beacons",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1d3367c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 7,
+      "elementorId": "1b39a85",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1b39a85",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Vereenvoudig en versnel het zoeken naar medische apparatuur met indoor geolocatie. Door de inventarisatie van de apparatuur te automatiseren, optimaliseert u het beheer ervan en beperkt u de tijd en kosten die gepaard gaan met de aanschaf van verloren apparatuur.</p><p>Ontdek hoe en waarom de locatiebeacons van Jaxicloud Innovation de digitalisering van het beheer van medische apparatuur mogelijk maken.</p>",
+      "bodyText": "Vereenvoudig en versnel het zoeken naar medische apparatuur met indoor geolocatie. Door de inventarisatie van de apparatuur te automatiseren, optimaliseert u het beheer ervan en beperkt u de tijd en kosten die gepaard gaan met de aanschaf van verloren apparatuur.Ontdek hoe en waarom de locatiebeacons van Jaxicloud Innovation de digitalisering van het beheer van medische apparatuur mogelijk maken.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1d3367c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 7,
+      "elementorId": "4b0c290",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4b0c290",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7d0ff56fbb4a458990a938171680b1e9mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 523,
+          "height": 296
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-1d3367c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 26,
+    "sectionCount": 8,
+    "htmlBytes": 29233
+  }
+}

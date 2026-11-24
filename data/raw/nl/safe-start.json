@@ -1,0 +1,903 @@
+{
+  "id": 5866,
+  "slug": "safe-start-hl",
+  "canonicalSlug": "safe-start",
+  "locale": "nl",
+  "title": "Safe start – HL",
+  "link": "https://www.jaxicloud.com/nl/safe-start-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 5866,
+    "en": 5846,
+    "da": 5812,
+    "de": 5851,
+    "fr": 5861,
+    "nb": 5871,
+    "sv": 5877,
+    "tr": 5882
+  },
+  "excerpt": "Safe start Digitaal voertuiginspectie- en vlootveiligheidsplatform Safe Start is een moderne digitale oplossing voor voertuiginspecties, ontworpen om de veiligheid van wagenparken, naleving van regelgeving en operationele transparantie te verbeteren.Het platform bestaat uit een mobiele applicatie voor bestuurders en een webapplicatie voor wagenparkbeheerders en eigenaren, die naadloos samenwerken. Slimme voertuiginspecties – altijd en overal Met de [&hellip;]",
+  "seo": {
+    "title": "Safe start - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-21T22:43:46",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "0d48661",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0d48661",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Safe start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-56b5ff1",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "f03419f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f03419f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Digitaal voertuiginspectie- en vlootveiligheidsplatform",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "06820c7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-06820c7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_8 wixui-rich-text__text\">Safe Start is een moderne digitale oplossing voor voertuiginspecties, ontworpen om de veiligheid van wagenparken, naleving van regelgeving en operationele transparantie te verbeteren.<br data-start=\"9411\" data-end=\"9414\">Het platform bestaat uit een mobiele applicatie voor bestuurders en een webapplicatie voor wagenparkbeheerders en eigenaren, die naadloos samenwerken.</p>",
+      "bodyText": "Safe Start is een moderne digitale oplossing voor voertuiginspecties, ontworpen om de veiligheid van wagenparken, naleving van regelgeving en operationele transparantie te verbeteren.Het platform bestaat uit een mobiele applicatie voor bestuurders en een webapplicatie voor wagenparkbeheerders en eigenaren, die naadloos samenwerken.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "0ed1f19",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0ed1f19",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.13.36-881x1024.png",
+          "alt": "",
+          "width": 800,
+          "height": 930
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c1858cb",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "041f024",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-041f024",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1024x482.png",
+          "alt": "",
+          "width": 800,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "8a1e6bb",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8a1e6bb",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Slimme voertuiginspecties – altijd en overal",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "dc4d2d3",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc4d2d3",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"9566\" data-end=\"9884\">Met de Safe Start mobiele app kunnen bestuurders snel en eenvoudig voertuiginspecties uitvoeren via hun smartphone of tablet.<br data-start=\"9742\" data-end=\"9745\">Inspectiechecklists zijn volledig configureerbaar en kunnen worden aangepast aan klantspecifieke eisen, voertuigtypen of wettelijke normen.</p><p data-start=\"9886\" data-end=\"10080\">Bestuurders loggen eenvoudig in, selecteren een voertuig en voltooien de inspectie door vooraf gedefinieerde vragen te beantwoorden, opmerkingen toe te voegen en problemen in realtime te melden.</p>",
+      "bodyText": "Met de Safe Start mobiele app kunnen bestuurders snel en eenvoudig voertuiginspecties uitvoeren via hun smartphone of tablet.Inspectiechecklists zijn volledig configureerbaar en kunnen worden aangepast aan klantspecifieke eisen, voertuigtypen of wettelijke normen.Bestuurders loggen eenvoudig in, selecteren een voertuig en voltooien de inspectie door vooraf gedefinieerde vragen te beantwoorden, opmerkingen toe te voegen en problemen in realtime te melden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-99b974c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "db0b2a3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-db0b2a3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.14.07.png",
+          "alt": "",
+          "width": 1066,
+          "height": 1172
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 3,
+      "elementorId": "3b79b10",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3b79b10",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Volledig aanpasbare inspectiechecklists",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "a49203f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a49203f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"10082\" data-end=\"10334\">Elke vloot is anders. Safe Start maakt het mogelijk om inspectievragen en workflows per klant aan te passen, zodat inspecties aansluiten bij interne procedures, wettelijke vereisten of industriestandaarden.</p><p data-start=\"10336\" data-end=\"10386\">Deze flexibiliteit maakt Safe Start geschikt voor:</p><p data-start=\"10390\" data-end=\"10428\">Transport- en logistieke wagenparken</p><p data-start=\"10431\" data-end=\"10456\">Bouw en zwaar materieel</p><p data-start=\"10459\" data-end=\"10496\">Servicevoertuigen en bedrijfswagens</p><p data-start=\"10499\" data-end=\"10557\">Aanhangwagens, vrachtwagens en gespecialiseerd materieel</p>",
+      "bodyText": "Elke vloot is anders. Safe Start maakt het mogelijk om inspectievragen en workflows per klant aan te passen, zodat inspecties aansluiten bij interne procedures, wettelijke vereisten of industriestandaarden.Deze flexibiliteit maakt Safe Start geschikt voor:Transport- en logistieke wagenparkenBouw en zwaar materieelServicevoertuigen en bedrijfswagensAanhangwagens, vrachtwagens en gespecialiseerd materieel",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Transport- en logistieke wagenparken",
+        "Bouw en zwaar materieel",
+        "Servicevoertuigen en bedrijfswagens",
+        "Aanhangwagens, vrachtwagens en gespecialiseerd materieel"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "82e9ec3",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-82e9ec3",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Gecentraliseerd webdashboard voor wagenparkbeheer",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fc4808b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fc4808b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"10559\" data-end=\"10727\">De Safe Start webapplicatie biedt wagenparkeigenaren en -beheerders volledig inzicht in alle voertuiginspecties.</p><p data-start=\"10729\" data-end=\"10754\">Via het dashboard kunt u:</p><p data-start=\"10758\" data-end=\"10801\">Voltooide inspecties in realtime bekijken</p><p data-start=\"10804\" data-end=\"10852\">De voertuigconditie en gemelde defecten volgen</p><p data-start=\"10855\" data-end=\"10916\">Inspectiegeschiedenis per voertuig of bestuurder analyseren</p><p data-start=\"10919\" data-end=\"10965\">Naleving en veiligheids prestaties monitoren</p><p data-start=\"10967\" data-end=\"11085\">Alle inspectiegegevens worden veilig opgeslagen en overzichtelijk georganiseerd voor eenvoudige toegang en rapportage.</p>",
+      "bodyText": "De Safe Start webapplicatie biedt wagenparkeigenaren en -beheerders volledig inzicht in alle voertuiginspecties.Via het dashboard kunt u:Voltooide inspecties in realtime bekijkenDe voertuigconditie en gemelde defecten volgenInspectiegeschiedenis per voertuig of bestuurder analyserenNaleving en veiligheids prestaties monitorenAlle inspectiegegevens worden veilig opgeslagen en overzichtelijk georganiseerd voor eenvoudige toegang en rapportage.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Voltooide inspecties in realtime bekijken",
+        "De voertuigconditie en gemelde defecten volgen",
+        "Inspectiegeschiedenis per voertuig of bestuurder analyseren",
+        "Naleving en veiligheids prestaties monitoren"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 3,
+      "elementorId": "a996c0d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a996c0d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.17-1-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1205
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 3,
+      "elementorId": "f745bed",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f745bed",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.26-scaled.png",
+          "alt": "",
+          "width": 2560,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 3,
+      "elementorId": "e03978d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e03978d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-00.16.50.png",
+          "alt": "",
+          "width": 1186,
+          "height": 1418
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 3,
+      "elementorId": "93d1efd",
+      "widgetType": "eael-dual-color-header.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-93d1efd",
+        "eael-dual-header-content-align-left",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-dual-color-header"
+      ],
+      "heading": "Professionele rapporten en PDF-export",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 3,
+      "elementorId": "a29ea15",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a29ea15",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"11087\" data-end=\"11260\">Alle voertuiginspectierapporten kunnen direct vanuit de webapplicatie naar PDF worden geëxporteerd.<br data-start=\"11230\" data-end=\"11233\">Dit maakt het eenvoudig om:</p><p data-start=\"11264\" data-end=\"11310\">Rapporten te delen met management of klanten</p><p data-start=\"11313\" data-end=\"11363\">Documentatie op te slaan voor audits en naleving</p><p data-start=\"11366\" data-end=\"11431\">Een duidelijke inspectiegeschiedenis per voertuig bij te houden</p><p data-start=\"11433\" data-end=\"11516\">De rapporten zijn gestructureerd, goed leesbaar en geschikt voor officieel gebruik.</p>",
+      "bodyText": "Alle voertuiginspectierapporten kunnen direct vanuit de webapplicatie naar PDF worden geëxporteerd.Dit maakt het eenvoudig om:Rapporten te delen met management of klantenDocumentatie op te slaan voor audits en nalevingEen duidelijke inspectiegeschiedenis per voertuig bij te houdenDe rapporten zijn gestructureerd, goed leesbaar en geschikt voor officieel gebruik.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Rapporten te delen met management of klanten",
+        "Documentatie op te slaan voor audits en naleving",
+        "Een duidelijke inspectiegeschiedenis per voertuig bij te houden"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-51ab186",
+          "elementor-section-full_width",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": true,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 4,
+      "elementorId": "51eca48",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-51eca48",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Belangrijkste voordelen van Safe Start",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 4,
+      "elementorId": "bd4dd95",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-bd4dd95",
+        "elementor-widget__width-initial",
+        "elementor-align-start",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Digitale voertuiginspecties via mobiele app",
+        "Configureerbare inspectievragen per klant",
+        "Realtime gegevens beschikbaar in het webdashboard",
+        "Gecentraliseerde inspectiegeschiedenis van het wagenpark",
+        "PDF-export van alle inspectierapporten",
+        "Verbeterde veiligheid, naleving en transparantie"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-4596964",
+          "e-con-full",
+          "e-flex",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 5,
+      "elementorId": "e8b922c",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e8b922c",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ontwikkeld voor moderne wagenparken",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 5,
+      "elementorId": "66cc38a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-66cc38a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p data-start=\"11868\" data-end=\"12138\">Safe Start vervangt papieren checklists en handmatige processen door een betrouwbare digitale workflow, waardoor wagenparken risico’s verminderen, verantwoordelijkheid vergroten en voertuigen veiliger en efficiënter onderhouden.</p>",
+      "bodyText": "Safe Start vervangt papieren checklists en handmatige processen door een betrouwbare digitale workflow, waardoor wagenparken risico’s verminderen, verantwoordelijkheid vergroten en voertuigen veiliger en efficiënter onderhouden.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-557bd9e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 21,
+    "sectionCount": 6,
+    "htmlBytes": 32639
+  }
+}

@@ -7,10 +7,8 @@ config();
 import bcrypt from "bcryptjs";
 import {
   AdminUser,
-  Bundle,
   Category,
   Product,
-  Solution,
 } from "../lib/models";
 
 const MONGODB_URI =
@@ -24,8 +22,6 @@ async function seed() {
     AdminUser.deleteMany({}),
     Category.deleteMany({}),
     Product.deleteMany({}),
-    Bundle.deleteMany({}),
-    Solution.deleteMany({}),
   ]);
 
   const email = process.env.ADMIN_EMAIL || "admin@jaxicloud.com";
@@ -63,39 +59,6 @@ async function seed() {
       slug: "sensors",
       description: "ADAS, DMS, and IoT sensors for safety and compliance.",
       icon: "activity",
-    },
-  ]);
-
-  const [transit, logistics, school] = await Solution.insertMany([
-    {
-      name: "Public Transit",
-      slug: "public-transit",
-      description:
-        "Passenger safety, APC counting, and operations visibility for buses and rail.",
-      productIds: [],
-      metaTitle: "Public Transit Fleet Solutions | Jaxicloud",
-      metaDescription:
-        "Integrated cameras, trackers, and sensors for public transit fleets.",
-    },
-    {
-      name: "Logistics & Freight",
-      slug: "logistics-freight",
-      description:
-        "Route visibility, cargo security, and driver coaching for freight fleets.",
-      productIds: [],
-      metaTitle: "Logistics Fleet Solutions | Jaxicloud",
-      metaDescription:
-        "End-to-end hardware kits for logistics and freight operators.",
-    },
-    {
-      name: "School Transport",
-      slug: "school-transport",
-      description:
-        "Student safety, stop alerts, and cabin monitoring for school buses.",
-      productIds: [],
-      metaTitle: "School Transport Solutions | Jaxicloud",
-      metaDescription:
-        "Safety-first solutions for school and student transport fleets.",
     },
   ]);
 
@@ -152,7 +115,6 @@ async function seed() {
       metaTitle: "AI Dash Camera Pro | Jaxicloud Fleet",
       metaDescription:
         "Dual-channel AI dash camera with DMS and ADAS for commercial fleets.",
-      solutionIds: [transit._id, logistics._id],
     },
     {
       name: "Fleet GPS Tracker X1",
@@ -187,7 +149,6 @@ async function seed() {
       status: "published",
       metaTitle: "Fleet GPS Tracker X1 | Jaxicloud Fleet",
       metaDescription: "Reliable GNSS tracker with geofencing for fleet assets.",
-      solutionIds: [logistics._id, school._id],
     },
     {
       name: "Rugged Driver Tablet 10",
@@ -222,7 +183,6 @@ async function seed() {
       status: "published",
       metaTitle: "Rugged Driver Tablet 10 | Jaxicloud Fleet",
       metaDescription: "Rugged Android tablet for drivers and field ops.",
-      solutionIds: [logistics._id],
     },
     {
       name: "ADAS Forward Sensor Kit",
@@ -257,7 +217,6 @@ async function seed() {
       status: "published",
       metaTitle: "ADAS Forward Sensor Kit | Jaxicloud Fleet",
       metaDescription: "Forward ADAS sensing kit for fleet safety programs.",
-      solutionIds: [transit._id, school._id],
     },
     {
       name: "Cabin DMS Module",
@@ -292,7 +251,6 @@ async function seed() {
       status: "published",
       metaTitle: "Cabin DMS Module | Jaxicloud Fleet",
       metaDescription: "Driver monitoring module for fatigue and distraction.",
-      solutionIds: [transit._id, logistics._id, school._id],
     },
     {
       name: "MDVR 4-Channel Hub",
@@ -327,79 +285,10 @@ async function seed() {
       status: "published",
       metaTitle: "MDVR 4-Channel Hub | Jaxicloud Fleet",
       metaDescription: "4-channel MDVR hub for transit and coach fleets.",
-      solutionIds: [transit._id, school._id],
     },
   ]);
 
-  const productBySlug = Object.fromEntries(
-    products.map((p) => [p.slug, p]),
-  );
-
-  await Solution.findByIdAndUpdate(transit._id, {
-    productIds: [
-      productBySlug["ai-dash-camera-pro"]._id,
-      productBySlug["adas-forward-sensor-kit"]._id,
-      productBySlug["mdvr-4-channel-hub"]._id,
-      productBySlug["cabin-dms-module"]._id,
-    ],
-  });
-  await Solution.findByIdAndUpdate(logistics._id, {
-    productIds: [
-      productBySlug["ai-dash-camera-pro"]._id,
-      productBySlug["fleet-gps-tracker-x1"]._id,
-      productBySlug["rugged-driver-tablet-10"]._id,
-      productBySlug["cabin-dms-module"]._id,
-    ],
-  });
-  await Solution.findByIdAndUpdate(school._id, {
-    productIds: [
-      productBySlug["fleet-gps-tracker-x1"]._id,
-      productBySlug["adas-forward-sensor-kit"]._id,
-      productBySlug["mdvr-4-channel-hub"]._id,
-      productBySlug["cabin-dms-module"]._id,
-    ],
-  });
-
-  await Bundle.insertMany([
-    {
-      name: "Transit Safety Starter Kit",
-      slug: "transit-safety-starter-kit",
-      description:
-        "A ready-to-deploy kit combining MDVR, AI dash camera, and DMS for public transit fleets.",
-      images: [placeholder("Transit Safety Starter Kit")],
-      productIds: [
-        productBySlug["mdvr-4-channel-hub"]._id,
-        productBySlug["ai-dash-camera-pro"]._id,
-        productBySlug["cabin-dms-module"]._id,
-      ],
-      price: "Contact for pricing",
-      status: "published",
-      metaTitle: "Transit Safety Starter Kit | Jaxicloud",
-      metaDescription:
-        "Bundle of MDVR, AI camera, and DMS for transit operators.",
-    },
-    {
-      name: "Logistics Visibility Bundle",
-      slug: "logistics-visibility-bundle",
-      description:
-        "Tracker, rugged tablet, and AI camera package for freight visibility and coaching.",
-      images: [placeholder("Logistics Visibility Bundle")],
-      productIds: [
-        productBySlug["fleet-gps-tracker-x1"]._id,
-        productBySlug["rugged-driver-tablet-10"]._id,
-        productBySlug["ai-dash-camera-pro"]._id,
-      ],
-      price: "Contact for pricing",
-      status: "published",
-      metaTitle: "Logistics Visibility Bundle | Jaxicloud",
-      metaDescription:
-        "Tracker, tablet, and camera bundle for logistics fleets.",
-    },
-  ]);
-
-  console.log(
-    `Seeded ${products.length} products, 4 categories, 3 solutions, 2 bundles.`,
-  );
+  console.log(`Seeded ${products.length} products and 4 categories.`);
   await mongoose.disconnect();
 }
 

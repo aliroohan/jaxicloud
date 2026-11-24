@@ -1,0 +1,426 @@
+{
+  "id": 2183,
+  "slug": "our-team-da",
+  "canonicalSlug": "our-team",
+  "locale": "da",
+  "title": "Our team – DA",
+  "link": "https://www.jaxicloud.com/our-team-da/",
+  "pageKind": "marketing",
+  "translations": {
+    "da": 2183,
+    "en": 41,
+    "de": 2584,
+    "fr": 2830,
+    "nl": 3030,
+    "nb": 3230,
+    "sv": 3423,
+    "tr": 3612
+  },
+  "excerpt": "Teamet bag Jaxicloud Fleet Management TOGATHER WE SHOW THE WAY Udarbejdelse af budgetter og finansielle strategier. Overvågning af virksomhedens økonomiske præstation og rapportering. Sikring af overholdelse af lovgivning og regulering inden for det finansielle område. Forvaltning af investeringer og kapitalstruktur. Identificering af risici og muligheder for økonomisk vækst. Margit Andreasen CFO Udarbejdelse af budgetter og [&hellip;]",
+  "seo": {
+    "title": "Teamet bag Jaxycloud Fleet Management - Jaxicloud",
+    "description": null
+  },
+  "modified": "2026-03-06T00:23:37",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "2d28b78",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2d28b78",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Teamet bag Jaxicloud Fleet Management",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-64be2dc",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "a19a26d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a19a26d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>TOGATHER WE SHOW THE WAY</p>",
+      "bodyText": "TOGATHER WE SHOW THE WAY",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "65c2b14",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c2b14",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Margit Andreasen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Udarbejdelse af budgetter og finansielle strategier.\n\nOvervågning af virksomhedens økonomiske præstation og rapportering.\n\nSikring af overholdelse af lovgivning og regulering inden for det finansielle område.\n\nForvaltning af investeringer og kapitalstruktur.\n\nIdentificering af risici og muligheder for økonomisk vækst.</p><p class=\"eael-team-text eael-team-text-overlay\">Udarbejdelse af budgetter og finansielle strategier.\n\nOvervågning af virksomhedens økonomiske præstation og rapportering.\n\nSikring af overholdelse af lovgivning og regulering inden for det finansielle område.\n\nForvaltning af investeringer og kapitalstruktur.\n\nIdentificering af risici og muligheder for økonomisk vækst.</p>",
+      "bodyText": "Udarbejdelse af budgetter og finansielle strategier. Overvågning af virksomhedens økonomiske præstation og rapportering. Sikring af overholdelse af lovgivning og regulering inden for det finansielle område. Forvaltning af investeringer og kapitalstruktur. Identificering af risici og muligheder for økonomisk vækst.Udarbejdelse af budgetter og finansielle strategier. Overvågning af virksomhedens økonomiske præstation og rapportering. Sikring af overholdelse af lovgivning og regulering inden for det finansielle område. Forvaltning af investeringer og kapitalstruktur. Identificering af risici og muligheder for økonomisk vækst.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-5-1-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "dc3f139",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc3f139",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Brian Marktwian Clemens",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål.\n\nDen administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder.\n\n\"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"</p><p class=\"eael-team-text eael-team-text-overlay\">Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål.\n\nDen administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder.\n\n\"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"</p>",
+      "bodyText": "Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål. Den administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder. \"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"Vores medejer og administrerende direktør er drivkraften bag vores virksomheds vision og strategiske retning. Med en passion for innovation og et skarpt fokus på vækst leder han/hun virksomheden med integritet og beslutsomhed. Som medejer bringer den administrerende direktør ikke kun ledelseserfaring, men også en personlig investering i virksomhedens succes, hvilket sikrer dedikation og engagement i at nå vores mål. Den administrerende direktør er en strategisk tænker, der kombinerer dyb forretningsforståelse med evnen til at opbygge stærke relationer, både internt og eksternt. Med denne kombination sikrer vi solid ledelse og en fremtid fuld af muligheder. \"Ledelse handler om at inspirere, samarbejde og skabe resultater sammen – og det er vores mission hver dag.\"",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2026/02/brian-image.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "4bea9a7",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4bea9a7",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Alex R. Ataei",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Udvikle og implementere salgsstrategier for at nå virksomhedens mål.\n\nLede og motivere salgsteamet for at sikre høj præstation.\n\nOvervåge og analysere salgsdata og præstation.\n\nIdentificere nye markedsmuligheder og udvide kundebasen.\n\nSikre stærke relationer med kunder og nøglepartnere.</p><p class=\"eael-team-text eael-team-text-overlay\">Udvikle og implementere salgsstrategier for at nå virksomhedens mål.\n\nLede og motivere salgsteamet for at sikre høj præstation.\n\nOvervåge og analysere salgsdata og præstation.\n\nIdentificere nye markedsmuligheder og udvide kundebasen.\n\nSikre stærke relationer med kunder og nøglepartnere.</p>",
+      "bodyText": "Udvikle og implementere salgsstrategier for at nå virksomhedens mål. Lede og motivere salgsteamet for at sikre høj præstation. Overvåge og analysere salgsdata og præstation. Identificere nye markedsmuligheder og udvide kundebasen. Sikre stærke relationer med kunder og nøglepartnere.Udvikle og implementere salgsstrategier for at nå virksomhedens mål. Lede og motivere salgsteamet for at sikre høj præstation. Overvåge og analysere salgsdata og præstation. Identificere nye markedsmuligheder og udvide kundebasen. Sikre stærke relationer med kunder og nøglepartnere.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-4-1.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 1,
+      "elementorId": "4e1d6592",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4e1d6592",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens vækst og drift.\n\nBidrag med kapital og viden for at sikre virksomhedens succes.\n\nDel risiko og afkast af virksomhedens økonomiske præstation.\n\nSom bestyrelsesmedlem:\n\nSørg for, at virksomhedens strategi understøtter ejernes interesser.\n\nOvervåg virksomhedens ledelse og økonomiske præstation.\n\nBidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål.\n\nSørg for, at virksomheden overholder relevante love og regler.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens vækst og drift.\n\nBidrag med kapital og viden for at sikre virksomhedens succes.\n\nDel risiko og afkast af virksomhedens økonomiske præstation.\n\nSom bestyrelsesmedlem:\n\nSørg for, at virksomhedens strategi understøtter ejernes interesser.\n\nOvervåg virksomhedens ledelse og økonomiske præstation.\n\nBidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål.\n\nSørg for, at virksomheden overholder relevante love og regler.</p>",
+      "bodyText": "Deltag i beslutninger, der påvirker virksomhedens vækst og drift. Bidrag med kapital og viden for at sikre virksomhedens succes. Del risiko og afkast af virksomhedens økonomiske præstation. Som bestyrelsesmedlem: Sørg for, at virksomhedens strategi understøtter ejernes interesser. Overvåg virksomhedens ledelse og økonomiske præstation. Bidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål. Sørg for, at virksomheden overholder relevante love og regler.Deltag i beslutninger, der påvirker virksomhedens vækst og drift. Bidrag med kapital og viden for at sikre virksomhedens succes. Del risiko og afkast af virksomhedens økonomiske præstation. Som bestyrelsesmedlem: Sørg for, at virksomhedens strategi understøtter ejernes interesser. Overvåg virksomhedens ledelse og økonomiske præstation. Bidrag til udviklingen af ​​virksomhedens vision, mission og langsigtede mål. Sørg for, at virksomheden overholder relevante love og regler.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-2-1.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 1,
+      "elementorId": "2ef510a5",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2ef510a5",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Ib Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens udvikling og drift.\n\nBidrag med kapital og ressourcer for at understøtte vækst.\n\nDel risici og fordele ved virksomhedens præstation.\n\nSom rådgiver:\n\nYd strategisk og operationel rådgivning til ledelsen.\n\nBidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing.\n\nSparring med ledelsen om beslutningstagning og langsigtet planlægning.\n\nTilbyd løsninger på udfordringer og identificer nye vækstmuligheder.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger, der påvirker virksomhedens udvikling og drift.\n\nBidrag med kapital og ressourcer for at understøtte vækst.\n\nDel risici og fordele ved virksomhedens præstation.\n\nSom rådgiver:\n\nYd strategisk og operationel rådgivning til ledelsen.\n\nBidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing.\n\nSparring med ledelsen om beslutningstagning og langsigtet planlægning.\n\nTilbyd løsninger på udfordringer og identificer nye vækstmuligheder.</p>",
+      "bodyText": "Deltag i beslutninger, der påvirker virksomhedens udvikling og drift. Bidrag med kapital og ressourcer for at understøtte vækst. Del risici og fordele ved virksomhedens præstation. Som rådgiver: Yd strategisk og operationel rådgivning til ledelsen. Bidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing. Sparring med ledelsen om beslutningstagning og langsigtet planlægning. Tilbyd løsninger på udfordringer og identificer nye vækstmuligheder.Deltag i beslutninger, der påvirker virksomhedens udvikling og drift. Bidrag med kapital og ressourcer for at understøtte vækst. Del risici og fordele ved virksomhedens præstation. Som rådgiver: Yd strategisk og operationel rådgivning til ledelsen. Bidrag med ekspertise inden for specifikke områder, såsom salg, finans, drift eller marketing. Sparring med ledelsen om beslutningstagning og langsigtet planlægning. Tilbyd løsninger på udfordringer og identificer nye vækstmuligheder.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-3-1.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 1,
+        "imagePosition": null,
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 1,
+      "elementorId": "56973a86",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-56973a86",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Tommy Andersen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger om virksomhedens vækst og drift.\n\nBidrag med kapital og ressourcer for at understøtte virksomhedens udvikling.\n\nDel risikoen og afkastet fra virksomhedens succes.\n\nSom bestyrelsesformand:\n\nLed bestyrelsesmøder og sørg for effektive diskussioner og beslutninger.\n\nVær en strategisk sparringspartner for ledelsen og ejerne.\n\nSørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier.\n\nOvervåg virksomhedens ledelse og sørg for overholdelse af love og regler.\n\nRepræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.</p><p class=\"eael-team-text eael-team-text-overlay\">Deltag i beslutninger om virksomhedens vækst og drift.\n\nBidrag med kapital og ressourcer for at understøtte virksomhedens udvikling.\n\nDel risikoen og afkastet fra virksomhedens succes.\n\nSom bestyrelsesformand:\n\nLed bestyrelsesmøder og sørg for effektive diskussioner og beslutninger.\n\nVær en strategisk sparringspartner for ledelsen og ejerne.\n\nSørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier.\n\nOvervåg virksomhedens ledelse og sørg for overholdelse af love og regler.\n\nRepræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.</p>",
+      "bodyText": "Deltag i beslutninger om virksomhedens vækst og drift. Bidrag med kapital og ressourcer for at understøtte virksomhedens udvikling. Del risikoen og afkastet fra virksomhedens succes. Som bestyrelsesformand: Led bestyrelsesmøder og sørg for effektive diskussioner og beslutninger. Vær en strategisk sparringspartner for ledelsen og ejerne. Sørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier. Overvåg virksomhedens ledelse og sørg for overholdelse af love og regler. Repræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.Deltag i beslutninger om virksomhedens vækst og drift. Bidrag med kapital og ressourcer for at understøtte virksomhedens udvikling. Del risikoen og afkastet fra virksomhedens succes. Som bestyrelsesformand: Led bestyrelsesmøder og sørg for effektive diskussioner og beslutninger. Vær en strategisk sparringspartner for ledelsen og ejerne. Sørg for, at bestyrelsen fastholder fokus på virksomhedens langsigtede mål og strategier. Overvåg virksomhedens ledelse og sørg for overholdelse af love og regler. Repræsenter bestyrelsen over for andre ejere, investorer og andre interessenter.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-1-1.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 2,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 1,
+      "elementorId": "cbfe58d",
+      "widgetType": "eael-team-member.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-cbfe58d",
+        "eael-team-align-centered",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-team-member"
+      ],
+      "heading": "Jan Rasmussen",
+      "bodyHtml": "<p class=\"eael-team-text eael-team-text-overlay\">Driftsstyring i flådestyring\n\nDriftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.</p><p class=\"eael-team-text eael-team-text-overlay\">Driftsstyring i flådestyring\n\nDriftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.</p>",
+      "bodyText": "Driftsstyring i flådestyring Driftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.Driftsstyring i flådestyring Driftsstyring i en flådestyringsafdeling spiller en afgørende rolle i at sikre den daglige drift og effektivitet af virksomhedens flåde. Rollen kræver struktureret arbejde, problemløsning og løbende kommunikation med IT-udvikler og ledelse for at sikre en problemfri flådestyringsplatform.",
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-22.55.27-6-1-300x300.jpeg",
+          "alt": "",
+          "width": null,
+          "height": null
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 3,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-40a36c08",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 9,
+    "sectionCount": 2,
+    "htmlBytes": 44243
+  }
+}

@@ -1,0 +1,1959 @@
+{
+  "id": 2485,
+  "slug": "dascham-de",
+  "canonicalSlug": "dashcam",
+  "locale": "de",
+  "title": "DASCHAM – DE",
+  "link": "https://www.jaxicloud.com/de/dascham-de/",
+  "pageKind": "solution",
+  "translations": {
+    "de": 2485,
+    "da": 2087,
+    "en": 145,
+    "fr": 2742,
+    "nl": 2946,
+    "nb": 3140,
+    "sv": 3334,
+    "tr": 3527
+  },
+  "excerpt": "Jaxicloud-Vision-Lösung – Dashcam Sattelzüge spielen eine der anspruchsvollsten und wichtigsten Rollen im Logistiktransport. Der Transport wertvoller Güter erfordert eine strenge Sicherheitsüberwachung. Darüber hinaus ist das Fahrerverhalten bei langen Fahrten von entscheidender Bedeutung. Größeres Sichtfeld, klarere Bildqualität Umfassendes Produktportfolio Die branchenweit beste Lösung zur Verbesserung der Transparenz Vollständige Abdeckung der toten Winkel Visuelle Unterstützung bei allen [&hellip;]",
+  "seo": {
+    "title": "Jaxicloud-Vision-Lösung – Dashcam - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-22T23:13:28",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "eb079cc",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-eb079cc",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Jaxicloud-Vision-Lösung – Dashcam",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5cb8c9f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 0,
+      "elementorId": "6abf9d4",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6abf9d4",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Sattelzüge spielen eine der anspruchsvollsten und wichtigsten Rollen im Logistiktransport. Der Transport wertvoller Güter erfordert eine strenge Sicherheitsüberwachung. Darüber hinaus ist das Fahrerverhalten bei langen Fahrten von entscheidender Bedeutung.</p>",
+      "bodyText": "Sattelzüge spielen eine der anspruchsvollsten und wichtigsten Rollen im Logistiktransport. Der Transport wertvoller Güter erfordert eine strenge Sicherheitsüberwachung. Darüber hinaus ist das Fahrerverhalten bei langen Fahrten von entscheidender Bedeutung.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5cb8c9f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "e102072",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e102072",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Größeres Sichtfeld, klarere Bildqualität",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-93bf378",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "8968778",
+      "widgetType": "icon-list.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8968778",
+        "elementor-icon-list--layout-traditional",
+        "elementor-list-item-link-full_width",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-icon-list"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [
+        "Umfassendes Produktportfolio",
+        "Die branchenweit beste Lösung zur Verbesserung der Transparenz",
+        "Vollständige Abdeckung der toten Winkel",
+        "Visuelle Unterstützung bei allen Wetterbedingungen",
+        "KI-gestützte Echtzeit-Risikowarnungen"
+      ],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-93bf378",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "1033e5f",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1033e5f",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "KI-gestützte Erkenntnisse: Erkennung verschiedener VRU-Typen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-dd3ee80",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 3,
+      "elementorId": "c2a725a",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c2a725a",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dies ist eine weitere führende Technologie im Bereich des autonomen Fahrens, die sogenannte Bewegungsabsichtsvorhersage. Wir haben sie in unsere intelligenten Totwinkelwarnsysteme integriert, um Fahrern zu helfen, Risiken zu minimieren.</p>",
+      "bodyText": "Dies ist eine weitere führende Technologie im Bereich des autonomen Fahrens, die sogenannte Bewegungsabsichtsvorhersage. Wir haben sie in unsere intelligenten Totwinkelwarnsysteme integriert, um Fahrern zu helfen, Risiken zu minimieren.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-b70e815",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 4,
+      "elementorId": "c36952a",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c36952a",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/file-1.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-90356b2",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 4,
+      "elementorId": "20ecebb",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-20ecebb",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/file-2.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-90356b2",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 5,
+      "elementorId": "a550965",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a550965",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "KI-gestützte Erkenntnisse: Wir helfen Ihnen, beispiellose Transparenz zu erreichen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-7c73a09",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 6,
+      "elementorId": "dc4ee98",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dc4ee98",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Der folgende Videovergleich zeigt die deutliche Verbesserung unserer Schwarzlichttechnologie gegenüber herkömmlichen Kameras bei schlechten Lichtverhältnissen. Sie funktioniert bereits bei einer Beleuchtungsstärke von nur 0,01 Lux und gewährleistet so, dass Fahrer ihre Umgebung auch in nahezu völliger Dunkelheit erkennen können. Links sehen Sie die Sternenlichttechnologie von Mitbewerbern, rechts wird unsere Schwarzlichttechnologie demonstriert. Selbst bei extrem schwachem Licht liefert unsere Schwarzlichttechnologie deutlich mehr Details.</p>",
+      "bodyText": "Der folgende Videovergleich zeigt die deutliche Verbesserung unserer Schwarzlichttechnologie gegenüber herkömmlichen Kameras bei schlechten Lichtverhältnissen. Sie funktioniert bereits bei einer Beleuchtungsstärke von nur 0,01 Lux und gewährleistet so, dass Fahrer ihre Umgebung auch in nahezu völliger Dunkelheit erkennen können. Links sehen Sie die Sternenlichttechnologie von Mitbewerbern, rechts wird unsere Schwarzlichttechnologie demonstriert. Selbst bei extrem schwachem Licht liefert unsere Schwarzlichttechnologie deutlich mehr Details.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-2345157",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 7,
+      "elementorId": "98b8e5d",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-98b8e5d",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_4a7dfbbb59cd4a30a22fc43a787dce8c/720p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c1b28d5",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 7,
+      "elementorId": "10fad09",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-10fad09",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_e3cfab21ee3d4fc090224943da02de61/720p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c1b28d5",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 8,
+      "elementorId": "e3ab9b9",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e3ab9b9",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Größeres Sichtfeld, klarere Bildqualität",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-aabd987",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 9,
+      "elementorId": "2382587",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2382587",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Diese Kamera bietet ein breiteres Sichtfeld und eine schärfere Bildqualität dank einer Brennweite von 1,9 mm, 200 Megapixeln und Ultraweitwinkel. Sie hilft Fahrern, größere tote Winkel abzudecken und bietet mehr Sicherheit durch visuelle und intelligente Unterstützung. Wie im Video gezeigt, übertrifft unsere Kamera die Konkurrenz sowohl im Sichtfeld als auch in der Bildqualität und bietet einzigartige Möglichkeiten zur Trendvorhersage.</p>",
+      "bodyText": "Diese Kamera bietet ein breiteres Sichtfeld und eine schärfere Bildqualität dank einer Brennweite von 1,9 mm, 200 Megapixeln und Ultraweitwinkel. Sie hilft Fahrern, größere tote Winkel abzudecken und bietet mehr Sicherheit durch visuelle und intelligente Unterstützung. Wie im Video gezeigt, übertrifft unsere Kamera die Konkurrenz sowohl im Sichtfeld als auch in der Bildqualität und bietet einzigartige Möglichkeiten zur Trendvorhersage.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-26fd35f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 10,
+      "elementorId": "24245d5",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-24245d5",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_0c1cb8b081974625b3acfef8c658c7cd/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d0a7b55",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 10,
+      "elementorId": "be97749",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-be97749",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_2e20417079094c0c8e30a2302a477581/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-d0a7b55",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-17",
+      "order": 16,
+      "sectionIndex": 11,
+      "elementorId": "2b0d82b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2b0d82b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Echtzeit-Video-basierte Sichtverfolgung von Fahrzeug/Ladung",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-305169e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-18",
+      "order": 17,
+      "sectionIndex": 11,
+      "elementorId": "f9a5fd2",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f9a5fd2",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Unsere umfassende Lösung gewährleistet Echtzeit-Transparenz und volle Kontrolle über die Abläufe und bietet Mehrkanal-Live-Vorschau, Wiedergabe- und Tracking-Funktionen vom Be- bis zum Entladevorgang, jederzeit und überall zugänglich.</p>",
+      "bodyText": "Unsere umfassende Lösung gewährleistet Echtzeit-Transparenz und volle Kontrolle über die Abläufe und bietet Mehrkanal-Live-Vorschau, Wiedergabe- und Tracking-Funktionen vom Be- bis zum Entladevorgang, jederzeit und überall zugänglich.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-305169e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-19",
+      "order": 18,
+      "sectionIndex": 11,
+      "elementorId": "8602bf1",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-8602bf1",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/logistics-pedestrian2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 442,
+          "height": 297
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-305169e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-20",
+      "order": 19,
+      "sectionIndex": 12,
+      "elementorId": "52d31a2",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-52d31a2",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_52a2c3d6e32e41f6bba9137bac362791mv2.gif",
+          "alt": "",
+          "width": 522,
+          "height": 310
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b775553",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-21",
+      "order": 20,
+      "sectionIndex": 12,
+      "elementorId": "65c6777",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65c6777",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Präzise Fahrzeugsicherheitstechnologie",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b775553",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-22",
+      "order": 21,
+      "sectionIndex": 12,
+      "elementorId": "7e935ae",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7e935ae",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Durch den Einsatz fortschrittlicher Fahrerassistenzsysteme (ADAS), Fahrerüberwachungssysteme (DMS) und Totwinkelassistenten (BSD) lassen sich zahlreiche Unfälle wirksam reduzieren. Diese Systeme überwachen das Fahrverhalten, erkennen Wettergefahren und warnen rechtzeitig, sodass Fahrer korrigierend eingreifen können. Dies trägt zu mehr Verkehrssicherheit und erhöhter Verfügbarkeit bei und gewährleistet somit mehr Sicherheit für alle.</p>",
+      "bodyText": "Durch den Einsatz fortschrittlicher Fahrerassistenzsysteme (ADAS), Fahrerüberwachungssysteme (DMS) und Totwinkelassistenten (BSD) lassen sich zahlreiche Unfälle wirksam reduzieren. Diese Systeme überwachen das Fahrverhalten, erkennen Wettergefahren und warnen rechtzeitig, sodass Fahrer korrigierend eingreifen können. Dies trägt zu mehr Verkehrssicherheit und erhöhter Verfügbarkeit bei und gewährleistet somit mehr Sicherheit für alle.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-b775553",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-23",
+      "order": 22,
+      "sectionIndex": 13,
+      "elementorId": "a9c0f61",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a9c0f61",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Höhere Kraftstoffeffizienz",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba26d8f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-24",
+      "order": 23,
+      "sectionIndex": 13,
+      "elementorId": "ae6ad83",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ae6ad83",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die Echtzeit-Kraftstoffverbrauchsüberwachung hilft, Kraftstoffbetrug und -diebstahl zu bekämpfen. Sie erkennt und protokolliert zudem einen hohen Kraftstoffverbrauch, beispielsweise durch riskante Fahrweise, Routenabweichungen und Leerlauf, um Schulungsmaßnahmen zu ermöglichen. Dies spart nicht nur Kosten, sondern reduziert auch Emissionen und trägt somit zur ökologischen Nachhaltigkeit bei.</p>",
+      "bodyText": "Die Echtzeit-Kraftstoffverbrauchsüberwachung hilft, Kraftstoffbetrug und -diebstahl zu bekämpfen. Sie erkennt und protokolliert zudem einen hohen Kraftstoffverbrauch, beispielsweise durch riskante Fahrweise, Routenabweichungen und Leerlauf, um Schulungsmaßnahmen zu ermöglichen. Dies spart nicht nur Kosten, sondern reduziert auch Emissionen und trägt somit zur ökologischen Nachhaltigkeit bei.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba26d8f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-25",
+      "order": 24,
+      "sectionIndex": 13,
+      "elementorId": "63f5d5d",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-63f5d5d",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f77aee25aa604f9a9e485370f8b74992mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 372,
+          "height": 250
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ba26d8f",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-26",
+      "order": 25,
+      "sectionIndex": 14,
+      "elementorId": "1d73f77",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1d73f77",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_9cb6116dd1a94150b86ee8c4a81cccb8mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 346,
+          "height": 232
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-48288dc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-27",
+      "order": 26,
+      "sectionIndex": 14,
+      "elementorId": "e1bc70b",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e1bc70b",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ausführliche Berichte zu KPIs",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-48288dc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-28",
+      "order": 27,
+      "sectionIndex": 14,
+      "elementorId": "2a9a48d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2a9a48d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Durch die Zusammenführung aller Flottenbetriebsdaten auf einer zentralen Plattform lassen sich aussagekräftige und umfassende Berichte erstellen. Diese Berichte enthalten wichtige Kennzahlen wie Kilometerstand, Arbeitsstunden, Kraftstoffverbrauch und vieles mehr. Dies ermöglicht die einfache Nachverfolgung von Fahrzeug- und Fahrer-KPIs und somit fundierte Entscheidungen.</p>",
+      "bodyText": "Durch die Zusammenführung aller Flottenbetriebsdaten auf einer zentralen Plattform lassen sich aussagekräftige und umfassende Berichte erstellen. Diese Berichte enthalten wichtige Kennzahlen wie Kilometerstand, Arbeitsstunden, Kraftstoffverbrauch und vieles mehr. Dies ermöglicht die einfache Nachverfolgung von Fahrzeug- und Fahrer-KPIs und somit fundierte Entscheidungen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-48288dc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-29",
+      "order": 28,
+      "sectionIndex": 15,
+      "elementorId": "e11d0de",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e11d0de",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Höhere Kraftstoffeffizienz",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec064e9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-30",
+      "order": 29,
+      "sectionIndex": 15,
+      "elementorId": "f99563c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f99563c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die Echtzeit-Kraftstoffverbrauchsüberwachung hilft, Kraftstoffbetrug und -diebstahl zu bekämpfen. Sie erkennt und protokolliert zudem einen hohen Kraftstoffverbrauch, beispielsweise durch riskante Fahrweise, Routenabweichungen und Leerlauf, um Schulungsmaßnahmen zu ermöglichen. Dies spart nicht nur Kosten, sondern reduziert auch Emissionen und trägt somit zur ökologischen Nachhaltigkeit bei.</p>",
+      "bodyText": "Die Echtzeit-Kraftstoffverbrauchsüberwachung hilft, Kraftstoffbetrug und -diebstahl zu bekämpfen. Sie erkennt und protokolliert zudem einen hohen Kraftstoffverbrauch, beispielsweise durch riskante Fahrweise, Routenabweichungen und Leerlauf, um Schulungsmaßnahmen zu ermöglichen. Dies spart nicht nur Kosten, sondern reduziert auch Emissionen und trägt somit zur ökologischen Nachhaltigkeit bei.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec064e9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-31",
+      "order": 30,
+      "sectionIndex": 15,
+      "elementorId": "7082d28",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7082d28",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f77aee25aa604f9a9e485370f8b74992mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 372,
+          "height": 250
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ec064e9",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-32",
+      "order": 31,
+      "sectionIndex": 16,
+      "elementorId": "e3c3005",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-e3c3005",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Die erste reine Bildverarbeitungslösung für PSS-zertifizierte",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-eed04ef",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-33",
+      "order": 32,
+      "sectionIndex": 17,
+      "elementorId": "c0be803",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-c0be803",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Durch die Umklassifizierung zur C53-Fähigkeitsprüfung hat unser Kunde mit C53-System die PSS-Konformitätsprüfung der Loughborough University erfolgreich bestanden und ist nun offiziell auf dem Markt. Damit sind wir die branchenweit erste rein visuelle Lösung, die die Konformitätsprüfung bestanden hat. Als eine der anspruchsvollsten Prüfstellen sollten wir einige wichtige Herausforderungen berücksichtigen: 1. Echtzeitwarnung: Die Verzögerung der B3-Leuchte muss unter 500 ms liegen, einschließlich der Verzögerungen durch Fahrzeugstart und Bremslicht. Dies wurde durch Einzelbildwiedergabe von GoPro-Aufnahmen verifiziert. 2. Das Warnsystem darf nur bei Erkennung einer Bedrohung ausgelöst werden und basiert ausschließlich auf visuellen Daten. Das bedeutet, dass das System unabhängig vom Fahrzeugbetrieb (Standby oder Fahrt) präzise unterscheiden muss, ob sich ein Fußgänger nähert oder langsam nähert. 3. Das System muss eine sehr stabile Fußgängererkennung gewährleisten, um Fehlalarme und verpasste Erkennungen während des gesamten Prozesses auszuschließen.</p>",
+      "bodyText": "Durch die Umklassifizierung zur C53-Fähigkeitsprüfung hat unser Kunde mit C53-System die PSS-Konformitätsprüfung der Loughborough University erfolgreich bestanden und ist nun offiziell auf dem Markt. Damit sind wir die branchenweit erste rein visuelle Lösung, die die Konformitätsprüfung bestanden hat. Als eine der anspruchsvollsten Prüfstellen sollten wir einige wichtige Herausforderungen berücksichtigen: 1. Echtzeitwarnung: Die Verzögerung der B3-Leuchte muss unter 500 ms liegen, einschließlich der Verzögerungen durch Fahrzeugstart und Bremslicht. Dies wurde durch Einzelbildwiedergabe von GoPro-Aufnahmen verifiziert. 2. Das Warnsystem darf nur bei Erkennung einer Bedrohung ausgelöst werden und basiert ausschließlich auf visuellen Daten. Das bedeutet, dass das System unabhängig vom Fahrzeugbetrieb (Standby oder Fahrt) präzise unterscheiden muss, ob sich ein Fußgänger nähert oder langsam nähert. 3. Das System muss eine sehr stabile Fußgängererkennung gewährleisten, um Fehlalarme und verpasste Erkennungen während des gesamten Prozesses auszuschließen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-a9f0887",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-34",
+      "order": 33,
+      "sectionIndex": 18,
+      "elementorId": "3de4881",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3de4881",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_adb9d8434c954819b1cfec6d51d65300/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-821fedd",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-35",
+      "order": 34,
+      "sectionIndex": 18,
+      "elementorId": "4473a34",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4473a34",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_fd71f1ba2cae4305b3f7cd319286a4aa/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-821fedd",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-36",
+      "order": 35,
+      "sectionIndex": 18,
+      "elementorId": "39f75a3",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-39f75a3",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_5cccb8f239b24e4bba8c35aa2a7228e3/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-821fedd",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-37",
+      "order": 36,
+      "sectionIndex": 18,
+      "elementorId": "3cc61dc",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-3cc61dc",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_2afb8a3118a944efbe628b24df9ae7a1/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-821fedd",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-38",
+      "order": 37,
+      "sectionIndex": 18,
+      "elementorId": "0703b0c",
+      "widgetType": "video.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0703b0c",
+        "elementor-widget",
+        "elementor-widget-video"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [
+        {
+          "src": "https://video.wixstatic.com/video/70a4f5_1b43da5ba15440988943c19e301f1abe/360p/mp4/file.mp4",
+          "provider": "hosted",
+          "poster": null,
+          "lightbox": false
+        }
+      ],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-821fedd",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-39",
+      "order": 38,
+      "sectionIndex": 19,
+      "elementorId": "9e455a7",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9e455a7",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Stärkung der Flotten, um die ersten DVS&PSS-Lizenzen in Großbritannien zu erhalten",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-88821c9",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-40",
+      "order": 39,
+      "sectionIndex": 20,
+      "elementorId": "849d013",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-849d013",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Der Erfolg der Flottenkunden beim Erhalt der ersten Charge von DVS&amp;PSS-Sicherheitszertifizierungen in Großbritannien hat ihr Vertrauen in den Absatz deutlich gestärkt.</p>",
+      "bodyText": "Der Erfolg der Flottenkunden beim Erhalt der ersten Charge von DVS&PSS-Sicherheitszertifizierungen in Großbritannien hat ihr Vertrauen in den Absatz deutlich gestärkt.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-c3aef90",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-41",
+      "order": 40,
+      "sectionIndex": 21,
+      "elementorId": "ae1203a",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ae1203a",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_f34dc6383bf64c408d2de482ae91c137mv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 776,
+          "height": 337
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-992d35f",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-42",
+      "order": 41,
+      "sectionIndex": 22,
+      "elementorId": "5e9f3ee",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5e9f3ee",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Ausführliche Berichte zu KPIs",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c9771d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-43",
+      "order": 42,
+      "sectionIndex": 22,
+      "elementorId": "378981f",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-378981f",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Die AD PLUS 2.0-A Dashcam ist unsere fortschrittlichste integrierte Videotelematiklösung für Flotten.</p><p>Stilvolles neues Design</p><p>Kompaktes Design, minimale Sichtbehinderung für den Fahrer</p><p>Einfache Installation</p><p>Abnehmbare Zweitkamera, flexible Erweiterung</p><p>Kostengünstig und erschwinglich</p><p><strong>Superkleines Format</strong></p><p>Dank ihrer geringen Größe bietet sie hervorragende Sicht im Straßenverkehr und liefert gleichzeitig klare und zuverlässige Aufnahmen. Mit diesem zuverlässigen und diskreten Begleiter profitiert der Fahrer von erhöhter Sicherheit ohne Kompromisse beim Sichtfeld. Klare und detailreiche Bildqualität</p><p><strong>Genießen Sie hochauflösende Videoaufnahmen,</strong></p><p>die jedes Detail klar und präzise erfassen. Erhalten Sie kristallklare Aufnahmen für eine zuverlässige Dokumentation Ihrer Flotte, erhöhen Sie die Sicherheit und sorgen Sie für ein beruhigendes Gefühl.</p><p><strong>1+1-Lösung für flexible Erweiterung</strong></p><p>Erweitern Sie Ihr Flottenmanagement durch die Möglichkeit, eine zusätzliche externe Kamera anzuschließen. Erhalten Sie einen umfassenderen Überblick über Fahrzeuge und Fahrer, erfassen Sie mehr Blickwinkel und verbessern Sie Ihr Situationsbewusstsein. Mit dieser flexiblen und anpassbaren Lösung können Sie die Sicherheit Ihrer Flotte und Ihr Situationsbewusstsein verbessern.</p><p><strong>Fernaktivierung per SMS</strong></p><p>Kontrollieren Sie Ihre Fahrzeugflotte bequem per SMS oder Anruf. Greifen Sie flexibel und einfach von überall auf Ihre Fahrzeuge zu und verpassen Sie keine wichtigen Aufnahmen.</p>",
+      "bodyText": "Die AD PLUS 2.0-A Dashcam ist unsere fortschrittlichste integrierte Videotelematiklösung für Flotten.Stilvolles neues DesignKompaktes Design, minimale Sichtbehinderung für den FahrerEinfache InstallationAbnehmbare Zweitkamera, flexible ErweiterungKostengünstig und erschwinglichSuperkleines FormatDank ihrer geringen Größe bietet sie hervorragende Sicht im Straßenverkehr und liefert gleichzeitig klare und zuverlässige Aufnahmen. Mit diesem zuverlässigen und diskreten Begleiter profitiert der Fahrer von erhöhter Sicherheit ohne Kompromisse beim Sichtfeld. Klare und detailreiche BildqualitätGenießen Sie hochauflösende Videoaufnahmen,die jedes Detail klar und präzise erfassen. Erhalten Sie kristallklare Aufnahmen für eine zuverlässige Dokumentation Ihrer Flotte, erhöhen Sie die Sicherheit und sorgen Sie für ein beruhigendes Gefühl.1+1-Lösung für flexible ErweiterungErweitern Sie Ihr Flottenmanagement durch die Möglichkeit, eine zusätzliche externe Kamera anzuschließen. Erhalten Sie einen umfassenderen Überblick über Fahrzeuge und Fahrer, erfassen Sie mehr Blickwinkel und verbessern Sie Ihr Situationsbewusstsein. Mit dieser flexiblen und anpassbaren Lösung können Sie die Sicherheit Ihrer Flotte und Ihr Situationsbewusstsein verbessern.Fernaktivierung per SMSKontrollieren Sie Ihre Fahrzeugflotte bequem per SMS oder Anruf. Greifen Sie flexibel und einfach von überall auf Ihre Fahrzeuge zu und verpassen Sie keine wichtigen Aufnahmen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-c9771d4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-44",
+      "order": 43,
+      "sectionIndex": 23,
+      "elementorId": "853b4d3",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-853b4d3",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Dashcam: Schützen Sie Ihre Fahrer und Ihre Flotte mit Jaxicloud Multi-Channel AI Dash",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8b6abe4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-45",
+      "order": 44,
+      "sectionIndex": 23,
+      "elementorId": "4880c8b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4880c8b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Der JC450 verfügt über eine integrierte Kamera und unterstützt bis zu vier externe Kameras (optional) zur Überwachung von Fahrzeugaußenseite, Fahrgastraum, Seiten, Heck und Fahrer – egal ob das Fahrzeug fährt oder steht. Erzielen Sie eine 360°-Rundumsicht ohne tote Winkel.</p><p><strong>Fahrercoaching/Fahrerassistenz</strong></p><p>Ermüdungs-/Ablenkungsüberwachung (DMS): Die optionale DMS-Kamera erfasst das Gesicht des Fahrers, um dessen Aufmerksamkeit zu überwachen und bei Bedarf Warnungen im Fahrgastraum auszugeben. Fahrerassistenzsysteme (ADAS): Verfügbar</p><p>Die Jaxicloud Flottenmanagement-Plattform bietet fortschrittliche Tools für die Videoüberwachung. Live-Streaming ermöglicht die Echtzeit-Ansicht der Kameras und die Bewegungsverfolgung auf Karten. Mit der Wiedergabefunktion können Sie vergangene Aufnahmen ansehen und wichtige Ausschnitte speichern. Die Dateiverwaltung ermöglicht die effiziente Verwaltung und das Löschen gespeicherter Videos.</p>",
+      "bodyText": "Der JC450 verfügt über eine integrierte Kamera und unterstützt bis zu vier externe Kameras (optional) zur Überwachung von Fahrzeugaußenseite, Fahrgastraum, Seiten, Heck und Fahrer – egal ob das Fahrzeug fährt oder steht. Erzielen Sie eine 360°-Rundumsicht ohne tote Winkel.Fahrercoaching/FahrerassistenzErmüdungs-/Ablenkungsüberwachung (DMS): Die optionale DMS-Kamera erfasst das Gesicht des Fahrers, um dessen Aufmerksamkeit zu überwachen und bei Bedarf Warnungen im Fahrgastraum auszugeben. Fahrerassistenzsysteme (ADAS): VerfügbarDie Jaxicloud Flottenmanagement-Plattform bietet fortschrittliche Tools für die Videoüberwachung. Live-Streaming ermöglicht die Echtzeit-Ansicht der Kameras und die Bewegungsverfolgung auf Karten. Mit der Wiedergabefunktion können Sie vergangene Aufnahmen ansehen und wichtige Ausschnitte speichern. Die Dateiverwaltung ermöglicht die effiziente Verwaltung und das Löschen gespeicherter Videos.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8b6abe4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-46",
+      "order": 45,
+      "sectionIndex": 23,
+      "elementorId": "12a2c4a",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-12a2c4a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_357b70dd87c040c18f89ee67f4eb5489mv22-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 471,
+          "height": 278
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-8b6abe4",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-47",
+      "order": 46,
+      "sectionIndex": 24,
+      "elementorId": "b1b3db7",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b1b3db7",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die AD PLUS 2.0-A Dashcam ist kompakt, einfach zu installieren und benutzerfreundlich. Dank OBD-Stromversorgung ist sie sofort einsatzbereit – ohne komplizierte Verkabelung. Das spart dem Logistikunternehmen wertvolle Zeit und Kosten. Ihr stilvolles und ansprechendes Design fügt sich zudem nahtlos in die Fahrzeuge ein und wertet das Gesamtbild der Flotte auf. Das Logistikunternehmen profitiert nicht nur von der Funktionalität der AD PLUS 2.0-A Dashcam, sondern verbessert durch deren Einsatz auch das Image seiner Flotte und präsentiert sich professionell und modern. Es plant, weitere AD PLUS 2.0-A Dashcams anzuschaffen, um die Transporteffizienz weiter zu optimieren und die Ladungssicherheit zu gewährleisten.</p>",
+      "bodyText": "Die AD PLUS 2.0-A Dashcam ist kompakt, einfach zu installieren und benutzerfreundlich. Dank OBD-Stromversorgung ist sie sofort einsatzbereit – ohne komplizierte Verkabelung. Das spart dem Logistikunternehmen wertvolle Zeit und Kosten. Ihr stilvolles und ansprechendes Design fügt sich zudem nahtlos in die Fahrzeuge ein und wertet das Gesamtbild der Flotte auf. Das Logistikunternehmen profitiert nicht nur von der Funktionalität der AD PLUS 2.0-A Dashcam, sondern verbessert durch deren Einsatz auch das Image seiner Flotte und präsentiert sich professionell und modern. Es plant, weitere AD PLUS 2.0-A Dashcams anzuschaffen, um die Transporteffizienz weiter zu optimieren und die Ladungssicherheit zu gewährleisten.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-cfff87c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-48",
+      "order": 47,
+      "sectionIndex": 24,
+      "elementorId": "6ba6ceb",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-6ba6ceb",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_4c23cb47ecdc40e6abada2fbcf05491bmv2-ezgif.com-avif-to-jpg-converter.jpg",
+          "alt": "",
+          "width": 792,
+          "height": 408
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-cfff87c",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 48,
+    "sectionCount": 25,
+    "htmlBytes": 53113
+  }
+}

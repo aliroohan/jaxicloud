@@ -1,0 +1,679 @@
+{
+  "id": 3053,
+  "slug": "tacho-live-hl",
+  "canonicalSlug": "tacho-live",
+  "locale": "nl",
+  "title": "Tacho live – HL",
+  "link": "https://www.jaxicloud.com/nl/tacho-live-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 3053,
+    "da": 2205,
+    "en": 79,
+    "de": 2605,
+    "fr": 2853,
+    "nb": 3252,
+    "sv": 3445,
+    "tr": 3635
+  },
+  "excerpt": "Tacho Simple De complete oplossing voor digitale tachograaf – Tacho-Live en chauffeurstijdbeheer om te voldoen aan de EU-regelgeving JaxiCloud biedt een geïntegreerde oplossing voor het rapporteren van de rij-, werk- en rusttijden van chauffeurs via de tachograaf en chauffeurskaart. Zo betaalt u altijd het juiste salaris en houden chauffeurs zich aan de rij- en rusttijdenwetgeving. [&hellip;]",
+  "seo": {
+    "title": "Tacho live - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-23T01:04:17",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "b6efd74",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-b6efd74",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Simple",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-5dc8040",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "222aa87",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-222aa87",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "De complete oplossing voor digitale tachograaf - Tacho-Live en chauffeurstijdbeheer om te voldoen aan de EU-regelgeving",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "9f7de7d",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-9f7de7d",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>JaxiCloud biedt een geïntegreerde oplossing voor het rapporteren van de rij-, werk- en rusttijden van chauffeurs via de tachograaf en chauffeurskaart. Zo betaalt u altijd het juiste salaris en houden chauffeurs zich aan de rij- en rusttijdenwetgeving. Het helpt u ook om uw wagenpark optimaal te houden.</p><p>De webapplicatie Jaxicloud biedt een gebruiksvriendelijk dashboard waarmee klanten moeiteloos de status van hun chauffeurs in realtime kunnen volgen, zowel online als offline, compleet met gedetailleerde informatie zoals slotnummers, aangesloten apparaten, locatie en een ddd-bestandsrapport.</p><p>De app laat ook zien wanneer chauffeurs in de afgelopen 30 dagen voor het laatst verbinding hebben gehad met een voertuig.</p>",
+      "bodyText": "JaxiCloud biedt een geïntegreerde oplossing voor het rapporteren van de rij-, werk- en rusttijden van chauffeurs via de tachograaf en chauffeurskaart. Zo betaalt u altijd het juiste salaris en houden chauffeurs zich aan de rij- en rusttijdenwetgeving. Het helpt u ook om uw wagenpark optimaal te houden.De webapplicatie Jaxicloud biedt een gebruiksvriendelijk dashboard waarmee klanten moeiteloos de status van hun chauffeurs in realtime kunnen volgen, zowel online als offline, compleet met gedetailleerde informatie zoals slotnummers, aangesloten apparaten, locatie en een ddd-bestandsrapport.De app laat ook zien wanneer chauffeurs in de afgelopen 30 dagen voor het laatst verbinding hebben gehad met een voertuig.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "42dc456",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-42dc456",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_dcaf2b08678b4e9196850b1573366e07mv2.jpg",
+          "alt": "",
+          "width": 654,
+          "height": 457
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 1,
+      "elementorId": "65f79e6",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-65f79e6",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_cd4c1fd936184433bf787b1390eab1a3mv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 324
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4854aa0",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "7568b72e",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7568b72e",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho Manager en Tacho View",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 2,
+      "elementorId": "11837854",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-11837854",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Nieuwe mogelijkheden om met tachografen te werken</p><p>Tachograafregelgeving, gericht op het handhaven van rijtijden en het monitoren van rijtijden voor professionals, heeft een grote impact gehad op de fleetmanagementsector. Omdat de inzet van digitale tachografen heeft gezorgd voor een nauwkeurigere registratie en opslag van gegevens, heeft Jaxicloud Fleet Management nu een functie ontwikkeld voor gegevensoverdracht op afstand van tachografen naar Jaxicloud Fleet Management. Een stap verder was de ontwikkeling van twee andere tools, gericht op het verbeteren van het werk van integrators binnen één systeem.</p><p>Tacho Manager-app</p><p>Klanten van Jaxicloud Fleet Management kunnen nu profiteren van de voordelen van de Tacho Manager-app, die nieuwe voordelen biedt voor de werkzaamheden van transporteurs in de internationale vracht- en transportsector. De applicatie toont de activiteit voor elke beschikbare rit, zoals afstand, snelheid en rij- en rusttijden voor de chauffeur. Deze bestanden worden geparseerd en gekoppeld aan chauffeurs in Jaxicloud Fleet Management en kunnen handmatig worden geüpload via Tacho Manager.</p>",
+      "bodyText": "Nieuwe mogelijkheden om met tachografen te werkenTachograafregelgeving, gericht op het handhaven van rijtijden en het monitoren van rijtijden voor professionals, heeft een grote impact gehad op de fleetmanagementsector. Omdat de inzet van digitale tachografen heeft gezorgd voor een nauwkeurigere registratie en opslag van gegevens, heeft Jaxicloud Fleet Management nu een functie ontwikkeld voor gegevensoverdracht op afstand van tachografen naar Jaxicloud Fleet Management. Een stap verder was de ontwikkeling van twee andere tools, gericht op het verbeteren van het werk van integrators binnen één systeem.Tacho Manager-appKlanten van Jaxicloud Fleet Management kunnen nu profiteren van de voordelen van de Tacho Manager-app, die nieuwe voordelen biedt voor de werkzaamheden van transporteurs in de internationale vracht- en transportsector. De applicatie toont de activiteit voor elke beschikbare rit, zoals afstand, snelheid en rij- en rusttijden voor de chauffeur. Deze bestanden worden geparseerd en gekoppeld aan chauffeurs in Jaxicloud Fleet Management en kunnen handmatig worden geüpload via Tacho Manager.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 2,
+      "elementorId": "83f6882",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-83f6882",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De bestanden worden automatisch geüpload via de GPS-tracker. Deze nieuwe tool wordt nu ondersteund door verschillende apparaten, waaronder de controllers van ITD en diverse andere. Bestanden worden opgeslagen en geüpload via de Disketta-applicatie. De programma-interface is vereenvoudigd tot de downloadbalk en de lijst met bestanden om de verzender te helpen met relevante informatie.</p>",
+      "bodyText": "De bestanden worden automatisch geüpload via de GPS-tracker. Deze nieuwe tool wordt nu ondersteund door verschillende apparaten, waaronder de controllers van ITD en diverse andere. Bestanden worden opgeslagen en geüpload via de Disketta-applicatie. De programma-interface is vereenvoudigd tot de downloadbalk en de lijst met bestanden om de verzender te helpen met relevante informatie.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4592cad2",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 2,
+      "elementorId": "daca0fa",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-daca0fa",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_7bcf5e78435b4f3fbf719423702340fbmv2.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 354
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "full",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-34ed951",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 3,
+      "elementorId": "306b04a",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-306b04a",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Tacho View ‒ naar verbeterde data-analyse",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 3,
+      "elementorId": "60a424b",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-60a424b",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_9 wixui-rich-text__text\">Na rekening te hebben gehouden met de AETR- en EU-specificaties, heeft Gurtam een ​​andere app uitgebracht genaamd Tacho View, die gebaseerd zal zijn op specificaties voor internationale normen voor wegtransport. Tacho View verwerkt gegevens ontvangen van tachograafbestanden. Het maakt het mogelijk om de activiteit van de chauffeur weer te geven op basis van een zogenaamde “tijdlijn” voor een betere visuele analyse. De app geeft rij- en rusttijden weer voor de geregistreerde chauffeur. U kunt een kalender (aan de rechterkant) gebruiken om de gewenste datum te selecteren. De kalender kan ook naar behoefte worden geschaald.</p>",
+      "bodyText": "Na rekening te hebben gehouden met de AETR- en EU-specificaties, heeft Gurtam een ​​andere app uitgebracht genaamd Tacho View, die gebaseerd zal zijn op specificaties voor internationale normen voor wegtransport. Tacho View verwerkt gegevens ontvangen van tachograafbestanden. Het maakt het mogelijk om de activiteit van de chauffeur weer te geven op basis van een zogenaamde “tijdlijn” voor een betere visuele analyse. De app geeft rij- en rusttijden weer voor de geregistreerde chauffeur. U kunt een kalender (aan de rechterkant) gebruiken om de gewenste datum te selecteren. De kalender kan ook naar behoefte worden geschaald.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 3,
+      "elementorId": "fa651b9",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa651b9",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-6c23fdc",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 4,
+      "elementorId": "040f771",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-040f771",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De gegevens worden op de volgende manier geëvalueerd: • “Bestuurdersactiviteit”. De informatie wordt weergegeven in een tabel. Door de gewenste datum te selecteren, kan de gebruiker de gedetailleerde bestuurdersactiviteit over de opgegeven periode bekijken. • “Activiteitengrafiek”. De geselecteerde periode is verdeeld in dagen, waarbij de informatie in grafieken wordt weergegeven (markeringen correleren met bepaalde activiteitskenmerken)</p>",
+      "bodyText": "De gegevens worden op de volgende manier geëvalueerd: • “Bestuurdersactiviteit”. De informatie wordt weergegeven in een tabel. Door de gewenste datum te selecteren, kan de gebruiker de gedetailleerde bestuurdersactiviteit over de opgegeven periode bekijken. • “Activiteitengrafiek”. De geselecteerde periode is verdeeld in dagen, waarbij de informatie in grafieken wordt weergegeven (markeringen correleren met bepaalde activiteitskenmerken)",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-fe263b4",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "0c1ffc7",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-0c1ffc7",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_5189a419538745de8e9df538b4989d7amv2-1.jpg",
+          "alt": "",
+          "width": 720,
+          "height": 343
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "left",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 5,
+      "elementorId": "ffa6bb3",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-ffa6bb3",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_6684f2a7b76b41ec8d450d7aeb9d57bbmv2-1.jpg",
+          "alt": "",
+          "width": 718,
+          "height": 350
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-ff54011",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-16",
+      "order": 15,
+      "sectionIndex": 6,
+      "elementorId": "fa5cf0c",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-fa5cf0c",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>De gegevens kunnen rechtstreeks vanuit de app in de vorm van een rapport worden afgedrukt. In de nabije toekomst zal Tacho View specificaties bevatten voor alle landen waar tachograafregelgeving van kracht is. Aangezien fabrikanten hun technologieën jaarlijks verbeteren door tachografen gebruiksvriendelijker te maken, hopen we dat onze bijdrage de praktijk stimuleert en eerlijke concurrentie en internationale verkeersveiligheid garandeert.</p>",
+      "bodyText": "De gegevens kunnen rechtstreeks vanuit de app in de vorm van een rapport worden afgedrukt. In de nabije toekomst zal Tacho View specificaties bevatten voor alle landen waar tachograafregelgeving van kracht is. Aangezien fabrikanten hun technologieën jaarlijks verbeteren door tachografen gebruiksvriendelijker te maken, hopen we dat onze bijdrage de praktijk stimuleert en eerlijke concurrentie en internationale verkeersveiligheid garandeert.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-edc9ce7",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 16,
+    "sectionCount": 7,
+    "htmlBytes": 19739
+  }
+}

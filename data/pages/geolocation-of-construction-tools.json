@@ -1,0 +1,1622 @@
+{
+  "slug": "geolocation-of-construction-tools",
+  "pageKind": "solution",
+  "titles": {
+    "da": "Geolocation of construction tools – DA",
+    "en": "Geolocation of construction tools",
+    "de": "Geolocation of construction tools -DE",
+    "fr": "Geolocation of construction tools – FR",
+    "nl": "Geolocation of construction tools – HL",
+    "nb": "Geolocation of construction tools – NO",
+    "sv": "Geolocation of construction tools – SV",
+    "tr": "Geolocation of construction tools – TUR"
+  },
+  "seo": {
+    "da": {
+      "title": "Geolokalisering af byggeredskaber - Jaxicloud",
+      "description": null
+    },
+    "en": {
+      "title": "Geolocation of construction tools - Jaxicloud",
+      "description": null
+    },
+    "de": {
+      "title": "Geolokalisierung von Bauwerkzeugen - Jaxicloud",
+      "description": null
+    },
+    "fr": {
+      "title": "Géolocalisation des outils de construction - Jaxicloud",
+      "description": null
+    },
+    "nl": {
+      "title": "Geolocatie van bouwgereedschappen - Jaxicloud",
+      "description": null
+    },
+    "nb": {
+      "title": "Geolokalisering av byggeverktøy - Jaxicloud",
+      "description": null
+    },
+    "sv": {
+      "title": "Geolokalisering av byggverktyg - Jaxicloud",
+      "description": null
+    },
+    "tr": {
+      "title": "İnşaat aletlerinin coğrafi konumlandırılması - Jaxicloud",
+      "description": null
+    }
+  },
+  "links": {
+    "da": "https://www.jaxicloud.com/geolocation-of-construction-tools-da/",
+    "en": "https://www.jaxicloud.com/en/geolocation-of-construction-tools/",
+    "de": "https://www.jaxicloud.com/de/geolocation-of-construction-tools-de/",
+    "fr": "https://www.jaxicloud.com/fr/geolocation-of-construction-tools-fr/",
+    "nl": "https://www.jaxicloud.com/nl/geolocation-of-construction-tools-hl/",
+    "nb": "https://www.jaxicloud.com/nb/geolocation-of-construction-tools-no/",
+    "sv": "https://www.jaxicloud.com/sv/geolocation-of-construction-tools-sv/",
+    "tr": "https://www.jaxicloud.com/tr/geolocation-of-construction-tools-tur/"
+  },
+  "blocks": [
+    {
+      "id": "block-1",
+      "type": "heading",
+      "order": 0,
+      "sectionIndex": 0,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Geolokalisering af byggeredskaber",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Geolocation of construction tools",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Geolokalisierung von Bauwerkzeugen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Géolocalisation des outils de construction",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Geolocatie van bouwgereedschappen",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Geolokalisering av byggeverktøy",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Geolokalisering av byggverktyg",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İnşaat aletlerinin coğrafi konumlandırılması",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-2",
+      "type": "heading",
+      "order": 1,
+      "sectionIndex": 1,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvad er geolokalisering af byggeredskaber?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "What is geolocation of construction tools?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Was versteht man unter Geolokalisierung von Bauwerkzeugen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Qu’est-ce que la géolocalisation des outils de construction ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Wat is geolocatie van bouwgereedschappen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hva er geolokalisering av byggeverktøy?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vad är geolokalisering av byggverktyg?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İnşaat aletlerinin coğrafi konumlandırılması nedir?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-3",
+      "type": "richText",
+      "order": 2,
+      "sectionIndex": 1,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "I byggesektoren udgør styring af udstyrsflåden en stor udfordring for virksomheder. Faktisk er byggepladsværktøj udstyr af høj værdi, og dårlig håndtering kan generere betydelige meromkostninger for virksomheder. Udstyr er ofte distribueret på forskellige steder og bruges af mange mennesker, hvilket kan føre til tab, tyveri og manglende vedligeholdelse.For at styrke sikkerheden for varer og mennesker findes der geolokaliserings- og automatiserede lagerløsninger, der giver mulighed for realtidsindsigt i udstyrets tilstand.Denne type løsning gør det lettere at finde byggepladsværktøj, hvilket reducerer spildtid for operatører. Denne type forbundne løsninger gør det også muligt at måle og analysere udstyrsudnyttelsesgrader for at udløse vedligeholdelses- eller rekalibreringsoperationer i tide og dermed undgå nedbrud og ulykker.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">I byggesektoren udgør styring af udstyrsflåden en stor udfordring for virksomheder. Faktisk er byggepladsværktøj udstyr af høj værdi, og dårlig håndtering kan generere betydelige meromkostninger for virksomheder. Udstyr er ofte distribueret på forskellige steder og bruges af mange mennesker, hvilket kan føre til tab, tyveri og manglende vedligeholdelse.</p><p>For at styrke sikkerheden for varer og mennesker findes der geolokaliserings- og automatiserede lagerløsninger, der giver mulighed for realtidsindsigt i udstyrets tilstand.</p><p>Denne type løsning gør det lettere at finde byggepladsværktøj, hvilket reducerer spildtid for operatører. Denne type forbundne løsninger gør det også muligt at måle og analysere udstyrsudnyttelsesgrader for at udløse vedligeholdelses- eller rekalibreringsoperationer i tide og dermed undgå nedbrud og ulykker.</p><p>&nbsp;</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "In the construction sector, equipment fleet management poses a major challenge for companies. In fact, construction site tools are high-value equipment, and their poor management can generate significant additional costs for companies. Equipment is often distributed in different locations and used by many people, which can lead to loss, theft and lack of maintenance.To strengthen the security of goods and people, there are geolocation and automated warehouse solutions that allow for real-time visibility into the condition of equipment.This type of solution makes it easier to find site tools, thereby reducing wasted time for operators. This type of connected solutions also makes it possible to measure and analyze equipment utilization rates to trigger maintenance or recalibration operations in time, thus avoiding breakdowns and accidents.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">In the construction sector, equipment fleet management poses a major challenge for companies. In fact, construction site tools are high-value equipment, and their poor management can generate&nbsp;significant additional costs for companies.&nbsp;Equipment is often distributed in different locations and used by many people, which can lead to loss, theft and lack of maintenance.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">To strengthen the security of goods and people, there are geolocation and automated warehouse solutions that allow for real-time visibility into the condition of equipment.</span></p><p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">This type of solution makes it easier to find site tools, thereby reducing wasted time for operators. This type of connected solutions also makes it possible to&nbsp;measure and analyze&nbsp;equipment utilization rates&nbsp;to trigger maintenance or recalibration operations in time, thus avoiding breakdowns and accidents.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Im Baugewerbe stellt das Fuhrparkmanagement für Baumaschinen eine große Herausforderung dar. Baugeräte sind schließlich wertvolle Ausrüstung, und deren mangelhafte Verwaltung kann erhebliche Zusatzkosten verursachen. Die Geräte sind oft an verschiedenen Standorten verteilt und werden von vielen Personen genutzt, was zu Verlust, Diebstahl und fehlender Wartung führen kann.Um die Sicherheit von Gütern und Personen zu erhöhen, gibt es Geolokalisierungs- und automatisierte Lagerlösungen, die eine Echtzeiteinsicht in den Zustand der Ausrüstung ermöglichen.Eine solche Lösung erleichtert das Auffinden von Baustellenwerkzeugen und reduziert so die Zeitverschwendung für die Bediener. Diese Art von vernetzten Lösungen ermöglicht es auch, die Auslastung der Geräte zu messen und zu analysieren, um rechtzeitig Wartungs- oder Neukalibrierungsmaßnahmen auszulösen und so Ausfälle und Unfälle zu vermeiden.",
+          "bodyHtml": "<p>Im Baugewerbe stellt das Fuhrparkmanagement für Baumaschinen eine große Herausforderung dar. Baugeräte sind schließlich wertvolle Ausrüstung, und deren mangelhafte Verwaltung kann erhebliche Zusatzkosten verursachen. Die Geräte sind oft an verschiedenen Standorten verteilt und werden von vielen Personen genutzt, was zu Verlust, Diebstahl und fehlender Wartung führen kann.</p><p>Um die Sicherheit von Gütern und Personen zu erhöhen, gibt es Geolokalisierungs- und automatisierte Lagerlösungen, die eine Echtzeiteinsicht in den Zustand der Ausrüstung ermöglichen.</p><p>Eine solche Lösung erleichtert das Auffinden von Baustellenwerkzeugen und reduziert so die Zeitverschwendung für die Bediener. Diese Art von vernetzten Lösungen ermöglicht es auch, die Auslastung der Geräte zu messen und zu analysieren, um rechtzeitig Wartungs- oder Neukalibrierungsmaßnahmen auszulösen und so Ausfälle und Unfälle zu vermeiden.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Dans le secteur de la construction, la gestion du parc d’engins représente un défi majeur pour les entreprises. En effet, les outils de chantier sont des équipements de grande valeur, et leur mauvaise gestion peut engendrer des coûts supplémentaires importants. Souvent dispersés sur différents sites et utilisés par de nombreuses personnes, ces équipements peuvent entraîner des pertes, des vols et un manque d’entretien.Pour renforcer la sécurité des biens et des personnes, des solutions de géolocalisation et d’automatisation d’entrepôt permettent une visibilité en temps réel sur l’état des équipements.Ce type de solution facilite la localisation des outils sur site, réduisant ainsi les pertes de temps pour les opérateurs. Ces solutions connectées permettent également de mesurer et d’analyser les taux d’utilisation des équipements afin de déclencher à temps les opérations de maintenance ou de réétalonnage, évitant ainsi les pannes et les accidents.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dans le secteur de la construction, la gestion du parc d’engins représente un défi majeur pour les entreprises. En effet, les outils de chantier sont des équipements de grande valeur, et leur mauvaise gestion peut engendrer des coûts supplémentaires importants. Souvent dispersés sur différents sites et utilisés par de nombreuses personnes, ces équipements peuvent entraîner des pertes, des vols et un manque d’entretien.</p><p>Pour renforcer la sécurité des biens et des personnes, des solutions de géolocalisation et d’automatisation d’entrepôt permettent une visibilité en temps réel sur l’état des équipements.</p><p>Ce type de solution facilite la localisation des outils sur site, réduisant ainsi les pertes de temps pour les opérateurs. Ces solutions connectées permettent également de mesurer et d’analyser les taux d’utilisation des équipements afin de déclencher à temps les opérations de maintenance ou de réétalonnage, évitant ainsi les pannes et les accidents.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "In de bouwsector vormt het beheer van het materieelpark een grote uitdaging voor bedrijven. Bouwplaatsgereedschappen zijn immers waardevolle apparatuur en slecht beheer ervan kan aanzienlijke extra kosten voor bedrijven overschrijden. Apparatuur wordt vaak over verschillende locaties verspreid en door veel mensen gebruikt, wat kan leiden tot verlies, diefstal en gebrekkig onderhoud.Om de veiligheid van goederen en mensen te vergroten, zijn er geolocatie- en geautomatiseerde magazijnoplossingen die realtime inzicht in de staat van apparatuur mogelijk maken.Dit type oplossing maakt het gemakkelijker om hulpmiddelen op de locatie te vinden, waardoor de tijdverspilling voor operators wordt verminderd. Dit soort verbonden oplossingen maakt het ook mogelijk om de bezettingsgraad van apparatuur te meten en te analyseren, zodat onderhouds- of herkalibratiewerkzaamheden tijdig kunnen worden gestart, waardoor storingen en ongelukken worden voorkomen.",
+          "bodyHtml": "<p>In de bouwsector vormt het beheer van het materieelpark een grote uitdaging voor bedrijven. Bouwplaatsgereedschappen zijn immers waardevolle apparatuur en slecht beheer ervan kan aanzienlijke extra kosten voor bedrijven overschrijden. Apparatuur wordt vaak over verschillende locaties verspreid en door veel mensen gebruikt, wat kan leiden tot verlies, diefstal en gebrekkig onderhoud.</p><p>Om de veiligheid van goederen en mensen te vergroten, zijn er geolocatie- en geautomatiseerde magazijnoplossingen die realtime inzicht in de staat van apparatuur mogelijk maken.</p><p>Dit type oplossing maakt het gemakkelijker om hulpmiddelen op de locatie te vinden, waardoor de tijdverspilling voor operators wordt verminderd. Dit soort verbonden oplossingen maakt het ook mogelijk om de bezettingsgraad van apparatuur te meten en te analyseren, zodat onderhouds- of herkalibratiewerkzaamheden tijdig kunnen worden gestart, waardoor storingen en ongelukken worden voorkomen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "I byggebransjen er styring av utstyrsflåten en stor utfordring for bedrifter. Faktisk er byggeplassverktøy utstyr av høy verdi, og dårlig håndtering kan generere betydelige merkostnader for bedrifter. Utstyr er ofte distribuert på forskjellige steder og brukes av mange mennesker, noe som kan føre til tap, tyveri og manglende vedlikehold.For å styrke sikkerheten til varer og mennesker finnes det geolokaliserings- og automatiserte lagerløsninger som gir sanntidssyn på tilstanden til utstyr.Denne typen løsning gjør det enklere å finne verktøy på byggeplassen, og reduserer dermed bortkastet tid for operatører. Denne typen tilkoblede løsninger gjør det også mulig å måle og analysere utstyrsutnyttelsesgrader for å utløse vedlikehold eller rekalibrering i tide, og dermed unngå havarier og ulykker.",
+          "bodyHtml": "<p>I byggebransjen er styring av utstyrsflåten en stor utfordring for bedrifter. Faktisk er byggeplassverktøy utstyr av høy verdi, og dårlig håndtering kan generere betydelige merkostnader for bedrifter. Utstyr er ofte distribuert på forskjellige steder og brukes av mange mennesker, noe som kan føre til tap, tyveri og manglende vedlikehold.</p><p>For å styrke sikkerheten til varer og mennesker finnes det geolokaliserings- og automatiserte lagerløsninger som gir sanntidssyn på tilstanden til utstyr.</p><p>Denne typen løsning gjør det enklere å finne verktøy på byggeplassen, og reduserer dermed bortkastet tid for operatører. Denne typen tilkoblede løsninger gjør det også mulig å måle og analysere utstyrsutnyttelsesgrader for å utløse vedlikehold eller rekalibrering i tide, og dermed unngå havarier og ulykker.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Inom byggsektorn utgör hantering av maskinparker en stor utmaning för företag. Byggarbetsplatsverktyg är faktiskt utrustning av högt värde, och deras dåliga hantering kan generera betydande merkostnader för företag. Utrustning är ofta distribuerad på olika platser och används av många människor, vilket kan leda till förlust, stöld och bristande underhåll.För att stärka säkerheten för varor och människor finns geolokaliserings- och automatiserade lagerlösningar som möjliggör realtidsinsyn i utrustningens skick.Denna typ av lösning gör det enklare att hitta verktyg på byggarbetsplatsen, vilket minskar slöseri med tid för operatörerna. Denna typ av uppkopplade lösningar gör det också möjligt att mäta och analysera utrustningens utnyttjandegrad för att utlösa underhåll eller omkalibrering i tid, och därmed undvika haverier och olyckor.",
+          "bodyHtml": "<p>Inom byggsektorn utgör hantering av maskinparker en stor utmaning för företag. Byggarbetsplatsverktyg är faktiskt utrustning av högt värde, och deras dåliga hantering kan generera betydande merkostnader för företag. Utrustning är ofta distribuerad på olika platser och används av många människor, vilket kan leda till förlust, stöld och bristande underhåll.</p><p>För att stärka säkerheten för varor och människor finns geolokaliserings- och automatiserade lagerlösningar som möjliggör realtidsinsyn i utrustningens skick.</p><p>Denna typ av lösning gör det enklare att hitta verktyg på byggarbetsplatsen, vilket minskar slöseri med tid för operatörerna. Denna typ av uppkopplade lösningar gör det också möjligt att mäta och analysera utrustningens utnyttjandegrad för att utlösa underhåll eller omkalibrering i tid, och därmed undvika haverier och olyckor.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "İnşaat sektöründe, ekipman filosu yönetimi şirketler için büyük bir zorluk teşkil etmektedir. Aslında, şantiye ekipmanları yüksek değerli ekipmanlardır ve bunların kötü yönetimi şirketler için önemli ek maliyetler yaratabilir. Ekipmanlar genellikle farklı yerlerde dağıtılır ve birçok kişi tarafından kullanılır; bu da kayıp, hırsızlık ve bakım eksikliğine yol açabilir.Malların ve insanların güvenliğini güçlendirmek için, ekipmanın durumuna gerçek zamanlı görünürlük sağlayan coğrafi konum belirleme ve otomatik depo çözümleri mevcuttur.Bu tür çözümler, şantiye ekipmanlarının bulunmasını kolaylaştırarak operatörler için zaman kaybını azaltır. Bu tür bağlantılı çözümler ayrıca, ekipman kullanım oranlarını ölçmeyi ve analiz etmeyi mümkün kılarak, bakım veya yeniden kalibrasyon işlemlerini zamanında tetiklemeyi ve böylece arızaları ve kazaları önlemeyi sağlar.",
+          "bodyHtml": "<p>İnşaat sektöründe, ekipman filosu yönetimi şirketler için büyük bir zorluk teşkil etmektedir. Aslında, şantiye ekipmanları yüksek değerli ekipmanlardır ve bunların kötü yönetimi şirketler için önemli ek maliyetler yaratabilir. Ekipmanlar genellikle farklı yerlerde dağıtılır ve birçok kişi tarafından kullanılır; bu da kayıp, hırsızlık ve bakım eksikliğine yol açabilir.</p><p>Malların ve insanların güvenliğini güçlendirmek için, ekipmanın durumuna gerçek zamanlı görünürlük sağlayan coğrafi konum belirleme ve otomatik depo çözümleri mevcuttur.</p><p>Bu tür çözümler, şantiye ekipmanlarının bulunmasını kolaylaştırarak operatörler için zaman kaybını azaltır. Bu tür bağlantılı çözümler ayrıca, ekipman kullanım oranlarını ölçmeyi ve analiz etmeyi mümkün kılarak, bakım veya yeniden kalibrasyon işlemlerini zamanında tetiklemeyi ve böylece arızaları ve kazaları önlemeyi sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-4",
+      "type": "image",
+      "order": 3,
+      "sectionIndex": 1,
+      "widgetType": "image.default",
+      "layout": {
+        "imagePosition": "right",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_db09000844c74c13b21b471d639768b4mv2.jpg"
+      },
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_db09000844c74c13b21b471d639768b4mv2.jpg",
+          "width": 322,
+          "height": 215
+        }
+      ],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "id": "block-5",
+      "type": "heading",
+      "order": 4,
+      "sectionIndex": 2,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvordan fungerer geolokalisering af byggeredskaber?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "How does geolocation of construction tools work?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Wie funktioniert die Geolokalisierung von Bauwerkzeugen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Comment fonctionne la géolocalisation des outils de construction ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoe werkt geolocatie van bouwgereedschappen?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvordan fungerer geolokalisering av byggeverktøy?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hur fungerar geolokalisering av byggverktyg?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "İnşaat aletlerinin coğrafi konum belirleme sistemi nasıl çalışır?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-6",
+      "type": "richText",
+      "order": 5,
+      "sectionIndex": 2,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Til geolokalisering af byggepladsværktøj kan forskellige teknologier anvendes. Valget af én teknologi frem for en anden afhænger af forskellige kriterier, såsom den ønskede type infrastruktur, antallet og størrelsen af ​​det udstyr, der skal geolokaliseres, det miljø, hvor løsningen skal installeres, omkostningerne ved infrastrukturen og endelig det krævede præcisionsniveau. For at geolokalisere byggepladsværktøj tilbyder Jaxicloud Innovation positionsbeacons baseret på 3 forskellige teknologier: Bluetooth Low Energy, Wirepas Mesh og Quuppa AOA.Det udstyr, der skal geolokaliseres, vil være udstyret med BLE-beacons, der med jævne mellemrum udsender et identifikationsnummer. Disse numre vil blive opfanget af BLE-modtagere i nærheden (f.eks. smartphones, pc’er, GPS-bokse eller endda gateways). Oplysningerne vil derefter blive transmitteret til klientservere via skyen eller via Ethernet-netværk. Slutbrugeren vil kunne konsultere dataene i realtid på en forretningsplatform og oprette alarmer, hvis det er nødvendigt.Slutbrugeren vil kunne konsultere dataene i realtid på en forretningsplatform og oprette alarmer, hvis det er nødvendigt.",
+          "bodyHtml": "<p>Til geolokalisering af byggepladsværktøj kan forskellige teknologier anvendes. Valget af én teknologi frem for en anden afhænger af forskellige kriterier, såsom den ønskede type infrastruktur, antallet og størrelsen af ​​det udstyr, der skal geolokaliseres, det miljø, hvor løsningen skal installeres, omkostningerne ved infrastrukturen og endelig det krævede præcisionsniveau. For at geolokalisere byggepladsværktøj tilbyder Jaxicloud Innovation positionsbeacons baseret på 3 forskellige teknologier: Bluetooth Low Energy, Wirepas Mesh og Quuppa AOA.</p><p>Det udstyr, der skal geolokaliseres, vil være udstyret med BLE-beacons, der med jævne mellemrum udsender et identifikationsnummer. Disse numre vil blive opfanget af BLE-modtagere i nærheden (f.eks. smartphones, pc’er, GPS-bokse eller endda gateways). Oplysningerne vil derefter blive transmitteret til klientservere via skyen eller via Ethernet-netværk. Slutbrugeren vil kunne konsultere dataene i realtid på en forretningsplatform og oprette alarmer, hvis det er nødvendigt.</p><p>Slutbrugeren vil kunne konsultere dataene i realtid på en forretningsplatform og oprette alarmer, hvis det er nødvendigt.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "For the geolocation of construction site tools, different technologies can be used. The choice of one technology over another will depend on various criteria, such as the type of infrastructure desired, the number and size of the equipment to be geolocated, the environment in which the solution will be installed, the cost of the infrastructure and finally, the level of precision required. To geolocate construction site tools, Jaxicloud Innovation offers location beacons based on 3 different technologies: Bluetooth Low Energy, Wirepas Mesh and Quuppa AOA.The equipment to be Geo-located will be equipped with BLE beacons that periodically emit an identification number. These numbers will be picked up by nearby BLE receivers (e.g. smartphones, PCs, GPS boxes or even gateways). The information will then be transmitted to client servers via the cloud or via Ethernet networks . The end user will be able to consult the data in real time on a business platform and set up alerts if necessary.The end user will be able to consult the data in real time on a business platform and set up alerts if necessary.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">For the geolocation of construction site tools, different technologies can be used. The choice of one technology over another will depend on various criteria, such as the type of infrastructure desired, the number and size of the equipment to be geolocated, the environment in which the solution will be installed, the cost of the infrastructure and finally, the level of precision required. To geolocate construction site tools, Jaxicloud Innovation offers location beacons based on 3 different technologies: Bluetooth Low Energy, Wirepas Mesh and Quuppa AOA.</span></p><p>The equipment to be Geo-located will be equipped with BLE beacons that periodically emit an identification number. These numbers will be picked up by nearby BLE receivers (e.g. smartphones, PCs, GPS boxes or even gateways). The information will then be transmitted to client servers via the cloud or via Ethernet networks . The end user will be able to consult the data in real time on a business platform and set up alerts if necessary.</p><p>The end user will be able to consult the data in real time on a business platform and set up alerts if necessary.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Für die Geolokalisierung von Baustellengeräten können verschiedene Technologien eingesetzt werden. Die Wahl der Technologie hängt von verschiedenen Kriterien ab, wie z. B. der gewünschten Infrastruktur, der Anzahl und Größe der zu ortenden Geräte, der Installationsumgebung, den Infrastrukturkosten und der erforderlichen Genauigkeit. Jaxicloud Innovation bietet für die Geolokalisierung von Baustellengeräten Ortungs-Beacons auf Basis von drei verschiedenen Technologien an: Bluetooth Low Energy (BLE), Wirepas Mesh und Quuppa AOA.Die zu ortenden Geräte werden mit BLE-Beacons ausgestattet, die periodisch eine Identifikationsnummer aussenden. Diese Nummern werden von BLE-Empfängern in der Nähe (z. B. Smartphones, PCs, GPS-Geräte oder Gateways) erfasst. Die Informationen werden anschließend über die Cloud oder Ethernet-Netzwerke an Client-Server übertragen. Der Endnutzer kann die Daten in Echtzeit auf einer Geschäftsplattform einsehen und bei Bedarf Benachrichtigungen einrichten.Der Endnutzer kann die Daten in Echtzeit auf einer Geschäftsplattform einsehen und bei Bedarf Benachrichtigungen einrichten.",
+          "bodyHtml": "<p>Für die Geolokalisierung von Baustellengeräten können verschiedene Technologien eingesetzt werden. Die Wahl der Technologie hängt von verschiedenen Kriterien ab, wie z. B. der gewünschten Infrastruktur, der Anzahl und Größe der zu ortenden Geräte, der Installationsumgebung, den Infrastrukturkosten und der erforderlichen Genauigkeit. Jaxicloud Innovation bietet für die Geolokalisierung von Baustellengeräten Ortungs-Beacons auf Basis von drei verschiedenen Technologien an: Bluetooth Low Energy (BLE), Wirepas Mesh und Quuppa AOA.</p><p>Die zu ortenden Geräte werden mit BLE-Beacons ausgestattet, die periodisch eine Identifikationsnummer aussenden. Diese Nummern werden von BLE-Empfängern in der Nähe (z. B. Smartphones, PCs, GPS-Geräte oder Gateways) erfasst. Die Informationen werden anschließend über die Cloud oder Ethernet-Netzwerke an Client-Server übertragen. Der Endnutzer kann die Daten in Echtzeit auf einer Geschäftsplattform einsehen und bei Bedarf Benachrichtigungen einrichten.</p><p>Der Endnutzer kann die Daten in Echtzeit auf einer Geschäftsplattform einsehen und bei Bedarf Benachrichtigungen einrichten.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Pour la géolocalisation des outils de chantier, différentes technologies peuvent être utilisées. Le choix de la technologie dépend de plusieurs critères, tels que le type d’infrastructure souhaité, le nombre et la taille des équipements à géolocaliser, l’environnement d’installation, le coût de l’infrastructure et, enfin, le niveau de précision requis. Pour la géolocalisation des outils de chantier, Jaxicloud Innovation propose des balises de localisation basées sur trois technologies : Bluetooth Low Energy (BLE), Wirepas Mesh et Quuppa AOA.Les équipements à géolocaliser sont équipés de balises BLE qui émettent périodiquement un numéro d’identification. Ces numéros sont captés par des récepteurs BLE à proximité (smartphones, ordinateurs, boîtiers GPS ou passerelles, par exemple). Les informations sont ensuite transmises aux serveurs clients via le cloud ou via des réseaux Ethernet. L’utilisateur final peut consulter les données en temps réel sur une plateforme métier et configurer des alertes si nécessaire.L’utilisateur final peut consulter les données en temps réel sur une plateforme métier et configurer des alertes si nécessaire.",
+          "bodyHtml": "<p>Pour la géolocalisation des outils de chantier, différentes technologies peuvent être utilisées. Le choix de la technologie dépend de plusieurs critères, tels que le type d’infrastructure souhaité, le nombre et la taille des équipements à géolocaliser, l’environnement d’installation, le coût de l’infrastructure et, enfin, le niveau de précision requis. Pour la géolocalisation des outils de chantier, Jaxicloud Innovation propose des balises de localisation basées sur trois technologies : Bluetooth Low Energy (BLE), Wirepas Mesh et Quuppa AOA.</p><p>Les équipements à géolocaliser sont équipés de balises BLE qui émettent périodiquement un numéro d’identification. Ces numéros sont captés par des récepteurs BLE à proximité (smartphones, ordinateurs, boîtiers GPS ou passerelles, par exemple). Les informations sont ensuite transmises aux serveurs clients via le cloud ou via des réseaux Ethernet. L’utilisateur final peut consulter les données en temps réel sur une plateforme métier et configurer des alertes si nécessaire.</p><p>L’utilisateur final peut consulter les données en temps réel sur une plateforme métier et configurer des alertes si nécessaire.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Voor de geolokalisatie van bouwplaatsgereedschappen kunnen verschillende technologieën worden gebruikt. De keuze voor de ene of de andere technologie hangt af van verschillende criteria, zoals het gewenste type infrastructuur, het aantal en de omvang van de te geolokaliseren apparatuur, de omgeving waarin de oplossing wordt geïnstalleerd, de kosten van de infrastructuur en ten slotte de vereiste nauwkeurigheid. Voor de geolokalisatie van bouwplaatsgereedschappen biedt Jaxicloud Innovation locatiebeacons aan op basis van drie verschillende technologieën: Bluetooth Low Energy, Wirepas Mesh en Quuppa AOA.De te geolokaliseren apparatuur wordt uitgerust met BLE-beacons die periodiek een identificatienummer uitzenden. Deze nummers worden opgepikt door BLE-ontvangers in de buurt (bijv. smartphones, pc’s, gps-ontvangers of zelfs gateways). De informatie wordt vervolgens via de cloud of via Ethernet-netwerken naar clientservers verzonden. De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.",
+          "bodyHtml": "<p>Voor de geolokalisatie van bouwplaatsgereedschappen kunnen verschillende technologieën worden gebruikt. De keuze voor de ene of de andere technologie hangt af van verschillende criteria, zoals het gewenste type infrastructuur, het aantal en de omvang van de te geolokaliseren apparatuur, de omgeving waarin de oplossing wordt geïnstalleerd, de kosten van de infrastructuur en ten slotte de vereiste nauwkeurigheid. Voor de geolokalisatie van bouwplaatsgereedschappen biedt Jaxicloud Innovation locatiebeacons aan op basis van drie verschillende technologieën: Bluetooth Low Energy, Wirepas Mesh en Quuppa AOA.</p><p>De te geolokaliseren apparatuur wordt uitgerust met BLE-beacons die periodiek een identificatienummer uitzenden. Deze nummers worden opgepikt door BLE-ontvangers in de buurt (bijv. smartphones, pc’s, gps-ontvangers of zelfs gateways). De informatie wordt vervolgens via de cloud of via Ethernet-netwerken naar clientservers verzonden. De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.</p><p>De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "For geolokalisering av byggeplassverktøy kan ulike teknologier brukes. Valget av én teknologi fremfor en annen vil avhenge av ulike kriterier, som ønsket type infrastruktur, antall og størrelse på utstyret som skal geolokaliseres, miljøet løsningen skal installeres i, kostnaden for infrastrukturen og til slutt, presisjonsnivået som kreves. For å geolokalisere byggeplassverktøy tilbyr Jaxicloud Innovation lokasjonsbeacons basert på tre forskjellige teknologier: Bluetooth Low Energy, Wirepas Mesh og Quuppa AOA.Utstyret som skal geolokaliseres vil bli utstyrt med BLE-beacons som med jevne mellomrom sender ut et identifikasjonsnummer. Disse numrene vil bli plukket opp av BLE-mottakere i nærheten (f.eks. smarttelefoner, PC-er, GPS-bokser eller til og med gatewayer). Informasjonen vil deretter bli overført til klientservere via skyen eller via Ethernet-nettverk. Sluttbrukeren vil kunne konsultere dataene i sanntid på en forretningsplattform og sette opp varsler om nødvendig.Sluttbrukeren vil kunne konsultere dataene i sanntid på en forretningsplattform og sette opp varsler om nødvendig.",
+          "bodyHtml": "<p>For geolokalisering av byggeplassverktøy kan ulike teknologier brukes. Valget av én teknologi fremfor en annen vil avhenge av ulike kriterier, som ønsket type infrastruktur, antall og størrelse på utstyret som skal geolokaliseres, miljøet løsningen skal installeres i, kostnaden for infrastrukturen og til slutt, presisjonsnivået som kreves. For å geolokalisere byggeplassverktøy tilbyr Jaxicloud Innovation lokasjonsbeacons basert på tre forskjellige teknologier: Bluetooth Low Energy, Wirepas Mesh og Quuppa AOA.</p><p>Utstyret som skal geolokaliseres vil bli utstyrt med BLE-beacons som med jevne mellomrom sender ut et identifikasjonsnummer. Disse numrene vil bli plukket opp av BLE-mottakere i nærheten (f.eks. smarttelefoner, PC-er, GPS-bokser eller til og med gatewayer). Informasjonen vil deretter bli overført til klientservere via skyen eller via Ethernet-nettverk. Sluttbrukeren vil kunne konsultere dataene i sanntid på en forretningsplattform og sette opp varsler om nødvendig.</p><p>Sluttbrukeren vil kunne konsultere dataene i sanntid på en forretningsplattform og sette opp varsler om nødvendig.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "För geolokalisering av byggarbetsplatsverktyg kan olika tekniker användas. Valet av en teknik framför en annan beror på olika kriterier, såsom önskad typ av infrastruktur, antal och storlek på den utrustning som ska geolokaliseras, miljön där lösningen ska installeras, kostnaden för infrastrukturen och slutligen den precisionsnivå som krävs. För att geolokalisera byggarbetsplatsverktyg erbjuder Jaxicloud Innovation positioneringsfyrar baserade på tre olika tekniker: Bluetooth Low Energy, Wirepas Mesh och Quuppa AOA.Utrustningen som ska geolokaliseras kommer att vara utrustad med BLE-fyrar som regelbundet avger ett identifieringsnummer. Dessa nummer kommer att plockas upp av närliggande BLE-mottagare (t.ex. smartphones, datorer, GPS-boxar eller till och med gateways). Informationen kommer sedan att överföras till klientservrar via molnet eller via Ethernet-nätverk. Slutanvändaren kommer att kunna konsultera informationen i realtid på en företagsplattform och ställa in aviseringar vid behov.",
+          "bodyHtml": "<p>För geolokalisering av byggarbetsplatsverktyg kan olika tekniker användas. Valet av en teknik framför en annan beror på olika kriterier, såsom önskad typ av infrastruktur, antal och storlek på den utrustning som ska geolokaliseras, miljön där lösningen ska installeras, kostnaden för infrastrukturen och slutligen den precisionsnivå som krävs. För att geolokalisera byggarbetsplatsverktyg erbjuder Jaxicloud Innovation positioneringsfyrar baserade på tre olika tekniker: Bluetooth Low Energy, Wirepas Mesh och Quuppa AOA.</p><p>Utrustningen som ska geolokaliseras kommer att vara utrustad med BLE-fyrar som regelbundet avger ett identifieringsnummer. Dessa nummer kommer att plockas upp av närliggande BLE-mottagare (t.ex. smartphones, datorer, GPS-boxar eller till och med gateways). Informationen kommer sedan att överföras till klientservrar via molnet eller via Ethernet-nätverk. Slutanvändaren kommer att kunna konsultera informationen i realtid på en företagsplattform och ställa in aviseringar vid behov.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Şantiye ekipmanlarının coğrafi konumlandırılması için farklı teknolojiler kullanılabilir. Bir teknolojinin diğerine tercih edilmesi, istenen altyapı türü, coğrafi konumlandırılacak ekipmanın sayısı ve boyutu, çözümün kurulacağı ortam, altyapı maliyeti ve son olarak gereken hassasiyet düzeyi gibi çeşitli kriterlere bağlı olacaktır. Şantiye ekipmanlarının coğrafi konumlandırılması için Jaxicloud Innovation, 3 farklı teknolojiye dayalı konum işaretçileri sunmaktadır: Bluetooth Düşük Enerji, Wirepas Mesh ve Quuppa AOA.Konumlandırılacak ekipman, periyodik olarak bir tanımlama numarası yayan BLE işaretçileriyle donatılacaktır. Bu numaralar, yakındaki BLE alıcıları (örneğin akıllı telefonlar, bilgisayarlar, GPS kutuları veya hatta ağ geçitleri) tarafından alınacaktır. Bilgiler daha sonra bulut veya Ethernet ağları üzerinden istemci sunucularına iletilecektir. Son kullanıcı, verileri gerçek zamanlı olarak bir iş platformunda inceleyebilecek ve gerekirse uyarılar kurabilecektir.Son kullanıcı, verileri gerçek zamanlı olarak bir iş platformunda inceleyebilecek ve gerekirse uyarılar kurabilecektir.",
+          "bodyHtml": "<p>Şantiye ekipmanlarının coğrafi konumlandırılması için farklı teknolojiler kullanılabilir. Bir teknolojinin diğerine tercih edilmesi, istenen altyapı türü, coğrafi konumlandırılacak ekipmanın sayısı ve boyutu, çözümün kurulacağı ortam, altyapı maliyeti ve son olarak gereken hassasiyet düzeyi gibi çeşitli kriterlere bağlı olacaktır. Şantiye ekipmanlarının coğrafi konumlandırılması için Jaxicloud Innovation, 3 farklı teknolojiye dayalı konum işaretçileri sunmaktadır: Bluetooth Düşük Enerji, Wirepas Mesh ve Quuppa AOA.</p><p>Konumlandırılacak ekipman, periyodik olarak bir tanımlama numarası yayan BLE işaretçileriyle donatılacaktır. Bu numaralar, yakındaki BLE alıcıları (örneğin akıllı telefonlar, bilgisayarlar, GPS kutuları veya hatta ağ geçitleri) tarafından alınacaktır. Bilgiler daha sonra bulut veya Ethernet ağları üzerinden istemci sunucularına iletilecektir. Son kullanıcı, verileri gerçek zamanlı olarak bir iş platformunda inceleyebilecek ve gerekirse uyarılar kurabilecektir.</p><p>Son kullanıcı, verileri gerçek zamanlı olarak bir iş platformunda inceleyebilecek ve gerekirse uyarılar kurabilecektir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-7",
+      "type": "heading",
+      "order": 6,
+      "sectionIndex": 3,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvorfor integrere tags i dit værktøjs geolokationsløsning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Why integrate tags into your tool's geolocation solution?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Warum sollten Sie Tags in die Geolokalisierungslösung Ihres Tools integrieren?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Pourquoi intégrer des balises à la solution de géolocalisation de votre outil ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Waarom zou u tags integreren in de geolocatieoplossing van uw tool?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvorfor integrere tagger i verktøyets geolokasjonsløsning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Varför integrera taggar i ert verktygs geolokaliseringslösning?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Etiketleri aracınızın konum belirleme çözümüne neden entegre etmelisiniz?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-8",
+      "type": "richText",
+      "order": 7,
+      "sectionIndex": 3,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Jaxicloud Innovation-lokationstags er ideelle til at opfylde behovet for værktøjsgeolokalisering af mange årsager:",
+          "bodyHtml": "<p>Jaxicloud Innovation-lokationstags er ideelle til at opfylde behovet for værktøjsgeolokalisering af mange årsager:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "Jaxicloud Innovation location tags are ideal for meeting the need for tool geolocation for many reasons:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Jaxicloud Innovation location tags are ideal for meeting the need for tool geolocation for many reasons:</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Jaxicloud Innovation Standorttags eignen sich aus vielen Gründen ideal, um den Bedarf an Werkzeug-Geolokalisierung zu decken: Integrieren Sie die Tags in die Geolokalisierungslösung Ihres Werkzeugs?",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Innovation Standorttags eignen sich aus vielen Gründen ideal, um den Bedarf an Werkzeug-Geolokalisierung zu decken: Integrieren Sie die Tags in die Geolokalisierungslösung Ihres Werkzeugs?</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Les balises de localisation Jaxicloud Innovation sont idéales pour répondre aux besoins de géolocalisation des outils pour de nombreuses raisons :",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les balises de localisation Jaxicloud Innovation sont idéales pour répondre aux besoins de géolocalisation des outils pour de nombreuses raisons :</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Jaxicloud Innovation-locatietags zijn ideaal om te voldoen aan de behoefte aan geolocatie van gereedschappen, en wel om vele redenen:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Innovation-locatietags zijn ideaal om te voldoen aan de behoefte aan geolocatie van gereedschappen, en wel om vele redenen:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Jaxicloud Innovation-lokasjonstagger er ideelle for å dekke behovet for verktøygeolokalisering av mange grunner:",
+          "bodyHtml": "<p>Jaxicloud Innovation-lokasjonstagger er ideelle for å dekke behovet for verktøygeolokalisering av mange grunner:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Jaxicloud Innovations platstaggar är idealiska för att möta behovet av verktygsgeolokalisering av många anledningar:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Innovations platstaggar är idealiska för att möta behovet av verktygsgeolokalisering av många anledningar:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "Jaxicloud Innovation konum etiketleri, birçok nedenden dolayı aletlerin coğrafi konum belirleme ihtiyacını karşılamak için idealdir:",
+          "bodyHtml": "<p>Jaxicloud Innovation konum etiketleri, birçok nedenden dolayı aletlerin coğrafi konum belirleme ihtiyacını karşılamak için idealdir:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-9",
+      "type": "featureCard",
+      "order": 8,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "100% uafhængig",
+          "body": "Deres batteridrift giver en lang levetid, som afhængigt af modellen kan nå op på 20 år.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Deres batteridrift giver en lang levetid, som afhængigt af modellen kan nå op på 20 år.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "100% independent",
+          "body": "Their battery operation provides a long autonomy, which depending on the model can reach 20 years.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Their battery operation provides&nbsp;a long autonomy, which depending on the model can reach 20 years.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "100% unabhängig",
+          "body": "Durch den Batteriebetrieb wird eine lange Autonomie gewährleistet, die je nach Modell bis zu 20 Jahre betragen kann.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Durch den Batteriebetrieb wird eine lange Autonomie gewährleistet, die je nach Modell bis zu 20 Jahre betragen kann.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "100% indépendant",
+          "body": "Leur fonctionnement sur batterie offre une longue autonomie, qui peut atteindre 20 ans selon le modèle.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Leur fonctionnement sur batterie offre une longue autonomie, qui peut atteindre 20 ans selon le modèle.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "100% onafhankelijk",
+          "body": "Hun batterijwerking garandeert een lange autonomie, die afhankelijk van het model wel 20 jaar kan bedragen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Hun batterijwerking garandeert een lange autonomie, die afhankelijk van het model wel 20 jaar kan bedragen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "100 % uavhengig",
+          "body": "Batteridriften gir lang levetid, som avhengig av modellen kan nå 20 år.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Batteridriften gir lang levetid, som avhengig av modellen kan nå 20 år.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "100 % oberoende",
+          "body": "Deras batteridrift ger en lång livslängd, som beroende på modell kan uppgå till 20 år.",
+          "bodyHtml": "<p>Deras batteridrift ger en lång livslängd, som beroende på modell kan uppgå till 20 år.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "%100 bağımsız",
+          "body": "Pillerinin çalışma prensibi, modele bağlı olarak 20 yıla kadar ulaşabilen uzun bir kullanım ömrü sağlar.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Pillerinin çalışma prensibi, modele bağlı olarak 20 yıla kadar ulaşabilen uzun bir kullanım ömrü sağlar.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-10",
+      "type": "featureCard",
+      "order": 9,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Robust og kompakt",
+          "body": "Det industrielle hus til disse beacons er designet til brug under ekstreme forhold. Det er modstandsdygtigt over for stød og vibrationer.",
+          "bodyHtml": "<p>Det industrielle hus til disse beacons er designet til brug under ekstreme forhold. Det er modstandsdygtigt over for stød og vibrationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Robust and compact",
+          "body": "The industrial housing for these beacons is designed to be used in extreme conditions. It is resistant to shock and vibration.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The industrial housing for these beacons is designed to&nbsp;be used in extreme conditions. It is resistant to shock and vibration.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Robust und kompakt",
+          "body": "Das Industriegehäuse dieser Leuchtfeuer ist für den Einsatz unter extremen Bedingungen ausgelegt. Es ist stoß- und vibrationsfest.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Das Industriegehäuse dieser Leuchtfeuer ist für den Einsatz unter extremen Bedingungen ausgelegt. Es ist stoß- und vibrationsfest.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Robuste et compact",
+          "body": "Le boîtier industriel de ces balises est conçu pour résister aux conditions extrêmes. Il est résistant aux chocs et aux vibrations.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Le boîtier industriel de ces balises est conçu pour résister aux conditions extrêmes. Il est résistant aux chocs et aux vibrations.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Robuust en compact",
+          "body": "De industriële behuizing van deze bakens is ontworpen voor gebruik onder extreme omstandigheden. Ze is bestand tegen schokken en trillingen.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De industriële behuizing van deze bakens is ontworpen voor gebruik onder extreme omstandigheden. Ze is bestand tegen schokken en trillingen.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Robust og kompakt",
+          "body": "Det industrielle huset til disse varselsignalene er designet for bruk under ekstreme forhold. Det er motstandsdyktig mot støt og vibrasjoner.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Det industrielle huset til disse varselsignalene er designet for bruk under ekstreme forhold. Det er motstandsdyktig mot støt og vibrasjoner.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Robust och kompakt",
+          "body": "Det industriella höljet för dessa varningsljus är utformat för att användas under extrema förhållanden. Det är motståndskraftigt mot stötar och vibrationer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Det industriella höljet för dessa varningsljus är utformat för att användas under extrema förhållanden. Det är motståndskraftigt mot stötar och vibrationer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Sağlam ve kompakt",
+          "body": "Bu sinyal vericilerinin endüstriyel gövdesi, aşırı koşullarda kullanılmak üzere tasarlanmıştır. Darbelere ve titreşimlere karşı dayanıklıdır.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bu sinyal vericilerinin endüstriyel gövdesi, aşırı koşullarda kullanılmak üzere tasarlanmıştır. Darbelere ve titreşimlere karşı dayanıklıdır.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-11",
+      "type": "featureCard",
+      "order": 10,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hurtig og nem installation",
+          "body": "Takket være de forskellige fastgørelsesmetoder (højtydende dobbeltsidet klistermærke eller skruemontering) er disse rotorblink ultranemme at installere. De kan fastgøres til enhver type overflade og kræver ingen ledninger.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Takket være de forskellige fastgørelsesmetoder (højtydende dobbeltsidet klistermærke eller skruemontering) er disse rotorblink ultranemme at installere. De kan fastgøres til enhver type overflade og kræver ingen ledninger.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Quick and easy installation",
+          "body": "Ultra simple to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these beacons can be attached to any type of surface and require no wiring.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">Ultra simple to install thanks to the different attachment methods (high-performance double-sided sticker or screw-on support), these beacons can be attached to any type of surface and require no wiring.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Schnelle und einfache Installation",
+          "body": "Dank der verschiedenen Befestigungsmethoden (hochleistungsfähiger doppelseitiger Aufkleber oder Schraubbefestigung) sind diese Leuchtfeuer extrem einfach zu installieren, können auf jeder Art von Oberfläche angebracht werden und benötigen keine Verkabelung.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dank der verschiedenen Befestigungsmethoden (hochleistungsfähiger doppelseitiger Aufkleber oder Schraubbefestigung) sind diese Leuchtfeuer extrem einfach zu installieren, können auf jeder Art von Oberfläche angebracht werden und benötigen keine Verkabelung.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Installation rapide et facile",
+          "body": "Ultra simples à installer grâce aux différentes méthodes de fixation (autocollant double face haute performance ou support à visser), ces balises peuvent être fixées sur tout type de surface et ne nécessitent aucun câblage.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Ultra simples à installer grâce aux différentes méthodes de fixation (autocollant double face haute performance ou support à visser), ces balises peuvent être fixées sur tout type de surface et ne nécessitent aucun câblage.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Snelle en eenvoudige installatie",
+          "body": "Dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging) zijn deze bakens zeer eenvoudig te installeren. Ze kunnen op elk type oppervlak worden bevestigd en vereisen geen bedrading.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging) zijn deze bakens zeer eenvoudig te installeren. Ze kunnen op elk type oppervlak worden bevestigd en vereisen geen bedrading.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Rask og enkel installasjon",
+          "body": "Disse varsellysene er svært enkle å installere takket være de forskjellige festemetodene (høytytende dobbeltsidig klistremerke eller skrufeste), og kan festes til alle typer overflater og krever ingen kabling.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Disse varsellysene er svært enkle å installere takket være de forskjellige festemetodene (høytytende dobbeltsidig klistremerke eller skrufeste), og kan festes til alle typer overflater og krever ingen kabling.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Snabb och enkel installation",
+          "body": "Tack vare de olika fästmetoderna (högpresterande dubbelsidig klistermärke eller skruvstöd) är dessa varningsljus extremt enkla att installera. De kan fästas på alla typer av ytor och kräver ingen kabeldragning.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Tack vare de olika fästmetoderna (högpresterande dubbelsidig klistermärke eller skruvstöd) är dessa varningsljus extremt enkla att installera. De kan fästas på alla typer av ytor och kräver ingen kabeldragning.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hızlı ve kolay kurulum",
+          "body": "Farklı bağlantı yöntemleri (yüksek performanslı çift taraflı yapışkan veya vidalı destek) sayesinde kurulumu son derece kolay olan bu sinyal vericiler, her türlü yüzeye takılabilir ve kablolama gerektirmez.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Farklı bağlantı yöntemleri (yüksek performanslı çift taraflı yapışkan veya vidalı destek) sayesinde kurulumu son derece kolay olan bu sinyal vericiler, her türlü yüzeye takılabilir ve kablolama gerektirmez.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-12",
+      "type": "featureCard",
+      "order": 11,
+      "sectionIndex": 4,
+      "widgetType": "eael-info-box.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 2,
+        "columnIndex": 1,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Høj positioneringsnøjagtighed",
+          "body": "De anvendte lokaliseringsteknologier tilbyder lokaliseringsnøjagtighed fra 10 m til mindre end 1 m. Perfekt til lokalisering af stort entreprenørmateriel såvel som små håndværktøjer.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De anvendte lokaliseringsteknologier tilbyder lokaliseringsnøjagtighed fra 10 m til mindre end 1 m. Perfekt til lokalisering af stort entreprenørmateriel såvel som små håndværktøjer.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "High positioning accuracy",
+          "body": "The location technologies used offer location accuracy from 10m to less than 1m. Perfect for locating large construction equipment as well as small hand tools.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">The location technologies used offer location accuracy from 10m to less than 1m. Perfect for locating large construction equipment as well as small hand tools.</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Hohe Positioniergenauigkeit",
+          "body": "Die verwendeten Ortungstechnologien bieten eine Positionsgenauigkeit von 10 m bis unter 1 m. Perfekt geeignet zum Auffinden großer Baumaschinen sowie kleiner Handwerkzeuge.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Die verwendeten Ortungstechnologien bieten eine Positionsgenauigkeit von 10 m bis unter 1 m. Perfekt geeignet zum Auffinden großer Baumaschinen sowie kleiner Handwerkzeuge.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Haute précision de positionnement",
+          "body": "Les technologies de géolocalisation utilisées offrent une précision de 10 m à moins de 1 m. Idéales pour localiser aussi bien les gros engins de chantier que les petits outils à main.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Les technologies de géolocalisation utilisées offrent une précision de 10 m à moins de 1 m. Idéales pour localiser aussi bien les gros engins de chantier que les petits outils à main.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Hoge positioneringsnauwkeurigheid",
+          "body": "De gebruikte locatietechnologieën bieden een nauwkeurigheid van 10 m tot minder dan 1 m. Perfect voor het lokaliseren van grote bouwmachines en klein handgereedschap.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De gebruikte locatietechnologieën bieden een nauwkeurigheid van 10 m tot minder dan 1 m. Perfect voor het lokaliseren van grote bouwmachines en klein handgereedschap.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Høy posisjoneringsnøyaktighet",
+          "body": "Lokaliseringsteknologiene som brukes tilbyr lokaliseringsnøyaktighet fra 10 m til mindre enn 1 m. Perfekt for å lokalisere stort anleggsutstyr så vel som små håndverktøy.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Lokaliseringsteknologiene som brukes tilbyr lokaliseringsnøyaktighet fra 10 m til mindre enn 1 m. Perfekt for å lokalisere stort anleggsutstyr så vel som små håndverktøy.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Hög positioneringsnoggrannhet",
+          "body": "De använda lokaliseringsteknikerna erbjuder en noggrannhet från 10 m till mindre än 1 m. Perfekt för att lokalisera stora byggmaskiner såväl som små handverktyg.",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De använda lokaliseringsteknikerna erbjuder en noggrannhet från 10 m till mindre än 1 m. Perfekt för att lokalisera stora byggmaskiner såväl som små handverktyg.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Yüksek konumlandırma doğruluğu",
+          "body": "Kullanılan konum belirleme teknolojileri, 10 metreden 1 metrenin altına kadar doğruluk sunar. Hem büyük inşaat ekipmanlarının hem de küçük el aletlerinin yerini belirlemek için idealdir.",
+          "bodyHtml": "<p>Kullanılan konum belirleme teknolojileri, 10 metreden 1 metrenin altına kadar doğruluk sunar. Hem büyük inşaat ekipmanlarının hem de küçük el aletlerinin yerini belirlemek için idealdir.</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-13",
+      "type": "heading",
+      "order": 12,
+      "sectionIndex": 5,
+      "widgetType": "heading.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": "Hvilke Jaxicloud Innovation-lokationstags skal jeg bruge?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": "Which Jaxicloud Innovation location tags should I use?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": "Welche Jaxicloud Innovation Standort-Tags sollte ich verwenden?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": "Quelles balises de localisation Jaxicloud Innovation dois-je utiliser ?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": "Welke Jaxicloud Innovation-locatietags moet ik gebruiken?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": "Hvilke Jaxicloud Innovation-lokasjonstagger bør jeg bruke?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": "Vilka Jaxicloud Innovation-platstaggar ska jag använda?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": "Hangi Jaxicloud Innovation konum etiketlerini kullanmalıyım?",
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-14",
+      "type": "richText",
+      "order": 13,
+      "sectionIndex": 5,
+      "widgetType": "text-editor.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": "Hvis du er leverandør af IoT-løsninger, og du ønsker at integrere geolokalisering af byggepladsværktøjer i dit tilbud, er her de Jaxicloud Innovation-produkter, vi anbefaler:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Hvis du er leverandør af IoT-løsninger, og du ønsker at integrere geolokalisering af byggepladsværktøjer i dit tilbud, er her de Jaxicloud Innovation-produkter, vi anbefaler:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": "If you are a supplier of IoT solutions and you want to integrate geolocation of construction site tools into your offering, here are the Jaxicloud Innovation products that we recommend:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\">If you are a supplier of IoT solutions and you want to integrate geolocation of construction site tools into your offering, here are the Jaxicloud Innovation products that we recommend:</span></p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": "Wenn Sie ein Anbieter von IoT-Lösungen sind und die Geolokalisierung von Baustellenwerkzeugen in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Produkte von Jaxicloud Innovation:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Wenn Sie ein Anbieter von IoT-Lösungen sind und die Geolokalisierung von Baustellenwerkzeugen in Ihr Angebot integrieren möchten, empfehlen wir Ihnen folgende Produkte von Jaxicloud Innovation:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": "Si vous êtes fournisseur de solutions IoT et que vous souhaitez intégrer la géolocalisation des outils de chantier à votre offre, voici les produits Jaxicloud Innovation que nous recommandons :",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Si vous êtes fournisseur de solutions IoT et que vous souhaitez intégrer la géolocalisation des outils de chantier à votre offre, voici les produits Jaxicloud Innovation que nous recommandons :</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": "Bent u leverancier van IoT-oplossingen en wilt u de geolocatie van bouwplaatsgereedschappen integreren in uw aanbod? Dan raden wij u de volgende Jaxicloud Innovation-producten aan:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bent u leverancier van IoT-oplossingen en wilt u de geolocatie van bouwplaatsgereedschappen integreren in uw aanbod? Dan raden wij u de volgende Jaxicloud Innovation-producten aan:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": "Hvis du er en leverandør av IoT-løsninger og ønsker å integrere geolokalisering av byggeplassverktøy i tilbudet ditt, anbefaler vi følgende Jaxicloud Innovation-produkter:",
+          "bodyHtml": "<p>Hvis du er en leverandør av IoT-løsninger og ønsker å integrere geolokalisering av byggeplassverktøy i tilbudet ditt, anbefaler vi følgende Jaxicloud Innovation-produkter:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": "Om du är en leverantör av IoT-lösningar och vill integrera geolokalisering av byggarbetsplatsverktyg i ditt erbjudande, rekommenderar vi följande Jaxicloud Innovation-produkter:",
+          "bodyHtml": "<p>Om du är en leverantör av IoT-lösningar och vill integrera geolokalisering av byggarbetsplatsverktyg i ditt erbjudande, rekommenderar vi följande Jaxicloud Innovation-produkter:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": "IoT çözümleri tedarikçisiyseniz ve şantiye ekipmanlarının coğrafi konum belirleme özelliğini ürün yelpazenize entegre etmek istiyorsanız, size önerdiğimiz Jaxicloud Innovation ürünleri şunlardır:",
+          "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">IoT çözümleri tedarikçisiyseniz ve şantiye ekipmanlarının coğrafi konum belirleme özelliğini ürün yelpazenize entegre etmek istiyorsanız, size önerdiğimiz Jaxicloud Innovation ürünleri şunlardır:</p>",
+          "listItems": [],
+          "links": [],
+          "ctaLabel": null,
+          "ctaUrl": null,
+          "imageAlts": []
+        }
+      }
+    },
+    {
+      "id": "block-15",
+      "type": "ctaButton",
+      "order": 14,
+      "sectionIndex": 6,
+      "widgetType": "eael-creative-button.default",
+      "layout": {
+        "imagePosition": "none",
+        "columnCount": 1,
+        "columnIndex": 0,
+        "isFullWidth": false,
+        "reverseMobile": false,
+        "image": null
+      },
+      "images": [],
+      "videos": [],
+      "statValue": null,
+      "translations": {
+        "da": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mere",
+              "href": "/constractor-da/"
+            }
+          ],
+          "ctaLabel": "Se mere",
+          "ctaUrl": "/constractor-da/",
+          "imageAlts": []
+        },
+        "en": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "See More",
+              "href": "/en/constractor/"
+            }
+          ],
+          "ctaLabel": "See More",
+          "ctaUrl": "/en/constractor/",
+          "imageAlts": []
+        },
+        "de": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Mehr anzeigen",
+              "href": "/de/constractor-de/"
+            }
+          ],
+          "ctaLabel": "Mehr anzeigen",
+          "ctaUrl": "/de/constractor-de/",
+          "imageAlts": []
+        },
+        "fr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Voir plus",
+              "href": "/fr/constractor-fr/"
+            }
+          ],
+          "ctaLabel": "Voir plus",
+          "ctaUrl": "/fr/constractor-fr/",
+          "imageAlts": []
+        },
+        "nl": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Zie meer",
+              "href": "/nl/constractor-hl/"
+            }
+          ],
+          "ctaLabel": "Zie meer",
+          "ctaUrl": "/nl/constractor-hl/",
+          "imageAlts": []
+        },
+        "nb": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/nb/constractor-no/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/nb/constractor-no/",
+          "imageAlts": []
+        },
+        "sv": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Se mer",
+              "href": "/sv/constractor-sv/"
+            }
+          ],
+          "ctaLabel": "Se mer",
+          "ctaUrl": "/sv/constractor-sv/",
+          "imageAlts": []
+        },
+        "tr": {
+          "heading": null,
+          "body": null,
+          "bodyHtml": null,
+          "listItems": [],
+          "links": [
+            {
+              "label": "Daha Fazlasını Gör",
+              "href": "/tr/constractor-tur/"
+            }
+          ],
+          "ctaLabel": "Daha Fazlasını Gör",
+          "ctaUrl": "/tr/constractor-tur/",
+          "imageAlts": []
+        }
+      }
+    }
+  ]
+}

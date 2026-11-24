@@ -1,0 +1,142 @@
+{
+  "id": 2767,
+  "slug": "faq-fr",
+  "canonicalSlug": "faq",
+  "locale": "fr",
+  "title": "FAQ – FR",
+  "link": "https://www.jaxicloud.com/fr/faq-fr/",
+  "pageKind": "marketing",
+  "translations": {
+    "fr": 2767,
+    "da": 2117,
+    "en": 43,
+    "de": 2510,
+    "nl": 2972,
+    "nb": 3168,
+    "sv": 3362,
+    "tr": 3552
+  },
+  "excerpt": "Frequently asked questions Trouvez rapidement des réponses aux questions les plus fréquentes concernant la plateforme JaxiCloud, ses fonctionnalités et son utilisation. Qu’est-ce que JaxiCloud Fleet Management ? Il est possible de sélectionner les paramètres d&rsquo;analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. Eco Driving peut détecter d&rsquo;autres infractions en [&hellip;]",
+  "seo": {
+    "title": "FAQ FAQ - FR - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-12T14:45:17",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "130d4a6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-130d4a6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Frequently asked questions",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-dec2534",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "31860ef",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-31860ef",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Trouvez rapidement des réponses aux questions les plus fréquentes concernant la plateforme JaxiCloud, ses fonctionnalités et son utilisation.</p>",
+      "bodyText": "Trouvez rapidement des réponses aux questions les plus fréquentes concernant la plateforme JaxiCloud, ses fonctionnalités et son utilisation.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "d2d2d8a",
+      "widgetType": "eael-adv-accordion.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-d2d2d8a",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-eael-adv-accordion"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. Eco Driving peut détecter d’autres infractions en fonction des paramètres définis.</p><p>Cette plateforme est idéale pour toutes les entreprises qui possèdent et exploitent une flotte de véhicules, notamment les entreprises de transport et de logistique, les entreprises de livraison, les sociétés de services et les collectivités locales.</p><p>Pour commencer, inscrivez-vous sur notre site web et choisissez la formule qui correspond le mieux à vos besoins. Après votre inscription, vous recevrez les instructions pour installer nos dispositifs de suivi et configurer votre compte.</p><p>Vous pouvez saisir les calendriers de maintenance dans JaxiCloud, qui vous rappellera les rendez-vous d’entretien à venir et conservera l’historique de la maintenance.</p><p>Oui, JaxiCloud analyse les habitudes de conduite et vous fournit des informations sur le comportement au volant, comme la vitesse, les freinages brusques et les accélérations, contribuant ainsi à améliorer la sécurité et à réduire les coûts.</p><p>Nous utilisons des mesures de sécurité avancées, notamment le chiffrement et des audits de sécurité réguliers, pour protéger vos données.</p><p>Vous pouvez contacter notre équipe d’assistance par courriel, par téléphone ou par messagerie instantanée. Vous trouverez des informations sur l’assistance sur notre site web.</p><p>Oui, nous proposons des supports de formation complets, notamment des vidéos, des manuels et des webinaires, pour vous aider à tirer le meilleur parti de JaxiCloud Fleet Management.</p><p>Nous proposons différentes formules adaptées aux besoins et à la taille des entreprises. Consultez notre page de tarifs pour plus d’informations sur les formules disponibles.</p><p>Vous serez facturé mensuellement ou annuellement, selon la formule d’abonnement choisie. La facturation est automatique et s’effectue via le mode de paiement que vous avez sélectionné lors de votre inscription.</p><p>Vous devez installer des dispositifs de suivi GPS JaxiCloud dans vos véhicules. Ces dispositifs sont inclus dans votre abonnement.</p><p>Oui, JaxiCloud propose une application mobile pour iOS et Android qui vous permet de gérer votre flotte et d’obtenir des mises à jour en temps réel où que vous soyez.</p><p>Suivi en temps réel : Surveillez la position de vos véhicules en temps réel.</p><p>Planification de la maintenance : Planifiez et suivez la maintenance de vos véhicules afin de minimiser les temps d’immobilisation.</p><p>Gestion du carburant : Surveillez la consommation de carburant et identifiez les pistes d’économies.</p><p>Analyse du comportement de conduite : Analysez les habitudes de conduite pour améliorer la sécurité et l’efficacité.</p><p>Rapports : Générez des rapports détaillés sur les performances et les coûts de votre flotte.</p><p>Oui, vous pouvez modifier votre abonnement à tout moment depuis les paramètres de votre compte sur le site web de JaxiCloud.</p>",
+      "bodyText": "Il est possible de sélectionner les paramètres d’analyse du comportement de conduite : accélération, freinage, vitesse, conduite dangereuse, accélération en virage. Eco Driving peut détecter d’autres infractions en fonction des paramètres définis.Cette plateforme est idéale pour toutes les entreprises qui possèdent et exploitent une flotte de véhicules, notamment les entreprises de transport et de logistique, les entreprises de livraison, les sociétés de services et les collectivités locales.Pour commencer, inscrivez-vous sur notre site web et choisissez la formule qui correspond le mieux à vos besoins. Après votre inscription, vous recevrez les instructions pour installer nos dispositifs de suivi et configurer votre compte.Vous pouvez saisir les calendriers de maintenance dans JaxiCloud, qui vous rappellera les rendez-vous d’entretien à venir et conservera l’historique de la maintenance.Oui, JaxiCloud analyse les habitudes de conduite et vous fournit des informations sur le comportement au volant, comme la vitesse, les freinages brusques et les accélérations, contribuant ainsi à améliorer la sécurité et à réduire les coûts.Nous utilisons des mesures de sécurité avancées, notamment le chiffrement et des audits de sécurité réguliers, pour protéger vos données.Vous pouvez contacter notre équipe d’assistance par courriel, par téléphone ou par messagerie instantanée. Vous trouverez des informations sur l’assistance sur notre site web.Oui, nous proposons des supports de formation complets, notamment des vidéos, des manuels et des webinaires, pour vous aider à tirer le meilleur parti de JaxiCloud Fleet Management.Nous proposons différentes formules adaptées aux besoins et à la taille des entreprises. Consultez notre page de tarifs pour plus d’informations sur les formules disponibles.Vous serez facturé mensuellement ou annuellement, selon la formule d’abonnement choisie. La facturation est automatique et s’effectue via le mode de paiement que vous avez sélectionné lors de votre inscription.Vous devez installer des dispositifs de suivi GPS JaxiCloud dans vos véhicules. Ces dispositifs sont inclus dans votre abonnement.Oui, JaxiCloud propose une application mobile pour iOS et Android qui vous permet de gérer votre flotte et d’obtenir des mises à jour en temps réel où que vous soyez.Suivi en temps réel : Surveillez la position de vos véhicules en temps réel.Planification de la maintenance : Planifiez et suivez la maintenance de vos véhicules afin de minimiser les temps d’immobilisation.Gestion du carburant : Surveillez la consommation de carburant et identifiez les pistes d’économies.Analyse du comportement de conduite : Analysez les habitudes de conduite pour améliorer la sécurité et l’efficacité.Rapports : Générez des rapports détaillés sur les performances et les coûts de votre flotte.Oui, vous pouvez modifier votre abonnement à tout moment depuis les paramètres de votre compte sur le site web de JaxiCloud.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-d53af26",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 3,
+    "sectionCount": 2,
+    "htmlBytes": 23628
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "id": 2988,
+  "slug": "geolocation-of-construction-tools-hl",
+  "canonicalSlug": "geolocation-of-construction-tools",
+  "locale": "nl",
+  "title": "Geolocation of construction tools – HL",
+  "link": "https://www.jaxicloud.com/nl/geolocation-of-construction-tools-hl/",
+  "pageKind": "solution",
+  "translations": {
+    "nl": 2988,
+    "da": 2132,
+    "en": 1204,
+    "de": 2526,
+    "fr": 2782,
+    "nb": 3185,
+    "sv": 3377,
+    "tr": 3567
+  },
+  "excerpt": "Geolocatie van bouwgereedschappen Wat is geolocatie van bouwgereedschappen? In de bouwsector vormt het beheer van het materieelpark een grote uitdaging voor bedrijven. Bouwplaatsgereedschappen zijn immers waardevolle apparatuur en slecht beheer ervan kan aanzienlijke extra kosten voor bedrijven overschrijden. Apparatuur wordt vaak over verschillende locaties verspreid en door veel mensen gebruikt, wat kan leiden tot verlies, [&hellip;]",
+  "seo": {
+    "title": "Geolocatie van bouwgereedschappen - Jaxicloud",
+    "description": null
+  },
+  "modified": "2025-12-18T00:10:16",
+  "blocks": [
+    {
+      "id": "block-1",
+      "order": 0,
+      "sectionIndex": 0,
+      "elementorId": "a94ebc6",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-a94ebc6",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Geolocatie van bouwgereedschappen",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-fbb9151",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-2",
+      "order": 1,
+      "sectionIndex": 1,
+      "elementorId": "dcb9372",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-dcb9372",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Wat is geolocatie van bouwgereedschappen?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4f78a58",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-3",
+      "order": 2,
+      "sectionIndex": 1,
+      "elementorId": "621b697",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-621b697",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>In de bouwsector vormt het beheer van het materieelpark een grote uitdaging voor bedrijven. Bouwplaatsgereedschappen zijn immers waardevolle apparatuur en slecht beheer ervan kan aanzienlijke extra kosten voor bedrijven overschrijden. Apparatuur wordt vaak over verschillende locaties verspreid en door veel mensen gebruikt, wat kan leiden tot verlies, diefstal en gebrekkig onderhoud.</p><p>Om de veiligheid van goederen en mensen te vergroten, zijn er geolocatie- en geautomatiseerde magazijnoplossingen die realtime inzicht in de staat van apparatuur mogelijk maken.</p><p>Dit type oplossing maakt het gemakkelijker om hulpmiddelen op de locatie te vinden, waardoor de tijdverspilling voor operators wordt verminderd. Dit soort verbonden oplossingen maakt het ook mogelijk om de bezettingsgraad van apparatuur te meten en te analyseren, zodat onderhouds- of herkalibratiewerkzaamheden tijdig kunnen worden gestart, waardoor storingen en ongelukken worden voorkomen.</p>",
+      "bodyText": "In de bouwsector vormt het beheer van het materieelpark een grote uitdaging voor bedrijven. Bouwplaatsgereedschappen zijn immers waardevolle apparatuur en slecht beheer ervan kan aanzienlijke extra kosten voor bedrijven overschrijden. Apparatuur wordt vaak over verschillende locaties verspreid en door veel mensen gebruikt, wat kan leiden tot verlies, diefstal en gebrekkig onderhoud.Om de veiligheid van goederen en mensen te vergroten, zijn er geolocatie- en geautomatiseerde magazijnoplossingen die realtime inzicht in de staat van apparatuur mogelijk maken.Dit type oplossing maakt het gemakkelijker om hulpmiddelen op de locatie te vinden, waardoor de tijdverspilling voor operators wordt verminderd. Dit soort verbonden oplossingen maakt het ook mogelijk om de bezettingsgraad van apparatuur te meten en te analyseren, zodat onderhouds- of herkalibratiewerkzaamheden tijdig kunnen worden gestart, waardoor storingen en ongelukken worden voorkomen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4f78a58",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-4",
+      "order": 3,
+      "sectionIndex": 1,
+      "elementorId": "4c7cdd7",
+      "widgetType": "image.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4c7cdd7",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-image"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [
+        {
+          "src": "https://www.jaxicloud.com/wp-content/uploads/2025/11/70a4f5_db09000844c74c13b21b471d639768b4mv2.jpg",
+          "alt": "",
+          "width": 322,
+          "height": 215
+        }
+      ],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "right",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4f78a58",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-5",
+      "order": 4,
+      "sectionIndex": 2,
+      "elementorId": "27970c3",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-27970c3",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Hoe werkt geolocatie van bouwgereedschappen?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a6b668",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-6",
+      "order": 5,
+      "sectionIndex": 2,
+      "elementorId": "2303d2e",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-2303d2e",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p>Voor de geolokalisatie van bouwplaatsgereedschappen kunnen verschillende technologieën worden gebruikt. De keuze voor de ene of de andere technologie hangt af van verschillende criteria, zoals het gewenste type infrastructuur, het aantal en de omvang van de te geolokaliseren apparatuur, de omgeving waarin de oplossing wordt geïnstalleerd, de kosten van de infrastructuur en ten slotte de vereiste nauwkeurigheid. Voor de geolokalisatie van bouwplaatsgereedschappen biedt Jaxicloud Innovation locatiebeacons aan op basis van drie verschillende technologieën: Bluetooth Low Energy, Wirepas Mesh en Quuppa AOA.</p><p>De te geolokaliseren apparatuur wordt uitgerust met BLE-beacons die periodiek een identificatienummer uitzenden. Deze nummers worden opgepikt door BLE-ontvangers in de buurt (bijv. smartphones, pc’s, gps-ontvangers of zelfs gateways). De informatie wordt vervolgens via de cloud of via Ethernet-netwerken naar clientservers verzonden. De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.</p><p>De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.</p>",
+      "bodyText": "Voor de geolokalisatie van bouwplaatsgereedschappen kunnen verschillende technologieën worden gebruikt. De keuze voor de ene of de andere technologie hangt af van verschillende criteria, zoals het gewenste type infrastructuur, het aantal en de omvang van de te geolokaliseren apparatuur, de omgeving waarin de oplossing wordt geïnstalleerd, de kosten van de infrastructuur en ten slotte de vereiste nauwkeurigheid. Voor de geolokalisatie van bouwplaatsgereedschappen biedt Jaxicloud Innovation locatiebeacons aan op basis van drie verschillende technologieën: Bluetooth Low Energy, Wirepas Mesh en Quuppa AOA.De te geolokaliseren apparatuur wordt uitgerust met BLE-beacons die periodiek een identificatienummer uitzenden. Deze nummers worden opgepikt door BLE-ontvangers in de buurt (bijv. smartphones, pc’s, gps-ontvangers of zelfs gateways). De informatie wordt vervolgens via de cloud of via Ethernet-netwerken naar clientservers verzonden. De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.De eindgebruiker kan de gegevens realtime raadplegen op een bedrijfsplatform en indien nodig meldingen instellen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-4a6b668",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-7",
+      "order": 6,
+      "sectionIndex": 3,
+      "elementorId": "7f8abc1",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7f8abc1",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Waarom zou u tags integreren in de geolocatieoplossing van uw tool?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a352178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-8",
+      "order": 7,
+      "sectionIndex": 3,
+      "elementorId": "f0d30cb",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-f0d30cb",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Jaxicloud Innovation-locatietags zijn ideaal om te voldoen aan de behoefte aan geolocatie van gereedschappen, en wel om vele redenen:</p>",
+      "bodyText": "Jaxicloud Innovation-locatietags zijn ideaal om te voldoen aan de behoefte aan geolocatie van gereedschappen, en wel om vele redenen:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-a352178",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-9",
+      "order": 8,
+      "sectionIndex": 4,
+      "elementorId": "87c7050",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-87c7050",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "100% onafhankelijk",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Hun batterijwerking garandeert een lange autonomie, die afhankelijk van het model wel 20 jaar kan bedragen.</p>",
+      "bodyText": "Hun batterijwerking garandeert een lange autonomie, die afhankelijk van het model wel 20 jaar kan bedragen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-18a38ee",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-10",
+      "order": 9,
+      "sectionIndex": 4,
+      "elementorId": "5c3f71c",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5c3f71c",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Robuust en compact",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De industriële behuizing van deze bakens is ontworpen voor gebruik onder extreme omstandigheden. Ze is bestand tegen schokken en trillingen.</p>",
+      "bodyText": "De industriële behuizing van deze bakens is ontworpen voor gebruik onder extreme omstandigheden. Ze is bestand tegen schokken en trillingen.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-18a38ee",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-11",
+      "order": 10,
+      "sectionIndex": 4,
+      "elementorId": "7a3acfa",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-7a3acfa",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Snelle en eenvoudige installatie",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging) zijn deze bakens zeer eenvoudig te installeren. Ze kunnen op elk type oppervlak worden bevestigd en vereisen geen bedrading.</p>",
+      "bodyText": "Dankzij de verschillende bevestigingsmethoden (dubbelzijdige sticker met hoge prestaties of schroefbevestiging) zijn deze bakens zeer eenvoudig te installeren. Ze kunnen op elk type oppervlak worden bevestigd en vereisen geen bedrading.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-18a38ee",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-12",
+      "order": 11,
+      "sectionIndex": 4,
+      "elementorId": "af3e916",
+      "widgetType": "eael-info-box.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-af3e916",
+        "eael-infobox-content-align--center",
+        "elementor-widget",
+        "elementor-widget-eael-info-box"
+      ],
+      "heading": "Hoge positioneringsnauwkeurigheid",
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">De gebruikte locatietechnologieën bieden een nauwkeurigheid van 10 m tot minder dan 1 m. Perfect voor het lokaliseren van grote bouwmachines en klein handgereedschap.</p>",
+      "bodyText": "De gebruikte locatietechnologieën bieden een nauwkeurigheid van 10 m tot minder dan 1 m. Perfect voor het lokaliseren van grote bouwmachines en klein handgereedschap.",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 2,
+        "columnIndex": 1,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-18a38ee",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-13",
+      "order": 12,
+      "sectionIndex": 5,
+      "elementorId": "4ca7c43",
+      "widgetType": "heading.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-4ca7c43",
+        "elementor-widget__width-initial",
+        "elementor-widget-tablet__width-inherit",
+        "elementor-invisible",
+        "elementor-widget",
+        "elementor-widget-heading"
+      ],
+      "heading": "Welke Jaxicloud Innovation-locatietags moet ik gebruiken?",
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f0fb29e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-14",
+      "order": 13,
+      "sectionIndex": 5,
+      "elementorId": "5be8656",
+      "widgetType": "text-editor.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-5be8656",
+        "elementor-widget",
+        "elementor-widget-text-editor"
+      ],
+      "heading": null,
+      "bodyHtml": "<p class=\"font_7 wixui-rich-text__text\">Bent u leverancier van IoT-oplossingen en wilt u de geolocatie van bouwplaatsgereedschappen integreren in uw aanbod? Dan raden wij u de volgende Jaxicloud Innovation-producten aan:</p>",
+      "bodyText": "Bent u leverancier van IoT-oplossingen en wilt u de geolocatie van bouwplaatsgereedschappen integreren in uw aanbod? Dan raden wij u de volgende Jaxicloud Innovation-producten aan:",
+      "images": [],
+      "videos": [],
+      "links": [],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-section",
+          "elementor-top-section",
+          "elementor-element",
+          "elementor-element-f0fb29e",
+          "elementor-section-content-middle",
+          "elementor-section-boxed",
+          "elementor-section-height-default",
+          "elementor-section-height-default"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    },
+    {
+      "id": "block-15",
+      "order": 14,
+      "sectionIndex": 6,
+      "elementorId": "1ab1452",
+      "widgetType": "eael-creative-button.default",
+      "classes": [
+        "elementor-element",
+        "elementor-element-1ab1452",
+        "elementor-widget",
+        "elementor-widget-eael-creative-button"
+      ],
+      "heading": null,
+      "bodyHtml": null,
+      "bodyText": null,
+      "images": [],
+      "videos": [],
+      "links": [
+        {
+          "label": "Zie meer",
+          "href": "/nl/constractor-hl/"
+        }
+      ],
+      "listItems": [],
+      "statValue": null,
+      "layout": {
+        "columnCount": 1,
+        "columnIndex": 0,
+        "imagePosition": "none",
+        "sectionClasses": [
+          "elementor-element",
+          "elementor-element-81e918e",
+          "e-flex",
+          "e-con-boxed",
+          "e-con"
+        ],
+        "isFullWidth": false,
+        "reverseMobile": false
+      }
+    }
+  ],
+  "meta": {
+    "widgetCount": 15,
+    "sectionCount": 7,
+    "htmlBytes": 20184
+  }
+}
